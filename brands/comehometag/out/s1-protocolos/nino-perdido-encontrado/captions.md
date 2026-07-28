@@ -1,12 +1,12 @@
-# Encontraste a un niño perdido.
+# ¿Encontraste a un niño perdido? No lo muevas.
 
-`comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s1-protocolos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Si encuentras a un niño perdido, esto es lo que se hace (y lo que NO) 💜
+Si encuentras a un niño perdido, esto es lo que se hace 💜 busca su pulsera ComeHomeTag y llama.
 #seguridadinfantil #comunidad #protocolo
 ```
 
@@ -14,9 +14,9 @@ Si encuentras a un niño perdido, esto es lo que se hace (y lo que NO) 💜
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Si encuentras a un niño perdido, NO lo lleves a caminar buscando a su mamá — su familia está volviendo sobre sus pasos y si ustedes también caminan, se cruzan sin verse.
+Si encuentras a un niño perdido, NO camines con él buscando a su mamá: su familia está regresando sobre sus pasos.
 
-La guía del "adulto seguro": altura, un metro, presentación simple, quedarse, buscar identificación y llamar a seguridad desde ahí.
+Agáchate, preséntate, quédense ahí y busca su pulsera — si lleva una ComeHomeTag, escaneas el QR con tu celular y llamas a su familia al instante. Comparte para que más adultos lo sepan.
 
 #seguridadinfantil #comunidad #peru #protocolo
 ```
@@ -24,12 +24,12 @@ La guía del "adulto seguro": altura, un metro, presentación simple, quedarse, 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Guía para adultos que encuentran a un niño perdido: acercarse sin asustar, quedarse en el lugar y avisar a seguridad.
+Guía para quien encuentra a un niño perdido: quedarse en el lugar, buscar su pulsera ComeHomeTag y llamar.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El otro lado del que nadie habla: ¿qué haces si TÚ encuentras a un niño perdido? La regla que sorprende a todos: NO lo lleves a buscar a su mamá — quédense donde están, porque su familia está volviendo sobre sus pasos. Comparte para que más adultos lo sepan.
+El otro lado del que nadie habla: ¿qué haces si TÚ encuentras a un niño perdido? No lo lleves a buscar a su mamá — quédense donde están y busca su pulsera. Si lleva una ComeHomeTag, escaneas el QR y llamas a su familia al instante. Comparte esta guía. comehometag.com
 ```

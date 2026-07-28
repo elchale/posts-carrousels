@@ -1,22 +1,22 @@
-# El Excel donde mueren los leads
+# Pagas publicidad y nadie llama a los interesados.
 
-`qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`qolca` · `s1-antes-despues` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El 70% de sus leads moría en un Excel. Así lo arreglaron 🏠
-#inmobiliaria #ventas #leads
+El 70% de sus interesados moría en un Excel. Así lo arreglaron 🏠
+#inmobiliaria #ventas #automatizacion
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Caso inmobiliaria: 300 leads/mes cayendo a un Excel donde el 70% nunca era contactado — y un lead que espera 24 horas ya visitó el proyecto de enfrente.
+Tu publicidad trae interesados y tu Excel los deja morir — Qolca construyó el sistema que lo arregla: respuesta al minuto con brochure y agenda, y seguimiento automático los días 1, 3, 7 y 14.
 
-Con respuesta al minuto + seguimiento automático (día 1, 3, 7, 14): 3x más visitas agendadas, mismo presupuesto de ads. El balde dejó de gotear.
+Resultado: el triple de visitas agendadas con el mismo presupuesto de anuncios. qolca.org
 
 #inmobiliaria #ventas #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Caso inmobiliario: leads sin contactar versus respuesta al minuto y seguimiento 
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Verdad del sector inmobiliario: un lead que espera 24 horas ya visitó el proyecto de enfrente. Este caso triplicó visitas agendadas SIN gastar un sol más en publicidad — solo respondiendo al minuto y persiguiendo automático. ¿Cuántos leads sin contactar hay en tu Excel ahora mismo?
+Verdad del sector inmobiliario: un interesado que espera 24 horas ya visitó el proyecto de enfrente. Este sistema de Qolca triplicó las visitas agendadas SIN gastar un sol más en publicidad — respondiendo al minuto y persiguiendo automático. ¿Cuántos interesados sin contactar hay en tu Excel ahora mismo? qolca.org
 ```
 
 ## 💼 LinkedIn

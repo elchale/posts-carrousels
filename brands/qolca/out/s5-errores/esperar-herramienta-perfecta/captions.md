@@ -1,12 +1,12 @@
-# ¿Cuántos meses llevas "evaluando opciones"?
+# Llevas 8 meses "evaluando opciones". Eso cuesta.
 
-`qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s5-errores` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-8 meses comparando CRMs. Tus leads siguen muriendo en Excel 💀
+8 meses comparando opciones. El problema sigue cobrando 💀
 #decisiones #software #negocios
 ```
 
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Llevas 8 meses "evaluando opciones" — y tus leads siguen muriendo en el Excel que ibas a reemplazar.
+Llevas 8 meses "evaluando opciones" — y el problema sigue cobrando S/2-6K al mes.
 
-La verdad: entre las 3 finalistas de cualquier comparación, la diferencia real es 15%; la ejecución es el otro 85%. Método: 2 semanas de prueba real con TU caso > 8 meses de comparativas. Costo de la parálisis: S/16-48K.
+La verdad: entre las 3 finalistas de cualquier comparación, la diferencia real es 15%; la ejecución es el otro 85%. El método de Qolca: 2 semanas de prueba real con TU caso > 8 meses de comparativas. qolca.org
 
 #1 #decisiones #software #pymes #peru
 ```
@@ -31,7 +31,7 @@ El costo de la parálisis por análisis y el método de prueba de dos semanas.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La parálisis por análisis también factura: 8 meses evaluando × S/2-6K/mes de problema sin resolver = S/16-48K. Y entre las 3 finalistas de cualquier comparativa seria, la diferencia es 15% — la ejecución es el resto. ¿Cuánto llevan "evaluando opciones"? Confiesen 😅
+La parálisis por análisis también factura: 8 meses evaluando × S/2-6K/mes de problema sin resolver = S/16-48K. Y entre las 3 finalistas de cualquier comparativa seria, la diferencia es 15% — la ejecución es el resto. Qolca te ayuda a decidir en 2 semanas con datos reales. ¿Cuánto llevan "evaluando opciones"? qolca.org
 ```
 
 ## 💼 LinkedIn

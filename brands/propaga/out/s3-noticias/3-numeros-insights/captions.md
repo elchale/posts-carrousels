@@ -1,6 +1,6 @@
-# 40 números. Solo 3 importan.
+# Los 3 números que debes revisar
 
-`propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s3-noticias` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Los únicos 3 números de tus estadísticas que importan 📊
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Las estadísticas de Instagram tienen 40 números y te confunden 37.
+Los 3 números que debes revisar en tus estadísticas de Instagram (y los 37 que puedes ignorar): compartidos (¿llego a gente nueva?), guardados (¿soy útil o solo bonito?) y visitas→clics (si hay visitas sin clics, arregla tu bio).
 
-Los únicos 3 que pagan recibos: ENVÍOS (¿llego a gente nueva?), GUARDADOS (¿doy valor real o solo soy bonito?) y VISITAS→CLICS (si hay visitas sin clics, arregla tu BIO, no tu contenido). Rutina de 5 minutos cada primer lunes.
+Con eso decides tu mes — y lo programas gratis con Propaga (propaga.pe).
 
 #estadisticas #instagram #negocios #peru
 ```
@@ -31,5 +31,5 @@ Los tres números esenciales de las estadísticas de Instagram para negocios.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Análisis para gente ocupada: de los 40 números de las estadísticas, solo 3 pagan recibos — envíos (audiencia nueva), guardados (valor real) y visitas→clics (si hay visitas sin clics, el problema es tu BIO). Los likes son vanidad. ¿Cuál de los 3 tienen más flojo?
+Análisis para gente ocupada: de los 40 números de las estadísticas, solo 3 pagan recibos — compartidos (audiencia nueva), guardados (valor real) y visitas→clics (si hay visitas sin clics, el problema es tu BIO). Los likes son vanidad. Decide con esos 3 y programa el mes gratis con Propaga (propaga.pe). ¿Cuál tienen más flojo?
 ```

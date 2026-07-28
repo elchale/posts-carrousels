@@ -1,12 +1,12 @@
-# 51 desapariciones al día.
+# En el Perú desaparecen 51 personas al día.
 
-`comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s3-datos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El mito de las 24 horas que sigue costando tiempo valioso en Perú 💜
+51 desapariciones al día en el Perú — y el mito de las 24 horas es FALSO 💜 pulsera ComeHomeTag para el momento clave.
 #peru #prevencion #sabiasque
 ```
 
@@ -14,9 +14,9 @@ El mito de las 24 horas que sigue costando tiempo valioso en Perú 💜
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-51 personas desaparecen cada día en el Perú (Sidpol, enero-julio 2025) — y el mito de "esperar 24 horas para denunciar" sigue costando horas que no se recuperan: en el Perú la denuncia es INMEDIATA, a cualquier hora, en cualquier comisaría.
+En el Perú se denuncian 51 desapariciones al día (Sidpol 2025) — y para el momento en que alguien encuentra a una persona perdida existe la pulsera QR de ComeHomeTag: la escanea con su celular y llama a la familia al instante.
 
-Guarda y comparte con tu grupo familiar.
+Ojo con el mito: NO hay que esperar 24 horas para denunciar; es inmediato, en cualquier comisaría. Guarda y comparte con tu grupo familiar.
 
 #desaparecidos #peru #seguridadfamiliar #prevencion
 ```
@@ -24,12 +24,12 @@ Guarda y comparte con tu grupo familiar.
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Infografía: 51 desapariciones diarias en el Perú, el mito de las 24 horas y las tres defensas familiares.
+Infografía: 51 desapariciones diarias en el Perú, el mito de las 24 horas y la pulsera QR de ComeHomeTag.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-¿Sabías que en el Perú NO hay que esperar 24 horas para denunciar una desaparición? Es un mito de películas — la denuncia se recibe de inmediato en cualquier comisaría. 51 personas desaparecen cada día (Sidpol 2025). Comparte para derribar el mito: sigue costando horas valiosas.
+¿Sabías que en el Perú NO hay que esperar 24 horas para denunciar una desaparición? Es inmediato, en cualquier comisaría. 51 personas desaparecen al día (Sidpol 2025) — y la mayoría vuelve rápido cuando quien la encuentra puede llamar a la familia. Para eso existe la pulsera con QR de ComeHomeTag. comehometag.com
 ```

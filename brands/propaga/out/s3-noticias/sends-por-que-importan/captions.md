@@ -1,6 +1,6 @@
-# La métrica #1: el avioncito.
+# Haz posts que la gente comparta
 
-`propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s3-noticias` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,11 +14,11 @@ La métrica de Instagram no es la que crees ✈️
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-La métrica de Instagram es el avioncito — sí, el avioncito: el propio jefe de Instagram confirmó que los ENVÍOS son la señal que más pesa para llegar a gente nueva.
+Haz posts que la gente comparta: es la señal que más te hace crecer en Instagram — un like no cuesta nada, mandarle un post a un amigo es una recomendación personal.
 
-La lógica es humana: un like no cuesta nada, mandarle un post a un amigo es una recomendación personal. Y el pedido explícito ("envíaselo a...") duplica los envíos.
+La gente comparte lo que sirve, lo que la representa y lo que la hace quedar bien. Y pedirlo lo duplica. Planifica ese contenido gratis con Propaga (propaga.pe).
 
-#1 #metricas #instagram #marketingdigital #peru
+#metricas #instagram #marketingdigital #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
@@ -31,5 +31,5 @@ Los envíos como señal principal de Instagram: psicología, diseño de posts en
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Confirmado por Adam Mosseri: los ENVÍOS son la señal que más pesa para que Instagram te muestre a gente nueva — porque un like no cuesta nada, pero mandarle un post a un amigo es una recomendación personal. Tarea: revisen el avioncito de sus últimos 10 posts. Lo que su audiencia envía es su mapa. ¿Cuál fue su post más enviado?
+Confirmado por el jefe de Instagram: los compartidos son la señal que más pesa para mostrarte a gente nueva — porque un like no cuesta nada, pero mandarle un post a un amigo es una recomendación personal. Tarea: revisen el avioncito de sus últimos 10 posts — eso es su mapa de contenido. Planifíquenlo gratis con Propaga (propaga.pe). ¿Cuál fue su post más compartido?
 ```

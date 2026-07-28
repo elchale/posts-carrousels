@@ -1,12 +1,12 @@
-# Los sustos viven en el "casi".
+# "Nunca está sola" en verdad es "casi nunca".
 
-`comehometag` · `s5-mitos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s5-mitos` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-"Nunca está sola" = "casi nunca". Y ahí viven los sustos 💜
+"Nunca está sola" = "casi nunca". Y ahí viven los sustos 💜 ComeHomeTag cubre el casi.
 #alzheimer #cuidadores #familia
 ```
 
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"Mi mamá nunca está sola" significa "CASI nunca está sola" — y los sustos viven en ese casi: la siesta del cuidador, el baño, la cocina, el cambio de turno.
+"Mi mamá nunca está sola" significa "CASI nunca" — y los sustos viven en ese casi: la siesta, el baño, el cambio de turno.
 
-6 de cada 10 personas con demencia se extravían incluso con cuidado profesional 24/7. La identificación no critica tu cuidado: cubre el 1% que ningún humano puede vigilar.
+6 de cada 10 personas con demencia se pierden alguna vez, incluso con cuidado profesional. La pulsera con QR de ComeHomeTag cubre ese ratito imposible de vigilar: quien la encuentra escanea y llama a la familia al instante. No critica tu cuidado — lo completa.
 
 #alzheimer #cuidadores #adultomayor #peru
 ```
@@ -24,12 +24,12 @@ Fotos de `ig/` (4:5) · copia el caption:
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-El mito de la compañía permanente: momentos sin observación y la capa pasiva que los cubre.
+El mito de la compañía permanente y la pulsera ComeHomeTag que cubre los momentos sin vigilancia.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Inventario honesto para familias cuidadoras: la siesta, el baño, la cocina, el cambio de turno entre hermanos. Suma esas horas de la semana — ese es el "casi" de "casi nunca está sola". No es reproche: es el 1% que nadie puede vigilar… y que sí se puede cubrir.
+Inventario honesto para familias cuidadoras: la siesta, el baño, la cocina, el cambio de turno. Ese es el "casi" de "casi nunca está sola" — y 6 de cada 10 personas con demencia se pierden alguna vez, incluso con cuidado profesional. La pulsera con QR de ComeHomeTag cubre exactamente esos momentos: quien la encuentre llama a la familia al instante. comehometag.com
 ```

@@ -1,6 +1,6 @@
-# "Publica martes 7pm." ¿Según QUIÉN?
+# ¿A qué hora publicar? La respuesta real
 
-`propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s3-noticias` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"Publica martes a las 7pm" — ¿según QUIÉN?
+¿A qué hora publicar?
 
-Esas listas son promedios de millones de cuentas que no son la tuya. La verdad: la hora importa menos cada año (el feed no es cronológico), pero la primera hora sí cuenta. El método de 4 semanas para encontrar TU hora con tus propias estadísticas, adentro.
+La respuesta real: la hora mágica universal no existe — esas listas son promedios de cuentas que no son la tuya. Lo que sí: la primera hora cuenta, y TU mejor hora se encuentra con el método de 4 semanas. Después la eliges una vez y programas todo gratis con Propaga (propaga.pe).
 
 #horadepublicar #instagram #mitos #peru
 ```
@@ -31,5 +31,5 @@ El mito de la hora mágica y el método de cuatro semanas para encontrar el hora
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La pregunta más repetida del marketing digital: ¿a qué hora publico? La respuesta del gurú: "martes 7pm". La verdad: esa lista es un promedio de millones de cuentas que no son la tuya. El método real de 4 semanas con tus propias estadísticas, en el post. Y la verdad de fondo: el buen contenido sobrevive a la hora mala; el malo no se salva ni con la perfecta.
+La pregunta más repetida del marketing digital: ¿a qué hora publico? La verdad: las listas de "horas mágicas" son promedios de millones de cuentas que no son la tuya. El método real de 4 semanas con tus propias estadísticas, en el post — y cuando encuentres tu hora, la dejas fija programando gratis con Propaga (propaga.pe). El buen contenido sobrevive a la hora mala; el malo no se salva ni con la perfecta.
 ```

@@ -1,12 +1,12 @@
-# Tu celular muere primero.
+# En el concierto tu celular muere. Ten plan.
 
-`comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s2-lugares` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Los 3 acuerdos antes de entrar a cualquier concierto 🎤💜
+Los 3 acuerdos antes de entrar a cualquier concierto 🎤💜 y la pulsera ComeHomeTag sin batería.
 #conciertos #eventos #adolescentes
 ```
 
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Plan para conciertos y eventos masivos: tu celular muere antes que la música, así que el plan no puede vivir en la batería.
 
-Los 3 acuerdos: punto fijo CON hora, zona base que no se mueve, y el número de un adulto EN PAPEL. Con adolescentes: el mensaje ancla (un emoji cada hora, sin interrogatorio).
+Los 3 acuerdos: punto fijo CON hora, el número de un adulto en papel y el mensaje ancla con adolescentes (un emoji cada hora). La pulsera QR de ComeHomeTag tampoco usa batería: quien la escanea llama a la familia al instante.
 
 #conciertos #eventos #adolescentes #peru
 ```
@@ -24,12 +24,12 @@ Los 3 acuerdos: punto fijo CON hora, zona base que no se mueve, y el número de 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Plan para conciertos: punto fijo con hora, zona base, número en papel, mensaje ancla y protocolo con el staff.
+Plan para conciertos: punto fijo con hora, número en papel, mensaje ancla y pulsera ComeHomeTag sin batería.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para padres de adolescentes que van a conciertos: el truco del "mensaje ancla" — un emoji cada hora en punto, sin interrogatorio. Es señal de vida, no control… y por eso SÍ lo mandan. Los otros dos acuerdos (punto fijo con hora y número en papel) en el post. ¿Funciona en tu casa?
+Para familias que van a conciertos: el plan no puede vivir en la batería del celular — muere antes que la música. Punto fijo con hora, número en papel y el "mensaje ancla" con adolescentes (un emoji cada hora, sin interrogatorio). La pulsera QR de ComeHomeTag tampoco necesita batería. comehometag.com
 ```

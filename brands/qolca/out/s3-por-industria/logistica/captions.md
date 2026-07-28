@@ -1,6 +1,6 @@
-# "¿Dónde está mi pedido?" = 3 llamadas
+# "¿Dónde está mi pedido?" te cuesta 3 llamadas.
 
-`qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"¿Dónde está mi pedido?" no debería costar 3 llamadas internas.
+"¿Dónde está mi pedido?" no debería costar 3 llamadas internas — Qolca automatiza el papeleo que frena operaciones logísticas: rutas armadas en segundos, avisos automáticos al cliente, comprobante digital de entrega y liquidaciones que se arman solas en ruta.
 
-Los 5 procesos que frenan operaciones logísticas: rutas de memoria a las 6am, estados al cliente, guías de papel que se pierden, la hora diaria de liquidación por conductor y el reporte que nunca se arma. Con 10 conductores: 200 horas/mes recuperables.
+Con 10 conductores: 200 horas/mes recuperables. qolca.org
 
 #logistica #operaciones #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Cinco procesos manuales de logística: rutas, estados, comprobantes, liquidacion
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Test logístico: cuando un cliente pregunta "¿dónde está mi pedido?", ¿cuántas llamadas internas cuesta responderle? Si no es "cero — le llega solo el estado", hay 200 horas mensuales escondidas en tu operación (con 10 conductores). La logística se gana en los márgenes.
+Test logístico: cuando un cliente pregunta "¿dónde está mi pedido?", ¿cuántas llamadas internas cuesta responderle? Si no es "cero — le llega solo el estado", hay 200 horas mensuales escondidas en tu operación (con 10 conductores). Qolca construye esos sistemas: rutas, avisos, comprobantes y liquidaciones automáticas. qolca.org
 ```
 
 ## 💼 LinkedIn

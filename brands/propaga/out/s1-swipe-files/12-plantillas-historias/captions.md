@@ -1,12 +1,12 @@
-# ¿9 historias del mismo producto?
+# 12 ideas de historias para tu negocio
 
-`propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s1-swipe-files` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Deja de subir 9 historias del mismo producto 😭 12 plantillas mejores
+Deja de subir 9 historias del mismo producto 😭 12 ideas mejores
 #stories #instagram #tips
 ```
 
@@ -14,9 +14,9 @@ Deja de subir 9 historias del mismo producto 😭 12 plantillas mejores
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Deja de subir 9 historias del mismo producto: el feed ATRAE, las historias CONVENCEN — son el canal de confianza.
+12 ideas de historias para tu negocio, para vender más sin subir 9 fotos del mismo producto: 6 para vender y dar confianza, 6 para conversar y ser humano — más la semana armada día por día.
 
-12 plantillas: 3 de producto (máximo 1 de cada 4 historias), 3 de confianza, 3 de conversación y 3 de humanidad — más la semana armada día por día. Regla sagrada: cierra siempre el ciclo de las encuestas.
+Planifícala gratis con Propaga (propaga.pe).
 
 #historias #instagram #negocios #peru
 ```
@@ -31,5 +31,5 @@ Doce plantillas de historias para negocios más una secuencia semanal.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Las historias son el canal de CONFIANZA: el feed atrae extraños, las historias los convencen. Pero la mayoría de negocios las quema con 9 fotos del mismo producto. 12 plantillas + semana armada. La (el error del día contado con humor) humaniza más que 10 logos. ¿Cuál usan más?
+Las historias son el canal de CONFIANZA: el feed atrae extraños, las historias los convencen. Pero la mayoría de negocios las quema con 9 fotos del mismo producto. 12 ideas + la semana armada — el error del día contado con humor humaniza más que 10 logos. Planifica tu semana gratis con Propaga (propaga.pe). ¿Cuál usan más?
 ```

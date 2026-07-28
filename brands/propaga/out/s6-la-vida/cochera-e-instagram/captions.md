@@ -1,6 +1,6 @@
 # Empezó en una cochera.
 
-`propaga` · `s6-la-vida` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s6-la-vida` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ De la cochera al local: la historia de miles 🧡
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Empezó en una cochera con una cuenta de Instagram: fotos con el celular apoyado en una taza, pedidos por DM, delivery en el carro del hermano.
+Empezó en una cochera con una cuenta de Instagram: fotos con el celular apoyado en una taza, pedidos por DM.
 
-Cuando volteó el cartel de ABIERTO por primera vez, la cuenta tenía 4 años de historia publicada — el local no fue el comienzo: fue el RESULTADO de publicar cuando nadie miraba.
+Cuando volteó el cartel de ABIERTO, la cuenta tenía 4 años de historia publicada — el local fue el RESULTADO de publicar cuando nadie miraba. Publicar constante es más fácil con un plan: Propaga (propaga.pe), gratis.
 
 #emprendedores #historia #motivacion #negocios #peru
 ```
@@ -31,5 +31,5 @@ Historia del negocio que pasó de la cochera al local físico gracias a cuatro a
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La historia que se repite en miles de negocios peruanos: cochera, celular apoyado en una taza, pedidos por DM… y 4 años después, el cartel de ABIERTO. El detalle que casi nadie nota: el local fue la CONSECUENCIA de la cuenta, no al revés. ¿Quién de tu círculo está en su año 1 de cochera? Etiquétalo para que vea cómo se ve el año 4.
+La historia que se repite en miles de negocios peruanos: cochera, celular apoyado en una taza, pedidos por DM… y 4 años después, el cartel de ABIERTO. El detalle que casi nadie nota: el local fue la CONSECUENCIA de la cuenta, no al revés. Publicar constante es más fácil con un plan — Propaga (propaga.pe), gratis. ¿Quién de tu círculo está en su año 1? Etiquétalo.
 ```

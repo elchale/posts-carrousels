@@ -1,12 +1,12 @@
-# Diciembre: récord de niños perdidos.
+# Diciembre en el centro: récord de niños perdidos.
 
-`comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s2-lugares` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El truco de la ropa brillante para diciembre en el centro 🎄💜
+El truco de la ropa brillante para diciembre en el centro 🎄💜 y la pulsera ComeHomeTag puesta.
 #navidad #lima #compras
 ```
 
@@ -14,9 +14,9 @@ El truco de la ropa brillante para diciembre en el centro 🎄💜
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Compras navideñas en el centro con niños: la guía honesta empieza con "si puedes, no los lleves".
+Compras navideñas en el centro con niños: diciembre es récord de niños perdidos, y la guía honesta empieza con "si puedes, no los lleves".
 
-Y si no hay opción: antes de las 10am (mitad de gente), ropa BRILLANTE (encontrar un color es 10 veces más rápido que encontrar una cara), niño anclado a tu correa y punto de encuentro por galería.
+Si no hay opción: antes de las 10 am, ropa BRILLANTE (un color se encuentra 10 veces más rápido que una cara), niño anclado a tu correa y punto por galería. Su pulsera QR de ComeHomeTag remata el plan: quien lo encuentre te llama al instante.
 
 #navidad #mesaredonda #compras #peru
 ```
@@ -24,12 +24,12 @@ Y si no hay opción: antes de las 10am (mitad de gente), ropa BRILLANTE (encontr
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Guía para compras navideñas en el centro con niños: horario temprano, ropa brillante, anclaje y puntos por galería.
+Guía de compras navideñas en el centro: horario temprano, ropa brillante, niño anclado y pulsera ComeHomeTag.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Consejo honesto para diciembre: Mesa Redonda con niños pequeños, mejor no. Y si no queda opción, el truco que más funciona es el más simple: ropa BRILLANTE — encontrar un polo naranja en un mar de gente es 10 veces más rápido que encontrar una cara. Guarda la guía completa.
+Consejo honesto para diciembre: Mesa Redonda con niños pequeños, mejor no. Y si no queda opción: antes de las 10 am, ropa BRILLANTE, niño anclado a tu correa y punto de encuentro por galería. Su pulsera con QR de ComeHomeTag hace que cualquiera pueda llamarte al instante. comehometag.com
 ```

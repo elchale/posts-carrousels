@@ -5,192 +5,182 @@
     {
       "slug": "playa",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Las olas se lo llevan de lado.", "b": "El dato de playa que nadie conoce" },
-        { "role": "story", "plate": "cine-02-zapatos", "h": "En la playa, todos los niños se ven iguales desde atrás.", "b": "Gorro, ropa de baño, arena. La descripción de ropa aquí casi no sirve." },
-        { "role": "value", "n": "1", "h": "Caminan EN DIAGONAL siguiendo las olas", "b": "200 metros de lado sin notarlo. Nunca se alejan \"hacia atrás\": las olas los van corriendo por la orilla." },
-        { "role": "value", "n": "2", "h": "Todas las sombrillas son iguales para él", "b": "Elige una referencia FIJA: \"la nuestra está frente al letrero azul\". La sombrilla sola no es dirección." },
-        { "role": "value", "n": "3", "h": "De 11 a 2, el riesgo se duplica", "b": "El doble de gente y el ruido tapa los nombres gritados. Refuerza la vigilancia justo cuando más relajado estás." },
-        { "role": "value", "n": "4", "h": "El plan de llegada de 60 segundos", "b": "Referencia de la sombrilla + \"si no me ves, te paras en la orilla y NO caminas\" + identificación puesta que aguante el mar." },
-        { "role": "value", "n": "5", "h": "Si pasa: PRIMERO el agua", "b": "Protocolo de guardavidas: descartar el agua antes que la arena. Y avisar al torreón antes de buscar solo — ellos ven desde arriba." },
-        { "role": "cta", "h": "Guárdalo para el verano.", "b": "Y envíaselo a la familia con la que van a la playa. El dato de la diagonal no lo conoce nadie." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En la playa, los niños se pierden distinto.", "b": "El dato de las olas que nadie conoce." },
+        { "role": "rehook", "h": "En la arena todos los niños se ven iguales.", "b": "Y las olas los van corriendo de lado sin que lo noten. Esto es lo que hay que saber." },
+        { "role": "value", "n": "1", "h": "Las olas lo llevan de lado", "b": "Tu hijo juega mirando el mar y las olas lo van moviendo por la orilla. Puede terminar a 200 metros sin darse cuenta." },
+        { "role": "value", "n": "2", "h": "Dale una señal fija", "b": "\"Nuestra sombrilla está frente al letrero azul.\" Y la regla: \"si no me ves, párate en la orilla y NO camines\"." },
+        { "role": "value", "n": "3", "h": "Si pasa: primero el agua, luego el salvavidas", "b": "Descarta el agua antes que la arena. Y avisa al torreón antes de buscar solo: ellos ven toda la playa desde arriba." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Va puesta y aguanta el mar y la arena. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Guárdalo para el verano.", "b": "Y ponle su pulsera antes de la playa: comehometag.com." }
       ],
       "caption": {
-        "ig": "Seguridad con niños en la playa: el dato que ningún papá conoce — los niños NO se alejan hacia atrás, las olas los van corriendo EN DIAGONAL por la orilla (200 metros sin notarlo). El plan de llegada de 60 segundos y el protocolo de guardavidas: primero el agua, después la arena. #playa #seguridadinfantil #verano #peru",
-        "tt": "En la playa los niños no se pierden caminando: las olas se los llevan de lado 🌊💜 #playa #verano #padres",
-        "fb": "Dato de guardavidas que cambia cómo miras la playa: si pierdes de vista a un niño, lo primero es descartar el AGUA — y al buscar en la arena, busca EN DIAGONAL: las olas los van corriendo de lado sin que lo noten. ¿Lo sabías? Guarda esta guía para el verano."
+        "ig": "Seguridad con niños en la playa: las olas los van corriendo DE LADO por la orilla — pueden terminar a 200 metros sin notarlo, y en la arena todos se ven iguales. El plan: señal fija para la sombrilla, la regla \"párate en la orilla y no camines\", y su pulsera QR de ComeHomeTag puesta (aguanta el mar): quien lo encuentre escanea y te llama al instante. #playa #seguridadinfantil #verano #peru",
+        "tt": "En la playa los niños no se pierden caminando: las olas se los llevan de lado 🌊💜 pulsera ComeHomeTag puesta. #playa #verano #padres",
+        "fb": "Dato de playa que pocos papás conocen: los niños no se alejan hacia atrás — las olas los corren EN DIAGONAL por la orilla, sin que lo noten. La regla: \"si no me ves, párate en la orilla y no camines\". Y su pulsera con QR de ComeHomeTag aguanta el mar y deja que cualquiera te llame al instante. comehometag.com"
       },
-      "alt": "Guía de seguridad infantil en la playa: desplazamiento en diagonal, referencias fijas, plan de llegada y protocolo de guardavidas."
+      "alt": "Guía de playa con niños: las olas los desplazan de lado, señal fija, regla de la orilla y pulsera ComeHomeTag."
     },
     {
       "slug": "centro-comercial",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "No es la juguetería.", "b": "El lugar del mall donde más se pierden" },
-        { "role": "story", "plate": "cine-04-mama", "h": "40 segundos.", "b": "El tiempo promedio que tarda un papá en notar que el niño ya no está al lado." },
-        { "role": "value", "n": "1", "h": "El #1 es el patio de comidas", "b": "Máxima gente, máximo ruido, mesas idénticas. Ahí se separan más familias que en todas las tiendas juntas." },
-        { "role": "value", "n": "2", "h": "Las tiendas espejo", "b": "El niño entra a la juguetería mientras tú miras la vitrina de al lado. Dos metros de distancia, dos mundos distintos." },
-        { "role": "value", "n": "3", "h": "Escaleras eléctricas: de la mano, siempre", "b": "Un \"ratito\" arriba convierte el mall en dos pisos de búsqueda. La regla no se negocia en escaleras." },
-        { "role": "value", "n": "4", "h": "El plan de 60 segundos", "b": "Al entrar: punto de encuentro en voz alta + foto del día tomada + \"si no me ves, busca a alguien con uniforme de tienda\"." },
-        { "role": "value", "n": "5", "h": "Si pasa: seguridad ANTES de buscar solo", "b": "El mall tiene cámaras y radios en cada puesto. Tú cubres un pasillo; ellos, el edificio y las salidas." },
-        { "role": "cta", "h": "Guárdalo para la próxima ida al mall.", "b": "Y díselo a tu familia: el punto de encuentro se acuerda ANTES de sentarse a comer." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "¿Dónde se pierden los niños en el mall?", "b": "No es la juguetería. Y hay plan." },
+        { "role": "rehook", "h": "El lugar #1 es el patio de comidas.", "b": "Mucha gente, mucho ruido, mesas iguales. Ahí se separan más familias que en todas las tiendas juntas." },
+        { "role": "value", "n": "1", "h": "Al entrar, digan el punto de encuentro", "b": "\"Si nos separamos, nos vemos en la entrada principal.\" Se dice cruzando la puerta, cuando todos escuchan." },
+        { "role": "value", "n": "2", "h": "Enséñale a quién pedir ayuda", "b": "\"Si no me ves, busca a alguien con uniforme de tienda.\" Y tómale la foto del día antes de salir de casa." },
+        { "role": "value", "n": "3", "h": "Si pasa: avisa a seguridad primero", "b": "El mall tiene cámaras y radios. Tú cubres un pasillo; ellos cubren el edificio y las salidas." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Guárdalo para la próxima ida al mall.", "b": "Y su pulsera puesta: comehometag.com." }
       ],
       "caption": {
-        "ig": "¿Cuál crees que es el lugar del centro comercial donde más niños se pierden? No son las tiendas: es el PATIO DE COMIDAS — máximo ruido, mesas idénticas, todos mirando su plato. El plan de 60 segundos al entrar y el protocolo si pasa. 40 segundos: eso tarda un papá en notar la ausencia. #seguridadinfantil #mall #padres #peru",
-        "tt": "El lugar del mall donde más niños se pierden 😳💜 #mall #padres #seguridadinfantil",
-        "fb": "Quiz para padres: ¿dónde se pierden más niños en un centro comercial? (a) las jugueterías (b) las escaleras (c) el patio de comidas. Respuesta: C, por lejos — máximo ruido, mesas idénticas, todos mirando su plato. ¿Acertaste? El plan completo está en el post."
+        "ig": "¿Dónde se pierden más niños en el centro comercial? No es la juguetería: es el PATIO DE COMIDAS — mucho ruido, mesas iguales, todos mirando su plato. El plan: punto de encuentro dicho al entrar, la regla del uniforme de tienda y su pulsera QR de ComeHomeTag puesta, para que quien lo encuentre te llame al instante. #seguridadinfantil #mall #padres #peru",
+        "tt": "El lugar del mall donde más niños se pierden 😳💜 y la pulsera ComeHomeTag que resuelve el susto. #mall #padres #seguridadinfantil",
+        "fb": "Quiz para padres: ¿dónde se pierden más niños en un mall? (a) jugueterías (b) escaleras (c) patio de comidas. Respuesta: C, por lejos. El plan: punto de encuentro al entrar + avisar a seguridad primero + su pulsera con QR de ComeHomeTag, para que cualquiera te llame al instante. comehometag.com"
       },
-      "alt": "Guía de seguridad en centros comerciales: patio de comidas como zona crítica, tiendas espejo, escaleras y plan de entrada."
+      "alt": "Guía del centro comercial con niños: patio de comidas como zona crítica, punto de encuentro y pulsera ComeHomeTag."
     },
     {
       "slug": "procesion",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "¿Tu punto de encuentro? Avanzó.", "b": "El plan para multitudes que caminan" },
-        { "role": "story", "plate": "cine-06-procesion", "h": "Una procesión es una multitud que CAMINA.", "b": "El lugar donde te separaste ya no existe: avanzó con el anda." },
-        { "role": "value", "n": "1", "h": "El punto de encuentro debe ser FIJO", "b": "\"Junto al anda\" no sirve: el anda avanza. La puerta de la iglesia o la esquina del banco no se mueven." },
-        { "role": "value", "n": "2", "h": "Niños adelante, jamás atrás", "b": "Atrás del grupo nadie los ve. Entre dos adultos, o cargados en los tramos más densos." },
-        { "role": "value", "n": "3", "h": "La salida se acuerda ANTES de entrar", "b": "\"Si se pone muy denso, salimos todos hacia la calle X.\" En multitud apretada no se improvisa." },
-        { "role": "value", "n": "4", "h": "Los abuelos son los que más se desorientan aquí", "b": "Es SU evento del año — y también donde el ruido, la gente y las calles cerradas más confunden. Identificación puesta." },
-        { "role": "value", "n": "5", "h": "Si pasa: busca CONTRA la corriente", "b": "El que se pierde queda ATRÁS del avance. Búscalo hacia donde la procesión ya pasó, no hacia donde va." },
-        { "role": "cta", "h": "Compártelo antes de octubre.", "b": "Toda familia que va al Señor de los Milagros necesita la regla de la corriente." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Es fácil perderse en una procesión. Haz esto.", "b": "El plan para multitudes que caminan." },
+        { "role": "rehook", "h": "Una procesión es una multitud que camina.", "b": "El lugar donde te separaste ya no existe: avanzó. Por eso el plan aquí es distinto." },
+        { "role": "value", "n": "1", "h": "El punto de encuentro debe ser fijo", "b": "\"Junto al anda\" no sirve: el anda avanza. La puerta de la iglesia o la esquina del banco no se mueven." },
+        { "role": "value", "n": "2", "h": "Niños adelante, abuelos identificados", "b": "Los niños van entre dos adultos, nunca atrás. Y los abuelos — los que más se desorientan aquí — con identificación puesta." },
+        { "role": "value", "n": "3", "h": "Si pasa: busca hacia atrás", "b": "El que se pierde queda atrás del avance. Búscalo hacia donde la procesión ya pasó, no hacia donde va." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Compártelo antes de octubre.", "b": "Y las pulseras puestas para el Señor de los Milagros: comehometag.com." }
       ],
       "caption": {
-        "ig": "Plan familiar para procesiones: el punto de encuentro \"junto al anda\" NO existe — el anda avanza y tu punto se movió dos cuadras. Reglas: punto FIJO, niños adelante, salida acordada antes de entrar, y si alguien se pierde se busca CONTRA la corriente (el que se pierde queda atrás del avance). #procesion #señordelosmilagros #familia #peru",
-        "tt": "En una procesión tu punto de encuentro se MUEVE 💜 el plan correcto #procesion #familia #peru",
-        "fb": "Las procesiones son el evento del año de nuestros abuelos — y el lugar donde más adultos mayores se desorientan. La regla que casi nadie conoce: si alguien se pierde, se busca CONTRA la corriente, hacia donde la procesión ya pasó. Comparte antes de octubre."
+        "ig": "Plan familiar para procesiones: la multitud CAMINA, así que \"junto al anda\" no es un punto de encuentro — el anda avanza. Reglas: punto fijo, niños adelante, y si alguien se pierde se busca hacia donde la procesión ya pasó. Los abuelos son los que más se desorientan: su pulsera QR de ComeHomeTag deja que cualquiera llame a la familia al instante. #procesion #señordelosmilagros #familia #peru",
+        "tt": "En una procesión tu punto de encuentro se MUEVE 💜 el plan correcto + pulsera ComeHomeTag para los abuelos. #procesion #familia #peru",
+        "fb": "Las procesiones son el evento del año de nuestros abuelos — y donde más se desorientan. La regla que casi nadie conoce: si alguien se pierde, se busca hacia donde la procesión YA PASÓ. Y con la pulsera QR de ComeHomeTag puesta, quien lo encuentre llama a la familia al instante. Comparte antes de octubre. comehometag.com"
       },
-      "alt": "Guía de seguridad en procesiones: puntos fijos, ubicación de niños, salida acordada y búsqueda contra la corriente."
+      "alt": "Guía de procesiones: punto fijo, niños adelante, búsqueda hacia atrás y pulsera ComeHomeTag para abuelos."
     },
     {
       "slug": "estadio",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "40,000 vestidos igual. Tu hijo también.", "b": "El protocolo para la cancha en familia" },
-        { "role": "story", "plate": "cine-08-papa", "h": "El estadio es de los recuerdos más grandes de la infancia.", "b": "Dos reglas hacen que sea solo eso: un gran recuerdo." },
-        { "role": "value", "n": "1", "h": "La foto del día, con la camiseta puesta", "b": "40,000 personas con los mismos colores: la foto exacta de HOY es lo único que lo distingue." },
-        { "role": "value", "n": "2", "h": "Memorícense SU puerta y tribuna", "b": "\"Oriente, puerta 14\" — que el niño lo repita. Un estadio tiene 40 puertas y todas parecen la misma." },
-        { "role": "value", "n": "3", "h": "El entretiempo es la zona roja", "b": "El 90% de separaciones pasa en pasillos y quioscos del entretiempo. Al baño, SIEMPRE acompañado." },
-        { "role": "value", "n": "4", "h": "Con ese ruido, lo escrito habla", "b": "Un niño perdido en el estadio no escucha ni su nombre. La identificación con contacto responde cuando el ruido no deja." },
-        { "role": "value", "n": "5", "h": "Si pasa: personal de orientación, por sector", "b": "Tienen radio y protocolo entre sectores. Resuelven en minutos lo que solo tomaría toda la tarde." },
-        { "role": "cta", "h": "Que sea un gran recuerdo.", "b": "Guarda el protocolo para el próximo partido. Y compártelo con la barra familiar." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el estadio todos visten como tu hijo.", "b": "Cómo no perderlo entre 40,000 personas." },
+        { "role": "rehook", "h": "40,000 personas con los mismos colores. Tu hijo también.", "b": "Dos reglas hacen que el partido sea solo un gran recuerdo." },
+        { "role": "value", "n": "1", "h": "Foto del día, con la camiseta puesta", "b": "Es lo único que lo distingue entre miles vestidos igual. Cinco segundos antes de entrar." },
+        { "role": "value", "n": "2", "h": "Memorícense su puerta y tribuna", "b": "\"Oriente, puerta 14\" — que el niño lo repita. Y en el entretiempo, al baño siempre acompañado: ahí pasan casi todas las separaciones." },
+        { "role": "value", "n": "3", "h": "Con ese ruido, lo escrito habla", "b": "Un niño perdido en el estadio no escucha ni su nombre. Su identificación responde cuando el ruido no deja." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Que sea un gran recuerdo.", "b": "Guarda el protocolo y ponle su pulsera: comehometag.com." }
       ],
       "caption": {
-        "ig": "Llevar a tu hijo al estadio: en la tribuna TODOS visten los mismos colores — tu hijo también. Por eso las dos reglas de oro son la foto del día con la camiseta puesta y la puerta memorizada (\"Oriente, puerta 14\"). Y la zona roja: el 90% de separaciones pasa en el entretiempo. #estadio #futbol #padres #peru",
-        "tt": "Si llevas a tu hijo al estadio, esto es lo que hay que saber ⚽💜 #futbol #estadio #padres",
-        "fb": "Dato de estadio: el 90% de las separaciones familiares NO pasan en la tribuna — pasan en el entretiempo, en pasillos y quioscos. Y con 40,000 personas vistiendo iguales, la foto del día con la camiseta es lo único que distingue a tu hijo. ¿Listos para el próximo partido?"
+        "ig": "Llevar a tu hijo al estadio: en la tribuna TODOS visten los mismos colores — tu hijo también. Las reglas: foto del día con la camiseta puesta, la puerta memorizada (\"Oriente, puerta 14\") y baño siempre acompañado en el entretiempo. Con ese ruido no escucha ni su nombre: su pulsera QR de ComeHomeTag habla por él y quien lo encuentre te llama al instante. #estadio #futbol #padres #peru",
+        "tt": "Si llevas a tu hijo al estadio, esto es lo que hay que saber ⚽💜 con su pulsera ComeHomeTag puesta. #futbol #estadio #padres",
+        "fb": "Dato de estadio: casi todas las separaciones pasan en el ENTRETIEMPO, en pasillos y quioscos — no en la tribuna. Y con 40,000 personas vistiendo igual, la foto del día con la camiseta es lo único que distingue a tu hijo. Su pulsera con QR de ComeHomeTag hace el resto: quien lo encuentre te llama al instante. comehometag.com"
       },
-      "alt": "Protocolo para llevar niños al estadio: foto con camiseta, puerta memorizada, riesgo del entretiempo y personal de orientación."
+      "alt": "Protocolo para llevar niños al estadio: foto con camiseta, puerta memorizada y pulsera ComeHomeTag."
     },
     {
       "slug": "aeropuerto",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Aquí no puedes correr a buscarlo.", "b": "El plan por tramos para el aeropuerto" },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "El aeropuerto junta todo:", "b": "apuro, colas, anuncios confusos y maletas que ocupan las manos." },
-        { "role": "value", "n": "1", "h": "Un adulto = un menor (o un abuelo)", "b": "Por tramos y con nombre: \"en migraciones, Pedro va con la abuela\". Todos cuidando a todos = nadie cuidando a nadie." },
-        { "role": "value", "n": "2", "h": "El punto de encuentro es EL COUNTER", "b": "El de tu aerolínea: visible, con personal, sale en los letreros. La puerta de embarque cambia; el counter no." },
-        { "role": "value", "n": "3", "h": "Manos libres en los tramos críticos", "b": "Migraciones, escaleras, control: maletas en modo arrastre, una mano libre por niño. Las maletas no se pierden solas." },
-        { "role": "value", "n": "4", "h": "Cada uno con su documento", "b": "El niño con su tag e identificación; el abuelo con SU pase de abordar en SU bolsillo. Todo junto en una cartera es un punto único de falla." },
-        { "role": "value", "n": "5", "h": "Si pasa: cualquier agente uniformado", "b": "Los aeropuertos tienen protocolo de menor extraviado con anuncio general. Se activa en segundos desde cualquier counter." },
-        { "role": "cta", "h": "Buen viaje, sin sustos.", "b": "Guarda el plan por tramos y mándalo al grupo del viaje antes del vuelo." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el aeropuerto una familia se separa fácil.", "b": "El plan simple para viajar sin sustos." },
+        { "role": "rehook", "h": "Colas, maletas, apuro y anuncios que nadie entiende.", "b": "Con este plan simple, nadie se queda atrás." },
+        { "role": "value", "n": "1", "h": "Un adulto cuida a una persona", "b": "Por tramos y con nombre: \"en migraciones, Pedro va con la abuela\". Cuando todos cuidan a todos, nadie cuida a nadie." },
+        { "role": "value", "n": "2", "h": "El punto de encuentro es el counter", "b": "El de tu aerolínea: visible, con personal y sale en los letreros. La puerta de embarque cambia; el counter no." },
+        { "role": "value", "n": "3", "h": "Si pasa: avisa a cualquier agente", "b": "Los aeropuertos tienen protocolo de menor extraviado con anuncio general. Se activa en segundos." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Buen viaje, sin sustos.", "b": "Manda el plan al grupo del viaje y lleven las pulseras: comehometag.com." }
       ],
       "caption": {
-        "ig": "Viajar en familia por aeropuerto: el plan por tramos. La regla de oro es un adulto = un menor (o un abuelo) POR TRAMO y con nombre — \"en migraciones, Pedro va con la abuela\". El punto de encuentro correcto no es la puerta de embarque (cambia): es el counter de tu aerolínea. #viajeconniños #aeropuerto #familia #peru",
-        "tt": "El plan por tramos para aeropuertos con niños y abuelos ✈️💜 #aeropuerto #viajes #familia",
-        "fb": "El error de aeropuerto que casi todas las familias cometen: usar la puerta de embarque como punto de encuentro… y la puerta CAMBIA. El punto correcto: el counter de tu aerolínea — visible, con personal y sale en todos los letreros. El plan completo por tramos, en el post."
+        "ig": "Viajar en familia por el aeropuerto: colas, maletas y apuro separan familias en segundos. El plan: un adulto cuida a UNA persona por tramo (\"en migraciones, Pedro va con la abuela\") y el punto de encuentro es el counter de tu aerolínea — la puerta de embarque cambia. Niños y abuelos con su pulsera QR de ComeHomeTag: quien los encuentre llama a la familia al instante. #viajeconniños #aeropuerto #familia #peru",
+        "tt": "El plan para aeropuertos con niños y abuelos ✈️💜 y sus pulseras ComeHomeTag puestas. #aeropuerto #viajes #familia",
+        "fb": "El error de aeropuerto más común: usar la puerta de embarque como punto de encuentro… y la puerta CAMBIA. El punto correcto es el counter de tu aerolínea. Regla de oro: un adulto cuida a una persona, por tramo y con nombre. Las pulseras QR de ComeHomeTag cierran el plan: quien encuentre a alguien llama al instante. comehometag.com"
       },
-      "alt": "Plan de seguridad familiar en aeropuertos: asignación por tramos, counter como punto de encuentro y documentos individuales."
+      "alt": "Plan de aeropuerto en familia: un adulto por persona, counter como punto de encuentro y pulseras ComeHomeTag."
     },
     {
       "slug": "mercado",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Sueltas su mano 20 veces.", "b": "Cada visita al mercado, sin darte cuenta" },
-        { "role": "story", "plate": "cine-01-manos", "h": "Para pagar. Para escoger. Para cargar.", "b": "Cada una son 5 segundos de niño solo. Veinte veces por visita." },
-        { "role": "value", "n": "1", "h": "La regla del canguro", "b": "En pasillos angostos el niño va ADELANTE, donde lo ves. Atrás desaparece con que pasen dos personas." },
-        { "role": "value", "n": "2", "h": "El caserito es tu aliado", "b": "Preséntalo en tus puestos de siempre: \"si no ves a mamá, te quedas con la señora Rosa\". Red de barrio real." },
-        { "role": "value", "n": "3", "h": "El momento crítico: pagar", "b": "Billetera, vuelto, bolsas: 30 segundos con la vista abajo. Justo ahí: tu mano en su hombro, o él tocando el puesto." },
-        { "role": "value", "n": "4", "h": "Sin mano libre: dale la bolsa", "b": "\"Tú agarras la bolsa del pan.\" Una TAREA ancla más que una orden. Suena simple; funciona siempre." },
-        { "role": "value", "n": "5", "h": "Si pasa: los altavoces del mercado", "b": "Casi todos tienen megafonía en administración. Todo el mercado escucha en segundos: es el método más rápido que existe." },
-        { "role": "cta", "h": "Para el sábado.", "b": "Guarda las reglas y preséntale el caserito a tu hijo esta semana." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el mercado sueltas su mano 20 veces.", "b": "Sin darte cuenta. Este plan lo cubre." },
+        { "role": "rehook", "h": "Sueltas su mano para pagar, escoger y cargar.", "b": "Cada vez son 5 segundos de niño solo. Estas reglas los cubren." },
+        { "role": "value", "n": "1", "h": "El niño siempre adelante", "b": "En pasillos angostos va delante de ti, donde lo ves. Atrás desaparece con que pasen dos personas." },
+        { "role": "value", "n": "2", "h": "Al pagar, dale una tarea", "b": "\"Tú agarras la bolsa del pan.\" Una tarea lo ancla mejor que una orden. Y preséntale a tu casera: \"si no ves a mamá, te quedas con la señora Rosa\"." },
+        { "role": "value", "n": "3", "h": "Si pasa: pide los altavoces", "b": "Casi todos los mercados tienen megafonía en administración. Todo el mercado escucha en segundos." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Para el sábado.", "b": "Guarda las reglas y ponle su pulsera: comehometag.com." }
       ],
       "caption": {
-        "ig": "En el mercado sueltas la mano de tu hijo unas 20 veces por visita — para pagar, escoger, cargar — y cada una son 5 segundos de niño solo. Las reglas: el canguro (niño ADELANTE, nunca atrás), el caserito aliado, la tarea-ancla de la bolsa y la megafonía si pasa algo. #mercado #crianza #seguridadinfantil #peru",
-        "tt": "La regla del canguro para el mercado con niños 🧺💜 #mercado #crianza #padres",
-        "fb": "Cuenta mental para el sábado: ¿cuántas veces sueltas la mano de tu hijo en el mercado? Para pagar, escoger, cargar… unas 20 veces por visita. La regla del canguro (niño adelante, nunca atrás) + el caserito aliado cubren exactamente esos momentos. ¿Conocías el truco de la tarea-ancla?"
+        "ig": "En el mercado sueltas la mano de tu hijo unas 20 veces por visita — para pagar, escoger, cargar — y cada una son 5 segundos de niño solo. Las reglas: niño siempre ADELANTE, la tarea que ancla (\"tú agarras la bolsa del pan\"), la casera aliada y la megafonía si pasa algo. Su pulsera QR de ComeHomeTag cubre el resto: quien lo encuentre te llama al instante. #mercado #crianza #seguridadinfantil #peru",
+        "tt": "El plan para el mercado con niños 🧺💜 niño adelante + pulsera ComeHomeTag. #mercado #crianza #padres",
+        "fb": "Cuenta mental para el sábado: ¿cuántas veces sueltas la mano de tu hijo en el mercado? Para pagar, escoger, cargar… unas 20 veces por visita. Las reglas: niño adelante, tarea-ancla y la casera aliada. Y su pulsera con QR de ComeHomeTag deja que cualquiera te llame al instante. comehometag.com"
       },
-      "alt": "Guía para el mercado con niños: regla del canguro, caserito aliado, momento del pago, tarea ancla y megafonía."
+      "alt": "Guía para el mercado con niños: niño adelante, tarea ancla, casera aliada y pulsera ComeHomeTag."
     },
     {
       "slug": "parque-diversiones",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "No se pierden caminando: CORRIENDO.", "b": "El plan del mapa para el parque" },
-        { "role": "story", "plate": "cine-07-columpio", "h": "Emoción máxima, atención mínima.", "b": "El siguiente juego siempre está en otra dirección." },
-        { "role": "value", "n": "1", "h": "Primera parada: el mapa", "b": "Dos minutos señalando: aquí estamos, este es el punto de encuentro, estos son los baños. El mapa ES el plan." },
-        { "role": "value", "n": "2", "h": "La regla de la SALIDA del juego", "b": "\"Al bajar, me esperas en la salida. No corres al siguiente.\" La salida casi nunca está junto a la entrada — ahí se pierden casi todos." },
-        { "role": "value", "n": "3", "h": "La pulsera del parque no basta", "b": "No tiene tu teléfono. La identificación propia con contacto directo sí. Las dos juntas, mejor." },
-        { "role": "value", "n": "4", "h": "En las colas: el niño ADELANTE", "b": "40 minutos de cola aburren a cualquiera. Adelante tuyo, donde tus ojos descansan sobre él sin esfuerzo." },
-        { "role": "value", "n": "5", "h": "Si pasa: cualquier operador de juego", "b": "Todos tienen radio. Pide además cobertura de la puerta principal: protocolo estándar de parques." },
-        { "role": "cta", "h": "Diversión sin sustos.", "b": "Guarda el plan del mapa para la próxima visita. La regla de la salida vale oro." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el parque de diversiones se pierden corriendo.", "b": "Las 2 reglas que evitan el susto." },
+        { "role": "rehook", "h": "La emoción es máxima y la atención, mínima.", "b": "El siguiente juego siempre está en otra dirección. Dos reglas lo resuelven." },
+        { "role": "value", "n": "1", "h": "La regla de la salida", "b": "\"Al bajar del juego, me esperas en la salida. No corres al siguiente.\" La salida casi nunca está junto a la entrada: ahí se pierden casi todos." },
+        { "role": "value", "n": "2", "h": "Primera parada: el mapa", "b": "Dos minutos señalando: aquí estamos, este es el punto de encuentro. Y en las colas, el niño siempre adelante tuyo." },
+        { "role": "value", "n": "3", "h": "Si pasa: cualquier operador de juego", "b": "Todos tienen radio. Pide además que cubran la puerta principal: es el protocolo estándar de los parques." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Diversión sin sustos.", "b": "La pulsera del parque no lleva tu número; la suya sí: comehometag.com." }
       ],
       "caption": {
-        "ig": "Parques de diversiones: los niños no se pierden caminando — se pierden CORRIENDO al siguiente juego. Y el dato clave: la SALIDA de cada juego casi nunca está junto a la entrada; ahí se pierden casi todos. La regla: \"al bajar me esperas en la salida, no corres al siguiente\". #parquedediversiones #familia #niños #peru",
-        "tt": "En el parque de diversiones se pierden CORRIENDO, no caminando 🎡💜 #familia #niños #parque",
-        "fb": "Dato de parques de diversiones que sorprende: la salida de cada juego casi nunca está junto a la entrada — y ahí es donde se pierden casi todos los niños. La regla que lo resuelve: \"al bajar, me esperas en la SALIDA, no corres al siguiente\". ¿La conocías?"
+        "ig": "Parques de diversiones: los niños no se pierden caminando — se pierden CORRIENDO al siguiente juego. La regla clave: \"al bajar, me esperas en la SALIDA\" (casi nunca está junto a la entrada, y ahí se pierden casi todos). La pulsera del parque no lleva tu teléfono; su pulsera QR de ComeHomeTag sí: quien lo encuentre te llama al instante. #parquedediversiones #familia #niños #peru",
+        "tt": "En el parque de diversiones se pierden CORRIENDO 🎡💜 regla de la salida + pulsera ComeHomeTag. #familia #niños #parque",
+        "fb": "Dato de parques que sorprende: la salida de cada juego casi nunca está junto a la entrada — y ahí se pierden casi todos los niños. La regla: \"al bajar, me esperas en la SALIDA, no corres al siguiente\". Y ojo: la pulsera del parque no lleva tu número; la de ComeHomeTag sí, con QR para que te llamen al instante. comehometag.com"
       },
-      "alt": "Plan para parques de diversiones: mapa al llegar, regla de la salida de los juegos, colas y doble identificación."
+      "alt": "Plan para parques de diversiones: regla de la salida, mapa al llegar y pulsera ComeHomeTag con contacto."
     },
     {
       "slug": "transporte-publico",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "El bus arrancó sin tu hijo.", "b": "¿Sabe qué hacer? La regla de oro" },
-        { "role": "story", "plate": "cine-09-ventana", "h": "La puerta se cierra en 3 segundos.", "b": "Y la familia queda en dos lugares que se alejan. Para esto SÍ hay protocolo." },
-        { "role": "value", "n": "1", "h": "LA REGLA DE ORO: el que quedó, SE QUEDA", "b": "El que no subió (o no bajó) se queda EXACTAMENTE en ese paradero. El del bus regresa. Jamás se mueven los dos." },
-        { "role": "value", "n": "2", "h": "Orden de subida: adulto-niños-adulto", "b": "Uno sube primero y recibe; otro sube último y empuja. Los niños nunca son los últimos en subir ni bajar." },
-        { "role": "value", "n": "3", "h": "Ensáyalo como juego", "b": "\"¿Qué haces si el bus arranca y mamá no subió?\" Repite hasta que \"me quedo donde estoy\" salga solo." },
-        { "role": "value", "n": "4", "h": "Niños del lado de la ventana", "b": "Lejos de la puerta: nadie baja arrastrado por la salida de otros pasajeros. El pasillo es de los adultos." },
-        { "role": "value", "n": "5", "h": "Identificación, también aquí", "b": "El transporte público es el lugar #1 donde un niño puede quedar solo entre extraños en segundos. Lo escrito lo trae de vuelta." },
-        { "role": "cta", "h": "Ensáyenlo hoy en la cena.", "b": "\"El que quedó, se queda\" tiene que salir automático. Guarda esta guía." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "¿El bus arrancó y tu hijo quedó abajo?", "b": "La regla de oro que deben ensayar." },
+        { "role": "rehook", "h": "La puerta se cierra en 3 segundos.", "b": "Y la familia queda en dos lugares que se alejan. Para esto sí hay regla." },
+        { "role": "value", "n": "1", "h": "La regla de oro: el que quedó, se queda", "b": "El que no subió (o no bajó) espera en ese mismo paradero. El del bus regresa. Jamás se mueven los dos." },
+        { "role": "value", "n": "2", "h": "Ensáyenlo como juego", "b": "\"¿Qué haces si el bus arranca y mamá no subió?\" Repitan hasta que \"me quedo donde estoy\" salga solito." },
+        { "role": "value", "n": "3", "h": "Suban y bajen en orden", "b": "Un adulto primero, los niños al medio, otro adulto al final. Los niños nunca son los últimos." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Ensáyenlo hoy en la cena.", "b": "Y su pulsera puesta para el micro: comehometag.com." }
       ],
       "caption": {
-        "ig": "El susto clásico de Lima: la puerta del bus se cierra en 3 segundos y la familia queda dividida. La regla de oro que hay que ensayar HOY: el que quedó, SE QUEDA — exactamente en ese paradero; el que está en el bus regresa. Si los dos se mueven, se buscan en círculos por horas. #transportepublico #lima #seguridadinfantil #peru",
-        "tt": "Si el bus arranca y alguien de tu familia quedó abajo: la regla de oro 🚌💜 #lima #transporte #familia",
-        "fb": "Ensayo para la cena de hoy: \"¿qué haces si el bus arranca y mamá no subió?\" La respuesta correcta tiene 4 palabras: ME QUEDO DONDE ESTOY. El del bus regresa. Si los dos se mueven, se buscan en círculos. ¿Tus hijos la saben?"
+        "ig": "El susto clásico de Lima: la puerta del bus se cierra en 3 segundos y la familia queda dividida. La regla de oro: el que quedó, SE QUEDA en ese paradero — el del bus regresa. Si los dos se mueven, se buscan en círculos. Y si un niño queda solo entre extraños, su pulsera QR de ComeHomeTag deja que cualquiera te llame al instante. #transportepublico #lima #seguridadinfantil #peru",
+        "tt": "Si el bus arranca y alguien quedó abajo: la regla de oro 🚌💜 y la pulsera ComeHomeTag por si acaso. #lima #transporte #familia",
+        "fb": "Ensayo para la cena de hoy: \"¿qué haces si el bus arranca y mamá no subió?\" Respuesta correcta: ME QUEDO DONDE ESTOY — el del bus regresa. El transporte público es donde un niño puede quedar solo entre extraños en segundos: su pulsera con QR de ComeHomeTag hace que cualquiera te llame al instante. comehometag.com"
       },
-      "alt": "Protocolo para transporte público: regla el-que-quedó-se-queda, orden de subida y ubicación de los niños."
+      "alt": "Protocolo de transporte público: regla el-que-quedó-se-queda, orden de subida y pulsera ComeHomeTag."
     },
     {
       "slug": "concierto",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Tu celular muere primero.", "b": "Los 3 acuerdos que no necesitan batería" },
-        { "role": "story", "plate": "cine-03-abuelo", "h": "En un concierto no se escucha ni el propio nombre.", "b": "Todo el plan tiene que existir ANTES de la primera canción." },
-        { "role": "value", "n": "1", "h": "Acuerdo 1: punto fijo CON HORA", "b": "\"Puerta 3, y a las 11 estamos ahí pase lo que pase.\" El punto Y la hora: los celulares mueren temprano en los conciertos." },
-        { "role": "value", "n": "2", "h": "Acuerdo 2: la zona base", "b": "\"Nosotros estamos en este bloque.\" Los adolescentes pueden moverse — la zona base no se mueve en toda la noche." },
-        { "role": "value", "n": "3", "h": "Acuerdo 3: el número EN PAPEL", "b": "Modo ahorro desde el inicio + el número de un adulto anotado físicamente. El papel no se queda sin batería." },
-        { "role": "value", "n": "4", "h": "Con adolescentes: el mensaje ancla", "b": "Un emoji cada hora en punto. Sin interrogatorio: es señal de vida, no control. Por eso SÍ lo mandan." },
-        { "role": "value", "n": "5", "h": "Si pasa: staff con credencial, no la salida", "b": "En la puerta de salida pasan miles. El staff tiene radio y protocolo. Buscar en la salida es buscar en el peor lugar." },
-        { "role": "cta", "h": "Antes del show, al grupo.", "b": "Manda esta guía al grupo con el que van. Tres acuerdos, cero sustos." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el concierto tu celular muere. Ten plan.", "b": "3 acuerdos que no necesitan batería." },
+        { "role": "rehook", "h": "Ahí no se escucha ni el propio nombre.", "b": "Todo el plan tiene que existir antes de la primera canción. Son 3 acuerdos." },
+        { "role": "value", "n": "1", "h": "Punto fijo con hora", "b": "\"Puerta 3, y a las 11 estamos ahí pase lo que pase.\" Funciona aunque los celulares mueran." },
+        { "role": "value", "n": "2", "h": "El número en papel", "b": "El número de un adulto, anotado y en el bolsillo. El papel no se queda sin batería." },
+        { "role": "value", "n": "3", "h": "Con adolescentes: el mensaje ancla", "b": "Un emoji cada hora en punto. Es señal de vida, no control. Por eso sí lo mandan." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos — y para todo el que va a eventos llenos. Quien la escanea con su celular llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Antes del show, al grupo.", "b": "Manda los 3 acuerdos y lleven sus pulseras: comehometag.com." }
       ],
       "caption": {
-        "ig": "Plan para conciertos y eventos masivos: tu celular muere antes que la música, así que el plan no puede vivir en la batería. Los 3 acuerdos: punto fijo CON hora, zona base que no se mueve, y el número de un adulto EN PAPEL. Con adolescentes: el mensaje ancla (un emoji cada hora, sin interrogatorio). #conciertos #eventos #adolescentes #peru",
-        "tt": "Los 3 acuerdos antes de entrar a cualquier concierto 🎤💜 #conciertos #eventos #adolescentes",
-        "fb": "Para padres de adolescentes que van a conciertos: el truco del \"mensaje ancla\" — un emoji cada hora en punto, sin interrogatorio. Es señal de vida, no control… y por eso SÍ lo mandan. Los otros dos acuerdos (punto fijo con hora y número en papel) en el post. ¿Funciona en tu casa?"
+        "ig": "Plan para conciertos y eventos masivos: tu celular muere antes que la música, así que el plan no puede vivir en la batería. Los 3 acuerdos: punto fijo CON hora, el número de un adulto en papel y el mensaje ancla con adolescentes (un emoji cada hora). La pulsera QR de ComeHomeTag tampoco usa batería: quien la escanea llama a la familia al instante. #conciertos #eventos #adolescentes #peru",
+        "tt": "Los 3 acuerdos antes de entrar a cualquier concierto 🎤💜 y la pulsera ComeHomeTag sin batería. #conciertos #eventos #adolescentes",
+        "fb": "Para familias que van a conciertos: el plan no puede vivir en la batería del celular — muere antes que la música. Punto fijo con hora, número en papel y el \"mensaje ancla\" con adolescentes (un emoji cada hora, sin interrogatorio). La pulsera QR de ComeHomeTag tampoco necesita batería. comehometag.com"
       },
-      "alt": "Plan para conciertos: punto fijo con hora, zona base, número en papel, mensaje ancla y protocolo con el staff."
+      "alt": "Plan para conciertos: punto fijo con hora, número en papel, mensaje ancla y pulsera ComeHomeTag sin batería."
     },
     {
       "slug": "navidad-centro",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Diciembre: récord de niños perdidos.", "b": "La guía honesta (regla 1: no los lleves)" },
-        { "role": "story", "plate": "cine-05-abuela", "h": "Diciembre junta todo lo difícil:", "b": "las calles más llenas del año, apuro, bolsas en ambas manos y niños emocionados." },
-        { "role": "value", "n": "1", "h": "Si puedes, no los lleves", "b": "La recomendación honesta primero: Mesa Redonda en diciembre no es para niños pequeños. ¿No hay opción? Sigue leyendo." },
-        { "role": "value", "n": "2", "h": "Antes de las 10 am o nada", "b": "La mitad de gente que a las 5 pm. La misma compra, la mitad del riesgo. El horario ES una decisión de seguridad." },
-        { "role": "value", "n": "3", "h": "Ropa BRILLANTE al niño", "b": "Polo amarillo o naranja. Encontrar un color en un mar de gente es 10 veces más rápido que encontrar una cara." },
-        { "role": "value", "n": "4", "h": "Bolsas llenas = niño anclado", "b": "Con las dos manos ocupadas, el niño va agarrado de tu correa o mochila. Se decide ANTES de comprar." },
-        { "role": "value", "n": "5", "h": "Punto de encuentro por galería", "b": "\"Si nos separamos aquí, la puerta de ESTA galería.\" Cada galería nueva, punto nuevo. En el centro los puntos se renuevan." },
-        { "role": "cta", "h": "Guárdalo para la campaña.", "b": "Y compártelo con quien te acompaña al centro. El truco del color brillante vale la campaña entera." }
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Diciembre en el centro: récord de niños perdidos.", "b": "La guía honesta para las compras navideñas." },
+        { "role": "rehook", "h": "Calles llenas, apuro y bolsas en las dos manos.", "b": "La guía honesta empieza así: si puedes, no los lleves. ¿No hay opción? Sigue leyendo." },
+        { "role": "value", "n": "1", "h": "Temprano y con ropa brillante", "b": "Antes de las 10 am hay la mitad de gente. Y un polo naranja se encuentra 10 veces más rápido que una cara." },
+        { "role": "value", "n": "2", "h": "Bolsas llenas = niño anclado", "b": "Con tus manos ocupadas, el niño va agarrado de tu correa o mochila. Se decide antes de comprar." },
+        { "role": "value", "n": "3", "h": "Punto de encuentro por galería", "b": "\"Si nos separamos aquí, la puerta de ESTA galería.\" Cada galería nueva, punto nuevo." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Guárdalo para la campaña.", "b": "Y su pulsera puesta para el centro: comehometag.com." }
       ],
       "caption": {
-        "ig": "Compras navideñas en el centro con niños: la guía honesta empieza con \"si puedes, no los lleves\". Y si no hay opción: antes de las 10am (mitad de gente), ropa BRILLANTE (encontrar un color es 10 veces más rápido que encontrar una cara), niño anclado a tu correa y punto de encuentro por galería. #navidad #mesaredonda #compras #peru",
-        "tt": "El truco de la ropa brillante para diciembre en el centro 🎄💜 #navidad #lima #compras",
-        "fb": "Consejo honesto para diciembre: Mesa Redonda con niños pequeños, mejor no. Y si no queda opción, el truco que más funciona es el más simple: ropa BRILLANTE — encontrar un polo naranja en un mar de gente es 10 veces más rápido que encontrar una cara. Guarda la guía completa."
+        "ig": "Compras navideñas en el centro con niños: diciembre es récord de niños perdidos, y la guía honesta empieza con \"si puedes, no los lleves\". Si no hay opción: antes de las 10 am, ropa BRILLANTE (un color se encuentra 10 veces más rápido que una cara), niño anclado a tu correa y punto por galería. Su pulsera QR de ComeHomeTag remata el plan: quien lo encuentre te llama al instante. #navidad #mesaredonda #compras #peru",
+        "tt": "El truco de la ropa brillante para diciembre en el centro 🎄💜 y la pulsera ComeHomeTag puesta. #navidad #lima #compras",
+        "fb": "Consejo honesto para diciembre: Mesa Redonda con niños pequeños, mejor no. Y si no queda opción: antes de las 10 am, ropa BRILLANTE, niño anclado a tu correa y punto de encuentro por galería. Su pulsera con QR de ComeHomeTag hace que cualquiera pueda llamarte al instante. comehometag.com"
       },
-      "alt": "Guía para compras navideñas en el centro con niños: horario temprano, ropa brillante, anclaje y puntos por galería."
+      "alt": "Guía de compras navideñas en el centro: horario temprano, ropa brillante, niño anclado y pulsera ComeHomeTag."
     }
   ]
 }

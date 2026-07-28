@@ -1,12 +1,12 @@
-# ¿Ensayan sismos? ¿Y perderse?
+# El plan familiar por si alguien se pierde.
 
-`comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s1-protocolos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-La conversación de 15 minutos que tu familia nunca ha tenido 💜
+La conversación de 15 minutos que tu familia nunca ha tenido 💜 y las pulseras ComeHomeTag para cerrarla.
 #familia #prevencion #plan
 ```
 
@@ -14,9 +14,9 @@ La conversación de 15 minutos que tu familia nunca ha tenido 💜
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Hacemos simulacros de sismo en el colegio y el trabajo todos los años — pero nunca ensayamos el escenario MÁS probable: separarnos en un lugar público.
+El plan familiar por si alguien se pierde — el ensayo que ninguna familia hace — se arma en 15 minutos: punto de encuentro, tareas con nombre y las identificaciones revisadas.
 
-El plan familiar de 15 minutos: punto de encuentro fijo, roles con nombre propio ("alguien" no es un rol), identificaciones revisadas y fecha de repaso.
+Las pulseras QR de ComeHomeTag cubren la última parte: quien encuentre a un niño o abuelo escanea y llama a la familia al instante.
 
 #familia #prevencion #seguridadfamiliar #peru
 ```
@@ -24,12 +24,12 @@ El plan familiar de 15 minutos: punto de encuentro fijo, roles con nombre propio
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Agenda de reunión familiar de 15 minutos: punto de encuentro, roles con nombre, identificaciones y fecha de repaso.
+Plan familiar de 15 minutos: punto de encuentro, tareas con nombre y pulseras ComeHomeTag revisadas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Dato incómodo: tu familia ha ensayado sismos toda la vida… y jamás ha ensayado qué hacer si se separan en un lugar lleno de gente — que es el escenario más probable de todos. 15 minutos este domingo lo resuelven. ¿Se animan?
+Tu familia ha ensayado sismos toda la vida… y jamás qué hacer si alguien se pierde en un lugar lleno de gente. 15 minutos este domingo: punto de encuentro, tareas con nombre e identificaciones puestas. Las pulseras con QR de ComeHomeTag están en comehometag.com. ¿Se animan?
 ```

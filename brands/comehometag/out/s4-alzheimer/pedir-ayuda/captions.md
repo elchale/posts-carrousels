@@ -1,12 +1,12 @@
-# Cuidar solo es más riesgo.
+# No cuides solo a tu papá con Alzheimer.
 
-`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Para el hermano que carga solo el cuidado del papá 💜 esto es para ti
+Para el hermano que carga solo el cuidado del papá 💜 esto es para ti.
 #cuidadores #familia #hermanos
 ```
 
@@ -14,9 +14,9 @@ Para el hermano que carga solo el cuidado del papá 💜 esto es para ti
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Para el hijo o hija que carga solo el cuidado: cuidar solo no es más amor — es más riesgo, para él y para ti.
+Cómo repartir el cuidado de un papá con Alzheimer entre hermanos: turnos por escrito, el que vive lejos financia y la tarde libre del cuidador NO se negocia.
 
-Las 5 reglas: turnos explícitos (papelito manda), el hermano lejano financia, tu tarde libre NO se negocia, grupos de cuidadores y profesionalizar lo que se pueda. Este post es la manera menos incómoda de empezar LA conversación.
+Cuidar solo no es más amor: es más riesgo. Parte del plan compartido: su pulsera ComeHomeTag, para que quien lo encuentre llame a la familia al instante.
 
 #cuidadores #alzheimer #familia #saludmental #peru
 ```
@@ -24,12 +24,12 @@ Las 5 reglas: turnos explícitos (papelito manda), el hermano lejano financia, t
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Guía para repartir el cuidado entre hermanos: turnos, aportes, descanso del cuidador y apoyo profesional.
+Guía para repartir el cuidado entre hermanos y la pulsera ComeHomeTag como parte del plan.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La manera menos incómoda de empezar LA conversación con tus hermanos sobre el cuidado de papá o mamá: mandar este post al grupo familiar. Turnos explícitos, el que vive lejos financia, y la tarde libre del cuidador NO se negocia. De nada 💜
+La manera menos incómoda de empezar LA conversación con tus hermanos sobre el cuidado de papá o mamá: mandar este post al grupo. Turnos por escrito, el que vive lejos financia, la tarde libre no se negocia. Y la pulsera ComeHomeTag del papá, entre todos: comehometag.com 💜
 ```

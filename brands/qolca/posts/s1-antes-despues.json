@@ -5,190 +5,180 @@
     {
       "slug": "cotizaciones-whatsapp",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "\"¿Precio?\" — 80 veces al día.", "b": "El caso que lo arregló, con números" },
-        { "role": "rehook", "h": "4 horas diarias de copiar y pegar.", "b": "Eso era \"atender el WhatsApp\". Así se veía el antes." },
-        { "role": "value", "h": "ANTES: el celular esclavo", "b": "Un vendedor pegado al chat respondiendo lo mismo 80 veces: precio, stock, delivery. Copy-paste humano, 4 horas al día." },
-        { "role": "value", "h": "ANTES: la madrugada perdida", "b": "El 35% de consultas llegaba fuera de horario. Respuesta al día siguiente = cliente que ya compró en otro lado." },
-        { "role": "value", "h": "DESPUÉS: respuesta en 10 segundos", "b": "El agente de WhatsApp resuelve el 80% de consultas solo: precio, stock, fotos, delivery. Lo complejo pasa al humano, ya calificado." },
-        { "role": "value", "h": "DESPUÉS: la madrugada también vende", "b": "Consultas de 11pm atendidas a las 11pm. El cliente compra en el momento del impulso, no al día siguiente." },
-        { "role": "stat", "h": "112 horas al mes recuperadas.", "b": "Y el vendedor ahora VENDE en vez de copiar y pegar. Eso es automatizar lo correcto." },
-        { "role": "cta", "h": "¿Tu WhatsApp también es un cuello de botella?", "b": "Escríbenos qué proceso te come más horas. Leemos todo." }
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Tu vendedor pierde 4 horas diarias en WhatsApp.", "b": "Así lo arregló una empresa real" },
+        { "role": "rehook", "h": "Respondía \"¿precio?\" 80 veces al día.", "b": "Copiar y pegar lo mismo, todo el día. Eso era \"atender el WhatsApp\"." },
+        { "role": "value", "h": "El antes: un celular esclavo", "b": "Un vendedor pegado al chat respondiendo precio, stock y delivery 80 veces al día. Y las consultas de madrugada (el 35%) se respondían al día siguiente — cuando el cliente ya había comprado en otro lado." },
+        { "role": "value", "h": "El después: respuesta en 10 segundos", "b": "Un sistema responde solo el 80% de las consultas: precio, stock, fotos, delivery. A cualquier hora, también a las 11pm. Lo difícil pasa a un humano, ya avanzado." },
+        { "role": "value", "h": "112 horas al mes recuperadas", "b": "El vendedor ahora VENDE en vez de copiar y pegar. Y las ventas de madrugada ya no se pierden." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas de WhatsApp que responden y venden solos, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Tu WhatsApp te come el día?", "b": "Escríbenos en qolca.org y lo arreglamos." }
       ],
       "caption": {
-        "ig": "Automatizar cotizaciones por WhatsApp: su vendedor respondía \"¿precio?\" 80 veces al día — 4 horas de copy-paste humano. Ahora: respuestas en 10 segundos, 24/7, y el 35% de consultas de madrugada que se perdían hoy también venden. 112 horas/mes recuperadas. #automatizacion #whatsapp #negocios #peru #pymes",
+        "ig": "Tu WhatsApp te come 4 horas al día respondiendo lo mismo — este es el tipo de sistema que construye Qolca para arreglarlo: respuestas en 10 segundos, 24/7, y las consultas de madrugada que se perdían hoy también venden. 112 horas al mes recuperadas. Más en qolca.org #automatizacion #whatsapp #negocios #peru #pymes",
         "tt": "De 4 horas diarias respondiendo \"¿precio?\" a 10 segundos 🤖 #automatizacion #whatsapp #negocios",
-        "fb": "¿Cuántas veces al día tu equipo responde exactamente lo mismo por WhatsApp? En este caso eran 80: precio, stock, delivery. La automatización recuperó 112 horas al mes — y las consultas de madrugada dejaron de perderse. ¿Qué proceso te come más horas a ti?"
+        "fb": "¿Cuántas veces al día tu equipo responde exactamente lo mismo por WhatsApp? En este caso eran 80: precio, stock, delivery. El sistema que Qolca construye para esto recuperó 112 horas al mes — y las consultas de madrugada dejaron de perderse. ¿Qué proceso te come más horas a ti? qolca.org"
       },
       "alt": "Caso antes/después de automatización de cotizaciones por WhatsApp con 112 horas mensuales recuperadas."
     },
     {
       "slug": "citas-clinica",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Sillas vacías: del 30% al 9%", "b": "El caso de las citas perdidas" },
-        { "role": "rehook", "h": "Cada cita perdida son S/80-200 que no vuelven.", "b": "Y la recepcionista no tiene tiempo de llamar a 60 pacientes. Nadie lo tiene." },
-        { "role": "value", "h": "ANTES: la ruleta diaria", "b": "30% de inasistencias. Agenda llena en el papel, consultorios vacíos en la práctica. Doctores pagados por horas muertas." },
-        { "role": "value", "h": "ANTES: recordar era trabajo manual", "b": "La recepcionista llamaba \"cuando podía\" — entre el mostrador, el teléfono y la caja. Es decir: casi nunca." },
-        { "role": "value", "h": "DESPUÉS: recordatorios que conversan", "b": "WhatsApp automático 48h y 3h antes. Y el paciente CONFIRMA, REAGENDA o CANCELA respondiendo el mismo mensaje." },
-        { "role": "value", "h": "DESPUÉS: la lista de espera se activa sola", "b": "¿Cancelación a las 9am? El cupo se ofrece a la lista de espera al instante. Silla que se vaciaba, silla que se llena." },
-        { "role": "stat", "h": "Del 30% al 9% en un trimestre.", "b": "La inversión se pagó con las citas recuperadas de las primeras 3 semanas." },
-        { "role": "cta", "h": "¿Cuántas sillas vacías tuviste esta semana?", "b": "Si administras una clínica o consultorio, escríbenos con esa cifra." }
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Tu clínica pierde S/200 por cada silla vacía.", "b": "El caso real, con números" },
+        { "role": "rehook", "h": "3 de cada 10 pacientes no llegaban a su cita.", "b": "Y la recepcionista no tenía tiempo de llamar a 60 pacientes para recordarles. Nadie lo tiene." },
+        { "role": "value", "h": "El antes: agenda llena, consultorios vacíos", "b": "30% de citas perdidas. Doctores pagados por horas muertas, y recordatorios que se hacían \"cuando se podía\" — es decir, casi nunca." },
+        { "role": "value", "h": "El después: recordatorios que conversan", "b": "WhatsApp automático 48 horas y 3 horas antes. El paciente confirma, cambia o cancela respondiendo el mismo mensaje. Y si cancela, el cupo se ofrece solo a la lista de espera. Silla que se vaciaba, silla que se llena." },
+        { "role": "value", "h": "Del 30% al 9% en tres meses", "b": "La inversión se pagó con las citas recuperadas de las primeras 3 semanas." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos este tipo de sistemas para clínicas y empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Cuántas sillas vacías tuviste esta semana?", "b": "Escríbenos en qolca.org con esa cifra." }
       ],
       "caption": {
-        "ig": "Caso clínica: del 30% al 9% de citas perdidas en un trimestre. El secreto no es solo recordar — es que el paciente pueda confirmar, reagendar o cancelar respondiendo el mismo WhatsApp, y que cada cancelación active la lista de espera al instante. La inversión se pagó en 3 semanas. #clinicas #salud #automatizacion #peru",
+        "ig": "Cada cita perdida en una clínica son S/80-200 que no vuelven — Qolca construyó el sistema que bajó las citas perdidas del 30% al 9% en un trimestre: recordatorios por WhatsApp donde el paciente confirma o cambia respondiendo el mismo mensaje, y una lista de espera que llena cada cancelación al instante. qolca.org #clinicas #salud #automatizacion #peru",
         "tt": "Cómo una clínica pasó de 30% a 9% de citas perdidas 🏥 #clinicas #automatizacion #salud",
-        "fb": "Para los que administran clínicas: ¿cuánto cuesta cada silla vacía? Entre S/80 y S/200 que no vuelven. Este caso bajó las inasistencias de 30% a 9% con recordatorios que CONVERSAN + lista de espera automática. ¿Cuál es su tasa de inasistencia actual?"
+        "fb": "Para los que administran clínicas: ¿cuánto cuesta cada silla vacía? Entre S/80 y S/200 que no vuelven. Este sistema de Qolca bajó las citas perdidas de 30% a 9% con recordatorios que conversan y lista de espera automática. La inversión se pagó en 3 semanas. ¿Cuál es su tasa actual? qolca.org"
       },
       "alt": "Caso de clínica: reducción de citas perdidas del 30% al 9% con recordatorios conversacionales y lista de espera."
     },
     {
       "slug": "leads-inmobiliaria",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El Excel donde mueren los leads", "b": "Hoy: 3x más visitas, mismo presupuesto" },
-        { "role": "rehook", "h": "Un lead que espera 24 horas ya visitó otro proyecto.", "b": "El problema nunca fue conseguir leads: era dejarlos morir." },
-        { "role": "value", "h": "ANTES: el Excel de la muerte", "b": "300 leads mensuales de Facebook y portales caían en una hoja. Los asesores llamaban \"a los buenos\". El resto: nunca contactados." },
-        { "role": "value", "h": "ANTES: seguimiento de memoria", "b": "\"Le dije que lo llamaba el jueves\" — y el jueves fue feriado, y el lead compró en el proyecto de enfrente." },
-        { "role": "value", "h": "DESPUÉS: respuesta en 60 segundos", "b": "Lead nuevo → WhatsApp automático con brochure y agendamiento de visita, al minuto. El interés se atiende cuando existe." },
-        { "role": "value", "h": "DESPUÉS: el sistema persigue, el asesor cierra", "b": "Seguimiento automático día 1, 3, 7 y 14. El asesor recibe solo leads que YA respondieron y quieren visita." },
-        { "role": "stat", "h": "3x más visitas agendadas.", "b": "Mismos asesores, mismos leads, mismo presupuesto de publicidad. Solo dejó de gotear el balde." },
-        { "role": "cta", "h": "¿Cuántos leads se te enfriaron este mes?", "b": "Si vendes inmuebles, hagamos esa cuenta juntos. Escríbenos." }
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Pagas publicidad y nadie llama a los interesados.", "b": "Cómo una inmobiliaria triplicó sus visitas" },
+        { "role": "rehook", "h": "Un interesado que espera 24 horas ya visitó otro proyecto.", "b": "El problema nunca fue conseguir interesados: era dejarlos morir en un Excel." },
+        { "role": "value", "h": "El antes: el Excel de la muerte", "b": "300 interesados al mes desde Facebook y portales caían en una hoja de cálculo. Los asesores llamaban \"a los buenos\". El resto: nunca contactados. Y el seguimiento era de memoria — o sea, ninguno." },
+        { "role": "value", "h": "El después: respuesta en 60 segundos", "b": "Interesado nuevo → WhatsApp automático con brochure y agenda de visita, al minuto. Luego el sistema hace seguimiento solo los días 1, 3, 7 y 14. El asesor recibe solo a los que YA quieren visitar." },
+        { "role": "value", "h": "3 veces más visitas agendadas", "b": "Mismos asesores, mismos anuncios, mismo presupuesto. Solo dejó de gotear el balde." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas que responden y persiguen ventas solos, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Cuántos interesados se te enfriaron este mes?", "b": "Escríbenos en qolca.org y hacemos la cuenta." }
       ],
       "caption": {
-        "ig": "Caso inmobiliaria: 300 leads/mes cayendo a un Excel donde el 70% nunca era contactado — y un lead que espera 24 horas ya visitó el proyecto de enfrente. Con respuesta al minuto + seguimiento automático (día 1, 3, 7, 14): 3x más visitas agendadas, mismo presupuesto de ads. El balde dejó de gotear. #inmobiliaria #ventas #automatizacion #peru",
-        "tt": "El 70% de sus leads moría en un Excel. Así lo arreglaron 🏠 #inmobiliaria #ventas #leads",
-        "fb": "Verdad del sector inmobiliario: un lead que espera 24 horas ya visitó el proyecto de enfrente. Este caso triplicó visitas agendadas SIN gastar un sol más en publicidad — solo respondiendo al minuto y persiguiendo automático. ¿Cuántos leads sin contactar hay en tu Excel ahora mismo?"
+        "ig": "Tu publicidad trae interesados y tu Excel los deja morir — Qolca construyó el sistema que lo arregla: respuesta al minuto con brochure y agenda, y seguimiento automático los días 1, 3, 7 y 14. Resultado: el triple de visitas agendadas con el mismo presupuesto de anuncios. qolca.org #inmobiliaria #ventas #automatizacion #peru",
+        "tt": "El 70% de sus interesados moría en un Excel. Así lo arreglaron 🏠 #inmobiliaria #ventas #automatizacion",
+        "fb": "Verdad del sector inmobiliario: un interesado que espera 24 horas ya visitó el proyecto de enfrente. Este sistema de Qolca triplicó las visitas agendadas SIN gastar un sol más en publicidad — respondiendo al minuto y persiguiendo automático. ¿Cuántos interesados sin contactar hay en tu Excel ahora mismo? qolca.org"
       },
       "alt": "Caso inmobiliario: leads sin contactar versus respuesta al minuto y seguimiento automático con el triple de visitas."
     },
     {
       "slug": "conciliacion-ecommerce",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "6 horas cuadrando. Ahora: 20 minutos.", "b": "El domingo perdido de todo e-commerce" },
-        { "role": "rehook", "h": "Vender es lindo.", "b": "Cuadrar Shopify contra la pasarela contra el banco, no." },
-        { "role": "value", "h": "ANTES: tres mundos que no se hablan", "b": "La tienda por un lado, la pasarela por otro, el banco por el suyo. Conciliar = copiar, pegar, marcar en amarillo, dudar." },
-        { "role": "value", "h": "ANTES: los errores silenciosos", "b": "Contracargos no detectados, pagos duplicados, pedidos enviados sin cobro confirmado. Plata que se va sin hacer ruido." },
-        { "role": "value", "h": "DESPUÉS: la conciliación corre sola a las 2am", "b": "Un proceso cruza tienda + pasarela + banco cada noche y deja el reporte listo: cuadrados, pendientes y alertas." },
-        { "role": "value", "h": "DESPUÉS: solo miras las excepciones", "b": "El 97% cuadra solo. El dueño revisa 5 casos raros con su café — no 900 filas. De 6 horas a 20 minutos." },
-        { "role": "stat", "h": "S/ 2,400 mensuales en fugas detectadas.", "b": "Contracargos y duplicados que antes pasaban piola. Se paga sola — literalmente." },
-        { "role": "cta", "h": "¿Sigues cuadrando a mano?", "b": "Cuéntanos qué usas (Shopify, Woo, la pasarela que sea) y te decimos qué se puede automatizar." }
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Cuadrar ventas te roba 6 horas cada domingo.", "b": "Cómo bajarlo a 20 minutos" },
+        { "role": "rehook", "h": "La tienda dice una cosa. El banco, otra.", "b": "Y la pasarela de pagos, una tercera. Cuadrar los tres a mano era el domingo perdido." },
+        { "role": "value", "h": "El antes: tres mundos que no se hablan", "b": "Copiar, pegar, marcar en amarillo, dudar. Y los errores silenciosos: cobros duplicados, reclamos de tarjeta no detectados, pedidos enviados sin cobro confirmado. Plata que se iba sin hacer ruido." },
+        { "role": "value", "h": "El después: se cuadra solo a las 2am", "b": "Cada noche, un sistema cruza tienda, pasarela y banco, y deja el reporte listo. El 97% cuadra solo; el dueño revisa 5 casos raros con su café — no 900 filas." },
+        { "role": "value", "h": "De 6 horas a 20 minutos", "b": "Y de paso aparecieron S/2,400 mensuales en fugas que nadie veía. El sistema se paga solo — literalmente." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas que conectan tu tienda, tus pagos y tu banco, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Sigues cuadrando a mano?", "b": "Escríbenos en qolca.org y te decimos qué se puede automatizar." }
       ],
       "caption": {
-        "ig": "El domingo perdido de todo e-commerce: 6 horas cuadrando Shopify contra la pasarela contra el banco. Ahora un proceso corre a las 2am y deja solo las excepciones: de 6 horas a 20 minutos — y de paso aparecieron S/2,400 mensuales en contracargos y duplicados que pasaban piola. #ecommerce #shopify #automatizacion #peru",
+        "ig": "Cuadrar la tienda contra la pasarela contra el banco robaba 6 horas cada domingo — Qolca construyó el sistema que lo hace solo cada noche y deja únicamente las excepciones: de 6 horas a 20 minutos, y S/2,400 mensuales en fugas detectadas que nadie veía. qolca.org #ecommerce #shopify #automatizacion #peru",
         "tt": "El domingo perdido de todo dueño de e-commerce 🛒 #ecommerce #automatizacion #negocios",
-        "fb": "Pregunta para los que venden online: ¿cuántas horas al mes se van cuadrando la tienda contra la pasarela contra el banco? Este caso: 6 horas cada domingo → 20 minutos. Y el bonus: S/2,400/mes en fugas (contracargos, duplicados) que nadie veía. La conciliación es EL proceso invisible."
+        "fb": "Pregunta para los que venden online: ¿cuántas horas al mes se van cuadrando la tienda contra la pasarela contra el banco? Este sistema de Qolca lo hace solo cada noche: de 6 horas cada domingo a 20 minutos. Y el bonus: S/2,400/mes en fugas que nadie veía. qolca.org"
       },
       "alt": "Caso e-commerce: conciliación manual dominical versus proceso nocturno automático con detección de fugas."
     },
     {
       "slug": "reportes-semanales",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Reportes del viernes, datos del martes", "b": "Caso: distribuidora, 4 áreas, 1 cuaderno" },
-        { "role": "rehook", "h": "\"¿Me pasas tus números?\" — la cacería semanal.", "b": "Ventas en un Excel, cobranza en otro, almacén en un cuaderno. Sí: un cuaderno." },
-        { "role": "value", "h": "ANTES: el viernes de la cacería", "b": "La administradora perseguía a 4 jefes por sus números y a las 7pm salía \"el reporte\" — con datos viejos de 3 días." },
-        { "role": "value", "h": "ANTES: decisiones por el retrovisor", "b": "Cuando el gerente veía una caída de ventas, la caída ya tenía 10 días. Tarde para cambiar cualquier cosa." },
-        { "role": "value", "h": "DESPUÉS: el panel que se llena solo", "b": "Ventas, cobranza y stock conectados a un panel vivo. El reporte ya no se ARMA: existe, actualizado, siempre." },
-        { "role": "value", "h": "DESPUÉS: las alertas persiguen al gerente", "b": "Stock crítico, cliente que dejó de comprar, cobranza vencida: aviso por WhatsApp cuando pasa. No el viernes." },
-        { "role": "stat", "h": "1 día por semana de gerencia recuperado.", "b": "Y decisiones con datos de HOY. La administradora ahora administra — no colecciona Excels." },
-        { "role": "cta", "h": "¿Tus números llegan tarde?", "b": "Si tu reporte semanal es una cacería, escríbenos. El panel se llena solo." }
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Diriges tu empresa con números de hace días.", "b": "El reporte que se arma solo" },
+        { "role": "rehook", "h": "\"¿Me pasas tus números?\" — la cacería de cada viernes.", "b": "Ventas en un Excel, cobranza en otro, almacén en un cuaderno. Sí: un cuaderno." },
+        { "role": "value", "h": "El antes: decisiones por el retrovisor", "b": "La administradora perseguía a 4 jefes por sus números y a las 7pm salía \"el reporte\" — con datos de 3 días atrás. Cuando el gerente veía una caída de ventas, la caída ya tenía 10 días." },
+        { "role": "value", "h": "El después: el panel se llena solo", "b": "Ventas, cobranza y stock conectados a un panel siempre actualizado. Y las alertas persiguen al gerente por WhatsApp: stock crítico, cliente que dejó de comprar, cobranza vencida — cuando pasa, no el viernes." },
+        { "role": "value", "h": "1 día por semana de gerencia recuperado", "b": "Y decisiones con datos de HOY. La administradora ahora administra — no colecciona Excels." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos reportes y paneles que se arman solos, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Tus números llegan tarde?", "b": "Escríbenos en qolca.org. El panel se llena solo." }
       ],
       "caption": {
-        "ig": "El reporte de los viernes llegaba a las 7pm… con datos del martes: la administradora perseguía a 4 jefes de área (uno con cuaderno) para armarlo. Ahora el panel se llena solo y las ALERTAS persiguen al gerente por WhatsApp: stock crítico, cliente inactivo, cobranza vencida — cuando pasa, no el viernes. #datos #gerencia #pymes #peru",
+        "ig": "El reporte de los viernes llegaba con datos del martes — Qolca construye paneles que se llenan solos: ventas, cobranza y stock siempre actualizados, y alertas por WhatsApp cuando algo pasa (no el viernes). Resultado: 1 día de gerencia recuperado por semana y decisiones con datos de HOY. qolca.org #datos #gerencia #pymes #peru",
         "tt": "El viernes de la cacería de Excels que toda pyme conoce 📊 #datos #gerencia #pymes",
-        "fb": "¿En tu empresa el reporte semanal también es una cacería de Excels (y un cuaderno)? El problema de los números del viernes: llegan tarde para cambiar cualquier cosa. Un panel vivo cambia la pregunta de \"¿cómo nos fue?\" a \"¿qué hacemos HOY?\". ¿Cómo arman su reporte?"
+        "fb": "¿En tu empresa el reporte semanal también es una cacería de Excels (y un cuaderno)? El problema de los números del viernes: llegan tarde para cambiar cualquier cosa. El panel que construye Qolca se llena solo y avisa por WhatsApp cuando algo pasa. ¿Cómo arman su reporte? qolca.org"
       },
       "alt": "Caso de reportería: cacería manual semanal versus panel automático con alertas."
     },
     {
       "slug": "facturacion",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "120 veces. El mismo dato.", "b": "Facturación: de 3 días a 2 horas" },
-        { "role": "rehook", "h": "Los datos vivían en el contrato.", "b": "Igual alguien los volvía a tipear, factura por factura, 120 veces." },
-        { "role": "value", "h": "ANTES: el fin de mes de terror", "b": "Del 28 al 31: la asistente tipeando facturas, cruzando contratos, corrigiendo montos. Tres días de trabajo repetido." },
-        { "role": "value", "h": "ANTES: errores que cuestan relaciones", "b": "Un monto mal tipeado = factura rechazada = pago retrasado 15 días = llamada incómoda. Por el 8% de error humano típico." },
-        { "role": "value", "h": "DESPUÉS: la factura nace del contrato", "b": "El día 1, el sistema genera las 120 facturas desde los datos del contrato, las emite a SUNAT y las envía. Solo." },
-        { "role": "value", "h": "DESPUÉS: la cobranza se encadena", "b": "Factura enviada → recordatorio a los 7 días → seguimiento a los 15 → alerta interna a los 30. Sin que nadie \"se acuerde\"." },
-        { "role": "stat", "h": "De 3 días a 2 horas al mes.", "b": "Y cero facturas rechazadas por tipeo en 6 meses. Un dato se tipea UNA vez o ninguna." },
-        { "role": "cta", "h": "¿Tu facturación repite trabajo ya hecho?", "b": "Si emites más de 30 facturas al mes a mano, escríbenos." }
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Tu equipo tipea 120 facturas cada mes.", "b": "De 3 días a 2 horas" },
+        { "role": "rehook", "h": "Los datos ya estaban en el contrato.", "b": "Igual alguien los volvía a tipear, factura por factura, 120 veces al mes." },
+        { "role": "value", "h": "El antes: el fin de mes de terror", "b": "Del 28 al 31: la asistente tipeando facturas, cruzando contratos, corrigiendo montos. Y cada monto mal tipeado era una factura rechazada, un pago atrasado 15 días y una llamada incómoda." },
+        { "role": "value", "h": "El después: la factura nace del contrato", "b": "El día 1, el sistema genera las 120 facturas desde los datos del contrato, las emite a SUNAT y las envía. Luego cobra solo: recordatorio a los 7 días, seguimiento a los 15, alerta interna a los 30." },
+        { "role": "value", "h": "De 3 días a 2 horas al mes", "b": "Y cero facturas rechazadas por errores de tipeo en 6 meses. Un dato se tipea UNA vez o ninguna." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas de facturación y cobranza automática para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Emites más de 30 facturas al mes a mano?", "b": "Escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "Caso B2B: 120 facturas mensuales tipeadas a mano desde datos que YA estaban en el contrato — 3 días de fin de mes + 8% de error humano + facturas rechazadas por SUNAT. Ahora nacen del contrato, se emiten solas y encadenan su propia cobranza. De 3 días a 2 horas. Regla de oro: un dato se tipea UNA vez o ninguna. #facturacion #contabilidad #automatizacion #peru",
+        "ig": "120 facturas al mes tipeadas a mano desde datos que YA estaban en el contrato — Qolca construyó el sistema que las genera solas, las emite a SUNAT y encadena su propia cobranza: de 3 días a 2 horas al mes, y cero facturas rechazadas en 6 meses. Regla de oro: un dato se tipea UNA vez o ninguna. qolca.org #facturacion #contabilidad #automatizacion #peru",
         "tt": "3 días al mes tipeando datos que ya existían 🧾 #facturacion #automatizacion #contabilidad",
-        "fb": "Regla de oro de la eficiencia: un dato se tipea UNA vez o ninguna. Este caso tipeaba los datos del contrato otra vez en cada factura — 120 veces al mes, con el 8% de error humano de regalo. ¿Cuántas veces se tipea el mismo dato en tu empresa? Cuenta y asústate."
+        "fb": "Regla de oro de la eficiencia: un dato se tipea UNA vez o ninguna. Esta empresa tipeaba los datos del contrato otra vez en cada factura — 120 veces al mes. El sistema que Qolca construye para esto las genera solas y cobra solo. ¿Cuántas veces se tipea el mismo dato en tu empresa? qolca.org"
       },
       "alt": "Caso de facturación B2B: tipeo manual versus generación automática desde contratos con cobranza encadenada."
     },
     {
       "slug": "onboarding-clientes",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Firmó un lunes. Silencio: 12 días.", "b": "Caso: agencia de marketing" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Tu cliente nuevo firma y espera 12 días.", "b": "Cómo recibirlo en 48 horas" },
         { "role": "rehook", "h": "La emoción de firmar no aguanta 12 días de silencio.", "b": "Y la primera impresión no tiene segunda oportunidad." },
-        { "role": "value", "h": "ANTES: el limbo post-firma", "b": "Contrato firmado → \"ya te escribimos para coordinar\" → días de silencio mientras el equipo apagaba incendios. El cliente nuevo, esperando." },
-        { "role": "value", "h": "ANTES: cada onboarding, inventado de nuevo", "b": "Qué accesos pedir, qué reunión primero: dependía de quién le tocara. Clientes idénticos, experiencias opuestas." },
-        { "role": "value", "h": "DESPUÉS: la firma dispara todo", "b": "En 5 minutos: correo de bienvenida, formulario de accesos, agenda del kick-off y grupo de WhatsApp creado. Automático." },
-        { "role": "value", "h": "DESPUÉS: el equipo recibe todo armado", "b": "Tareas creadas, responsables asignados, fechas puestas. Nadie \"coordina\": ya está coordinado." },
-        { "role": "stat", "h": "De 12 días a 48 horas.", "b": "Y la satisfacción del onboarding subió de 6.8 a 9.1. La primera impresión ahora la da un sistema — siempre de buenas." },
-        { "role": "cta", "h": "¿Cómo se siente firmar contigo?", "b": "Si tu onboarding depende de \"cuando se pueda\", conversemos." }
+        { "role": "value", "h": "El antes: el limbo después de la firma", "b": "Contrato firmado → \"ya te escribimos para coordinar\" → días de silencio mientras el equipo apagaba incendios. Y cada bienvenida se inventaba de nuevo: clientes idénticos, experiencias opuestas." },
+        { "role": "value", "h": "El después: la firma dispara todo", "b": "En 5 minutos: correo de bienvenida, formulario de accesos, reunión inicial agendada y grupo de WhatsApp creado. El equipo recibe las tareas armadas, con responsables y fechas. Nadie \"coordina\": ya está coordinado." },
+        { "role": "value", "h": "De 12 días a 48 horas", "b": "Y la satisfacción de los clientes nuevos subió de 6.8 a 9.1. La primera impresión ahora la da un sistema — siempre de buenas." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas que reciben a tus clientes nuevos solos, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Cómo se siente firmar contigo?", "b": "Si depende de \"cuando se pueda\", escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "Caso agencia: el cliente firmaba emocionado un lunes y la primera señal de vida llegaba 12 días después — la emoción no aguanta tanto. Ahora la firma dispara todo en 5 minutos: bienvenida, accesos, kick-off agendado, grupo creado, tareas internas armadas. De 12 días a 48 horas; satisfacción de 6.8 a 9.1. #agencias #clientes #automatizacion #peru",
+        "ig": "El cliente firmaba emocionado un lunes y la primera señal de vida llegaba 12 días después — Qolca construyó el sistema donde la firma dispara todo en 5 minutos: bienvenida, accesos, reunión agendada, grupo creado y tareas internas armadas. De 12 días a 48 horas; satisfacción de 6.8 a 9.1. qolca.org #agencias #clientes #automatizacion #peru",
         "tt": "Firmó un lunes. Le escribieron 12 días después 💀 #agencias #clientes #automatizacion",
-        "fb": "El momento que casi nadie mide: los días entre la firma del contrato y la primera señal de vida del proyecto. La emoción del cliente nuevo no aguanta 12 días de silencio. ¿Cuánto tarda tu onboarding? Este caso lo bajó a 48 horas — automatizando la coordinación, no la relación."
+        "fb": "El momento que casi nadie mide: los días entre la firma del contrato y la primera señal de vida del proyecto. La emoción del cliente nuevo no aguanta 12 días de silencio. El sistema que Qolca construye lo baja a 48 horas — automatizando la coordinación, no la relación. ¿Cuánto tarda el tuyo? qolca.org"
       },
       "alt": "Caso de onboarding: limbo post-firma versus bienvenida automática en cinco minutos."
     },
     {
       "slug": "inventario",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El sistema: 40. El almacén: 12.", "b": "Caso: distribuidora con 2 almacenes" },
-        { "role": "rehook", "h": "\"Déjame verificar y te aviso.\"", "b": "Esa frase le costaba ventas todos los días. Verificar tardaba horas." },
-        { "role": "value", "h": "ANTES: el stock con dos verdades", "b": "El sistema decía una cosa; el almacén, otra. Ajustes manuales, conteos sorpresa, y la verdad real: nadie sabía cuánto había." },
-        { "role": "value", "h": "ANTES: quiebres descubiertos por el cliente", "b": "El producto estrella se agotaba y la empresa se enteraba cuando un cliente pedía y no había. Reponer: 2 semanas más." },
-        { "role": "value", "h": "DESPUÉS: una sola verdad, sincronizada", "b": "Ventas, compras y ambos almacenes conectados: cada movimiento actualiza el stock real al momento. Una cifra, no un debate." },
-        { "role": "value", "h": "DESPUÉS: el sistema avisa ANTES", "b": "\"El producto X se agota en 9 días; el proveedor tarda 14: pide HOY.\" La alerta llega antes del problema." },
-        { "role": "stat", "h": "Quiebres de stock: -80%.", "b": "Y el capital dejó de dormir en productos que no rotan. Comprar por datos, no por corazonada." },
-        { "role": "cta", "h": "¿Tu stock tiene dos verdades?", "b": "Si el sistema dice una cosa y el almacén otra, escríbenos." }
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Tu sistema dice 40. Tu almacén tiene 12.", "b": "Cómo tener una sola verdad" },
+        { "role": "rehook", "h": "\"Déjame verificar y te aviso.\"", "b": "Esa frase le costaba ventas todos los días a una distribuidora. Verificar tardaba horas." },
+        { "role": "value", "h": "El antes: un stock con dos verdades", "b": "El sistema decía una cosa; el almacén, otra. Y los quiebres se descubrían cuando un cliente pedía el producto estrella y no había. Reponer: 2 semanas más de espera." },
+        { "role": "value", "h": "El después: una sola cifra, siempre al día", "b": "Ventas, compras y ambos almacenes conectados: cada movimiento actualiza el stock real al momento. Y el sistema avisa ANTES: \"el producto X se agota en 9 días; el proveedor tarda 14: pide HOY\"." },
+        { "role": "value", "h": "80% menos quiebres de stock", "b": "Y el capital dejó de dormir en productos que no rotan. Comprar por datos, no por corazonada." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Conectamos tus sistemas para que el stock tenga una sola verdad, en empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Tu stock tiene dos verdades?", "b": "Escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "Caso distribuidora: el sistema decía 40 unidades, el almacén tenía 12 — y de los quiebres se enteraban por el cliente. Ahora hay UNA verdad sincronizada y el sistema avisa ANTES: \"se agota en 9 días, el proveedor tarda 14 — pide HOY\". Quiebres de stock: -80%. #inventario #logistica #automatizacion #peru",
+        "ig": "El sistema decía 40 unidades y el almacén tenía 12 — Qolca construyó la conexión que deja UNA sola verdad: cada venta y cada compra actualizan el stock al momento, y el sistema avisa ANTES del quiebre (\"se agota en 9 días, el proveedor tarda 14 — pide HOY\"). Resultado: 80% menos quiebres. qolca.org #inventario #logistica #automatizacion #peru",
         "tt": "Cuando el sistema dice 40 y el almacén tiene 12 📦 #inventario #logistica #pymes",
-        "fb": "Test rápido para distribuidores: ¿el stock de tu sistema y el de tu almacén dicen lo mismo AHORA MISMO? Si hay dos verdades, hay ventas perdidas escondidas. Este caso bajó quiebres 80% con una regla: cada movimiento actualiza UNA cifra, y las alertas llegan antes del problema."
+        "fb": "Test rápido para distribuidores: ¿el stock de tu sistema y el de tu almacén dicen lo mismo AHORA MISMO? Si hay dos verdades, hay ventas perdidas escondidas. El sistema que Qolca construye bajó los quiebres 80% con una regla: cada movimiento actualiza UNA cifra, y las alertas llegan antes del problema. qolca.org"
       },
       "alt": "Caso de inventario: dos verdades de stock versus sincronización única con alertas predictivas."
     },
     {
       "slug": "soporte-repetitivo",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "¿Qué pregunta respondes 40 veces?", "b": "El 60% de sus tickets era una sola" },
-        { "role": "rehook", "h": "\"¿Cómo cambio mi contraseña?\" — 40 veces por semana.", "b": "Respondida por humanos que podían resolver problemas de verdad." },
-        { "role": "value", "h": "ANTES: el equipo bombero", "b": "Dos personas apagando los mismos incendios: contraseñas, facturas, \"no me carga\". Los casos complejos esperaban detrás de los triviales." },
-        { "role": "value", "h": "ANTES: respuestas según el humor del día", "b": "La misma pregunta, tres respuestas distintas según quién y a qué hora. La información vivía en cabezas, no en un sistema." },
-        { "role": "value", "h": "DESPUÉS: el agente resuelve lo repetido", "b": "Entrenado con las respuestas REALES del negocio: resuelve el 60% al instante, a cualquier hora, siempre igual de bien." },
-        { "role": "value", "h": "DESPUÉS: los humanos, para lo humano", "b": "Lo complejo se deriva con contexto completo: \"cliente X, plan Y, ya intentó Z\". El equipo recibe casos listos para resolver." },
-        { "role": "stat", "h": "Primera respuesta: de 4 horas a 30 segundos.", "b": "Y el equipo de 2 ahora atiende el doble de clientes con menos estrés." },
-        { "role": "cta", "h": "¿Qué pregunta responde tu equipo 40 veces por semana?", "b": "Esa es la primera candidata. Escríbenos y la identificamos juntos." }
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Tu equipo responde la misma pregunta 40 veces.", "b": "Cómo liberarlo sin bajar la calidad" },
+        { "role": "rehook", "h": "El 60% de sus consultas era una sola pregunta.", "b": "\"¿Cómo cambio mi contraseña?\" — respondida por humanos que podían resolver problemas de verdad." },
+        { "role": "value", "h": "El antes: el equipo bombero", "b": "Dos personas apagando los mismos incendios: contraseñas, facturas, \"no me carga\". Los casos difíciles esperaban detrás de los triviales, y la misma pregunta tenía tres respuestas según quién y a qué hora." },
+        { "role": "value", "h": "El después: lo repetido se responde solo", "b": "Un sistema entrenado con las respuestas REALES del negocio resuelve el 60% al instante, a cualquier hora, siempre igual de bien. Lo difícil pasa al equipo con todo el contexto: \"cliente X, plan Y, ya intentó Z\"." },
+        { "role": "value", "h": "Primera respuesta: de 4 horas a 30 segundos", "b": "Y el equipo de 2 personas ahora atiende el doble de clientes con menos estrés." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas de atención que responden solos lo repetido, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Qué pregunta responde tu equipo 40 veces por semana?", "b": "Escríbenos en qolca.org con esa pregunta." }
       ],
       "caption": {
-        "ig": "Caso soporte: el 60% de los tickets era la misma pregunta con otro nombre — \"¿cómo cambio mi contraseña?\" 40 veces por semana, respondida por humanos que podían resolver problemas reales. Primera respuesta: de 4 horas a 30 segundos. Automatizar lo repetido no deshumaniza el soporte: libera a los humanos para lo humano. #soporte #atencionalcliente #ia #peru",
-        "tt": "El 60% de tus tickets es la misma pregunta con otro nombre 🎧 #soporte #ia #negocios",
-        "fb": "Ejercicio para equipos de soporte: cuenten cuántas veces respondieron LA MISMA pregunta esta semana. En este caso era el 60% de todos los tickets. La regla del caso: el agente resuelve lo repetido y deriva lo complejo CON contexto — el cliente nunca repite su historia. ¿Cuál es su pregunta más repetida?"
+        "ig": "El 60% de sus consultas era la misma pregunta con otro nombre — Qolca construyó el sistema que la responde solo, al instante y a cualquier hora: primera respuesta de 4 horas a 30 segundos, y el equipo de 2 ahora atiende el doble de clientes. Automatizar lo repetido libera a los humanos para lo humano. qolca.org #soporte #atencionalcliente #ia #peru",
+        "tt": "El 60% de tus consultas es la misma pregunta con otro nombre 🎧 #soporte #ia #negocios",
+        "fb": "Ejercicio para equipos de atención: cuenten cuántas veces respondieron LA MISMA pregunta esta semana. En este caso era el 60% de todo. El sistema que Qolca construye la responde solo y deriva lo difícil CON contexto — el cliente nunca repite su historia. ¿Cuál es su pregunta más repetida? qolca.org"
       },
       "alt": "Caso de soporte: tickets repetitivos versus agente que resuelve el 60% y deriva con contexto."
     },
     {
       "slug": "cobranza",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "S/ 180,000 por cobrar. Y roche.", "b": "El caso más común del Perú" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Te deben S/180,000 y te da roche cobrar.", "b": "El sistema que cobra sin incomodar" },
         { "role": "rehook", "h": "Cobrar incomoda. Así que se posterga.", "b": "Y una deuda de 90 días vale la mitad que una de 30." },
-        { "role": "value", "h": "ANTES: la cobranza emocional", "b": "Se cobraba \"cuando había tiempo\" y a quien \"no daba roche\". Los que más debían eran los que menos llamadas recibían." },
-        { "role": "value", "h": "ANTES: sin sistema, sin memoria", "b": "¿A quién se le recordó? ¿Quién prometió pagar el 15? Todo en la cabeza del administrador. O sea: en ningún lado." },
-        { "role": "value", "h": "DESPUÉS: la secuencia sin vergüenza", "b": "Recordatorio cordial → segundo aviso a los 7 → fraccionamiento a los 15 → alerta interna a los 30. El sistema no siente roche." },
-        { "role": "value", "h": "DESPUÉS: el tono siempre correcto", "b": "Mensajes cordiales con el detalle exacto y link de pago. Cobrar bien también cuida la relación." },
-        { "role": "stat", "h": "Días de cobro: de 74 a 39.", "b": "En 4 meses, sin una sola llamada incómoda. El flujo de caja se sintió el primer mes." },
-        { "role": "cta", "h": "¿Cuánto te deben ahora mismo?", "b": "Si la cifra te incomodó, la secuencia sin vergüenza es para ti. Escríbenos." }
+        { "role": "value", "h": "El antes: la cobranza emocional", "b": "Se cobraba \"cuando había tiempo\" y a quien \"no daba roche\". Los que más debían eran los que menos llamadas recibían. Y nadie recordaba quién prometió pagar el 15." },
+        { "role": "value", "h": "El después: la secuencia sin vergüenza", "b": "Recordatorio cordial antes del vencimiento → segundo aviso a los 7 días → oferta de pago en partes a los 15 → alerta interna a los 30. Siempre amable, con el detalle exacto y link de pago. El sistema no siente roche." },
+        { "role": "value", "h": "Días de cobro: de 74 a 39", "b": "En 4 meses, sin una sola llamada incómoda. El flujo de caja se sintió el primer mes." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas de cobranza automática y cordial para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Cuánto te deben ahora mismo?", "b": "Si la cifra te incomodó, escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "El caso más común del Perú: S/180,000 por cobrar y vergüenza de llamar. La cobranza emocional cobra \"cuando hay tiempo\" y a quien \"no da roche\" — y una deuda de 90 días vale la mitad que una de 30. La secuencia automática no siente vergüenza: cordial, puntual, con link de pago. Días de cobro: de 74 a 39. #cobranza #flujodecaja #pymes #peru",
+        "ig": "S/180,000 por cobrar y vergüenza de llamar — Qolca construye la secuencia de cobranza que no siente roche: recordatorios cordiales, puntuales y con link de pago, del pre-aviso hasta la alerta interna. Resultado: días de cobro de 74 a 39, sin una sola llamada incómoda. qolca.org #cobranza #flujodecaja #pymes #peru",
         "tt": "Cobrar da roche. El sistema no siente roche 💸 #cobranza #pymes #negocios",
-        "fb": "Verdad incómoda de las pymes peruanas: cobrar da roche, así que se posterga — y lo postergado envejece mal (una deuda de 90 días vale la mitad que una de 30). Este caso bajó los días de cobro de 74 a 39 sin UNA llamada incómoda. ¿Cuánto te deben ahora mismo? Esa cifra decide si sigues leyendo."
+        "fb": "Verdad incómoda de las pymes peruanas: cobrar da roche, así que se posterga — y una deuda de 90 días vale la mitad que una de 30. La secuencia automática que construye Qolca bajó los días de cobro de 74 a 39 sin UNA llamada incómoda. ¿Cuánto te deben ahora mismo? qolca.org"
       },
       "alt": "Caso de cobranza: postergación por incomodidad versus secuencia automática cordial."
     }

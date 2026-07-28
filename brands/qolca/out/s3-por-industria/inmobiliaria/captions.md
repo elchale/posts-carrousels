@@ -1,22 +1,22 @@
-# El Excel que mata tus leads
+# Pagas anuncios y los interesados mueren sin respuesta.
 
-`qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Tu publicidad trae leads. Tu Excel los deja morir 🏠
-#inmobiliaria #ventas #leads
+Tu publicidad trae interesados. Tu Excel los deja morir 🏠
+#inmobiliaria #ventas #automatizacion
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu publicidad trae leads; tu Excel los deja morir.
+Tu publicidad trae interesados; tu Excel los deja morir — Qolca automatiza el embudo por dentro: respuesta al minuto (a las 24 horas ya visitaron otro proyecto), seguimiento automático del 80% que no decide a la primera, confirmación de visitas (el 40% no llega sin ella) y panel siempre al día.
 
-Los 5 procesos que desangran inmobiliarias: responder al lead (a las 24h ya visitó otro proyecto), seguir a los tibios (el 80% no decide en la primera llamada), confirmar visitas (el 40% no llega), el reporte viejo y el post-venta que nadie hace.
+qolca.org
 
 #inmobiliaria #ventas #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Cinco procesos manuales de inmobiliarias: leads, seguimiento, confirmación de v
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Verdad del sector inmobiliario: el problema casi nunca es el presupuesto de publicidad — es el embudo interno. Lead sin responder 24h = lead que visitó otro proyecto. 40% de visitas no llegan (sin confirmación). ¿Cuántos leads recibe tu proyecto al mes y cuántos llegan a visita? Esa resta duele.
+Verdad del sector inmobiliario: el problema casi nunca es el presupuesto de publicidad — es el embudo interno. Interesado sin responder 24 horas = interesado que visitó otro proyecto. 40% de visitas no llegan sin confirmación. Qolca automatiza ese embudo. ¿Cuántos interesados recibe tu proyecto al mes y cuántos llegan a visita? qolca.org
 ```
 
 ## 💼 LinkedIn

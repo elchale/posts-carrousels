@@ -1,12 +1,12 @@
-# La rutina que nadie hace.
+# Haz esto antes de salir con tus hijos.
 
-`comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s1-protocolos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-La rutina de 2 minutos antes de salir de casa con niños 💜
+La rutina de 2 minutos antes de salir de casa con niños 💜 con la pulsera ComeHomeTag puesta.
 #padres #seguridadinfantil #crianza
 ```
 
@@ -14,22 +14,22 @@ La rutina de 2 minutos antes de salir de casa con niños 💜
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Checklist antes de salir con niños a lugares llenos de gente: 5 pasos que toman 2 minutos y cambian por completo cómo termina un susto.
+Qué hacer antes de salir con niños a lugares llenos de gente: 3 costumbres de 2 minutos — la foto del día, el punto de encuentro y tu número puesto en él con la pulsera QR de ComeHomeTag (quien lo encuentra escanea y te llama al instante).
 
-La (foto del día con la ropa de hoy) casi nadie la hace — y es la que más ayuda a seguridad. Guárdalo para tu próxima salida.
+Guárdalo para tu próxima salida.
 
-#1 #seguridadinfantil #crianza #padres #peru
+#seguridadinfantil #crianza #padres #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Checklist de cinco pasos de prevención antes de salir con niños a lugares concurridos.
+Tres costumbres antes de salir con niños: foto del día, punto de encuentro y pulsera ComeHomeTag con contacto.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Antes de salir al mall o a la feria con tus hijos: ¿haces alguna de estas 5 cosas? La foto del día casi nadie la toma y es la primera cosa que pide seguridad. ¿Cuál agregarías tú a la lista?
+Antes de salir al mall o a la feria con tus hijos: foto del día, punto de encuentro y tu número puesto en él. Para lo último existe la pulsera con QR de ComeHomeTag — sin batería, sin mensualidad. ¿Cuál de las 3 costumbres ya haces? comehometag.com
 ```

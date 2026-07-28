@@ -5,210 +5,200 @@
     {
       "slug": "51-al-dia",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "51 desapariciones al día.", "b": "En el Perú. Y un mito lo empeora." },
-        { "role": "stat", "h": "51 al día.", "b": "Denuncias por desaparición registradas por la Policía Nacional, enero a julio 2025 (Sidpol)." },
-        { "role": "value", "h": "No es una ciudad lejana", "b": "Es Lima, Arequipa, Trujillo, tu distrito. Personas comunes en días comunes: un mercado, una salida, un descuido de 40 segundos." },
-        { "role": "value", "h": "La mayoría se resuelve rápido...", "b": "...cuando la familia actúa en los primeros minutos con información correcta: foto reciente, descripción exacta, aviso inmediato." },
-        { "role": "value", "h": "El factor #1: poder contactar a la familia", "b": "Muchos casos terminan cuando ALGUIEN encuentra a la persona... y no sabe a quién llamar. Ese puente es lo único que falta." },
-        { "role": "value", "h": "El mito que cuesta horas", "b": "\"Hay que esperar 24 horas para denunciar\" — FALSO en el Perú. La denuncia es INMEDIATA, a cualquier hora, en cualquier comisaría." },
-        { "role": "value", "h": "Lo que sí controlas hoy", "b": "Identificación con contacto en niños y abuelos + protocolo familiar + foto del día. Tres cosas, un domingo." },
-        { "role": "cta", "h": "Derriba el mito de las 24 horas.", "b": "Compártelo con tu grupo familiar hoy: sigue costando tiempo que no se recupera." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "En el Perú desaparecen 51 personas al día.", "b": "Y un mito empeora cada caso." },
+        { "role": "rehook", "h": "51 denuncias por desaparición cada día.", "b": "Es el dato de la Policía (Sidpol, 2025). No pasa lejos: pasa en tu ciudad, en días comunes." },
+        { "role": "value", "n": "1", "h": "No esperes 24 horas: es mentira", "b": "La denuncia se hace de inmediato, a cualquier hora, en cualquier comisaría. Ese mito cuesta horas de oro." },
+        { "role": "value", "n": "2", "h": "Los primeros minutos deciden casi todo", "b": "La mayoría de casos se resuelve rápido cuando la familia actúa de una vez: foto reciente, ropa exacta, aviso inmediato." },
+        { "role": "value", "n": "3", "h": "El problema final: ¿a quién llamar?", "b": "Muchos casos terminan cuando alguien encuentra a la persona… y no sabe cómo avisar a la familia. Ese puente es lo que falta." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Comparte esto con tu familia.", "b": "Y pide las pulseras en comehometag.com. El mito de las 24 horas se derriba hoy." }
       ],
       "caption": {
-        "ig": "51 personas desaparecen cada día en el Perú (Sidpol, enero-julio 2025) — y el mito de \"esperar 24 horas para denunciar\" sigue costando horas que no se recuperan: en el Perú la denuncia es INMEDIATA, a cualquier hora, en cualquier comisaría. Guarda y comparte con tu grupo familiar. #desaparecidos #peru #seguridadfamiliar #prevencion",
-        "tt": "El mito de las 24 horas que sigue costando tiempo valioso en Perú 💜 #peru #prevencion #sabiasque",
-        "fb": "¿Sabías que en el Perú NO hay que esperar 24 horas para denunciar una desaparición? Es un mito de películas — la denuncia se recibe de inmediato en cualquier comisaría. 51 personas desaparecen cada día (Sidpol 2025). Comparte para derribar el mito: sigue costando horas valiosas."
+        "ig": "En el Perú se denuncian 51 desapariciones al día (Sidpol 2025) — y para el momento en que alguien encuentra a una persona perdida existe la pulsera QR de ComeHomeTag: la escanea con su celular y llama a la familia al instante. Ojo con el mito: NO hay que esperar 24 horas para denunciar; es inmediato, en cualquier comisaría. Guarda y comparte con tu grupo familiar. #desaparecidos #peru #seguridadfamiliar #prevencion",
+        "tt": "51 desapariciones al día en el Perú — y el mito de las 24 horas es FALSO 💜 pulsera ComeHomeTag para el momento clave. #peru #prevencion #sabiasque",
+        "fb": "¿Sabías que en el Perú NO hay que esperar 24 horas para denunciar una desaparición? Es inmediato, en cualquier comisaría. 51 personas desaparecen al día (Sidpol 2025) — y la mayoría vuelve rápido cuando quien la encuentra puede llamar a la familia. Para eso existe la pulsera con QR de ComeHomeTag. comehometag.com"
       },
-      "alt": "Infografía: 51 desapariciones diarias en el Perú, el mito de las 24 horas y las tres defensas familiares."
+      "alt": "Infografía: 51 desapariciones diarias en el Perú, el mito de las 24 horas y la pulsera QR de ComeHomeTag."
     },
     {
       "slug": "52-por-ciento-menores",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "¿Quiénes desaparecen más en Perú?", "b": "Más de la mitad son niños. 3 defensas." },
-        { "role": "stat", "h": "52%", "b": "De las denuncias por desaparición en el Perú corresponden a menores de edad (Sidpol, ene-jul 2025)." },
-        { "role": "value", "h": "¿Dónde ocurre?", "b": "En escenarios comunes: lugares concurridos, trayectos de todos los días, distracciones de segundos. No en películas: en sábados." },
-        { "role": "value", "h": "Un niño perdido no razona como adulto", "b": "Corre, cambia de dirección, olvida números que \"se sabía\". El plan tiene que asumir al niño real, no al ideal." },
-        { "role": "value", "h": "Defensa 1: el protocolo jugado", "b": "\"Te quedas donde estás. Buscas a una mamá con niños o a un uniformado.\" Se enseña jugando, se repasa cada mes." },
-        { "role": "value", "h": "Defensa 2: el contacto escrito encima", "b": "El susto borra la memoria; lo escrito no. Una identificación convierte a cualquier adulto honesto en el puente de regreso." },
-        { "role": "value", "h": "Defensa 3: la foto del día", "b": "Cinco segundos en la puerta. La descripción perfecta, siempre lista, sin depender de la memoria bajo pánico." },
-        { "role": "cta", "h": "Tres defensas. Una semana.", "b": "Protocolo + identificación + foto. Guarda esta guía y actívalas." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Más de la mitad de desaparecidos son niños.", "b": "3 defensas simples para tu familia." },
+        { "role": "rehook", "h": "52 de cada 100 denuncias son menores de edad.", "b": "Dato de la Policía (Sidpol, 2025). Pasa en días comunes: el mercado, el mall, la playa." },
+        { "role": "value", "n": "1", "h": "Defensa 1: enséñale el plan jugando", "b": "\"Si no me ves, te quedas quieto y buscas a una mamá con niños o a un uniformado.\" Se repasa cada mes." },
+        { "role": "value", "n": "2", "h": "Defensa 2: tu número puesto en él", "b": "El susto borra los números de memoria. Lo escrito no. Que lo lleve encima, siempre." },
+        { "role": "value", "n": "3", "h": "Defensa 3: la foto del día", "b": "Antes de salir, una foto con la ropa de hoy. Cinco segundos que dan la descripción perfecta." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Activa las 3 defensas esta semana.", "b": "La pulsera está en comehometag.com. Guarda esta guía." }
       ],
       "caption": {
-        "ig": "El 52% de las desapariciones reportadas en el Perú son menores de edad (Sidpol 2025) — y ocurren en escenarios comunes: el mercado del sábado, el mall, la playa. Las tres defensas que toda familia puede activar esta semana: protocolo enseñado jugando, contacto escrito encima y la foto del día. #seguridadinfantil #peru #padres #prevencion",
-        "tt": "Más de la mitad de los desaparecidos en Perú son niños. Las 3 defensas 💜 #peru #padres #prevencion",
-        "fb": "Dato duro: más de la mitad de las denuncias por desaparición en el Perú son menores de edad. La buena noticia: las tres defensas más efectivas son casi gratis — protocolo jugado, identificación puesta y foto del día. ¿Cuántas tiene activas tu familia? Sé honesto."
+        "ig": "Más de la mitad de las desapariciones reportadas en el Perú son menores de edad (Sidpol 2025) — y las 3 defensas más simples son casi gratis: el plan enseñado jugando, tu número puesto en él con la pulsera QR de ComeHomeTag (quien lo encuentra escanea y te llama al instante) y la foto del día. #seguridadinfantil #peru #padres #prevencion",
+        "tt": "Más de la mitad de los desaparecidos en Perú son niños. Las 3 defensas 💜 con la pulsera ComeHomeTag. #peru #padres #prevencion",
+        "fb": "Dato duro: más de la mitad de las denuncias por desaparición en el Perú son menores de edad. La buena noticia: las 3 defensas son simples — plan jugado, número puesto y foto del día. Para lo segundo existe la pulsera con QR de ComeHomeTag: sin batería, sin mensualidad. ¿Cuántas tiene activas tu familia? comehometag.com"
       },
-      "alt": "Infografía: 52% de desapariciones en Perú son menores y las tres defensas familiares."
+      "alt": "Infografía: 52% de desapariciones en Perú son menores y las tres defensas, incluida la pulsera ComeHomeTag."
     },
     {
       "slug": "200-mil-alzheimer",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "200,000 peruanos. Casi ningún plan.", "b": "Alzheimer: el síntoma del que nadie habla" },
-        { "role": "stat", "h": "6 de cada 10", "b": "personas con demencia se extraviarán al menos una vez (Alzheimer's Association). En el Perú: 200,000+ casos (MINSA)." },
-        { "role": "value", "h": "La deambulación es parte de la enfermedad", "b": "Salir de casa y no encontrar el camino de vuelta no es rebeldía ni descuido del cuidador. Es un síntoma. Con plan." },
-        { "role": "value", "h": "Caminan hacia su memoria", "b": "No van a lugares nuevos: van al trabajo de hace 30 años, a la casa donde crecieron, a la iglesia de siempre. Ahí se busca primero." },
-        { "role": "value", "h": "El plan que sí funciona", "b": "Identificación puesta SIEMPRE (no en la billetera) + el barrio presentado y alerta + protocolo familiar con roles." },
-        { "role": "value", "h": "Y cuidar al cuidador", "b": "No es tu culpa, no puedes vigilar 24/7, y prepararte no es pesimismo: es amor con los ojos abiertos." },
-        { "role": "cta", "h": "Comparte con quien cuida.", "b": "En tu familia o tu barrio hay un cuidador que necesita leer esto hoy — antes del primer susto." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "200,000 peruanos tienen Alzheimer. Pocos tienen plan.", "b": "6 de cada 10 se perderán alguna vez." },
+        { "role": "rehook", "h": "Perderse es parte de la enfermedad.", "b": "6 de cada 10 personas con demencia se extravían al menos una vez (alz.org). No es descuido de nadie: por eso se arma un plan." },
+        { "role": "value", "n": "1", "h": "Caminan hacia su pasado", "b": "No van a lugares nuevos: van a su casa antigua, su trabajo de antes, su iglesia de siempre. Ahí se busca primero." },
+        { "role": "value", "n": "2", "h": "Identificación puesta, siempre", "b": "En la muñeca, no en la billetera. Así sale con él aunque salga \"solo un momento\" — que es justo cuando pasa." },
+        { "role": "value", "n": "3", "h": "Avisa al barrio", "b": "El bodeguero, el vigilante, la casera: lo ven todos los días. \"Si lo ven solo, me llaman.\" Nadie dice que no." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Comparte con quien cuida.", "b": "Y consigue su pulsera en comehometag.com — antes del primer susto." }
       ],
       "caption": {
-        "ig": "Más de 200,000 peruanos viven con Alzheimer (MINSA) y 6 de cada 10 personas con demencia se extraviarán al menos una vez (alz.org). La deambulación es un SÍNTOMA, no un descuido — y caminan hacia su memoria: el trabajo de hace 30 años, la casa de la infancia. El plan: identificación siempre puesta, barrio alerta, roles familiares. #alzheimer #cuidadores #adultomayor #peru",
-        "tt": "6 de cada 10 personas con Alzheimer se extravían. Esto ayuda 💜 #alzheimer #cuidadores #abuelos",
-        "fb": "Si tu familia cuida a alguien con Alzheimer: 6 de cada 10 personas con demencia se extravían al menos una vez, y casi siempre caminando hacia lugares de su PASADO. No es descuido del cuidador — es un síntoma, y tiene plan. Comparte con un cuidador: mejor antes del primer susto."
+        "ig": "Más de 200,000 peruanos viven con Alzheimer (MINSA) y 6 de cada 10 personas con demencia se extraviarán al menos una vez (alz.org) — por eso existe la pulsera QR de ComeHomeTag: quien lo encuentra escanea y llama a la familia al instante. El plan: buscar en su pasado, identificación puesta y barrio avisado. Comparte con quien cuida. #alzheimer #cuidadores #adultomayor #peru",
+        "tt": "6 de cada 10 personas con Alzheimer se extravían. Esto ayuda 💜 pulsera ComeHomeTag puesta siempre. #alzheimer #cuidadores #abuelos",
+        "fb": "Si tu familia cuida a alguien con Alzheimer: 6 de cada 10 personas con demencia se extravían al menos una vez, casi siempre caminando hacia lugares de su PASADO. No es descuido — es la enfermedad, y tiene plan: identificación puesta (la pulsera QR de ComeHomeTag no necesita batería), barrio avisado y búsqueda en su pasado. comehometag.com"
       },
-      "alt": "Infografía sobre Alzheimer en el Perú: prevalencia, riesgo de extravío y plan familiar de prevención."
+      "alt": "Infografía sobre Alzheimer en el Perú: riesgo de extravío, plan familiar y pulsera QR de ComeHomeTag."
     },
     {
       "slug": "minutos-criticos",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "¿Cuánto camina un niño perdido?", "b": "Haz la cuenta: cada minuto agranda el mapa" },
-        { "role": "stat", "h": "100 metros por minuto.", "b": "Lo que camina un niño. Haz la cuenta y entenderás por qué cada minuto vale oro." },
-        { "role": "value", "h": "Minuto 1: un pasillo", "b": "Recién notas la ausencia. Está a metros. Por eso el protocolo empieza con quedarte y gritar nombre + tu nombre." },
-        { "role": "value", "h": "Minuto 5: una manzana entera", "b": "Un buscador solo ya no la cubre. Por eso se avisa a seguridad ANTES de buscar por tu cuenta — no después." },
-        { "role": "value", "h": "Minuto 30: un distrito", "b": "Imposible para una familia sola. CON aviso temprano, cámaras y radios lo cierran en minutos. La diferencia fue el minuto 2." },
-        { "role": "value", "h": "Lo que ENCOGE el área: información", "b": "Foto del día, ropa exacta, punto de última vista. Cada dato preciso convierte kilómetros en metros." },
-        { "role": "value", "h": "Lo que la CIERRA: el contacto directo", "b": "Cuando quien lo encuentra puede llamar a la familia al instante, la búsqueda no crece: TERMINA." },
-        { "role": "cta", "h": "El tiempo es el enemigo. La preparación, tu ventaja.", "b": "Guarda la matemática y compártela: cambia cómo se actúa en el minuto 1." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Un niño perdido camina 100 metros por minuto.", "b": "Por eso cada minuto vale oro." },
+        { "role": "rehook", "h": "Haz la cuenta conmigo.", "b": "Minuto 1: está a unos pasos. Minuto 5: a una manzana. Minuto 30: puede estar en cualquier parte del distrito." },
+        { "role": "value", "n": "1", "h": "Actúa en el minuto 1", "b": "Quédate donde te vio, grita su nombre y el tuyo, y avisa a seguridad de inmediato. No busques solo primero." },
+        { "role": "value", "n": "2", "h": "La información encoge el mapa", "b": "Foto de hoy, ropa exacta, último lugar donde lo viste. Cada dato preciso convierte cuadras en metros." },
+        { "role": "value", "n": "3", "h": "Una llamada termina la búsqueda", "b": "Si quien lo encuentra puede llamarte al instante, la búsqueda no crece: se acaba ahí mismo." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Guarda esta cuenta.", "b": "Y ponle su pulsera: comehometag.com. Que la búsqueda termine en una llamada." }
       ],
       "caption": {
-        "ig": "La matemática de un extravío que nadie te enseñó: un niño camina ~100 metros por minuto. Minuto 1: un pasillo. Minuto 5: una manzana. Minuto 30: un distrito — 60 veces más área. Por eso el aviso a seguridad va ANTES de buscar solo, y por eso el contacto directo encima no encoge la búsqueda: la TERMINA. #prevencion #seguridadinfantil #peru #padres",
-        "tt": "Por qué los primeros minutos lo son todo (la matemática) ⏱️💜 #prevencion #sabiasque #padres",
-        "fb": "Haz esta cuenta: un niño camina 100 metros por minuto. A los 5 minutos el área de búsqueda es una manzana; a los 30, un distrito entero. ¿Entiendes ahora por qué la foto del día y el aviso INMEDIATO a seguridad no son exageración? Comparte la matemática — cambia decisiones."
+        "ig": "Un niño perdido camina unos 100 metros por minuto: al minuto 5 está a una manzana, al minuto 30 puede estar en cualquier parte del distrito. Por eso el aviso a seguridad va primero — y por eso la pulsera QR de ComeHomeTag termina búsquedas: quien lo encuentra escanea y te llama al instante. #prevencion #seguridadinfantil #peru #padres",
+        "tt": "Por qué los primeros minutos lo son todo (la matemática) ⏱️💜 y cómo la pulsera ComeHomeTag la cambia. #prevencion #sabiasque #padres",
+        "fb": "Haz esta cuenta: un niño camina 100 metros por minuto. A los 5 minutos, una manzana; a los 30, un distrito entero. La búsqueda crece cada minuto… salvo que quien lo encuentre pueda llamarte al instante — para eso existe la pulsera con QR de ComeHomeTag. comehometag.com"
       },
-      "alt": "Infografía de la expansión del área de búsqueda por minuto y los factores que la encogen o cierran."
+      "alt": "Infografía de cuánto crece la búsqueda por minuto y cómo la pulsera ComeHomeTag la termina con una llamada."
     },
     {
       "slug": "verano-playas",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Verano: temporada #1 de perdidos.", "b": "Y la playa tiene sus propias reglas" },
-        { "role": "stat", "h": "Enero - Marzo.", "b": "Los meses con más reportes de menores extraviados en zonas de playa. Más gente + ropa idéntica + el agua." },
-        { "role": "value", "h": "Por qué la playa es distinta", "b": "Todos los niños se ven iguales: gorro, ropa de baño, arena. Y se desplazan EN DIAGONAL siguiendo las olas, sin notarlo." },
-        { "role": "value", "h": "El protocolo de guardavidas", "b": "PRIMERO descartar el agua. Después la arena. Y avisar al torreón: ellos ven desde arriba y tienen radio entre puestos." },
-        { "role": "value", "h": "El plan de llegada", "b": "Sombrilla con referencia fija (\"frente al letrero azul\") + la regla ensayada: \"si no me ves, te paras en la orilla y NO caminas\"." },
-        { "role": "value", "h": "Identificación que aguante el mar", "b": "En la playa no hay bolsillos. La identificación va PUESTA y tiene que sobrevivir agua y arena. El papelito no llega vivo a las 11." },
-        { "role": "value", "h": "El horario cambia el riesgo", "b": "De 11 a 3 la densidad se duplica y el ruido tapa los nombres. Ir temprano no es solo por el sol." },
-        { "role": "cta", "h": "Guárdalo para el próximo sol.", "b": "Y mándalo a la familia con la que veranean: el dato de la diagonal no lo conoce nadie." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "En verano se pierden más niños que nunca.", "b": "La playa tiene sus propias reglas." },
+        { "role": "rehook", "h": "Enero a marzo: los meses con más niños extraviados.", "b": "En la playa todos se ven iguales — y las olas los van corriendo de lado sin que lo noten." },
+        { "role": "value", "n": "1", "h": "Elige una seña fija", "b": "\"Nuestra sombrilla está frente al letrero azul.\" Para un niño, todas las sombrillas son iguales." },
+        { "role": "value", "n": "2", "h": "La regla de la orilla", "b": "\"Si no me ves, te paras en la orilla y NO caminas.\" Ensáyala al llegar. Toma un minuto." },
+        { "role": "value", "n": "3", "h": "Si pasa: primero el agua, luego el torreón", "b": "Es el orden de los guardavidas: descartar el agua y avisar al torreón antes de buscar solo. Ellos ven desde arriba." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo, que aguanta agua y arena. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Guárdalo para el próximo sol.", "b": "Y llévalo a la playa con su pulsera puesta: comehometag.com." }
       ],
       "caption": {
-        "ig": "El verano es la temporada #1 de niños extraviados en el Perú: playas llenas, ropa idéntica y un dato que pocos conocen — los niños se desplazan EN DIAGONAL siguiendo las olas, sin notarlo. El protocolo de guardavidas (primero el agua, después la arena) y el plan de llegada de 60 segundos. #verano #playa #seguridadinfantil #peru",
-        "tt": "Por qué la playa es el lugar #1 donde se pierden niños en verano 🌊💜 #playa #verano #padres",
-        "fb": "Dato de verano que cambia cómo miras la playa: en la arena todos los niños se ven iguales (gorro, ropa de baño) y se desplazan EN DIAGONAL con las olas — terminan a 200 metros sin darse cuenta. ¿Conocías el protocolo de guardavidas? Primero el agua, siempre. Guarda el plan."
+        "ig": "El verano es la temporada con más niños extraviados en el Perú — y en la playa las olas los van corriendo de lado sin que lo noten. Las reglas: seña fija para la sombrilla, la regla de la orilla y el orden de los guardavidas (primero el agua). La pulsera QR de ComeHomeTag aguanta agua y arena: quien lo encuentra escanea y te llama al instante. #verano #playa #seguridadinfantil #peru",
+        "tt": "Por qué la playa es el lugar #1 donde se pierden niños en verano 🌊💜 pulsera ComeHomeTag que aguanta el mar. #playa #verano #padres",
+        "fb": "Dato de verano: en la playa todos los niños se ven iguales (gorro, ropa de baño) y las olas los corren EN DIAGONAL — terminan lejos sin darse cuenta. Las reglas simples están en el post, y la pulsera con QR de ComeHomeTag aguanta agua y arena para que cualquiera pueda llamarte al instante. comehometag.com"
       },
-      "alt": "Infografía del riesgo de extravío infantil en verano: desplazamiento diagonal, protocolo de guardavidas y plan de llegada."
+      "alt": "Infografía del riesgo de extravío infantil en verano: reglas de playa y pulsera ComeHomeTag resistente al agua."
     },
     {
       "slug": "memoria-bajo-panico",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "\"Se sabe mi número de memoria.\"", "b": "Hasta que se pierde. Neurología del pánico." },
-        { "role": "stat", "h": "El cortisol bloquea la memoria de trabajo.", "b": "Neurología básica: bajo estrés agudo, recitar secuencias (como un teléfono) se vuelve casi imposible. En niños, más." },
-        { "role": "value", "h": "Pruébalo hoy, sin drama", "b": "Pídele tu número tranquilo: lo dice perfecto. Pídeselo agitado, después de correr y gritar en el parque: se traba. Eso, elevado al pánico real." },
-        { "role": "value", "h": "Además: un niño perdido no recita. Llora.", "b": "El número tiene que estar disponible cuando el niño NO PUEDE hablar. Eso solo lo hace lo escrito." },
-        { "role": "value", "h": "Los adultos tampoco nos salvamos", "b": "¿Te sabes algún número que no sea el tuyo? El celular nos quitó esa memoria. A los niños ni se la dio." },
-        { "role": "value", "h": "Memorizar SÍ — como respaldo", "b": "Enseñar el número suma. Confiar SOLO en eso es apostar la reunión familiar a la neurología del pánico." },
-        { "role": "value", "h": "Las tres capas", "b": "Número memorizado (respaldo) + contacto escrito puesto (base) + protocolo ensayado (comportamiento). La mesa de tres patas no se cae." },
-        { "role": "cta", "h": "Haz el experimento del parque.", "b": "Y luego pon la segunda capa. Guarda esta guía para explicárselo a tu familia." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Asustado, tu hijo olvida tu número.", "b": "Es biología. Y tiene solución simple." },
+        { "role": "rehook", "h": "El susto bloquea la memoria.", "b": "Un niño tranquilo recita tu número perfecto. Un niño perdido llora — y no recita nada. Le pasa a todos." },
+        { "role": "value", "n": "1", "h": "Haz la prueba hoy, sin drama", "b": "Pídele tu número tranquilo: lo dice perfecto. Pídeselo agitado, después de correr en el parque: se traba." },
+        { "role": "value", "n": "2", "h": "Enséñale el número igual — como respaldo", "b": "Memorizar suma. Pero el plan no puede depender solo de la memoria de un niño asustado." },
+        { "role": "value", "n": "3", "h": "Lo escrito no se asusta", "b": "Tu número puesto en él funciona incluso cuando el niño no puede ni hablar. Esa es la base." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Pon la base hoy.", "b": "Su pulsera con tu número está en comehometag.com. Guarda esta guía." }
       ],
       "caption": {
-        "ig": "\"Mi hijo se sabe mi número de memoria\" — hasta que se pierde: el estrés agudo bloquea la memoria de trabajo (cortisol, neurología básica) y un niño perdido no recita números… llora. Haz el experimento del parque hoy: pídele tu número agitado después de correr. Lo escrito es la base; lo memorizado, el respaldo. #crianza #seguridadinfantil #neurociencia #peru",
-        "tt": "Tu hijo sabe tu número… hasta que se asusta. Neurología del pánico 🧠💜 #crianza #sabiasque #padres",
-        "fb": "Experimento para hoy: pídele tu número a tu hijo tranquilo (lo dice perfecto) y luego agitado, después de correr y reír fuerte en el parque (se traba). Esa diferencia ×100 es un niño perdido. Por eso lo escrito no reemplaza a la memoria: la RESPALDA. ¿Lo probaste?"
+        "ig": "\"Mi hijo se sabe mi número de memoria\" — hasta que se asusta: el susto bloquea la memoria y un niño perdido no recita números, llora. Por eso lo memorizado es el respaldo y lo escrito es la base: la pulsera QR de ComeHomeTag lleva tu contacto puesto y funciona aunque él no pueda hablar. Haz la prueba del parque hoy. #crianza #seguridadinfantil #peru",
+        "tt": "Tu hijo sabe tu número… hasta que se asusta 🧠💜 la pulsera ComeHomeTag no se asusta. #crianza #sabiasque #padres",
+        "fb": "Experimento para hoy: pídele tu número a tu hijo tranquilo (lo dice perfecto) y luego agitado, después de correr en el parque (se traba). Eso, elevado al susto real, es un niño perdido. Por eso el número va PUESTO: la pulsera con QR de ComeHomeTag funciona aunque él no pueda hablar. comehometag.com"
       },
-      "alt": "Por qué el estrés bloquea la memoria de números en niños y la estrategia de tres capas."
+      "alt": "Por qué el susto borra los números de memoria y cómo la pulsera ComeHomeTag lleva el contacto puesto."
     },
     {
       "slug": "quien-encuentra",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "No los encuentra la policía.", "b": "La estadística más tranquilizadora que existe" },
-        { "role": "stat", "h": "Un adulto común.", "b": "Ni rescatista ni policía: quien más encuentra niños perdidos es un ciudadano cualquiera que estaba ahí." },
-        { "role": "value", "h": "La buena noticia escondida", "b": "El mundo tiene muchos más adultos dispuestos a ayudar que lo contrario. Todo el sistema de reunión depende de ELLOS." },
-        { "role": "value", "h": "El problema de ese adulto bueno", "b": "Encuentra al niño... ¿y ahora qué? No sabe a quién llamar. Policía, trámite, horas. El niño llorando todo ese tiempo." },
-        { "role": "value", "h": "El atajo que lo cambia todo", "b": "Contacto directo visible: ese mismo adulto marca y en segundos la familia está en camino. De horas a minutos." },
-        { "role": "value", "h": "Enséñale a tu hijo a MOSTRARLO", "b": "\"Si alguien te ayuda, muéstrale tu pulsera.\" El sistema funciona cuando el niño sabe usarlo." },
-        { "role": "value", "h": "Y quién es el adulto seguro", "b": "Mamá con niños o uniformado del lugar. La estadística ayuda; la instrucción la convierte en plan." },
-        { "role": "cta", "h": "Confía en la matemática de la gente buena.", "b": "Y dale una forma de ayudarte: ese es todo el secreto. Guarda esto." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "A los niños perdidos los encuentra gente común.", "b": "La estadística más tranquilizadora que existe." },
+        { "role": "rehook", "h": "Ni policías ni rescatistas.", "b": "A la mayoría la encuentra un señor o una señora que pasaba por ahí. El mundo tiene más gente buena que mala." },
+        { "role": "value", "n": "1", "h": "El problema del que ayuda", "b": "Encuentra al niño… ¿y a quién llama? Sin un contacto, siguen horas de trámites — con el niño llorando." },
+        { "role": "value", "n": "2", "h": "El puente que lo resuelve", "b": "Si el niño lleva tu número encima, esa misma persona te marca y en minutos estás ahí." },
+        { "role": "value", "n": "3", "h": "Enséñale a mostrar su pulsera", "b": "\"Si alguien te ayuda, muéstrale tu pulsera.\" El sistema funciona cuando el niño sabe usarlo." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Confía en la gente buena.", "b": "Y dale una forma de ayudarte: comehometag.com." }
       ],
       "caption": {
-        "ig": "La estadística más tranquilizadora: a la mayoría de niños perdidos los encuentra un adulto común que estaba cerca — no la policía. El problema: ese adulto bueno no sabe a quién llamar, y ahí se pierden horas. El contacto directo visible convierte al primer desconocido bueno en el puente de regreso. #seguridadinfantil #comunidad #peru #prevencion",
-        "tt": "¿Quién encuentra a la mayoría de niños perdidos? No es quien crees 💜 #sabiasque #comunidad #padres",
-        "fb": "¿Quién crees que encuentra a la mayoría de niños perdidos? No es la policía: es un ciudadano común que estaba cerca. La pregunta que importa: cuando encuentre al tuyo… ¿sabrá a quién llamar? Esa brecha exacta es la que cierra una identificación con contacto."
+        "ig": "A la mayoría de niños perdidos no los encuentra la policía: los encuentra una persona común que pasaba por ahí. El problema es que esa persona buena no sabe a quién llamar — y ahí se pierden horas. La pulsera QR de ComeHomeTag cierra esa brecha: escanea con su celular y te llama al instante. #seguridadinfantil #comunidad #peru #prevencion",
+        "tt": "¿Quién encuentra a la mayoría de niños perdidos? No es quien crees 💜 la pulsera ComeHomeTag le da el puente. #sabiasque #comunidad #padres",
+        "fb": "¿Quién crees que encuentra a la mayoría de niños perdidos? No es la policía: es un ciudadano común que estaba cerca. La pregunta que importa: cuando encuentre al tuyo… ¿sabrá a quién llamar? Esa brecha exacta la cierra la pulsera con QR de ComeHomeTag. comehometag.com"
       },
-      "alt": "Infografía: los niños perdidos son encontrados por ciudadanos comunes y el contacto visible acelera la reunión."
+      "alt": "Infografía: a los niños perdidos los encuentra gente común y la pulsera ComeHomeTag les da a quién llamar."
     },
     {
       "slug": "adulto-mayor-radio",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Está a 1.5 km. Búscalo bien.", "b": "El mapa que tu familia debería tener" },
-        { "role": "stat", "h": "1.5 km.", "b": "La mayoría de personas con demencia extraviadas aparece dentro de ese radio, sobre rutas conocidas." },
-        { "role": "value", "h": "No buscan escapar. Buscan VOLVER.", "b": "\"Ir a trabajar\", \"volver a mi casa\" (la de hace 40 años), \"ir a misa\". La memoria antigua da la orden; los pies obedecen." },
-        { "role": "value", "h": "El mapa de SU pasado", "b": "Haz hoy la lista de 5: casa de infancia, antiguos trabajos, iglesia, mercado de siempre, parque. Ese es el mapa de búsqueda." },
-        { "role": "value", "h": "Los primeros aliados: el barrio", "b": "Bodeguero, vigilante, farmacéutico, caseras. \"Si lo ven solo y desorientado, llámenme.\" Nadie dice que no." },
-        { "role": "value", "h": "La denuncia va EN PARALELO", "b": "Comisaría de inmediato MIENTRAS la familia recorre el mapa. Nunca en secuencia: en paralelo. Cada minuto cuenta doble." },
-        { "role": "value", "h": "Identificación que no pueda olvidar", "b": "No en la billetera que dejó en casa: PUESTA. Va con él aunque salga \"solo un momento\" — que es exactamente cuando pasa." },
-        { "role": "cta", "h": "Haz el mapa de 5 lugares hoy.", "b": "Toma 10 minutos. Guarda esta guía y compártela con tus hermanos." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Un abuelo extraviado casi siempre está cerca.", "b": "A menos de 15 cuadras. Busca así." },
+        { "role": "rehook", "h": "La mayoría aparece a menos de 1.5 km de casa.", "b": "No buscan escapar: buscan volver — a su casa antigua, su trabajo de antes, su iglesia. La memoria antigua manda." },
+        { "role": "value", "n": "1", "h": "Haz hoy el mapa de 5 lugares", "b": "Casa de infancia, antiguos trabajos, iglesia, mercado, parque. Toma 10 minutos y es tu mapa de búsqueda." },
+        { "role": "value", "n": "2", "h": "Avisa al barrio", "b": "Bodeguero, vigilante, farmacéutico: \"si lo ven solo y desorientado, me llaman\". Nadie dice que no." },
+        { "role": "value", "n": "3", "h": "La denuncia va en paralelo", "b": "Comisaría de inmediato MIENTRAS la familia recorre el mapa. No hay que esperar 24 horas: es un mito." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Haz el mapa hoy. Son 10 minutos.", "b": "Y su pulsera puesta siempre: comehometag.com. Compártelo con tus hermanos." }
       ],
       "caption": {
-        "ig": "Dónde buscar a un adulto mayor con demencia que salió solo: casi siempre está a menos de 1.5 km, caminando hacia un lugar de SU pasado — la casa de infancia, el antiguo trabajo, la iglesia de siempre. Haz hoy el mapa de 5 lugares (10 minutos) y arma la red de barrio. La denuncia va EN PARALELO, no después. #alzheimer #adultomayor #cuidadores #peru",
-        "tt": "Dónde buscar PRIMERO a un abuelito extraviado (salva horas) 💜 #alzheimer #abuelos #cuidadores",
-        "fb": "Si un adulto mayor con demencia sale solo, casi siempre está a menos de 1.5 km — caminando hacia su PASADO. ¿Tu familia ya hizo el \"mapa de 5 lugares\"? Casa de infancia, antiguo trabajo, iglesia, mercado, parque. Son 10 minutos hoy que pueden ahorrar horas el peor día."
+        "ig": "Dónde buscar a un adulto mayor con demencia que salió solo: casi siempre está a menos de 1.5 km, caminando hacia un lugar de SU pasado. Haz hoy el mapa de 5 lugares, avisa al barrio y pon la denuncia EN PARALELO. Y con la pulsera QR de ComeHomeTag, quien lo encuentre llama a la familia al instante. #alzheimer #adultomayor #cuidadores #peru",
+        "tt": "Dónde buscar PRIMERO a un abuelito extraviado (salva horas) 💜 con su pulsera ComeHomeTag puesta. #alzheimer #abuelos #cuidadores",
+        "fb": "Si un adulto mayor con demencia sale solo, casi siempre está a menos de 1.5 km — caminando hacia su PASADO. ¿Tu familia ya hizo el mapa de 5 lugares? Son 10 minutos hoy. Y la pulsera con QR de ComeHomeTag hace que cualquier vecino pueda llamarlos al instante. comehometag.com"
       },
-      "alt": "Guía de búsqueda de adultos mayores: radio de 1.5 km, mapa del pasado, red de barrio y denuncia en paralelo."
+      "alt": "Guía de búsqueda de adultos mayores: mapa del pasado, red de barrio, denuncia en paralelo y pulsera ComeHomeTag."
     },
     {
       "slug": "costo-tranquilidad",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "¿Pagas mensualidad por tranquilidad?", "b": "La cuenta honesta: GPS vs identificación" },
-        { "role": "stat", "h": "S/ 540 - 780 al año.", "b": "Lo que cuestan las mensualidades de un rastreador GPS para niños o abuelos. Más el aparato. Cada año, para siempre." },
-        { "role": "value", "h": "El GPS tiene su lugar...", "b": "Deambulación severa o casos específicos: ahí puede justificarse. Es una herramienta válida — con letras chicas." },
-        { "role": "value", "h": "...y tres talones de Aquiles", "b": "Batería (se descarga justo el día que importa), señal (falla en interiores y mercados) y mensualidad (se cancela el mes difícil)." },
-        { "role": "value", "h": "La alternativa pasiva", "b": "Identificación QR: quien encuentra escanea con SU celular y llama a la familia. Sin batería, sin app, sin cuota. Funciona siempre." },
-        { "role": "value", "h": "No compiten: se suman", "b": "La identificación pasiva es la BASE para todos. El GPS, un extra para casos que lo ameriten. La base se paga una vez." },
-        { "role": "value", "h": "La cuenta lado a lado", "b": "GPS: S/540-780 al año + aparato + cargador. Identificación de calidad: el precio de una pizza familiar, UNA vez. Ambas dan tranquilidad; una no se vence." },
-        { "role": "cta", "h": "Haz tu cuenta anual.", "b": "Y decidas lo que decidas: que tu familia salga identificada. Guarda la comparación." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "¿Pagar mensualidad por la seguridad de tu familia?", "b": "La cuenta honesta: GPS vs pulsera QR." },
+        { "role": "rehook", "h": "Un GPS cuesta S/540 a 780 al año.", "b": "Más el aparato, más el cargador. Y el mes que no pagas, se corta." },
+        { "role": "value", "n": "1", "h": "Los 3 puntos débiles del GPS", "b": "La batería se descarga justo el día que importa, la señal falla en interiores y la mensualidad no perdona." },
+        { "role": "value", "n": "2", "h": "La pulsera QR no depende de nada", "b": "Quien encuentra a tu hijo o abuelo escanea con SU celular y te llama. Sin batería, sin app, sin cuota. Se paga una vez." },
+        { "role": "value", "n": "3", "h": "No compiten: se suman", "b": "Si tu caso amerita GPS, úsalo. Pero la base para todos es la identificación puesta — y la base no se vence." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Cuesta lo que una pizza familiar, UNA vez. Quien los encuentra la escanea y llama a la familia al instante." },
+        { "role": "cta", "h": "Haz tu cuenta anual.", "b": "Y decidas lo que decidas, que salgan identificados: comehometag.com." }
       ],
       "caption": {
-        "ig": "¿Sabías que te están cobrando MENSUALIDAD por la tranquilidad? GPS para niños o abuelos: S/540-780 al año en cuotas + el aparato + la batería que se descarga justo el día que importa. La identificación QR: sin batería, sin app, se paga una vez. No compiten — se suman. Pero la base es la base. #seguridadinfantil #adultomayor #peru #finanzasfamiliares",
-        "tt": "La cuenta honesta: GPS con mensualidad vs identificación sin batería 💸💜 #finanzas #familia #sabiasque",
-        "fb": "Cuenta rápida que incomoda: un GPS para niños o abuelos cuesta S/540-780 AL AÑO en mensualidades — y se corta el mes que no pagas, que suele ser justo el mes difícil. Una identificación QR de calidad cuesta lo que una pizza familiar, una vez. ¿Tu experiencia con rastreadores? Te leemos."
+        "ig": "GPS con mensualidad vs pulsera QR: la cuenta honesta. El GPS cuesta S/540-780 al año, necesita batería y se corta el mes que no pagas. La pulsera ComeHomeTag se paga una vez (lo que una pizza familiar): quien encuentra a tu hijo o abuelo escanea y te llama al instante, sin batería ni app. No compiten — pero la base es la base. #seguridadinfantil #adultomayor #peru #finanzasfamiliares",
+        "tt": "La cuenta honesta: GPS con mensualidad vs pulsera ComeHomeTag de pago único 💸💜 #finanzas #familia #sabiasque",
+        "fb": "Cuenta rápida: un GPS para niños o abuelos cuesta S/540-780 AL AÑO — y se corta el mes que no pagas, que suele ser justo el mes difícil. La pulsera con QR de ComeHomeTag cuesta lo que una pizza familiar, UNA vez, y no necesita batería ni app. comehometag.com — haz tu cuenta."
       },
-      "alt": "Comparación de costos entre rastreadores GPS con suscripción e identificación QR pasiva de pago único."
+      "alt": "Comparación de costos: GPS con suscripción versus la pulsera QR de ComeHomeTag de pago único."
     },
     {
       "slug": "mitos-vs-datos",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "5 mitos que destrozan los datos.", "b": "El #1 lo cree casi todo el Perú" },
-        { "role": "stat", "h": "\"Hay que esperar 24 horas.\"", "b": "FALSO. En el Perú la denuncia es inmediata, a cualquier hora, en cualquier comisaría. Este mito cuesta horas de oro." },
-        { "role": "value", "n": "2", "h": "\"Eso le pasa a familias descuidadas\"", "b": "FALSO. Le pasa a familias normales en momentos normales. 40 segundos de distracción los tiene cualquiera, todos los días." },
-        { "role": "value", "n": "3", "h": "\"El peligro son los desconocidos\"", "b": "INCOMPLETO. El escenario más común es un niño solo y asustado por minutos u horas — y quien lo resuelve es un desconocido BUENO." },
-        { "role": "value", "n": "4", "h": "\"Mi hijo nunca se soltaría de mi mano\"", "b": "FALSO. Todos se sueltan: por un perro, un globo, otra criatura corriendo. La pregunta no es si pasará — es si hay plan." },
-        { "role": "value", "n": "5", "h": "\"Con el celular ya no hace falta nada\"", "b": "FALSO. Los chicos no llevan celular, a los abuelos se les descarga y en multitudes la señal muere. El plan no puede vivir en una batería." },
-        { "role": "value", "h": "Lo que los datos SÍ dicen", "b": "Actuar en minutos + información precisa + contacto directo = la inmensa mayoría de casos termina rápido y bien." },
-        { "role": "cta", "h": "Derriba un mito hoy.", "b": "Manda este post al grupo familiar. El de las 24 horas primero." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "5 mentiras sobre desapariciones que todos creemos.", "b": "La primera la cree casi todo el Perú." },
+        { "role": "rehook", "h": "\"Hay que esperar 24 horas para denunciar.\"", "b": "FALSO: en el Perú la denuncia es inmediata, a cualquier hora, en cualquier comisaría. Y hay más mitos:" },
+        { "role": "value", "n": "1", "h": "\"Eso le pasa a familias descuidadas\"", "b": "Falso. Le pasa a familias normales en días normales. Un descuido de 40 segundos lo tiene cualquiera." },
+        { "role": "value", "n": "2", "h": "\"Mi hijo nunca se soltaría de mi mano\"", "b": "Todos se sueltan: por un perro, un globo, otro niño corriendo. La pregunta no es si pasará, sino si hay plan." },
+        { "role": "value", "n": "3", "h": "\"Con el celular basta\"", "b": "Los niños no llevan celular, a los abuelos se les descarga y en multitudes la señal muere. El plan no puede vivir en una batería." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Derriba un mito hoy.", "b": "Manda esto al grupo familiar y mira la pulsera en comehometag.com." }
       ],
       "caption": {
-        "ig": "5 mitos sobre desapariciones que los datos destrozan — empezando por el que cree casi todo el Perú: NO hay que esperar 24 horas para denunciar (la denuncia es inmediata, siempre). Y no: no le pasa solo a \"familias descuidadas\" — le pasa a familias normales en sábados normales. Comparte para derribar mitos. #mitos #seguridadfamiliar #peru #prevencion",
-        "tt": "5 mitos sobre desapariciones que hay que dejar de creer 💜 #mitos #sabiasque #peru",
-        "fb": "\"Hay que esperar 24 horas.\" \"Eso le pasa a descuidados.\" \"Mi hijo nunca se soltaría.\" — Tres frases que los datos destrozan. ¿Cuál de los 5 mitos habías creído? (Sin roche: casi todos creímos varios. Lo importante es derribarlos hoy.)"
+        "ig": "5 mitos sobre desapariciones que hay que dejar de creer — empezando por el de las 24 horas: en el Perú la denuncia es INMEDIATA, siempre. Y no, no le pasa solo a \"familias descuidadas\": le pasa a familias normales en sábados normales. Por eso el plan incluye la pulsera QR de ComeHomeTag: sin batería, sin app, quien lo encuentra te llama al instante. #mitos #seguridadfamiliar #peru #prevencion",
+        "tt": "5 mitos sobre desapariciones que hay que dejar de creer 💜 y la pulsera ComeHomeTag como plan real. #mitos #sabiasque #peru",
+        "fb": "\"Hay que esperar 24 horas.\" \"Eso le pasa a descuidados.\" \"Mi hijo nunca se soltaría.\" — Tres frases falsas que casi todos creímos. El plan real no vive en una batería ni en la suerte: la pulsera con QR de ComeHomeTag hace que quien encuentre a tu hijo o abuelo llame a la familia al instante. comehometag.com"
       },
-      "alt": "Cinco mitos sobre desapariciones desmentidos con datos: denuncia inmediata, familias normales, planes sin batería."
+      "alt": "Cinco mitos sobre desapariciones desmentidos y la pulsera QR de ComeHomeTag como plan real."
     },
     {
       "slug": "dia-del-nino",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Regálale algo que no se rompe.", "b": "4 regalos que duran toda la infancia" },
-        { "role": "stat", "h": "El 80% de los juguetes", "b": "pierde interés en semanas. Un plan familiar ensayado dura toda la infancia. La cuenta sale sola." },
-        { "role": "value", "n": "1", "h": "El juego de \"¿y si no me ves?\"", "b": "5 minutos esta noche: quedarse quieto, buscar al adulto seguro, mostrar su identificación. Un juego que protege." },
-        { "role": "value", "n": "2", "h": "Su primera identificación PROPIA", "b": "A los niños les encanta tener algo suyo: su pulsera, con su nombre. Seguridad disfrazada de regalo — la mejor versión de ambas." },
-        { "role": "value", "n": "3", "h": "El punto de encuentro elegido POR él", "b": "\"¿Dónde nos encontramos si nos perdemos en el parque?\" Cuando el niño elige, el niño recuerda." },
-        { "role": "value", "n": "4", "h": "El ritual de la foto de la aventura", "b": "Antes de cada salida. Para él es un juego; para ti, la descripción perfecta siempre lista." },
-        { "role": "value", "h": "El regalo de fondo: calma", "b": "Un niño con plan no es un niño asustado. Es un niño que sabe qué hacer — y eso se nota en cómo camina por el mundo." },
-        { "role": "cta", "h": "Cuatro regalos, casi gratis.", "b": "Este Día del Niño, envuelve al menos uno. Guarda la lista." }
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Este Día del Niño, regala algo que protege.", "b": "4 regalos que duran toda la infancia." },
+        { "role": "rehook", "h": "Los juguetes aburren en semanas.", "b": "Un plan familiar dura toda la infancia. Estos regalos son casi gratis — y uno le va a encantar." },
+        { "role": "value", "n": "1", "h": "El juego de \"¿y si no me ves?\"", "b": "5 minutos esta noche: quedarse quieto, buscar al adulto seguro, mostrar su pulsera. Un juego que protege." },
+        { "role": "value", "n": "2", "h": "Su primera pulsera PROPIA", "b": "A los niños les encanta tener algo suyo, con su nombre. Seguridad disfrazada de regalo." },
+        { "role": "value", "n": "3", "h": "El punto de encuentro elegido por él", "b": "\"¿Dónde nos encontramos si nos perdemos?\" Cuando el niño elige, el niño recuerda." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Envuelve al menos uno.", "b": "Su pulsera con nombre está en comehometag.com. Guarda la lista." }
       ],
       "caption": {
-        "ig": "Este Día del Niño regala algo que no se rompe: el 80% de los juguetes pierde interés en semanas — un plan familiar jugado dura toda la infancia. Los 4 regalos: el juego de \"¿y si no me ves?\", su primera identificación PROPIA (seguridad disfrazada de regalo), el punto de encuentro elegido por él y el ritual de la foto de la aventura. #diadelniño #regalos #crianza #peru",
-        "tt": "4 regalos por el Día del Niño que duran toda la infancia 🎁💜 #diadelniño #crianza #regalos",
-        "fb": "Se acerca el Día del Niño y el dato es real: el 80% de los juguetes pierde interés en semanas. Este año, además del juguete: el juego de \"¿y si no me ves?\", su identificación propia y el punto de encuentro elegido POR él. ¿Cuál regalarías primero?"
+        "ig": "Este Día del Niño regala algo que no se rompe: los juguetes aburren en semanas, un plan familiar dura toda la infancia. Los regalos: el juego de \"¿y si no me ves?\", su primera pulsera ComeHomeTag propia (con su nombre y tu QR: seguridad disfrazada de regalo) y el punto de encuentro elegido por él. #diadelniño #regalos #crianza #peru",
+        "tt": "4 regalos por el Día del Niño que duran toda la infancia 🎁💜 su pulsera ComeHomeTag propia primero. #diadelniño #crianza #regalos",
+        "fb": "Se acerca el Día del Niño y el dato es real: los juguetes pierden interés en semanas. Este año, además del juguete: el juego de \"¿y si no me ves?\", el punto de encuentro elegido POR él y su primera pulsera ComeHomeTag propia — con su nombre, y con tu número para quien lo ayude. comehometag.com"
       },
-      "alt": "Cuatro regalos de seguridad para el Día del Niño: juego, identificación propia, punto de encuentro y foto ritual."
+      "alt": "Regalos de seguridad para el Día del Niño: juego, punto de encuentro y la pulsera propia de ComeHomeTag."
     }
   ]
 }

@@ -1,6 +1,6 @@
-# Tu negocio tiene 3 semanas.
+# Qué publicar en enero para vender más
 
-`propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s2-calendarios` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Tu negocio tiene hasta el 19 de enero para surfear los propósitos 🏄
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El 80% de los propósitos muere alrededor del 19 de enero — tu negocio tiene 3 semanas de ola "año nuevo, yo nuevo" y luego viene la jugada maestra: el contenido anti-abandono de la semana 3 ("la versión mínima del hábito", "progreso > perfección").
+Qué publicar en enero para vender más: las 2 primeras semanas la ola de "año nuevo, yo nuevo" (conecta tu producto con un propósito concreto), la semana 3 el contenido anti-abandono, y el verano mandando todo el mes.
 
-Acompañar el bajón fideliza más que celebrar la euforia.
+Programa enero antes del 31 con Propaga (propaga.pe), gratis.
 
 #enero #propositos #negocios #peru
 ```
@@ -24,12 +24,12 @@ Acompañar el bajón fideliza más que celebrar la euforia.
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Calendario de enero: ola de propósitos, contenido anti-abandono, verano y B2B.
+Calendario de enero: ola de propósitos, contenido anti-abandono y verano.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Dato de enero: el 80% de los propósitos muere alrededor del día 19. Las primeras 2 semanas venden euforia — pero la jugada maestra es la semana 3: contenido anti-abandono ("progreso > perfección"). Acompañar el bajón fideliza más que celebrar el arranque. ¿Qué vende tu negocio en enero?
+Dato de enero: la mayoría de los propósitos muere alrededor del día 19. Las primeras 2 semanas venden euforia — pero la jugada maestra es la semana 3: contenido anti-abandono ("progreso antes que perfección"). Acompañar el bajón fideliza más que celebrar el arranque. Programa el mes gratis con Propaga (propaga.pe). ¿Qué vende tu negocio en enero?
 ```

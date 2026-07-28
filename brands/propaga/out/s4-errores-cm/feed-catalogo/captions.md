@@ -1,6 +1,6 @@
-# Nadie sigue catálogos.
+# Tu feed parece catálogo. Por eso no creces.
 
-`propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`propaga` · `s4-errores-cm` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Nadie sigue catálogos. NADIE 🛍️
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu feed es un catálogo — y nadie sigue catálogos.
+Tu feed parece catálogo y por eso no creces: nadie sigue catálogos — la gente sigue cuentas que le DAN algo.
 
-La lógica del seguidor: la gente sigue cuentas que le DAN algo (aprende, ríe, se identifica); tu contenido es lo que ofreces a cambio de seguirte. La regla 70/20/10: valor/prueba social/venta. Y el catálogo completo vive en las historias destacadas, no en el feed.
+La regla que lo arregla: 70% valor, 20% clientes felices, 10% venta directa. Y el catálogo completo vive en las destacadas. Planifica tu mezcla gratis con Propaga (propaga.pe).
 
 #contentmarketing #feed #negocios #cm #peru
 ```
@@ -31,5 +31,5 @@ El error del feed catálogo: regla 70/20/10, transformación de productos en con
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Test de honestidad: miren su feed como si fuera de otra persona — ¿lo seguirían? Si la respuesta es "mmm"… su feed es un catálogo, y nadie sigue catálogos. La regla que lo arregla: 70% valor, 20% prueba social, 10% venta. Un solo producto puede dar 10 contenidos (proceso, historia, humor, educación). ¿Su feed pasa el test?
+Test de honestidad: miren su feed como si fuera de otra persona — ¿lo seguirían? Si la respuesta es "mmm"… su feed es un catálogo, y nadie sigue catálogos. La regla que lo arregla: 70% valor, 20% prueba social, 10% venta. Un solo producto puede dar 10 contenidos. Planifiquen la mezcla gratis con Propaga (propaga.pe). ¿Su feed pasa el test?
 ```

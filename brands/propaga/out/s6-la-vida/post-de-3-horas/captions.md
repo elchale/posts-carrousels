@@ -1,6 +1,6 @@
 # 3 horas de trabajo. 47 vistas.
 
-`propaga` · `s6-la-vida` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s6-la-vida` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Nadie vio el post que te tomó 3 horas — y la foto apurada del pedido saliendo tiene 40 comentarios.
 
-No es injusticia: es información. El post de 3 horas suele ser PARA TI (tu estética, tu perfección); el de 10 minutos es para ELLOS (real, útil, humano). Baja la producción, sube la verdad.
+No es injusticia: es información. El post perfecto suele ser PARA TI; el real es para ellos. Baja la producción, sube la verdad — y publica sin trasnochar con Propaga (propaga.pe), gratis.
 
 #emprendedores #relatable #contentcreator #realtalk #peru
 ```
@@ -31,5 +31,5 @@ Historia relatable del post perfeccionista que nadie vio frente a la foto espont
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El club más grande del marketing digital: los del post de 3 horas y 47 vistas. La explicación duele pero libera — el post perfecto suele ser PARA TI; el real es para ellos. Y la audiencia siempre vota por lo real. ¿Quién más es del club? 🙋
+El club más grande del marketing digital: los del post de 3 horas y 47 vistas. La explicación duele pero libera — el post perfecto suele ser PARA TI; el real es para ellos. Y la audiencia siempre vota por lo real. Publicar constante sin trasnochar es más fácil con Propaga (propaga.pe). ¿Quién más es del club? 🙋
 ```

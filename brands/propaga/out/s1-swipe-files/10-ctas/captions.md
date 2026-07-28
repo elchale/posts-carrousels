@@ -1,12 +1,12 @@
-# "Dale like" murió en 2019.
+# 10 formas de terminar tus posts
 
-`propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s1-swipe-files` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-"Dale like y comparte" murió en 2019. Esto sí funciona 🎯
+10 formas de cerrar tus posts que sí funcionan 🎯
 #marketing #copywriting #tips
 ```
 
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"¡Dale like y comparte!" murió en 2019 — estos 10 cierres sí funcionan: 2 para guardados, 2 para envíos, 2 para comentarios, 2 para perfil y 2 para vender sin roche.
+10 formas de terminar tus posts para que la gente haga algo: guardar, compartir, comentar o comprarte.
 
-La regla de oro: un post = UN pedido; el cierre múltiple no convierte. Y "¿qué opinas?" no es una pregunta.
+La regla de oro: un post = UN pedido — si pides todo, no consigues nada. Planifica tus posts gratis con Propaga (propaga.pe).
 
 #cta #copywriting #socialmedia #peru
 ```
@@ -31,5 +31,5 @@ Diez llamados a la acción organizados por objetivo.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Regla que casi nadie respeta: un post = UN pedido. Like + guarda + comparte + comenta + link en bio = cero conversiones. 10 cierres organizados por lo que quieres conseguir. El es psicología pura: "conoces EXACTAMENTE a la persona que necesita esto — ya sabes qué hacer".
+Regla que casi nadie respeta: un post = UN pedido. Like + guarda + comparte + comenta + link en bio = cero resultados. 10 cierres organizados por lo que quieres conseguir — y para dejar tus posts listos y programados está Propaga (propaga.pe), gratis para empezar. ¿Cuál usas más?
 ```

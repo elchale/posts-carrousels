@@ -1,12 +1,12 @@
-# No es la juguetería.
+# ¿Dónde se pierden los niños en el mall?
 
-`comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s2-lugares` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El lugar del mall donde más niños se pierden 😳💜
+El lugar del mall donde más niños se pierden 😳💜 y la pulsera ComeHomeTag que resuelve el susto.
 #mall #padres #seguridadinfantil
 ```
 
@@ -14,9 +14,9 @@ El lugar del mall donde más niños se pierden 😳💜
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-¿Cuál crees que es el lugar del centro comercial donde más niños se pierden?
+¿Dónde se pierden más niños en el centro comercial?
 
-No son las tiendas: es el PATIO DE COMIDAS — máximo ruido, mesas idénticas, todos mirando su plato. El plan de 60 segundos al entrar y el protocolo si pasa. 40 segundos: eso tarda un papá en notar la ausencia.
+No es la juguetería: es el PATIO DE COMIDAS — mucho ruido, mesas iguales, todos mirando su plato. El plan: punto de encuentro dicho al entrar, la regla del uniforme de tienda y su pulsera QR de ComeHomeTag puesta, para que quien lo encuentre te llame al instante.
 
 #seguridadinfantil #mall #padres #peru
 ```
@@ -24,12 +24,12 @@ No son las tiendas: es el PATIO DE COMIDAS — máximo ruido, mesas idénticas, 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Guía de seguridad en centros comerciales: patio de comidas como zona crítica, tiendas espejo, escaleras y plan de entrada.
+Guía del centro comercial con niños: patio de comidas como zona crítica, punto de encuentro y pulsera ComeHomeTag.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Quiz para padres: ¿dónde se pierden más niños en un centro comercial? (a) las jugueterías (b) las escaleras (c) el patio de comidas. Respuesta: C, por lejos — máximo ruido, mesas idénticas, todos mirando su plato. ¿Acertaste? El plan completo está en el post.
+Quiz para padres: ¿dónde se pierden más niños en un mall? (a) jugueterías (b) escaleras (c) patio de comidas. Respuesta: C, por lejos. El plan: punto de encuentro al entrar + avisar a seguridad primero + su pulsera con QR de ComeHomeTag, para que cualquiera te llame al instante. comehometag.com
 ```

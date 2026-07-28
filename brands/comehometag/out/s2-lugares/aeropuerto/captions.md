@@ -1,12 +1,12 @@
-# Aquí no puedes correr a buscarlo.
+# En el aeropuerto una familia se separa fácil.
 
-`comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s2-lugares` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El plan por tramos para aeropuertos con niños y abuelos ✈️💜
+El plan para aeropuertos con niños y abuelos ✈️💜 y sus pulseras ComeHomeTag puestas.
 #aeropuerto #viajes #familia
 ```
 
@@ -14,9 +14,9 @@ El plan por tramos para aeropuertos con niños y abuelos ✈️💜
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Viajar en familia por aeropuerto: el plan por tramos.
+Viajar en familia por el aeropuerto: colas, maletas y apuro separan familias en segundos.
 
-La regla de oro es un adulto = un menor (o un abuelo) POR TRAMO y con nombre — "en migraciones, Pedro va con la abuela". El punto de encuentro correcto no es la puerta de embarque (cambia): es el counter de tu aerolínea.
+El plan: un adulto cuida a UNA persona por tramo ("en migraciones, Pedro va con la abuela") y el punto de encuentro es el counter de tu aerolínea — la puerta de embarque cambia. Niños y abuelos con su pulsera QR de ComeHomeTag: quien los encuentre llama a la familia al instante.
 
 #viajeconniños #aeropuerto #familia #peru
 ```
@@ -24,12 +24,12 @@ La regla de oro es un adulto = un menor (o un abuelo) POR TRAMO y con nombre —
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Plan de seguridad familiar en aeropuertos: asignación por tramos, counter como punto de encuentro y documentos individuales.
+Plan de aeropuerto en familia: un adulto por persona, counter como punto de encuentro y pulseras ComeHomeTag.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El error de aeropuerto que casi todas las familias cometen: usar la puerta de embarque como punto de encuentro… y la puerta CAMBIA. El punto correcto: el counter de tu aerolínea — visible, con personal y sale en todos los letreros. El plan completo por tramos, en el post.
+El error de aeropuerto más común: usar la puerta de embarque como punto de encuentro… y la puerta CAMBIA. El punto correcto es el counter de tu aerolínea. Regla de oro: un adulto cuida a una persona, por tramo y con nombre. Las pulseras QR de ComeHomeTag cierran el plan: quien encuentre a alguien llama al instante. comehometag.com
 ```

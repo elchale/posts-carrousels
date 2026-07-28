@@ -1,12 +1,12 @@
-# Tu tienda pierde 50 horas mensuales
+# Tu tienda online pierde 50 horas al mes.
 
-`qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-5 cosas que tu tienda online sigue haciendo a mano 🛒
+Lo que tu tienda online sigue haciendo a mano 🛒
 #ecommerce #automatizacion #negocios
 ```
 
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu tienda online pierde 30-50 horas al mes en 5 procesos: responder las mismas 6 preguntas, transcribir pedidos al almacén, el domingo de conciliación, los avisos de estado y los carritos abandonados (el 70% se abandona; una secuencia rescata hasta el 15% — plata dormida).
+Tu tienda online pierde 30-50 horas al mes en procesos que Qolca automatiza: responder las mismas 6 preguntas (24/7, incluida la venta de las 11pm), pasar pedidos al almacén, cuadrar contra el banco y recuperar carritos abandonados — el 70% se abandona y una secuencia rescata hasta el 15%.
 
-¿Cuál te duele más?
+qolca.org
 
 #ecommerce #automatizacion #ventasonline #peru
 ```
@@ -31,7 +31,7 @@ Cinco procesos manuales de un e-commerce y su automatización: chats, pedidos, c
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para los que venden online: ¿cuántos de estos 5 siguen siendo manuales en tu tienda? (1) responder precio/stock/delivery, (2) pasar pedidos al almacén, (3) conciliar contra el banco, (4) avisar estados, (5) recuperar carritos. El es plata dormida: 70% se abandonan y una secuencia rescata hasta el 15%.
+Para los que venden online: ¿cuántos de estos procesos siguen siendo manuales en tu tienda? Responder precio/stock/delivery, pasar pedidos al almacén, cuadrar contra el banco, avisar estados, recuperar carritos. Qolca los automatiza — y el último es plata dormida: 70% se abandonan y una secuencia rescata hasta el 15%. qolca.org
 ```
 
 ## 💼 LinkedIn

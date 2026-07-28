@@ -1,12 +1,12 @@
-# Tienes 10 minutos.
+# Si tu hijo se pierde, tienes 10 minutos.
 
-`comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s1-protocolos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El protocolo que toda familia debería conocer antes de salir de casa 💜 Guárdalo.
+Los 3 pasos si tu hijo se pierde — y la pulsera ComeHomeTag para el momento clave 💜 Guárdalo.
 #seguridadinfantil #padres #peru
 ```
 
@@ -14,22 +14,22 @@ El protocolo que toda familia debería conocer antes de salir de casa 💜 Guár
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Qué hacer si se pierde tu hijo en un lugar público: los primeros 10 minutos deciden casi todo, y el pánico es el peor plan.
+Qué hacer si tu hijo se pierde en un lugar público: los primeros 10 minutos deciden casi todo — y para el momento clave existe la pulsera con QR de ComeHomeTag: quien lo encuentra la escanea y te llama al instante.
 
-El error: moverte del último punto compartido — los niños regresan a donde te vieron. Guarda este protocolo y compártelo con tu familia. En Perú se reportan 51 desapariciones al día; la mayoría se resuelve en minutos cuando la familia sabe qué hacer.
+Los 3 pasos: quédate donde te vio, grita su nombre y el tuyo, avisa a seguridad. En el Perú se reportan 51 desapariciones al día; la mayoría se resuelve en minutos cuando la familia sabe qué hacer. Guarda y comparte.
 
-#1 #seguridadinfantil #padres #niños #peru
+#seguridadinfantil #padres #niños #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Protocolo de los primeros 10 minutos cuando un niño se pierde en un lugar público, paso a paso en español.
+Los tres pasos si un niño se pierde en un lugar público y la pulsera con código QR de ComeHomeTag.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-¿Sabes exactamente qué harías en los primeros 10 minutos si tu hijo se pierde en un centro comercial? La mayoría de padres nunca lo ha pensado — y el error (moverse del último punto compartido) lo cometemos casi todos. ¿Cuál de estos pasos no conocías?
+¿Sabes qué harías en los primeros 10 minutos si tu hijo se pierde? Los 3 pasos: quedarte donde te vio, gritar su nombre y el tuyo, avisar a seguridad. Y para que cualquier persona pueda llamarte al instante: la pulsera con QR de ComeHomeTag — sin batería, sin mensualidad. comehometag.com
 ```

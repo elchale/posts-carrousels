@@ -1,6 +1,6 @@
-# Ordenas 40 empresas. Persigues PDFs.
+# Ordenas las finanzas de 40 empresas. Persiguiendo PDFs.
 
-`qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ El estudio contable que ordena 40 empresas y persigue PDFs 🧾
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-La paradoja del estudio contable: ordena las finanzas de 40 empresas y persigue PDFs por WhatsApp como hace 15 años.
+La paradoja del estudio contable: ordena las finanzas de 40 empresas y persigue PDFs por WhatsApp — Qolca automatiza ese flujo: documentos que llegan solos, facturas leídas y validadas contra SUNAT por IA, avisos de vencimiento por RUC y entregables con tu membrete.
 
-Los 5 procesos: perseguir documentos cada cierre, tipear facturas, avisar vencimientos según RUC, el "¿cuánto pago?" ×20 al día y los entregables en Excel. El 50% del mes liberado se vende como asesoría.
+El 50% del mes liberado se vende como asesoría. qolca.org
 
 #contabilidad #estudiocontable #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Cinco procesos manuales de estudios contables: documentos, tipeo, vencimientos, 
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Paradoja del rubro contable: ordenar las finanzas de 40 empresas… persiguiendo sus facturas por WhatsApp. Si la mitad del mes del equipo se va en perseguir, tipear y armar — esa mitad liberada se convierte en asesoría, que es lo que el cliente valora y paga mejor. ¿Les suena?
+Paradoja del rubro contable: ordenar las finanzas de 40 empresas… persiguiendo sus facturas por WhatsApp. Si la mitad del mes del equipo se va en perseguir, tipear y armar — esa mitad liberada se convierte en asesoría, que es lo que el cliente valora y paga mejor. Qolca construye ese sistema. ¿Les suena? qolca.org
 ```
 
 ## 💼 LinkedIn

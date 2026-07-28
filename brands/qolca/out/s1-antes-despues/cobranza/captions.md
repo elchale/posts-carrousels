@@ -1,6 +1,6 @@
-# S/ 180,000 por cobrar. Y roche.
+# Te deben S/180,000 y te da roche cobrar.
 
-`qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`qolca` · `s1-antes-despues` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Cobrar da roche. El sistema no siente roche 💸
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El caso más común del Perú: S/180,000 por cobrar y vergüenza de llamar.
+S/180,000 por cobrar y vergüenza de llamar — Qolca construye la secuencia de cobranza que no siente roche: recordatorios cordiales, puntuales y con link de pago, del pre-aviso hasta la alerta interna.
 
-La cobranza emocional cobra "cuando hay tiempo" y a quien "no da roche" — y una deuda de 90 días vale la mitad que una de 30. La secuencia automática no siente vergüenza: cordial, puntual, con link de pago. Días de cobro: de 74 a 39.
+Resultado: días de cobro de 74 a 39, sin una sola llamada incómoda. qolca.org
 
 #cobranza #flujodecaja #pymes #peru
 ```
@@ -31,7 +31,7 @@ Caso de cobranza: postergación por incomodidad versus secuencia automática cor
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Verdad incómoda de las pymes peruanas: cobrar da roche, así que se posterga — y lo postergado envejece mal (una deuda de 90 días vale la mitad que una de 30). Este caso bajó los días de cobro de 74 a 39 sin UNA llamada incómoda. ¿Cuánto te deben ahora mismo? Esa cifra decide si sigues leyendo.
+Verdad incómoda de las pymes peruanas: cobrar da roche, así que se posterga — y una deuda de 90 días vale la mitad que una de 30. La secuencia automática que construye Qolca bajó los días de cobro de 74 a 39 sin UNA llamada incómoda. ¿Cuánto te deben ahora mismo? qolca.org
 ```
 
 ## 💼 LinkedIn

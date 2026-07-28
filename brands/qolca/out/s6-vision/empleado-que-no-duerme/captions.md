@@ -1,6 +1,6 @@
-# "No duerme." También tiene letras chicas.
+# El "empleado que no duerme" tiene letras chicas.
 
-`qolca` · `s6-vision` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s6-vision` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,7 +14,9 @@ El empleado que no duerme: la metáfora Y sus letras chicas 🤖
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El "empleado que nunca duerme" — la metáfora completa, con letras chicas: imbatible en lo repetitivo definido, nulo en criterio para lo nuevo; no se enferma pero SE DESACTUALIZA (necesita un dueño humano de 2 hrs/mes); no pide aumento pero cuesta $100-300/mes — compáralo con el sueldo del trabajo que hace, no con cero.
+El "empleado que nunca duerme" — Qolca te cuenta la metáfora completa, con letras chicas: imbatible en lo repetitivo definido, nulo en criterio para lo nuevo; no se enferma pero SE DESACTUALIZA (necesita un dueño humano de 2 hrs/mes); no pide aumento pero cuesta $100-300/mes — compáralo con el sueldo del trabajo que hace, no con cero.
+
+qolca.org
 
 #ia #automatizacion #equipos #peru
 ```
@@ -29,7 +31,7 @@ La metáfora del empleado incansable con sus limitaciones y costos reales.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Nos encanta la metáfora del "empleado que nunca duerme" — por eso la contamos completa: también se desactualiza si nadie le avisa que subiste precios, y cuesta $100-300/mes (comparen contra el sueldo del trabajo que hace, no contra cero). ¿Qué puesto le darían en su empresa?
+En Qolca nos encanta la metáfora del "empleado que nunca duerme" — por eso la contamos completa: también se desactualiza si nadie le avisa que subiste precios, y cuesta $100-300/mes (comparen contra el sueldo del trabajo que hace, no contra cero). ¿Qué puesto le darían en su empresa? qolca.org
 ```
 
 ## 💼 LinkedIn

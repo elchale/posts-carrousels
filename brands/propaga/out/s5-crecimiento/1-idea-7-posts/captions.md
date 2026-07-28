@@ -1,6 +1,6 @@
-# 1 idea = 7 posts.
+# Convierte 1 idea en 7 posts
 
-`propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`propaga` · `s5-crecimiento` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-No necesitas 30 ideas al mes — necesitas 4 buenas y saber multiplicarlas: 1 idea semilla = carrusel educativo + video hablado + encuesta en historias + caso con números + post de opinión + confesión de error propio + resumen del viernes.
+Convierte 1 idea en 7 posts: una misma idea semilla se vuelve carrusel, video, encuesta, caso real, opinión, confesión y resumen semanal.
 
-4 semillas × 7 formatos = el mes entero resuelto.
+4 ideas × 7 formatos = el mes entero resuelto — y programado gratis con Propaga (propaga.pe).
 
 #contentmarketing #productividad #ideas #cm #peru
 ```
@@ -31,5 +31,5 @@ Sistema de multiplicación de contenido: una idea semilla convertida en siete fo
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La matemática que salva el mes: 4 ideas buenas × 7 formatos = 28 posts. Una misma idea semilla se convierte en carrusel, video, encuesta, caso real, opinión, confesión y resumen semanal — sin repetirse, porque cada formato le habla a una parte distinta de tu audiencia. ¿Cuál es su idea semilla de esta semana?
+La matemática que salva el mes: 4 ideas buenas × 7 formatos = 28 posts. Una misma idea semilla se convierte en carrusel, video, encuesta, caso real, opinión, confesión y resumen semanal — sin repetirse, porque cada formato le habla a una parte distinta de tu audiencia. Y todo se deja programado gratis con Propaga (propaga.pe). ¿Cuál es su idea semilla de esta semana?
 ```

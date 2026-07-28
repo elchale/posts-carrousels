@@ -1,6 +1,6 @@
-# Sillas vacías: del 30% al 9%
+# Tu clínica pierde S/200 por cada silla vacía.
 
-`qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`qolca` · `s1-antes-despues` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Cómo una clínica pasó de 30% a 9% de citas perdidas 🏥
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Caso clínica: del 30% al 9% de citas perdidas en un trimestre.
+Cada cita perdida en una clínica son S/80-200 que no vuelven — Qolca construyó el sistema que bajó las citas perdidas del 30% al 9% en un trimestre: recordatorios por WhatsApp donde el paciente confirma o cambia respondiendo el mismo mensaje, y una lista de espera que llena cada cancelación al instante.
 
-El secreto no es solo recordar — es que el paciente pueda confirmar, reagendar o cancelar respondiendo el mismo WhatsApp, y que cada cancelación active la lista de espera al instante. La inversión se pagó en 3 semanas.
+qolca.org
 
 #clinicas #salud #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Caso de clínica: reducción de citas perdidas del 30% al 9% con recordatorios c
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para los que administran clínicas: ¿cuánto cuesta cada silla vacía? Entre S/80 y S/200 que no vuelven. Este caso bajó las inasistencias de 30% a 9% con recordatorios que CONVERSAN + lista de espera automática. ¿Cuál es su tasa de inasistencia actual?
+Para los que administran clínicas: ¿cuánto cuesta cada silla vacía? Entre S/80 y S/200 que no vuelven. Este sistema de Qolca bajó las citas perdidas de 30% a 9% con recordatorios que conversan y lista de espera automática. La inversión se pagó en 3 semanas. ¿Cuál es su tasa actual? qolca.org
 ```
 
 ## 💼 LinkedIn

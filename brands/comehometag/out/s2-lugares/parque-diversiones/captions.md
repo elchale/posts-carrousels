@@ -1,12 +1,12 @@
-# No se pierden caminando: CORRIENDO.
+# En el parque de diversiones se pierden corriendo.
 
-`comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s2-lugares` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-En el parque de diversiones se pierden CORRIENDO, no caminando 🎡💜
+En el parque de diversiones se pierden CORRIENDO 🎡💜 regla de la salida + pulsera ComeHomeTag.
 #familia #niños #parque
 ```
 
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Parques de diversiones: los niños no se pierden caminando — se pierden CORRIENDO al siguiente juego.
 
-Y el dato clave: la SALIDA de cada juego casi nunca está junto a la entrada; ahí se pierden casi todos. La regla: "al bajar me esperas en la salida, no corres al siguiente".
+La regla clave: "al bajar, me esperas en la SALIDA" (casi nunca está junto a la entrada, y ahí se pierden casi todos). La pulsera del parque no lleva tu teléfono; su pulsera QR de ComeHomeTag sí: quien lo encuentre te llama al instante.
 
 #parquedediversiones #familia #niños #peru
 ```
@@ -24,12 +24,12 @@ Y el dato clave: la SALIDA de cada juego casi nunca está junto a la entrada; ah
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Plan para parques de diversiones: mapa al llegar, regla de la salida de los juegos, colas y doble identificación.
+Plan para parques de diversiones: regla de la salida, mapa al llegar y pulsera ComeHomeTag con contacto.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Dato de parques de diversiones que sorprende: la salida de cada juego casi nunca está junto a la entrada — y ahí es donde se pierden casi todos los niños. La regla que lo resuelve: "al bajar, me esperas en la SALIDA, no corres al siguiente". ¿La conocías?
+Dato de parques que sorprende: la salida de cada juego casi nunca está junto a la entrada — y ahí se pierden casi todos los niños. La regla: "al bajar, me esperas en la SALIDA, no corres al siguiente". Y ojo: la pulsera del parque no lleva tu número; la de ComeHomeTag sí, con QR para que te llamen al instante. comehometag.com
 ```

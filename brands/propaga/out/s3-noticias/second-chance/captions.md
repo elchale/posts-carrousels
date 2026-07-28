@@ -1,6 +1,6 @@
-# Tu carrusel tiene DOS portadas.
+# Tu carrusel tiene una segunda oportunidad
 
-`propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s3-noticias` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Tu carrusel tiene 2 portadas y no lo sabías 🤯
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu carrusel tiene DOS portadas y no lo sabías: confirmado por el jefe de Instagram — si alguien no desliza, se lo vuelven a mostrar días después EMPEZANDO POR LA LÁMINA 2.
+Tu carrusel tiene una segunda oportunidad y casi nadie la usa: si alguien no desliza, Instagram se lo vuelve a mostrar días después EMPEZANDO POR LA LÁMINA 2 — confirmado por el jefe de Instagram.
 
-Ningún otro formato tiene segunda oportunidad. La regla: la lámina 2 no puede ser una continuación — necesita su propio gancho.
+La regla: la lámina 2 necesita su propio gancho. Planifica tus carruseles gratis con Propaga (propaga.pe).
 
 #instagram #carrusel #algoritmo #peru
 ```
@@ -31,5 +31,5 @@ El mecanismo de segunda oportunidad de los carruseles y la regla de la lámina d
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Dato confirmado por Adam Mosseri (el jefe de Instagram) que casi nadie usa: si alguien ve tu carrusel y no desliza, Instagram se lo vuelve a mostrar días después EMPEZANDO POR LA LÁMINA 2. Conclusión: la lámina 2 es tu segunda portada — dale su propio gancho. ¿Lo sabían?
+Dato confirmado por Adam Mosseri (el jefe de Instagram) que casi nadie usa: si alguien ve tu carrusel y no desliza, Instagram se lo vuelve a mostrar días después EMPEZANDO POR LA LÁMINA 2. Conclusión: la lámina 2 es tu segunda portada — dale su propio gancho. Planifica tus carruseles gratis con Propaga (propaga.pe). ¿Lo sabían?
 ```

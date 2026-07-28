@@ -1,6 +1,6 @@
-# Tu CRM: un Excel con mensualidad
+# Pagas un CRM. Lo usas como Excel.
 
-`qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s5-errores` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Señales de que tu CRM es un Excel con mensualidad 📋
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu CRM es un Excel con mensualidad si: se llena a mano, se consulta solo antes de reuniones, no DISPARA ninguna acción y la verdad real vive en el WhatsApp del vendedor.
+Tu CRM es un Excel con mensualidad si: se llena a mano, no DISPARA ninguna acción y la verdad real vive en el WhatsApp del vendedor.
 
-El 70% de implementaciones fracasa — no por la herramienta, por usarla de archivador. La salida casi nunca es cambiar de CRM: es conectarlo.
+La salida que construye Qolca casi nunca es cambiar de CRM: es conectarlo — captura automática, disparadores y etapas reales, con el mismo CRM que ya pagas. qolca.org
 
 #crm #ventas #pymes #peru
 ```
@@ -31,7 +31,7 @@ Señales de un CRM subutilizado y la salida: captura automática, disparadores y
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Test de CRM en una pregunta: ¿tu CRM DISPARA algo solo? (lead nuevo → contacto, cotización fría → alerta, cliente dormido → reactivación). Si no dispara nada, es un archivador con mensualidad — y la verdad de tus ventas vive en el WhatsApp de tus vendedores. ¿Cuál usan y cómo les va?
+Test de CRM en una pregunta: ¿tu CRM DISPARA algo solo? (interesado nuevo → contacto, cotización fría → alerta, cliente dormido → reactivación). Si no dispara nada, es un archivador con mensualidad. Qolca lo conecta — casi siempre con el mismo que ya pagas. ¿Cuál usan y cómo les va? qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -1,6 +1,6 @@
-# Respondes al minuto. No cierras.
+# Respondes al minuto y aún no cierras ventas.
 
-`qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s5-errores` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Respondes rápido y no cierras: los 4 huecos 🕳️
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Respondes al minuto y no cierras — los 4 huecos internos: respondes sin calificar, el pase al humano tarda 6 horas (regla: 15 minutos), no hay siguiente paso concreto ("cualquier cosa me avisas" no cuenta) y el "lo voy a pensar" se descarta…
+Respondes al minuto y no cierras — Qolca arregla los 4 huecos que siguen: respondes sin filtrar, el pase al humano tarda 6 horas (regla: 15 minutos), no hay siguiente paso concreto y el "lo voy a pensar" se descarta…
 
-cuando el 80% compra en 90 días a quien le siguió escribiendo. Autopsia: 20 chats perdidos, marca dónde murió cada uno.
+cuando el 80% compra en 90 días a quien le siguió escribiendo. Autopsia: 20 chats perdidos, marca dónde murió cada uno. qolca.org
 
 #ventas #conversion #peru
 ```
@@ -31,7 +31,7 @@ Cuatro huecos del embudo tras la respuesta rápida: calificación, traspaso, sig
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Ejercicio de ventas trimestral: la autopsia de los últimos 20 chats perdidos. ¿Dónde murió cada uno — calificación, pase al humano, siguiente paso o seguimiento? El dato que más duele: el 80% de los "lo voy a pensar" compra en 90 días… a quien le siguió escribiendo. ¿Ustedes siguen escribiendo?
+Ejercicio de ventas trimestral: la autopsia de los últimos 20 chats perdidos. ¿Dónde murió cada uno — filtro, pase al humano, siguiente paso o seguimiento? El dato que más duele: el 80% de los "lo voy a pensar" compra en 90 días… a quien le siguió escribiendo. Qolca automatiza ese seguimiento. ¿Ustedes siguen escribiendo? qolca.org
 ```
 
 ## 💼 LinkedIn

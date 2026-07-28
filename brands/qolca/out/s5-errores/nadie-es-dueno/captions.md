@@ -1,6 +1,6 @@
-# "¿Quién ve el bot?" — silencio.
+# Nadie revisa tu bot. En 6 meses muere.
 
-`qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s5-errores` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Los sistemas también se quedan huérfanos 🥀
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"¿Quién ve el tema del bot?" — el silencio en esa reunión, seis meses después, es un sistema muerto que nadie notó morir: nadie revisa conversaciones → responde precios viejos → los clientes se quejan → el vendedor lo apaga "por mientras".
+"¿Quién ve el tema del bot?" — el silencio en esa reunión, seis meses después, es un sistema muerto que nadie notó morir: precios viejos, clientes quejándose, el vendedor lo apaga "por mientras".
 
-Todo sistema necesita UN dueño con nombre: 2 horas al mes. Con dueño mejora cada mes; sin dueño caduca en 6.
+Por eso Qolca deja cada sistema con un dueño interno definido: 2 horas al mes. Con dueño mejora cada mes; sin dueño caduca en 6. qolca.org
 
 #gestion #sistemas #equipos #peru
 ```
@@ -31,7 +31,7 @@ El ciclo de muerte de sistemas sin dueño y el rol de dos horas mensuales que lo
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Autopsia de un sistema huérfano: nadie revisa conversaciones → el bot responde precios viejos → los clientes se quejan → el vendedor lo apaga "por mientras" → fin. Todo por no nombrar un dueño de 2 horas al mes. Pregunta directa: ¿quién es el dueño, con nombre y apellido, de su automatización?
+Autopsia de un sistema huérfano: nadie revisa conversaciones → el bot responde precios viejos → los clientes se quejan → el vendedor lo apaga "por mientras" → fin. Todo por no nombrar un dueño de 2 horas al mes. En Qolca lo dejamos definido desde el día 1. ¿Quién es el dueño, con nombre y apellido, de su automatización? qolca.org
 ```
 
 ## 💼 LinkedIn

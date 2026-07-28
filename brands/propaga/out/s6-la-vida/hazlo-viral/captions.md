@@ -1,6 +1,6 @@
 # "Hazlo viral."
 
-`propaga` · `s6-la-vida` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s6-la-vida` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"Hazlo viral" — tu jefe, que comparte cadenas de WhatsApp del 2009 🙃 Lo viral no es una estrategia, es un resultado.
+"Hazlo viral" — tu jefe, que comparte cadenas de WhatsApp del 2009 🙃 Lo viral no es una estrategia, es un resultado: el negocio que vende por redes lo hace con 500-2,000 vistas CONSTANTES de la gente correcta.
 
-La analogía para la reunión: "pedir un viral es pedir que la tienda se llene mañana por milagro; yo ofrezco que se llene un poco más cada semana y que los que entren, compren". Puntería > lotería.
+La constancia se organiza gratis con Propaga (propaga.pe).
 
 #communitymanager #jefes #marketingdigital #relatable #peru
 ```
@@ -31,5 +31,5 @@ Historia humorística del jefe que pide virales y los argumentos para explicar c
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para mandar (con cariño) al grupo de trabajo: "viral" no es una estrategia — es un resultado. El negocio que factura por redes lo hace con 500-2,000 vistas CONSTANTES de la gente correcta, no con un millón de vistas de cualquiera. ¿A quién le ha tocado el "hazlo viral" con presupuesto S/0? 😄
+Para mandar (con cariño) al grupo de trabajo: "viral" no es una estrategia — es un resultado. El negocio que factura por redes lo hace con 500-2,000 vistas CONSTANTES de la gente correcta, no con un millón de vistas de cualquiera. Y la constancia se organiza gratis con Propaga (propaga.pe). ¿A quién le ha tocado el "hazlo viral" con presupuesto S/0? 😄
 ```

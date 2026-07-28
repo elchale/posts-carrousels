@@ -1,12 +1,12 @@
-# Vendes eficiencia. Operas en capturas.
+# Tu agencia vende eficiencia y opera a mano.
 
-`qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Vendes eficiencia digital y tu operación corre en screenshots 😅
+Vendes eficiencia digital y tu operación corre en capturas 😅
 #agencias #marketing #b2b
 ```
 
@@ -14,9 +14,9 @@ Vendes eficiencia digital y tu operación corre en screenshots 😅
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Vendes eficiencia digital y tu operación interna corre en Excel y capturas de pantalla — nos ha pasado a todos.
+Vendes eficiencia digital y tu operación corre en Excel y capturas de pantalla — Qolca automatiza la agencia por dentro: onboarding de 2 semanas a 48 horas, reportes que se arman solos, cobranza cordial sin roche y respuesta al minuto a tus propios interesados.
 
-El dato que duele: la agencia promedio factura el 60% de su capacidad; el resto se va en operar. Onboarding de 2 semanas, el primer día hábil armando reportes, cobrar con roche y el "¿en qué va lo mío?" de 3 chats internos.
+Del 60% al 80% de capacidad facturable. qolca.org
 
 #agencias #marketing #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Cinco procesos manuales de agencias: onboarding, reportes, cobranza, estado de p
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Autocrítica del gremio: vendemos eficiencia digital y nuestra operación corre en Excel y "¿me pasas el acceso?". La agencia promedio factura el 60% de su capacidad — el resto se va en operar. Colegas: ¿cuál de los 5 les suena más? El lead propio que espera 2 días es el más irónico.
+Autocrítica del gremio: vendemos eficiencia digital y nuestra operación corre en Excel y "¿me pasas el acceso?". La agencia promedio factura el 60% de su capacidad — el resto se va en operar. Qolca automatiza esa mitad: onboarding, reportes, cobranza y seguimiento propio. ¿Cuál les suena más? qolca.org
 ```
 
 ## 💼 LinkedIn

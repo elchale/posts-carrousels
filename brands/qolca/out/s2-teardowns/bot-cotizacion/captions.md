@@ -1,6 +1,6 @@
-# ¿Cotizar? 90 segundos.
+# Cotizaba en 2 días. Ahora en 90 segundos.
 
-`qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s2-teardowns` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ De 2 días a 90 segundos por cotización. Cierre x3 📈
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Así se hizo: el cotizador que responde en 90 segundos lo que tomaba 2 días.
+De 2 días a 90 segundos por cotización — así lo construyó Qolca: el 80% de las cotizaciones usaba las mismas 12 configuraciones, y la lógica de precios completa vivía en la cabeza del jefe (2 tardes de entrevistas la volvieron sistema).
 
-El hallazgo: el 80% de las cotizaciones usaba las mismas 12 configuraciones, y la lógica de precios completa vivía en la cabeza del jefe (2 tardes de entrevistas la volvieron sistema). Cierre: del 12% al 31% — mismos precios, solo llegaron primero.
+Cierre: del 12% al 31% — mismos precios, solo llegaron primero. qolca.org
 
 #ventas #cotizaciones #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Cotizador automático: matriz de precios extraída del experto, formulario intel
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Dato brutal de ventas B2B: la cotización que llega en 90 segundos encuentra al cliente PENSANDO en el problema; la que llega en 2 días compite contra otras 3. Este caso triplicó el cierre sin tocar precios — solo llegando primero. ¿Cuánto tarda la tuya? Sé honesto.
+Dato brutal de ventas B2B: la cotización que llega en 90 segundos encuentra al cliente PENSANDO en el problema; la que llega en 2 días compite contra otras 3. El cotizador que construyó Qolca triplicó el cierre sin tocar precios — solo llegando primero. ¿Cuánto tarda la tuya? qolca.org
 ```
 
 ## 💼 LinkedIn

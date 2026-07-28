@@ -1,6 +1,6 @@
-# ¿Morado o naranja?
+# Qué publicar en octubre para vender más
 
-`propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s2-calendarios` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Octubre: ¿morado, naranja o criollo? Tu negocio decide 🟣🎃
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Octubre es dos audiencias a la vez: la del Señor de los Milagros (cariño real, jamás burla) y la de Halloween/Canción Criolla el 31.
+Qué publicar en octubre para vender más: el mes morado (con cariño real, jamás burla), Halloween y la Canción Criolla el 31.
 
-La regla de oro que cada año alguien rompe: morado y calabazas NUNCA en el mismo post — audiencias distintas, códigos distintos.
+La regla de oro que cada año alguien rompe: morado y calabazas NUNCA en el mismo post — son públicos distintos. Programa el mes gratis con Propaga (propaga.pe).
 
 #octubre #señordelosmilagros #halloween #peru
 ```
@@ -31,5 +31,5 @@ Calendario de octubre: mes morado, Halloween y Canción Criolla con reglas de se
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El error de octubre que se repite cada año: mezclar el morado del Señor de los Milagros con calabazas de Halloween EN EL MISMO POST. Audiencias distintas, códigos distintos. Y el comodín que pocos usan: el 31 también es Día de la Canción Criolla. ¿Cuál es el énfasis de su negocio?
+El error de octubre que se repite cada año: mezclar el morado del Señor de los Milagros con calabazas de Halloween EN EL MISMO POST. Públicos distintos, códigos distintos. Y el comodín que pocos usan: el 31 también es Día de la Canción Criolla. Con Propaga (propaga.pe) dejas el mes programado gratis. ¿Cuál es el énfasis de su negocio?
 ```

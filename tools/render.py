@@ -206,6 +206,11 @@ class Renderer:
         ig_dir, tt_dir = out / "ig", out / "tt"
         ig_dir.mkdir(parents=True, exist_ok=True)
         tt_dir.mkdir(parents=True, exist_ok=True)
+        for d in (ig_dir, tt_dir):
+            for stale in d.glob('*.jpg'):
+                stale.unlink()
+            for stale in d.glob('*.png'):
+                stale.unlink()
         ig_pages = []
         for i, slide in enumerate(slides):
             im = self.render_slide(slide, i, len(slides), post_i)

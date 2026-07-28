@@ -5,192 +5,182 @@
     {
       "slug": "senales-tempranas",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"Quiero irme a mi casa.\"", "b": "Lo dijo dentro de su casa." },
-        { "role": "story", "plate": "cine-03-abuelo", "h": "La deambulación no empieza el día que se pierde.", "b": "Empieza semanas antes, con señales que se pueden aprender a leer." },
-        { "role": "value", "n": "1", "h": "\"Quiero irme a mi casa\" (estando en casa)", "b": "La frase más reveladora. \"Su casa\" es la de su memoria antigua. Es desorientación, no capricho." },
-        { "role": "value", "n": "2", "h": "Inquietud al atardecer", "b": "El \"sundowning\": entre 5 y 8 pm crece la confusión y las ganas de salir. Es EL horario de riesgo." },
-        { "role": "value", "n": "3", "h": "Rutas conocidas que se enredan", "b": "Vuelve del mercado de siempre por un camino raro, o tarda el doble. El GPS interno falla primero en silencio." },
-        { "role": "value", "n": "4", "h": "\"Deberes\" del pasado", "b": "\"Tengo que ir a trabajar\", \"los niños salen del colegio\". La memoria antigua da órdenes que los pies obedecen." },
-        { "role": "value", "n": "5", "h": "Prueba puertas y ventanas", "b": "Revisar cerraduras, pararse en la puerta, salir \"a ver algo\". El cuerpo ensaya la salida antes de hacerla." },
-        { "role": "cta", "h": "¿Viste 2 o más? Es hora del plan.", "b": "Identificación puesta, red de vecinos, rutina de puertas. Comparte con tus hermanos hoy." }
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "5 señales de que tu papá puede extraviarse.", "b": "Aprende a verlas antes del primer susto." },
+        { "role": "rehook", "h": "Un abuelo no se pierde de un día para otro.", "b": "Semanas antes ya da señales. Estas son las más claras." },
+        { "role": "value", "n": "1", "h": "Dice \"quiero irme a mi casa\"... estando en casa", "b": "Su casa es la de su memoria antigua. No es capricho: es desorientación. Es la señal más clara." },
+        { "role": "value", "n": "2", "h": "Se inquieta al atardecer", "b": "Entre 5 y 8 de la noche crece la confusión y las ganas de salir. Es el horario de más riesgo." },
+        { "role": "value", "n": "3", "h": "Habla de \"deberes\" del pasado", "b": "\"Tengo que ir a trabajar\", \"los niños salen del colegio\". Y prueba puertas: el cuerpo ensaya la salida." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "¿Viste 2 o más señales? Arma el plan hoy.", "b": "Y ponle su pulsera: comehometag.com. Comparte con tus hermanos." }
       ],
       "caption": {
-        "ig": "\"Quiero irme a mi casa\" — dicho DENTRO de su casa: la señal de riesgo de deambulación más reveladora en adultos mayores con deterioro cognitivo. Las otras 4: inquietud al atardecer (sundowning, 5-8pm), rutas conocidas que se enredan, \"deberes\" del pasado y probar puertas. Leerlas a tiempo permite armar el plan ANTES del primer susto. #alzheimer #demencia #cuidadores #adultomayor #peru",
-        "tt": "5 señales de que un abuelito puede extraviarse (antes del primer susto) 💜 #alzheimer #abuelos #cuidadores",
-        "fb": "Si has escuchado a un papá o abuelo con deterioro cognitivo decir \"quiero irme a mi casa\" estando EN su casa — esa es la señal más importante de riesgo de deambulación. \"Su casa\" es la de su memoria antigua. ¿Cuál de estas 5 señales has notado? El plan se arma antes del susto."
+        "ig": "Las señales de que un adulto mayor con Alzheimer puede extraviarse: decir \"quiero irme a mi casa\" estando EN su casa, inquietud al atardecer y \"deberes\" del pasado. Verlas a tiempo permite armar el plan antes del primer susto — y ponerle su pulsera ComeHomeTag: quien lo encuentre escanea el QR y llama a la familia al instante. #alzheimer #demencia #cuidadores #adultomayor #peru",
+        "tt": "5 señales de que un abuelito puede extraviarse 💜 y su pulsera ComeHomeTag lista antes del susto. #alzheimer #abuelos #cuidadores",
+        "fb": "Si tu papá o abuelo con Alzheimer dice \"quiero irme a mi casa\" estando EN su casa, esa es la señal más importante de riesgo: \"su casa\" es la de su memoria antigua. El plan se arma antes del susto — con su pulsera ComeHomeTag puesta: comehometag.com"
       },
-      "alt": "Cinco señales tempranas de riesgo de deambulación en adultos mayores con deterioro cognitivo."
+      "alt": "Señales tempranas de riesgo de extravío en adultos mayores con Alzheimer y la pulsera ComeHomeTag."
     },
     {
       "slug": "por-que-se-van",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Para él, está VOLVIENDO a casa.", "b": "La mente de una persona con demencia" },
-        { "role": "story", "plate": "cine-09-ventana", "h": "Entender esa diferencia lo cambia todo.", "b": "Cómo lo buscas, cómo le hablas, cómo lo cuidas." },
-        { "role": "value", "h": "Su presente vive en el pasado", "b": "La demencia borra la memoria reciente y conserva la antigua. Su realidad puede ser 1985: otra casa, otro trabajo, hijos pequeños que recoger." },
-        { "role": "value", "h": "\"Volver a casa\" tiene otra dirección", "b": "La casa de su realidad es la de su infancia o juventud. Por eso camina con determinación: ÉL sabe exactamente a dónde va." },
-        { "role": "value", "h": "No pide ayuda porque no se siente perdido", "b": "A diferencia de un niño, no reconoce que necesita ayuda. Puede caminar horas sin alarmarse — ni alarmar a nadie." },
-        { "role": "value", "h": "Por eso \"vigilar más\" no basta", "b": "Nadie vigila 24/7 y la culpa no ayuda. Ayudan las capas: rutina de puertas, vecinos alerta, identificación puesta, mapa del pasado." },
-        { "role": "value", "h": "Y por eso no se le corrige", "b": "\"¡Estás confundido!\" asusta y agita. \"Te acompaño a casa\" calma y lo trae de vuelta. Su realidad se acompaña, no se discute." },
-        { "role": "cta", "h": "Compártelo con tu familia.", "b": "Cuando todos entienden POR QUÉ se va, todos cuidan mejor." }
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Por qué un abuelo con Alzheimer sale solo.", "b": "Entenderlo cambia cómo lo cuidas." },
+        { "role": "rehook", "h": "Para ti salió de casa. Para él, está volviendo.", "b": "Su memoria vive en el pasado. Esto lo explica todo." },
+        { "role": "value", "n": "1", "h": "Su presente es otro año", "b": "El Alzheimer borra lo reciente y conserva lo antiguo. Su realidad puede ser 1985: otra casa, otro trabajo." },
+        { "role": "value", "n": "2", "h": "Por eso camina con decisión", "b": "Va a \"su casa\": la de su infancia o juventud. Y no pide ayuda, porque no se siente perdido." },
+        { "role": "value", "n": "3", "h": "Por eso no se le corrige", "b": "\"¡Estás confundido!\" lo asusta. \"Te acompaño a casa\" lo calma y lo trae de vuelta." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Compártelo con tu familia.", "b": "Cuando todos entienden por qué se va, todos cuidan mejor. Su pulsera: comehometag.com." }
       ],
       "caption": {
-        "ig": "Lo más difícil de entender de la demencia: cuando tu papá sale de casa, EN SU REALIDAD está volviendo a casa — la de 1985. Camina con determinación porque él sí sabe a dónde va, y no pide ayuda porque no se siente perdido. Por eso no basta \"vigilar más\": ayudan las capas — puertas, vecinos, identificación, mapa del pasado. #alzheimer #demencia #cuidadores #peru",
-        "tt": "Lo que pasa en la mente de un abuelito con demencia cuando \"se escapa\" 💜 #alzheimer #demencia #cuidadores",
-        "fb": "La frase que cambia cómo las familias entienden la demencia: \"para ti salió de casa; para él, está VOLVIENDO a casa — la de hace 40 años\". Por eso camina con determinación y no pide ayuda. Compartan esto en familia: cuando todos entienden el porqué, todos cuidan mejor."
+        "ig": "Por qué un adulto mayor con Alzheimer sale solo de casa: en SU realidad está volviendo a casa — la de hace 40 años. Camina con decisión y no pide ayuda porque no se siente perdido. Por eso la pulsera ComeHomeTag va puesta siempre: quien lo encuentre escanea el QR y llama a la familia al instante. #alzheimer #demencia #cuidadores #peru",
+        "tt": "Lo que pasa en la mente de un abuelito con Alzheimer cuando sale solo 💜 #alzheimer #demencia #cuidadores",
+        "fb": "La frase que cambia cómo las familias entienden el Alzheimer: \"para ti salió de casa; para él, está VOLVIENDO a casa — la de hace 40 años\". Por eso no pide ayuda. Y por eso su pulsera ComeHomeTag va puesta siempre: comehometag.com"
       },
-      "alt": "Explicación de la deambulación en demencia: memoria antigua dominante y por qué no piden ayuda."
+      "alt": "Por qué las personas con Alzheimer salen solas de casa y la pulsera ComeHomeTag con QR."
     },
     {
       "slug": "como-hablarle",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "La pregunta que más duele.", "b": "Deja de hacerla. 7 frases que calman." },
-        { "role": "story", "plate": "cine-05-abuela", "h": "Con demencia, el TONO llega antes que las palabras.", "b": "Y algunas palabras abren puertas que otras cierran para siempre." },
-        { "role": "value", "n": "1", "h": "\"Te estaba buscando para ir a casa\"", "b": "En vez de \"¡te perdiste!\". La primera es un encuentro; la segunda, una acusación que asusta." },
-        { "role": "value", "n": "2", "h": "\"Vamos juntos, yo te acompaño\"", "b": "En vez de \"no puedes salir solo\". Acompañar suma; prohibir enfrenta. Con demencia, el enfrentamiento siempre pierde." },
-        { "role": "value", "n": "3", "h": "\"Cuéntame de tu trabajo\"", "b": "Redirigir > corregir. Si insiste en \"ir a trabajar\", pregúntale por SU trabajo. Dos cuadras de conversación y el impulso pasa." },
-        { "role": "value", "n": "4", "h": "\"Aquí estoy: soy Carlos, tu hijo\"", "b": "Regala la respuesta en vez de pedirla. \"¿Sabes quién soy?\" es un examen que duele a los dos." },
-        { "role": "value", "n": "5", "h": "\"Tienes razón\" (aunque no la tenga)", "b": "Validar su emoción no es mentirle: es elegir su calma por encima de tu razón. La corrección no cura; la calma sí ayuda." },
-        { "role": "cta", "h": "Imprime estas frases.", "b": "En la refri de la casa del abuelo. Y compártelas con cada persona que lo cuida." }
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Cómo calmar a un abuelo desorientado.", "b": "Las frases que ayudan y las que duelen." },
+        { "role": "rehook", "h": "Con Alzheimer, el tono llega antes que las palabras.", "b": "Unas frases calman. Otras asustan. Aprende la diferencia." },
+        { "role": "value", "n": "1", "h": "Di \"te estaba buscando para ir a casa\"", "b": "En vez de \"¡te perdiste!\". La primera es un encuentro; la segunda, una acusación que asusta." },
+        { "role": "value", "n": "2", "h": "Regala la respuesta: \"soy Carlos, tu hijo\"", "b": "\"¿Sabes quién soy?\" es un examen que duele a los dos. Mejor dale la respuesta de entrada." },
+        { "role": "value", "n": "3", "h": "Acompaña, no corrijas", "b": "Si insiste en \"ir a trabajar\", pregúntale por su trabajo. Dos cuadras de conversación y el impulso pasa." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Imprime estas frases para toda la familia.", "b": "Y su pulsera, puesta: comehometag.com." }
       ],
       "caption": {
-        "ig": "\"¿Sabes quién soy?\" es un examen que duele dos veces: a él por no saber, a ti por confirmarlo. Los especialistas recomiendan REGALAR la respuesta: \"aquí estoy, soy Carlos, tu hijo\". Esa y 6 frases más que calman a una persona desorientada — y las que hay que evitar. Imprímelas en la refri. #alzheimer #demencia #cuidadores #comunicacion #peru",
-        "tt": "7 frases que calman a un abuelito desorientado (y la que hay que dejar de decir) 💜 #alzheimer #cuidadores #abuelos",
-        "fb": "La pregunta que más duele en la demencia es \"¿sabes quién soy?\" — un examen que lastima a los dos. La alternativa de los especialistas: regalar la respuesta (\"aquí estoy, soy Ana, tu nieta\"). ¿Qué frase te ha funcionado con tu familiar? Compartamos entre cuidadores."
+        "ig": "Cómo hablarle a un adulto mayor con Alzheimer desorientado: regalar la respuesta (\"soy Carlos, tu hijo\") en vez de examinar (\"¿sabes quién soy?\"), y acompañar en vez de corregir. Y para el día que salga solo, su pulsera ComeHomeTag: quien lo encuentre escanea y llama a la familia al instante. Imprime las frases en la refri. #alzheimer #demencia #cuidadores #comunicacion #peru",
+        "tt": "Frases que calman a un abuelito desorientado (y la que duele) 💜 #alzheimer #cuidadores #abuelos",
+        "fb": "\"¿Sabes quién soy?\" es un examen que duele dos veces. Los especialistas recomiendan regalar la respuesta: \"aquí estoy, soy Ana, tu nieta\". Esa y más frases que calman, en el post. Y su pulsera ComeHomeTag para el día que salga solo: comehometag.com"
       },
-      "alt": "Siete frases recomendadas para comunicarse con adultos mayores desorientados y las que evitar."
+      "alt": "Frases para calmar a un adulto mayor desorientado por Alzheimer y la pulsera ComeHomeTag."
     },
     {
       "slug": "culpa-del-cuidador",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"Me distraje cinco minutos.\"", "b": "La frase que no te deja dormir" },
-        { "role": "story", "plate": "cine-01-manos", "h": "Si cuidas a alguien con demencia, conoces esa culpa.", "b": "Hoy vamos a desarmarla con datos." },
-        { "role": "value", "h": "El dato que te absuelve", "b": "6 de cada 10 personas con demencia se extravían — incluidas las cuidadas por enfermeras profesionales 24/7. Es la enfermedad, no tu descuido." },
-        { "role": "value", "h": "Nadie vigila 24/7. Nadie.", "b": "Dormimos, cocinamos, vamos al baño, vivimos. El plan bueno ASUME la distracción — no exige lo imposible." },
-        { "role": "value", "h": "La culpa gasta lo que el cuidado necesita", "b": "Cada hora de autocastigo es una hora menos de paciencia mañana. Cuidarte no es egoísmo: es mantenimiento del cuidador." },
-        { "role": "value", "h": "Prepararse no es traicionarlo", "b": "Identificación, vecinos avisados, mapa del pasado: no es \"esperar que se pierda\". Es amarlo con los ojos abiertos." },
-        { "role": "value", "h": "Pide ayuda ANTES del límite", "b": "Turnos con hermanos, grupos de cuidadores, una tarde libre sagrada. El cuidador que no descansa se vuelve el segundo paciente." },
-        { "role": "cta", "h": "Envíaselo a un cuidador hoy.", "b": "Alguien que cuida a su papá o su mamá necesita leer que no es su culpa." }
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "¿Se extravió tu papá? No fue tu culpa.", "b": "Datos para el que cuida y se culpa." },
+        { "role": "rehook", "h": "\"Me distraje cinco minutos.\" Esa frase no deja dormir.", "b": "Hoy la desarmamos con datos." },
+        { "role": "value", "n": "1", "h": "6 de cada 10 se extravían alguna vez", "b": "Incluso con enfermeras profesionales las 24 horas. Es la enfermedad, no tu descuido." },
+        { "role": "value", "n": "2", "h": "Nadie puede vigilar 24 horas. Nadie.", "b": "Dormimos, cocinamos, vamos al baño. El buen plan asume la distracción — no exige lo imposible." },
+        { "role": "value", "n": "3", "h": "Prepararse no es traicionarlo", "b": "Identificación puesta, vecinos avisados. No es \"esperar que se pierda\": es amarlo con los ojos abiertos." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Envíaselo a un cuidador hoy.", "b": "Y regálale tranquilidad: la pulsera está en comehometag.com." }
       ],
       "caption": {
-        "ig": "Para el que cuida: \"me distraje cinco minutos\" es la frase que no deja dormir — y el dato la desarma: 6 de cada 10 personas con demencia se extravían al menos una vez, INCLUIDAS las cuidadas por profesionales 24/7. No es negligencia: es la enfermedad. Prepararse no es traicionar — es amar con los ojos abiertos. #cuidadores #alzheimer #saludmental #peru",
-        "tt": "Si cuidas a alguien con demencia, esto es para ti 💜 #cuidadores #alzheimer #saludmental",
-        "fb": "A todos los que cuidan a un papá, mamá o abuelo con demencia: la culpa del \"me distraje cinco minutos\" no ayuda a nadie — y el dato dice que 6 de cada 10 se extravían incluso con cuidado profesional 24/7. Etiqueta a un cuidador que necesite leer esto hoy. 💜"
+        "ig": "Para el que cuida a alguien con Alzheimer y se culpa: 6 de cada 10 personas con demencia se extravían alguna vez, incluso con cuidado profesional 24/7. No es negligencia, es la enfermedad. Prepararse es amar con los ojos abiertos — y la pulsera ComeHomeTag cubre el momento que nadie puede vigilar: quien lo encuentre llama a la familia al instante. #cuidadores #alzheimer #saludmental #peru",
+        "tt": "Si cuidas a alguien con Alzheimer: no es tu culpa 💜 #cuidadores #alzheimer #saludmental",
+        "fb": "A todos los que cuidan a un papá o abuelo con Alzheimer: la culpa del \"me distraje cinco minutos\" no ayuda a nadie — 6 de cada 10 se extravían incluso con cuidado profesional. Prepararse sí ayuda: con la pulsera ComeHomeTag, quien lo encuentre llama a la familia al instante. Etiqueta a un cuidador. 💜 comehometag.com"
       },
-      "alt": "Mensaje para cuidadores: datos que desmontan la culpa y preparación como acto de amor."
+      "alt": "Mensaje para cuidadores: la culpa no ayuda, la preparación sí, con la pulsera ComeHomeTag."
     },
     {
       "slug": "preparar-la-casa",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "El truco de la cortina.", "b": "La casa que cuida sin ser jaula" },
-        { "role": "story", "plate": "cine-11-perro", "h": "La casa puede ser tu primera línea de cuidado.", "b": "Sin rejas nuevas ni gastos grandes. Ese equilibrio es el arte." },
-        { "role": "value", "n": "1", "h": "Campanita o sensor en las puertas", "b": "Cuesta un menú y suena cuando la puerta se abre. La siesta del cuidador deja de ser una ventana de riesgo." },
-        { "role": "value", "n": "2", "h": "Cerrojo ARRIBA o ABAJO", "b": "Las manos buscan la cerradura a la altura de siempre. Un cerrojo fuera de la vista desactiva la rutina motora." },
-        { "role": "value", "n": "3", "h": "La cortina sobre la puerta de salida", "b": "Suena raro, funciona: lo que no se ve, no llama. Para una percepción alterada, una puerta cubierta \"desaparece\"." },
-        { "role": "value", "n": "4", "h": "Sus cosas de salir, fuera de vista", "b": "Zapatos, sombrero y bastón junto a la puerta son una invitación. Guardados, el guion de \"me voy\" pierde su utilería." },
-        { "role": "value", "n": "5", "h": "Un circuito para caminar DENTRO", "b": "La necesidad de caminar es real: no se quita, se redirige. Un pasillo despejado o el patio bajan la presión de la puerta." },
-        { "role": "cta", "h": "Un fin de semana, ningún gasto grande.", "b": "Guarda la lista y hazla con tus hermanos. La campanita va primero." }
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Prepara tu casa para que no salga solo.", "b": "Ajustes simples, baratos, sin volverla jaula." },
+        { "role": "rehook", "h": "La casa puede cuidar sin ser una jaula.", "b": "Ajustes de un fin de semana, sin gastos grandes." },
+        { "role": "value", "n": "1", "h": "Campanita en la puerta", "b": "Cuesta un menú y suena cuando la puerta se abre. La siesta del cuidador deja de ser un riesgo." },
+        { "role": "value", "n": "2", "h": "Cerrojo arriba y una cortina sobre la puerta", "b": "Las manos buscan la cerradura de siempre; un cerrojo alto la evita. Y una puerta cubierta ya no llama la atención." },
+        { "role": "value", "n": "3", "h": "Un lugar para caminar adentro", "b": "Las ganas de caminar son reales: no se quitan, se redirigen. Un pasillo despejado o el patio bajan las ganas de salir." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Hazlo este fin de semana.", "b": "La campanita primero. Y su pulsera, por si acaso: comehometag.com." }
       ],
       "caption": {
-        "ig": "El truco de la cortina: para una persona con percepción alterada por demencia, una puerta cubierta con una cortina simple \"desaparece\". Ese y 6 ajustes más de un fin de semana que cuidan sin convertir la casa en jaula: campanita en la puerta, cerrojo fuera de la altura habitual, circuito interior para caminar. #alzheimer #demencia #cuidadores #hogar #peru",
-        "tt": "7 ajustes en casa si cuidas a alguien con demencia (ninguno caro) 🏠💜 #alzheimer #cuidadores #hogar",
-        "fb": "El ajuste de casa más contraintuitivo y más efectivo para demencia: una CORTINA sobre la puerta de salida — lo que no se ve, no llama. Y la campanita de un menú que avisa cuando la puerta se abre. 7 ajustes, un fin de semana, ningún gasto grande. ¿Cuál conocías?"
+        "ig": "Cómo preparar la casa si cuidas a alguien con Alzheimer, sin volverla jaula: campanita en la puerta, cerrojo fuera de la altura habitual, una cortina sobre la salida y un espacio para caminar adentro. Y por si un día igual sale: su pulsera ComeHomeTag, para que quien lo encuentre llame a la familia al instante. #alzheimer #demencia #cuidadores #hogar #peru",
+        "tt": "Ajustes en casa si cuidas a alguien con Alzheimer (ninguno caro) 🏠💜 #alzheimer #cuidadores #hogar",
+        "fb": "El ajuste de casa más simple y efectivo para Alzheimer: una campanita que suena al abrirse la puerta — cuesta un menú. Y una cortina sobre la salida: lo que no se ve, no llama. Por si un día igual sale, su pulsera ComeHomeTag: comehometag.com ¿Cuál conocías?"
       },
-      "alt": "Siete adaptaciones del hogar para reducir deambulación: sensores, cerrojos reubicados, cortina y circuito interior."
+      "alt": "Ajustes del hogar para evitar que una persona con Alzheimer salga sola, y la pulsera ComeHomeTag."
     },
     {
       "slug": "que-lleve-puesto",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "¿Y si la billetera quedó en casa?", "b": "Lo que un abuelo debe llevar PUESTO" },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "Lo que va puesto, va siempre.", "b": "Esa es toda la diferencia entre un sistema y una esperanza." },
-        { "role": "value", "n": "1", "h": "Identificación con contacto directo", "b": "Pulsera o tag sin batería y sin depender de que él recuerde nada. Quien lo encuentre debe poder llamar en segundos." },
-        { "role": "value", "n": "2", "h": "El aviso de su condición", "b": "\"Tiene Alzheimer, puede estar desorientado.\" Esa línea le explica al que ayuda por qué el señor amable insiste en irse a 1985." },
-        { "role": "value", "n": "3", "h": "Alergias y medicinas críticas", "b": "Si lo asiste personal de salud, esa información decide qué pueden darle. En el cuerpo, no en un cajón." },
-        { "role": "value", "n": "4", "h": "Su nombre DE SIEMPRE", "b": "Responde mejor a \"don Manuel\" que a \"señor\". Que quien lo ayude sepa cómo llamarlo baja la agitación al instante." },
-        { "role": "value", "n": "5", "h": "Lo que NO sirve solo", "b": "El celular (se descarga, lo olvida, no contesta números raros) y el papelito (se lava, se pierde). Respaldos, no base." },
-        { "role": "cta", "h": "Revisa AHORA MISMO.", "b": "¿Qué lleva puesto tu papá o abuelo en este momento? Si la respuesta es \"nada\", ya sabes el pendiente." }
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Lo que tu abuelo debe llevar puesto siempre.", "b": "Porque la billetera se queda en casa." },
+        { "role": "rehook", "h": "Lo que va puesto, va siempre.", "b": "La billetera y el celular se quedan en casa justo el día que importa." },
+        { "role": "value", "n": "1", "h": "Su nombre y el aviso de su condición", "b": "\"Tiene Alzheimer, puede estar desorientado.\" Esa línea le explica todo a quien lo ayude. Y que sepa que responde a \"don Manuel\"." },
+        { "role": "value", "n": "2", "h": "El número de la familia, en el cuerpo", "b": "No en la billetera ni de memoria. Quien lo encuentre debe poder llamar en segundos, sin que él recuerde nada." },
+        { "role": "value", "n": "3", "h": "Lo que no sirve solo", "b": "El celular se descarga o lo olvida. El papelito se lava. Sirven de respaldo, no de base." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Revisa ahora: ¿qué lleva puesto tu papá?", "b": "Si la respuesta es \"nada\", el pendiente está en comehometag.com." }
       ],
       "caption": {
-        "ig": "La billetera se queda en casa justo el día que importa — por eso la regla del cuidado es: lo que va PUESTO, va siempre. Lo que un adulto mayor con demencia debe llevar en el cuerpo: identificación con contacto directo, el aviso de su condición, alergias y su nombre de siempre (responde a \"don Manuel\", no a \"señor\"). #alzheimer #adultomayor #cuidadores #peru",
-        "tt": "Lo que un abuelito con demencia debería llevar puesto SIEMPRE 💜 #alzheimer #abuelos #cuidadores",
-        "fb": "Pregunta directa para familias cuidadoras: si tu papá o abuelo con demencia saliera solo AHORA MISMO, ¿qué información lleva en el cuerpo? La billetera no cuenta — se queda en casa justo el día que importa. La lista completa de lo que va puesto, en el post."
+        "ig": "Lo que un adulto mayor con Alzheimer debe llevar PUESTO siempre: el aviso de su condición, su nombre de siempre y el número de la familia en el cuerpo — porque la billetera se queda en casa justo el día que importa. La pulsera ComeHomeTag reúne todo en un QR: quien lo encuentre escanea y llama a la familia al instante. #alzheimer #adultomayor #cuidadores #peru",
+        "tt": "Lo que un abuelito con Alzheimer debería llevar puesto SIEMPRE 💜 #alzheimer #abuelos #cuidadores",
+        "fb": "Pregunta directa para familias cuidadoras: si tu papá o abuelo con Alzheimer saliera solo AHORA MISMO, ¿qué información lleva en el cuerpo? La billetera no cuenta. La pulsera ComeHomeTag lleva su nombre, su condición y el contacto de la familia en un QR — sin batería. comehometag.com"
       },
-      "alt": "Lista de lo que un adulto mayor con demencia debe llevar puesto: identificación, condición, alergias y nombre habitual."
+      "alt": "Lo que un adulto mayor con Alzheimer debe llevar puesto y la pulsera ComeHomeTag con QR."
     },
     {
       "slug": "historia-papa-calle",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"¿Quién cambió mi calle?\"", "b": "El día que papá no reconoció su barrio" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Salió por pan y no reconoció su calle.", "b": "La historia de un papá con Alzheimer." },
         { "role": "story", "plate": "cine-03-abuelo", "h": "Salió a comprar pan, como hace 40 años.", "b": "A tres cuadras, el barrio dejó de ser el suyo." },
-        { "role": "story", "plate": "cine-09-ventana", "h": "No estaba asustado. Estaba MOLESTO.", "b": "\"¿Quién cambió mi calle?\" La panadería de su memoria cerró en 1998." },
-        { "role": "story", "plate": "cine-07-columpio", "h": "Dos horas. Veinte llamadas. Tres hermanos buscando.", "b": "Lo encontró la señora de una bodega... a cuatro cuadras de casa." },
-        { "role": "value", "h": "Lo que esa familia aprendió", "b": "1) Se busca cerca primero. 2) El barrio es la mejor red. 3) \"Solo va por pan\" ya no era un viaje seguro — y nadie lo había querido ver." },
-        { "role": "value", "h": "Lo que cambiaron esa semana", "b": "Identificación puesta siempre, la bodeguera y el vigilante con el número de la familia, y las salidas ahora son acompañadas — comprando el doble de pan." },
-        { "role": "value", "h": "Lo que NO cambió", "b": "Su dignidad. Sigue saliendo, sigue eligiendo el pan, sigue siendo el papá. Cuidar no es encerrar: es acompañar mejor." },
-        { "role": "cta", "h": "¿Te suena esta historia?", "b": "Compártela con tus hermanos. La conversación incómoda de hoy evita la búsqueda desesperada de mañana." }
+        { "role": "story", "plate": "cine-09-ventana", "h": "No estaba asustado. Estaba molesto.", "b": "\"¿Quién cambió mi calle?\" La panadería de su memoria cerró en 1998." },
+        { "role": "story", "plate": "cine-07-columpio", "h": "Dos horas. Veinte llamadas. Tres hermanos buscando.", "b": "Lo encontró la señora de una bodega, a cuatro cuadras de casa." },
+        { "role": "value", "h": "Lo que la familia cambió esa semana", "b": "Identificación puesta siempre, los vecinos con el número de la familia y salidas acompañadas. Sin quitarle su caminata." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "La pulsera ComeHomeTag lleva un código QR. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "¿Te suena esta historia?", "b": "Consigue su pulsera en comehometag.com — antes del primer susto." }
       ],
       "caption": {
-        "ig": "El día que papá no reconoció su propia calle: salió por pan como hace 40 años y a tres cuadras el barrio dejó de ser suyo. No estaba asustado — estaba MOLESTO: \"¿quién cambió mi calle?\". La panadería de su memoria cerró en 1998. Lo que esa familia cambió esa misma semana (y lo que no cambió: su dignidad). #alzheimer #familia #cuidadores #peru",
+        "ig": "La historia del papá que salió por pan como hace 40 años — y a tres cuadras no reconoció su calle: la panadería de su memoria cerró en 1998. Lo encontró la señora de una bodega. Esa semana la familia le puso identificación, avisó a los vecinos y acompañó sus salidas — sin quitarle su caminata. Para eso existe la pulsera ComeHomeTag: quien lo encuentre escanea y llama a la familia al instante. #alzheimer #familia #cuidadores #peru",
         "tt": "Salió por pan como hace 40 años. A tres cuadras, el barrio ya no era suyo 💜 #alzheimer #historiareal #abuelos",
-        "fb": "\"¿Quién cambió mi calle?\" — no estaba asustado, estaba molesto. La panadería de su memoria cerró en 1998. Si esta historia te suena, la conversación incómoda con tus hermanos es HOY, no después del primer susto. Lo que esa familia cambió (sin quitarle al papá su caminata), en el post."
+        "fb": "\"¿Quién cambió mi calle?\" — no estaba asustado, estaba molesto. La panadería de su memoria cerró en 1998. Si esta historia te suena, la conversación con tus hermanos es HOY. Y la pulsera ComeHomeTag hace que quien lo encuentre llame a la familia al instante: comehometag.com"
       },
-      "alt": "Historia de un padre con demencia desorientado comprando pan y los cambios que hizo su familia."
+      "alt": "Historia de un padre con Alzheimer que no reconoció su calle y la pulsera ComeHomeTag que ayuda a volver."
     },
     {
       "slug": "mitos-gps-abuelos",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "El GPS tiene letra chica.", "b": "Tres, y las descubres cuando fallan" },
-        { "role": "story", "plate": "cine-05-abuela", "h": "El GPS es una gran herramienta.", "b": "Con tres letras chicas que se descubren cuando fallan." },
-        { "role": "value", "n": "1", "h": "Letra chica 1: la batería", "b": "Cargarlo cada noche... en la casa de una persona que olvida. La estadística real: el GPS descargado en un cajón el día del susto." },
-        { "role": "value", "n": "2", "h": "Letra chica 2: que lo lleve", "b": "Un aparato nuevo y extraño es lo primero que una persona con demencia deja de usar. Lo que no se siente propio, no acompaña." },
-        { "role": "value", "n": "3", "h": "Letra chica 3: la mensualidad", "b": "S/45-65 al mes, para siempre. El mes de vacas flacas se cancela — y el riesgo no se cancela con él." },
-        { "role": "value", "h": "Lo que el GPS no hace", "b": "Cuando un vecino LO ENCUENTRA desorientado, el GPS no le dice nada al vecino. La identificación visible sí: \"llama a esta familia\"." },
-        { "role": "value", "h": "La combinación honesta", "b": "Base para todos: identificación pasiva puesta, sin batería ni cuota. Extra para casos severos: GPS, con sus letras chicas leídas." },
-        { "role": "cta", "h": "Antes de comprar, piensa en capas.", "b": "Guarda esta guía para la conversación familiar sobre el cuidado del abuelo." }
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "¿GPS para tu abuelo? Lee esto primero.", "b": "Lo que falla justo cuando importa." },
+        { "role": "rehook", "h": "El GPS es útil, pero tiene letra chica.", "b": "Tres fallas que se descubren justo el día del susto." },
+        { "role": "value", "n": "1", "h": "Hay que cargarlo cada noche", "b": "En la casa de una persona que olvida. El día del susto, suele estar descargado en un cajón." },
+        { "role": "value", "n": "2", "h": "Y hay que pagarlo cada mes", "b": "S/45-65 al mes, para siempre. El mes difícil se cancela — y el riesgo no se cancela con él." },
+        { "role": "value", "n": "3", "h": "Y no le habla a quien lo encuentra", "b": "Cuando un vecino lo ve desorientado, el GPS no le dice nada. Una identificación visible sí: \"llama a esta familia\"." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Piensa en capas: primero la base.", "b": "La pulsera sin batería ni cuota está en comehometag.com." }
       ],
       "caption": {
-        "ig": "\"Le compramos un GPS a la abuela y listo\" — las 3 letras chicas: hay que cargarlo cada noche EN LA CASA DE UNA PERSONA QUE OLVIDA, el aparato extraño termina en un cajón, y la mensualidad de S/45-65 se cancela justo el mes difícil. Y el detalle definitivo: cuando un vecino la encuentra, el GPS no le dice nada al vecino. La identificación visible sí. #alzheimer #gps #cuidadores #adultomayor #peru",
-        "tt": "Las 3 letras chicas del GPS para abuelitos 💜 #alzheimer #gps #cuidadores",
-        "fb": "Experiencia repetida en miles de familias: compraron GPS para el abuelo… y el día del susto estaba descargado en un cajón. No es que el GPS sea malo — es que necesita una base que no dependa de baterías ni memoria. ¿Su familia usa GPS? ¿Cómo les va con la carga diaria? Respondan con honestidad 😅"
+        "ig": "¿GPS para un abuelo con Alzheimer? La letra chica: hay que cargarlo cada noche en la casa de una persona que olvida, cuesta S/45-65 al mes para siempre, y cuando un vecino lo encuentra desorientado, el GPS no le dice nada al vecino. La pulsera ComeHomeTag sí: escanea el QR y llama a la familia al instante — sin batería, sin mensualidad. #alzheimer #gps #cuidadores #adultomayor #peru",
+        "tt": "Las letras chicas del GPS para abuelitos 💜 la base es la pulsera ComeHomeTag. #alzheimer #gps #cuidadores",
+        "fb": "Experiencia repetida en miles de familias: compraron GPS para el abuelo… y el día del susto estaba descargado en un cajón. La base tiene que funcionar sin batería ni memoria: la pulsera ComeHomeTag — quien lo encuentre escanea y llama a la familia al instante. comehometag.com"
       },
-      "alt": "Limitaciones del GPS para adultos mayores con demencia: batería, rechazo del aparato y mensualidad."
+      "alt": "Limitaciones del GPS para adultos mayores con Alzheimer frente a la pulsera ComeHomeTag sin batería."
     },
     {
       "slug": "red-de-barrio",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "5 conversaciones de 2 minutos.", "b": "Cuidan más que cualquier aparato" },
-        { "role": "story", "plate": "cine-11-perro", "h": "Antes de los GPS y las apps, existía el barrio.", "b": "En el Perú, todavía funciona mejor que todo lo demás." },
-        { "role": "value", "n": "1", "h": "El mapa humano de sus rutas", "b": "Bodeguero, farmacéutico, vigilante, casera del mercado, vecina de la esquina. Cinco personas que lo ven TODOS los días." },
-        { "role": "value", "n": "2", "h": "La presentación de 2 minutos", "b": "\"Él es mi papá, tiene Alzheimer. Si lo ven solo o desorientado, ¿me llaman?\" Nadie dice que no. NADIE." },
-        { "role": "value", "n": "3", "h": "Tu número, pegado en sus negocios", "b": "Una tarjetita en la caja de la bodega. Cuando pase algo, nadie tiene que buscar nada." },
-        { "role": "value", "n": "4", "h": "El grupo de WhatsApp del barrio", "b": "Si existe, preséntalo ahí también. Veinte pares de ojos más, gratis, con cariño del bueno." },
-        { "role": "value", "n": "5", "h": "La red + la identificación", "b": "La red cubre SU barrio. La identificación cubre el resto del mundo. Juntas: cobertura total sin batería ni cuota." },
-        { "role": "cta", "h": "Cinco conversaciones esta semana.", "b": "Guarda esta guía como pauta. Empieza por la bodega de la esquina." }
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "El barrio puede cuidar a tu abuelo.", "b": "5 conversaciones de 2 minutos lo logran." },
+        { "role": "rehook", "h": "Antes de los GPS y las apps, existía el barrio.", "b": "En el Perú sigue siendo la mejor red. Actívala así:" },
+        { "role": "value", "n": "1", "h": "Habla con 5 personas de su ruta", "b": "Bodeguero, farmacéutico, vigilante, casera, vecina. Lo ven todos los días y lo reconocen mejor que una foto." },
+        { "role": "value", "n": "2", "h": "La frase que nadie rechaza", "b": "\"Él es mi papá, tiene Alzheimer. Si lo ven solo, ¿me llaman?\" Deja tu número en la bodega. Nadie dice que no." },
+        { "role": "value", "n": "3", "h": "La red cubre su barrio. La pulsera, el resto.", "b": "Si camina más allá de sus cuadras, cualquier desconocido bueno puede llamarte igual." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Cinco conversaciones esta semana.", "b": "Empieza por la bodega. Y su pulsera: comehometag.com." }
       ],
       "caption": {
-        "ig": "\"Él es mi papá, tiene Alzheimer. Si lo ven solo, ¿me llaman?\" — Nadie en el barrio dice que no a esa frase. NADIE. Cinco conversaciones de 2 minutos (bodeguero, farmacéutico, vigilante, casera, vecina) cuidan más que cualquier aparato. La red cubre su barrio; la identificación, el resto del mundo. #alzheimer #comunidad #cuidadores #peru",
-        "tt": "El sistema de cuidado más antiguo del mundo sigue siendo el mejor 💜 #comunidad #alzheimer #peru",
-        "fb": "El sistema de cuidado más efectivo del Perú no se compra: se conversa. \"Él es mi papá, tiene Alzheimer — si lo ven solo, ¿me llaman?\" Cinco personas de su ruta diaria, dos minutos cada una. Nadie dice que no. ¿Ya presentaron a su familiar con el barrio?"
+        "ig": "Cómo armar la red de barrio para cuidar a un adulto mayor con Alzheimer: 5 conversaciones de 2 minutos — bodeguero, farmacéutico, vigilante, casera, vecina. \"Si lo ven solo, ¿me llaman?\" Nadie dice que no. La red cubre su barrio; la pulsera ComeHomeTag cubre el resto del mundo: quien lo encuentre escanea y llama a la familia. #alzheimer #comunidad #cuidadores #peru",
+        "tt": "El sistema de cuidado más antiguo del mundo sigue siendo el mejor 💜 barrio + pulsera ComeHomeTag. #comunidad #alzheimer #peru",
+        "fb": "El sistema de cuidado más efectivo del Perú no se compra: se conversa. Cinco personas de su ruta diaria, dos minutos cada una. Y para lo que el barrio no alcanza, la pulsera ComeHomeTag: cualquier persona buena escanea y llama a la familia. comehometag.com"
       },
-      "alt": "Cómo armar una red de barrio para cuidar a un adulto mayor con demencia: cinco conversaciones clave."
+      "alt": "Red de barrio para cuidar a un adulto mayor con Alzheimer, complementada con la pulsera ComeHomeTag."
     },
     {
       "slug": "pedir-ayuda",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Cuidar solo es más riesgo.", "b": "Para el hermano que carga todo" },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "Este post es la manera menos incómoda", "b": "de empezar LA conversación con tus hermanos. Mándaselo al grupo." },
-        { "role": "value", "n": "1", "h": "Turnos explícitos: papelito manda", "b": "\"Yo lunes y miércoles, tú fines de semana.\" Lo tácito acumula resentimiento; lo escrito reparte descanso." },
-        { "role": "value", "n": "2", "h": "El que \"no puede\", financia", "b": "El hermano que vive lejos pone la movilidad, la identificación, la señora que ayuda. Todos aportan; no todos aportan lo mismo." },
-        { "role": "value", "n": "3", "h": "Tu tarde libre NO se negocia", "b": "Una a la semana, fija, sagrada. No es lujo: es lo que evita que el cuidador colapse — y entonces la crisis es doble." },
-        { "role": "value", "n": "4", "h": "Grupos de cuidadores: úsalos", "b": "Presenciales o en línea, gratis, en español. Nadie entiende a un cuidador como otro cuidador. Desahogarse también es logística." },
-        { "role": "value", "n": "5", "h": "Profesionaliza lo que se pueda", "b": "Unas horas pagadas a la semana, entre todos, compran lo que no tiene precio: paciencia para lo que viene." },
-        { "role": "cta", "h": "Mándalo al grupo de hermanos. Ahora.", "b": "Es la manera menos incómoda de empezar. De nada. 💜" }
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "No cuides solo a tu papá con Alzheimer.", "b": "Cómo repartir el cuidado entre hermanos." },
+        { "role": "rehook", "h": "Cuidar solo no es más amor. Es más riesgo.", "b": "Para ti y para él. Así se reparte:" },
+        { "role": "value", "n": "1", "h": "Turnos por escrito", "b": "\"Yo lunes y miércoles, tú fines de semana.\" Lo tácito acumula resentimiento; lo escrito reparte descanso." },
+        { "role": "value", "n": "2", "h": "El que vive lejos, financia", "b": "La movilidad, la señora que ayuda, la identificación. Todos aportan; no todos aportan lo mismo." },
+        { "role": "value", "n": "3", "h": "Tu tarde libre no se negocia", "b": "Una a la semana, fija. El cuidador que no descansa se convierte en el segundo paciente." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Mándalo al grupo de hermanos. Ahora.", "b": "Es la manera menos incómoda de empezar. La pulsera del papá: comehometag.com. 💜" }
       ],
       "caption": {
-        "ig": "Para el hijo o hija que carga solo el cuidado: cuidar solo no es más amor — es más riesgo, para él y para ti. Las 5 reglas: turnos explícitos (papelito manda), el hermano lejano financia, tu tarde libre NO se negocia, grupos de cuidadores y profesionalizar lo que se pueda. Este post es la manera menos incómoda de empezar LA conversación. #cuidadores #alzheimer #familia #saludmental #peru",
-        "tt": "Para el hermano que carga solo el cuidado del papá 💜 esto es para ti #cuidadores #familia #hermanos",
-        "fb": "La manera menos incómoda de empezar LA conversación con tus hermanos sobre el cuidado de papá o mamá: mandar este post al grupo familiar. Turnos explícitos, el que vive lejos financia, y la tarde libre del cuidador NO se negocia. De nada 💜"
+        "ig": "Cómo repartir el cuidado de un papá con Alzheimer entre hermanos: turnos por escrito, el que vive lejos financia y la tarde libre del cuidador NO se negocia. Cuidar solo no es más amor: es más riesgo. Parte del plan compartido: su pulsera ComeHomeTag, para que quien lo encuentre llame a la familia al instante. #cuidadores #alzheimer #familia #saludmental #peru",
+        "tt": "Para el hermano que carga solo el cuidado del papá 💜 esto es para ti. #cuidadores #familia #hermanos",
+        "fb": "La manera menos incómoda de empezar LA conversación con tus hermanos sobre el cuidado de papá o mamá: mandar este post al grupo. Turnos por escrito, el que vive lejos financia, la tarde libre no se negocia. Y la pulsera ComeHomeTag del papá, entre todos: comehometag.com 💜"
       },
-      "alt": "Guía para repartir el cuidado entre hermanos: turnos, aportes, descanso del cuidador y apoyo profesional."
+      "alt": "Guía para repartir el cuidado entre hermanos y la pulsera ComeHomeTag como parte del plan."
     }
   ]
 }

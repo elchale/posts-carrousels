@@ -1,6 +1,6 @@
-# 3 personas. Operación de 12.
+# 3 personas manejan lo que antes requería 12.
 
-`qolca` · `s6-vision` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`qolca` · `s6-vision` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Lo que 3 personas pueden operar en 2026 🚀
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Lo que una empresa de 3 personas puede operar en 2026: atención 24/7, cotizaciones al minuto, cobranza puntual, reportes solos — lo que en 2020 requería 12 personas.
+Una empresa de 3 personas hoy puede operar lo que en 2020 requería 12 — con los sistemas que construye Qolca: atención 24/7, cotizaciones al minuto, cobranza puntual, reportes solos.
 
-La ecuación vieja ("más ventas = más gente") se jubiló: ahora es los mismos 3 + mejores sistemas, y el margen se queda en casa. La pregunta nueva: ¿cuánto de tu operación corre sola mientras duermes?
+La ecuación vieja ("más ventas = más gente") se jubiló: ahora es los mismos 3 + mejores sistemas, y el margen se queda en casa. qolca.org
 
 #emprendimiento #ia #pymes #peru
 ```
@@ -31,7 +31,7 @@ La capacidad operativa de empresas de tres personas en 2026 gracias a sistemas.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La aritmética cambió: 3 personas + sistemas bien construidos operan hoy lo que en 2020 requería 12 — y "más ventas = más gente" dejó de ser la única ecuación. ¿Qué harías tú con un "empleado" que no duerme, no renuncia y no se aburre de lo repetitivo?
+La aritmética cambió: 3 personas + sistemas bien construidos operan hoy lo que en 2020 requería 12 — y "más ventas = más gente" dejó de ser la única ecuación. Qolca construye esos sistemas para empresas peruanas. ¿Qué harías tú con un "empleado" que no duerme ni se aburre de lo repetitivo? qolca.org
 ```
 
 ## 💼 LinkedIn

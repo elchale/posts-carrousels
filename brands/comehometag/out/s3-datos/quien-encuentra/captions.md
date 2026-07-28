@@ -1,12 +1,12 @@
-# No los encuentra la policía.
+# A los niños perdidos los encuentra gente común.
 
-`comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s3-datos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-¿Quién encuentra a la mayoría de niños perdidos? No es quien crees 💜
+¿Quién encuentra a la mayoría de niños perdidos? No es quien crees 💜 la pulsera ComeHomeTag le da el puente.
 #sabiasque #comunidad #padres
 ```
 
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-La estadística más tranquilizadora: a la mayoría de niños perdidos los encuentra un adulto común que estaba cerca — no la policía.
+A la mayoría de niños perdidos no los encuentra la policía: los encuentra una persona común que pasaba por ahí.
 
-El problema: ese adulto bueno no sabe a quién llamar, y ahí se pierden horas. El contacto directo visible convierte al primer desconocido bueno en el puente de regreso.
+El problema es que esa persona buena no sabe a quién llamar — y ahí se pierden horas. La pulsera QR de ComeHomeTag cierra esa brecha: escanea con su celular y te llama al instante.
 
 #seguridadinfantil #comunidad #peru #prevencion
 ```
@@ -24,12 +24,12 @@ El problema: ese adulto bueno no sabe a quién llamar, y ahí se pierden horas. 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Infografía: los niños perdidos son encontrados por ciudadanos comunes y el contacto visible acelera la reunión.
+Infografía: a los niños perdidos los encuentra gente común y la pulsera ComeHomeTag les da a quién llamar.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-¿Quién crees que encuentra a la mayoría de niños perdidos? No es la policía: es un ciudadano común que estaba cerca. La pregunta que importa: cuando encuentre al tuyo… ¿sabrá a quién llamar? Esa brecha exacta es la que cierra una identificación con contacto.
+¿Quién crees que encuentra a la mayoría de niños perdidos? No es la policía: es un ciudadano común que estaba cerca. La pregunta que importa: cuando encuentre al tuyo… ¿sabrá a quién llamar? Esa brecha exacta la cierra la pulsera con QR de ComeHomeTag. comehometag.com
 ```

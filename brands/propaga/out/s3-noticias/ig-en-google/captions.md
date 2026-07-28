@@ -1,6 +1,6 @@
-# Googlea tu rubro + tu ciudad.
+# Tu Instagram ahora aparece en Google
 
-`propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s3-noticias` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Tu Instagram ya sale en Google. ¿Estás listo? 🔍
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Prueba de 30 segundos: googlea tu rubro + tu ciudad ("tortas personalizadas Surco").
+Tu Instagram ahora aparece en Google — así te encuentran sin tener página web: los posts públicos de cuentas profesionales se indexan en el buscador.
 
-¿Sales tú o tu competencia? Desde 2025 los posts públicos de Instagram se indexan en Google — un negocio chico puede competir en búsquedas SIN página web. Requisitos: cuenta profesional pública, textos que respondan búsquedas reales y posts que se expliquen solos.
+Requisitos: cuenta profesional pública, textos que respondan búsquedas reales y posts que se expliquen solos. Planifica ese contenido gratis con Propaga (propaga.pe).
 
 #google #instagram #seo #peru
 ```
@@ -31,5 +31,5 @@ La indexación de Instagram en Google: requisitos y posts que pescan búsquedas.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Prueba de 30 segundos: googleen su rubro + su ciudad ("tortas personalizadas Surco"). ¿Salen ustedes o su competencia? Desde 2025 los posts públicos de Instagram se indexan en Google — un negocio chico puede competir en búsquedas SIN web. Requisitos: cuenta profesional pública + textos que respondan preguntas reales. ¿Ya salieron?
+Prueba de 30 segundos: googleen su rubro + su ciudad ("tortas personalizadas Surco"). ¿Salen ustedes o su competencia? Los posts públicos de Instagram ya se indexan en Google — un negocio chico puede competir en búsquedas SIN web. Requisitos: cuenta profesional pública + textos que respondan preguntas reales. Planifiquen ese contenido gratis con Propaga (propaga.pe). ¿Ya salieron?
 ```

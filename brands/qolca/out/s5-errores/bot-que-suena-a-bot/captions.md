@@ -1,6 +1,6 @@
-# "Estimado usuario" — nadie habla así
+# "Estimado usuario": así no habla nadie.
 
-`qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s5-errores` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 "Estimado usuario, su solicitud ha sido procesada" — nadie habla así, y tu bot tampoco debería.
 
-El manual de tono no es un documento de marca: son los chats REALES de tu mejor vendedor (cómo saluda, cómo explica el precio, qué emojis usa). Y la regla de honestidad: fingir humanidad se descubre en 2 mensajes. Examen del pasillo, adentro.
+El método de Qolca: el manual de tono son los chats REALES de tu mejor vendedor (cómo saluda, cómo explica el precio, qué emojis usa), y la regla de honestidad: fingir humanidad se descubre en 2 mensajes. Examen del pasillo, adentro. qolca.org
 
 #chatbot #marca #ux #peru
 ```
@@ -31,7 +31,7 @@ Manual de tono para chatbots: imitar al mejor vendedor, mensajes cortos, honesti
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El secreto del bot que no suena a bot: el manual de tono son los chats reales de tu MEJOR vendedor — cómo saluda, cómo explica el precio, qué emojis usa. Examen del pasillo: léanle 5 respuestas de su bot a alguien del equipo. ¿Pasa o suena a robot de banco?
+El secreto del bot que no suena a bot: el manual de tono son los chats reales de tu MEJOR vendedor — cómo saluda, cómo explica el precio, qué emojis usa. Así los construye Qolca. Examen del pasillo: léanle 5 respuestas de su bot a alguien del equipo. ¿Pasa o suena a robot de banco? qolca.org
 ```
 
 ## 💼 LinkedIn

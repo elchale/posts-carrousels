@@ -1,6 +1,6 @@
-# "En una semana está."
+# "En una semana está" es una mentira.
 
-`qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s4-costos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 "En una semana está" — la mentira fundacional del rubro.
 
-Cronogramas reales: agente de WhatsApp 2-4 semanas, integraciones 1-3, paneles 2-3, documentos 2-4. La regla del 50%: análisis + pruebas son la mitad del cronograma — y el "en 3 días" se salta exactamente esas dos mitades. Funciona en la demo, explota con tus clientes.
+Los cronogramas reales de Qolca: agente de WhatsApp 2-4 semanas, conexiones 1-3, paneles 2-3, documentos 2-4. La regla del 50%: análisis + pruebas son la mitad del cronograma — y el "en 3 días" se salta exactamente esas dos mitades. qolca.org
 
 #automatizacion #proyectos #software #peru
 ```
@@ -31,7 +31,7 @@ Tiempos reales de proyectos de automatización y la regla del cincuenta por cien
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Cronogramas reales de automatización (no de folleto): la mitad del tiempo NO es programar — es analizar tus datos reales y probar con tu equipo. El que promete 3 días se salta exactamente esas dos mitades. Pregunta clave para cualquier proveedor: ¿cuántos días de tu cronograma son PRUEBAS?
+Cronogramas reales de automatización (no de folleto): la mitad del tiempo NO es programar — es analizar tus datos reales y probar con tu equipo. El que promete 3 días se salta exactamente esas dos mitades. En Qolca la pregunta clave la respondemos primero: ¿cuántos días son PRUEBAS? qolca.org
 ```
 
 ## 💼 LinkedIn

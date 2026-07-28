@@ -1,6 +1,6 @@
-# ¿Automatizaste lo fácil o lo valioso?
+# Automatizaste lo fácil. Lo valioso sigue sangrando.
 
-`qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s5-errores` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 El error de priorización clásico: automatizar lo FÁCIL (el reporte simpático) mientras sigue sangrando lo VALIOSO (la cotización de 2 días donde esperan tus clientes).
 
-La matriz de dos preguntas: ¿cuántas horas come? ¿cuánta plata toca? Y la pregunta guía: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? Ese es tu proyecto.
+El método de Qolca: ¿cuántas horas come? ¿cuánta plata toca? Y la pregunta guía: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? Ese es tu proyecto. qolca.org
 
 #1 #automatizacion #estrategia #pymes #peru
 ```
@@ -31,7 +31,7 @@ Cómo priorizar qué automatizar: matriz horas/dinero, cuellos de botella y la t
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Trampa común: automatizar para la foto — el panel de control da estatus, pero la secuencia de seguimiento (invisible) da VENTAS. La pregunta guía para elegir bien: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? ¿Cuál automatizarían si solo pudieran elegir UNO?
+Trampa común: automatizar para la foto — el panel de control da estatus, pero la secuencia de seguimiento (invisible) da VENTAS. La pregunta guía que usamos en Qolca para elegir bien: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? ¿Cuál automatizarían si solo pudieran elegir UNO? qolca.org
 ```
 
 ## 💼 LinkedIn

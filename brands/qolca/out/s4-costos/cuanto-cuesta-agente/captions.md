@@ -1,6 +1,6 @@
-# Nadie publica precios. Nosotros sí.
+# ¿Cuánto cuesta un WhatsApp que vende solo?
 
-`qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s4-costos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Cuánto cuesta un agente de WhatsApp en Perú (números reales) 💰
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Nadie en este rubro publica precios.
+¿Cuánto cuesta un agente de WhatsApp que vende solo?
 
-Nosotros sí: agente de WhatsApp con IA a medida = $1,500-5,000 de construcción + $100-300/mes de operación (vs $30-100/mes de los bots de plantilla — productos distintos). Y la verdad completa: con menos de 15 chats diarios NO te conviene, y te lo decimos gratis. Recuperación típica: 2-4 meses.
+En Qolca publicamos los precios que nadie publica: $1,500-5,000 de construcción + $100-300/mes de operación. Y la verdad completa: con menos de 15 chats diarios NO te conviene, y te lo decimos gratis. Recuperación típica: 2-4 meses. qolca.org
 
 #whatsapp #ia #precios #transparencia #peru
 ```
@@ -31,7 +31,7 @@ Costos reales de un agente de WhatsApp en Perú: construcción, operación, cuá
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Nadie en el rubro publica precios — nosotros sí: agente de WhatsApp con IA = $1,500-5,000 + $100-300/mes. Y la parte que más nos diferencia: si tienes menos de 15 chats al día, te decimos GRATIS que no lo necesitas. ¿Preguntas de precios? Respondemos todas en comentarios.
+Nadie en el rubro publica precios — en Qolca sí: agente de WhatsApp con IA = $1,500-5,000 + $100-300/mes. Y la parte que más nos diferencia: si tienes menos de 15 chats al día, te decimos GRATIS que no lo necesitas. ¿Preguntas de precios? Respondemos todas en comentarios. qolca.org
 ```
 
 ## 💼 LinkedIn

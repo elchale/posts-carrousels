@@ -1,6 +1,6 @@
-# Rechazamos 1 de cada 4 proyectos
+# Rechazamos 1 de cada 4 proyectos. Mira cuáles.
 
-`qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s4-costos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ El proveedor que te dice cuándo NO automatizar 🙃
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Rechazamos 1 de cada 4 proyectos de automatización — estas son las 5 razones: el proceso que cambia cada semana (congelar un borrador), el volumen de maceta (<5 hrs/mes = quédate en Excel), el proceso que nadie entiende, la relación que ES el producto y la crisis de caja.
+En Qolca rechazamos 1 de cada 4 proyectos de automatización — estas son las razones: el proceso que cambia cada semana (congelar un borrador), el volumen chico (<5 hrs/mes = quédate en Excel), el proceso que nadie entiende, el trato personal que ES tu producto y la crisis de caja.
 
-Nos cuesta plata y nos compra algo mejor: clientes que vuelven cuando SÍ es el momento.
+Nos cuesta plata y nos compra algo mejor: clientes que vuelven cuando SÍ es el momento. qolca.org
 
 #automatizacion #honestidad #negocios #peru
 ```
@@ -31,7 +31,7 @@ Cinco casos donde no conviene automatizar: procesos inestables, bajo volumen, pr
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Sí, vendemos automatización. Y rechazamos 1 de cada 4 proyectos — porque automatizar un proceso que cambia cada semana congela un borrador, y automatizar el caos solo lo hace más rápido. ¿La regla más impopular? Si te toma menos de 5 horas al mes, tu Excel está bien. En serio.
+Sí, en Qolca vendemos automatización. Y rechazamos 1 de cada 4 proyectos — porque automatizar un proceso que cambia cada semana congela un borrador, y automatizar el caos solo lo hace más rápido. ¿La regla más impopular? Si te toma menos de 5 horas al mes, tu Excel está bien. En serio. qolca.org
 ```
 
 ## 💼 LinkedIn

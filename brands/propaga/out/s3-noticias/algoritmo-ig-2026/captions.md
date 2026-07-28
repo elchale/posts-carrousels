@@ -1,6 +1,6 @@
-# El algoritmo no te odia.
+# Cómo hacer que Instagram muestre tus posts
 
-`propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s3-noticias` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ El algoritmo de IG en cristiano: las 3 señales que mandan 📈
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El algoritmo de Instagram no te odia — cambió de gustos: ahora mandan los ENVÍOS (la señal para llegar a gente nueva), los guardados (el post que vive semanas) y el tiempo de atención.
+Cómo hacer que Instagram muestre tus posts: los likes ya casi no cuentan — hoy mandan los compartidos (la señal para llegar a gente nueva), los guardados (el post que vive semanas) y el tiempo de atención.
 
-Los likes son señal débil desde hace rato. Con acciones concretas para esta semana.
+Con acciones para esta semana, y con Propaga (propaga.pe) las programas gratis.
 
 #1 #algoritmo #instagram #marketingdigital #peru
 ```
@@ -31,5 +31,5 @@ El algoritmo de Instagram explicado simple: envíos, guardados y tiempo de atenc
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El algoritmo de Instagram no te odia — cambió de gustos: ahora mandan los ENVÍOS (que alguien le mande tu post a un amigo), los guardados y el tiempo de atención. La acción de esta semana: revisa qué post tuyo tuvo más envíos… y haz otro igual. ¿Sabías esto?
+El algoritmo de Instagram no te odia — cambió de gustos: ahora mandan los compartidos (que alguien le mande tu post a un amigo), los guardados y el tiempo de atención. La acción de esta semana: revisa qué post tuyo se compartió más… y haz otro igual. Prográmalo gratis con Propaga (propaga.pe). ¿Sabías esto?
 ```

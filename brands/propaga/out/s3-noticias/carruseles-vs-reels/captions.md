@@ -1,6 +1,6 @@
-# ¿Carruseles o videos?
+# ¿Publicar fotos o videos? Cuándo usar cada uno
 
-`propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s3-noticias` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-¿Carruseles o videos?
+¿Publicar fotos o videos?
 
-Datos de 45 millones de posts, no opinión de gurú: los videos ganan en ALCANCE (+36% — que te descubran) y los carruseles en INTERACCIÓN (6.9% vs 3.3% — que te crean y compren). No compiten: son etapas del embudo. Mezcla para negocio chico: 2 carruseles + 1 video por semana.
+Cada uno tiene su trabajo: los videos ganan en alcance (+36% — que te descubran) y los carruseles en interacción (el doble — que te crean y te compren). La mezcla para un negocio chico: 2 carruseles + 1 video por semana, programados gratis con Propaga (propaga.pe).
 
 #reels #carrusel #instagram #peru
 ```
@@ -31,5 +31,5 @@ Comparación con datos de videos versus carruseles: alcance para descubrir, inte
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Fin del debate con datos (45M de posts analizados): los videos ganan en alcance (+36%) y los carruseles en interacción (6.9% vs 3.3% — más del doble). No compiten — son etapas: el video te descubre, el carrusel te convierte. ¿Ustedes qué publican más?
+Fin del debate con datos (45 millones de posts analizados): los videos ganan en alcance y los carruseles en interacción — más del doble. No compiten: el video te descubre, el carrusel te convierte. La mezcla simple: 2 carruseles + 1 video por semana, programados gratis con Propaga (propaga.pe). ¿Ustedes qué publican más?
 ```

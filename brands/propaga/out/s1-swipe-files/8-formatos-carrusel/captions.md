@@ -1,6 +1,6 @@
-# El formato que más se guarda.
+# 8 tipos de carrusel que funcionan
 
-`propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s1-swipe-files` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El carrusel es el formato que más se GUARDA — y guardar es la señal que más te recomienda.
+8 tipos de carrusel que funcionan, con su estructura lista para copiar: lista, checklist, mito y verdad, antes y después, paso a paso, errores, historia y comparación (estás viendo el en acción).
 
-Los 8 esqueletos que funcionan (estás viendo el en acción): lista, checklist, mito/verdad, antes/después, paso a paso, errores, historia y comparación. La regla que casi nadie conoce: la lámina 2 debe funcionar SOLA — es tu segunda portada.
+Planifícalos gratis con Propaga (propaga.pe).
 
 #1 #carrusel #instagram #contentmarketing #peru
 ```
@@ -31,5 +31,5 @@ Ocho estructuras de carrusel con reglas comunes.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Dato que poca gente sabe: si alguien ve tu carrusel y no desliza, Instagram se lo vuelve a mostrar días después… empezando por la lámina 2. Por eso la lámina 2 tiene que funcionar SOLA, como segunda portada. Ese y otros 7 esqueletos de carrusel, con estructura exacta. ¿Su formato favorito?
+El carrusel es el formato que más se GUARDA — y guardar es la señal que más te recomienda. 8 esqueletos con estructura exacta: lista, checklist, mito/verdad, antes/después, paso a paso, errores, historia y comparación. Con esto + lo que sabes de tu rubro tienes carruseles para meses, y con Propaga (propaga.pe) los dejas programados gratis. ¿Su formato favorito?
 ```

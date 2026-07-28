@@ -1,12 +1,12 @@
-# Los paneles mueren en 3 semanas
+# Los paneles de control mueren en 3 semanas.
 
-`qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s2-teardowns` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Por qué el 90% de los dashboards muere en 3 semanas 📊
+Por qué el 90% de los paneles de control muere en 3 semanas 📊
 #datos #gerencia #negocios
 ```
 
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 El 90% de los paneles de control muere en 3 semanas — no por feos, por irrelevantes.
 
-Anatomía del que cumplió un año de uso diario: diseñado desde las 4 DECISIONES semanales del gerente, 5 números y no 50, cada dato con su porqué, y el panel va hacia el gerente (WhatsApp lunes 7am) en vez de esperar visitas.
+El que construyó Qolca cumplió un año de uso diario: diseñado desde las 4 DECISIONES semanales del gerente, 5 números y no 50, cada dato con su porqué, y resumen por WhatsApp los lunes 7am. qolca.org
 
 #datos #gerencia #pymes #peru
 ```
@@ -31,7 +31,7 @@ Anatomía de un panel gerencial duradero: diseño desde decisiones, cinco númer
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Test para tu panel de control: ¿cuándo fue la última vez que lo miraste sin que nadie te lo pida? El 90% muere en 3 semanas porque muestra DATOS en vez de alimentar DECISIONES. La regla del que cumplió un año: 5 números, contexto en cada uno, y resumen que llega solo los lunes 7am. ¿El tuyo vive?
+Test para tu panel de control: ¿cuándo fue la última vez que lo miraste sin que nadie te lo pida? El 90% muere en 3 semanas porque muestra DATOS en vez de alimentar DECISIONES. El que construye Qolca: 5 números, contexto en cada uno, y resumen que llega solo los lunes 7am. ¿El tuyo vive? qolca.org
 ```
 
 ## 💼 LinkedIn

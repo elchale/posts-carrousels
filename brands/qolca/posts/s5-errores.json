@@ -5,200 +5,180 @@
     {
       "slug": "chatbot-no-vende",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Tu chatbot informa. No vende.", "b": "Las 4 causas — todas arreglables" },
-        { "role": "rehook", "h": "El bot que no vende no es un fracaso de la IA.", "b": "Es un fracaso de diseño. Casi siempre uno de estos cuatro." },
-        { "role": "value", "n": "1", "h": "Responde, pero no PREGUNTA", "b": "\"El precio es S/120\" — fin. Un vendedor seguiría: \"¿para cuándo lo necesitas?\". Sin la siguiente pregunta, la venta queda en el aire." },
-        { "role": "value", "n": "2", "h": "No sabe cerrar", "b": "Informar no es vender. Todo camino debe TERMINAR en algo: link de pago, cita agendada, datos para cotizar. Sin cierre es un tour." },
-        { "role": "value", "n": "3", "h": "Suena a robot de banco", "b": "\"Estimado usuario, su solicitud ha sido procesada.\" Nadie le compra a eso. Debe hablar como TU mejor vendedor, con sus palabras." },
-        { "role": "value", "n": "4", "h": "Nadie lee las conversaciones", "b": "El oro está en los chats: dónde abandonan, qué no supo, qué objeción se repite. Un bot sin revisión es un vendedor sin entrenador." },
-        { "role": "value", "h": "El diagnóstico de 30 minutos", "b": "Lee tus últimas 50 conversaciones y marca: ¿preguntó?, ¿cerró?, ¿sonó humano? El hueco aparece en la primera docena." },
-        { "role": "stat", "h": "Arreglar el cierre suele duplicar la conversión.", "b": "Es el arreglo más barato del embudo: el cliente YA estaba conversando contigo." },
-        { "role": "cta", "h": "¿Tu bot informa o vende?", "b": "Lee tus últimas 10 conversaciones hoy. Si duele, escríbenos." }
+        { "role": "cover", "kicker": "ERRORES", "h": "Tu chatbot responde de todo. No vende nada.", "b": "Las 4 causas, todas arreglables" },
+        { "role": "rehook", "h": "No es un fracaso de la IA.", "b": "Es un fracaso de diseño. Casi siempre una de estas cuatro causas." },
+        { "role": "value", "h": "No pregunta y no cierra", "b": "\"El precio es S/120\" — fin. Un vendedor seguiría: \"¿para cuándo lo necesitas?\". Y toda conversación debe TERMINAR en algo: link de pago, cita agendada, datos para cotizar. Sin cierre, es un tour." },
+        { "role": "value", "h": "Suena a robot y nadie lo revisa", "b": "\"Estimado usuario, su solicitud ha sido procesada\" — nadie le compra a eso: debe hablar como TU mejor vendedor. Y el oro está en las conversaciones que nadie lee: dónde abandonan, qué no supo, qué objeción se repite." },
+        { "role": "value", "h": "Arreglar el cierre suele duplicar la conversión", "b": "Es el arreglo más barato del embudo: el cliente YA estaba conversando contigo. Diagnóstico de 30 minutos: lee tus últimas 50 conversaciones y marca — ¿preguntó?, ¿cerró?, ¿sonó humano?" },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos (y arreglamos) agentes que venden, no que solo informan, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Tu bot informa o vende?", "b": "Lee tus últimas 10 conversaciones hoy. Si duele, escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "Tu chatbot informa; no vende — y hay una diferencia: responde pero no PREGUNTA (\"¿para cuándo lo necesitas?\"), no sabe cerrar (informar ≠ vender), suena a robot de banco y nadie lee las conversaciones, donde está el oro. El arreglo más barato del embudo: el cierre — suele duplicar conversión con clientes que YA conversaban contigo. #chatbot #ventas #ia #peru",
+        "ig": "Tu chatbot informa pero no vende — Qolca arregla las 4 causas: responde sin PREGUNTAR (\"¿para cuándo lo necesitas?\"), no sabe cerrar, suena a robot de banco y nadie lee las conversaciones, donde está el oro. El arreglo más barato del embudo: el cierre — suele duplicar la conversión con clientes que YA conversaban contigo. qolca.org #chatbot #ventas #ia #peru",
         "tt": "Tu chatbot informa. No vende. La diferencia 🤖💸 #chatbot #ventas #ia",
-        "fb": "Ejercicio de 30 minutos para dueños con chatbot: lean sus últimas 50 conversaciones y marquen — ¿preguntó algo de vuelta? ¿cerró en algo concreto? ¿sonó humano? El hueco aparece en la primera docena. ¿Su bot vende o solo responde? Sean honestos 😅"
+        "fb": "Ejercicio de 30 minutos para dueños con chatbot: lean sus últimas 50 conversaciones y marquen — ¿preguntó algo de vuelta? ¿cerró en algo concreto? ¿sonó humano? El hueco aparece en la primera docena. Qolca construye (y arregla) bots que venden. ¿El suyo vende o solo responde? qolca.org"
       },
       "alt": "Cuatro errores de chatbots que no venden: sin preguntas, sin cierre, tono robótico y conversaciones sin revisar."
     },
     {
       "slug": "proceso-equivocado",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "¿Automatizaste lo fácil o lo valioso?", "b": "Casi nunca coinciden. El error clásico." },
+        { "role": "cover", "kicker": "ERRORES", "h": "Automatizaste lo fácil. Lo valioso sigue sangrando.", "b": "Cómo elegir el proceso correcto" },
         { "role": "rehook", "h": "Automatizar lo fácil se siente productivo.", "b": "Automatizar lo VALIOSO se nota en la caja. Casi nunca coinciden." },
-        { "role": "value", "h": "El patrón del error", "b": "Se automatiza lo automatizable (el reporte simpático, el aviso interno) y sigue sangrando lo difícil: la cotización lenta, el seguimiento muerto." },
-        { "role": "value", "h": "La matriz de dos preguntas", "b": "Por proceso: ¿cuántas horas al mes come? ¿cuánta plata toca? Alto en ambas = primero. Bajo en ambas = nunca." },
-        { "role": "value", "h": "El criterio del cuello de botella", "b": "¿Dónde ESPERAN tus clientes? Ahí está el proceso que toca plata: la respuesta lenta, la cotización de 2 días, la confirmación que no llega." },
-        { "role": "value", "h": "La trampa de la visibilidad", "b": "El panel de control da estatus; la secuencia de seguimiento (invisible) da VENTAS. Cuidado con automatizar para la foto." },
-        { "role": "value", "h": "La regla del primer proyecto", "b": "Debe pagarse solo en 90 días y ser visible para el equipo. Ese éxito compra la paciencia (y el presupuesto) para los siguientes." },
-        { "role": "stat", "h": "La pregunta guía:", "b": "¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? Esa respuesta es tu proyecto #1." },
-        { "role": "cta", "h": "Respóndete la pregunta guía.", "b": "Y escríbenos la respuesta. Desde ahí se construye." }
+        { "role": "value", "h": "El patrón del error", "b": "Se automatiza lo automatizable — el reporte simpático, el aviso interno — y sigue sangrando lo difícil: la cotización lenta, el seguimiento muerto. El criterio del cuello de botella: ¿dónde ESPERAN tus clientes? Ahí está el proceso que toca plata." },
+        { "role": "value", "h": "La matriz de dos preguntas", "b": "Por cada proceso: ¿cuántas horas al mes come? ¿cuánta plata toca? Alto en ambas = primero. Bajo en ambas = nunca. Y la regla del primer proyecto: debe pagarse solo en 90 días — ese éxito compra la paciencia (y el presupuesto) para los siguientes." },
+        { "role": "value", "h": "La pregunta guía", "b": "¿Qué proceso, si mañana fuera instantáneo, te haría ganar más plata? Esa respuesta es tu proyecto #1." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Elegimos contigo el proceso correcto y lo construimos, para empresas peruanas. Tú nos cuentas tu operación; nosotros la dejamos funcionando." },
+        { "role": "cta", "h": "Respóndete la pregunta guía.", "b": "Y escríbenos la respuesta en qolca.org. Desde ahí se construye." }
       ],
       "caption": {
-        "ig": "El error de priorización clásico: automatizar lo FÁCIL (el reporte simpático) mientras sigue sangrando lo VALIOSO (la cotización de 2 días donde esperan tus clientes). La matriz de dos preguntas: ¿cuántas horas come? ¿cuánta plata toca? Y la pregunta guía: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? Ese es tu proyecto #1. #automatizacion #estrategia #pymes #peru",
+        "ig": "El error de priorización clásico: automatizar lo FÁCIL (el reporte simpático) mientras sigue sangrando lo VALIOSO (la cotización de 2 días donde esperan tus clientes). El método de Qolca: ¿cuántas horas come? ¿cuánta plata toca? Y la pregunta guía: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? Ese es tu proyecto #1. qolca.org #automatizacion #estrategia #pymes #peru",
         "tt": "Automatizaste lo fácil. Sigue sangrando lo valioso 🩸 #automatizacion #estrategia #negocios",
-        "fb": "Trampa común: automatizar para la foto — el panel de control da estatus, pero la secuencia de seguimiento (invisible) da VENTAS. La pregunta guía para elegir bien: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? ¿Cuál automatizarían si solo pudieran elegir UNO?"
+        "fb": "Trampa común: automatizar para la foto — el panel de control da estatus, pero la secuencia de seguimiento (invisible) da VENTAS. La pregunta guía que usamos en Qolca para elegir bien: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? ¿Cuál automatizarían si solo pudieran elegir UNO? qolca.org"
       },
       "alt": "Cómo priorizar qué automatizar: matriz horas/dinero, cuellos de botella y la trampa de la visibilidad."
     },
     {
       "slug": "crm-excel-con-otro-nombre",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Tu CRM: un Excel con mensualidad", "b": "Las 4 señales y la salida" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Pagas un CRM. Lo usas como Excel.", "b": "Las señales y la salida" },
         { "role": "rehook", "h": "Compraste un CRM para dejar el Excel.", "b": "Y lo usas exactamente igual: de cementerio de datos." },
-        { "role": "value", "h": "Las 4 señales", "b": "1) Se llena a mano (cuando se llena). 2) Se consulta solo antes de reuniones. 3) No dispara ninguna acción. 4) La verdad real vive en el WhatsApp del vendedor." },
-        { "role": "value", "h": "El CRM de verdad DISPARA cosas", "b": "Lead nuevo → asignación y contacto. Cotización fría 5 días → alerta. Cliente sin compra 60 días → reactivación. Si no dispara, es un archivador caro." },
-        { "role": "value", "h": "La regla del dato único", "b": "Todo dato se captura UNA vez, donde nace, y viaja solo al CRM. El día que tu equipo tipea de nuevo algo que ya existía, el sistema perdió." },
-        { "role": "value", "h": "El embudo tiene que ser el real", "b": "Si las etapas del CRM no coinciden con cómo vendes DE VERDAD, el equipo lo abandona en semanas. El sistema se adapta a tu venta. Jamás al revés." },
-        { "role": "value", "h": "La salida no es cambiar de CRM", "b": "Es conectarlo: captura automática + disparadores + embudo real. Casi siempre con el MISMO CRM que ya pagas." },
-        { "role": "stat", "h": "El 70% de implementaciones de CRM fracasa.", "b": "No por la herramienta: por usarla de archivador. La diferencia es la conexión, no la marca." },
-        { "role": "cta", "h": "¿Tu CRM dispara algo?", "b": "Si la respuesta es no, escríbenos: casi siempre se arregla con el que ya tienes." }
+        { "role": "value", "h": "Las señales", "b": "Se llena a mano (cuando se llena), se consulta solo antes de reuniones, no dispara ninguna acción y la verdad real vive en el WhatsApp del vendedor. Un CRM de verdad DISPARA cosas: interesado nuevo → contacto; cotización fría 5 días → alerta; cliente sin compra 60 días → reactivación." },
+        { "role": "value", "h": "La salida no es cambiar de CRM", "b": "Es conectarlo: cada dato se captura UNA vez, donde nace, y viaja solo al CRM. Disparadores automáticos. Y etapas que coincidan con cómo vendes DE VERDAD — el sistema se adapta a tu venta, jamás al revés. Casi siempre con el MISMO CRM que ya pagas." },
+        { "role": "value", "h": "El 70% de implementaciones de CRM fracasa", "b": "No por la herramienta: por usarla de archivador. La diferencia es la conexión, no la marca." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Conectamos el CRM que ya pagas para que se llene y dispare solo, en empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Tu CRM dispara algo?", "b": "Si la respuesta es no, escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "Tu CRM es un Excel con mensualidad si: se llena a mano, se consulta solo antes de reuniones, no DISPARA ninguna acción y la verdad real vive en el WhatsApp del vendedor. El 70% de implementaciones fracasa — no por la herramienta, por usarla de archivador. La salida casi nunca es cambiar de CRM: es conectarlo. #crm #ventas #pymes #peru",
+        "ig": "Tu CRM es un Excel con mensualidad si: se llena a mano, no DISPARA ninguna acción y la verdad real vive en el WhatsApp del vendedor. La salida que construye Qolca casi nunca es cambiar de CRM: es conectarlo — captura automática, disparadores y etapas reales, con el mismo CRM que ya pagas. qolca.org #crm #ventas #pymes #peru",
         "tt": "Señales de que tu CRM es un Excel con mensualidad 📋 #crm #ventas #negocios",
-        "fb": "Test de CRM en una pregunta: ¿tu CRM DISPARA algo solo? (lead nuevo → contacto, cotización fría → alerta, cliente dormido → reactivación). Si no dispara nada, es un archivador con mensualidad — y la verdad de tus ventas vive en el WhatsApp de tus vendedores. ¿Cuál usan y cómo les va?"
+        "fb": "Test de CRM en una pregunta: ¿tu CRM DISPARA algo solo? (interesado nuevo → contacto, cotización fría → alerta, cliente dormido → reactivación). Si no dispara nada, es un archivador con mensualidad. Qolca lo conecta — casi siempre con el mismo que ya pagas. ¿Cuál usan y cómo les va? qolca.org"
       },
       "alt": "Señales de un CRM subutilizado y la salida: captura automática, disparadores y embudo real."
     },
     {
       "slug": "rapido-pero-no-cierras",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Respondes al minuto. No cierras.", "b": "Los 4 huecos que siguen al primer mensaje" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Respondes al minuto y aún no cierras ventas.", "b": "Los 4 huecos que siguen" },
         { "role": "rehook", "h": "Arreglaste la respuesta rápida. Bien.", "b": "¿Y los otros cuatro huecos por donde se van los que SÍ respondieron?" },
-        { "role": "value", "n": "1", "h": "Respondes sin calificar", "b": "Rápido pero genérico: el brochure a todos por igual. Sin 2-3 preguntas (presupuesto, urgencia, uso), el vendedor persigue fantasmas." },
-        { "role": "value", "n": "2", "h": "El pase al humano se cae", "b": "El bot atendió al instante... y el vendedor escribió 6 horas después. El segundo toque frío desperdicia el primero. Regla interna: 15 minutos." },
-        { "role": "value", "n": "3", "h": "No hay siguiente paso concreto", "b": "\"Cualquier cosa me avisas\" no es un siguiente paso. Cada conversación termina en fecha, llamada agendada o link. Siempre en algo con forma." },
-        { "role": "value", "n": "4", "h": "El no-de-hoy se descarta", "b": "El 80% de los \"lo voy a pensar\" compra en 90 días — a quien le siguió escribiendo. Sin secuencia, se lo regalas a tu competencia." },
-        { "role": "value", "h": "La autopsia de 20 chats", "b": "Toma 20 conversaciones perdidas y marca dónde murió cada una: ¿calificación, pase, siguiente paso o seguimiento? El patrón salta a la vista." },
-        { "role": "stat", "h": "La conversión se arregla por etapas, no por magia.", "b": "Cada hueco cerrado son puntos recuperados. En orden, uno por uno." },
-        { "role": "cta", "h": "¿Dónde muere tu embudo?", "b": "Haz la autopsia de 20 chats. Si necesitas ojos externos, escríbenos." }
+        { "role": "value", "h": "Sin filtro y con pase caído", "b": "Respondes rápido pero genérico: el brochure a todos por igual — sin 2-3 preguntas (presupuesto, urgencia), el vendedor persigue fantasmas. Y el pase al humano se cae: el bot atendió al instante y el vendedor escribió 6 horas después. Regla interna: 15 minutos." },
+        { "role": "value", "h": "Sin siguiente paso y sin seguimiento", "b": "\"Cualquier cosa me avisas\" no es un siguiente paso: cada conversación termina en fecha, llamada agendada o link. Y el \"lo voy a pensar\" no se descarta — el 80% compra en 90 días… a quien le siguió escribiendo. Sin secuencia, se lo regalas a tu competencia." },
+        { "role": "value", "h": "La autopsia de 20 chats", "b": "Toma 20 conversaciones perdidas y marca dónde murió cada una: ¿filtro, pase, siguiente paso o seguimiento? El patrón salta a la vista — y se arregla hueco por hueco, no por magia." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos el embudo completo — filtro, pase, cierre y seguimiento automático — para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Dónde muere tu embudo?", "b": "Haz la autopsia de 20 chats. Si necesitas ojos externos: qolca.org." }
       ],
       "caption": {
-        "ig": "Respondes al minuto y no cierras — los 4 huecos internos: respondes sin calificar, el pase al humano tarda 6 horas (regla: 15 minutos), no hay siguiente paso concreto (\"cualquier cosa me avisas\" no cuenta) y el \"lo voy a pensar\" se descarta… cuando el 80% compra en 90 días a quien le siguió escribiendo. Autopsia: 20 chats perdidos, marca dónde murió cada uno. #ventas #conversion #peru",
+        "ig": "Respondes al minuto y no cierras — Qolca arregla los 4 huecos que siguen: respondes sin filtrar, el pase al humano tarda 6 horas (regla: 15 minutos), no hay siguiente paso concreto y el \"lo voy a pensar\" se descarta… cuando el 80% compra en 90 días a quien le siguió escribiendo. Autopsia: 20 chats perdidos, marca dónde murió cada uno. qolca.org #ventas #conversion #peru",
         "tt": "Respondes rápido y no cierras: los 4 huecos 🕳️ #ventas #conversion #negocios",
-        "fb": "Ejercicio de ventas trimestral: la autopsia de los últimos 20 chats perdidos. ¿Dónde murió cada uno — calificación, pase al humano, siguiente paso o seguimiento? El dato que más duele: el 80% de los \"lo voy a pensar\" compra en 90 días… a quien le siguió escribiendo. ¿Ustedes siguen escribiendo?"
+        "fb": "Ejercicio de ventas trimestral: la autopsia de los últimos 20 chats perdidos. ¿Dónde murió cada uno — filtro, pase al humano, siguiente paso o seguimiento? El dato que más duele: el 80% de los \"lo voy a pensar\" compra en 90 días… a quien le siguió escribiendo. Qolca automatiza ese seguimiento. ¿Ustedes siguen escribiendo? qolca.org"
       },
       "alt": "Cuatro huecos del embudo tras la respuesta rápida: calificación, traspaso, siguiente paso y seguimiento."
     },
     {
       "slug": "bot-que-suena-a-bot",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "\"Estimado usuario\" — nadie habla así", "b": "Manual de tono en 5 reglas" },
+        { "role": "cover", "kicker": "ERRORES", "h": "\"Estimado usuario\": así no habla nadie.", "b": "Cómo hacer que suene humano" },
         { "role": "rehook", "h": "El manual de tono no es un documento de marca.", "b": "Son los chats reales de tu mejor vendedor." },
-        { "role": "value", "n": "1", "h": "Roba el tono del que más vende", "b": "Lee sus chats: cómo saluda, cómo explica el precio, qué palabras usa. ESE es el manual. Cópialo descaradamente." },
-        { "role": "value", "n": "2", "h": "Frases cortas, como en el chat real", "b": "Nadie lee párrafos en WhatsApp. Mensajes de 1-3 líneas, uno por idea, con ritmo de conversación — porque lo es." },
-        { "role": "value", "n": "3", "h": "Di \"no sé\" con gracia", "b": "\"Buena pregunta — eso lo ve Andrea, ya le pasé tu caso\" suena humano. \"Su consulta ha sido derivada al área correspondiente\" suena a trámite." },
-        { "role": "value", "n": "4", "h": "Emojis: los de tu marca, con criterio", "b": "Si tu vendedor estrella usa 👍 y 😊, el agente puede. Si vendes servicios funerarios, no. El contexto manda, como siempre mandó." },
-        { "role": "value", "n": "5", "h": "Preséntalo como lo que es", "b": "\"Soy el asistente de [marca]; si necesitas a un humano, te conecto.\" Fingir humanidad se descubre en 2 mensajes y rompe la confianza." },
-        { "role": "stat", "h": "El examen del pasillo:", "b": "léele 5 respuestas del bot a alguien del equipo. Si dice \"suena a robot de banco\", reescribe." },
-        { "role": "cta", "h": "¿Tu bot pasa el examen del pasillo?", "b": "Pruébalo hoy. Y si necesita escuela de tono, escríbenos." }
+        { "role": "value", "h": "Roba el tono del que más vende", "b": "Lee sus chats: cómo saluda, cómo explica el precio, qué palabras y emojis usa. ESE es el manual — cópialo descaradamente. Y escribe como en el chat real: mensajes de 1-3 líneas, uno por idea. Nadie lee párrafos en WhatsApp." },
+        { "role": "value", "h": "Honesto hasta en el \"no sé\"", "b": "\"Buena pregunta — eso lo ve Andrea, ya le pasé tu caso\" suena humano; \"su consulta ha sido derivada al área correspondiente\" suena a trámite. Y preséntalo como lo que es: \"soy el asistente de [marca]\". Fingir humanidad se descubre en 2 mensajes y rompe la confianza." },
+        { "role": "value", "h": "El examen del pasillo", "b": "Léele 5 respuestas del bot a alguien del equipo. Si dice \"suena a robot de banco\", reescribe." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos agentes que hablan como tu mejor vendedor, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Tu bot pasa el examen del pasillo?", "b": "Pruébalo hoy. Si necesita escuela de tono: qolca.org." }
       ],
       "caption": {
-        "ig": "\"Estimado usuario, su solicitud ha sido procesada\" — nadie habla así, y tu bot tampoco debería. El manual de tono no es un documento de marca: son los chats REALES de tu mejor vendedor (cómo saluda, cómo explica el precio, qué emojis usa). Y la regla de honestidad: fingir humanidad se descubre en 2 mensajes. Examen del pasillo, adentro. #chatbot #marca #ux #peru",
+        "ig": "\"Estimado usuario, su solicitud ha sido procesada\" — nadie habla así, y tu bot tampoco debería. El método de Qolca: el manual de tono son los chats REALES de tu mejor vendedor (cómo saluda, cómo explica el precio, qué emojis usa), y la regla de honestidad: fingir humanidad se descubre en 2 mensajes. Examen del pasillo, adentro. qolca.org #chatbot #marca #ux #peru",
         "tt": "\"Estimado usuario\" — nadie habla así 🤖 tu bot tampoco #chatbot #marca #negocios",
-        "fb": "El secreto del bot que no suena a bot: el manual de tono son los chats reales de tu MEJOR vendedor — cómo saluda, cómo explica el precio, qué emojis usa. Examen del pasillo: léanle 5 respuestas de su bot a alguien del equipo. ¿Pasa o suena a robot de banco?"
+        "fb": "El secreto del bot que no suena a bot: el manual de tono son los chats reales de tu MEJOR vendedor — cómo saluda, cómo explica el precio, qué emojis usa. Así los construye Qolca. Examen del pasillo: léanle 5 respuestas de su bot a alguien del equipo. ¿Pasa o suena a robot de banco? qolca.org"
       },
       "alt": "Manual de tono para chatbots: imitar al mejor vendedor, mensajes cortos, honestidad y examen de pasillo."
     },
     {
       "slug": "medir-mensajes-no-ventas",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "4,000 mensajes. ¿Cuánta plata tocó?", "b": "Las métricas de vanidad de la automatización" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Tu bot respondió 4,000 mensajes. ¿Cuánta plata tocó?", "b": "Métricas que pagan planillas, adentro" },
         { "role": "rehook", "h": "El silencio después de esa pregunta", "b": "es el problema más común de todo el rubro." },
-        { "role": "value", "h": "Las métricas de vanidad", "b": "Mensajes respondidos, tiempo de respuesta, conversaciones atendidas: miden ACTIVIDAD. La actividad no paga planillas." },
-        { "role": "value", "h": "Las que pagan planillas", "b": "Ventas originadas, citas que SÍ llegaron, cotizaciones cerradas, horas humanas liberadas y en qué se usaron. Plata y tiempo: el resto es decoración." },
-        { "role": "value", "h": "El puente entre ambas", "b": "Cada conversación debe rastrearse hasta su final: ¿venta, cita, cotización o abandono? Sin eso, el bot es una caja negra simpática." },
-        { "role": "value", "h": "El tablero honesto de 5 números", "b": "Conversaciones → calificadas → con siguiente paso → cerradas + horas liberadas. Si uno no se puede medir, ESO se arregla primero." },
-        { "role": "value", "h": "La revisión mensual de 30 minutos", "b": "Dónde abandonan, qué no supo, qué objeción se repitió. Tres respuestas → tres mejoras → el sistema mejora cada mes o se estanca." },
-        { "role": "stat", "h": "Si no toca plata o tiempo, no es una métrica.", "b": "Es un aplauso. Y los aplausos no se depositan." },
-        { "role": "cta", "h": "¿Cuánta plata tocó tu bot este mes?", "b": "Si no puedes responder en 1 minuto, hablemos del tablero honesto." }
+        { "role": "value", "h": "Aplausos vs plata", "b": "Mensajes respondidos, tiempos de respuesta, conversaciones atendidas: miden ACTIVIDAD — y la actividad no paga planillas. Las que sí: ventas originadas, citas que SÍ llegaron, cotizaciones cerradas, horas humanas liberadas y en qué se usaron." },
+        { "role": "value", "h": "El tablero honesto de 5 números", "b": "Conversaciones → filtradas → con siguiente paso → cerradas + horas liberadas. Si uno no se puede medir, ESO se arregla primero. Y la revisión mensual de 30 minutos: dónde abandonan, qué no supo, qué objeción se repitió — tres respuestas, tres mejoras." },
+        { "role": "value", "h": "Si no toca plata o tiempo, no es una métrica", "b": "Es un aplauso. Y los aplausos no se depositan." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas que se miden en plata y tiempo — con su tablero honesto incluido — para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Cuánta plata tocó tu bot este mes?", "b": "Si no puedes responder en 1 minuto: qolca.org." }
       ],
       "caption": {
-        "ig": "\"El bot respondió 4,000 mensajes este mes\" — ¿y cuánta plata tocó? El silencio después de esa pregunta es el problema más común del rubro. Métricas de vanidad (mensajes, tiempos) vs las que pagan planillas (ventas originadas, citas que llegaron, horas liberadas). Regla: si no toca plata o tiempo, no es métrica — es aplauso. #metricas #automatizacion #datos #peru",
+        "ig": "\"El bot respondió 4,000 mensajes este mes\" — ¿y cuánta plata tocó? El silencio después de esa pregunta es el problema más común del rubro. En Qolca medimos lo que paga planillas: ventas originadas, citas que llegaron, horas liberadas. Regla: si no toca plata o tiempo, no es métrica — es aplauso. qolca.org #metricas #automatizacion #datos #peru",
         "tt": "Tu bot respondió 4,000 mensajes. ¿Y cuánta plata tocó? 📊 #metricas #negocios #datos",
-        "fb": "Pregunta incómoda para los que ya automatizaron: ¿pueden decir en 1 minuto cuánta PLATA originó su bot este mes? Si la respuesta es \"respondió X mensajes\", están midiendo aplausos — y los aplausos no se depositan. El tablero honesto son 5 números. ¿Los tienen?"
+        "fb": "Pregunta incómoda para los que ya automatizaron: ¿pueden decir en 1 minuto cuánta PLATA originó su bot este mes? Si la respuesta es \"respondió X mensajes\", están midiendo aplausos — y los aplausos no se depositan. El tablero honesto que arma Qolca son 5 números. ¿Los tienen? qolca.org"
       },
       "alt": "Métricas de vanidad versus métricas de negocio en automatización, con tablero de cinco números."
     },
     {
       "slug": "automatizar-el-caos",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Caos automatizado = caos más rápido", "b": "El error #1 de todo el rubro" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Automatizaste el caos. Ahora es caos más rápido.", "b": "El error #1 del rubro" },
         { "role": "rehook", "h": "La automatización es un amplificador.", "b": "Amplifica el orden y el desorden por igual. No pregunta cuál le diste." },
-        { "role": "value", "h": "El caos amplificado", "b": "El proceso confuso ahora falla más veces por hora. Los datos sucios se copian solos a tres sistemas. El error de siempre, a escala." },
-        { "role": "value", "h": "La prueba del practicante", "b": "Si no puedes explicar el proceso en 5 pasos claros a un practicante, no está listo. La máquina entiende MENOS que el practicante." },
-        { "role": "value", "h": "El orden previo mínimo", "b": "Una semana: definir el flujo feliz, listar las excepciones reales, limpiar los datos base. Aburrido — y el 50% del éxito." },
-        { "role": "value", "h": "Simplificar ANTES de automatizar", "b": "El paso que nadie sabe por qué existe no se automatiza: se ELIMINA. Muchos procesos pierden un tercio de pasos al escribirse. Gratis." },
-        { "role": "value", "h": "La secuencia correcta", "b": "Documentar → simplificar → estabilizar 2 semanas a mano → automatizar lo que sobrevivió. Cada salto se paga con intereses." },
-        { "role": "stat", "h": "Los proyectos no fallan por tecnología.", "b": "Fallan por procesos que nadie podía explicar. La tecnología siempre fue la parte fácil." },
-        { "role": "cta", "h": "¿Tu proceso pasa la prueba del practicante?", "b": "Explícalo en 5 pasos. Si no puedes, empieza por ahí — y si quieres ayuda, escríbenos." }
+        { "role": "value", "h": "La prueba del practicante", "b": "Si no puedes explicar el proceso en 5 pasos claros a un practicante, no está listo para automatizarse. La máquina entiende MENOS que el practicante. El proceso confuso automatizado solo falla más veces por hora — el error de siempre, a escala." },
+        { "role": "value", "h": "La secuencia correcta", "b": "Documentar → simplificar (el paso que nadie sabe por qué existe se ELIMINA, no se automatiza — muchos procesos pierden un tercio de pasos al escribirse) → estabilizar 2 semanas a mano → automatizar lo que sobrevivió. Cada salto se paga con intereses." },
+        { "role": "value", "h": "Los proyectos no fallan por tecnología", "b": "Fallan por procesos que nadie podía explicar. La tecnología siempre fue la parte fácil." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Ordenamos el proceso contigo ANTES de automatizarlo, y lo construimos, para empresas peruanas. Tú nos cuentas cómo trabaja tu negocio; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Tu proceso pasa la prueba del practicante?", "b": "Explícalo en 5 pasos. Si no puedes, escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "El error #1 del rubro: automatizar el caos — ahora es caos MÁS RÁPIDO. La automatización es un amplificador: amplifica orden y desorden por igual. Prueba del practicante: si no puedes explicar el proceso en 5 pasos, no está listo (la máquina entiende menos que el practicante). Y el bonus gratis: al escribir el proceso, un tercio de los pasos suele ELIMINARSE. #procesos #automatizacion #gestion #peru",
+        "ig": "El error #1 del rubro: automatizar el caos — ahora es caos MÁS RÁPIDO. Por eso en Qolca ordenamos antes de automatizar. Prueba del practicante: si no puedes explicar el proceso en 5 pasos, no está listo (la máquina entiende menos que el practicante). Bonus gratis: al escribir el proceso, un tercio de los pasos suele ELIMINARSE. qolca.org #procesos #automatizacion #gestion #peru",
         "tt": "Automatizaste el caos. Ahora es caos más rápido 🌪️ #procesos #automatizacion #gestion",
-        "fb": "La verdad menos vendedora del rubro: los proyectos de automatización no fallan por tecnología — fallan porque se automatizó un proceso que nadie podía explicar en 5 pasos. Bonus: al escribirlo por primera vez, un tercio de los pasos suele eliminarse. Gratis. ¿Su proceso pasa la prueba del practicante?"
+        "fb": "La verdad menos vendedora del rubro: los proyectos de automatización no fallan por tecnología — fallan porque se automatizó un proceso que nadie podía explicar en 5 pasos. Por eso Qolca ordena antes de construir. Bonus: al escribirlo por primera vez, un tercio de los pasos suele eliminarse. Gratis. ¿Su proceso pasa la prueba? qolca.org"
       },
       "alt": "El error de automatizar el caos: amplificación, prueba del practicante y secuencia de orden previo."
     },
     {
       "slug": "esperar-herramienta-perfecta",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "¿Cuántos meses llevas \"evaluando opciones\"?", "b": "Tus leads siguen muriendo en Excel" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Llevas 8 meses \"evaluando opciones\". Eso cuesta.", "b": "El precio de no decidir" },
         { "role": "rehook", "h": "Mientras comparas las 5 herramientas...", "b": "...el problema que ibas a resolver sigue cobrando cada mes." },
-        { "role": "value", "h": "La parálisis tiene precio", "b": "8 meses de evaluación × el costo mensual del problema = casi siempre MÁS que haber elegido \"mal\" y corregido." },
-        { "role": "value", "h": "La verdad sobre las finalistas", "b": "Entre las 3 finalistas de cualquier comparación seria, la diferencia real es 15%. La ejecución es el otro 85%." },
-        { "role": "value", "h": "El mito de la decisión irreversible", "b": "Casi nada en software es un matrimonio: los datos se migran, las conexiones se rehacen. Tratar cada elección como definitiva es lo que paraliza." },
-        { "role": "value", "h": "El método de las 2 semanas", "b": "Elige la finalista que resuelva TU caso #1 y pruébala 2 semanas con datos reales y 3 usuarios. 14 días de prueba real > 8 meses de comparativas." },
-        { "role": "value", "h": "Decide el problema, no la marca", "b": "\"¿Qué CRM?\" es la pregunta equivocada. \"¿Qué proceso quiero que dispare?\" es la correcta — y la responde cualquiera de las finalistas, bien conectada." },
-        { "role": "stat", "h": "8 meses de parálisis: S/16,000-48,000", "b": "de problema no resuelto (a S/2-6K/mes de costo invisible). La herramienta \"imperfecta\" costaba menos." },
-        { "role": "cta", "h": "¿Cuántos meses llevas evaluando?", "b": "Elige tu caso #1 y pruébalo 2 semanas. Si quieres el empujón, escríbenos." }
+        { "role": "value", "h": "La verdad sobre las finalistas", "b": "Entre las 3 finalistas de cualquier comparación seria, la diferencia real es 15%. La ejecución es el otro 85%. Y casi nada en software es un matrimonio: los datos se migran, las conexiones se rehacen. Tratar cada elección como definitiva es lo que paraliza." },
+        { "role": "value", "h": "El método de las 2 semanas", "b": "Decide el problema, no la marca: \"¿qué proceso quiero que se dispare solo?\" es la pregunta correcta. Elige la finalista que resuelva TU caso #1 y pruébala 2 semanas con datos reales y 3 usuarios. 14 días de prueba real > 8 meses de comparativas." },
+        { "role": "value", "h": "8 meses de parálisis: S/16,000-48,000", "b": "De problema no resuelto (a S/2-6K al mes de costo invisible). La herramienta \"imperfecta\" costaba menos." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Te ayudamos a decidir rápido y construimos lo que falta — el sistema alrededor de la herramienta — para empresas peruanas. Tú nos cuentas tu caso #1; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Cuántos meses llevas evaluando?", "b": "Elige tu caso #1 y escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "Llevas 8 meses \"evaluando opciones\" — y tus leads siguen muriendo en el Excel que ibas a reemplazar. La verdad: entre las 3 finalistas de cualquier comparación, la diferencia real es 15%; la ejecución es el otro 85%. Método: 2 semanas de prueba real con TU caso #1 > 8 meses de comparativas. Costo de la parálisis: S/16-48K. #decisiones #software #pymes #peru",
-        "tt": "8 meses comparando CRMs. Tus leads siguen muriendo en Excel 💀 #decisiones #software #negocios",
-        "fb": "La parálisis por análisis también factura: 8 meses evaluando × S/2-6K/mes de problema sin resolver = S/16-48K. Y entre las 3 finalistas de cualquier comparativa seria, la diferencia es 15% — la ejecución es el resto. ¿Cuánto llevan \"evaluando opciones\"? Confiesen 😅"
+        "ig": "Llevas 8 meses \"evaluando opciones\" — y el problema sigue cobrando S/2-6K al mes. La verdad: entre las 3 finalistas de cualquier comparación, la diferencia real es 15%; la ejecución es el otro 85%. El método de Qolca: 2 semanas de prueba real con TU caso #1 > 8 meses de comparativas. qolca.org #decisiones #software #pymes #peru",
+        "tt": "8 meses comparando opciones. El problema sigue cobrando 💀 #decisiones #software #negocios",
+        "fb": "La parálisis por análisis también factura: 8 meses evaluando × S/2-6K/mes de problema sin resolver = S/16-48K. Y entre las 3 finalistas de cualquier comparativa seria, la diferencia es 15% — la ejecución es el resto. Qolca te ayuda a decidir en 2 semanas con datos reales. ¿Cuánto llevan \"evaluando opciones\"? qolca.org"
       },
       "alt": "El costo de la parálisis por análisis y el método de prueba de dos semanas."
     },
     {
       "slug": "capacitacion-cero",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Sistema perfecto. Equipo en Excel.", "b": "El asesino silencioso de proyectos" },
-        { "role": "rehook", "h": "Los dos hechos son compatibles.", "b": "Y comunísimos. La adopción es el 50% del proyecto — y casi nadie la diseña." },
-        { "role": "value", "h": "Por qué el equipo no lo usa", "b": "No es rebeldía: lo nuevo es más lento LOS PRIMEROS DÍAS y nadie mostró el camino corto. El hábito viejo gana por default." },
-        { "role": "value", "h": "El error del manual por correo", "b": "\"Les comparto el manual del sistema\" = nadie lo abrió. Capacitar es hacer las primeras 10 operaciones JUNTOS, con datos reales." },
-        { "role": "value", "h": "El campeón interno", "b": "Una persona del equipo (no el jefe) que lo domina primero y contagia. La adopción viaja de igual a igual — nunca baja por organigrama." },
-        { "role": "value", "h": "Matar la alternativa, con fecha", "b": "Mientras el Excel viejo siga disponible, lo nuevo compite contra la costumbre. Fecha de apagado anunciada + 2 semanas de convivencia + apagado real." },
-        { "role": "value", "h": "El ajuste de la semana 2", "b": "\"¿Qué te estorba del sistema?\" — y ARREGLARLO. Dos fricciones corregidas a tiempo compran la adopción de todo el equipo." },
-        { "role": "stat", "h": "El sistema que nadie usa es el más caro de todos.", "b": "Pagaste la construcción Y sigues pagando el proceso manual. Doble." },
-        { "role": "cta", "h": "¿Compraste un sistema que nadie usa?", "b": "Se rescata: campeón + 10 operaciones juntos + fecha de apagado. Escríbenos." }
+        { "role": "cover", "kicker": "ERRORES", "h": "Compraste el sistema. Tu equipo sigue en Excel.", "b": "El asesino silencioso de proyectos" },
+        { "role": "rehook", "h": "No es rebeldía.", "b": "Lo nuevo es más lento LOS PRIMEROS DÍAS y nadie mostró el camino corto. El hábito viejo gana por default." },
+        { "role": "value", "h": "Capacitar no es mandar el manual", "b": "\"Les comparto el manual del sistema\" = nadie lo abrió. Capacitar es hacer las primeras 10 operaciones JUNTOS, con datos reales. Y nombrar un campeón interno — no el jefe: la adopción viaja de igual a igual, nunca baja por organigrama." },
+        { "role": "value", "h": "Matar la alternativa, con fecha", "b": "Mientras el Excel viejo siga disponible, lo nuevo compite contra la costumbre. Fecha de apagado anunciada + 2 semanas de convivencia + apagado real. Y en la semana 2: \"¿qué te estorba del sistema?\" — y ARREGLARLO. Dos fricciones corregidas compran la adopción de todos." },
+        { "role": "value", "h": "El sistema que nadie usa es el más caro", "b": "Pagaste la construcción Y sigues pagando el proceso manual. Doble." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas para empresas peruanas y acompañamos la adopción hasta que tu equipo los use de verdad. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando — y usándose." },
+        { "role": "cta", "h": "¿Compraste un sistema que nadie usa?", "b": "Se rescata. Escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "El asesino silencioso de proyectos: el sistema funcionaba perfecto Y el equipo siguió en Excel — ambos hechos son compatibles y comunísimos. No es rebeldía: lo nuevo es más lento los primeros días y el hábito gana por default. El rescate: 10 primeras operaciones JUNTOS, un campeón interno (no el jefe) y fecha real de apagado del Excel. #gestiondelcambio #equipos #software #peru",
+        "ig": "El asesino silencioso de proyectos: el sistema funcionaba perfecto Y el equipo siguió en Excel. No es rebeldía: lo nuevo es más lento los primeros días y el hábito gana por default. El rescate que aplica Qolca: 10 primeras operaciones JUNTOS, un campeón interno (no el jefe) y fecha real de apagado del Excel. qolca.org #gestiondelcambio #equipos #software #peru",
         "tt": "El sistema perfecto que tu equipo no usa 😔 #equipos #gestion #software",
-        "fb": "Historia repetida en mil empresas: el sistema funcionaba perfecto Y el equipo siguió en WhatsApp y Excel. ¿El error? Capacitar por correo (\"les comparto el manual\" = nadie lo abrió). La fórmula que sí: primeras 10 operaciones juntos + campeón interno + fecha de apagado del Excel viejo. ¿Les pasó?"
+        "fb": "Historia repetida en mil empresas: el sistema funcionaba perfecto Y el equipo siguió en WhatsApp y Excel. ¿El error? Capacitar por correo (\"les comparto el manual\" = nadie lo abrió). La fórmula de Qolca: primeras 10 operaciones juntos + campeón interno + fecha de apagado del Excel viejo. ¿Les pasó? qolca.org"
       },
       "alt": "Falta de adopción de sistemas: causas y rescate con capacitación práctica, campeón interno y apagado del método anterior."
     },
     {
       "slug": "nadie-es-dueno",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "\"¿Quién ve el bot?\" — silencio.", "b": "Los sistemas también se quedan huérfanos" },
-        { "role": "rehook", "h": "Ese silencio, seis meses después,", "b": "es un sistema muerto que nadie notó morir." },
-        { "role": "value", "h": "Cómo muere un sistema huérfano", "b": "Nadie revisa conversaciones → el bot responde precios viejos → los clientes se quejan → el vendedor lo apaga \"por mientras\" → fin." },
-        { "role": "value", "h": "Todo sistema necesita UN dueño", "b": "Con nombre y apellido. No es un rol técnico: es un rol de negocio de 2 horas al mes." },
-        { "role": "value", "h": "Las 2 horas del dueño", "b": "30 min de métricas (¿toca plata?), 30 de conversaciones raras, 30 de actualizar lo que cambió (precios, horarios), 30 de pedir UNA mejora." },
-        { "role": "value", "h": "La actualización olvidada", "b": "Subiste precios en enero. ¿Alguien le avisó al bot? El sistema solo sabe lo que se le dice — y el dueño es quien se lo dice." },
-        { "role": "value", "h": "El acuerdo con el proveedor", "b": "Dueño interno + canal directo con quien lo construyó = mejoras que fluyen. Sin dueño, hasta el mejor proveedor espera instrucciones que no llegan." },
-        { "role": "stat", "h": "Con dueño: mejora cada mes. Sin dueño: caduca en 6.", "b": "La diferencia son 2 horas mensuales de una persona con nombre." },
-        { "role": "cta", "h": "¿Quién es el dueño de tu bot?", "b": "Si dudaste, ese es el pendiente de hoy. Nómbralo." }
+        { "role": "cover", "kicker": "ERRORES", "h": "Nadie revisa tu bot. En 6 meses muere.", "b": "El rol de 2 horas que lo salva" },
+        { "role": "rehook", "h": "\"¿Quién ve el tema del bot?\" — silencio.", "b": "Ese silencio, seis meses después, es un sistema muerto que nadie notó morir." },
+        { "role": "value", "h": "Cómo muere un sistema huérfano", "b": "Nadie revisa conversaciones → el bot responde precios viejos → los clientes se quejan → el vendedor lo apaga \"por mientras\" → fin. El sistema solo sabe lo que se le dice — si subiste precios en enero y nadie le avisó, sigue en diciembre." },
+        { "role": "value", "h": "El antídoto: UN dueño con nombre", "b": "No es un rol técnico: es un rol de negocio de 2 horas al mes. 30 minutos de métricas (¿toca plata?), 30 de conversaciones raras, 30 de actualizar lo que cambió, 30 de pedir UNA mejora. Con canal directo a quien lo construyó." },
+        { "role": "value", "h": "Con dueño mejora cada mes. Sin dueño caduca en 6.", "b": "La diferencia son 2 horas mensuales de una persona con nombre y apellido." },
+        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas para empresas peruanas y dejamos definido a su dueño interno — con nosotros como canal directo de mejoras. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
+        { "role": "cta", "h": "¿Quién es el dueño de tu bot?", "b": "Si dudaste, nómbralo hoy. Y escríbenos en qolca.org." }
       ],
       "caption": {
-        "ig": "\"¿Quién ve el tema del bot?\" — el silencio en esa reunión, seis meses después, es un sistema muerto que nadie notó morir: nadie revisa conversaciones → responde precios viejos → los clientes se quejan → el vendedor lo apaga \"por mientras\". Todo sistema necesita UN dueño con nombre: 2 horas al mes. Con dueño mejora cada mes; sin dueño caduca en 6. #gestion #sistemas #equipos #peru",
+        "ig": "\"¿Quién ve el tema del bot?\" — el silencio en esa reunión, seis meses después, es un sistema muerto que nadie notó morir: precios viejos, clientes quejándose, el vendedor lo apaga \"por mientras\". Por eso Qolca deja cada sistema con un dueño interno definido: 2 horas al mes. Con dueño mejora cada mes; sin dueño caduca en 6. qolca.org #gestion #sistemas #equipos #peru",
         "tt": "Los sistemas también se quedan huérfanos 🥀 #gestion #sistemas #negocios",
-        "fb": "Autopsia de un sistema huérfano: nadie revisa conversaciones → el bot responde precios viejos → los clientes se quejan → el vendedor lo apaga \"por mientras\" → fin. Todo por no nombrar un dueño de 2 horas al mes. Pregunta directa: ¿quién es el dueño, con nombre y apellido, de su automatización?"
+        "fb": "Autopsia de un sistema huérfano: nadie revisa conversaciones → el bot responde precios viejos → los clientes se quejan → el vendedor lo apaga \"por mientras\" → fin. Todo por no nombrar un dueño de 2 horas al mes. En Qolca lo dejamos definido desde el día 1. ¿Quién es el dueño, con nombre y apellido, de su automatización? qolca.org"
       },
       "alt": "El ciclo de muerte de sistemas sin dueño y el rol de dos horas mensuales que lo evita."
     }

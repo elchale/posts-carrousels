@@ -1,12 +1,12 @@
-# Está a 1.5 km. Búscalo bien.
+# Un abuelo extraviado casi siempre está cerca.
 
-`comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s3-datos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Dónde buscar PRIMERO a un abuelito extraviado (salva horas) 💜
+Dónde buscar PRIMERO a un abuelito extraviado (salva horas) 💜 con su pulsera ComeHomeTag puesta.
 #alzheimer #abuelos #cuidadores
 ```
 
@@ -14,9 +14,9 @@ Dónde buscar PRIMERO a un abuelito extraviado (salva horas) 💜
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Dónde buscar a un adulto mayor con demencia que salió solo: casi siempre está a menos de 1.5 km, caminando hacia un lugar de SU pasado — la casa de infancia, el antiguo trabajo, la iglesia de siempre.
+Dónde buscar a un adulto mayor con demencia que salió solo: casi siempre está a menos de 1.5 km, caminando hacia un lugar de SU pasado.
 
-Haz hoy el mapa de 5 lugares (10 minutos) y arma la red de barrio. La denuncia va EN PARALELO, no después.
+Haz hoy el mapa de 5 lugares, avisa al barrio y pon la denuncia EN PARALELO. Y con la pulsera QR de ComeHomeTag, quien lo encuentre llama a la familia al instante.
 
 #alzheimer #adultomayor #cuidadores #peru
 ```
@@ -24,12 +24,12 @@ Haz hoy el mapa de 5 lugares (10 minutos) y arma la red de barrio. La denuncia v
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Guía de búsqueda de adultos mayores: radio de 1.5 km, mapa del pasado, red de barrio y denuncia en paralelo.
+Guía de búsqueda de adultos mayores: mapa del pasado, red de barrio, denuncia en paralelo y pulsera ComeHomeTag.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Si un adulto mayor con demencia sale solo, casi siempre está a menos de 1.5 km — caminando hacia su PASADO. ¿Tu familia ya hizo el "mapa de 5 lugares"? Casa de infancia, antiguo trabajo, iglesia, mercado, parque. Son 10 minutos hoy que pueden ahorrar horas el peor día.
+Si un adulto mayor con demencia sale solo, casi siempre está a menos de 1.5 km — caminando hacia su PASADO. ¿Tu familia ya hizo el mapa de 5 lugares? Son 10 minutos hoy. Y la pulsera con QR de ComeHomeTag hace que cualquier vecino pueda llamarlos al instante. comehometag.com
 ```

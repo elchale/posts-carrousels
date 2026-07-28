@@ -1,12 +1,12 @@
-# Contaste cabezas: faltaba una.
+# Primer vuelo en familia. Contaste cabezas: faltaba una.
 
-`comehometag` · `s6-historias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s6-historias` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-"Hice lo del juego, papá" — la historia del primer vuelo 💜✈️
+"Hice lo del juego, papá" — la historia del primer vuelo 💜✈️ con su pulsera ComeHomeTag puesta
 #aeropuerto #viajes #familia
 ```
 
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Primer vuelo de la familia: en el control de seguridad el mundo se vuelve bandejas y apuro — y del otro lado de la máquina faltaba una cabeza.
+Primer vuelo de la familia: en el control todo es bandejas y apuro — y del otro lado faltaba una cabeza.
 
-El niño hizo su parte (quedarse quieto, como en el juego), la pulsera la suya y la agente la suya. Tres minutos. "Hice lo del juego, papá."
+El niño se quedó quieto como en el juego, y la agente escaneó su pulsera ComeHomeTag y llamó al papá al instante. Tres minutos. "Hice lo del juego, papá." comehometag.com
 
 #viajeconniños #aeropuerto #familia #peru
 ```
@@ -24,12 +24,12 @@ El niño hizo su parte (quedarse quieto, como en el juego), la pulsera la suya y
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Historia de un niño separado en el control del aeropuerto que aplicó el protocolo y fue reunido en minutos.
+Historia de un niño separado en el control del aeropuerto y reunido en minutos gracias a su pulsera ComeHomeTag.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El control del aeropuerto: zapatos, bandejas, laptops, apuro… y del otro lado contaste cabezas y faltaba una. Esta historia dura 3 minutos porque todos sabían su parte — hasta el niño de 5 años ("si no veo a papá, no camino"). ¿Viaje familiar pronto? Ensayen el juego.
+El control del aeropuerto: zapatos, bandejas, apuro… y del otro lado faltaba una cabeza. Esta historia dura 3 minutos porque todos sabían su parte — el niño se quedó quieto y la agente escaneó su pulsera ComeHomeTag para llamar a la familia. ¿Viaje pronto? Ensayen el juego. comehometag.com
 ```

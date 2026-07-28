@@ -1,6 +1,6 @@
-# Reportes del viernes, datos del martes
+# Diriges tu empresa con números de hace días.
 
-`qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`qolca` · `s1-antes-despues` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ El viernes de la cacería de Excels que toda pyme conoce 📊
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El reporte de los viernes llegaba a las 7pm…
+El reporte de los viernes llegaba con datos del martes — Qolca construye paneles que se llenan solos: ventas, cobranza y stock siempre actualizados, y alertas por WhatsApp cuando algo pasa (no el viernes).
 
-con datos del martes: la administradora perseguía a 4 jefes de área (uno con cuaderno) para armarlo. Ahora el panel se llena solo y las ALERTAS persiguen al gerente por WhatsApp: stock crítico, cliente inactivo, cobranza vencida — cuando pasa, no el viernes.
+Resultado: 1 día de gerencia recuperado por semana y decisiones con datos de HOY. qolca.org
 
 #datos #gerencia #pymes #peru
 ```
@@ -31,7 +31,7 @@ Caso de reportería: cacería manual semanal versus panel automático con alerta
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-¿En tu empresa el reporte semanal también es una cacería de Excels (y un cuaderno)? El problema de los números del viernes: llegan tarde para cambiar cualquier cosa. Un panel vivo cambia la pregunta de "¿cómo nos fue?" a "¿qué hacemos HOY?". ¿Cómo arman su reporte?
+¿En tu empresa el reporte semanal también es una cacería de Excels (y un cuaderno)? El problema de los números del viernes: llegan tarde para cambiar cualquier cosa. El panel que construye Qolca se llena solo y avisa por WhatsApp cuando algo pasa. ¿Cómo arman su reporte? qolca.org
 ```
 
 ## 💼 LinkedIn

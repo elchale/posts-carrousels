@@ -1,6 +1,6 @@
-# Cada post rinde un examen.
+# La primera hora de tu post decide todo
 
-`propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`propaga` · `s5-crecimiento` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Tu post tiene un examen de 1 hora y no lo sabías 📝
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El algoritmo le toma un examen de UNA hora a cada post: se lo muestra a una muestra de tus seguidores y decide si amplía el círculo.
+La primera hora de tu post decide todo: Instagram se lo muestra a una parte de tus seguidores y según la reacción lo amplía (o lo entierra).
 
-El ritual de lanzamiento completo: calentar el canal 15 min antes, historia-megáfono al publicar, 30 minutos de anfitrión después. Y lo que NO: editar el texto, borrar por pánico o publicar otro post encima.
+El ritual: calentar el canal 15 minutos antes, historia avisando al publicar, y 30 minutos de anfitrión después. Programa el post a tu mejor hora gratis con Propaga (propaga.pe).
 
 #instagram #algoritmo #interaccion #cm #peru
 ```
@@ -31,5 +31,5 @@ El examen de la primera hora del algoritmo y el ritual de lanzamiento: calentami
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Cada post nuevo pasa un examen de una hora: el algoritmo se lo muestra a una muestra de tus seguidores y según la reacción amplía (o entierra). El ritual que aprueba con nota: calentar interacciones antes, anunciarlo en historias al salir, y 30 minutos de anfitrión respondiendo todo. 45 minutos por post que multiplican el resto. ¿Lo hacen completo?
+Cada post nuevo pasa un examen de una hora: Instagram se lo muestra a una muestra de tus seguidores y según la reacción amplía (o entierra). El ritual que aprueba: calentar interacciones antes, anunciarlo en historias al salir, y 30 minutos respondiendo todo. Con Propaga (propaga.pe) programas el post gratis y usas ese tiempo en conversar. ¿Lo hacen completo?
 ```

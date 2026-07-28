@@ -1,6 +1,6 @@
-# 7 preguntas que hacen sudar proveedores
+# 7 preguntas que hacen sudar a proveedores.
 
-`qolca` · `s4-costos` · **10 láminas** — sube SIEMPRE en orden 01 → 10
+`qolca` · `s4-costos` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-7 preguntas que hacen sudar a cualquier proveedor de software — úsalas con todos, incluidos nosotros: hablar con 2 clientes reales, qué pasa CUANDO se rompa, de quién es el sistema, qué NO va a poder hacer, por qué no comprar lo barato, cuántos días son pruebas y qué proyectos ha rechazado.
+7 preguntas que hacen sudar a cualquier proveedor de software — úsalas con todos, incluida Qolca: hablar con 2 clientes reales, qué pasa CUANDO se rompa, de quién es el sistema, qué NO va a poder hacer, por qué no comprar lo barato, cuántos días son pruebas y qué proyectos ha rechazado.
 
-El que se ofende con la lista ya respondió.
+El que se ofende con la lista ya respondió. qolca.org
 
 #compras #b2b #proveedores #peru
 ```
@@ -31,7 +31,7 @@ Siete preguntas de evaluación para proveedores de software: referencias, soport
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Guarden esta lista para su próxima cotización de software: la pregunta 7 es la más reveladora — "¿qué proyectos has rechazado y por qué?". El proveedor que nunca dijo "esto no te conviene" te dirá que sí a TODO. Incluido lo que no te conviene. ¿Qué pregunta agregarían?
+Guarden esta lista para su próxima cotización de software: la pregunta 7 es la más reveladora — "¿qué proyectos has rechazado y por qué?". El proveedor que nunca dijo "esto no te conviene" te dirá que sí a TODO. En Qolca aceptamos el interrogatorio completo. ¿Qué pregunta agregarían? qolca.org
 ```
 
 ## 💼 LinkedIn

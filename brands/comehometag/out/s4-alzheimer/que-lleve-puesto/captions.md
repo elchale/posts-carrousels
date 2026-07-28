@@ -1,12 +1,12 @@
-# ¿Y si la billetera quedó en casa?
+# Lo que tu abuelo debe llevar puesto siempre.
 
-`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Lo que un abuelito con demencia debería llevar puesto SIEMPRE 💜
+Lo que un abuelito con Alzheimer debería llevar puesto SIEMPRE 💜
 #alzheimer #abuelos #cuidadores
 ```
 
@@ -14,9 +14,9 @@ Lo que un abuelito con demencia debería llevar puesto SIEMPRE 💜
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-La billetera se queda en casa justo el día que importa — por eso la regla del cuidado es: lo que va PUESTO, va siempre.
+Lo que un adulto mayor con Alzheimer debe llevar PUESTO siempre: el aviso de su condición, su nombre de siempre y el número de la familia en el cuerpo — porque la billetera se queda en casa justo el día que importa.
 
-Lo que un adulto mayor con demencia debe llevar en el cuerpo: identificación con contacto directo, el aviso de su condición, alergias y su nombre de siempre (responde a "don Manuel", no a "señor").
+La pulsera ComeHomeTag reúne todo en un QR: quien lo encuentre escanea y llama a la familia al instante.
 
 #alzheimer #adultomayor #cuidadores #peru
 ```
@@ -24,12 +24,12 @@ Lo que un adulto mayor con demencia debe llevar en el cuerpo: identificación co
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Lista de lo que un adulto mayor con demencia debe llevar puesto: identificación, condición, alergias y nombre habitual.
+Lo que un adulto mayor con Alzheimer debe llevar puesto y la pulsera ComeHomeTag con QR.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Pregunta directa para familias cuidadoras: si tu papá o abuelo con demencia saliera solo AHORA MISMO, ¿qué información lleva en el cuerpo? La billetera no cuenta — se queda en casa justo el día que importa. La lista completa de lo que va puesto, en el post.
+Pregunta directa para familias cuidadoras: si tu papá o abuelo con Alzheimer saliera solo AHORA MISMO, ¿qué información lleva en el cuerpo? La billetera no cuenta. La pulsera ComeHomeTag lleva su nombre, su condición y el contacto de la familia en un QR — sin batería. comehometag.com
 ```

@@ -1,6 +1,6 @@
-# ¿Tu bot deriva 0%? Está inventando.
+# Un bot que nunca duda está inventando.
 
-`qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s4-costos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Dato contraintuitivo: un bot que deriva 0% de conversaciones a humanos no es perfecto — está INVENTANDO respuestas con tu marca firmando.
 
-La escalera: el peligroso inventa, el inútil se rinde en bucle, el bueno deriva con plazo concreto, el mejor deriva CON contexto y aprende del hueco. Métrica sana: 15-30% de derivación bajando cada mes.
+Los agentes que construye Qolca reconocen sus límites, derivan con todo el contexto y aprenden del hueco. Métrica sana: 15-30% de derivación bajando cada mes. qolca.org
 
 #ia #chatbot #calidad #peru
 ```
@@ -31,7 +31,7 @@ Comportamientos de chatbots ante lo desconocido: inventar, rendirse o derivar co
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Si un proveedor presume que su bot deriva 0% de conversaciones a humanos: huye. No es un agente perfecto — es un agente que está inventando respuestas con tu marca. La métrica sana: 15-30% de derivación al inicio, bajando mes a mes mientras aprende. ¿Lo sabías?
+Si un proveedor presume que su bot deriva 0% de conversaciones a humanos: huye. No es un agente perfecto — es un agente que está inventando respuestas con tu marca. La métrica sana (la que usamos en Qolca): 15-30% de derivación al inicio, bajando mes a mes mientras aprende. ¿Lo sabías? qolca.org
 ```
 
 ## 💼 LinkedIn

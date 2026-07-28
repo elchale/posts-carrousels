@@ -1,6 +1,6 @@
-# "¿Qué opinan?" = 0 comentarios.
+# 20 preguntas para que te comenten más
 
-`propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s1-swipe-files` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"¿Qué opinan?
+20 preguntas para que te comenten más — porque "¿qué opinan?
 
-👇" = 0 comentarios — la pregunta genérica exige pensar, redactar y exponerse, y el cerebro apurado elige el scroll. 20 preguntas que SÍ se responden: 5 de decisión fácil, 5 de experiencia propia, 5 con picante y 5 de completar. Las 3 reglas: <10 segundos, sin respuesta incorrecta, y TÚ respondes los primeros comentarios.
+👇" da 0 comentarios: es muy general y el cerebro apurado elige el scroll. Estas se responden en 10 segundos y no tienen respuesta incorrecta. Prográmalas gratis con Propaga (propaga.pe).
 
 #engagement #socialmedia #negocios #peru
 ```
@@ -31,5 +31,5 @@ Veinte preguntas de participación clasificadas por tipo con tres reglas.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La diferencia entre 0 y 40 comentarios es la pregunta: la genérica ("¿qué opinan?") no se responde; la específica sí. Probemos la teoría aquí mismo: ¿cuál es TU mayor gasto hormiga? 👇 (Y guarda las otras 19 para tu negocio.)
+La diferencia entre 0 y 40 comentarios es la pregunta: la genérica ("¿qué opinan?") no se responde; la específica sí. Probemos la teoría aquí mismo: ¿cuál es TU mayor gasto hormiga? 👇 (Y guarda las otras 19 para tu negocio — se programan gratis con Propaga: propaga.pe)
 ```

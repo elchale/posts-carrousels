@@ -5,203 +5,182 @@
     {
       "slug": "0-a-1000",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "De 0 a 1,000 seguidores.", "b": "El mapa completo, sin pagar un sol" },
-        { "role": "rehook", "h": "El algoritmo despierta recién por el seguidor 600.", "b": "Antes de eso: trabajo de hormiga, por etapas. Este es el orden." },
-        { "role": "value", "n": "1", "h": "Los primeros 100: tu red real", "b": "Contactos, clientes pasados, el grupo de la familia, tus historias personales anunciando el proyecto. Sin roche: todo negocio empezó pidiendo apoyo. TODOS." },
-        { "role": "value", "n": "2", "h": "Del 100 al 300: la interacción saliente", "b": "30 minutos diarios comentando EN cuentas donde está tu público (con aportes reales, no \"lindo post 😍\"). Te vuelves conocido en tu rincón antes de ser encontrado." },
-        { "role": "value", "n": "3", "h": "Del 300 al 600: el contenido enviable", "b": "Aquí ya publicas para desconocidos: listas guardables, contenido de nicho con puntería, colaboraciones con cuentas hermanas de tu tamaño (¡se comparten audiencias!)." },
-        { "role": "value", "n": "4", "h": "Del 600 al 1,000: el efecto compuesto", "b": "Tus posts viejos empiezan a trabajar (SEO + guardados), los clientes felices te etiquetan, las colaboraciones se multiplican. La bola de nieve ya rueda: no la sueltes." },
-        { "role": "value", "h": "El error que reinicia el contador", "b": "Desaparecer 3 semanas. La cuenta chica vive de la constancia: mejor 3 posts semanales durante 6 meses que 30 posts en enero y silencio en marzo." },
-        { "role": "stat", "h": "Tiempo realista: 4-8 meses con 3 posts/semana.", "b": "El que te promete 1,000 en 30 días te está vendiendo bots o mentiras. Casi siempre ambos." },
-        { "role": "cta", "h": "Guarda el mapa completo.", "b": "Y empieza por la etapa que te toca — sin saltarte la de hormiga. Ahí se forja todo." }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "Cómo llegar a 1,000 seguidores sin pagar", "b": "El camino completo, por etapas" },
+        { "role": "rehook", "h": "Los primeros 1,000 no llegan solos.", "b": "Llegan por etapas de trabajo distinto. Este es el orden." },
+        { "role": "value", "n": "1", "h": "De 0 a 100: tu gente", "b": "Contactos, clientes pasados, el grupo de la familia. Sin roche: todos los negocios empezaron pidiendo apoyo. TODOS." },
+        { "role": "value", "n": "2", "h": "De 100 a 300: sal a comentar", "b": "30 minutos al día comentando en cuentas donde está tu público — con aportes reales, no \"lindo post 😍\". Te vuelves conocido antes de ser encontrado." },
+        { "role": "value", "n": "3", "h": "De 300 a 1,000: contenido que se comparte", "b": "Listas guardables, contenido para tu cliente exacto y colaboraciones con cuentas de tu tamaño. Tiempo realista: 4 a 8 meses con 3 posts por semana. El que promete 1,000 en 30 días vende bots." },
+        { "role": "stat", "h": "La clave es no parar. Propaga te ayuda.", "b": "Planifica y programa tus 3 posts semanales desde el celular. Gratis para empezar." },
+        { "role": "cta", "h": "Guarda el mapa completo.", "b": "Y empieza gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "De 0 a 1,000 seguidores sin pagar: los primeros 1,000 NO llegan por el algoritmo — llegan por trabajo de hormiga. El mapa: 0-100 tu red real (sin roche: todos empezaron así), 100-300 interacción saliente (30 min/día), 300-600 contenido enviable y colaboraciones, 600-1,000 el efecto compuesto. Tiempo realista: 4-8 meses. #crecimiento #instagram #emprendedores #0a1000 #peru",
+        "ig": "Cómo llegar a 1,000 seguidores sin pagar: por etapas — de 0 a 100 tu gente (todos empezaron así), de 100 a 300 saliendo a comentar, de 300 a 1,000 con contenido que se comparte y colaboraciones. Tiempo realista: 4 a 8 meses con 3 posts por semana — programados gratis con Propaga (propaga.pe). #crecimiento #instagram #emprendedores #0a1000 #peru",
         "tt": "De 0 a 1,000 seguidores sin pagar: el mapa real 🐜 #crecimiento #instagram #emprendedores",
-        "fb": "La verdad sobre los primeros 1,000 seguidores: no llegan por el algoritmo ni por suerte — llegan por etapas de trabajo distinto (red real → interacción saliente → contenido enviable → efecto compuesto). Y el tiempo realista es 4-8 meses: el que promete 1,000 en 30 días vende bots o mentiras. ¿En qué etapa está su cuenta?"
+        "fb": "La verdad sobre los primeros 1,000 seguidores: no llegan por el algoritmo ni por suerte — llegan por etapas de trabajo distinto (tu gente → salir a comentar → contenido que se comparte). Y el tiempo realista es 4-8 meses: el que promete 1,000 en 30 días vende bots o mentiras. La constancia se programa gratis con Propaga (propaga.pe). ¿En qué etapa está su cuenta?"
       },
-      "alt": "Mapa de crecimiento de cero a mil seguidores en cuatro etapas: red real, interacción saliente, contenido enviable y efecto compuesto."
+      "alt": "Mapa de crecimiento de cero a mil seguidores en etapas: red real, interacción saliente y contenido enviable."
     },
     {
       "slug": "primera-hora",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "Cada post rinde un examen.", "b": "Dura 1 hora. El ritual para aprobarlo." },
-        { "role": "rehook", "h": "El examen se aprueba ANTES de publicar.", "b": "15 minutos de calentamiento cambian la nota. Mira el ritual completo." },
-        { "role": "value", "h": "Cómo funciona el examen", "b": "Tu post se muestra primero a una muestra de tus seguidores. Si reaccionan (guardan, envían, comentan, se quedan), se amplía el círculo. Si lo ignoran, ahí muere. Ronda por ronda." },
-        { "role": "value", "h": "ANTES de publicar: calienta el canal", "b": "15 minutos interactuando (responde DMs, comenta cuentas afines, reacciona historias). Llegas al examen con la conversación activa — tus señales ya están tibias." },
-        { "role": "value", "h": "AL publicar: aviso en historias", "b": "Historia inmediata con adelanto del post (\"nuevo: la guía de precios — está en el feed\"). Las historias son tu megáfono interno: mandan tráfico caliente al examen." },
-        { "role": "value", "h": "DESPUÉS: los 30 minutos de anfitrión", "b": "Responde cada comentario con pregunta de vuelta, contesta DMs, agradece envíos. Cada respuesta tuya es una señal más — y las respuestas generan respuestas." },
-        { "role": "value", "h": "Lo que NO hacer en la primera hora", "b": "Editar el texto (reinicia señales en algunos casos), borrar y resubir \"porque no arrancó\", publicar otro post encima (compites contigo), desaparecer (ya sabes)." },
-        { "role": "stat", "h": "El ritual completo toma 45 minutos por post.", "b": "Con 3 posts semanales: 2.5 horas que multiplican todo lo demás. La mejor inversión del calendario." },
-        { "role": "cta", "h": "Guarda el ritual de lanzamiento.", "b": "Y aplícalo COMPLETO en tu próximo post. Compara resultados y me cuentas." }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "La primera hora de tu post decide todo", "b": "Qué hacer antes y después de publicar" },
+        { "role": "rehook", "h": "Instagram examina cada post al salir.", "b": "Si tus primeros seguidores reaccionan, se lo muestra a más gente." },
+        { "role": "value", "h": "ANTES: calienta el canal", "b": "15 minutos interactuando: responde DMs, comenta cuentas amigas, reacciona historias. Llegas al examen con la conversación ya activa." },
+        { "role": "value", "h": "AL PUBLICAR y después: sé anfitrión", "b": "Sube una historia avisando (\"nuevo post en el feed\") y quédate 30 minutos respondiendo cada comentario con una pregunta de vuelta." },
+        { "role": "value", "h": "Lo que NO hacer en la primera hora", "b": "Editar el texto · borrar \"porque no arrancó\" · publicar otro post encima (compites contigo) · desaparecer." },
+        { "role": "stat", "h": "Propaga te lo hace fácil.", "b": "Programa el post para tu mejor hora y usa esos 45 minutos en conversar. Gratis para empezar." },
+        { "role": "cta", "h": "Guarda el ritual y pruébalo completo.", "b": "Y deja tu próximo post programado gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "El algoritmo le toma un examen de UNA hora a cada post: se lo muestra a una muestra de tus seguidores y decide si amplía el círculo. El ritual de lanzamiento completo: calentar el canal 15 min antes, historia-megáfono al publicar, 30 minutos de anfitrión después. Y lo que NO: editar el texto, borrar por pánico o publicar otro post encima. #instagram #algoritmo #interaccion #cm #peru",
+        "ig": "La primera hora de tu post decide todo: Instagram se lo muestra a una parte de tus seguidores y según la reacción lo amplía (o lo entierra). El ritual: calentar el canal 15 minutos antes, historia avisando al publicar, y 30 minutos de anfitrión después. Programa el post a tu mejor hora gratis con Propaga (propaga.pe). #instagram #algoritmo #interaccion #cm #peru",
         "tt": "Tu post tiene un examen de 1 hora y no lo sabías 📝 #instagram #algoritmo #cm",
-        "fb": "Cada post nuevo pasa un examen de una hora: el algoritmo se lo muestra a una muestra de tus seguidores y según la reacción amplía (o entierra). El ritual que aprueba con nota: calentar interacciones antes, anunciarlo en historias al salir, y 30 minutos de anfitrión respondiendo todo. 45 minutos por post que multiplican el resto. ¿Lo hacen completo?"
+        "fb": "Cada post nuevo pasa un examen de una hora: Instagram se lo muestra a una muestra de tus seguidores y según la reacción amplía (o entierra). El ritual que aprueba: calentar interacciones antes, anunciarlo en historias al salir, y 30 minutos respondiendo todo. Con Propaga (propaga.pe) programas el post gratis y usas ese tiempo en conversar. ¿Lo hacen completo?"
       },
       "alt": "El examen de la primera hora del algoritmo y el ritual de lanzamiento: calentamiento, aviso en historias y rol de anfitrión."
     },
     {
       "slug": "no-tienes-nada-que-decir",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "¿Sin ideas? Revisa tus DMs.", "b": "Los últimos 20 esconden 5 posts" },
-        { "role": "rehook", "h": "El bloqueo no es falta de ideas.", "b": "Es falta de SISTEMA para encontrarlas. Aquí está el sistema." },
-        { "role": "value", "n": "1", "h": "Tus DMs son una mina", "b": "La pregunta que te hicieron esta semana es el post de la próxima. Si UNO pregunta, cien se lo preguntaron en silencio. Revisa tus últimos 20 DMs: hay 5 posts ahí." },
-        { "role": "value", "n": "2", "h": "Tu post viejo con ropa nueva", "b": "El que funcionó hace 6 meses: nadie lo recuerda y tus seguidores nuevos no lo vieron. Mismo contenido, nueva portada, dato actualizado. Reciclar es de profesionales." },
-        { "role": "value", "n": "3", "h": "La opinión sobre lo que todos hablan", "b": "¿Novedad en tu rubro? Tu público quiere saber QUÉ OPINAS tú: a favor, en contra, con matices. La opinión honesta es contenido infinito y diferencial." },
-        { "role": "value", "n": "4", "h": "El detrás de escenas de HOY", "b": "Lo que para ti es rutina aburrida, para tu público es fascinante: el proceso, el error de la mañana, el pedido raro. Baja la exigencia de producción: sube la humanidad." },
-        { "role": "value", "n": "5", "h": "El post de \"lo que aprendí\"", "b": "Esta semana aprendiste ALGO: de un cliente, un error, un experimento. \"Probé X y pasó Y\" es el formato más honesto que existe — y siempre tiene audiencia." },
-        { "role": "value", "h": "El sistema anti-bloqueo permanente", "b": "Una nota en el celular: cada idea, pregunta de cliente o pensamiento útil VA AHÍ al instante. El banco de ideas se llena solo — y los lunes dejan de dar miedo." },
-        { "role": "cta", "h": "Guarda el botiquín.", "b": "Y abre tu nota de ideas HOY. Tu yo del próximo lunes te lo agradece." }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "¿No sabes qué publicar? 5 fuentes de ideas", "b": "Las tienes a la mano" },
+        { "role": "rehook", "h": "El bloqueo no es falta de ideas.", "b": "Es falta de sistema para encontrarlas. Aquí está el sistema." },
+        { "role": "value", "n": "1-2", "h": "Tus DMs y tus posts viejos", "b": "La pregunta que te hicieron esta semana es el post de la próxima (si uno pregunta, cien se lo preguntaron en silencio). Y el post que funcionó hace 6 meses: portada nueva y a publicarlo de nuevo." },
+        { "role": "value", "n": "3-5", "h": "Tu opinión, tu día, tu lección", "b": "Qué opinas de la novedad de tu rubro · el detrás de escenas de HOY (el pedido raro, el error de la mañana) · y \"probé X y pasó Y\": el formato más honesto que existe." },
+        { "role": "value", "h": "El sistema permanente", "b": "Una nota en el celular: cada idea, pregunta de cliente o pensamiento útil va ahí al instante. El banco de ideas se llena solo — y los lunes dejan de dar miedo." },
+        { "role": "stat", "h": "Propaga te lo hace fácil.", "b": "Convierte tus ideas en un plan y prográmalas desde el celular. Gratis para empezar." },
+        { "role": "cta", "h": "Guarda el botiquín de ideas.", "b": "Y planifica tu semana gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "Qué publicar cuando no tienes nada que decir — el botiquín: tus DMs son una mina (si uno pregunta, cien se lo preguntaron en silencio), el post viejo con portada nueva (reciclar es de profesionales), tu opinión sobre la novedad del rubro, el detrás de escenas de HOY y el \"probé X y pasó Y\". Sistema permanente: la nota de ideas en el celular. #ideasdecontenido #bloqueocreativo #cm #contentmarketing #peru",
+        "ig": "¿No sabes qué publicar? 5 fuentes de ideas que ya tienes a la mano: tus DMs (si uno pregunta, cien callaron), tus posts viejos con portada nueva, tu opinión del rubro, el detrás de escenas de hoy y el \"probé X y pasó Y\". Convierte las ideas en plan gratis con Propaga (propaga.pe). #ideasdecontenido #bloqueocreativo #cm #contentmarketing #peru",
         "tt": "Para el día que no sabes qué publicar 🆘 #ideasdecontenido #contentmarketing #cm",
-        "fb": "El bloqueo creativo no es falta de ideas — es falta de sistema. El truco #1: revisar tus últimos 20 DMs; la pregunta que te hizo un cliente esta semana es el post de la próxima (si uno pregunta, cien callaron). Y el permanente: una nota en el celular donde TODO va al instante. ¿Cuál es su fuente de ideas favorita?"
+        "fb": "El bloqueo creativo no es falta de ideas — es falta de sistema. El truco #1: revisar tus últimos 20 DMs; la pregunta que te hizo un cliente esta semana es el post de la próxima (si uno pregunta, cien callaron). Y el permanente: una nota en el celular donde TODO va al instante. Después conviertes ideas en plan gratis con Propaga (propaga.pe). ¿Cuál es su fuente de ideas favorita?"
       },
       "alt": "Cinco fuentes de contenido para días sin ideas y el sistema permanente de la nota de ideas en el celular."
     },
     {
       "slug": "1-idea-7-posts",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "1 idea = 7 posts.", "b": "El mes entero con solo 4 ideas" },
-        { "role": "rehook", "h": "Una buena idea = 7 posts sin repetirte.", "b": "4 semillas × 7 formatos = el mes entero resuelto. Mira la matemática." },
-        { "role": "value", "h": "La idea semilla", "b": "Ejemplo real: \"la mayoría de negocios responde tarde los DMs\". Una observación de tu rubro con opinión propia. De aquí salen los 7." },
-        { "role": "value", "n": "1-2", "h": "El carrusel + el video", "b": "1) Carrusel educativo: \"el sistema de 3 ventanas para responder a tiempo\" · 2) Video hablado: la misma idea en 30 segundos con tu cara (o voz en off + clips)." },
-        { "role": "value", "n": "3-4", "h": "La historia + el caso", "b": "3) Encuesta en historias: \"¿en cuánto respondes tus DMs? <1h / mismo día / ups\" · 4) Post de caso: \"respondimos en 5 min y pasó esto\" (números reales, chico pero real)." },
-        { "role": "value", "n": "5-6", "h": "La opinión + el error propio", "b": "5) Post de opinión: \"responder tarde es el nuevo local sucio\" (polariza sano) · 6) Confesión: \"yo también respondía tarde — esto me hizo cambiar\". La vulnerabilidad conecta." },
-        { "role": "value", "n": "7", "h": "El resumen semanal", "b": "7) El viernes: \"esta semana hablamos de respuestas a tiempo — el hilo completo\" con lo mejor de los 6 anteriores. El post que ordena la serie y pesca a los que se perdieron algo." },
-        { "role": "stat", "h": "4 ideas semilla × 7 formatos = 28 posts. Un mes entero.", "b": "La constancia no es creatividad infinita: es multiplicación disciplinada." },
-        { "role": "cta", "h": "Elige tu idea semilla de esta semana.", "b": "Y multiplícala con la plantilla. Guárdala para cada lunes de planificación." }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "Convierte 1 idea en 7 posts", "b": "El mes resuelto con 4 ideas" },
+        { "role": "rehook", "h": "No necesitas 30 ideas al mes.", "b": "Necesitas 4 buenas y saber multiplicarlas." },
+        { "role": "value", "h": "Empieza con una idea semilla", "b": "Ejemplo real: \"la mayoría de negocios responde tarde los mensajes\". Una observación de tu rubro, con tu opinión." },
+        { "role": "value", "n": "1-4", "h": "Los primeros 4 formatos", "b": "1 Carrusel que enseña la solución · 2 Video de 30 segundos contando lo mismo · 3 Encuesta en historias (\"¿en cuánto respondes?\") · 4 Caso real con números, chico pero real." },
+        { "role": "value", "n": "5-7", "h": "Los otros 3", "b": "5 Post de opinión (\"responder tarde es el nuevo local sucio\") · 6 Confesión (\"yo también lo hacía — esto me hizo cambiar\") · 7 El resumen del viernes con lo mejor de la semana." },
+        { "role": "stat", "h": "Propaga te lo hace fácil.", "b": "4 ideas × 7 formatos = 28 posts. Planifícalos y prográmalos desde el celular. Gratis para empezar." },
+        { "role": "cta", "h": "Guarda la plantilla.", "b": "Y multiplica tu primera idea gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "No necesitas 30 ideas al mes — necesitas 4 buenas y saber multiplicarlas: 1 idea semilla = carrusel educativo + video hablado + encuesta en historias + caso con números + post de opinión + confesión de error propio + resumen del viernes. 4 semillas × 7 formatos = el mes entero resuelto. #contentmarketing #productividad #ideas #cm #peru",
+        "ig": "Convierte 1 idea en 7 posts: una misma idea semilla se vuelve carrusel, video, encuesta, caso real, opinión, confesión y resumen semanal. 4 ideas × 7 formatos = el mes entero resuelto — y programado gratis con Propaga (propaga.pe). #contentmarketing #productividad #ideas #cm #peru",
         "tt": "1 idea = 7 posts (la multiplicación del contenido) ✖️ #contentmarketing #ideas #cm",
-        "fb": "La matemática que salva el mes: 4 ideas buenas × 7 formatos = 28 posts. Una misma idea semilla se convierte en carrusel, video, encuesta, caso real, opinión, confesión y resumen semanal — sin repetirse, porque cada formato le habla a una parte distinta de tu audiencia. ¿Cuál es su idea semilla de esta semana?"
+        "fb": "La matemática que salva el mes: 4 ideas buenas × 7 formatos = 28 posts. Una misma idea semilla se convierte en carrusel, video, encuesta, caso real, opinión, confesión y resumen semanal — sin repetirse, porque cada formato le habla a una parte distinta de tu audiencia. Y todo se deja programado gratis con Propaga (propaga.pe). ¿Cuál es su idea semilla de esta semana?"
       },
       "alt": "Sistema de multiplicación de contenido: una idea semilla convertida en siete formatos distintos para llenar el mes."
     },
     {
       "slug": "diseno-para-saves",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "Nadie guarda lo que le gusta.", "b": "Guarda lo que va a necesitar" },
-        { "role": "rehook", "h": "El post lindo se aplaude. El útil se archiva.", "b": "Y el archivado sostiene tu alcance por semanas. Diseña para esa diferencia." },
-        { "role": "value", "h": "La psicología del guardado", "b": "Guardar = \"esto me servirá después\". El post guardable promete utilidad FUTURA: una referencia, una receta, una lista para el momento en que toque." },
-        { "role": "value", "h": "Los formatos que se guardan solos", "b": "Listas numeradas (\"7 frases para...\") · guías paso a paso · tablas comparativas · plantillas para copiar · datos de referencia (precios, medidas, fechas). Densidad útil por lámina." },
-        { "role": "value", "h": "El diseño que invita a archivar", "b": "Información ORDENADA (números, categorías, jerarquía visual) · completa pero escaneable · la promesa de referencia en la portada: \"la guía completa de X\" anuncia que ES para guardar." },
-        { "role": "value", "h": "El momento futuro explícito", "b": "El pedido de guardar nombra CUÁNDO servirá: \"guárdalo para tu próxima compra\", \"para la campaña navideña\", \"para cuando te toque negociar\". El futuro concreto activa el archivado." },
-        { "role": "value", "h": "El test previo a publicar", "b": "Pregúntate: ¿alguien volvería a ABRIR esto en 2 semanas? Si la respuesta es no, es un post de consumo (válido para alcance) — pero no esperes guardados de él. Cada post, su trabajo." },
-        { "role": "stat", "h": "Los guardados sostienen el alcance por SEMANAS.", "b": "El post muy guardado se sigue mostrando mucho después de publicado. Es tu contenido con jubilación." },
-        { "role": "cta", "h": "Diseña tu próximo post para ser guardado.", "b": "Y sí: guarda ESTE para tu próxima sesión de diseño. Obvio. 😄" }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "Haz posts que la gente guarde", "b": "Los guardados te muestran por semanas" },
+        { "role": "rehook", "h": "Nadie guarda lo bonito.", "b": "La gente guarda lo que va a necesitar después." },
+        { "role": "value", "h": "Los formatos que se guardan solos", "b": "Listas numeradas (\"7 frases para...\") · guías paso a paso · tablas comparativas · plantillas para copiar · precios y datos de referencia." },
+        { "role": "value", "h": "Di para cuándo sirve", "b": "\"Guárdalo para tu próxima compra\", \"para la campaña navideña\", \"para cuando te toque negociar\". El momento concreto activa el guardado." },
+        { "role": "value", "h": "El test antes de publicar", "b": "¿Alguien volvería a abrir esto en 2 semanas? Si no, es un post de consumo: válido para alcance, pero no esperes guardados. Cada post tiene su trabajo." },
+        { "role": "stat", "h": "Propaga te lo hace fácil.", "b": "Planifica tus posts guardables y prográmalos desde el celular. Gratis para empezar." },
+        { "role": "cta", "h": "Guarda este post (obvio 😄).", "b": "Y diseña el tuyo gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "Ingeniería del guardado: la gente no guarda lo que le GUSTA — guarda lo que cree que va a NECESITAR. Formatos que se archivan solos (listas, guías, tablas, plantillas, datos de referencia), diseño ordenado y escaneable, y el pedido que nombra el momento futuro concreto (\"guárdalo para tu próxima compra\"). Los guardados sostienen el alcance por semanas. #guardados #instagram #diseño #contentmarketing #peru",
+        "ig": "Haz posts que la gente guarde: nadie guarda lo que le GUSTA — guarda lo que cree que va a NECESITAR. Formatos que se archivan solos (listas, guías, tablas, plantillas), y el pedido con momento concreto (\"guárdalo para tu próxima compra\"). Los guardados sostienen tu alcance por semanas. Planifícalos gratis con Propaga (propaga.pe). #guardados #instagram #diseño #contentmarketing #peru",
         "tt": "La gente no guarda lo que le gusta. Guarda lo que va a NECESITAR 🔖 #instagram #contentmarketing #diseño",
-        "fb": "La diferencia entre el post que se aplaude y el que se archiva: la promesa de utilidad FUTURA. Nadie guarda lo bonito — guarda la lista, la guía, la tabla que va a necesitar en 2 semanas. Y el detalle que multiplica: el pedido con momento concreto (\"guárdalo para la campaña navideña\"). ¿Cuál fue el último post que guardaron ustedes?"
+        "fb": "La diferencia entre el post que se aplaude y el que se archiva: la promesa de utilidad FUTURA. Nadie guarda lo bonito — guarda la lista, la guía, la tabla que va a necesitar en 2 semanas. Y el detalle que multiplica: el pedido con momento concreto (\"guárdalo para la campaña navideña\"). Planifiquen sus posts guardables gratis con Propaga (propaga.pe). ¿Cuál fue el último post que guardaron?"
       },
       "alt": "Diseño de posts para guardados: psicología de la utilidad futura, formatos de referencia y llamados con momento concreto."
     },
     {
       "slug": "80-20-contenido",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "80% de resultados, 20% de posts.", "b": "Deja de trabajar parejo en todo" },
-        { "role": "rehook", "h": "Tu audiencia ya votó. Tú no has contado los votos.", "b": "10 minutos en tus estadísticas y sabes exactamente cuál es tu 20%." },
-        { "role": "value", "h": "Encuentra tu 20% (10 minutos)", "b": "Estadísticas → ordena tus últimos 30 posts por envíos y guardados. Los 6 primeros son tu 20% ganador. Míralos juntos: tema, formato, portada. AHÍ está tu patrón." },
-        { "role": "value", "h": "Explota el patrón sin culpa", "b": "¿Ganan las listas de precios? Haz más. ¿Los casos con números? Más. Repetir el formato ganador no es falta de creatividad: es ESCUCHAR a tu audiencia. Ella ya votó." },
-        { "role": "value", "h": "El 80% también trabaja", "b": "Los posts \"del montón\" mantienen el ritmo, testean temas nuevos y alimentan la relación. No son fracaso: son exploración. Pero no les dediques el mismo esfuerzo de producción." },
-        { "role": "value", "h": "Presupuesta el esfuerzo como inversionista", "b": "El post del patrón ganador merece tu mejor hora de diseño y tu mejor texto. El experimental se hace en 20 minutos. Esfuerzo desigual para apuestas desiguales." },
-        { "role": "value", "h": "Renueva el análisis cada mes", "b": "El 20% ganador cambia con las temporadas y tu audiencia. La revisión mensual de 10 minutos (primer lunes, ya sabes) mantiene el mapa fresco." },
-        { "role": "stat", "h": "Mismo esfuerzo total, redistribuido: hasta el doble de resultados.", "b": "No trabajas más. Trabajas donde ya funcionó." },
-        { "role": "cta", "h": "Encuentra tu 20% hoy.", "b": "10 minutos en tus estadísticas. Guarda el método y repítelo cada mes." }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "Repite lo que ya te funcionó", "b": "Tus mejores posts marcan el camino" },
+        { "role": "rehook", "h": "Tu audiencia ya votó.", "b": "Solo falta contar los votos. Toma 10 minutos." },
+        { "role": "value", "h": "Encuentra tus 6 mejores posts", "b": "Estadísticas → ordena tus últimos 30 posts por compartidos y guardados. Los 6 primeros son tu patrón: míralos juntos — tema, formato, portada." },
+        { "role": "value", "h": "Explota el patrón sin culpa", "b": "¿Ganan las listas de precios? Haz más. ¿Los casos con números? Más. Repetir lo que funciona no es falta de creatividad: es escuchar a tu audiencia." },
+        { "role": "value", "h": "Reparte el esfuerzo", "b": "Tu mejor hora de diseño para el formato ganador; 20 minutos para los experimentos. Y repite este análisis cada mes: el patrón cambia con las temporadas." },
+        { "role": "stat", "h": "Propaga te lo hace fácil.", "b": "Planifica el mes alrededor de tu patrón ganador y prográmalo desde el celular. Gratis para empezar." },
+        { "role": "cta", "h": "Guarda el método.", "b": "Encuentra tu patrón hoy y planifica gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "La regla 80/20 del contenido: el 80% de tus resultados viene del 20% de tus posts — ¿ya sabes cuál es tu 20%? El método de 10 minutos: ordena tus últimos 30 posts por envíos y guardados; los 6 primeros son tu patrón ganador. Repetirlo no es falta de creatividad — es escuchar a una audiencia que ya votó. #pareto #contentmarketing #estrategia #cm #peru",
+        "ig": "Repite lo que ya te funcionó: la mayor parte de tus resultados viene de un puñado de posts. El método de 10 minutos: ordena tus últimos 30 posts por compartidos y guardados — los 6 primeros son tu patrón ganador. Repetirlo es escuchar a tu audiencia. Planifica el mes alrededor del patrón, gratis con Propaga (propaga.pe). #pareto #contentmarketing #estrategia #cm #peru",
         "tt": "El 80% de tus resultados viene del 20% de tus posts 📊 #pareto #contentmarketing #estrategia",
-        "fb": "Ejercicio de 10 minutos que cambia el mes: ordenen sus últimos 30 posts por envíos y guardados — los 6 primeros son su 20% ganador, y ahí está el patrón (tema, formato, portada). Repetir lo que funciona no es aburrido: es escuchar a la audiencia que ya votó. ¿Cuál es el patrón de su 20%?"
+        "fb": "Ejercicio de 10 minutos que cambia el mes: ordenen sus últimos 30 posts por compartidos y guardados — los 6 primeros son su patrón ganador (tema, formato, portada). Repetir lo que funciona no es aburrido: es escuchar a la audiencia que ya votó. Y el mes se planifica gratis con Propaga (propaga.pe). ¿Cuál es el patrón de sus mejores posts?"
       },
-      "alt": "Aplicación del principio de Pareto al contenido: identificar el veinte por ciento ganador y redistribuir el esfuerzo."
+      "alt": "Aplicación del principio de Pareto al contenido: identificar los posts ganadores y redistribuir el esfuerzo."
     },
     {
       "slug": "insights-5-minutos",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "Más de 5 minutos es procrastinar.", "b": "Tus estadísticas: la rutina mensual completa" },
-        { "role": "rehook", "h": "Más tiempo mirando números que creando = señal de alarma.", "b": "Cinco minutos, cuatro preguntas, decisiones tomadas. Así." },
-        { "role": "value", "n": "1", "h": "Min 1-2: ¿qué posts ENVIARON y GUARDARON?", "b": "Ordena el mes por envíos, luego por guardados. Top 3 de cada lista → anota tema y formato. Ese es el contenido que tu audiencia recomienda y archiva." },
-        { "role": "value", "n": "2", "h": "Min 3: ¿de dónde vino la gente nueva?", "b": "Alcance: ¿seguidores vs no seguidores? Si todo tu alcance es de seguidores, te falta contenido enviable/buscable. Si hay no-seguidores, ¿qué post los trajo?" },
-        { "role": "value", "n": "3", "h": "Min 4: ¿el perfil convirtió?", "b": "Visitas al perfil → clics al link / DMs iniciados. Muchas visitas y pocos clics = bio floja (arregla eso ANTES que el contenido). Pocas visitas = portadas sin promesa." },
-        { "role": "value", "n": "4", "h": "Min 5: las DOS decisiones", "b": "Decisión A: qué formato/tema repito este mes (el ganador). Decisión B: qué dejo de hacer (lo que nunca funciona tras 3 intentos). Anotadas. Fin del análisis." },
-        { "role": "value", "h": "Lo que NO haces en esta rutina", "b": "Compararte con cuentas de otro tamaño · llorar los likes · revisar a diario (el diario es ruido; la tendencia es mensual) · perseguir métricas que no tocan venta ni alcance." },
-        { "role": "stat", "h": "5 minutos al mes > 5 horas de reportes sin decisiones.", "b": "El análisis vale por las DECISIONES que produce. Lo demás es turismo estadístico." },
-        { "role": "cta", "h": "Agenda tus 5 minutos: primer lunes del mes.", "b": "Guarda la rutina completa. Cuatro preguntas, dos decisiones, a crear." }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "Revisa tus estadísticas en 5 minutos", "b": "Una vez al mes basta" },
+        { "role": "rehook", "h": "Más de 5 minutos mirando números es procrastinar.", "b": "Cuatro preguntas, dos decisiones. Así:" },
+        { "role": "value", "h": "Minutos 1 a 3: tres preguntas", "b": "¿Qué posts se compartieron y guardaron más? (tu patrón) · ¿Llegué a gente que no me sigue? (tu contenido viaja) · ¿Las visitas al perfil hicieron clic? (si no, arregla la bio antes que el contenido)." },
+        { "role": "value", "h": "Minutos 4 y 5: dos decisiones", "b": "A: qué formato o tema repito este mes (el ganador). B: qué dejo de hacer (lo que nunca funciona tras 3 intentos). Anotadas. Fin del análisis." },
+        { "role": "value", "h": "Lo que NO haces", "b": "Compararte con cuentas grandes · llorar los likes · revisar a diario. El diario es ruido; la tendencia es mensual." },
+        { "role": "stat", "h": "Propaga te lo hace fácil.", "b": "Con las decisiones tomadas, planifica el mes y prográmalo desde el celular. Gratis para empezar." },
+        { "role": "cta", "h": "Guarda la rutina del primer lunes.", "b": "Y convierte las decisiones en plan, gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "Cómo leer tus estadísticas de Instagram en 5 minutos (rutina mensual): min 1-2 top de envíos y guardados → tu patrón; min 3 ¿alcance de no-seguidores? → tu contenido enviable; min 4 visitas→clics → tu bio; min 5 las DOS decisiones (qué repito, qué dejo de hacer). El análisis vale por las decisiones que produce — lo demás es turismo estadístico. #estadisticas #analitica #instagram #cm #peru",
+        "ig": "Revisa tus estadísticas de Instagram en 5 minutos, una vez al mes: ¿qué se compartió y guardó más? ¿llegué a gente nueva? ¿las visitas hicieron clic? — y dos decisiones: qué repito y qué dejo de hacer. El análisis vale por las decisiones que produce. Conviértelas en plan gratis con Propaga (propaga.pe). #estadisticas #analitica #instagram #cm #peru",
         "tt": "Tus estadísticas en 5 minutos: la rutina completa ⏱️ #estadisticas #instagram #cm",
-        "fb": "Regla de oro de la analítica para negocios chicos: el análisis vale por las DECISIONES que produce. La rutina mensual de 5 minutos: top de envíos/guardados (tu patrón), alcance de no-seguidores (tu contenido enviable), visitas→clics (tu bio) y dos decisiones anotadas: qué repetir, qué dejar de hacer. ¿Cuánto tiempo pasan ustedes en las estadísticas?"
+        "fb": "Regla de oro de la analítica para negocios chicos: el análisis vale por las DECISIONES que produce. La rutina mensual de 5 minutos: top de compartidos y guardados (tu patrón), alcance de no-seguidores, visitas→clics (tu bio) y dos decisiones anotadas: qué repetir, qué dejar de hacer. El plan se arma gratis con Propaga (propaga.pe). ¿Cuánto tiempo pasan ustedes en las estadísticas?"
       },
-      "alt": "Rutina mensual de cinco minutos para leer estadísticas: cuatro preguntas clave y dos decisiones accionables."
+      "alt": "Rutina mensual de cinco minutos para leer estadísticas: preguntas clave y dos decisiones accionables."
     },
     {
       "slug": "colaboraciones-chicas",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "No necesitas un influencer.", "b": "Necesitas 5 cuentas como la tuya" },
-        { "role": "rehook", "h": "Dos cuentas de 800 se presentan a 800 personas nuevas.", "b": "Gratis, calificadas y en ambos feeds. Así se arma." },
-        { "role": "value", "h": "Por qué funciona a cualquier escala", "b": "El post en colaboración aparece en AMBAS audiencias a la vez: público nuevo y calificado para los dos. Sin pagar un sol — solo eligiendo bien al socio." },
-        { "role": "value", "h": "El socio ideal (no es tu competencia)", "b": "Mismo público, distinto producto: la pastelería + la florería (eventos) · el contador + la agencia (emprendedores) · el gym + la nutricionista. Complemento, no competencia." },
-        { "role": "value", "h": "Los 4 formatos que funcionan", "b": "1) Post colab (sale en ambos feeds) · 2) Lives juntos (audiencias cruzadas en vivo) · 3) El takeover de historias (\"hoy nos visita...\") · 4) El sorteo conjunto HONESTO (premio relevante, no iPhone)." },
-        { "role": "value", "h": "Cómo proponer sin roche", "b": "DM directo: \"Tenemos público parecido y no competimos. ¿Hacemos un post juntos sobre [tema que sirve a ambos]?\" Tasa de sí: altísima. Todos quieren crecer." },
-        { "role": "value", "h": "La regla del sorteo honesto", "b": "Premio de TU rubro (atrae interesados reales, no cazadores de iPhones) · requisitos simples · y saber que el pico de seguidores bajará 20-30%: los que quedan son los que valen." },
-        { "role": "stat", "h": "1 colaboración mensual = la táctica de crecimiento más subvalorada", "b": "para cuentas de menos de 5K. Y de las pocas que además construye RELACIONES de negocio reales." },
-        { "role": "cta", "h": "Haz tu lista de 5 socios hoy.", "b": "Y manda el primer DM esta semana. Guarda el guion de propuesta." }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "Crece haciendo posts con otros negocios", "b": "Gratis y sin necesitar influencers" },
+        { "role": "rehook", "h": "Dos cuentas de 800 seguidores", "b": "se presentan a 800 personas nuevas. Gratis y en ambos feeds." },
+        { "role": "value", "h": "El socio ideal: complemento, no competencia", "b": "Mismo público, distinto producto: la pastelería + la florería · el contador + la agencia · el gym + la nutricionista." },
+        { "role": "value", "h": "Los formatos que funcionan", "b": "Post en colaboración (sale en ambos feeds) · lives juntos · \"hoy nos visita...\" en historias · sorteo conjunto con premio de tu rubro (no un iPhone: atrae interesados reales)." },
+        { "role": "value", "h": "Cómo proponerlo sin roche", "b": "DM directo: \"Tenemos público parecido y no competimos. ¿Hacemos un post juntos sobre [tema que sirve a ambos]?\" Casi todos dicen que sí." },
+        { "role": "stat", "h": "Propaga te lo hace fácil.", "b": "Planifica tus colaboraciones dentro del mes y programa todo desde el celular. Gratis para empezar." },
+        { "role": "cta", "h": "Guarda el guion y haz tu lista de 5 socios.", "b": "Manda el primer DM esta semana. Y planifica gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "Colaboraciones para cuentas chicas: no necesitas un influencer — necesitas 5 cuentas de TU tamaño con TU público (complemento, no competencia: la pastelería + la florería). El post colab aparece en ambas audiencias: dos cuentas de 800 se presentan a 800 personas nuevas, gratis. El DM de propuesta incluido. #colaboraciones #crecimiento #networking #emprendedores #peru",
+        "ig": "Crece haciendo posts con otros negocios: no necesitas un influencer — necesitas 5 cuentas de TU tamaño con TU público (complemento, no competencia: la pastelería + la florería). El post en colaboración sale en ambos feeds: dos cuentas de 800 se presentan a 800 personas nuevas, gratis. Planifica tu mes gratis con Propaga (propaga.pe). #colaboraciones #crecimiento #networking #emprendedores #peru",
         "tt": "El atajo legítimo que las cuentas chicas no usan 🤝 #colaboraciones #crecimiento #emprendedores",
-        "fb": "La táctica de crecimiento más subvalorada para cuentas de menos de 5K: la colaboración entre iguales. Mismo público, distinto producto (el contador + la agencia, el gym + la nutricionista), post colab que sale en ambos feeds. El guion del DM: \"tenemos público parecido y no competimos — ¿hacemos un post juntos?\" Tasa de sí: altísima. ¿Con quién colaborarían?"
+        "fb": "La táctica de crecimiento más subvalorada para cuentas chicas: la colaboración entre iguales. Mismo público, distinto producto (el contador + la agencia, el gym + la nutricionista), post colab que sale en ambos feeds. El guion del DM: \"tenemos público parecido y no competimos — ¿hacemos un post juntos?\" Casi todos dicen sí. Planifiquen el mes gratis con Propaga (propaga.pe). ¿Con quién colaborarían?"
       },
-      "alt": "Guía de colaboraciones entre cuentas pequeñas: socios complementarios, cuatro formatos, guion de propuesta y sorteos honestos."
+      "alt": "Guía de colaboraciones entre cuentas pequeñas: socios complementarios, formatos, guion de propuesta y sorteos honestos."
     },
     {
       "slug": "post-que-exploto",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "¿Te explotó un post?", "b": "El protocolo de las 48 horas" },
-        { "role": "rehook", "h": "Te explotó un post. El reloj ya está corriendo.", "b": "48 horas antes de que baje la marea. Este es el protocolo." },
-        { "role": "value", "n": "1", "h": "Atiende la avalancha (hora 0-12)", "b": "Responde TODOS los comentarios y DMs mientras llegan: cada respuesta aviva la señal y convierte curiosos en seguidores. Cancela lo cancelable: hoy trabajas de anfitrión." },
-        { "role": "value", "n": "2", "h": "Recibe bien al visitante (hora 0-24)", "b": "Miles pasarán por tu perfil: ¿tu bio dice claro qué haces? ¿tus destacadas venden? ¿tu último post da para quedarse? El perfil ES la puerta del viral. Ajústalo YA." },
-        { "role": "value", "n": "3", "h": "Publica la continuación (hora 24-48)", "b": "\"Muchos preguntaron X en el post de ayer — aquí va\" · la parte 2 · las respuestas a las preguntas del hilo. El público nuevo está caliente: dale el siguiente paso HOY, no la próxima semana." },
-        { "role": "value", "n": "4", "h": "Captura lo capturable", "b": "Historias con encuesta para los nuevos (\"¿de dónde llegaste?\"), invitación al canal/lista/WhatsApp si tienes, y el cierre suave de tu producto en la continuación. Sin desespero — con puerta abierta." },
-        { "role": "value", "n": "5", "h": "Autopsia del éxito (día 3)", "b": "¿POR QUÉ explotó? ¿El tema, el formato, la portada, un envío grande? Anótalo en tu banco de patrones: la venta del viral es efímera; su LECCIÓN es permanente." },
-        { "role": "value", "h": "Lo que NO hacer", "b": "Cambiar de tema al día siguiente (el público nuevo vino por ESO) · subir 5 posts de golpe · responder con plantilla robótica · y sobre todo: no desaparecer justo cuando llegó la marea." },
-        { "role": "stat", "h": "Un viral bien cosechado deja 5-15% de su alcance en seguidores.", "b": "Mal cosechado: deja likes y anécdota. La diferencia es este protocolo." },
-        { "role": "cta", "h": "Guárdalo para el día que te toque.", "b": "Porque publicando bien y seguido... te va a tocar." }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "¿Un post tuyo explotó? Haz esto", "b": "Tienes 48 horas para aprovecharlo" },
+        { "role": "rehook", "h": "El reloj ya está corriendo.", "b": "La marea baja en 48 horas. Este es el protocolo." },
+        { "role": "value", "n": "1", "h": "Día 1: responde todo y arregla tu perfil", "b": "Cada respuesta convierte curiosos en seguidores. Y miles pasarán por tu perfil: ¿tu bio dice qué vendes? ¿tus destacadas ayudan? El perfil es la puerta del viral." },
+        { "role": "value", "n": "2", "h": "Día 2: publica la continuación", "b": "\"Muchos preguntaron X en el post de ayer — aquí va\" o la parte 2. El público nuevo está caliente HOY, no la próxima semana. Y no cambies de tema: vinieron por eso." },
+        { "role": "value", "n": "3", "h": "Día 3: aprende del éxito", "b": "¿Por qué explotó? ¿El tema, la portada, el formato? Anótalo y repítelo. El pico pasa; la lección es permanente." },
+        { "role": "stat", "h": "Propaga te lo hace fácil.", "b": "Con el mes ya programado, tienes las manos libres para atender el viral. Gratis para empezar." },
+        { "role": "cta", "h": "Guárdalo para el día que te toque.", "b": "Porque publicando seguido, te va a tocar. Empieza gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "Te explotó un post: protocolo de 48 horas — responde TODO mientras llega (hoy trabajas de anfitrión), ajusta el perfil YA (es la puerta del viral), publica la continuación en 24-48h (\"muchos preguntaron X — aquí va\"), captura con encuestas y puerta abierta, y haz la autopsia del éxito al día 3. Un viral bien cosechado deja 5-15% de su alcance en seguidores. #viral #crecimiento #instagram #protocolo #peru",
+        "ig": "¿Un post tuyo explotó? Tienes 48 horas: día 1 responde todo y arregla tu perfil (es la puerta del viral), día 2 publica la continuación (\"muchos preguntaron X — aquí va\"), día 3 anota por qué funcionó y repítelo. Con el mes programado gratis en Propaga (propaga.pe), atiendes la avalancha con las manos libres. #viral #crecimiento #instagram #protocolo #peru",
         "tt": "Te explotó un post: las próximas 48 horas deciden todo 🚀 #viral #instagram #crecimiento",
-        "fb": "El post viral sin protocolo es un billete de lotería sin cobrar: la ventana son 48 horas. Lo más olvidado: tu PERFIL es la puerta del viral — miles pasarán por ahí y deciden en segundos si te siguen. Y la continuación se publica al día siguiente, no la próxima semana (el público nuevo vino por ESE tema). ¿Les ha pasado un mini-viral? ¿Qué hicieron?"
+        "fb": "El post viral sin protocolo es un billete de lotería sin cobrar: la ventana son 48 horas. Lo más olvidado: tu PERFIL es la puerta del viral — miles pasarán por ahí y deciden en segundos si te siguen. Y la continuación se publica al día siguiente, no la próxima semana. Con Propaga (propaga.pe) el mes queda programado gratis y tú atiendes la marea. ¿Les ha pasado un mini-viral?"
       },
-      "alt": "Protocolo de 48 horas tras un post viral: atención de avalancha, perfil como puerta de entrada, continuación, captura y autopsia."
+      "alt": "Protocolo de 48 horas tras un post viral: atención de avalancha, perfil como puerta de entrada, continuación y lección."
     },
     {
       "slug": "cuando-publicar-honesto",
       "slides": [
-        { "role": "cover", "kicker": "CRECIMIENTO", "h": "\"Publica todos los días.\"", "b": "Dice el que vive de publicar. Hablemos." },
-        { "role": "rehook", "h": "Tu ritmo correcto es el de tu PEOR semana.", "b": "No el de la mejor. Así se calcula sin quemarte en el intento." },
-        { "role": "value", "h": "El piso: 2-3 posts por semana", "b": "Debajo de eso, el algoritmo y la audiencia te van olvidando (la cuenta \"dormida\" pierde distribución). 2-3 constantes es el mínimo que mantiene la maquinaria caliente." },
-        { "role": "value", "h": "El techo eres tú", "b": "Publicar 7 veces esta semana y 0 las próximas tres es PEOR que 2 siempre. La pregunta honesta: ¿qué ritmo aguanto en mi peor semana? Ese es tu ritmo. No el de tu mejor semana." },
-        { "role": "value", "h": "Calidad compuesta > cantidad simple", "b": "Con guardados y SEO, el buen post trabaja por semanas: 10 posts excelentes al mes rinden más que 30 mediocres. La era del volumen por volumen ya pasó." },
-        { "role": "value", "h": "El truco de la producción por lotes", "b": "Una sesión de 2-3 horas produce la semana entera (o dos). Publicar a diario es agotador; PRODUCIR una vez y programar, no. La constancia se fabrica, no se improvisa." },
-        { "role": "value", "h": "Historias: la excepción diaria", "b": "Las historias sí son (casi) diarias — pero cuestan 2 minutos, no 2 horas: la encuesta, el proceso de hoy, el cliente feliz. Son la respiración; los posts, las comidas." },
-        { "role": "stat", "h": "La fórmula sostenible: 3 posts + historias diarias + 1 sesión de producción.", "b": "Eso crece. Y no te quema en el intento — que es la parte que casi todos fallan." },
-        { "role": "cta", "h": "Define TU ritmo de peor semana.", "b": "Y prográmalo por lotes. Guarda la fórmula sostenible." }
+        { "role": "cover", "kicker": "CRECIMIENTO", "h": "¿Cada cuánto publicar? La respuesta honesta", "b": "Un ritmo que sí puedas mantener" },
+        { "role": "rehook", "h": "\"Publica todos los días\", dice el gurú.", "b": "Que vive de publicar. Tú vives de tu negocio." },
+        { "role": "value", "h": "El piso: 2 a 3 posts por semana", "b": "Menos que eso y la cuenta se \"duerme\". Y ojo: 7 posts esta semana y 0 las próximas tres es PEOR que 2 siempre." },
+        { "role": "value", "h": "Tu ritmo es el de tu peor semana", "b": "No el de la mejor. Pregúntate qué aguantas en la semana más cargada: ese es tu ritmo. Así no te quemas en el intento." },
+        { "role": "value", "h": "Produce por lotes", "b": "Una sesión de 2 horas deja la semana lista y programada. Las historias sí son casi diarias — pero cuestan 2 minutos, no 2 horas." },
+        { "role": "stat", "h": "Propaga hace posible la constancia.", "b": "Produce una vez, programa todo desde el celular y olvídate. Gratis para empezar." },
+        { "role": "cta", "h": "Guarda la fórmula sostenible.", "b": "Y programa tu semana gratis en propaga.pe" }
       ],
       "caption": {
-        "ig": "¿Cada cuánto publicar? La respuesta honesta según tu vida real: el piso es 2-3 posts semanales (debajo, la cuenta se \"duerme\"), el techo lo define tu PEOR semana (no la mejor), y la calidad compuesta (guardados + SEO = posts que trabajan semanas) vence al volumen. La fórmula: 3 posts + historias diarias + 1 sesión de producción por lotes. #frecuencia #contentmarketing #productividad #cm #peru",
+        "ig": "¿Cada cuánto publicar? La respuesta honesta: el piso es 2-3 posts semanales (menos y la cuenta se duerme), el techo lo define tu PEOR semana — no la mejor. El truco: producir por lotes en una sesión de 2 horas y dejar todo programado gratis con Propaga (propaga.pe). La constancia se fabrica, no se improvisa. #frecuencia #contentmarketing #productividad #cm #peru",
         "tt": "\"Publica todos los días\" — dice el que vive de publicar 🙃 #contentmarketing #frecuencia #cm",
-        "fb": "La pregunta honesta sobre frecuencia no es \"¿cuánto debería publicar?\" sino \"¿qué ritmo aguanto en mi PEOR semana?\" — porque 7 posts esta semana y 0 las próximas tres es peor que 2 siempre. La fórmula sostenible: 3 posts + historias diarias (2 minutos, no 2 horas) + una sesión de producción por lotes. ¿Cuál es su ritmo real?"
+        "fb": "La pregunta honesta sobre frecuencia no es \"¿cuánto debería publicar?\" sino \"¿qué ritmo aguanto en mi PEOR semana?\" — porque 7 posts esta semana y 0 las próximas tres es peor que 2 siempre. La fórmula sostenible: 3 posts + historias diarias de 2 minutos + una sesión de producción, todo programado gratis con Propaga (propaga.pe). ¿Cuál es su ritmo real?"
       },
-      "alt": "Guía de frecuencia de publicación sostenible: piso semanal, techo personal, calidad compuesta y producción por lotes."
+      "alt": "Guía de frecuencia de publicación sostenible: piso semanal, techo personal y producción por lotes."
     }
   ]
 }

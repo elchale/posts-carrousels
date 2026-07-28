@@ -5,192 +5,181 @@
     {
       "slug": "primeros-10-minutos",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "Tienes 10 minutos.", "b": "El protocolo si tu hijo se pierde" },
-        { "role": "rehook", "h": "El pánico borra la memoria.", "b": "Este protocolo existe para no tener que pensar. Solo ejecutar." },
-        { "role": "value", "n": "1", "h": "Quédate donde te vio por última vez", "b": "Los niños regresan al último punto compartido. Si tú también te mueves, se cruzan sin verse. Es el error #1 de todos los padres." },
-        { "role": "value", "n": "2", "h": "Grita su nombre + TU nombre", "b": "No solo \"¡Mateo!\". Grita \"¡Mateo, soy mamá!\". Un niño asustado se congela — y solo responde a la voz que reconoce." },
-        { "role": "value", "n": "3", "h": "Avisa a seguridad ANTES de buscar solo", "b": "Un mall puede cubrir todas las salidas en minutos. Tú solo cubres un pasillo. Ellos, el edificio entero." },
-        { "role": "value", "n": "4", "h": "Describe la ropa, no la cara", "b": "\"Polo rojo, zapatillas blancas\" encuentra niños. \"Tiene ojos marrones y es lindo\" no encuentra a nadie." },
-        { "role": "value", "n": "5", "h": "Manda tu ubicación al grupo familiar", "b": "Uno coordina, los demás buscan. Diez personas llamándose entre sí pierden los minutos que más valen." },
-        { "role": "cta", "h": "Guárdalo. Ojalá nunca lo abras.", "b": "Y envíaselo hoy a alguien con hijos pequeños: este post vale más ANTES del susto." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "Si tu hijo se pierde, tienes 10 minutos.", "b": "Los 3 pasos que lo traen de vuelta." },
+        { "role": "rehook", "h": "En ese momento, el miedo no te deja pensar.", "b": "Por eso estos 3 pasos se aprenden HOY, con calma." },
+        { "role": "value", "n": "1", "h": "Quédate donde te vio por última vez", "b": "Los niños regresan al último lugar donde te vieron. Si tú también caminas, se cruzan sin verse." },
+        { "role": "value", "n": "2", "h": "Grita su nombre y el tuyo", "b": "\"¡Mateo, soy mamá!\". Un niño asustado se queda quieto y solo responde a la voz que conoce." },
+        { "role": "value", "n": "3", "h": "Avisa a seguridad de inmediato", "b": "Diles edad, ropa y dónde lo viste. Ellos cubren todas las salidas. Tú solo cubres un pasillo." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Guarda estos 3 pasos.", "b": "Y conoce la pulsera en comehometag.com. Ojalá nunca necesites ninguno de los dos." }
       ],
       "caption": {
-        "ig": "Qué hacer si se pierde tu hijo en un lugar público: los primeros 10 minutos deciden casi todo, y el pánico es el peor plan. El error #1: moverte del último punto compartido — los niños regresan a donde te vieron. Guarda este protocolo y compártelo con tu familia. En Perú se reportan 51 desapariciones al día; la mayoría se resuelve en minutos cuando la familia sabe qué hacer. #seguridadinfantil #padres #niños #peru",
-        "tt": "El protocolo que toda familia debería conocer antes de salir de casa 💜 Guárdalo. #seguridadinfantil #padres #peru",
-        "fb": "¿Sabes exactamente qué harías en los primeros 10 minutos si tu hijo se pierde en un centro comercial? La mayoría de padres nunca lo ha pensado — y el error #1 (moverse del último punto compartido) lo cometemos casi todos. ¿Cuál de estos pasos no conocías?"
+        "ig": "Qué hacer si tu hijo se pierde en un lugar público: los primeros 10 minutos deciden casi todo — y para el momento clave existe la pulsera con QR de ComeHomeTag: quien lo encuentra la escanea y te llama al instante. Los 3 pasos: quédate donde te vio, grita su nombre y el tuyo, avisa a seguridad. En el Perú se reportan 51 desapariciones al día; la mayoría se resuelve en minutos cuando la familia sabe qué hacer. Guarda y comparte. #seguridadinfantil #padres #niños #peru",
+        "tt": "Los 3 pasos si tu hijo se pierde — y la pulsera ComeHomeTag para el momento clave 💜 Guárdalo. #seguridadinfantil #padres #peru",
+        "fb": "¿Sabes qué harías en los primeros 10 minutos si tu hijo se pierde? Los 3 pasos: quedarte donde te vio, gritar su nombre y el tuyo, avisar a seguridad. Y para que cualquier persona pueda llamarte al instante: la pulsera con QR de ComeHomeTag — sin batería, sin mensualidad. comehometag.com"
       },
-      "alt": "Protocolo de los primeros 10 minutos cuando un niño se pierde en un lugar público, paso a paso en español."
+      "alt": "Los tres pasos si un niño se pierde en un lugar público y la pulsera con código QR de ComeHomeTag."
     },
     {
       "slug": "antes-de-salir",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "La rutina que nadie hace.", "b": "2 minutos antes de salir. Te ahorran horas." },
-        { "role": "rehook", "h": "Prevenir toma 2 minutos. Buscar toma horas.", "b": "Elige cuál de los dos vivir." },
-        { "role": "value", "n": "1", "h": "La foto del día", "b": "Foto de cuerpo entero con la ropa que lleva HOY. Cinco segundos en la puerta. Si algo pasa, tienes la descripción perfecta." },
-        { "role": "value", "n": "2", "h": "El punto de encuentro", "b": "\"Si nos separamos, nos vemos en la entrada principal.\" Un niño con plan no corre en círculos: camina hacia el plan." },
-        { "role": "value", "n": "3", "h": "Identificación puesta", "b": "Pulsera o tag con contacto. El número memorizado se borra con el susto; lo escrito no se asusta." },
-        { "role": "value", "n": "4", "h": "La regla del adulto seguro", "b": "\"Si no me ves: busca a una mamá con niños o a alguien con uniforme del lugar. Nadie más.\"" },
-        { "role": "value", "n": "5", "h": "El ensayo de 30 segundos", "b": "\"¿Qué haces si no me ves?\" — que TE lo diga él, en la puerta. Repetirlo ahí lo graba de verdad." },
-        { "role": "cta", "h": "Hazlo rutina desde hoy.", "b": "Guarda la lista y compártela con quien sale con tus hijos: abuelos, tíos, la niñera." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "Haz esto antes de salir con tus hijos.", "b": "3 costumbres de 2 minutos. Evitan sustos." },
+        { "role": "rehook", "h": "Prevenir toma 2 minutos. Buscar toma horas.", "b": "Estas son las 3 costumbres que más ayudan." },
+        { "role": "value", "n": "1", "h": "La foto del día", "b": "Antes de salir, tómale una foto con la ropa de hoy. Si algo pasa, tienes la descripción perfecta." },
+        { "role": "value", "n": "2", "h": "El punto de encuentro", "b": "\"Si nos separamos, nos vemos en la entrada principal.\" Un niño con plan no corre en círculos." },
+        { "role": "value", "n": "3", "h": "Tu número, puesto en él", "b": "Encima, no en la mochila ni de memoria. El susto borra los números; lo escrito no se asusta." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Hazlo rutina desde hoy.", "b": "La pulsera está en comehometag.com. Comparte la lista con los abuelos y la niñera." }
       ],
       "caption": {
-        "ig": "Checklist antes de salir con niños a lugares llenos de gente: 5 pasos que toman 2 minutos y cambian por completo cómo termina un susto. La #1 (foto del día con la ropa de hoy) casi nadie la hace — y es la que más ayuda a seguridad. Guárdalo para tu próxima salida. #seguridadinfantil #crianza #padres #peru",
-        "tt": "La rutina de 2 minutos antes de salir de casa con niños 💜 #padres #seguridadinfantil #crianza",
-        "fb": "Antes de salir al mall o a la feria con tus hijos: ¿haces alguna de estas 5 cosas? La foto del día casi nadie la toma y es la primera cosa que pide seguridad. ¿Cuál agregarías tú a la lista?"
+        "ig": "Qué hacer antes de salir con niños a lugares llenos de gente: 3 costumbres de 2 minutos — la foto del día, el punto de encuentro y tu número puesto en él con la pulsera QR de ComeHomeTag (quien lo encuentra escanea y te llama al instante). Guárdalo para tu próxima salida. #seguridadinfantil #crianza #padres #peru",
+        "tt": "La rutina de 2 minutos antes de salir de casa con niños 💜 con la pulsera ComeHomeTag puesta. #padres #seguridadinfantil #crianza",
+        "fb": "Antes de salir al mall o a la feria con tus hijos: foto del día, punto de encuentro y tu número puesto en él. Para lo último existe la pulsera con QR de ComeHomeTag — sin batería, sin mensualidad. ¿Cuál de las 3 costumbres ya haces? comehometag.com"
       },
-      "alt": "Checklist de cinco pasos de prevención antes de salir con niños a lugares concurridos."
+      "alt": "Tres costumbres antes de salir con niños: foto del día, punto de encuentro y pulsera ComeHomeTag con contacto."
     },
     {
       "slug": "papa-alzheimer-salio",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "Tu papá salió solo.", "b": "El protocolo del Alzheimer, en este orden" },
-        { "role": "rehook", "h": "6 de cada 10 personas con demencia se extravían al menos una vez.", "b": "No es descuido tuyo. Es la enfermedad. Y tiene protocolo." },
-        { "role": "value", "n": "1", "h": "Busca primero en su PASADO", "b": "Caminan hacia su memoria: la casa antigua, el trabajo de hace 30 años, la iglesia de siempre. Ahí se empieza." },
-        { "role": "value", "n": "2", "h": "Radio de 1 kilómetro", "b": "La mayoría aparece a menos de 1.5 km de casa, sobre rutas conocidas. Empieza cerca. Lejos casi nunca es la respuesta." },
-        { "role": "value", "n": "3", "h": "Comisaría DE INMEDIATO", "b": "Las 24 horas de espera son un mito de películas. Un adulto mayor desorientado es emergencia desde el minuto uno." },
-        { "role": "value", "n": "4", "h": "Activa al barrio, no solo a la familia", "b": "El bodeguero, el vigilante, la casera del mercado: lo ven todos los días y lo reconocen mejor que una foto." },
-        { "role": "value", "n": "5", "h": "Cuando lo encuentres, no lo corrijas", "b": "Nada de \"te perdiste\". Dile \"te estaba buscando para ir a casa\". Discutir asusta; acompañar lo trae de vuelta." },
-        { "role": "cta", "h": "Compártelo hoy, no después.", "b": "Quien cuida a un adulto mayor necesita esto ANTES del primer susto." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "Tu papá con Alzheimer salió solo: haz esto.", "b": "Dónde buscar primero y a quién llamar." },
+        { "role": "rehook", "h": "6 de cada 10 personas con Alzheimer se pierden alguna vez.", "b": "No es descuido tuyo: es la enfermedad. Estos son los pasos." },
+        { "role": "value", "n": "1", "h": "Busca cerca y en su pasado", "b": "Casi siempre están a menos de 15 cuadras, caminando a su casa antigua, su trabajo de antes o su iglesia de siempre." },
+        { "role": "value", "n": "2", "h": "Ve a la comisaría de inmediato", "b": "No hay que esperar 24 horas: eso es un mito. Un abuelo desorientado es emergencia desde el minuto uno." },
+        { "role": "value", "n": "3", "h": "Cuando lo encuentres, no lo corrijas", "b": "Nada de \"te perdiste\". Dile \"te estaba buscando para ir a casa\" y acompáñalo. Discutir lo asusta." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Compártelo con quien cuida.", "b": "Y consigue su pulsera en comehometag.com — mejor antes del primer susto." }
       ],
       "caption": {
-        "ig": "Qué hacer si un adulto mayor con Alzheimer sale solo de casa, paso a paso: buscar primero en su PASADO (caminan hacia su memoria), radio de 1 km, comisaría de inmediato — esperar 24 horas es un mito. En el Perú más de 200,000 personas viven con Alzheimer y 6 de cada 10 se extraviarán al menos una vez. Comparte con quien cuida. #alzheimer #adultomayor #cuidadores #peru",
-        "tt": "Si un abuelito con Alzheimer sale solo de casa, esto se hace en este orden 💜 #alzheimer #abuelos #cuidadores",
-        "fb": "6 de cada 10 personas con demencia se extravían al menos una vez — y casi ninguna familia sabe que hay que buscar en los lugares del PASADO: la casa antigua, el trabajo de hace 30 años. Comparte esta guía: en tu barrio hay alguien que la va a necesitar."
+        "ig": "Qué hacer si un adulto mayor con Alzheimer sale solo de casa: buscar cerca y en los lugares de SU pasado, ir a la comisaría de inmediato (esperar 24 horas es un mito) y no corregirlo al encontrarlo. Y para que cualquier vecino pueda llamar a la familia al instante: la pulsera con QR de ComeHomeTag, sin batería ni mensualidad. Comparte con quien cuida. #alzheimer #adultomayor #cuidadores #peru",
+        "tt": "Si un abuelito con Alzheimer sale solo, esto se hace 💜 y la pulsera ComeHomeTag ayuda a traerlo de vuelta. #alzheimer #abuelos #cuidadores",
+        "fb": "6 de cada 10 personas con Alzheimer se pierden alguna vez — y casi nadie sabe que hay que buscar en los lugares de su PASADO: la casa antigua, el trabajo de hace 30 años. Con la pulsera QR de ComeHomeTag, quien lo encuentre llama a la familia al instante. Comparte esta guía: en tu barrio alguien la necesita. comehometag.com"
       },
-      "alt": "Protocolo de búsqueda de un adulto mayor con Alzheimer que salió solo de casa, en cinco pasos ordenados."
+      "alt": "Pasos para buscar a un adulto mayor con Alzheimer que salió solo y la pulsera con QR de ComeHomeTag."
     },
     {
       "slug": "ensenar-a-tu-hijo",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "\"¿Y si no me ves?\"", "b": "El juego de 5 minutos que lo entrena" },
-        { "role": "rehook", "h": "Un niño asustado no recuerda sermones.", "b": "Recuerda juegos. Así se entrena sin asustarlo." },
-        { "role": "value", "n": "1", "h": "Juega \"¿y si no me ves?\"", "b": "En casa, tranquilos: \"Estamos en el mercado y no me ves. ¿Qué haces?\" Deja que la respuesta sea SUYA." },
-        { "role": "value", "n": "2", "h": "Enséñale a QUEDARSE", "b": "La regla de oro: quieto donde está. Tú lo buscas a él, no él a ti. Repítelo hasta que lo diga sin pensar." },
-        { "role": "value", "n": "3", "h": "El adulto seguro", "b": "Mamá con niños o uniformado del lugar. Conviértelo en juego: \"¿quién nos ayudaría aquí?\" cada vez que salgan." },
-        { "role": "value", "n": "4", "h": "Tu nombre completo, cantado", "b": "\"¿Cómo se llama tu mamá?\" — \"Mamá\" no ayuda a nadie. Nombre y apellido, con melodía: lo cantado no se olvida." },
-        { "role": "value", "n": "5", "h": "Repítelo cada mes", "b": "5 minutos, una vez al mes. Los simulacros funcionan por repetición. Este también." },
-        { "role": "cta", "h": "Juégalo esta noche.", "b": "5 minutos hoy pueden ahorrarte el peor día de tu vida. Guarda los pasos." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "Si tu hijo se pierde, ¿sabe qué hacer?", "b": "Se enseña con un juego de 5 minutos." },
+        { "role": "rehook", "h": "Un niño asustado no recuerda sermones. Recuerda juegos.", "b": "Esta noche, en casa, juega esto con él." },
+        { "role": "value", "n": "1", "h": "Pregúntale: \"¿qué haces si no me ves?\"", "b": "La respuesta correcta: \"me quedo quieto donde estoy\". Tú lo buscas a él, no él a ti." },
+        { "role": "value", "n": "2", "h": "Enséñale a quién pedir ayuda", "b": "A una mamá con niños o a alguien con uniforme del lugar. Nadie más. Jueguen a encontrarlos cuando salgan." },
+        { "role": "value", "n": "3", "h": "Enséñale a mostrar su pulsera", "b": "\"Si alguien te ayuda, muéstrale tu pulsera.\" Ahí está tu número. Así te llaman aunque él no pueda ni hablar." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Juégalo esta noche. Son 5 minutos.", "b": "Y ponle su pulsera: comehometag.com." }
       ],
       "caption": {
-        "ig": "Cómo enseñarle a un niño qué hacer si se pierde — sin asustarlo: el juego de 5 minutos que puedes hacer esta noche. Los niños no aprenden seguridad con sermones: aprenden jugando, y lo cantado (tu nombre completo con melodía) no se olvida ni con susto. Guárdalo y pruébalo hoy. #crianza #seguridadinfantil #niños #peru",
-        "tt": "El juego de 5 minutos que puede salvar a tu hijo si se pierde 💜 #crianza #padres #juegos",
-        "fb": "¿Tu hijo sabe qué hacer si se pierde? La mayoría no — porque nadie se lo enseñó JUGANDO. Este juego toma 5 minutos esta noche y el truco del nombre cantado funciona desde los 3 años. ¿A qué edad crees que hay que empezar?"
+        "ig": "Cómo enseñarle a tu hijo qué hacer si se pierde — sin asustarlo: un juego de 5 minutos esta noche. Las 3 reglas: quedarse quieto, buscar a una mamá con niños o a un uniformado, y mostrar su pulsera ComeHomeTag para que quien lo ayude escanee el QR y te llame al instante. Guárdalo y pruébalo hoy. #crianza #seguridadinfantil #niños #peru",
+        "tt": "El juego de 5 minutos que entrena a tu hijo por si se pierde 💜 con su pulsera ComeHomeTag. #crianza #padres #juegos",
+        "fb": "¿Tu hijo sabe qué hacer si se pierde? Se enseña jugando, en 5 minutos: quedarse quieto, buscar al adulto seguro y mostrar su pulsera. La pulsera con QR de ComeHomeTag hace que cualquiera pueda llamarte al instante — aunque él no pueda hablar. comehometag.com"
       },
-      "alt": "Juego educativo de cinco pasos para enseñar a niños pequeños qué hacer si se pierden."
+      "alt": "Juego de tres reglas para enseñar a un niño qué hacer si se pierde, incluida mostrar su pulsera ComeHomeTag."
     },
     {
       "slug": "punto-de-encuentro",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "Siete palabras al entrar.", "b": "Te evitan el peor susto del año" },
-        { "role": "rehook", "h": "\"Nos vemos en la entrada principal.\"", "b": "Eso es todo el sistema. Lo difícil es acordarse de decirlo." },
-        { "role": "value", "n": "1", "h": "Se dice al ENTRAR, no después", "b": "Cruzando la puerta, cuando todos escuchan. En la emergencia ya nadie coordina nada." },
-        { "role": "value", "n": "2", "h": "Debe verse desde lejos", "b": "La entrada principal, el letrero gigante, la torre del reloj. Nunca \"donde los helados\": hay seis heladerías." },
-        { "role": "value", "n": "3", "h": "Uno solo. Nunca dos.", "b": "\"La entrada o el patio de comidas\" divide a la familia en dos salas de espera. El punto es UNO." },
-        { "role": "value", "n": "4", "h": "Con hora de respaldo", "b": "\"Si a las 6 no estamos juntos, todos al punto.\" Funciona hasta con los celulares muertos." },
-        { "role": "value", "n": "5", "h": "También para adultos", "b": "Conciertos, estadios, procesiones: los adultos también se pierden. Las familias que lo usan, lo usan SIEMPRE." },
-        { "role": "cta", "h": "Siete palabras en tu próxima salida.", "b": "Guarda esta guía para recordarlo en la puerta. Y compártela con tu grupo familiar." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "Antes de entrar, elijan un punto de encuentro.", "b": "Siete palabras que reúnen a tu familia." },
+        { "role": "rehook", "h": "\"Si nos separamos, nos vemos en la entrada.\"", "b": "Decir esa frase al entrar es todo el sistema. Así se hace bien:" },
+        { "role": "value", "n": "1", "h": "Se dice al entrar, no después", "b": "Cruzando la puerta, cuando todos escuchan. En el susto ya nadie coordina nada." },
+        { "role": "value", "n": "2", "h": "Uno solo y que se vea de lejos", "b": "La entrada principal o el letrero gigante. Nunca dos opciones: dividen a la familia en dos esperas." },
+        { "role": "value", "n": "3", "h": "Con hora de respaldo", "b": "\"Si a las 6 no estamos juntos, todos al punto.\" Funciona hasta con los celulares muertos." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Dilo en tu próxima salida.", "b": "Y refuerza el plan con la pulsera de comehometag.com." }
       ],
       "caption": {
-        "ig": "El punto de encuentro familiar: cómo elegirlo bien en 30 segundos y por qué casi nadie lo usa. Las reglas: se dice al ENTRAR, debe verse desde lejos, es UNO solo (nunca dos) y lleva hora de respaldo — funciona hasta con celulares muertos. La herramienta de seguridad más antigua sigue siendo la que más familias reúne. #seguridadfamiliar #padres #familia #peru",
-        "tt": "Las 7 palabras que usan las familias que nunca se pierden 💜 #padres #familia #seguridad",
-        "fb": "\"Nos vemos en la entrada principal\" — 7 palabras al entrar a cualquier lugar lleno de gente. ¿Tu familia tiene punto de encuentro? Cuéntanos cuál es el suyo — y si nunca lo han acordado, este post es la señal."
+        "ig": "El punto de encuentro familiar: la frase de 7 palabras que se dice AL ENTRAR a cualquier lugar lleno de gente. Las reglas: uno solo, que se vea de lejos y con hora de respaldo. Y si alguien no llega al punto, la pulsera QR de ComeHomeTag deja que cualquiera llame a la familia al instante. #seguridadfamiliar #padres #familia #peru",
+        "tt": "Las 7 palabras que usan las familias que nunca se pierden 💜 y la pulsera ComeHomeTag de respaldo. #padres #familia #seguridad",
+        "fb": "\"Nos vemos en la entrada principal\" — 7 palabras al entrar a cualquier lugar lleno de gente. ¿Tu familia tiene punto de encuentro? Y para el día que alguien no llegue: la pulsera con QR de ComeHomeTag, para que quien lo encuentre los llame al instante. comehometag.com"
       },
-      "alt": "Guía del punto de encuentro familiar: cuándo acordarlo, cómo elegirlo y la regla de la hora de respaldo."
+      "alt": "Reglas del punto de encuentro familiar y la pulsera ComeHomeTag como respaldo si alguien no llega."
     },
     {
       "slug": "hablar-con-seguridad",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "No es lo que crees.", "b": "Lo primero que se le pide a seguridad" },
-        { "role": "rehook", "h": "30 segundos de información correcta valen más que 10 minutos de desesperación.", "b": "Esto es lo que un vigilante necesita oír, en orden." },
-        { "role": "value", "n": "1", "h": "\"Se perdió un niño\" — esa frase primero", "b": "Activa protocolos al instante. La historia de cómo pasó viene después, si la piden." },
-        { "role": "value", "n": "2", "h": "Edad + ropa + dónde lo viste", "b": "\"5 años, polo rojo, zona de juegos hace 10 minutos.\" Tres datos movilizan todos los puestos del lugar." },
-        { "role": "value", "n": "3", "h": "Muestra la foto del día", "b": "La foto de esta mañana vale más que mil descripciones. Por eso el protocolo empieza en casa." },
-        { "role": "value", "n": "4", "h": "Pide que cubran las SALIDAS", "b": "Es lo primero que hace un protocolo profesional. Si no lo mencionan ellos, pídelo tú. Con esas palabras." },
-        { "role": "value", "n": "5", "h": "Deja tu número y quédate ubicable", "b": "Di exactamente dónde vas a estar. El que busca también tiene que poder ser encontrado." },
-        { "role": "cta", "h": "En el momento nadie improvisa bien.", "b": "Tener las frases listas es tenerlo medio resuelto. Guárdalas." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "¿Se perdió tu hijo? Dile esto a seguridad.", "b": "Las frases exactas, en orden." },
+        { "role": "rehook", "h": "Un vigilante necesita datos, no la historia completa.", "b": "Estas son las frases que activan todo, en orden." },
+        { "role": "value", "n": "1", "h": "\"Se perdió un niño: 5 años, polo rojo, zona de juegos\"", "b": "Edad, ropa y último lugar. Esos tres datos mueven a todo el personal al instante." },
+        { "role": "value", "n": "2", "h": "Muestra la foto de hoy", "b": "Una foto reciente vale más que mil descripciones. Por eso se toma antes de salir de casa." },
+        { "role": "value", "n": "3", "h": "Pide que cubran las salidas", "b": "Es lo primero que hace un protocolo profesional. Si ellos no lo dicen, pídelo tú. Y quédate donde te puedan encontrar." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Guarda estas frases.", "b": "Nadie improvisa bien en el momento. La pulsera con tu número: comehometag.com." }
       ],
       "caption": {
-        "ig": "Qué decirle exactamente al personal de seguridad si se pierde tu hijo — y el pedido que casi nadie conoce: que cubran las SALIDAS (es lo primero que hace un protocolo profesional). \"Se perdió un niño\" + edad + ropa + último punto: cuatro frases que activan todo. Guárdalo, porque en el momento nadie improvisa bien. #seguridadinfantil #padres #protocolo #peru",
-        "tt": "Lo que hay que decirle a seguridad si se pierde un niño (en orden) 💜 #seguridadinfantil #padres #protocolo",
-        "fb": "Dato que sorprende: si se pierde un niño, lo primero que hay que pedirle a seguridad es que cubran las SALIDAS — y casi nadie lo sabe. Las palabras exactas, en orden, en esta guía. ¿La conocías?"
+        "ig": "Qué decirle exactamente a seguridad si se pierde tu hijo: \"se perdió un niño\" + edad + ropa + último lugar, mostrar la foto de hoy y pedir que cubran las SALIDAS. Y para que cualquier persona pueda llamarte antes de que llegues a seguridad: la pulsera QR de ComeHomeTag. Guárdalo, porque en el momento nadie improvisa bien. #seguridadinfantil #padres #protocolo #peru",
+        "tt": "Lo que hay que decirle a seguridad si se pierde un niño (en orden) 💜 y su pulsera ComeHomeTag puesta. #seguridadinfantil #padres #protocolo",
+        "fb": "Si se pierde un niño, lo primero que hay que pedirle a seguridad es que cubran las SALIDAS — casi nadie lo sabe. Las frases exactas están en esta guía. Y la pulsera con QR de ComeHomeTag hace que quien lo encuentre te llame al instante. comehometag.com"
       },
-      "alt": "Guía de comunicación con seguridad cuando se pierde un niño: frases exactas y el pedido de cubrir salidas."
+      "alt": "Frases exactas para el personal de seguridad cuando se pierde un niño y la pulsera ComeHomeTag."
     },
     {
       "slug": "foto-del-dia",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "¿De qué color va vestido HOY?", "b": "Si dudaste, este hábito es para ti" },
-        { "role": "rehook", "h": "Bajo pánico, nadie recuerda colores.", "b": "La foto recuerda por ti. Siempre." },
-        { "role": "value", "n": "1", "h": "Una foto al salir de casa", "b": "Cuerpo entero, ropa de hoy. Cinco segundos en la puerta. Ese es TODO el hábito." },
-        { "role": "value", "n": "2", "h": "El estrés borra los detalles", "b": "La mente en pánico no recuerda ni marcas ni colores. Es neurología, no descuido." },
-        { "role": "value", "n": "3", "h": "Es lo primero que pide seguridad", "b": "\"¿Tiene una foto reciente?\" Con la foto del día, la búsqueda empieza en segundos, no en explicaciones." },
-        { "role": "value", "n": "4", "h": "Se comparte al instante", "b": "Un mensaje al grupo familiar con la imagen exacta vale más que cualquier descripción hablada." },
-        { "role": "value", "n": "5", "h": "Llaves, billetera, foto", "b": "Como el cinturón de seguridad: raro la primera semana, automático después. Y el día que importa, importa TODO." },
-        { "role": "cta", "h": "Tu próxima salida: foto en la puerta.", "b": "Comparte el hábito con otro papá o mamá. Cinco segundos que valen oro." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "Fotografía a tu hijo antes de cada salida.", "b": "5 segundos que pueden salvar el día." },
+        { "role": "rehook", "h": "Con miedo, nadie recuerda de qué color iba vestido.", "b": "La foto recuerda por ti. Así funciona el hábito." },
+        { "role": "value", "n": "1", "h": "Una foto al salir de casa", "b": "Cuerpo entero, con la ropa de hoy. Cinco segundos en la puerta. Eso es todo el hábito." },
+        { "role": "value", "n": "2", "h": "Es lo primero que pide seguridad", "b": "Con la foto del día, la búsqueda empieza en segundos. Y la mandas al grupo familiar al instante." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
+        { "role": "cta", "h": "Tu próxima salida: foto en la puerta.", "b": "Y su pulsera puesta: comehometag.com. Cinco segundos que valen oro." }
       ],
       "caption": {
-        "ig": "El hábito de 5 segundos que recomiendan los expertos en seguridad infantil: la foto del día antes de salir de casa. Bajo estrés nadie recuerda colores ni ropa (es neurología, no descuido) — la foto recuerda por ti y es lo primero que pide seguridad. Llaves, billetera, foto. #seguridadinfantil #habitos #padres #peru",
-        "tt": "El hábito de 5 segundos antes de salir con niños 📸💜 #padres #habitos #seguridadinfantil",
-        "fb": "Pregunta honesta: sin mirar, ¿de qué color es la ropa que lleva tu hijo AHORA MISMO? Ese instante de duda es exactamente el problema que resuelve la foto del día. 5 segundos en la puerta. ¿Lo harías rutina?"
+        "ig": "El hábito de la foto del día: antes de salir, tómale una foto a tu hijo con la ropa de hoy — bajo estrés nadie recuerda colores, y es lo primero que pide seguridad. La otra mitad del hábito es su pulsera QR de ComeHomeTag puesta: quien lo encuentre escanea y te llama al instante. Llaves, billetera, foto, pulsera. #seguridadinfantil #habitos #padres #peru",
+        "tt": "El hábito de 5 segundos antes de salir con niños 📸💜 foto del día + pulsera ComeHomeTag. #padres #habitos #seguridadinfantil",
+        "fb": "Pregunta honesta: sin mirar, ¿de qué color es la ropa que lleva tu hijo AHORA MISMO? Ese instante de duda lo resuelve la foto del día — 5 segundos en la puerta. Y la pulsera con QR de ComeHomeTag resuelve el resto: quien lo encuentre te llama al instante. comehometag.com"
       },
-      "alt": "El hábito de la foto del día: fotografiar al niño con la ropa del día antes de cada salida."
+      "alt": "El hábito de la foto del día antes de cada salida y la pulsera con QR de ComeHomeTag."
     },
     {
       "slug": "viaje-con-abuelos",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "Los abuelos también se pierden.", "b": "El plan de viaje que casi nadie arma" },
-        { "role": "rehook", "h": "Viajar con un adulto mayor es un regalo.", "b": "Con plan, es SOLO un regalo. Sin plan, a veces es un susto." },
-        { "role": "value", "n": "1", "h": "Identificación PUESTA, no guardada", "b": "Pulsera o tag, no la billetera: la billetera se queda en el hotel justo el día que importa." },
-        { "role": "value", "n": "2", "h": "Sus medicinas, en su bolsillo", "b": "Qué toma, a qué hora, alergias. Si alguien lo asiste, esa lista responde por él." },
-        { "role": "value", "n": "3", "h": "La foto del día, también para ellos", "b": "El mismo hábito que con los niños: cinco segundos en la puerta del hotel, cada mañana." },
-        { "role": "value", "n": "4", "h": "Punto de encuentro con sombra y banca", "b": "\"La banca frente a la entrada\", no \"la entrada\". Que esperar no sea un castigo." },
-        { "role": "value", "n": "5", "h": "Un acompañante por tramo, con nombre", "b": "\"En el aeropuerto, la abuela va con Carla.\" Cuando todos son responsables, nadie lo es." },
-        { "role": "cta", "h": "Guárdalo para el próximo viaje.", "b": "Y mándalo al grupo del viaje: el plan solo funciona si todos lo conocen." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "¿Viajas con tus papás mayores? Prepara esto.", "b": "El plan para que nadie se pierda." },
+        { "role": "rehook", "h": "En un viaje, un abuelo también puede perderse.", "b": "Tres costumbres antes de salir lo evitan." },
+        { "role": "value", "n": "1", "h": "Identificación puesta, no guardada", "b": "En la muñeca, no en la billetera. La billetera se queda en el hotel justo el día que importa." },
+        { "role": "value", "n": "2", "h": "Un acompañante por tramo, con nombre", "b": "\"En el aeropuerto, la abuela va con Carla.\" Cuando todos cuidan, nadie cuida." },
+        { "role": "value", "n": "3", "h": "La foto del día, también para ellos", "b": "Cinco segundos en la puerta del hotel, cada mañana. Si algo pasa, tienes la descripción exacta." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Guárdalo para el próximo viaje.", "b": "Y lleva su pulsera puesta: comehometag.com." }
       ],
       "caption": {
-        "ig": "Checklist para viajar con adultos mayores: 5 cosas antes de salir que casi ninguna familia prepara. La regla que más conflictos evita: un acompañante asignado POR TRAMO, con nombre (\"en el aeropuerto, la abuela va con Carla\") — cuando todos son responsables, nadie lo es. #adultomayor #viajeenfamilia #abuelos #peru",
-        "tt": "Si viajas con tus abuelitos, esta lista es para ti 💜✈️ #abuelos #viajes #familia",
-        "fb": "¿Viajas con tus papás o abuelos estas vacaciones? El punto 5 es el que más discusiones familiares evita: acompañante por tramo, CON NOMBRE. \"Cuando todos son responsables, nadie lo es.\" ¿Qué agregarían a la lista?"
+        "ig": "Viajar con adultos mayores: las 3 costumbres para que nadie se pierda — identificación PUESTA (no en la billetera), un acompañante por tramo con nombre y la foto del día también para ellos. La pulsera QR de ComeHomeTag va en la muñeca: quien lo encuentre escanea y llama a la familia al instante. #adultomayor #viajeenfamilia #abuelos #peru",
+        "tt": "Si viajas con tus abuelitos, esta lista es para ti 💜✈️ con su pulsera ComeHomeTag puesta. #abuelos #viajes #familia",
+        "fb": "¿Viajas con tus papás o abuelos estas vacaciones? La regla que más sustos evita: identificación PUESTA, no en la billetera — la billetera se queda en el hotel justo el día que importa. La pulsera con QR de ComeHomeTag va en la muñeca y no necesita batería. comehometag.com"
       },
-      "alt": "Checklist de viaje con adultos mayores: identificación puesta, medicinas, foto del día, punto de encuentro y acompañante por tramo."
+      "alt": "Plan de viaje con adultos mayores: pulsera ComeHomeTag puesta, acompañante por tramo y foto del día."
     },
     {
       "slug": "nino-perdido-encontrado",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "Encontraste a un niño perdido.", "b": "NO lo lleves a buscar a su mamá" },
-        { "role": "rehook", "h": "Algún día puede tocarte ser el adulto seguro.", "b": "Esto es lo que un niño perdido necesita de ti — y no es lo que crees." },
-        { "role": "value", "n": "1", "h": "Bájate a su altura, a un metro", "b": "De cuclillas, sin tocarlo. Un extraño que agarra asusta más que estar perdido." },
-        { "role": "value", "n": "2", "h": "Preséntate simple", "b": "\"Hola, soy Ana. ¿Estás buscando a tu mamá?\" Nombre + una pregunta. Nada más por ahora." },
-        { "role": "value", "n": "3", "h": "QUÉDENSE donde están", "b": "Su familia está volviendo sobre sus pasos AHORA. Si ustedes también caminan, se cruzan sin verse. Quietos gana." },
-        { "role": "value", "n": "4", "h": "Busca identificación visible", "b": "Pulsera, tag, etiqueta en la mochila. Cada vez más niños llevan un contacto directo a su familia. Escanea y llama." },
-        { "role": "value", "n": "5", "h": "Llama a seguridad, no te lo lleves", "b": "Avisa al personal DESDE donde están. Un adulto alejándose con un niño ajeno crea el segundo problema del día." },
-        { "role": "cta", "h": "Comparte esta guía.", "b": "Mientras más adultos la conozcan, más rápido vuelve a casa cada niño perdido." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "¿Encontraste a un niño perdido? No lo muevas.", "b": "Esto es lo que sí lo ayuda." },
+        { "role": "rehook", "h": "Algún día puede tocarte a ti encontrar a un niño.", "b": "Esto es lo que él necesita de ti." },
+        { "role": "value", "n": "1", "h": "Agáchate y preséntate simple", "b": "A un metro, sin tocarlo: \"Hola, soy Ana. ¿Buscas a tu mamá?\". Un extraño que agarra asusta más." },
+        { "role": "value", "n": "2", "h": "Quédense donde están", "b": "Su familia está regresando sobre sus pasos. Si ustedes también caminan, se cruzan sin verse." },
+        { "role": "value", "n": "3", "h": "Busca una pulsera y avisa a seguridad", "b": "Cada vez más niños llevan un QR con el número de su familia. Escanea, llama y avisa al personal desde ahí." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR que muchos niños ya llevan. La escaneas con tu celular y llamas a su familia al instante. Sin apps ni registros." },
+        { "role": "cta", "h": "Comparte esta guía.", "b": "Y si tienes hijos, su pulsera está en comehometag.com." }
       ],
       "caption": {
-        "ig": "Si encuentras a un niño perdido, NO lo lleves a caminar buscando a su mamá — su familia está volviendo sobre sus pasos y si ustedes también caminan, se cruzan sin verse. La guía del \"adulto seguro\": altura, un metro, presentación simple, quedarse, buscar identificación y llamar a seguridad desde ahí. #seguridadinfantil #comunidad #peru #protocolo",
-        "tt": "Si encuentras a un niño perdido, esto es lo que se hace (y lo que NO) 💜 #seguridadinfantil #comunidad #protocolo",
-        "fb": "El otro lado del que nadie habla: ¿qué haces si TÚ encuentras a un niño perdido? La regla que sorprende a todos: NO lo lleves a buscar a su mamá — quédense donde están, porque su familia está volviendo sobre sus pasos. Comparte para que más adultos lo sepan."
+        "ig": "Si encuentras a un niño perdido, NO camines con él buscando a su mamá: su familia está regresando sobre sus pasos. Agáchate, preséntate, quédense ahí y busca su pulsera — si lleva una ComeHomeTag, escaneas el QR con tu celular y llamas a su familia al instante. Comparte para que más adultos lo sepan. #seguridadinfantil #comunidad #peru #protocolo",
+        "tt": "Si encuentras a un niño perdido, esto es lo que se hace 💜 busca su pulsera ComeHomeTag y llama. #seguridadinfantil #comunidad #protocolo",
+        "fb": "El otro lado del que nadie habla: ¿qué haces si TÚ encuentras a un niño perdido? No lo lleves a buscar a su mamá — quédense donde están y busca su pulsera. Si lleva una ComeHomeTag, escaneas el QR y llamas a su familia al instante. Comparte esta guía. comehometag.com"
       },
-      "alt": "Guía para adultos que encuentran a un niño perdido: acercarse sin asustar, quedarse en el lugar y avisar a seguridad."
+      "alt": "Guía para quien encuentra a un niño perdido: quedarse en el lugar, buscar su pulsera ComeHomeTag y llamar."
     },
     {
       "slug": "plan-familiar",
       "slides": [
-        { "role": "cover", "kicker": "PROTOCOLO", "h": "¿Ensayan sismos? ¿Y perderse?", "b": "El simulacro que ninguna familia hace" },
-        { "role": "rehook", "h": "El simulacro que ninguna familia hace", "b": "es el del escenario más probable de todos." },
-        { "role": "value", "n": "1", "h": "Domingo, 15 minutos, en la mesa", "b": "No es una charla de miedo: es un plan de equipo. Los niños participan y opinan — y por eso lo recuerdan." },
-        { "role": "value", "n": "2", "h": "El punto de encuentro fijo", "b": "Uno para el barrio, uno para los lugares que más visitan. Cada uno lo repite en voz alta. Sí, en voz alta." },
-        { "role": "value", "n": "3", "h": "Roles con nombre propio", "b": "Quién llama a seguridad, quién espera en el punto, quién avisa al resto. \"Alguien\" no es un rol." },
-        { "role": "value", "n": "4", "h": "Revisión de identificaciones", "b": "¿Niños y abuelos llevan contacto encima? ¿El número escrito es el actual? Se revisa HOY, no \"después\"." },
-        { "role": "value", "n": "5", "h": "Fecha para repetirlo", "b": "Cada 3 meses, en el calendario, ahora mismo. Los planes sin repaso se olvidan en semanas." },
-        { "role": "cta", "h": "Este domingo. 15 minutos.", "b": "Guarda esta guía como agenda de la reunión. Tu familia te lo va a agradecer." }
+        { "role": "cover", "kicker": "PROTOCOLO", "h": "El plan familiar por si alguien se pierde.", "b": "Se arma en 15 minutos, un domingo." },
+        { "role": "rehook", "h": "Ensayamos sismos toda la vida.", "b": "Pero nunca ensayamos qué hacer si alguien se pierde. Se arregla en una tarde." },
+        { "role": "value", "n": "1", "h": "Elijan el punto de encuentro", "b": "Uno para el barrio y uno para los lugares que más visitan. Cada uno lo repite en voz alta." },
+        { "role": "value", "n": "2", "h": "Repartan tareas con nombre", "b": "Quién llama a seguridad, quién espera en el punto, quién avisa al resto. \"Alguien\" no es un nombre." },
+        { "role": "value", "n": "3", "h": "Revisen las identificaciones", "b": "¿Niños y abuelos llevan tu número encima? ¿Es el número actual? Se revisa hoy, no \"después\"." },
+        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
+        { "role": "cta", "h": "Este domingo, 15 minutos.", "b": "Guarda esta guía y pide las pulseras en comehometag.com." }
       ],
       "caption": {
-        "ig": "Hacemos simulacros de sismo en el colegio y el trabajo todos los años — pero nunca ensayamos el escenario MÁS probable: separarnos en un lugar público. El plan familiar de 15 minutos: punto de encuentro fijo, roles con nombre propio (\"alguien\" no es un rol), identificaciones revisadas y fecha de repaso. #familia #prevencion #seguridadfamiliar #peru",
-        "tt": "La conversación de 15 minutos que tu familia nunca ha tenido 💜 #familia #prevencion #plan",
-        "fb": "Dato incómodo: tu familia ha ensayado sismos toda la vida… y jamás ha ensayado qué hacer si se separan en un lugar lleno de gente — que es el escenario más probable de todos. 15 minutos este domingo lo resuelven. ¿Se animan?"
+        "ig": "El plan familiar por si alguien se pierde — el ensayo que ninguna familia hace — se arma en 15 minutos: punto de encuentro, tareas con nombre y las identificaciones revisadas. Las pulseras QR de ComeHomeTag cubren la última parte: quien encuentre a un niño o abuelo escanea y llama a la familia al instante. #familia #prevencion #seguridadfamiliar #peru",
+        "tt": "La conversación de 15 minutos que tu familia nunca ha tenido 💜 y las pulseras ComeHomeTag para cerrarla. #familia #prevencion #plan",
+        "fb": "Tu familia ha ensayado sismos toda la vida… y jamás qué hacer si alguien se pierde en un lugar lleno de gente. 15 minutos este domingo: punto de encuentro, tareas con nombre e identificaciones puestas. Las pulseras con QR de ComeHomeTag están en comehometag.com. ¿Se animan?"
       },
-      "alt": "Agenda de reunión familiar de 15 minutos: punto de encuentro, roles con nombre, identificaciones y fecha de repaso."
+      "alt": "Plan familiar de 15 minutos: punto de encuentro, tareas con nombre y pulseras ComeHomeTag revisadas."
     }
   ]
 }

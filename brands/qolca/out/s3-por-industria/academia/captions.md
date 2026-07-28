@@ -1,6 +1,6 @@
-# 60% de consultas sin responder
+# En campaña no respondes al 60% de interesados.
 
-`qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 En tu última campaña de matrícula, el 60% de consultas quedó sin responder a tiempo — y cada una era un alumno potencial.
 
-Los 5 procesos: informes (90% idénticos), el seguimiento del "todavía", la matrícula de 4 pasos que puede ser uno, recordatorios y los certificados de 3 días y dos ventanillas. La próxima campaña puede atender el 100%.
+Qolca automatiza la campaña completa: informes al instante 24/7 (el 90% son idénticos), matrícula en un paso desde el celular, seguimiento del "todavía" y recordatorios de clase y cuotas. La próxima puede atender el 100%. qolca.org
 
 #educacion #academias #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Cinco procesos manuales de academias: informes, seguimiento, matrícula, recorda
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Directores de academias e institutos: en la última campaña, ¿cuántas consultas quedaron sin responder ese mismo día? El promedio es 60% — y cada una era un alumno potencial. La próxima campaña puede atenderlas TODAS, a cualquier hora. ¿Cuándo es la suya?
+Directores de academias e institutos: en la última campaña, ¿cuántas consultas quedaron sin responder ese mismo día? El promedio es 60% — y cada una era un alumno potencial. El sistema que construye Qolca puede atenderlas TODAS, a cualquier hora, sin contratar a nadie más. ¿Cuándo es la suya? qolca.org
 ```
 
 ## 💼 LinkedIn

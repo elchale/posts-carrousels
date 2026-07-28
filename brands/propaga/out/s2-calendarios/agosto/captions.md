@@ -1,6 +1,6 @@
-# Agosto NO es mes muerto.
+# Qué publicar en agosto para vender más
 
-`propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s2-calendarios` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Agosto NO es un mes muerto para tu negocio 🗓️
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Agosto NO es un mes muerto: Día del Niño (la compra se decide la semana previa — publica desde 10 días antes, y no es solo jugueterías), Santa Rosa (los feriados son los días de MÁS scroll) y el "segundo aire" de metas del año.
+Qué publicar en agosto para vender más: Día del Niño (la compra se decide la semana previa — y no es solo jugueterías), Santa Rosa (el día de más celular del mes) y la vuelta a la rutina.
 
-Plan mínimo: 12 posts en 2 sesiones.
+Plan mínimo: 12 posts en 2 sesiones, programados gratis con Propaga (propaga.pe).
 
 #calendariodecontenido #agosto #peru #negocios
 ```
@@ -31,5 +31,5 @@ Calendario de agosto para negocios peruanos: rutina, Día del Niño, Santa Rosa 
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Agosto parece mes muerto y tiene tres olas de venta: el Día del Niño (TODO regalo aplica, no solo juguetes — y la compra se decide la semana previa), el feriado de Santa Rosa (máximo scroll del mes) y el "segundo aire" de metas. ¿Qué vende tu negocio en agosto? Piénsalo dos veces antes de decir "nada".
+Agosto parece mes muerto y tiene tres olas de venta: el Día del Niño (TODO regalo aplica, no solo juguetes — y la compra se decide la semana previa), el feriado de Santa Rosa y la vuelta a la rutina. Con Propaga (propaga.pe) dejas el mes programado gratis. ¿Qué vende tu negocio en agosto? Piénsalo dos veces antes de decir "nada".
 ```

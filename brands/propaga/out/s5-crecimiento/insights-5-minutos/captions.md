@@ -1,6 +1,6 @@
-# Más de 5 minutos es procrastinar.
+# Revisa tus estadísticas en 5 minutos
 
-`propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`propaga` · `s5-crecimiento` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ Tus estadísticas en 5 minutos: la rutina completa ⏱️
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Cómo leer tus estadísticas de Instagram en 5 minutos (rutina mensual): min 1-2 top de envíos y guardados → tu patrón; min 3 ¿alcance de no-seguidores?
+Revisa tus estadísticas de Instagram en 5 minutos, una vez al mes: ¿qué se compartió y guardó más?
 
-→ tu contenido enviable; min 4 visitas→clics → tu bio; min 5 las DOS decisiones (qué repito, qué dejo de hacer). El análisis vale por las decisiones que produce — lo demás es turismo estadístico.
+¿llegué a gente nueva? ¿las visitas hicieron clic? — y dos decisiones: qué repito y qué dejo de hacer. El análisis vale por las decisiones que produce. Conviértelas en plan gratis con Propaga (propaga.pe).
 
 #estadisticas #analitica #instagram #cm #peru
 ```
@@ -24,12 +24,12 @@ Cómo leer tus estadísticas de Instagram en 5 minutos (rutina mensual): min 1-2
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Rutina mensual de cinco minutos para leer estadísticas: cuatro preguntas clave y dos decisiones accionables.
+Rutina mensual de cinco minutos para leer estadísticas: preguntas clave y dos decisiones accionables.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Regla de oro de la analítica para negocios chicos: el análisis vale por las DECISIONES que produce. La rutina mensual de 5 minutos: top de envíos/guardados (tu patrón), alcance de no-seguidores (tu contenido enviable), visitas→clics (tu bio) y dos decisiones anotadas: qué repetir, qué dejar de hacer. ¿Cuánto tiempo pasan ustedes en las estadísticas?
+Regla de oro de la analítica para negocios chicos: el análisis vale por las DECISIONES que produce. La rutina mensual de 5 minutos: top de compartidos y guardados (tu patrón), alcance de no-seguidores, visitas→clics (tu bio) y dos decisiones anotadas: qué repetir, qué dejar de hacer. El plan se arma gratis con Propaga (propaga.pe). ¿Cuánto tiempo pasan ustedes en las estadísticas?
 ```

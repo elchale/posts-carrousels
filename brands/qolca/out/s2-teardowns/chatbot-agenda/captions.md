@@ -1,6 +1,6 @@
-# "¿Martes?" "No." "¿Jueves?" "Mejor viernes..."
+# Agendar una reunión te cuesta 8 mensajes.
 
-`qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s2-teardowns` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ El ping-pong de horarios: 8 mensajes para UNA reunión 😩
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Así se hizo: la muerte del ping-pong de horarios ("¿martes?
+Agendar una reunión cuesta 8 mensajes de "¿martes?
 
-no, ¿jueves? ¿tarde? mejor viernes..."). El asistente lee la agenda REAL del equipo y propone 3 huecos verdaderos en el primer mensaje. De 8 mensajes a 2, de 2 días a 10 minutos entre "conversemos" y reunión agendada. El tiempo también es un embudo.
+no, ¿jueves? mejor viernes..." — Qolca construyó el asistente que lee la agenda REAL del equipo y propone 3 horarios verdaderos en el primer mensaje. De 8 mensajes a 2, de 2 días a 10 minutos entre "conversemos" y reunión agendada. qolca.org
 
 #productividad #agenda #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Asistente de agendamiento: lectura de calendarios reales, tres opciones en el pr
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Cuenten los mensajes de su última coordinación de reunión: ¿cuántos fueron "¿puedes el martes?" — "mejor jueves"? El promedio es 8. Este asistente lo baja a 2, proponiendo huecos REALES de la agenda desde el primer mensaje. El tiempo entre "conversemos" y la reunión también es un embudo de ventas.
+Cuenten los mensajes de su última coordinación de reunión: ¿cuántos fueron "¿puedes el martes?" — "mejor jueves"? El promedio es 8. El asistente que construye Qolca lo baja a 2, proponiendo horarios REALES de la agenda desde el primer mensaje. El tiempo entre "conversemos" y la reunión también es un embudo de ventas. qolca.org
 ```
 
 ## 💼 LinkedIn

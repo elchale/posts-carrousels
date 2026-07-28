@@ -1,6 +1,6 @@
-# ¿Qué pasa en el mes 8?
+# Te cotizaron el sistema. Falta el 40%.
 
-`qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+`qolca` · `s4-costos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ La trampa del proyecto huérfano: barato hasta el mes 8 ⚠️
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Lo que te cotizan es el 60% del costo real de una automatización — el resto llega después: operación ($70-280/mes en APIs y servidores) y mantenimiento cuando Meta cambia su API (2-3 veces al año).
+Lo que te cotizan es el 60% del costo real de una automatización — el resto llega después: $70-280/mes de operación y el mantenimiento cuando WhatsApp cambia sus reglas (2-3 veces al año).
 
-La pregunta detectora para cualquier proveedor: "¿qué pasa en el mes 8?". Regla de presupuesto: costo año 1 = construcción × 1.4.
+En Qolca lo ponemos todo sobre la mesa desde el día 1. Regla de presupuesto: costo año 1 = construcción × 1.4. qolca.org
 
 #automatizacion #costos #transparencia #peru
 ```
@@ -31,7 +31,7 @@ Costos de mantenimiento de automatizaciones: operación, cambios de API, proyect
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Pregunta que desnuda a cualquier proveedor de automatización: "¿qué pasa en el mes 8, cuando Meta cambie su API?". Si no hay respuesta clara, estás comprando un problema con fecha de entrega. Regla honesta: costo real año 1 = construcción × 1.4. ¿Les ha tocado un proyecto huérfano?
+Pregunta que desnuda a cualquier proveedor de automatización: "¿qué pasa en el mes 8, cuando WhatsApp cambie sus reglas?". Si no hay respuesta clara, estás comprando un problema con fecha de entrega. En Qolca cotizamos el costo completo desde el inicio: año 1 = construcción × 1.4. ¿Les ha tocado un proyecto huérfano? qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -1,6 +1,6 @@
-# Tu bio tiene 3 segundos.
+# Cómo escribir la bio de tu negocio
 
-`propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s1-swipe-files` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,11 +14,11 @@ Tu bio tiene 3 segundos para convertir. 10 fórmulas 📝
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu bio es la página de venta más corta del mundo y tiene 3 segundos: el 60% de los que visitan tu perfil no vuelve — la bio decide si te siguen AHORA o nunca.
+Cómo escribir la bio de tu negocio en 4 líneas: qué vendes y para quién, tu prueba, tu toque personal y qué hacer + link.
 
-La anatomía de 4 líneas + 10 fórmulas por tipo de negocio. El error: la bio-poema ("soñadora ✨ amante del café") que no dice QUÉ vendes.
+10 fórmulas listas para copiar según tu tipo de negocio. Y con el perfil listo, programa tu contenido gratis con Propaga (propaga.pe).
 
-#1 #bio #instagram #marketingdigital #peru
+#bio #instagram #marketingdigital #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
@@ -31,5 +31,5 @@ Anatomía de bio de cuatro líneas y diez fórmulas por tipo de cuenta.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El 60% de quienes visitan tu perfil no vuelve nunca — tu bio decide si te siguen AHORA o jamás. La anatomía ganadora: qué eres y para quién / la prueba / personalidad / pedido con link. Y por favor: "soñadora ✨ amante del café" no le dice a nadie qué vendes 😅 ¿Tu bio pasa el examen?
+La mayoría de los que visitan tu perfil no vuelve nunca — tu bio decide si te siguen AHORA o jamás. La anatomía ganadora: qué vendes y para quién / la prueba / personalidad / pedido con link. Y por favor: "soñadora ✨ amante del café" no le dice a nadie qué vendes 😅 Reescríbela hoy y programa tus posts gratis con Propaga (propaga.pe). ¿Tu bio pasa el examen?
 ```

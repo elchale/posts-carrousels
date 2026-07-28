@@ -5,192 +5,452 @@
     {
       "slug": "supermercado-40-segundos",
       "slides": [
-        { "role": "story", "plate": "cine-04-mama", "h": "40 segundos.", "b": "Los más largos de tu vida." },
-        { "role": "story", "plate": "cine-01-manos", "h": "Solo soltaste su mano para alcanzar el arroz.", "b": "Cuando bajaste el brazo, ya no estaba." },
-        { "role": "story", "plate": "cine-07-columpio", "h": "Gritas su nombre. El pasillo 7 no responde.", "b": "El corazón te late en los oídos." },
-        { "role": "story", "plate": "cine-06-procesion", "h": "Tres pasillos. Cuatro. La gente te mira.", "b": "Cada segundo, el supermercado se hace más grande." },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "Y entonces: \"¿Señora? Su hija está en caja 3.\"", "b": "Una cajera. Una pulserita. Una llamada." },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "La encontró mirando los chocolates. Tranquila.", "b": "Porque sabía que la ibas a encontrar: para eso era su pulsera." },
-        { "role": "rehook", "h": "40 segundos de susto. No 4 horas de pesadilla.", "b": "Esa es toda la diferencia entre tener un plan y no tenerlo." },
-        { "role": "cta", "h": "Que siempre sea un susto corto.", "b": "Si viviste uno parecido, cuéntalo en comentarios. Alguien necesita leer que termina bien." }
+        {
+          "role": "story",
+          "plate": "cine-01-manos",
+          "h": "Soltaste su mano para alcanzar el arroz.",
+          "b": "Cuando bajaste el brazo, tu hija ya no estaba."
+        },
+        {
+          "role": "story",
+          "plate": "cine-04-mama",
+          "h": "Gritas su nombre. El pasillo no responde.",
+          "b": "Cada segundo, el supermercado se hace más grande."
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "Entonces suena tu celular.",
+          "b": "\"¿Señora? Su hija está en caja 3. Vi su pulsera, escaneé el código y salió su número.\""
+        },
+        {
+          "role": "story",
+          "plate": "cine-12-reencuentro",
+          "h": "La encontraste mirando los chocolates. Tranquila.",
+          "b": "Ella sabía que la ibas a encontrar: para eso era su pulsera."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad."
+        },
+        {
+          "role": "cta",
+          "h": "Que todo susto dure 40 segundos.",
+          "b": "Pide su pulsera en comehometag.com. Y guarda esta historia: termina bien."
+        }
       ],
       "caption": {
-        "ig": "40 segundos: eso duró perderla de vista en el supermercado — solo soltaste su mano para alcanzar el arroz. Esta historia termina en la caja 3, con una cajera, una pulserita y una llamada. Los finales felices se preparan ANTES. ¿Te tocó vivir un susto así? Cuéntalo: alguien necesita leer que termina bien. #historiasreales #seguridadinfantil #supermercado #peru",
-        "tt": "Los 40 segundos más largos de la vida de una mamá 💜 #historia #padres #supermercado",
-        "fb": "Todos los padres conocemos ESE segundo: bajas el brazo y ya no está. Esta historia dura 40 segundos y termina bien — en la caja 3, con una cajera que pudo llamar. ¿Cuál fue tu susto más largo? Cuéntalo en comentarios (y respira, que ya pasó)."
+        "ig": "40 segundos duró perderla de vista en el supermercado — y la historia termina en la caja 3 gracias a su pulsera ComeHomeTag: la cajera escaneó el código QR y llamó a la mamá al instante. Sin batería, sin app, sin mensualidad. Los finales felices se preparan antes: comehometag.com. ¿Te tocó vivir un susto así? Cuéntalo en comentarios. #historiasreales #seguridadinfantil #supermercado #peru",
+        "tt": "Los 40 segundos más largos de la vida de una mamá — y la pulsera ComeHomeTag que los acortó 💜 #historia #padres #supermercado",
+        "fb": "Todos los padres conocemos ESE segundo: bajas el brazo y ya no está. Esta historia dura 40 segundos y termina bien, porque la cajera escaneó la pulsera ComeHomeTag de la niña y llamó a su mamá al instante. ¿Cuál fue tu susto más largo? Cuéntalo en comentarios — y mira la pulsera en comehometag.com."
       },
-      "alt": "Historia de una niña perdida de vista 40 segundos en un supermercado y reunida gracias a su identificación."
+      "alt": "Historia de una niña perdida 40 segundos en un supermercado y reunida gracias a su pulsera ComeHomeTag."
     },
     {
       "slug": "playa-sombrilla",
       "slides": [
-        { "role": "story", "plate": "cine-02-zapatos", "h": "\"Voy a mojarme los pies.\"", "b": "La orilla estaba a veinte metros." },
-        { "role": "story", "plate": "cine-07-columpio", "h": "Las olas lo fueron corriendo de lado.", "b": "Veinte metros en diagonal. Luego cincuenta. Él ni lo notó: perseguía la espuma." },
-        { "role": "story", "plate": "cine-04-mama", "h": "Cuando levantó la vista, todas las sombrillas eran iguales.", "b": "Amarillas, azules, la misma playa repetida hasta el fondo." },
-        { "role": "story", "plate": "cine-03-abuelo", "h": "Un señor lo vio parado, muy quieto, buscando con los ojos.", "b": "\"¿Estás buscando a tu familia, campeón?\"" },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "El niño hizo lo que había ensayado: mostró su muñeca.", "b": "\"Mi mamá dice que aquí está su número.\"" },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "Tu teléfono sonó antes de que notaras su ausencia.", "b": "\"Señora, estoy con su hijo frente al puesto de raspadillas.\"" },
-        { "role": "rehook", "h": "El susto que no llegaste a sentir.", "b": "Ese es el mejor tipo de susto que existe." },
-        { "role": "cta", "h": "Verano tranquilo de verdad.", "b": "Ensaya el \"muestra tu muñeca\" antes de la próxima playa. Guarda la historia." }
+        {
+          "role": "story",
+          "plate": "cine-02-zapatos",
+          "h": "Tu hijo fue a mojarse los pies.",
+          "b": "Las olas lo fueron corriendo de lado. Él ni lo notó."
+        },
+        {
+          "role": "story",
+          "plate": "cine-04-mama",
+          "h": "Cuando levantó la vista, todas las sombrillas eran iguales.",
+          "b": "Estaba a cien metros de ti, sin saberlo."
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "Un señor lo ayudó. El niño mostró su muñeca, como había ensayado.",
+          "b": "\"Mi mamá dice que aquí está su número.\" El señor escaneó el código y llamó."
+        },
+        {
+          "role": "story",
+          "plate": "cine-12-reencuentro",
+          "h": "Tu teléfono sonó antes de que notaras su ausencia.",
+          "b": "\"Señora, estoy con su hijo frente al puesto de raspadillas.\""
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Aguanta agua y arena. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin mensualidad."
+        },
+        {
+          "role": "cta",
+          "h": "Verano tranquilo de verdad.",
+          "b": "Su pulsera está en comehometag.com. Guarda esta historia para la próxima playa."
+        }
       ],
       "caption": {
-        "ig": "\"Voy a mojarme los pies\" — y las olas lo fueron corriendo en diagonal sin que lo note. Esta historia de playa termina con un teléfono sonando ANTES de que la mamá notara su ausencia: \"señora, estoy con su hijo frente al puesto de raspadillas\". El susto que no llegaste a sentir es el mejor de todos. #playa #verano #historiasreales #peru",
-        "tt": "El susto de playa que la mamá nunca llegó a sentir 🌊💜 #playa #verano #historia",
-        "fb": "Dato + historia: en la playa los niños no se alejan hacia atrás — las olas los corren EN DIAGONAL y no lo notan. Este niño hizo lo que había ensayado: mostró su muñeca. Y el teléfono de su mamá sonó antes que su miedo. Así se ve un plan funcionando."
+        "ig": "En la playa las olas corren a los niños de lado sin que lo noten — y esta historia termina con un teléfono sonando ANTES del susto, gracias a la pulsera ComeHomeTag: el señor que lo ayudó escaneó el QR y llamó a la mamá al instante. Aguanta agua y arena, sin batería ni mensualidad: comehometag.com. #playa #verano #historiasreales #peru",
+        "tt": "El susto de playa que la mamá nunca llegó a sentir 🌊💜 gracias a la pulsera ComeHomeTag #playa #verano #historia",
+        "fb": "Dato + historia: en la playa los niños no se alejan hacia atrás — las olas los corren de lado y no lo notan. Este niño hizo lo ensayado: mostró su pulsera ComeHomeTag, el señor escaneó el QR y el teléfono de su mamá sonó antes que su miedo. Así se ve un plan funcionando. comehometag.com"
       },
-      "alt": "Historia de un niño desplazado por las olas y reunido mediante su pulsera con contacto."
+      "alt": "Historia de un niño desplazado por las olas y reunido gracias a su pulsera ComeHomeTag con código QR."
     },
     {
       "slug": "procesion-abuela",
       "slides": [
-        { "role": "story", "plate": "cine-06-procesion", "h": "60 años en su procesión.", "b": "Este año, la multitud la giró dos veces." },
-        { "role": "story", "plate": "cine-05-abuela", "h": "Cuando el anda avanzó, su familia avanzó con ella.", "b": "La abuela no. La abuela se quedó rezando." },
-        { "role": "story", "plate": "cine-09-ventana", "h": "Al voltear, los suyos eran mil desconocidos de morado.", "b": "Y las calles de siempre, de pronto, no eran las de siempre." },
-        { "role": "story", "plate": "cine-03-abuelo", "h": "Una señora la vio quieta entre la corriente de gente.", "b": "\"Mamita, ¿está con alguien?\" La abuela no supo responder." },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "Entonces vio la medallita en su muñeca.", "b": "No era una medallita. La escaneó — como escanea el menú y el Yape." },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "\"¿Aló? Tengo a su mamá. Estamos frente a la iglesia.\"", "b": "A media cuadra. A tres minutos. A un abrazo." },
-        { "role": "rehook", "h": "La fe de la abuela no cambió. Su seguridad, sí.", "b": "Este octubre puede ir tranquila. Y su familia también." },
-        { "role": "cta", "h": "Antes del próximo octubre.", "b": "Si tu abuela no se pierde una procesión, esta historia es tu recordatorio. Mándala al grupo." }
+        {
+          "role": "story",
+          "plate": "cine-06-procesion",
+          "h": "La abuela fue a su procesión de siempre.",
+          "b": "El anda avanzó. Su familia avanzó. Ella se quedó rezando."
+        },
+        {
+          "role": "story",
+          "plate": "cine-05-abuela",
+          "h": "Al voltear, los suyos eran mil desconocidos de morado.",
+          "b": "Y las calles de siempre, de pronto, no eran las de siempre."
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "Una señora la vio sola y notó su pulsera.",
+          "b": "La escaneó con su celular — como escanea el Yape — y llamó a la familia."
+        },
+        {
+          "role": "story",
+          "plate": "cine-12-reencuentro",
+          "h": "\"¿Aló? Tengo a su mamá. Estamos frente a la iglesia.\"",
+          "b": "A media cuadra. A tres minutos. A un abrazo."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu abuela. Quien la encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin app, sin mensualidad."
+        },
+        {
+          "role": "cta",
+          "h": "Antes del próximo octubre.",
+          "b": "Su pulsera está en comehometag.com. Manda esta historia al grupo familiar."
+        }
       ],
       "caption": {
-        "ig": "60 años yendo a ver al Señor de los Milagros. Este año la multitud la giró dos veces y su familia se volvió mil desconocidos vestidos de morado. La historia termina frente a la iglesia, a media cuadra, a un abrazo — porque una señora escaneó su \"medallita\" como escanea el Yape. #señordelosmilagros #abuelos #procesion #peru",
-        "tt": "La abuela y el Señor de los Milagros: la historia de octubre 💜 #procesion #abuelos #peru",
-        "fb": "Cada octubre, miles de abuelitas van a su procesión de toda la vida — y cada octubre, decenas se desorientan entre la multitud. Esta historia termina en tres minutos y un abrazo. Si tu abuela no se pierde una procesión, mándale esto a tu familia: la fe no cambia, la seguridad sí puede."
+        "ig": "60 años yendo a su procesión — y este año la multitud la giró dos veces. La historia termina frente a la iglesia, a un abrazo, porque una señora escaneó su pulsera ComeHomeTag como escanea el Yape y llamó a la familia al instante. Sin batería, sin mensualidad: comehometag.com. #señordelosmilagros #abuelos #procesion #peru",
+        "tt": "La abuela y el Señor de los Milagros: la historia de octubre 💜 su pulsera ComeHomeTag la trajo de vuelta #procesion #abuelos #peru",
+        "fb": "Cada octubre, miles de abuelitas van a su procesión de toda la vida — y decenas se desorientan entre la multitud. Esta historia termina en tres minutos y un abrazo, porque una señora escaneó su pulsera ComeHomeTag y llamó a la familia. La fe no cambia; la seguridad sí puede. comehometag.com"
       },
-      "alt": "Historia de una abuela desorientada en la procesión y reunida gracias a su identificación QR."
+      "alt": "Historia de una abuela desorientada en la procesión y reunida gracias a su pulsera ComeHomeTag con QR."
     },
     {
       "slug": "abuelo-pan",
       "slides": [
-        { "role": "story", "plate": "cine-03-abuelo", "h": "\"Ya vengo, voy por pan.\"", "b": "Lo mismo que dijo hace 40 años." },
-        { "role": "story", "plate": "cine-11-perro", "h": "La panadería de don Julio cerró en 2003.", "b": "Pero en su memoria sigue abierta, tres cuadras más allá de donde todo cambió." },
-        { "role": "story", "plate": "cine-09-ventana", "h": "A las cuatro cuadras, el barrio se volvió un lugar nuevo.", "b": "Nuevo y ajeno. Siguió caminando: el pan no se compra solo." },
-        { "role": "story", "plate": "cine-08-papa", "h": "El chico de la ferretería lo notó pasar dos veces.", "b": "\"¿Don Manuel? ¿A dónde va usted tan lejos?\" No supo decirle." },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "El chico vio la pulsera. La hija llegó en ocho minutos.", "b": "\"Papá, la panadería es por acá\" — y compraron pan juntos, en la nueva." },
-        { "role": "story", "plate": "cine-01-manos", "h": "Nadie le quitó su caminata. Le pusieron una red.", "b": "Sigue yendo por pan. Ahora el barrio entero lo acompaña sin que lo sepa." },
-        { "role": "rehook", "h": "Cuidar no es encerrar.", "b": "Es dejar que siga siendo él — con el mundo avisado." },
-        { "role": "cta", "h": "¿Tu abuelo también \"va por pan\"?", "b": "Arma su red esta semana: identificación + 5 vecinos. Guarda esta historia como recordatorio." }
+        {
+          "role": "story",
+          "plate": "cine-03-abuelo",
+          "h": "Don Manuel tiene Alzheimer. Salió solo, \"por pan\".",
+          "b": "Fue a la panadería de su memoria. Esa panadería cerró en 2003."
+        },
+        {
+          "role": "story",
+          "plate": "cine-09-ventana",
+          "h": "A las cuatro cuadras, el barrio se volvió un lugar nuevo.",
+          "b": "Nuevo y ajeno. Siguió caminando: el pan no se compra solo."
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "El chico de la ferretería lo notó perdido y vio su pulsera.",
+          "b": "Escaneó el código con su celular y llamó a la hija. Llegó en ocho minutos."
+        },
+        {
+          "role": "story",
+          "plate": "cine-01-manos",
+          "h": "\"Papá, la panadería es por acá.\"",
+          "b": "Compraron pan juntos, en la nueva. Nadie le quitó su caminata: le pusieron una red."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu papá o abuelo. Quien lo encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad."
+        },
+        {
+          "role": "cta",
+          "h": "¿Tu abuelo también \"va por pan\"?",
+          "b": "Su pulsera está en comehometag.com. Guarda esta historia: cuidar no es encerrar."
+        }
       ],
       "caption": {
-        "ig": "\"Ya vengo, voy por pan\" — lo mismo que dijo ayer y hace 40 años. Pero la panadería de su memoria cerró en 2003. La historia de don Manuel termina en 8 minutos gracias al chico de la ferretería y una pulsera. Y lo más importante: nadie le quitó su caminata. Cuidar no es encerrar. #alzheimer #abuelos #cuidadores #peru",
-        "tt": "La panadería de su memoria cerró en 2003. Él sigue yendo 💜 #alzheimer #abuelos #historia",
-        "fb": "\"Voy por pan\" puede ser la frase más delicada de la semana cuando la panadería de la memoria cerró hace 20 años. Esta historia termina bien — en 8 minutos, con el chico de la ferretería — y sin quitarle al abuelo su caminata. Porque cuidar no es encerrar. ¿Les suena en casa?"
+        "ig": "\"Ya vengo, voy por pan\" — pero la panadería de su memoria cerró en 2003. La historia de don Manuel termina en 8 minutos gracias al chico de la ferretería y su pulsera ComeHomeTag: escaneó el QR y llamó a la hija al instante. Y lo más importante: nadie le quitó su caminata. Cuidar no es encerrar. comehometag.com #alzheimer #abuelos #cuidadores #peru",
+        "tt": "La panadería de su memoria cerró en 2003. Él sigue yendo — y su pulsera ComeHomeTag lo trae de vuelta 💜 #alzheimer #abuelos #historia",
+        "fb": "\"Voy por pan\" puede ser la frase más delicada de la semana cuando la panadería de la memoria cerró hace 20 años. Esta historia termina bien — en 8 minutos, porque el chico de la ferretería escaneó la pulsera ComeHomeTag de don Manuel y llamó a su hija. Sin quitarle al abuelo su caminata. comehometag.com"
       },
-      "alt": "Historia de un abuelo con demencia que sale por pan hacia una panadería cerrada hace años, y su red de barrio."
+      "alt": "Historia de un abuelo con Alzheimer que sale por pan y vuelve a casa gracias a su pulsera ComeHomeTag."
     },
     {
       "slug": "aeropuerto-conexion",
       "slides": [
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "Contaste cabezas: faltaba una.", "b": "Primer vuelo de la familia, en el control." },
-        { "role": "story", "plate": "cine-04-mama", "h": "En el control, el mundo se volvió bandejas.", "b": "Zapatos, correas, laptops, apuro. Cuarenta manos haciendo diez cosas." },
-        { "role": "story", "plate": "cine-08-papa", "h": "Del otro lado contaste cabezas: faltaba una.", "b": "El menor se había quedado... ¿antes? ¿después? ¿dónde?" },
-        { "role": "story", "plate": "cine-07-columpio", "h": "El niño hizo su parte: se quedó quieto junto a las bandejas.", "b": "Como habían jugado en casa: \"si no veo a papá, no camino\"." },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "La agente de seguridad hizo la suya.", "b": "Vio la pulsera, llamó: \"Está conmigo en el control. No se muevan, se lo llevo.\"" },
-        { "role": "story", "plate": "cine-01-manos", "h": "Tres minutos después, la familia estaba completa.", "b": "Y el niño, orgullosísimo: \"hice lo del juego, papá\"." },
-        { "role": "rehook", "h": "El plan funcionó porque TODOS sabían su parte.", "b": "El niño la suya. La pulsera la suya. Ustedes la suya." },
-        { "role": "cta", "h": "¿Primer viaje familiar pronto?", "b": "Ensayen \"lo del juego\" esta semana. Guarda la historia para el aeropuerto." }
+        {
+          "role": "story",
+          "plate": "cine-04-mama",
+          "h": "Primer vuelo en familia. Contaste cabezas: faltaba una.",
+          "b": "En el control del aeropuerto, entre bandejas y apuro."
+        },
+        {
+          "role": "story",
+          "plate": "cine-07-columpio",
+          "h": "El niño hizo su parte: se quedó quieto junto a las bandejas.",
+          "b": "Como habían jugado en casa: \"si no veo a papá, no camino\"."
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "La agente de seguridad vio su pulsera, escaneó el código y llamó.",
+          "b": "\"Está conmigo en el control. No se muevan, se lo llevo.\""
+        },
+        {
+          "role": "story",
+          "plate": "cine-12-reencuentro",
+          "h": "Tres minutos después, la familia estaba completa.",
+          "b": "Y el niño, orgullosísimo: \"hice lo del juego, papá\"."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad."
+        },
+        {
+          "role": "cta",
+          "h": "¿Primer viaje familiar pronto?",
+          "b": "Ensayen \"lo del juego\" y pide su pulsera en comehometag.com."
+        }
       ],
       "caption": {
-        "ig": "Primer vuelo de la familia: en el control de seguridad el mundo se vuelve bandejas y apuro — y del otro lado de la máquina faltaba una cabeza. El niño hizo su parte (quedarse quieto, como en el juego), la pulsera la suya y la agente la suya. Tres minutos. \"Hice lo del juego, papá.\" #viajeconniños #aeropuerto #familia #peru",
-        "tt": "\"Hice lo del juego, papá\" — la historia del primer vuelo 💜✈️ #aeropuerto #viajes #familia",
-        "fb": "El control del aeropuerto: zapatos, bandejas, laptops, apuro… y del otro lado contaste cabezas y faltaba una. Esta historia dura 3 minutos porque todos sabían su parte — hasta el niño de 5 años (\"si no veo a papá, no camino\"). ¿Viaje familiar pronto? Ensayen el juego."
+        "ig": "Primer vuelo de la familia: en el control todo es bandejas y apuro — y del otro lado faltaba una cabeza. El niño se quedó quieto como en el juego, y la agente escaneó su pulsera ComeHomeTag y llamó al papá al instante. Tres minutos. \"Hice lo del juego, papá.\" comehometag.com #viajeconniños #aeropuerto #familia #peru",
+        "tt": "\"Hice lo del juego, papá\" — la historia del primer vuelo 💜✈️ con su pulsera ComeHomeTag puesta #aeropuerto #viajes #familia",
+        "fb": "El control del aeropuerto: zapatos, bandejas, apuro… y del otro lado faltaba una cabeza. Esta historia dura 3 minutos porque todos sabían su parte — el niño se quedó quieto y la agente escaneó su pulsera ComeHomeTag para llamar a la familia. ¿Viaje pronto? Ensayen el juego. comehometag.com"
       },
-      "alt": "Historia de un niño separado en el control del aeropuerto que aplicó el protocolo y fue reunido en minutos."
+      "alt": "Historia de un niño separado en el control del aeropuerto y reunido en minutos gracias a su pulsera ComeHomeTag."
     },
     {
       "slug": "mascota-firulais",
       "slides": [
-        { "role": "story", "plate": "cine-11-perro", "h": "Tres segundos de puerta abierta.", "b": "Suficientes. Rocky salió a conquistar el mundo." },
-        { "role": "story", "plate": "cine-07-columpio", "h": "Rocky salió a conquistar el mundo.", "b": "El mundo, para un perro de barrio, son seis cuadras de olores nuevos." },
-        { "role": "story", "plate": "cine-09-ventana", "h": "A la hora, la familia empapelaba postes con su foto.", "b": "Los niños llorando. La mamá diciendo \"va a volver\" sin creérselo." },
-        { "role": "story", "plate": "cine-02-zapatos", "h": "Rocky, mientras tanto, cenaba en casa ajena.", "b": "Una familia buena lo recogió. Pero ¿cómo avisarle a la suya?" },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "En el collar, la placa QR respondió por él.", "b": "Un escaneo: \"¿Aló? Tenemos a su perrito. Está regio, comió pollo.\"" },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "Volvió esa misma noche, con la barriga llena.", "b": "Los niños durmieron abrazados al perro. La mamá, por fin, tranquila." },
-        { "role": "rehook", "h": "Los que no hablan también necesitan poder \"llamar a casa\".", "b": "Un QR en el collar es su voz." },
-        { "role": "cta", "h": "¿Tu engreído ya tiene placa?", "b": "La próxima puerta abierta VA a pasar. Que pueda volver solo a casa." }
+        {
+          "role": "story",
+          "plate": "cine-11-perro",
+          "h": "Tres segundos de puerta abierta y Rocky se escapó.",
+          "b": "Salió a conquistar el barrio: seis cuadras de olores nuevos."
+        },
+        {
+          "role": "story",
+          "plate": "cine-09-ventana",
+          "h": "A la hora, la familia empapelaba postes con su foto.",
+          "b": "Los niños llorando. La mamá diciendo \"va a volver\" sin creérselo."
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "Una familia buena lo recogió y vio la placa de su collar.",
+          "b": "Escaneó el código: \"¿Aló? Tenemos a su perrito. Está regio, comió pollo.\""
+        },
+        {
+          "role": "story",
+          "plate": "cine-12-reencuentro",
+          "h": "Volvió esa misma noche, con la barriga llena.",
+          "b": "Los niños durmieron abrazados al perro. La mamá, por fin, tranquila."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una placa con código QR para su collar. Quien encuentra a tu mascota la escanea con su celular y llama a su familia al instante. Sin batería, sin app, sin mensualidad."
+        },
+        {
+          "role": "cta",
+          "h": "¿Tu engreído ya tiene placa?",
+          "b": "Pídela en comehometag.com. La próxima puerta abierta va a pasar."
+        }
       ],
       "caption": {
-        "ig": "El timbre del camión del gas + una puerta abierta 3 segundos = Rocky conquistando el mundo. Mientras la familia empapelaba postes, él cenaba pollo en casa ajena — y la placa QR de su collar respondió por él: \"tenemos a su perrito, está regio\". Los que no hablan también necesitan poder llamar a casa. #mascotas #perros #qr #peru",
-        "tt": "Rocky se escapó en 3 segundos de puerta abierta. Su collar habló por él 🐕💜 #mascotas #perros #historia",
-        "fb": "Historia de barrio universal: el camión del gas, la puerta abierta 3 segundos, y el perro conquistando el mundo. La diferencia entre una noche de llanto y \"volvió con la barriga llena de pollo\" fue una placa QR. ¿Tu engreído ya tiene la suya? 🐕"
+        "ig": "Una puerta abierta 3 segundos y Rocky salió a conquistar el mundo. Mientras la familia empapelaba postes, él cenaba pollo en casa ajena — y la placa ComeHomeTag de su collar respondió por él: un escaneo del QR y \"tenemos a su perrito, está regio\". Los que no hablan también pueden llamar a casa: comehometag.com. #mascotas #perros #qr #peru",
+        "tt": "Rocky se escapó en 3 segundos. La placa ComeHomeTag de su collar habló por él 🐕💜 #mascotas #perros #historia",
+        "fb": "Historia de barrio universal: el camión del gas, la puerta abierta 3 segundos, y el perro conquistando el mundo. La diferencia entre una noche de llanto y \"volvió con la barriga llena de pollo\" fue la placa ComeHomeTag de su collar: quien lo encontró escaneó el QR y llamó a su familia. ¿Tu engreído ya tiene la suya? comehometag.com 🐕"
       },
-      "alt": "Historia de un perro escapado y devuelto la misma noche gracias a la placa QR de su collar."
+      "alt": "Historia de un perro escapado y devuelto la misma noche gracias a la placa ComeHomeTag de su collar."
     },
     {
       "slug": "mama-turno-noche",
       "slides": [
-        { "role": "story", "plate": "cine-09-ventana", "h": "Turno de noche. Otra vez.", "b": "Ser mamá y enfermera: dos turnos completos." },
-        { "role": "story", "plate": "cine-05-abuela", "h": "Los niños quedan con la abuela. La abuela es un ángel.", "b": "Un ángel de 78 años que se duerme viendo su novela." },
-        { "role": "story", "plate": "cine-04-mama", "h": "En el descanso de las 2 am, revisa el celular.", "b": "Nada. Ningún mensaje. Y sin embargo el pecho aprieta: es el turno del \"¿y si...?\"" },
-        { "role": "story", "plate": "cine-01-manos", "h": "El \"¿y si...?\" de las madres que trabajan de noche no se cura.", "b": "Pero se puede achicar." },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "Sus hijos duermen con la pulsera en la mesita.", "b": "Mañana se la ponen para el colegio. Si el mundo falla, el mundo puede llamarla a ELLA." },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "No es un GPS ni una cámara ni una app.", "b": "Es saber que cualquier persona buena entre su hijo y ella tiene un puente directo." },
-        { "role": "rehook", "h": "Trabajar de noche ya es suficientemente difícil.", "b": "El \"¿y si...?\" no tiene por qué hacer turno completo también." },
-        { "role": "cta", "h": "Para las que hacen dos turnos.", "b": "Etiqueta a una mamá que trabaja de noche. Ella entiende." }
+        {
+          "role": "story",
+          "plate": "cine-09-ventana",
+          "h": "Turno de noche. Los niños quedan con la abuela.",
+          "b": "Un ángel de 78 años que se duerme viendo su novela."
+        },
+        {
+          "role": "story",
+          "plate": "cine-04-mama",
+          "h": "En el descanso de las 2 am, revisa el celular.",
+          "b": "Nada. Y aun así el pecho aprieta: es la hora del \"¿y si...?\""
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "Sus hijos duermen con la pulsera en la mesita.",
+          "b": "Mañana se la ponen para el colegio. Si algo pasa, cualquier persona buena puede llamarla a ELLA."
+        },
+        {
+          "role": "story",
+          "plate": "cine-12-reencuentro",
+          "h": "El \"¿y si...?\" no se cura. Pero se achica.",
+          "b": "Trabajar de noche ya es suficientemente difícil."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tus hijos. Quien los encuentra la escanea con su celular y te llama al instante, estés donde estés. Sin batería, sin mensualidad."
+        },
+        {
+          "role": "cta",
+          "h": "Para las que hacen dos turnos.",
+          "b": "Etiqueta a una mamá que trabaja de noche. Las pulseras están en comehometag.com."
+        }
       ],
       "caption": {
-        "ig": "Turno de noche en la clínica, tercera vez en la semana. Los niños con la abuela — un ángel de 78 que se duerme con su novela. Y en el descanso de las 2am, el \"¿y si...?\" que todas las madres que trabajan de noche conocen. No se cura. Pero se achica. Para las que hacen dos turnos completos. 💜 #mamastrabajadoras #turnonoche #familia #peru",
-        "tt": "Para las mamás que trabajan de noche y hacen dos turnos 💜 #mamas #trabajo #familia",
-        "fb": "A las 2am, en el descanso del turno, todas las madres que trabajan de noche revisan el celular con el mismo apretón en el pecho. Este post es para ellas: el \"¿y si...?\" no se cura, pero se achica. Etiqueta a una mamá que hace dos turnos — ella entiende. 💜"
+        "ig": "Para las mamás que trabajan de noche y hacen dos turnos completos: el \"¿y si...?\" de las 2 am no se cura, pero se achica. Sus hijos van al colegio con su pulsera ComeHomeTag: si algo pasa, cualquier persona buena escanea el QR y la llama a ELLA, esté donde esté. comehometag.com 💜 #mamastrabajadoras #turnonoche #familia #peru",
+        "tt": "Para las mamás que trabajan de noche y hacen dos turnos 💜 sus hijos con su pulsera ComeHomeTag #mamas #trabajo #familia",
+        "fb": "A las 2 am, en el descanso del turno, todas las madres que trabajan de noche revisan el celular con el mismo apretón en el pecho. Este post es para ellas: con la pulsera ComeHomeTag puesta, cualquier persona buena puede llamarlas al instante. El \"¿y si...?\" no se cura, pero se achica. Etiqueta a una mamá que hace dos turnos. 💜 comehometag.com"
       },
-      "alt": "Historia de una madre en turno de noche y cómo la identificación de sus hijos reduce la ansiedad."
+      "alt": "Historia de una madre en turno de noche cuyos hijos llevan su pulsera ComeHomeTag al colegio."
     },
     {
       "slug": "mellizos-feria",
       "slides": [
-        { "role": "story", "plate": "cine-06-procesion", "h": "¿Mellizos en la feria?", "b": "Dos direcciones opuestas al mismo tiempo, siempre." },
-        { "role": "story", "plate": "cine-08-papa", "h": "Papá tenía un sistema: \"uno en cada mano\".", "b": "El sistema funcionó hasta el puesto de picarones." },
-        { "role": "story", "plate": "cine-04-mama", "h": "Pagar picarones requiere una mano. Matemática cruel.", "b": "Sesenta segundos después: un mellizo. UNO." },
-        { "role": "story", "plate": "cine-07-columpio", "h": "Mateo estaba en los juegos, obvio.", "b": "Para Mateo no estaba perdido: estaba EXACTAMENTE donde quería estar." },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "La señora de los juegos ya había llamado.", "b": "\"¿Es suyo un mellizo con chompa roja? Está feliz. Pero es suyo.\"" },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "Papá llegó antes del segundo boleto.", "b": "\"¡Papá, mira qué alto llego!\" — El susto fue solo de papá." },
-        { "role": "rehook", "h": "Con mellizos no alcanzan las manos.", "b": "Por eso existen los sistemas que no necesitan manos." },
-        { "role": "cta", "h": "¿Familia de más de uno?", "b": "Este post es tuyo. Etiqueta a otra familia de la liga de los superados en número." }
+        {
+          "role": "story",
+          "plate": "cine-08-papa",
+          "h": "Mellizos en la feria: uno en cada mano.",
+          "b": "El sistema funcionó hasta el puesto de picarones."
+        },
+        {
+          "role": "story",
+          "plate": "cine-04-mama",
+          "h": "Sesenta segundos después: un mellizo. UNO.",
+          "b": "Mateo estaba en los juegos, feliz. Para él no estaba perdido."
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "La señora de los juegos vio su pulsera y ya había llamado.",
+          "b": "\"¿Es suyo un mellizo con chompa roja? Está feliz. Pero es suyo.\""
+        },
+        {
+          "role": "story",
+          "plate": "cine-12-reencuentro",
+          "h": "Papá llegó antes del segundo boleto.",
+          "b": "\"¡Papá, mira qué alto llego!\" El susto fue solo de papá."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para cada hijo. Quien los encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad."
+        },
+        {
+          "role": "cta",
+          "h": "¿Familia de más de uno?",
+          "b": "Sus pulseras están en comehometag.com. Etiqueta a otra familia superada en número."
+        }
       ],
       "caption": {
-        "ig": "Mellizos de 5 años en la feria = dos direcciones opuestas al mismo tiempo, siempre. El sistema \"uno en cada mano\" funcionó hasta el puesto de picarones (pagar requiere una mano: matemática cruel). La señora de los juegos llamó antes del segundo boleto. Para la liga de los superados en número. 💜 #mellizos #feria #padres #peru",
-        "tt": "Papás de mellizos: la matemática cruel del puesto de picarones 💜😂 #mellizos #padres #historia",
-        "fb": "Ley universal de los mellizos: se mueven en direcciones opuestas al mismo tiempo. Y ley de la feria: pagar picarones requiere una mano. Esta historia termina con \"¡papá, mira qué alto llego!\" y el susto solo de papá. Etiqueta a una familia de la liga de los superados en número 😄"
+        "ig": "Mellizos de 5 años en la feria = dos direcciones opuestas al mismo tiempo. El sistema \"uno en cada mano\" funcionó hasta el puesto de picarones — y la señora de los juegos escaneó la pulsera ComeHomeTag de Mateo y llamó antes del segundo boleto. Para la liga de los superados en número: comehometag.com 💜 #mellizos #feria #padres #peru",
+        "tt": "Papás de mellizos: la matemática cruel de los picarones — y la pulsera ComeHomeTag que llamó primero 💜😂 #mellizos #padres #historia",
+        "fb": "Ley universal de los mellizos: se mueven en direcciones opuestas al mismo tiempo. Y ley de la feria: pagar picarones requiere una mano. Esta historia termina con \"¡papá, mira qué alto llego!\" porque la señora de los juegos escaneó su pulsera ComeHomeTag y llamó al toque. Etiqueta a una familia superada en número 😄 comehometag.com"
       },
-      "alt": "Historia de un mellizo que se aleja en una feria mientras el padre paga, resuelta por la llamada de una vendedora."
+      "alt": "Historia de un mellizo que se aleja en una feria y es devuelto gracias a su pulsera ComeHomeTag."
     },
     {
       "slug": "primer-dia-clases",
       "slides": [
-        { "role": "story", "plate": "cine-01-manos", "h": "Primer día de clases.", "b": "El nudo en TU garganta, no en la suya." },
-        { "role": "story", "plate": "cine-08-papa", "h": "La puerta del colegio se traga doscientos niños en diez minutos.", "b": "Doscientas mochilas iguales. Doscientos buzos del mismo color." },
-        { "role": "story", "plate": "cine-09-ventana", "h": "A la salida, el caos se repite en espejo.", "b": "Y un niño de primer grado decide esperar... en la puerta equivocada." },
-        { "role": "story", "plate": "cine-07-columpio", "h": "Quince minutos de \"¿y Diego?\" entre dos puertas.", "b": "La auxiliar corriendo. La mamá marcando. El portero preguntando." },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "El profesor de educación física lo encontró primero.", "b": "Vio su pulsera, llamó: \"Está en la puerta de primaria, tranquilo, comiéndose la lonchera.\"" },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "Diego ni se enteró del operativo.", "b": "\"Es que ESTA es una puerta, mamá.\" Lógica de primer grado: impecable." },
-        { "role": "rehook", "h": "Marzo llega cada año.", "b": "Y la primera semana siempre es un ensayo general de puertas equivocadas." },
-        { "role": "cta", "h": "Antes del primer día:", "b": "acuerden LA puerta, ensáyenla, y que lleve su contacto puesto. Guarda para febrero." }
+        {
+          "role": "story",
+          "plate": "cine-01-manos",
+          "h": "La puerta del colegio se traga 200 niños.",
+          "b": "Primer día de clases. Doscientas mochilas iguales."
+        },
+        {
+          "role": "story",
+          "plate": "cine-09-ventana",
+          "h": "A la salida, Diego decidió esperar... en la puerta equivocada.",
+          "b": "Quince minutos de \"¿y Diego?\" entre dos puertas."
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "El profesor de educación física vio su pulsera, escaneó y llamó.",
+          "b": "\"Está en la puerta de primaria, tranquilo, comiéndose la lonchera.\""
+        },
+        {
+          "role": "story",
+          "plate": "cine-12-reencuentro",
+          "h": "Diego ni se enteró del operativo.",
+          "b": "\"Es que ESTA es una puerta, mamá.\" Lógica de primer grado: impecable."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad."
+        },
+        {
+          "role": "cta",
+          "h": "Guárdalo para febrero.",
+          "b": "Acuerden LA puerta de salida y pide su pulsera en comehometag.com."
+        }
       ],
       "caption": {
-        "ig": "Primer día de clases: la puerta del colegio se traga 200 niños en 10 minutos, y a la salida un niño de primer grado espera tranquilo... en la puerta equivocada (\"es que ESTA es una puerta, mamá\" — lógica impecable). 15 minutos de operativo que una pulsera resolvió. Guárdalo para febrero. #regresoaclases #colegio #padres #peru",
-        "tt": "\"Es que ESTA es una puerta, mamá\" — lógica de primer grado 🎒💜 #colegio #regresoaclases #padres",
-        "fb": "Cada marzo pasa lo mismo: la primera semana de clases es un ensayo general de puertas equivocadas. Diego esperó tranquilo en la otra puerta, comiéndose la lonchera, mientras tres adultos corrían. ¿El acuerdo de LA puerta ya existe en tu casa? Guarda esta historia para febrero."
+        "ig": "Primer día de clases: la puerta se traga 200 niños en 10 minutos, y a la salida Diego esperó tranquilo... en la puerta equivocada (\"es que ESTA es una puerta, mamá\"). El operativo de 15 minutos lo resolvió su pulsera ComeHomeTag: el profesor escaneó el QR y llamó a la mamá. Guárdalo para febrero: comehometag.com. #regresoaclases #colegio #padres #peru",
+        "tt": "\"Es que ESTA es una puerta, mamá\" 🎒💜 su pulsera ComeHomeTag resolvió el operativo #colegio #regresoaclases #padres",
+        "fb": "Cada marzo pasa lo mismo: la primera semana de clases es un ensayo general de puertas equivocadas. Diego esperó tranquilo en la otra puerta mientras tres adultos corrían — hasta que el profesor escaneó su pulsera ComeHomeTag y llamó a su mamá. ¿El acuerdo de LA puerta ya existe en tu casa? comehometag.com"
       },
-      "alt": "Historia del primer día de clases: un niño espera en la puerta equivocada y es ubicado por su pulsera."
+      "alt": "Historia del primer día de clases: un niño espera en la puerta equivocada y es ubicado por su pulsera ComeHomeTag."
     },
     {
       "slug": "desconocido-bueno",
       "slides": [
-        { "role": "story", "plate": "cine-03-abuelo", "h": "No es del niño perdido.", "b": "Esta historia es del señor que lo encontró." },
-        { "role": "story", "plate": "cine-04-mama", "h": "Volvía del trabajo, cansado, con hambre.", "b": "Y vio a un niño solo, quieto, con los ojos de buscar a alguien." },
-        { "role": "story", "plate": "cine-01-manos", "h": "Pensó lo que piensan todos los hombres buenos:", "b": "\"Si me acerco, ¿qué van a pensar de mí?\" Casi sigue de largo. Casi." },
-        { "role": "story", "plate": "cine-10-pulsera", "h": "Se agachó a un metro: \"¿Buscas a tu familia?\"", "b": "El niño asintió y estiró la muñeca, entrenado: \"mi mamá está aquí\"." },
-        { "role": "story", "plate": "cine-08-papa", "h": "Un escaneo con su celular. Dos timbradas.", "b": "\"¿Señora? Su hijo está conmigo en la puerta del banco. Aquí la espero.\"" },
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "No dejó ni que le agradezcan bien.", "b": "\"No es nada\" — y se fue, con su hambre y su cansancio, hecho un héroe de 4 minutos." },
-        { "role": "rehook", "h": "El mundo está lleno de héroes de 4 minutos.", "b": "Solo necesitan que ayudar sea fácil, rápido y sin sospechas." },
-        { "role": "cta", "h": "Facilítale la vida al héroe.", "b": "La identificación no es solo para tu hijo: es para el desconocido bueno que lo va a ayudar." }
+        {
+          "role": "story",
+          "plate": "cine-03-abuelo",
+          "h": "Esta historia es del señor que lo encontró.",
+          "b": "Un niño perdido, y un desconocido bueno que dudó."
+        },
+        {
+          "role": "story",
+          "plate": "cine-01-manos",
+          "h": "Pensó lo que piensan todos los hombres buenos:",
+          "b": "\"Si me acerco, ¿qué van a pensar de mí?\" Casi sigue de largo. Casi."
+        },
+        {
+          "role": "story",
+          "plate": "cine-10-pulsera",
+          "h": "Se agachó: \"¿Buscas a tu familia?\" El niño mostró su muñeca.",
+          "b": "Un escaneo con su celular. Dos timbradas. \"Su hijo está conmigo, aquí la espero.\""
+        },
+        {
+          "role": "story",
+          "plate": "cine-12-reencuentro",
+          "h": "No dejó ni que le agradezcan bien.",
+          "b": "\"No es nada\" — y se fue, con su hambre y su cansancio, hecho un héroe de 4 minutos."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. El desconocido bueno la escanea con su celular y te llama al instante. Sin apps, sin registros, sin batería."
+        },
+        {
+          "role": "cta",
+          "h": "Facilítale la vida al héroe.",
+          "b": "La pulsera está en comehometag.com. Comparte esta historia."
+        }
       ],
       "caption": {
-        "ig": "Esta historia no es del niño perdido: es del señor que lo encontró — el que pensó \"¿y si se malinterpreta?\" y casi sigue de largo. El QR lo convirtió en héroe de 4 minutos: un escaneo, dos timbradas, \"aquí la espero\". La identificación también protege al que ayuda. #comunidad #seguridadinfantil #peru #historias",
-        "tt": "La historia del héroe de 4 minutos que casi sigue de largo 💜 #historia #comunidad #peru",
-        "fb": "Hablemos del miedo del hombre bueno: ver a un niño perdido y pensar \"si me acerco, ¿qué van a pensar de mí?\". Este señor casi sigue de largo. El QR le dio una forma de ayudar clara, rápida y con testigos: héroe de 4 minutos. El sistema también protege al que ayuda."
+        "ig": "Esta historia no es del niño perdido: es del señor que lo encontró — el que casi sigue de largo. La pulsera ComeHomeTag lo convirtió en héroe de 4 minutos: un escaneo del QR, dos timbradas, \"aquí la espero\". La identificación también protege al que ayuda. comehometag.com #comunidad #seguridadinfantil #peru #historias",
+        "tt": "La historia del héroe de 4 minutos que casi sigue de largo 💜 la pulsera ComeHomeTag lo hizo fácil #historia #comunidad #peru",
+        "fb": "Hablemos del miedo del hombre bueno: ver a un niño perdido y pensar \"si me acerco, ¿qué van a pensar de mí?\". Este señor casi sigue de largo. La pulsera ComeHomeTag le dio una forma de ayudar clara y rápida: escaneó el QR y llamó a la mamá en segundos. El sistema también protege al que ayuda. comehometag.com"
       },
-      "alt": "Historia desde la perspectiva del adulto que encuentra a un niño perdido y lo reúne mediante el QR."
+      "alt": "Historia del adulto que encuentra a un niño perdido y llama a su familia escaneando su pulsera ComeHomeTag."
     }
   ]
 }

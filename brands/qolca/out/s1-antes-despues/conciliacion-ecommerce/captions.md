@@ -1,6 +1,6 @@
-# 6 horas cuadrando. Ahora: 20 minutos.
+# Cuadrar ventas te roba 6 horas cada domingo.
 
-`qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`qolca` · `s1-antes-despues` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -14,9 +14,9 @@ El domingo perdido de todo dueño de e-commerce 🛒
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El domingo perdido de todo e-commerce: 6 horas cuadrando Shopify contra la pasarela contra el banco.
+Cuadrar la tienda contra la pasarela contra el banco robaba 6 horas cada domingo — Qolca construyó el sistema que lo hace solo cada noche y deja únicamente las excepciones: de 6 horas a 20 minutos, y S/2,400 mensuales en fugas detectadas que nadie veía.
 
-Ahora un proceso corre a las 2am y deja solo las excepciones: de 6 horas a 20 minutos — y de paso aparecieron S/2,400 mensuales en contracargos y duplicados que pasaban piola.
+qolca.org
 
 #ecommerce #shopify #automatizacion #peru
 ```
@@ -31,7 +31,7 @@ Caso e-commerce: conciliación manual dominical versus proceso nocturno automát
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Pregunta para los que venden online: ¿cuántas horas al mes se van cuadrando la tienda contra la pasarela contra el banco? Este caso: 6 horas cada domingo → 20 minutos. Y el bonus: S/2,400/mes en fugas (contracargos, duplicados) que nadie veía. La conciliación es EL proceso invisible.
+Pregunta para los que venden online: ¿cuántas horas al mes se van cuadrando la tienda contra la pasarela contra el banco? Este sistema de Qolca lo hace solo cada noche: de 6 horas cada domingo a 20 minutos. Y el bonus: S/2,400/mes en fugas que nadie veía. qolca.org
 ```
 
 ## 💼 LinkedIn
