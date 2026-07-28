@@ -135,7 +135,7 @@ class Renderer:
             y = CORE_Y0 + 30
             if slide.get("kicker"):
                 y = draw_kicker(draw, slide["kicker"], acc, y)
-            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (128, 64), 860, 700)
+            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (176, 64), 860, 700)
             top = y + (CORE_Y1 - 170 - y - hh) / 2
             draw_block(draw, lines, fnt, lh, top, text_c, shadow=shadow)
             if b_text:
@@ -145,7 +145,9 @@ class Renderer:
             self._tag(draw, sub_c)
 
         elif role in ("rehook", "stat", "story"):
-            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (112, 56), 860, 620)
+            # first-slide stories are covers of their series → poster-size type
+            max_sz = 150 if n == 0 else 112
+            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (max_sz, 56), 860, 620)
             bh = 0
             blines: list[str] = []
             bf = font(body_f, 42, 500)

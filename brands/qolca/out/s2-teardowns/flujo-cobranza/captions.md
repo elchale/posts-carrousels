@@ -1,4 +1,4 @@
-# La secuencia que cobra S/2M al año sin una llamada incómoda
+# La secuencia que cobra S/2M
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

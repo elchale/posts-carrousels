@@ -1,4 +1,4 @@
-# El verano es la temporada #1 de niños perdidos
+# Verano: temporada #1 de perdidos.
 
 `comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

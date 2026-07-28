@@ -1,4 +1,4 @@
-# "Mi hijo nunca se soltaría de mi mano" — todos se sueltan
+# Todos se sueltan. TODOS.
 
 `comehometag` · `s5-mitos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

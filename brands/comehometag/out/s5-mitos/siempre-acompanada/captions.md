@@ -1,4 +1,4 @@
-# "Mi mamá nunca está sola" significa "casi nunca está sola"
+# Los sustos viven en el "casi".
 
 `comehometag` · `s5-mitos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

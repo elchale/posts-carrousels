@@ -1,4 +1,4 @@
-# La mayoría abandona antes del mes 6. Tú ya estás avisado.
+# La mayoría abandona el mes 6.
 
 `propaga` · `s6-la-vida` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

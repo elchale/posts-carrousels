@@ -1,4 +1,4 @@
-# "Yo no vendo nada romántico" — San Valentín igual es tuyo
+# "Yo no vendo nada romántico."
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

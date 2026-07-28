@@ -1,4 +1,4 @@
-# Ordenas las finanzas de 40 empresas y persigues PDFs por WhatsApp
+# Ordenas 40 empresas. Persigues PDFs.
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

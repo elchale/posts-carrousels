@@ -1,4 +1,4 @@
-# "Está caro" — cómo responderlo sin perder la venta (y 14 más)
+# "Está caro." ¿Qué respondes?
 
 `propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# Tienes 0.25 segundos antes del scroll. Estos 15 ganchos lo detienen.
+# Tienes 0.25 segundos.
 
 `propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

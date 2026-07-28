@@ -1,4 +1,4 @@
-# Tus primeros 1,000 seguidores no los trae el algoritmo.
+# De 0 a 1,000 seguidores.
 
 `propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

@@ -5,7 +5,7 @@
     {
       "slug": "chatbot-no-vende",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Tu chatbot informa. No vende. Hay una diferencia.", "b": "Las 4 causas — todas arreglables" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Tu chatbot informa. No vende.", "b": "Las 4 causas — todas arreglables" },
         { "role": "rehook", "h": "El bot que no vende no es un fracaso de la IA.", "b": "Es un fracaso de diseño. Casi siempre uno de estos cuatro." },
         { "role": "value", "n": "1", "h": "Responde, pero no PREGUNTA", "b": "\"El precio es S/120\" — fin. Un vendedor seguiría: \"¿para cuándo lo necesitas?\". Sin la siguiente pregunta, la venta queda en el aire." },
         { "role": "value", "n": "2", "h": "No sabe cerrar", "b": "Informar no es vender. Todo camino debe TERMINAR en algo: link de pago, cita agendada, datos para cotizar. Sin cierre es un tour." },
@@ -25,7 +25,7 @@
     {
       "slug": "proceso-equivocado",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Automatizaste lo fácil. Sigue sangrando lo valioso.", "b": "El error de priorización clásico" },
+        { "role": "cover", "kicker": "ERRORES", "h": "¿Automatizaste lo fácil o lo valioso?", "b": "Casi nunca coinciden. El error clásico." },
         { "role": "rehook", "h": "Automatizar lo fácil se siente productivo.", "b": "Automatizar lo VALIOSO se nota en la caja. Casi nunca coinciden." },
         { "role": "value", "h": "El patrón del error", "b": "Se automatiza lo automatizable (el reporte simpático, el aviso interno) y sigue sangrando lo difícil: la cotización lenta, el seguimiento muerto." },
         { "role": "value", "h": "La matriz de dos preguntas", "b": "Por proceso: ¿cuántas horas al mes come? ¿cuánta plata toca? Alto en ambas = primero. Bajo en ambas = nunca." },
@@ -45,7 +45,7 @@
     {
       "slug": "crm-excel-con-otro-nombre",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Tu CRM es un Excel con mensualidad", "b": "Las 4 señales y la salida" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Tu CRM: un Excel con mensualidad", "b": "Las 4 señales y la salida" },
         { "role": "rehook", "h": "Compraste un CRM para dejar el Excel.", "b": "Y lo usas exactamente igual: de cementerio de datos." },
         { "role": "value", "h": "Las 4 señales", "b": "1) Se llena a mano (cuando se llena). 2) Se consulta solo antes de reuniones. 3) No dispara ninguna acción. 4) La verdad real vive en el WhatsApp del vendedor." },
         { "role": "value", "h": "El CRM de verdad DISPARA cosas", "b": "Lead nuevo → asignación y contacto. Cotización fría 5 días → alerta. Cliente sin compra 60 días → reactivación. Si no dispara, es un archivador caro." },
@@ -65,7 +65,7 @@
     {
       "slug": "rapido-pero-no-cierras",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Respondes al minuto y no cierras: el embudo roto por dentro", "b": "Los 4 huecos que siguen al primer mensaje" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Respondes al minuto. No cierras.", "b": "Los 4 huecos que siguen al primer mensaje" },
         { "role": "rehook", "h": "Arreglaste la respuesta rápida. Bien.", "b": "¿Y los otros cuatro huecos por donde se van los que SÍ respondieron?" },
         { "role": "value", "n": "1", "h": "Respondes sin calificar", "b": "Rápido pero genérico: el brochure a todos por igual. Sin 2-3 preguntas (presupuesto, urgencia, uso), el vendedor persigue fantasmas." },
         { "role": "value", "n": "2", "h": "El pase al humano se cae", "b": "El bot atendió al instante... y el vendedor escribió 6 horas después. El segundo toque frío desperdicia el primero. Regla interna: 15 minutos." },
@@ -85,7 +85,7 @@
     {
       "slug": "bot-que-suena-a-bot",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "\"Estimado usuario\" — nadie habla así. Tu bot tampoco debería.", "b": "Manual de tono en 5 reglas" },
+        { "role": "cover", "kicker": "ERRORES", "h": "\"Estimado usuario\" — nadie habla así", "b": "Manual de tono en 5 reglas" },
         { "role": "rehook", "h": "El manual de tono no es un documento de marca.", "b": "Son los chats reales de tu mejor vendedor." },
         { "role": "value", "n": "1", "h": "Roba el tono del que más vende", "b": "Lee sus chats: cómo saluda, cómo explica el precio, qué palabras usa. ESE es el manual. Cópialo descaradamente." },
         { "role": "value", "n": "2", "h": "Frases cortas, como en el chat real", "b": "Nadie lee párrafos en WhatsApp. Mensajes de 1-3 líneas, uno por idea, con ritmo de conversación — porque lo es." },
@@ -105,7 +105,7 @@
     {
       "slug": "medir-mensajes-no-ventas",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "\"El bot respondió 4,000 mensajes\" — ¿y cuánta plata tocó?", "b": "Las métricas de vanidad de la automatización" },
+        { "role": "cover", "kicker": "ERRORES", "h": "4,000 mensajes. ¿Cuánta plata tocó?", "b": "Las métricas de vanidad de la automatización" },
         { "role": "rehook", "h": "El silencio después de esa pregunta", "b": "es el problema más común de todo el rubro." },
         { "role": "value", "h": "Las métricas de vanidad", "b": "Mensajes respondidos, tiempo de respuesta, conversaciones atendidas: miden ACTIVIDAD. La actividad no paga planillas." },
         { "role": "value", "h": "Las que pagan planillas", "b": "Ventas originadas, citas que SÍ llegaron, cotizaciones cerradas, horas humanas liberadas y en qué se usaron. Plata y tiempo: el resto es decoración." },
@@ -125,7 +125,7 @@
     {
       "slug": "automatizar-el-caos",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Automatizaste el caos. Ahora es caos más rápido.", "b": "El error #1 de todo el rubro" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Caos automatizado = caos más rápido", "b": "El error #1 de todo el rubro" },
         { "role": "rehook", "h": "La automatización es un amplificador.", "b": "Amplifica el orden y el desorden por igual. No pregunta cuál le diste." },
         { "role": "value", "h": "El caos amplificado", "b": "El proceso confuso ahora falla más veces por hora. Los datos sucios se copian solos a tres sistemas. El error de siempre, a escala." },
         { "role": "value", "h": "La prueba del practicante", "b": "Si no puedes explicar el proceso en 5 pasos claros a un practicante, no está listo. La máquina entiende MENOS que el practicante." },
@@ -145,7 +145,7 @@
     {
       "slug": "esperar-herramienta-perfecta",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Llevas 8 meses \"evaluando opciones\". Tus leads siguen muriendo en Excel.", "b": "El costo de la parálisis" },
+        { "role": "cover", "kicker": "ERRORES", "h": "¿Cuántos meses llevas \"evaluando opciones\"?", "b": "Tus leads siguen muriendo en Excel" },
         { "role": "rehook", "h": "Mientras comparas las 5 herramientas...", "b": "...el problema que ibas a resolver sigue cobrando cada mes." },
         { "role": "value", "h": "La parálisis tiene precio", "b": "8 meses de evaluación × el costo mensual del problema = casi siempre MÁS que haber elegido \"mal\" y corregido." },
         { "role": "value", "h": "La verdad sobre las finalistas", "b": "Entre las 3 finalistas de cualquier comparación seria, la diferencia real es 15%. La ejecución es el otro 85%." },
@@ -165,7 +165,7 @@
     {
       "slug": "capacitacion-cero",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "El sistema funcionaba perfecto. El equipo siguió usando Excel.", "b": "El asesino silencioso de proyectos" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Sistema perfecto. Equipo en Excel.", "b": "El asesino silencioso de proyectos" },
         { "role": "rehook", "h": "Los dos hechos son compatibles.", "b": "Y comunísimos. La adopción es el 50% del proyecto — y casi nadie la diseña." },
         { "role": "value", "h": "Por qué el equipo no lo usa", "b": "No es rebeldía: lo nuevo es más lento LOS PRIMEROS DÍAS y nadie mostró el camino corto. El hábito viejo gana por default." },
         { "role": "value", "h": "El error del manual por correo", "b": "\"Les comparto el manual del sistema\" = nadie lo abrió. Capacitar es hacer las primeras 10 operaciones JUNTOS, con datos reales." },
@@ -185,7 +185,7 @@
     {
       "slug": "nadie-es-dueno",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "\"¿Quién ve el tema del bot?\" — silencio en la sala", "b": "Los sistemas también se quedan huérfanos" },
+        { "role": "cover", "kicker": "ERRORES", "h": "\"¿Quién ve el bot?\" — silencio.", "b": "Los sistemas también se quedan huérfanos" },
         { "role": "rehook", "h": "Ese silencio, seis meses después,", "b": "es un sistema muerto que nadie notó morir." },
         { "role": "value", "h": "Cómo muere un sistema huérfano", "b": "Nadie revisa conversaciones → el bot responde precios viejos → los clientes se quejan → el vendedor lo apaga \"por mientras\" → fin." },
         { "role": "value", "h": "Todo sistema necesita UN dueño", "b": "Con nombre y apellido. No es un rol técnico: es un rol de negocio de 2 horas al mes." },

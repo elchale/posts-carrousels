@@ -1,4 +1,4 @@
-# Un abuelo extraviado casi siempre está a menos de 1.5 km de casa
+# Está a 1.5 km. Búscalo bien.
 
 `comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

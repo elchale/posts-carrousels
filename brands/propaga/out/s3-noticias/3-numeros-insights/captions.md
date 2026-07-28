@@ -1,4 +1,4 @@
-# Las estadísticas tienen 40 números. Te confunden 37.
+# 40 números. Solo 3 importan.
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

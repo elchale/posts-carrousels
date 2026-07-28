@@ -1,4 +1,4 @@
-# Empezó en una cochera, con una cuenta de Instagram.
+# Empezó en una cochera.
 
 `propaga` · `s6-la-vida` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

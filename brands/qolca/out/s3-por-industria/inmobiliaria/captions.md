@@ -1,4 +1,4 @@
-# Tu publicidad trae leads. Tu Excel los deja morir.
+# El Excel que mata tus leads
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

@@ -1,4 +1,4 @@
-# Respondes al minuto y no cierras: el embudo roto por dentro
+# Respondes al minuto. No cierras.
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

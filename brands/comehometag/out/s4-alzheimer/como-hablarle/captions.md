@@ -1,4 +1,4 @@
-# "¿Sabes quién soy?" es la pregunta que más duele. Deja de hacerla.
+# La pregunta que más duele.
 
 `comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

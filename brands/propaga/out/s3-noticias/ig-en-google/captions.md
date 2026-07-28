@@ -1,4 +1,4 @@
-# Googlea tu rubro + tu ciudad. ¿Sales tú o tu competencia?
+# Googlea tu rubro + tu ciudad.
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

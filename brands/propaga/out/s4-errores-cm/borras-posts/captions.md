@@ -1,4 +1,4 @@
-# El post que borraste a las 2 horas despegaba el jueves.
+# Lo borraste. Despegaba el jueves.
 
 `propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

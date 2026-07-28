@@ -5,7 +5,7 @@
     {
       "slug": "playa",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En la playa los niños no se alejan: las olas se los llevan de lado", "b": "El dato que ningún papá conoce" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Las olas se lo llevan de lado.", "b": "El dato de playa que nadie conoce" },
         { "role": "story", "plate": "cine-02-zapatos", "h": "En la playa, todos los niños se ven iguales desde atrás.", "b": "Gorro, ropa de baño, arena. La descripción de ropa aquí casi no sirve." },
         { "role": "value", "n": "1", "h": "Caminan EN DIAGONAL siguiendo las olas", "b": "200 metros de lado sin notarlo. Nunca se alejan \"hacia atrás\": las olas los van corriendo por la orilla." },
         { "role": "value", "n": "2", "h": "Todas las sombrillas son iguales para él", "b": "Elige una referencia FIJA: \"la nuestra está frente al letrero azul\". La sombrilla sola no es dirección." },
@@ -24,7 +24,7 @@
     {
       "slug": "centro-comercial",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "El lugar del mall donde más niños se pierden no es el que crees", "b": "Y el plan de 60 segundos al entrar" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "No es la juguetería.", "b": "El lugar del mall donde más se pierden" },
         { "role": "story", "plate": "cine-04-mama", "h": "40 segundos.", "b": "El tiempo promedio que tarda un papá en notar que el niño ya no está al lado." },
         { "role": "value", "n": "1", "h": "El #1 es el patio de comidas", "b": "Máxima gente, máximo ruido, mesas idénticas. Ahí se separan más familias que en todas las tiendas juntas." },
         { "role": "value", "n": "2", "h": "Las tiendas espejo", "b": "El niño entra a la juguetería mientras tú miras la vitrina de al lado. Dos metros de distancia, dos mundos distintos." },
@@ -43,7 +43,7 @@
     {
       "slug": "procesion",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En una procesión, tu punto de encuentro se mueve dos cuadras", "b": "El plan para multitudes que caminan" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "¿Tu punto de encuentro? Avanzó.", "b": "El plan para multitudes que caminan" },
         { "role": "story", "plate": "cine-06-procesion", "h": "Una procesión es una multitud que CAMINA.", "b": "El lugar donde te separaste ya no existe: avanzó con el anda." },
         { "role": "value", "n": "1", "h": "El punto de encuentro debe ser FIJO", "b": "\"Junto al anda\" no sirve: el anda avanza. La puerta de la iglesia o la esquina del banco no se mueven." },
         { "role": "value", "n": "2", "h": "Niños adelante, jamás atrás", "b": "Atrás del grupo nadie los ve. Entre dos adultos, o cargados en los tramos más densos." },
@@ -62,7 +62,7 @@
     {
       "slug": "estadio",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el estadio todos visten igual. Tu hijo también.", "b": "El protocolo para ir a la cancha en familia" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "40,000 vestidos igual. Tu hijo también.", "b": "El protocolo para la cancha en familia" },
         { "role": "story", "plate": "cine-08-papa", "h": "El estadio es de los recuerdos más grandes de la infancia.", "b": "Dos reglas hacen que sea solo eso: un gran recuerdo." },
         { "role": "value", "n": "1", "h": "La foto del día, con la camiseta puesta", "b": "40,000 personas con los mismos colores: la foto exacta de HOY es lo único que lo distingue." },
         { "role": "value", "n": "2", "h": "Memorícense SU puerta y tribuna", "b": "\"Oriente, puerta 14\" — que el niño lo repita. Un estadio tiene 40 puertas y todas parecen la misma." },
@@ -81,7 +81,7 @@
     {
       "slug": "aeropuerto",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "El aeropuerto separa familias en el único lugar donde no puedes correr a buscar", "b": "El plan por tramos" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Aquí no puedes correr a buscarlo.", "b": "El plan por tramos para el aeropuerto" },
         { "role": "story", "plate": "cine-12-reencuentro", "h": "El aeropuerto junta todo:", "b": "apuro, colas, anuncios confusos y maletas que ocupan las manos." },
         { "role": "value", "n": "1", "h": "Un adulto = un menor (o un abuelo)", "b": "Por tramos y con nombre: \"en migraciones, Pedro va con la abuela\". Todos cuidando a todos = nadie cuidando a nadie." },
         { "role": "value", "n": "2", "h": "El punto de encuentro es EL COUNTER", "b": "El de tu aerolínea: visible, con personal, sale en los letreros. La puerta de embarque cambia; el counter no." },
@@ -100,7 +100,7 @@
     {
       "slug": "mercado",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el mercado sueltas la mano de tu hijo 20 veces sin darte cuenta", "b": "Las reglas de los pasillos angostos" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Sueltas su mano 20 veces.", "b": "Cada visita al mercado, sin darte cuenta" },
         { "role": "story", "plate": "cine-01-manos", "h": "Para pagar. Para escoger. Para cargar.", "b": "Cada una son 5 segundos de niño solo. Veinte veces por visita." },
         { "role": "value", "n": "1", "h": "La regla del canguro", "b": "En pasillos angostos el niño va ADELANTE, donde lo ves. Atrás desaparece con que pasen dos personas." },
         { "role": "value", "n": "2", "h": "El caserito es tu aliado", "b": "Preséntalo en tus puestos de siempre: \"si no ves a mamá, te quedas con la señora Rosa\". Red de barrio real." },
@@ -119,7 +119,7 @@
     {
       "slug": "parque-diversiones",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el parque de diversiones los niños no se pierden caminando: se pierden CORRIENDO", "b": "El plan del mapa primero" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "No se pierden caminando: CORRIENDO.", "b": "El plan del mapa para el parque" },
         { "role": "story", "plate": "cine-07-columpio", "h": "Emoción máxima, atención mínima.", "b": "El siguiente juego siempre está en otra dirección." },
         { "role": "value", "n": "1", "h": "Primera parada: el mapa", "b": "Dos minutos señalando: aquí estamos, este es el punto de encuentro, estos son los baños. El mapa ES el plan." },
         { "role": "value", "n": "2", "h": "La regla de la SALIDA del juego", "b": "\"Al bajar, me esperas en la salida. No corres al siguiente.\" La salida casi nunca está junto a la entrada — ahí se pierden casi todos." },
@@ -138,7 +138,7 @@
     {
       "slug": "transporte-publico",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "El bus arranca y tu hijo quedó abajo. ¿Sabe qué hacer?", "b": "La regla de oro que hay que ensayar HOY" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "El bus arrancó sin tu hijo.", "b": "¿Sabe qué hacer? La regla de oro" },
         { "role": "story", "plate": "cine-09-ventana", "h": "La puerta se cierra en 3 segundos.", "b": "Y la familia queda en dos lugares que se alejan. Para esto SÍ hay protocolo." },
         { "role": "value", "n": "1", "h": "LA REGLA DE ORO: el que quedó, SE QUEDA", "b": "El que no subió (o no bajó) se queda EXACTAMENTE en ese paradero. El del bus regresa. Jamás se mueven los dos." },
         { "role": "value", "n": "2", "h": "Orden de subida: adulto-niños-adulto", "b": "Uno sube primero y recibe; otro sube último y empuja. Los niños nunca son los últimos en subir ni bajar." },
@@ -157,7 +157,7 @@
     {
       "slug": "concierto",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En un concierto tu celular muere antes que la música", "b": "Los 3 acuerdos que no necesitan batería" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Tu celular muere primero.", "b": "Los 3 acuerdos que no necesitan batería" },
         { "role": "story", "plate": "cine-03-abuelo", "h": "En un concierto no se escucha ni el propio nombre.", "b": "Todo el plan tiene que existir ANTES de la primera canción." },
         { "role": "value", "n": "1", "h": "Acuerdo 1: punto fijo CON HORA", "b": "\"Puerta 3, y a las 11 estamos ahí pase lo que pase.\" El punto Y la hora: los celulares mueren temprano en los conciertos." },
         { "role": "value", "n": "2", "h": "Acuerdo 2: la zona base", "b": "\"Nosotros estamos en este bloque.\" Los adolescentes pueden moverse — la zona base no se mueve en toda la noche." },
@@ -176,7 +176,7 @@
     {
       "slug": "navidad-centro",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Diciembre en el centro: la fecha con más niños perdidos del año", "b": "La guía honesta (regla 1: no los lleves)" },
+        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Diciembre: récord de niños perdidos.", "b": "La guía honesta (regla 1: no los lleves)" },
         { "role": "story", "plate": "cine-05-abuela", "h": "Diciembre junta todo lo difícil:", "b": "las calles más llenas del año, apuro, bolsas en ambas manos y niños emocionados." },
         { "role": "value", "n": "1", "h": "Si puedes, no los lleves", "b": "La recomendación honesta primero: Mesa Redonda en diciembre no es para niños pequeños. ¿No hay opción? Sigue leyendo." },
         { "role": "value", "n": "2", "h": "Antes de las 10 am o nada", "b": "La mitad de gente que a las 5 pm. La misma compra, la mitad del riesgo. El horario ES una decisión de seguridad." },

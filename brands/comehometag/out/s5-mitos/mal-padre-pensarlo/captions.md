@@ -1,4 +1,4 @@
-# "Ni lo pienses, que lo atraes" — el mito que más familias desarma
+# El extintor no atrae incendios.
 
 `comehometag` · `s5-mitos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

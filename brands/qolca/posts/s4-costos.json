@@ -5,7 +5,7 @@
     {
       "slug": "cuanto-cuesta-agente",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Nadie en este rubro publica precios. Nosotros sí.", "b": "Cuánto cuesta un agente de WhatsApp en el Perú" },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Nadie publica precios. Nosotros sí.", "b": "Cuánto cuesta un agente de WhatsApp" },
         { "role": "rehook", "h": "Cotizar a ciegas te hace perder tiempo a ti.", "b": "Y a nosotros. Aquí van los números reales." },
         { "role": "value", "h": "El rango real del mercado", "b": "Bots de plantilla: $30-100/mes (respuestas rígidas). Agentes con IA a medida: $1,500-5,000 de construcción + $100-300/mes. Son productos distintos." },
         { "role": "value", "h": "Qué pagas en la construcción", "b": "El análisis de tus conversaciones reales, las reglas y límites, las conexiones (agenda, precios) y las pruebas. El código es la parte corta." },
@@ -25,7 +25,7 @@
     {
       "slug": "costo-mensual-mantener",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Lo que te cotizan es el 60% del costo real", "b": "La parte que descubres en el mes 8" },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "¿Qué pasa en el mes 8?", "b": "La parte del costo que nadie cotiza" },
         { "role": "rehook", "h": "La construcción es la mitad de la película.", "b": "El otro 40% llega después — y ahí los proyectos baratos se vuelven caros." },
         { "role": "value", "h": "Los costos de operación reales", "b": "APIs (WhatsApp, IA, integraciones): $50-200/mes según volumen. Servidores: $20-80/mes. Costos de terceros: transparentes y verificables." },
         { "role": "value", "h": "El mantenimiento que sí importa", "b": "Meta actualiza su API 2-3 veces al año, tus precios cambian, tu negocio cambia. El sistema debe seguir el paso — alguien debe seguirlo con él." },
@@ -45,7 +45,7 @@
     {
       "slug": "cuando-no-automatizar",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Rechazamos 1 de cada 4 proyectos. Estas son las razones.", "b": "5 casos donde NO deberías automatizar" },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Rechazamos 1 de cada 4 proyectos", "b": "5 casos donde NO deberías automatizar" },
         { "role": "rehook", "h": "Automatizar lo equivocado es caos más rápido.", "b": "Y te lo dice quien vive de automatizar." },
         { "role": "value", "n": "1", "h": "El proceso que cambia cada semana", "b": "Automatizar un borrador lo congela. Primero estabiliza a mano; automatiza lo que ya funciona." },
         { "role": "value", "n": "2", "h": "El volumen de maceta", "b": "Automatizar 5 facturas al mes es comprar un tractor para una maceta. Si toma <5 horas/mes, tu Excel está bien. En serio." },
@@ -65,7 +65,7 @@
     {
       "slug": "chatbot-humo",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "El 80% de los \"chatbots con IA\" son menús de botones con disfraz", "b": "Guía para no comprar humo" },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "El 80% de chatbots es humo", "b": "Menús de botones cobrados como IA" },
         { "role": "rehook", "h": "\"Chatbot con IA\" puede significar 10 cosas.", "b": "Entre la más barata y la más cara hay un mundo. Apréndelo en 5 minutos." },
         { "role": "value", "h": "Nivel 1: el menú de botones", "b": "\"Marca 1 para ventas\" con disfraz de chat. No entiende texto libre. Útil para flujos simples; NO es IA aunque el brochure lo grite." },
         { "role": "value", "h": "Nivel 2: el detector de palabras", "b": "Si escribes \"precio\", suelta LA plantilla. Escribe \"cuánto sale\" con falta de ortografía y se pierde. Es un buscador, no un agente." },
@@ -85,7 +85,7 @@
     {
       "slug": "build-vs-saas",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "El 60% de las veces te vamos a decir: \"no lo construyas, cómpralo\"", "b": "¿Software a medida o suscripción? La respuesta honesta" },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Casi siempre decimos: no lo construyas", "b": "¿A medida o suscripción? El criterio honesto" },
         { "role": "rehook", "h": "Aunque eso nos deje sin proyecto.", "b": "Este es el criterio completo que usamos." },
         { "role": "value", "h": "Compra la suscripción cuando...", "b": "Tu proceso es estándar (agenda, facturación simple, correos): un software maduro a $20-100/mes es imbatible. No reinventes lo resuelto." },
         { "role": "value", "h": "Construye cuando el proceso ES tu ventaja", "b": "Si tu forma de cotizar u operar es lo que te diferencia, meterla a la fuerza en un software genérico la mata." },
@@ -105,7 +105,7 @@
     {
       "slug": "cuanto-tarda",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "\"En una semana está\" — la mentira fundacional del rubro", "b": "Cronogramas reales, proyecto por proyecto" },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "\"En una semana está.\"", "b": "La mentira fundacional del rubro" },
         { "role": "rehook", "h": "Se puede armar ALGO en 3 días.", "b": "Funciona en la demostración y explota con tus clientes reales." },
         { "role": "value", "h": "Agente de WhatsApp: 2-4 semanas", "b": "Días 1-5 análisis de conversaciones; 6-15 construcción; 16-20 pruebas con tu equipo; luego lanzamiento supervisado. Menos = sin análisis ni pruebas." },
         { "role": "value", "h": "Integración entre sistemas: 1-3 semanas", "b": "Depende de UNA cosa: si tus sistemas tienen puerta de conexión. Sin ella se puede igual — pero el tiempo se duplica y te lo decimos antes." },
@@ -125,7 +125,7 @@
     {
       "slug": "cuando-el-bot-no-sabe",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Un bot que deriva 0% a humanos no es perfecto: está inventando", "b": "La pregunta que separa lo serio del humo" },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "¿Tu bot deriva 0%? Está inventando.", "b": "La pregunta que separa lo serio del humo" },
         { "role": "rehook", "h": "Todo agente tiene un límite.", "b": "La diferencia entre uno bueno y uno peligroso es qué hace AL llegar a él." },
         { "role": "value", "h": "El peligroso: inventa", "b": "La IA sin límites no dice \"no sé\": improvisa un precio, una promoción, una política de devolución. Con TU marca firmando cada invento." },
         { "role": "value", "h": "El inútil: se rinde en bucle", "b": "\"No entendí tu pregunta\" × 5 hasta que el cliente se va furioso. Técnicamente no mintió; comercialmente te costó un cliente." },
@@ -145,7 +145,7 @@
     {
       "slug": "costo-de-no-automatizar",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "\"Está caro\" compara contra cero. Y el cero no existe.", "b": "La calculadora del costo invisible" },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Hacerlo a mano: hasta S/6,000 mensuales", "b": "La calculadora del costo invisible" },
         { "role": "rehook", "h": "Hacerlo a mano también cuesta.", "b": "Solo que en cuotas que nadie ve. Hagamos la cuenta." },
         { "role": "value", "n": "1", "h": "Las horas", "b": "(Horas semanales del proceso) × 4.3 × (costo/hora de quien lo hace). Diez horas semanales de alguien de S/12/hora = S/516 al mes. Solo en tiempo." },
         { "role": "value", "n": "2", "h": "Los errores", "b": "El tipeo humano falla 1-4%. ¿Cuánto cuesta UN error en tu proceso — pedido mal enviado, factura rechazada, cita perdida? × errores/mes." },
@@ -165,7 +165,7 @@
     {
       "slug": "por-proyecto-no-por-hora",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Pagar por hora premia al proveedor lento. Piénsalo.", "b": "Por qué cobramos por proyecto" },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Pagar por hora premia al lento", "b": "Por qué cobramos por proyecto" },
         { "role": "rehook", "h": "La hora castiga la experiencia.", "b": "Lo que resolvemos en 2 horas nos tomó años aprender." },
         { "role": "value", "h": "El incentivo perverso", "b": "Por hora, la lentitud factura más: el proveedor eficiente gana MENOS que el lento. ¿Qué comportamiento estás premiando?" },
         { "role": "value", "h": "El precio cerrado alinea intereses", "b": "Precio fijo por resultado definido: si terminamos antes, ganamos ambos; si algo se complica, el riesgo es nuestro — no tu presupuesto." },
@@ -185,7 +185,7 @@
     {
       "slug": "preguntas-antes-de-contratar",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "7 preguntas que hacen sudar a cualquier proveedor de software", "b": "Úsalas con todos. Incluidos nosotros." },
+        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "7 preguntas que hacen sudar proveedores", "b": "Úsalas con todos. Incluidos nosotros." },
         { "role": "rehook", "h": "Un buen proveedor sobrevive el interrogatorio.", "b": "Uno malo se ofende. Esa reacción también es una respuesta." },
         { "role": "value", "n": "1", "h": "\"¿Puedo hablar con 2 clientes tuyos?\"", "b": "No capturas ni logos: conversaciones reales. El que no tiene 2 clientes dispuestos a una llamada tiene un problema que heredarás tú." },
         { "role": "value", "n": "2", "h": "\"¿Qué pasa CUANDO esto se rompa?\"", "b": "No \"si\": cuando. Tiempo de respuesta, canal, costo. La respuesta vaga de hoy es el sistema muerto del mes 6." },

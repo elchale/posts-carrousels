@@ -1,4 +1,4 @@
-# "Habría que cambiar todo el sistema" — no. Solo conectarlo.
+# No cambies el sistema. Conéctalo.
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

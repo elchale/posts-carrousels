@@ -1,4 +1,4 @@
-# Le hablas a todos. Por eso nadie te escucha.
+# Le hablas a todos.
 
 `propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

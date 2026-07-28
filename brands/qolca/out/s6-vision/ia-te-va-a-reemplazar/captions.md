@@ -1,4 +1,4 @@
-# No te reemplaza la IA. Te reemplaza el competidor que la usa.
+# No te reemplaza la IA.
 
 `qolca` · `s6-vision` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

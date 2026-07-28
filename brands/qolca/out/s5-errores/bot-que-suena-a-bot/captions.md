@@ -1,4 +1,4 @@
-# "Estimado usuario" — nadie habla así. Tu bot tampoco debería.
+# "Estimado usuario" — nadie habla así
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

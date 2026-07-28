@@ -1,4 +1,4 @@
-# 2 minutos antes de salir pueden ahorrarte las peores 2 horas de tu vida
+# La rutina que nadie hace.
 
 `comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

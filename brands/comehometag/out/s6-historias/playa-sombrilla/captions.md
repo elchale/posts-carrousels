@@ -1,4 +1,4 @@
-# "Voy a mojarme los pies", dijo.
+# "Voy a mojarme los pies."
 
 `comehometag` · `s6-historias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

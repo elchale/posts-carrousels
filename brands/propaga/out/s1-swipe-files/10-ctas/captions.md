@@ -1,4 +1,4 @@
-# "¡Dale like y comparte!" murió en 2019. Esto sí funciona.
+# "Dale like" murió en 2019.
 
 `propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# 2:47 am. La oficina apagada. Y tu empresa... trabajando.
+# 2:47 am. Tu empresa trabajando.
 
 `qolca` · `s6-vision` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

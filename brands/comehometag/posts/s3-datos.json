@@ -5,7 +5,7 @@
     {
       "slug": "51-al-dia",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Mientras lees este post, alguien desaparece en el Perú", "b": "Y el mito que empeora todo" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "51 desapariciones al día.", "b": "En el Perú. Y un mito lo empeora." },
         { "role": "stat", "h": "51 al día.", "b": "Denuncias por desaparición registradas por la Policía Nacional, enero a julio 2025 (Sidpol)." },
         { "role": "value", "h": "No es una ciudad lejana", "b": "Es Lima, Arequipa, Trujillo, tu distrito. Personas comunes en días comunes: un mercado, una salida, un descuido de 40 segundos." },
         { "role": "value", "h": "La mayoría se resuelve rápido...", "b": "...cuando la familia actúa en los primeros minutos con información correcta: foto reciente, descripción exacta, aviso inmediato." },
@@ -24,7 +24,7 @@
     {
       "slug": "52-por-ciento-menores",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Más de la mitad de los desaparecidos en el Perú son niños", "b": "El dato — y las 3 defensas" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "¿Quiénes desaparecen más en Perú?", "b": "Más de la mitad son niños. 3 defensas." },
         { "role": "stat", "h": "52%", "b": "De las denuncias por desaparición en el Perú corresponden a menores de edad (Sidpol, ene-jul 2025)." },
         { "role": "value", "h": "¿Dónde ocurre?", "b": "En escenarios comunes: lugares concurridos, trayectos de todos los días, distracciones de segundos. No en películas: en sábados." },
         { "role": "value", "h": "Un niño perdido no razona como adulto", "b": "Corre, cambia de dirección, olvida números que \"se sabía\". El plan tiene que asumir al niño real, no al ideal." },
@@ -43,7 +43,7 @@
     {
       "slug": "200-mil-alzheimer",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "200,000 peruanos viven con Alzheimer. Casi ninguna familia tiene plan.", "b": "El síntoma del que nadie habla" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "200,000 peruanos. Casi ningún plan.", "b": "Alzheimer: el síntoma del que nadie habla" },
         { "role": "stat", "h": "6 de cada 10", "b": "personas con demencia se extraviarán al menos una vez (Alzheimer's Association). En el Perú: 200,000+ casos (MINSA)." },
         { "role": "value", "h": "La deambulación es parte de la enfermedad", "b": "Salir de casa y no encontrar el camino de vuelta no es rebeldía ni descuido del cuidador. Es un síntoma. Con plan." },
         { "role": "value", "h": "Caminan hacia su memoria", "b": "No van a lugares nuevos: van al trabajo de hace 30 años, a la casa donde crecieron, a la iglesia de siempre. Ahí se busca primero." },
@@ -61,7 +61,7 @@
     {
       "slug": "minutos-criticos",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "A los 30 minutos, el área de búsqueda es 60 veces más grande", "b": "La matemática que nadie te enseñó" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "¿Cuánto camina un niño perdido?", "b": "Haz la cuenta: cada minuto agranda el mapa" },
         { "role": "stat", "h": "100 metros por minuto.", "b": "Lo que camina un niño. Haz la cuenta y entenderás por qué cada minuto vale oro." },
         { "role": "value", "h": "Minuto 1: un pasillo", "b": "Recién notas la ausencia. Está a metros. Por eso el protocolo empieza con quedarte y gritar nombre + tu nombre." },
         { "role": "value", "h": "Minuto 5: una manzana entera", "b": "Un buscador solo ya no la cubre. Por eso se avisa a seguridad ANTES de buscar por tu cuenta — no después." },
@@ -80,7 +80,7 @@
     {
       "slug": "verano-playas",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "El verano es la temporada #1 de niños perdidos", "b": "Y la playa tiene sus propias reglas" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Verano: temporada #1 de perdidos.", "b": "Y la playa tiene sus propias reglas" },
         { "role": "stat", "h": "Enero - Marzo.", "b": "Los meses con más reportes de menores extraviados en zonas de playa. Más gente + ropa idéntica + el agua." },
         { "role": "value", "h": "Por qué la playa es distinta", "b": "Todos los niños se ven iguales: gorro, ropa de baño, arena. Y se desplazan EN DIAGONAL siguiendo las olas, sin notarlo." },
         { "role": "value", "h": "El protocolo de guardavidas", "b": "PRIMERO descartar el agua. Después la arena. Y avisar al torreón: ellos ven desde arriba y tienen radio entre puestos." },
@@ -99,7 +99,7 @@
     {
       "slug": "memoria-bajo-panico",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Tu hijo se sabe tu número de memoria. Hasta que se pierde.", "b": "Lo que el pánico le hace al cerebro" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "\"Se sabe mi número de memoria.\"", "b": "Hasta que se pierde. Neurología del pánico." },
         { "role": "stat", "h": "El cortisol bloquea la memoria de trabajo.", "b": "Neurología básica: bajo estrés agudo, recitar secuencias (como un teléfono) se vuelve casi imposible. En niños, más." },
         { "role": "value", "h": "Pruébalo hoy, sin drama", "b": "Pídele tu número tranquilo: lo dice perfecto. Pídeselo agitado, después de correr y gritar en el parque: se traba. Eso, elevado al pánico real." },
         { "role": "value", "h": "Además: un niño perdido no recita. Llora.", "b": "El número tiene que estar disponible cuando el niño NO PUEDE hablar. Eso solo lo hace lo escrito." },
@@ -118,7 +118,7 @@
     {
       "slug": "quien-encuentra",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "A la mayoría de niños perdidos no los encuentra la policía", "b": "La estadística más tranquilizadora que existe" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "No los encuentra la policía.", "b": "La estadística más tranquilizadora que existe" },
         { "role": "stat", "h": "Un adulto común.", "b": "Ni rescatista ni policía: quien más encuentra niños perdidos es un ciudadano cualquiera que estaba ahí." },
         { "role": "value", "h": "La buena noticia escondida", "b": "El mundo tiene muchos más adultos dispuestos a ayudar que lo contrario. Todo el sistema de reunión depende de ELLOS." },
         { "role": "value", "h": "El problema de ese adulto bueno", "b": "Encuentra al niño... ¿y ahora qué? No sabe a quién llamar. Policía, trámite, horas. El niño llorando todo ese tiempo." },
@@ -137,7 +137,7 @@
     {
       "slug": "adulto-mayor-radio",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Un abuelo extraviado casi siempre está a menos de 1.5 km de casa", "b": "El mapa que tu familia debería tener" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Está a 1.5 km. Búscalo bien.", "b": "El mapa que tu familia debería tener" },
         { "role": "stat", "h": "1.5 km.", "b": "La mayoría de personas con demencia extraviadas aparece dentro de ese radio, sobre rutas conocidas." },
         { "role": "value", "h": "No buscan escapar. Buscan VOLVER.", "b": "\"Ir a trabajar\", \"volver a mi casa\" (la de hace 40 años), \"ir a misa\". La memoria antigua da la orden; los pies obedecen." },
         { "role": "value", "h": "El mapa de SU pasado", "b": "Haz hoy la lista de 5: casa de infancia, antiguos trabajos, iglesia, mercado de siempre, parque. Ese es el mapa de búsqueda." },
@@ -156,7 +156,7 @@
     {
       "slug": "costo-tranquilidad",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Te están cobrando mensualidad por la tranquilidad", "b": "La cuenta honesta: GPS vs identificación" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "¿Pagas mensualidad por tranquilidad?", "b": "La cuenta honesta: GPS vs identificación" },
         { "role": "stat", "h": "S/ 540 - 780 al año.", "b": "Lo que cuestan las mensualidades de un rastreador GPS para niños o abuelos. Más el aparato. Cada año, para siempre." },
         { "role": "value", "h": "El GPS tiene su lugar...", "b": "Deambulación severa o casos específicos: ahí puede justificarse. Es una herramienta válida — con letras chicas." },
         { "role": "value", "h": "...y tres talones de Aquiles", "b": "Batería (se descarga justo el día que importa), señal (falla en interiores y mercados) y mensualidad (se cancela el mes difícil)." },
@@ -175,7 +175,7 @@
     {
       "slug": "mitos-vs-datos",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "5 mitos sobre desapariciones que los datos destrozan", "b": "El #1 lo cree casi todo el Perú" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "5 mitos que destrozan los datos.", "b": "El #1 lo cree casi todo el Perú" },
         { "role": "stat", "h": "\"Hay que esperar 24 horas.\"", "b": "FALSO. En el Perú la denuncia es inmediata, a cualquier hora, en cualquier comisaría. Este mito cuesta horas de oro." },
         { "role": "value", "n": "2", "h": "\"Eso le pasa a familias descuidadas\"", "b": "FALSO. Le pasa a familias normales en momentos normales. 40 segundos de distracción los tiene cualquiera, todos los días." },
         { "role": "value", "n": "3", "h": "\"El peligro son los desconocidos\"", "b": "INCOMPLETO. El escenario más común es un niño solo y asustado por minutos u horas — y quien lo resuelve es un desconocido BUENO." },
@@ -194,7 +194,7 @@
     {
       "slug": "dia-del-nino",
       "slides": [
-        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Este Día del Niño regala algo que no se rompe en una semana", "b": "4 regalos que duran toda la infancia" },
+        { "role": "cover", "kicker": "LA REALIDAD EN NÚMEROS", "h": "Regálale algo que no se rompe.", "b": "4 regalos que duran toda la infancia" },
         { "role": "stat", "h": "El 80% de los juguetes", "b": "pierde interés en semanas. Un plan familiar ensayado dura toda la infancia. La cuenta sale sola." },
         { "role": "value", "n": "1", "h": "El juego de \"¿y si no me ves?\"", "b": "5 minutos esta noche: quedarse quieto, buscar al adulto seguro, mostrar su identificación. Un juego que protege." },
         { "role": "value", "n": "2", "h": "Su primera identificación PROPIA", "b": "A los niños les encanta tener algo suyo: su pulsera, con su nombre. Seguridad disfrazada de regalo — la mejor versión de ambas." },

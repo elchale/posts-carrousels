@@ -1,4 +1,4 @@
-# 3 posts por semana. Eso es todo. (El plan que SÍ se cumple)
+# El plan que SÍ se cumple.
 
 `propaga` · `s1-swipe-files` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

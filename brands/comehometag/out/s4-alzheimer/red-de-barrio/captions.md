@@ -1,4 +1,4 @@
-# 5 conversaciones de 2 minutos cuidan más que cualquier aparato
+# 5 conversaciones de 2 minutos.
 
 `comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

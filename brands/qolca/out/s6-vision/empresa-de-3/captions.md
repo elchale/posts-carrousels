@@ -1,4 +1,4 @@
-# Lo que una empresa de 3 personas puede operar en 2026
+# 3 personas. Operación de 12.
 
 `qolca` · `s6-vision` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

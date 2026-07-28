@@ -1,4 +1,4 @@
-# Tu logo gigante no evita ningún robo. Solo espanta clientes.
+# Tu logo gigante espanta clientes.
 
 `propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

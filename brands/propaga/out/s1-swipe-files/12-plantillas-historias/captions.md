@@ -1,4 +1,4 @@
-# Deja de subir 9 historias del mismo producto
+# ¿9 historias del mismo producto?
 
 `propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

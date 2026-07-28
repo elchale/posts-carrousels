@@ -1,4 +1,4 @@
-# El futuro ya llegó a tu rubro. Calladito, en la empresa de al lado.
+# El futuro ya llegó. Calladito.
 
 `qolca` · `s6-vision` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

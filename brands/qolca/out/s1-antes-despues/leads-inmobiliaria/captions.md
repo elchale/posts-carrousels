@@ -1,4 +1,4 @@
-# El 70% de sus leads inmobiliarios moría en un Excel
+# El Excel donde mueren los leads
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

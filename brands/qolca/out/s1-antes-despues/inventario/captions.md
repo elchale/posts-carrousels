@@ -1,4 +1,4 @@
-# El sistema decía 40 unidades. El almacén tenía 12.
+# El sistema: 40. El almacén: 12.
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

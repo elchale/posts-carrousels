@@ -1,4 +1,4 @@
-# Septiembre tiene el mejor marketing gratis del año: la primavera
+# 100 días para el 2027.
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

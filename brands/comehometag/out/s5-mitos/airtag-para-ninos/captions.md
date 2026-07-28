@@ -1,4 +1,4 @@
-# El AirTag fue diseñado para maletas. Tu hijo no es una maleta.
+# ¿AirTag para tu hijo?
 
 `comehometag` · `s5-mitos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

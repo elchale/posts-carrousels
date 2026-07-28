@@ -1,4 +1,4 @@
-# El 80% de los propósitos muere el 19 de enero. Tu negocio tiene 3 semanas.
+# Tu negocio tiene 3 semanas.
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

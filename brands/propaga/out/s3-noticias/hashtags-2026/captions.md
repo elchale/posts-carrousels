@@ -1,4 +1,4 @@
-# #amor #love #instagood — 2018 llamó, quiere sus hashtags de vuelta
+# 2018 llamó: quiere sus hashtags.
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

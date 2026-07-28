@@ -1,4 +1,4 @@
-# El 90% de los paneles de control muere en 3 semanas. Este cumplió un año.
+# Los paneles mueren en 3 semanas
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

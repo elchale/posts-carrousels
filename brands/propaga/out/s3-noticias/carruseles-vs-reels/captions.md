@@ -1,4 +1,4 @@
-# ¿Carruseles o videos? Los datos de 45 millones de posts (no el gurú)
+# ¿Carruseles o videos?
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

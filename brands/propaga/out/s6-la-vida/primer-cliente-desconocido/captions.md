@@ -1,4 +1,4 @@
-# El día que un DESCONOCIDO te compró por un post.
+# Un DESCONOCIDO te compró.
 
 `propaga` · `s6-la-vida` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

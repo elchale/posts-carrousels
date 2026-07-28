@@ -1,4 +1,4 @@
-# Tu hijo se sabe tu número de memoria. Hasta que se pierde.
+# "Se sabe mi número de memoria."
 
 `comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

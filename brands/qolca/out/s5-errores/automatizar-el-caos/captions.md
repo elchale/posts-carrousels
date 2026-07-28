@@ -1,4 +1,4 @@
-# Automatizaste el caos. Ahora es caos más rápido.
+# Caos automatizado = caos más rápido
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

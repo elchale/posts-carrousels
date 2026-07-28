@@ -1,4 +1,4 @@
-# En el estadio todos visten igual. Tu hijo también.
+# 40,000 vestidos igual. Tu hijo también.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

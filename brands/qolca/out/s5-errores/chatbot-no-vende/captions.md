@@ -1,4 +1,4 @@
-# Tu chatbot informa. No vende. Hay una diferencia.
+# Tu chatbot informa. No vende.
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

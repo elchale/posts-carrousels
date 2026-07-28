@@ -1,4 +1,4 @@
-# El timbre del camión del gas. Otra vez.
+# Tres segundos de puerta abierta.
 
 `comehometag` · `s6-historias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

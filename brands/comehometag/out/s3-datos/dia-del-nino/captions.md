@@ -1,4 +1,4 @@
-# Este Día del Niño regala algo que no se rompe en una semana
+# Regálale algo que no se rompe.
 
 `comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

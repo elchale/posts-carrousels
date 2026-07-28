@@ -1,4 +1,4 @@
-# El que pregunta por un auto hoy compra en 2 semanas. En algún lado.
+# Pregunta hoy. Compra en 2 semanas.
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

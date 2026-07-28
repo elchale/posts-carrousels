@@ -1,4 +1,4 @@
-# ¿Sin ideas? Tus últimos 20 DMs esconden 5 posts.
+# ¿Sin ideas? Revisa tus DMs.
 
 `propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

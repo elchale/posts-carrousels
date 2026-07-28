@@ -1,4 +1,4 @@
-# 60 años yendo a ver al Señor de los Milagros.
+# 60 años en su procesión.
 
 `comehometag` · `s6-historias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

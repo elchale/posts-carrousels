@@ -1,4 +1,4 @@
-# Tu recepción hace 4 trabajos con 2 manos. Algo siempre se cae.
+# 4 trabajos, 2 manos
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

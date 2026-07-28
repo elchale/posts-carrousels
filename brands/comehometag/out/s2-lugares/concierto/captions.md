@@ -1,4 +1,4 @@
-# En un concierto tu celular muere antes que la música
+# Tu celular muere primero.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

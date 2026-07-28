@@ -1,4 +1,4 @@
-# "Le compramos un GPS a la abuela y listo" — ojalá fuera tan fácil
+# El GPS tiene letra chica.
 
 `comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

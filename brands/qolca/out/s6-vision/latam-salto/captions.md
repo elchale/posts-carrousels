@@ -1,4 +1,4 @@
-# África se saltó el teléfono fijo. LatAm puede saltarse 20 años de software.
+# Sáltate 20 años de software
 
 `qolca` · `s6-vision` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

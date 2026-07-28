@@ -1,4 +1,4 @@
-# "Quiero irme a mi casa" — dicho DENTRO de su casa
+# "Quiero irme a mi casa."
 
 `comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# Este post que estás leyendo lo produjo un sistema
+# ¿Quién diseñó este post? Nadie.
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

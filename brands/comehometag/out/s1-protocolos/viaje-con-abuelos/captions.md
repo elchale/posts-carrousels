@@ -1,4 +1,4 @@
-# Viajar con abuelos necesita el mismo plan que viajar con niños
+# Los abuelos también se pierden.
 
 `comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

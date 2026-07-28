@@ -5,7 +5,7 @@
     {
       "slug": "agente-whatsapp-clinica",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Un agente de WhatsApp para una clínica, en 6 días. Sin misterio.", "b": "El proceso completo, día por día" },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "6 días. Un agente de WhatsApp.", "b": "El proceso completo, día por día" },
         { "role": "rehook", "h": "No empezamos programando.", "b": "Empezamos leyendo 400 conversaciones reales de su WhatsApp. Ahí estaba todo." },
         { "role": "value", "n": "1", "h": "Día 1: la arqueología", "b": "400 chats reales → 6 intenciones cubren el 85%: agendar, reagendar, precios, ubicación, resultados, urgencias. Se diseña desde los datos, no la imaginación." },
         { "role": "value", "n": "2", "h": "Día 2: las reglas de oro", "b": "Qué NUNCA responde solo (urgencias médicas → humano al instante), qué tono usa, cuándo se rinde. El límite importa más que la inteligencia." },
@@ -25,7 +25,7 @@
     {
       "slug": "bot-cotizacion",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Su mejor vendedor tardaba 2 días en cotizar. El sistema tarda 90 segundos.", "b": "Y el cierre subió de 12% a 31%" },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "¿Cotizar? 90 segundos.", "b": "Antes: 2 días. El cierre subió al 31%" },
         { "role": "rehook", "h": "No era lento: cotizar requería 4 fuentes y 2 jefes.", "b": "El problema nunca fue el vendedor. Era el sistema invisible detrás." },
         { "role": "value", "n": "1", "h": "El diagnóstico incómodo", "b": "El 80% de cotizaciones usaba las mismas 12 configuraciones. Solo el 20% necesitaba ingeniería real. Trataban todo como el 20%." },
         { "role": "value", "n": "2", "h": "La matriz que vivía en una cabeza", "b": "Dos tardes entrevistando al jefe de operaciones → la lógica de precios completa, por fin escrita: reglas, márgenes, excepciones." },
@@ -45,7 +45,7 @@
     {
       "slug": "crm-desde-formularios",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Tenían un CRM. Nadie lo llenaba. Lo hicimos llenarse solo.", "b": "Fichas completas: del 30% al 96%" },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "El CRM que se llena solo", "b": "Fichas completas: del 30% al 96%" },
         { "role": "rehook", "h": "Llenar un CRM es el trabajo que nadie contrató hacer.", "b": "El CRM vacío no es un problema de disciplina: es de diseño." },
         { "role": "value", "n": "1", "h": "El pecado original de todo CRM", "b": "Exigir que humanos ocupados tipeen lo que el sistema podría capturar solo. Por eso el 70% de implementaciones fracasa." },
         { "role": "value", "n": "2", "h": "El inventario de fuentes", "b": "¿Dónde nacía la información? Formulario web, WhatsApp, llamadas, ferias, referidos. Cinco puertas de entrada — cero conectadas." },
@@ -65,7 +65,7 @@
     {
       "slug": "pipeline-facturas",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "El robot que lee 600 facturas al mes y no se aburre en la 400", "b": "Lectura + validación + registro, sin manos" },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "600 facturas al mes. Cero manos.", "b": "El robot que lee, valida y registra" },
         { "role": "rehook", "h": "Una persona, tres días al mes, tipeando facturas ajenas.", "b": "PDF por PDF, al sistema contable. Había que verlo para creerlo." },
         { "role": "value", "n": "1", "h": "La entrada única", "b": "Regla nueva: toda factura de proveedor entra por UN correo. Se acabaron los PDF por WhatsApp, papel y \"te lo mando luego\"." },
         { "role": "value", "n": "2", "h": "La lectura automática", "b": "Cada PDF se lee solo: RUC, monto, fecha, detalle, IGV — aunque cada proveedor tenga SU formato distinto." },
@@ -85,7 +85,7 @@
     {
       "slug": "chatbot-agenda",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "8 mensajes para agendar UNA reunión. Ahora son 2.", "b": "La muerte del ping-pong de horarios" },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "\"¿Martes?\" \"No.\" \"¿Jueves?\" \"Mejor viernes...\"", "b": "8 mensajes para UNA reunión. Ahora: 2." },
         { "role": "rehook", "h": "\"¿Martes?\" \"No, ¿jueves?\" \"¿Tarde?\" \"Mejor viernes...\"", "b": "El impuesto invisible de toda agenda. Así lo eliminamos." },
         { "role": "value", "n": "1", "h": "La medición del dolor", "b": "8 mensajes promedio por reunión × 25 reuniones semanales del equipo = 200 mensajes de puro tira y afloja." },
         { "role": "value", "n": "2", "h": "El asistente lee la agenda REAL", "b": "Conectado a los calendarios del equipo: huecos, traslados y reglas (\"no antes de las 9\", \"viernes tarde libre\")." },
@@ -105,7 +105,7 @@
     {
       "slug": "tienda-almacen",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "\"Habría que cambiar todo el sistema\" — no. Solo conectarlo.", "b": "Tienda online + almacén, sin migrar nada" },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "No cambies el sistema. Conéctalo.", "b": "Tienda online + almacén, sin migrar nada" },
         { "role": "rehook", "h": "La magia no es reemplazar lo que ya usas.", "b": "Es construir el PUENTE entre lo que ya pagas." },
         { "role": "value", "n": "1", "h": "El problema clásico", "b": "La web vendía productos que el almacén no tenía; el almacén tenía productos que la web no mostraba. Dos sistemas, cero conversación." },
         { "role": "value", "n": "2", "h": "El puente, no la mudanza", "b": "Nadie cambió de software: un conector lee el almacén cada 5 minutos y actualiza la tienda — stock, precios, productos nuevos." },
@@ -125,7 +125,7 @@
     {
       "slug": "dashboard-ventas",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "El 90% de los paneles de control muere en 3 semanas. Este cumplió un año.", "b": "Anatomía del panel que SÍ se usa" },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Los paneles mueren en 3 semanas", "b": "Anatomía del que cumplió un año" },
         { "role": "rehook", "h": "No mueren por feos. Mueren por irrelevantes.", "b": "La diferencia se decide antes de dibujar el primer gráfico." },
         { "role": "value", "n": "1", "h": "Se empieza por las DECISIONES", "b": "¿Qué decide el gerente cada semana? Precios, reposición, incentivos, cobranza. El panel muestra SOLO lo que alimenta esas 4 decisiones." },
         { "role": "value", "n": "2", "h": "Cinco números, no cincuenta", "b": "Venta vs meta, margen real, movimientos raros, cobranza vencida, quiebres próximos. El resto existe — a un clic, no en la cara." },
@@ -145,7 +145,7 @@
     {
       "slug": "flujo-cobranza",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "La secuencia que cobra S/2M al año sin una llamada incómoda", "b": "Mensaje por mensaje. Cópiala." },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "La secuencia que cobra S/2M", "b": "Mensaje por mensaje. Cópiala." },
         { "role": "rehook", "h": "Cobrar no tiene por qué dañar la relación.", "b": "Esta secuencia exacta lo demuestra. Tómala, es tuya." },
         { "role": "value", "n": "1", "h": "Día -3: el pre-aviso amable", "b": "\"Hola Ana, la factura F001-234 (S/3,500) vence el viernes. Cualquier consulta, por aquí 😊\" — La mitad paga solo con esto." },
         { "role": "value", "n": "2", "h": "Día +1: el recordatorio sin drama", "b": "\"La factura venció ayer. Seguro es un tema de trámite — te dejo el link de pago por si ayuda.\" Puente de plata, cero acusación." },
@@ -165,7 +165,7 @@
     {
       "slug": "asistente-interno",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Toda empresa tiene una Rosa: la persona que sabe TODO", "b": "El asistente que la ascendió" },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Toda empresa tiene una Rosa", "b": "La que sabe TODO. Este asistente la ascendió" },
         { "role": "rehook", "h": "El día que Rosa está de vacaciones, la empresa cojea.", "b": "Ese día revela el problema: el conocimiento tiene un solo dueño." },
         { "role": "value", "n": "1", "h": "El censo del conocimiento", "b": "¿Qué le preguntan a Rosa? Dos semanas registrando: 140 preguntas distintas — procedimientos, formatos, \"¿cómo se hace X?\"." },
         { "role": "value", "n": "2", "h": "La documentación que nadie quería escribir", "b": "No le pedimos \"documenta todo\" (nunca funciona): la entrevistamos 6 horas grabadas y la IA convirtió sus respuestas en la base. Rosa habló; el sistema escribió." },
@@ -185,7 +185,7 @@
     {
       "slug": "sistema-de-este-perfil",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Este post que estás leyendo lo produjo un sistema", "b": "El desmontaje de nuestro propio contenido" },
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "¿Quién diseñó este post? Nadie.", "b": "Lo produjo un sistema. Desmontaje completo." },
         { "role": "rehook", "h": "Practicamos lo que cobramos.", "b": "Este perfil corre sobre el mismo tipo de sistema que construimos para clientes." },
         { "role": "value", "n": "1", "h": "El contenido nace como datos", "b": "Cada post es un archivo de texto: gancho, láminas, textos por red. Escribir un carrusel = escribir 8 líneas. El diseño no se toca nunca." },
         { "role": "value", "n": "2", "h": "El diseño es un sistema, no un diseñador", "b": "Marca definida UNA vez: fuentes, colores, márgenes. Un renderizador convierte las 8 líneas en láminas finales, idénticas en estilo, siempre." },

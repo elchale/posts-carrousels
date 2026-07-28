@@ -1,4 +1,4 @@
-# Llevas 8 meses "evaluando opciones". Tus leads siguen muriendo en Excel.
+# ¿Cuántos meses llevas "evaluando opciones"?
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

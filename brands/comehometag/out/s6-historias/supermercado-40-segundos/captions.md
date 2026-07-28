@@ -1,4 +1,4 @@
-# Perdiste de vista a tu hija 40 segundos.
+# 40 segundos.
 
 `comehometag` · `s6-historias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

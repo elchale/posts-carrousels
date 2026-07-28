@@ -1,4 +1,4 @@
-# "Me distraje cinco minutos" — la frase que no te deja dormir
+# "Me distraje cinco minutos."
 
 `comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

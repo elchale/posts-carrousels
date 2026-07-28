@@ -5,7 +5,7 @@
     {
       "slug": "ecommerce",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Tu tienda online pierde 30-50 horas al mes en estos 5 procesos", "b": "Y cuánto cuesta cada uno" },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Tu tienda pierde 50 horas mensuales", "b": "Los 5 procesos culpables, con costos" },
         { "role": "rehook", "h": "Vender online no era esto.", "b": "Era vender — no copiar datos entre cinco pantallas todo el día." },
         { "role": "value", "n": "1", "h": "Responder \"¿precio? ¿stock? ¿delivery?\"", "b": "El 80% de tus chats son 6 preguntas. Un agente las responde en segundos, 24/7 — incluida la venta de las 11pm que hoy pierdes." },
         { "role": "value", "n": "2", "h": "Pasar pedidos de la web al almacén", "b": "Cada pedido transcrito a mano es un error esperando pasar. El pedido debe VIAJAR solo: web → despacho → lista de picking." },
@@ -25,7 +25,7 @@
     {
       "slug": "inmobiliaria",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Tu publicidad trae leads. Tu Excel los deja morir.", "b": "Los 5 procesos que desangran a las inmobiliarias" },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "El Excel que mata tus leads", "b": "Los 5 procesos que desangran a las inmobiliarias" },
         { "role": "rehook", "h": "El embudo se arregla por dentro.", "b": "No con más presupuesto de anuncios." },
         { "role": "value", "n": "1", "h": "Responder al lead nuevo", "b": "Un lead inmobiliario espera minutos, no días: a las 24h ya visitó otro proyecto. Respuesta al minuto con brochure + agendamiento." },
         { "role": "value", "n": "2", "h": "Seguir a los tibios", "b": "El 80% no decide en la primera llamada. Secuencias día 3, 7, 14 y 30 mantienen vivo al \"lo estoy pensando\"." },
@@ -45,7 +45,7 @@
     {
       "slug": "clinica",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Tu recepción hace 4 trabajos con 2 manos. Algo siempre se cae.", "b": "Los 5 procesos que ahogan a las clínicas" },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "4 trabajos, 2 manos", "b": "Los 5 procesos que ahogan a las clínicas" },
         { "role": "rehook", "h": "Teléfono, mostrador, caja y WhatsApp.", "b": "El paciente que no logra comunicarse agenda en otra clínica." },
         { "role": "value", "n": "1", "h": "Agendar por un teléfono ocupado", "b": "Agendamiento por WhatsApp 24/7 contra la agenda real de los doctores. El teléfono queda para lo que necesita voz." },
         { "role": "value", "n": "2", "h": "(No) confirmar citas", "b": "El 20-30% de inasistencia no es mala suerte: es falta de sistema. Recordatorio 48h y 3h con confirmar/reagendar en el mensaje." },
@@ -65,7 +65,7 @@
     {
       "slug": "logistica",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "\"¿Dónde está mi pedido?\" no debería costar 3 llamadas internas", "b": "Los 5 procesos que frenan tu operación" },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "\"¿Dónde está mi pedido?\" = 3 llamadas", "b": "Los 5 procesos que frenan tu operación" },
         { "role": "rehook", "h": "La logística se gana en los márgenes.", "b": "Y los márgenes se van en papeleo que nadie ve." },
         { "role": "value", "n": "1", "h": "Armar rutas de memoria a las 6am", "b": "Un optimizador las arma en segundos: por zona, capacidad y ventana horaria. El jefe de reparto supervisa, no adivina." },
         { "role": "value", "n": "2", "h": "Avisar estados al cliente", "b": "Cada \"¿dónde está?\" interrumpe la operación. Estados automáticos: en ruta, a 3 paradas, entregado con foto." },
@@ -85,7 +85,7 @@
     {
       "slug": "restaurante",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "El chat que no respondes a la 1:05 pm almorzó en otro lado a la 1:10", "b": "Los 5 procesos que ahogan a tu restaurante" },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "El chat de la 1:05 pm", "b": "A la 1:10 ya almorzó en otro lado" },
         { "role": "rehook", "h": "La hora punta no perdona.", "b": "Y justo a la 1pm el WhatsApp explota, el teléfono suena y la caja tiene cola." },
         { "role": "value", "n": "1", "h": "Pedidos por WhatsApp en hora punta", "b": "Menú interactivo + pedido tomado solo, directo a cocina. El agente no colapsa a la 1pm: a esa hora brilla." },
         { "role": "value", "n": "2", "h": "Las reservas del fin de semana", "b": "Cuaderno = mesas dobles, mesas fantasma y llamadas perdidas. Reserva por WhatsApp con confirmación y recordatorio." },
@@ -105,7 +105,7 @@
     {
       "slug": "estudio-contable",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Ordenas las finanzas de 40 empresas y persigues PDFs por WhatsApp", "b": "El zapatero con los zapatos rotos" },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Ordenas 40 empresas. Persigues PDFs.", "b": "El zapatero con los zapatos rotos" },
         { "role": "rehook", "h": "La mitad del mes se va en operar.", "b": "Y el cliente paga (mejor) por asesorar. Algo no cuadra." },
         { "role": "value", "n": "1", "h": "Perseguir documentos cada cierre", "b": "\"Faltan tus facturas de compra\" × 40 clientes × 12 meses. Recordatorios automáticos con lista por cliente y escalamiento." },
         { "role": "value", "n": "2", "h": "Tipear facturas al sistema", "b": "La IA lee PDF y XML, valida contra SUNAT y registra categorizado. El asistente revisa excepciones — no tipea." },
@@ -125,7 +125,7 @@
     {
       "slug": "academia",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "En tu última campaña de matrícula, el 60% de consultas quedó sin responder", "b": "Cada una era un alumno potencial" },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "60% de consultas sin responder", "b": "Cada una era un alumno potencial" },
         { "role": "rehook", "h": "Cada campaña, el mismo caos.", "b": "Cientos de interesados, un Excel, tres señoritas de informes y un teléfono que no para." },
         { "role": "value", "n": "1", "h": "Responder informes", "b": "El 90% de consultas de campaña son idénticas: horarios, precios, requisitos. Respuesta instantánea + el interesado listo pasa a matrícula." },
         { "role": "value", "n": "2", "h": "Seguir al \"todavía\"", "b": "El que preguntó y no se matriculó no dijo que no: dijo \"todavía\". Secuencia con fechas límite y beneficio por pronta matrícula." },
@@ -145,7 +145,7 @@
     {
       "slug": "agencia",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Vendes eficiencia digital. Tu operación corre en capturas de pantalla.", "b": "Nos ha pasado a todos" },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Vendes eficiencia. Operas en capturas.", "b": "Nos ha pasado a todos" },
         { "role": "rehook", "h": "La agencia promedio factura el 60% de su capacidad.", "b": "El resto se va en operar. Los sistemas internos son margen puro." },
         { "role": "value", "n": "1", "h": "El onboarding de cada cliente", "b": "Accesos, formularios, reunión inicial, carpetas, grupo: dos semanas de coordinación que pueden ser 48 horas." },
         { "role": "value", "n": "2", "h": "Los reportes mensuales", "b": "El primer día hábil, toda la agencia armando presentaciones. Reportes automáticos con los datos de cada plataforma + tu análisis encima." },
@@ -165,7 +165,7 @@
     {
       "slug": "constructora",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Una obra parada por materiales cuesta S/5,000-20,000 al día", "b": "Y el pedido se hizo por llamada. O no se hizo." },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Obra parada: S/20,000 al día", "b": "Y el pedido se hizo por llamada. O no." },
         { "role": "rehook", "h": "En obra todo se anota.", "b": "En cuadernos que se mojan, fotos que se pierden y WhatsApps que nadie encuentra." },
         { "role": "value", "n": "1", "h": "El parte diario de obra", "b": "Avance, personal, incidencias: del cuaderno del residente a un formulario móvil con fotos. La oficina lo ve al instante." },
         { "role": "value", "n": "2", "h": "Los requerimientos de materiales", "b": "\"Necesito 40 bolsas para el lunes\" por llamada = pedidos olvidados y obras paradas. Requerimiento digital → aprobación → orden, con historial." },
@@ -185,7 +185,7 @@
     {
       "slug": "concesionario",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "El que pregunta por un auto hoy compra en 2 semanas. En algún lado.", "b": "Que sea contigo depende de 5 procesos" },
+        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Pregunta hoy. Compra en 2 semanas.", "b": "¿Contigo o con otro? 5 procesos deciden" },
         { "role": "rehook", "h": "El lead automotriz compara 4 marcas EL MISMO DÍA.", "b": "Y el taller — no la venta — es el 60% de tu rentabilidad." },
         { "role": "value", "n": "1", "h": "Responder al interesado", "b": "Ficha, precio, financiamiento, prueba de manejo: respuesta al minuto con agendamiento. El lead no espera a nadie." },
         { "role": "value", "n": "2", "h": "Seguir al \"lo voy a pensar\"", "b": "Seguimiento día 3, 7 y 14 con el argumento correcto (financiamiento, bono, entrega). El 70% de las ventas está en el seguimiento." },

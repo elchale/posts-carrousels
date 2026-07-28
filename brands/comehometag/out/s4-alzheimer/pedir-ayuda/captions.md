@@ -1,4 +1,4 @@
-# Cuidar solo no es más amor. Es más riesgo.
+# Cuidar solo es más riesgo.
 
 `comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# Tu bio es la página de venta más corta del mundo. Y tiene 3 segundos.
+# Tu bio tiene 3 segundos.
 
 `propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# Tu tienda online pierde 30-50 horas al mes en estos 5 procesos
+# Tu tienda pierde 50 horas mensuales
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

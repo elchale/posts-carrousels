@@ -1,4 +1,4 @@
-# El community manager a las 11 pm.
+# El CM a las 11 pm.
 
 `propaga` · `s6-la-vida` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

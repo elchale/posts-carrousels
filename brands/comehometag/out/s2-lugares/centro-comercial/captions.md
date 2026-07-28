@@ -1,4 +1,4 @@
-# El lugar del mall donde más niños se pierden no es el que crees
+# No es la juguetería.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

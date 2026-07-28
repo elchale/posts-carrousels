@@ -1,4 +1,4 @@
-# Diciembre paga el año — si comunicas UNA fecha
+# Diciembre paga el año.
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

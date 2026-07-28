@@ -1,4 +1,4 @@
-# El aeropuerto separa familias en el único lugar donde no puedes correr a buscar
+# Aquí no puedes correr a buscarlo.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# La IA no compite contra tu gente
+# La IA no compite contigo
 
 `qolca` · `s6-vision` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

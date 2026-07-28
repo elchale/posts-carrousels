@@ -1,4 +1,4 @@
-# Nadie sigue catálogos. Tu feed es uno.
+# Nadie sigue catálogos.
 
 `propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

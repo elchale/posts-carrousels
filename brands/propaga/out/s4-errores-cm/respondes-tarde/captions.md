@@ -1,4 +1,4 @@
-# "¿Precio?" el lunes. Respondiste el jueves. Compró el martes.
+# Preguntó el lunes. Respondiste el jueves.
 
 `propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

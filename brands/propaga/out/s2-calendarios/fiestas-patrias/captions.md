@@ -1,4 +1,4 @@
-# Julio es el diciembre de mitad de año (y casi nadie lo trabaja así)
+# Julio es el diciembre escondido.
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

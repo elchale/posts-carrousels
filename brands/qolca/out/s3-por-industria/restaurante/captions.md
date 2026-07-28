@@ -1,4 +1,4 @@
-# El chat que no respondes a la 1:05 pm almorzó en otro lado a la 1:10
+# El chat de la 1:05 pm
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

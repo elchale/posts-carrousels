@@ -1,4 +1,4 @@
-# Tu familia ensaya sismos cada año. ¿Y separarse en la calle? Nunca.
+# ¿Ensayan sismos? ¿Y perderse?
 
 `comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

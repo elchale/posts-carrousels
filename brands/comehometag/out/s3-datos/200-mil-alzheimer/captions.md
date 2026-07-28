@@ -1,4 +1,4 @@
-# 200,000 peruanos viven con Alzheimer. Casi ninguna familia tiene plan.
+# 200,000 peruanos. Casi ningún plan.
 
 `comehometag` · `s3-datos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 

@@ -1,4 +1,4 @@
-# El domingo perdido de todo e-commerce: 6 horas cuadrando Excel
+# 6 horas cuadrando. Ahora: 20 minutos.
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

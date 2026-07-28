@@ -1,4 +1,4 @@
-# Si encuentras a un niño perdido, NO lo lleves a buscar a su mamá
+# Encontraste a un niño perdido.
 
 `comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

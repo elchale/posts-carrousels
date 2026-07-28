@@ -1,4 +1,4 @@
-# 3 días al mes tipeando datos que YA estaban en el sistema
+# 120 veces. El mismo dato.
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

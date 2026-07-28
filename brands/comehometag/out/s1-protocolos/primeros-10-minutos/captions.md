@@ -1,4 +1,4 @@
-# Los primeros 10 minutos deciden cómo termina el peor día de tu vida
+# Tienes 10 minutos.
 
 `comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

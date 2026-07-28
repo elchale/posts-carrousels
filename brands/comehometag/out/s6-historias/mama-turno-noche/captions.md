@@ -1,4 +1,4 @@
-# Turno de noche en la clínica. Tercera vez esta semana.
+# Turno de noche. Otra vez.
 
 `comehometag` · `s6-historias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

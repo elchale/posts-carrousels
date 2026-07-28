@@ -1,4 +1,4 @@
-# En tu última campaña de matrícula, el 60% de consultas quedó sin responder
+# 60% de consultas sin responder
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

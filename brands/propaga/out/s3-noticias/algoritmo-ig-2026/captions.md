@@ -1,4 +1,4 @@
-# El algoritmo no te odia. Cambió de gustos.
+# El algoritmo no te odia.
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# S/ 180,000 por cobrar y vergüenza de llamar
+# S/ 180,000 por cobrar. Y roche.
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# En una procesión, tu punto de encuentro se mueve dos cuadras
+# ¿Tu punto de encuentro? Avanzó.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

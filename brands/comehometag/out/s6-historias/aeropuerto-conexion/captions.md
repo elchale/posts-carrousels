@@ -1,4 +1,4 @@
-# Primer viaje en avión de toda la familia.
+# Contaste cabezas: faltaba una.
 
 `comehometag` · `s6-historias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

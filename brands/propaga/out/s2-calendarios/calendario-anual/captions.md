@@ -1,4 +1,4 @@
-# Todas las fechas que venden en el Perú, en un solo post
+# Todas las fechas que venden.
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

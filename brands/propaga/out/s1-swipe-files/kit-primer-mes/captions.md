@@ -1,4 +1,4 @@
-# No necesitas ser viral. Necesitas EXISTIR bien.
+# No necesitas ser viral.
 
 `propaga` · `s1-swipe-files` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

@@ -1,4 +1,4 @@
-# 7 preguntas que hacen sudar a cualquier proveedor de software
+# 7 preguntas que hacen sudar proveedores
 
 `qolca` · `s4-costos` · **10 láminas** — sube SIEMPRE en orden 01 → 10
 

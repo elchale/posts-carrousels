@@ -5,7 +5,7 @@
     {
       "slug": "gps-unica-opcion",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El GPS rastrea. No reúne.", "b": "La diferencia que nadie te explica antes de venderte uno" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El GPS rastrea. No reúne.", "b": "La diferencia que nadie te explica" },
         { "role": "rehook", "h": "Son dos problemas distintos.", "b": "Y el segundo es el que importa cuando alguien encuentra a tu hijo." },
         { "role": "value", "h": "Lo que el GPS hace bien", "b": "Te dice dónde está el APARATO. Si está con el niño, cargado y con señal: tienes ubicación. Útil, real." },
         { "role": "value", "h": "Lo que el GPS no puede hacer", "b": "Cuando una señora buena encuentra a tu hijo llorando, el GPS no le dice a ELLA cómo llamarte. Ese momento necesita otra cosa." },
@@ -24,7 +24,7 @@
     {
       "slug": "solo-en-peliculas",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Eso solo pasa en las películas\" — 51 veces al día en el Perú", "b": "El mito de la lejanía" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Eso pasa en las películas.\"", "b": "Pasa 51 veces al día en el Perú." },
         { "role": "rehook", "h": "51 denuncias por desaparición AL DÍA.", "b": "Sidpol, enero a julio 2025. Las películas quisieran ese guion." },
         { "role": "value", "h": "El sesgo que nos desprotege", "b": "\"A mí no me va a pasar\" calma la mente y desarma a la familia. Útil para dormir; inútil para prepararse." },
         { "role": "value", "h": "Cómo se ve en la vida real", "b": "No es un thriller: es un niño que siguió a un perro, un abuelo que salió por pan, una playa llena. Cotidiano, no cinematográfico." },
@@ -43,7 +43,7 @@
     {
       "slug": "nunca-se-soltaria",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Mi hijo nunca se soltaría de mi mano\" — todos se sueltan", "b": "El mito del niño perfecto" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "Todos se sueltan. TODOS.", "b": "El mito del niño que nunca se suelta" },
         { "role": "rehook", "h": "Los tranquilos, los movidos, los tuyos, los nuestros.", "b": "Todos. La pregunta es qué pasa el segundo después." },
         { "role": "value", "h": "Los disparadores universales", "b": "Un perro. Un globo. Un payaso. Otra criatura corriendo. La emoción de un niño de 4 años pesa más que cualquier instrucción." },
         { "role": "value", "h": "Además: tú también sueltas", "b": "Para pagar, contestar, cargar, ayudar al hermanito. 20 micro-momentos por salida. La mano es una cadena con 40 eslabones sueltos." },
@@ -62,7 +62,7 @@
     {
       "slug": "airtag-para-ninos",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El AirTag fue diseñado para maletas. Tu hijo no es una maleta.", "b": "Para qué sirve y para qué no" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "¿AirTag para tu hijo?", "b": "Fue diseñado para maletas. La letra chica." },
         { "role": "rehook", "h": "Apple lo dice explícitamente:", "b": "no es un rastreador de personas. Y la letra chica técnica le da la razón." },
         { "role": "value", "h": "Cómo funciona de verdad", "b": "No tiene GPS: se ubica por los iPhones que pasan CERCA. En avenida llena, decente; en descampado o zona de pocos iPhones, ciego." },
         { "role": "value", "h": "El retraso que nadie menciona", "b": "La ubicación se actualiza cuando ALGÚN iPhone pasa cerca: puede ser hace 2 minutos o hace 40. Con un niño en movimiento, 40 minutos es otro distrito." },
@@ -81,7 +81,7 @@
     {
       "slug": "nombre-bordado",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El nombre bordado en la mochila le da a un extraño el arma perfecta", "b": "La solución de la abuela, revisada" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El nombre bordado es un arma.", "b": "\"¡Mateo! Tu mamá me mandó por ti.\"" },
         { "role": "rehook", "h": "La intención es perfecta. El método tiene 30 años.", "b": "Y hoy tiene un problema que la abuela no tenía." },
         { "role": "value", "h": "El problema nuevo: la confianza instantánea", "b": "Un nombre visible permite que CUALQUIERA llame a tu hijo por su nombre: \"¡Mateo! Tu mamá me mandó por ti\". Eso es exactamente el riesgo." },
         { "role": "value", "h": "Y tu teléfono a la vista de todos", "b": "El número en la mochila es tu número visible para todo el mundo, todos los días — no solo en emergencias." },
@@ -100,7 +100,7 @@
     {
       "slug": "45-al-mes",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "La tranquilidad no debería cobrarse por mensualidad", "b": "Lo que estás pagando exactamente, mes a mes" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Son solo 50 soles al mes.\"", "b": "Hagamos la cuenta completa, con calma" },
         { "role": "rehook", "h": "\"Son solo 50 soles al mes\", dice quien te la vende.", "b": "Hagamos la cuenta completa, con calma." },
         { "role": "value", "h": "La cuenta del rastreador", "b": "S/45-65 mensuales + el aparato + el cargador que se pierde + el reemplazo. Año uno: S/700-900. Y el contador sigue corriendo." },
         { "role": "value", "h": "El mes que no pagas", "b": "El servicio se corta. La protección por suscripción es protección CONDICIONAL: existe mientras tu tarjeta funcione." },
@@ -119,7 +119,7 @@
     {
       "slug": "siempre-acompanada",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Mi mamá nunca está sola\" significa \"casi nunca está sola\"", "b": "Y los sustos viven en ese \"casi\"" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "Los sustos viven en el \"casi\".", "b": "\"Nunca está sola\" significa casi nunca" },
         { "role": "rehook", "h": "La siesta. El baño. La cocina. El cambio de turno.", "b": "Haz el inventario honesto de una semana: suma horas." },
         { "role": "value", "h": "La deambulación elige esos momentos", "b": "No por astucia: por matemática. Salir requiere un momento sin observación — y esos momentos existen en toda casa, todos los días." },
         { "role": "value", "h": "Los datos lo confirman", "b": "6 de cada 10 personas con demencia se extravían al menos una vez — incluidas las que tienen cuidado profesional de tiempo completo." },
@@ -138,7 +138,7 @@
     {
       "slug": "en-peru-no-funciona",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"El QR en el Perú no funciona\" — hermano, pagas la pollada con QR", "b": "El mito del país excepcional" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "¿El QR no funciona aquí?", "b": "Hermano, pagas la pollada con QR." },
         { "role": "rehook", "h": "Yape, Plin, la carta del restaurante, el bus.", "b": "El QR ya ganó en el Perú. La duda real era otra." },
         { "role": "value", "h": "2020 nos entrenó a todos", "b": "El QR pasó de rareza a rutina nacional en dos años. Hasta la señora de la esquina cobra con QR pegado en la pared." },
         { "role": "value", "h": "La verdadera duda: ¿la gente ayudará?", "b": "Y ahí el Perú es POTENCIA MUNDIAL: somos el país que organiza polladas para el vecino enfermo. La solidaridad es infraestructura nacional." },
@@ -157,7 +157,7 @@
     {
       "slug": "mal-padre-pensarlo",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Ni lo pienses, que lo atraes\" — el mito que más familias desarma", "b": "Hablemos de la cábala más cara del Perú" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El extintor no atrae incendios.", "b": "Hablemos de la cábala más cara del Perú" },
         { "role": "rehook", "h": "El extintor no atrae incendios.", "b": "El SOAT no atrae choques. El simulacro no invoca terremotos. ¿Seguimos?" },
         { "role": "value", "h": "De dónde viene el mito", "b": "Pensar en un hijo perdido DUELE, y la mente evita lo que duele. \"No lo pienso = no pasará\" es anestesia emocional disfrazada de fe." },
         { "role": "value", "h": "Lo que dice la evidencia", "b": "Las familias con plan actúan mejor Y viven más tranquilas. Lo indefinido asusta más que lo planificado — siempre." },
@@ -176,7 +176,7 @@
     {
       "slug": "numero-de-memoria",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Ya se sabe mi número de memoria\" — la mesa de una sola pata", "b": "Por qué no basta (y qué le falta)" },
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Ya se sabe mi número.\"", "b": "La mesa de una sola pata" },
         { "role": "rehook", "h": "Enseñarle tu número: excelente.", "b": "Confiar SOLO en eso: apostar todo a la memoria de un niño asustado." },
         { "role": "value", "h": "La neurología del susto", "b": "El estrés agudo libera cortisol y bloquea la memoria de trabajo — la que recita secuencias. Biología, no falta de práctica." },
         { "role": "value", "h": "Compruébalo sin drama", "b": "Tu hijo dice tu número perfecto en la sala. Pídeselo agitado tras correr y gritar: se traba. Eso, elevado al pánico real." },

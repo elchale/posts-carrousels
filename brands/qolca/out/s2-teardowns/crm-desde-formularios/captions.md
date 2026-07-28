@@ -1,4 +1,4 @@
-# Tenían un CRM. Nadie lo llenaba. Lo hicimos llenarse solo.
+# El CRM que se llena solo
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

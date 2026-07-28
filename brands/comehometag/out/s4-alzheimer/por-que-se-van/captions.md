@@ -1,4 +1,4 @@
-# Para ti salió de casa. Para él, está VOLVIENDO a casa.
+# Para él, está VOLVIENDO a casa.
 
 `comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# "Está caro" compara contra cero. Y el cero no existe.
+# Hacerlo a mano: hasta S/6,000 mensuales
 
 `qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

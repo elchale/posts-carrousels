@@ -5,7 +5,7 @@
     {
       "slug": "cotizaciones-whatsapp",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Su vendedor respondía \"¿precio?\" 80 veces al día. Ya no.", "b": "Caso real, con números" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "\"¿Precio?\" — 80 veces al día.", "b": "El caso que lo arregló, con números" },
         { "role": "rehook", "h": "4 horas diarias de copiar y pegar.", "b": "Eso era \"atender el WhatsApp\". Así se veía el antes." },
         { "role": "value", "h": "ANTES: el celular esclavo", "b": "Un vendedor pegado al chat respondiendo lo mismo 80 veces: precio, stock, delivery. Copy-paste humano, 4 horas al día." },
         { "role": "value", "h": "ANTES: la madrugada perdida", "b": "El 35% de consultas llegaba fuera de horario. Respuesta al día siguiente = cliente que ya compró en otro lado." },
@@ -24,7 +24,7 @@
     {
       "slug": "citas-clinica",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Una clínica con 30% de sillas vacías. Hoy: 9%.", "b": "El caso de las citas perdidas" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Sillas vacías: del 30% al 9%", "b": "El caso de las citas perdidas" },
         { "role": "rehook", "h": "Cada cita perdida son S/80-200 que no vuelven.", "b": "Y la recepcionista no tiene tiempo de llamar a 60 pacientes. Nadie lo tiene." },
         { "role": "value", "h": "ANTES: la ruleta diaria", "b": "30% de inasistencias. Agenda llena en el papel, consultorios vacíos en la práctica. Doctores pagados por horas muertas." },
         { "role": "value", "h": "ANTES: recordar era trabajo manual", "b": "La recepcionista llamaba \"cuando podía\" — entre el mostrador, el teléfono y la caja. Es decir: casi nunca." },
@@ -43,7 +43,7 @@
     {
       "slug": "leads-inmobiliaria",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El 70% de sus leads inmobiliarios moría en un Excel", "b": "Hoy agenda 3x más visitas. Mismo presupuesto." },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El Excel donde mueren los leads", "b": "Hoy: 3x más visitas, mismo presupuesto" },
         { "role": "rehook", "h": "Un lead que espera 24 horas ya visitó otro proyecto.", "b": "El problema nunca fue conseguir leads: era dejarlos morir." },
         { "role": "value", "h": "ANTES: el Excel de la muerte", "b": "300 leads mensuales de Facebook y portales caían en una hoja. Los asesores llamaban \"a los buenos\". El resto: nunca contactados." },
         { "role": "value", "h": "ANTES: seguimiento de memoria", "b": "\"Le dije que lo llamaba el jueves\" — y el jueves fue feriado, y el lead compró en el proyecto de enfrente." },
@@ -62,7 +62,7 @@
     {
       "slug": "conciliacion-ecommerce",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El domingo perdido de todo e-commerce: 6 horas cuadrando Excel", "b": "Caso: tienda con 900 pedidos/mes" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "6 horas cuadrando. Ahora: 20 minutos.", "b": "El domingo perdido de todo e-commerce" },
         { "role": "rehook", "h": "Vender es lindo.", "b": "Cuadrar Shopify contra la pasarela contra el banco, no." },
         { "role": "value", "h": "ANTES: tres mundos que no se hablan", "b": "La tienda por un lado, la pasarela por otro, el banco por el suyo. Conciliar = copiar, pegar, marcar en amarillo, dudar." },
         { "role": "value", "h": "ANTES: los errores silenciosos", "b": "Contracargos no detectados, pagos duplicados, pedidos enviados sin cobro confirmado. Plata que se va sin hacer ruido." },
@@ -81,7 +81,7 @@
     {
       "slug": "reportes-semanales",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El reporte de los viernes llegaba con datos del martes", "b": "Caso: distribuidora, 4 áreas, 1 cuaderno" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Reportes del viernes, datos del martes", "b": "Caso: distribuidora, 4 áreas, 1 cuaderno" },
         { "role": "rehook", "h": "\"¿Me pasas tus números?\" — la cacería semanal.", "b": "Ventas en un Excel, cobranza en otro, almacén en un cuaderno. Sí: un cuaderno." },
         { "role": "value", "h": "ANTES: el viernes de la cacería", "b": "La administradora perseguía a 4 jefes por sus números y a las 7pm salía \"el reporte\" — con datos viejos de 3 días." },
         { "role": "value", "h": "ANTES: decisiones por el retrovisor", "b": "Cuando el gerente veía una caída de ventas, la caída ya tenía 10 días. Tarde para cambiar cualquier cosa." },
@@ -100,7 +100,7 @@
     {
       "slug": "facturacion",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "3 días al mes tipeando datos que YA estaban en el sistema", "b": "Caso: servicios B2B, 120 facturas" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "120 veces. El mismo dato.", "b": "Facturación: de 3 días a 2 horas" },
         { "role": "rehook", "h": "Los datos vivían en el contrato.", "b": "Igual alguien los volvía a tipear, factura por factura, 120 veces." },
         { "role": "value", "h": "ANTES: el fin de mes de terror", "b": "Del 28 al 31: la asistente tipeando facturas, cruzando contratos, corrigiendo montos. Tres días de trabajo repetido." },
         { "role": "value", "h": "ANTES: errores que cuestan relaciones", "b": "Un monto mal tipeado = factura rechazada = pago retrasado 15 días = llamada incómoda. Por el 8% de error humano típico." },
@@ -119,7 +119,7 @@
     {
       "slug": "onboarding-clientes",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El cliente firmó emocionado un lunes. Le escribieron 12 días después.", "b": "Caso: agencia de marketing" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "Firmó un lunes. Silencio: 12 días.", "b": "Caso: agencia de marketing" },
         { "role": "rehook", "h": "La emoción de firmar no aguanta 12 días de silencio.", "b": "Y la primera impresión no tiene segunda oportunidad." },
         { "role": "value", "h": "ANTES: el limbo post-firma", "b": "Contrato firmado → \"ya te escribimos para coordinar\" → días de silencio mientras el equipo apagaba incendios. El cliente nuevo, esperando." },
         { "role": "value", "h": "ANTES: cada onboarding, inventado de nuevo", "b": "Qué accesos pedir, qué reunión primero: dependía de quién le tocara. Clientes idénticos, experiencias opuestas." },
@@ -138,7 +138,7 @@
     {
       "slug": "inventario",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El sistema decía 40 unidades. El almacén tenía 12.", "b": "Caso: distribuidora con 2 almacenes" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El sistema: 40. El almacén: 12.", "b": "Caso: distribuidora con 2 almacenes" },
         { "role": "rehook", "h": "\"Déjame verificar y te aviso.\"", "b": "Esa frase le costaba ventas todos los días. Verificar tardaba horas." },
         { "role": "value", "h": "ANTES: el stock con dos verdades", "b": "El sistema decía una cosa; el almacén, otra. Ajustes manuales, conteos sorpresa, y la verdad real: nadie sabía cuánto había." },
         { "role": "value", "h": "ANTES: quiebres descubiertos por el cliente", "b": "El producto estrella se agotaba y la empresa se enteraba cuando un cliente pedía y no había. Reponer: 2 semanas más." },
@@ -157,7 +157,7 @@
     {
       "slug": "soporte-repetitivo",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "El 60% de sus tickets era la misma pregunta con otro nombre", "b": "Caso: software local, 800 clientes" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "¿Qué pregunta respondes 40 veces?", "b": "El 60% de sus tickets era una sola" },
         { "role": "rehook", "h": "\"¿Cómo cambio mi contraseña?\" — 40 veces por semana.", "b": "Respondida por humanos que podían resolver problemas de verdad." },
         { "role": "value", "h": "ANTES: el equipo bombero", "b": "Dos personas apagando los mismos incendios: contraseñas, facturas, \"no me carga\". Los casos complejos esperaban detrás de los triviales." },
         { "role": "value", "h": "ANTES: respuestas según el humor del día", "b": "La misma pregunta, tres respuestas distintas según quién y a qué hora. La información vivía en cabezas, no en un sistema." },
@@ -176,7 +176,7 @@
     {
       "slug": "cobranza",
       "slides": [
-        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "S/ 180,000 por cobrar y vergüenza de llamar", "b": "El caso más común del Perú" },
+        { "role": "cover", "kicker": "ANTES / DESPUÉS", "h": "S/ 180,000 por cobrar. Y roche.", "b": "El caso más común del Perú" },
         { "role": "rehook", "h": "Cobrar incomoda. Así que se posterga.", "b": "Y una deuda de 90 días vale la mitad que una de 30." },
         { "role": "value", "h": "ANTES: la cobranza emocional", "b": "Se cobraba \"cuando había tiempo\" y a quien \"no daba roche\". Los que más debían eran los que menos llamadas recibían." },
         { "role": "value", "h": "ANTES: sin sistema, sin memoria", "b": "¿A quién se le recordó? ¿Quién prometió pagar el 15? Todo en la cabeza del administrador. O sea: en ningún lado." },

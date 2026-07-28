@@ -1,4 +1,4 @@
-# Tus posts no mueren por el algoritmo. Mueren por esto.
+# No es el algoritmo.
 
 `propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

@@ -1,4 +1,4 @@
-# "¿Dónde está mi pedido?" no debería costar 3 llamadas internas
+# "¿Dónde está mi pedido?" = 3 llamadas
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

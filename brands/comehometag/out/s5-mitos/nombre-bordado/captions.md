@@ -1,4 +1,4 @@
-# El nombre bordado en la mochila le da a un extraño el arma perfecta
+# El nombre bordado es un arma.
 
 `comehometag` · `s5-mitos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

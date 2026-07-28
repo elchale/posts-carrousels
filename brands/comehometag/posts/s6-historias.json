@@ -5,7 +5,7 @@
     {
       "slug": "supermercado-40-segundos",
       "slides": [
-        { "role": "story", "plate": "cine-04-mama", "h": "Perdiste de vista a tu hija 40 segundos.", "b": "Los 40 segundos más largos de tu vida." },
+        { "role": "story", "plate": "cine-04-mama", "h": "40 segundos.", "b": "Los más largos de tu vida." },
         { "role": "story", "plate": "cine-01-manos", "h": "Solo soltaste su mano para alcanzar el arroz.", "b": "Cuando bajaste el brazo, ya no estaba." },
         { "role": "story", "plate": "cine-07-columpio", "h": "Gritas su nombre. El pasillo 7 no responde.", "b": "El corazón te late en los oídos." },
         { "role": "story", "plate": "cine-06-procesion", "h": "Tres pasillos. Cuatro. La gente te mira.", "b": "Cada segundo, el supermercado se hace más grande." },
@@ -24,7 +24,7 @@
     {
       "slug": "playa-sombrilla",
       "slides": [
-        { "role": "story", "plate": "cine-02-zapatos", "h": "\"Voy a mojarme los pies\", dijo.", "b": "La orilla estaba a veinte metros. Qué podía pasar." },
+        { "role": "story", "plate": "cine-02-zapatos", "h": "\"Voy a mojarme los pies.\"", "b": "La orilla estaba a veinte metros." },
         { "role": "story", "plate": "cine-07-columpio", "h": "Las olas lo fueron corriendo de lado.", "b": "Veinte metros en diagonal. Luego cincuenta. Él ni lo notó: perseguía la espuma." },
         { "role": "story", "plate": "cine-04-mama", "h": "Cuando levantó la vista, todas las sombrillas eran iguales.", "b": "Amarillas, azules, la misma playa repetida hasta el fondo." },
         { "role": "story", "plate": "cine-03-abuelo", "h": "Un señor lo vio parado, muy quieto, buscando con los ojos.", "b": "\"¿Estás buscando a tu familia, campeón?\"" },
@@ -43,7 +43,7 @@
     {
       "slug": "procesion-abuela",
       "slides": [
-        { "role": "story", "plate": "cine-06-procesion", "h": "60 años yendo a ver al Señor de los Milagros.", "b": "Este año, la multitud la giró dos veces." },
+        { "role": "story", "plate": "cine-06-procesion", "h": "60 años en su procesión.", "b": "Este año, la multitud la giró dos veces." },
         { "role": "story", "plate": "cine-05-abuela", "h": "Cuando el anda avanzó, su familia avanzó con ella.", "b": "La abuela no. La abuela se quedó rezando." },
         { "role": "story", "plate": "cine-09-ventana", "h": "Al voltear, los suyos eran mil desconocidos de morado.", "b": "Y las calles de siempre, de pronto, no eran las de siempre." },
         { "role": "story", "plate": "cine-03-abuelo", "h": "Una señora la vio quieta entre la corriente de gente.", "b": "\"Mamita, ¿está con alguien?\" La abuela no supo responder." },
@@ -62,7 +62,7 @@
     {
       "slug": "abuelo-pan",
       "slides": [
-        { "role": "story", "plate": "cine-03-abuelo", "h": "\"Ya vengo, voy por pan.\"", "b": "Lo mismo que dijo ayer. Y hace 40 años." },
+        { "role": "story", "plate": "cine-03-abuelo", "h": "\"Ya vengo, voy por pan.\"", "b": "Lo mismo que dijo hace 40 años." },
         { "role": "story", "plate": "cine-11-perro", "h": "La panadería de don Julio cerró en 2003.", "b": "Pero en su memoria sigue abierta, tres cuadras más allá de donde todo cambió." },
         { "role": "story", "plate": "cine-09-ventana", "h": "A las cuatro cuadras, el barrio se volvió un lugar nuevo.", "b": "Nuevo y ajeno. Siguió caminando: el pan no se compra solo." },
         { "role": "story", "plate": "cine-08-papa", "h": "El chico de la ferretería lo notó pasar dos veces.", "b": "\"¿Don Manuel? ¿A dónde va usted tan lejos?\" No supo decirle." },
@@ -81,7 +81,7 @@
     {
       "slug": "aeropuerto-conexion",
       "slides": [
-        { "role": "story", "plate": "cine-12-reencuentro", "h": "Primer viaje en avión de toda la familia.", "b": "Tres maletas, dos niños, un vuelo con conexión." },
+        { "role": "story", "plate": "cine-12-reencuentro", "h": "Contaste cabezas: faltaba una.", "b": "Primer vuelo de la familia, en el control." },
         { "role": "story", "plate": "cine-04-mama", "h": "En el control, el mundo se volvió bandejas.", "b": "Zapatos, correas, laptops, apuro. Cuarenta manos haciendo diez cosas." },
         { "role": "story", "plate": "cine-08-papa", "h": "Del otro lado contaste cabezas: faltaba una.", "b": "El menor se había quedado... ¿antes? ¿después? ¿dónde?" },
         { "role": "story", "plate": "cine-07-columpio", "h": "El niño hizo su parte: se quedó quieto junto a las bandejas.", "b": "Como habían jugado en casa: \"si no veo a papá, no camino\"." },
@@ -100,7 +100,7 @@
     {
       "slug": "mascota-firulais",
       "slides": [
-        { "role": "story", "plate": "cine-11-perro", "h": "El timbre del camión del gas. Otra vez.", "b": "Y la puerta abierta tres segundos. Suficientes." },
+        { "role": "story", "plate": "cine-11-perro", "h": "Tres segundos de puerta abierta.", "b": "Suficientes. Rocky salió a conquistar el mundo." },
         { "role": "story", "plate": "cine-07-columpio", "h": "Rocky salió a conquistar el mundo.", "b": "El mundo, para un perro de barrio, son seis cuadras de olores nuevos." },
         { "role": "story", "plate": "cine-09-ventana", "h": "A la hora, la familia empapelaba postes con su foto.", "b": "Los niños llorando. La mamá diciendo \"va a volver\" sin creérselo." },
         { "role": "story", "plate": "cine-02-zapatos", "h": "Rocky, mientras tanto, cenaba en casa ajena.", "b": "Una familia buena lo recogió. Pero ¿cómo avisarle a la suya?" },
@@ -119,7 +119,7 @@
     {
       "slug": "mama-turno-noche",
       "slides": [
-        { "role": "story", "plate": "cine-09-ventana", "h": "Turno de noche en la clínica. Tercera vez esta semana.", "b": "Ser mamá y enfermera es hacer dos turnos completos." },
+        { "role": "story", "plate": "cine-09-ventana", "h": "Turno de noche. Otra vez.", "b": "Ser mamá y enfermera: dos turnos completos." },
         { "role": "story", "plate": "cine-05-abuela", "h": "Los niños quedan con la abuela. La abuela es un ángel.", "b": "Un ángel de 78 años que se duerme viendo su novela." },
         { "role": "story", "plate": "cine-04-mama", "h": "En el descanso de las 2 am, revisa el celular.", "b": "Nada. Ningún mensaje. Y sin embargo el pecho aprieta: es el turno del \"¿y si...?\"" },
         { "role": "story", "plate": "cine-01-manos", "h": "El \"¿y si...?\" de las madres que trabajan de noche no se cura.", "b": "Pero se puede achicar." },
@@ -138,7 +138,7 @@
     {
       "slug": "mellizos-feria",
       "slides": [
-        { "role": "story", "plate": "cine-06-procesion", "h": "Feria del pueblo. Mellizos de cinco años.", "b": "Es decir: dos direcciones opuestas al mismo tiempo, siempre." },
+        { "role": "story", "plate": "cine-06-procesion", "h": "¿Mellizos en la feria?", "b": "Dos direcciones opuestas al mismo tiempo, siempre." },
         { "role": "story", "plate": "cine-08-papa", "h": "Papá tenía un sistema: \"uno en cada mano\".", "b": "El sistema funcionó hasta el puesto de picarones." },
         { "role": "story", "plate": "cine-04-mama", "h": "Pagar picarones requiere una mano. Matemática cruel.", "b": "Sesenta segundos después: un mellizo. UNO." },
         { "role": "story", "plate": "cine-07-columpio", "h": "Mateo estaba en los juegos, obvio.", "b": "Para Mateo no estaba perdido: estaba EXACTAMENTE donde quería estar." },
@@ -157,7 +157,7 @@
     {
       "slug": "primer-dia-clases",
       "slides": [
-        { "role": "story", "plate": "cine-01-manos", "h": "Primer día de clases. Mochila nueva, lonchera nueva.", "b": "Y un nudo en TU garganta, no en la de él." },
+        { "role": "story", "plate": "cine-01-manos", "h": "Primer día de clases.", "b": "El nudo en TU garganta, no en la suya." },
         { "role": "story", "plate": "cine-08-papa", "h": "La puerta del colegio se traga doscientos niños en diez minutos.", "b": "Doscientas mochilas iguales. Doscientos buzos del mismo color." },
         { "role": "story", "plate": "cine-09-ventana", "h": "A la salida, el caos se repite en espejo.", "b": "Y un niño de primer grado decide esperar... en la puerta equivocada." },
         { "role": "story", "plate": "cine-07-columpio", "h": "Quince minutos de \"¿y Diego?\" entre dos puertas.", "b": "La auxiliar corriendo. La mamá marcando. El portero preguntando." },
@@ -176,7 +176,7 @@
     {
       "slug": "desconocido-bueno",
       "slides": [
-        { "role": "story", "plate": "cine-03-abuelo", "h": "Esta historia no es de un niño perdido.", "b": "Es del señor que lo encontró." },
+        { "role": "story", "plate": "cine-03-abuelo", "h": "No es del niño perdido.", "b": "Esta historia es del señor que lo encontró." },
         { "role": "story", "plate": "cine-04-mama", "h": "Volvía del trabajo, cansado, con hambre.", "b": "Y vio a un niño solo, quieto, con los ojos de buscar a alguien." },
         { "role": "story", "plate": "cine-01-manos", "h": "Pensó lo que piensan todos los hombres buenos:", "b": "\"Si me acerco, ¿qué van a pensar de mí?\" Casi sigue de largo. Casi." },
         { "role": "story", "plate": "cine-10-pulsera", "h": "Se agachó a un metro: \"¿Buscas a tu familia?\"", "b": "El niño asintió y estiró la muñeca, entrenado: \"mi mamá está aquí\"." },

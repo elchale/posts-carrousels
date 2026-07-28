@@ -1,4 +1,4 @@
-# Lo primero que hay que pedirle a seguridad no es lo que crees
+# No es lo que crees.
 
 `comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

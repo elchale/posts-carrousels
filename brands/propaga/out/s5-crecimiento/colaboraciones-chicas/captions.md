@@ -1,4 +1,4 @@
-# No necesitas un influencer. Necesitas 5 cuentas como la tuya.
+# No necesitas un influencer.
 
 `propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

@@ -1,4 +1,4 @@
-# "Publica todos los días" — dice el que vive de publicar.
+# "Publica todos los días."
 
 `propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

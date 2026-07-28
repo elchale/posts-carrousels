@@ -1,4 +1,4 @@
-# En la playa los niños no se alejan: las olas se los llevan de lado
+# Las olas se lo llevan de lado.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

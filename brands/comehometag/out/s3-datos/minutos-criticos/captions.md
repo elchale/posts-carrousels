@@ -1,4 +1,4 @@
-# A los 30 minutos, el área de búsqueda es 60 veces más grande
+# ¿Cuánto camina un niño perdido?
 
 `comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

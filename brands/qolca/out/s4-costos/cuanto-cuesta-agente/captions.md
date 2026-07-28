@@ -1,4 +1,4 @@
-# Nadie en este rubro publica precios. Nosotros sí.
+# Nadie publica precios. Nosotros sí.
 
 `qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

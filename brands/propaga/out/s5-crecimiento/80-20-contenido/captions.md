@@ -1,4 +1,4 @@
-# El 80% de tus resultados sale del 20% de tus posts.
+# 80% de resultados, 20% de posts.
 
 `propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

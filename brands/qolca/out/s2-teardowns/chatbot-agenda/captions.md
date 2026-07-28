@@ -1,4 +1,4 @@
-# 8 mensajes para agendar UNA reunión. Ahora son 2.
+# "¿Martes?" "No." "¿Jueves?" "Mejor viernes..."
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

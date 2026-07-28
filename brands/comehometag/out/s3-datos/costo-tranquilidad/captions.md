@@ -1,4 +1,4 @@
-# Te están cobrando mensualidad por la tranquilidad
+# ¿Pagas mensualidad por tranquilidad?
 
 `comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

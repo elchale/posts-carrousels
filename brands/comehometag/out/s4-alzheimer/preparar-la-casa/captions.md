@@ -1,4 +1,4 @@
-# El truco de la cortina: la casa que cuida sin ser una jaula
+# El truco de la cortina.
 
 `comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

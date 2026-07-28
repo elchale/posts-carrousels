@@ -1,4 +1,4 @@
-# Tu carrusel tiene DOS portadas y no lo sabías
+# Tu carrusel tiene DOS portadas.
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

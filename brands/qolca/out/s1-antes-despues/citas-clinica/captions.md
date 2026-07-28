@@ -1,4 +1,4 @@
-# Una clínica con 30% de sillas vacías. Hoy: 9%.
+# Sillas vacías: del 30% al 9%
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

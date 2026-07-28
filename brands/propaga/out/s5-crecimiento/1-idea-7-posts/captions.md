@@ -1,4 +1,4 @@
-# No necesitas 30 ideas al mes. Necesitas 4.
+# 1 idea = 7 posts.
 
 `propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

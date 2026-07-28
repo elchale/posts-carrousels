@@ -1,4 +1,4 @@
-# En el mercado sueltas la mano de tu hijo 20 veces sin darte cuenta
+# Sueltas su mano 20 veces.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

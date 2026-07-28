@@ -1,4 +1,4 @@
-# Publicar con 12 seguidores (y 9 son tu familia)
+# Publicar con 12 seguidores.
 
 `propaga` · `s6-la-vida` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# "Ya se sabe mi número de memoria" — la mesa de una sola pata
+# "Ya se sabe mi número."
 
 `comehometag` · `s5-mitos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

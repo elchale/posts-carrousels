@@ -1,4 +1,4 @@
-# Tu papá con Alzheimer salió solo. Haz esto, en este orden.
+# Tu papá salió solo.
 
 `comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

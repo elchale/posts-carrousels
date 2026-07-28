@@ -1,4 +1,4 @@
-# TikTok ya no es solo video. Y casi ningún negocio se enteró.
+# TikTok ya no es solo video.
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

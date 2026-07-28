@@ -1,4 +1,4 @@
-# ¿En qué año vive tu empresa? La mayoría responde 2019.
+# ¿En qué año vive tu empresa?
 
 `qolca` · `s6-vision` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

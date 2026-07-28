@@ -1,4 +1,4 @@
-# El Black Friday del 70% de descuento es una trampa para negocios chicos
+# El 70% de descuento es trampa.
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# 7 palabras al entrar al mall pueden evitarte el peor susto del año
+# Siete palabras al entrar.
 
 `comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

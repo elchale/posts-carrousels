@@ -1,4 +1,4 @@
-# El bus arranca y tu hijo quedó abajo. ¿Sabe qué hacer?
+# El bus arrancó sin tu hijo.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# Nadie guarda lo que le gusta. Guarda lo que va a necesitar.
+# Nadie guarda lo que le gusta.
 
 `propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

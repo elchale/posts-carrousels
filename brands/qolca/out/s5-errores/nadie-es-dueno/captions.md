@@ -1,4 +1,4 @@
-# "¿Quién ve el tema del bot?" — silencio en la sala
+# "¿Quién ve el bot?" — silencio.
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

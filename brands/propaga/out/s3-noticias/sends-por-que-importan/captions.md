@@ -1,4 +1,4 @@
-# La métrica #1 de Instagram es el avioncito. Sí, el avioncito.
+# La métrica #1: el avioncito.
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

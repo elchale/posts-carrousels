@@ -1,4 +1,4 @@
-# El mismo texto en 3 redes = mal en las 3.
+# El mismo texto en 3 redes.
 
 `propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

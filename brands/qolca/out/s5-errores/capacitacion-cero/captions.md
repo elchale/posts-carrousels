@@ -1,4 +1,4 @@
-# El sistema funcionaba perfecto. El equipo siguió usando Excel.
+# Sistema perfecto. Equipo en Excel.
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

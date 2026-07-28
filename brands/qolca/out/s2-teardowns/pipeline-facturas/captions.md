@@ -1,4 +1,4 @@
-# El robot que lee 600 facturas al mes y no se aburre en la 400
+# 600 facturas al mes. Cero manos.
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

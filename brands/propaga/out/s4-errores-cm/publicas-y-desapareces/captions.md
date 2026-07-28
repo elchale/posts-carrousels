@@ -1,4 +1,4 @@
-# Tu post murió en su primera hora. Y tú ni estabas.
+# Tu post murió. Tú ni estabas.
 
 `propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

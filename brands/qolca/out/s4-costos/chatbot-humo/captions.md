@@ -1,4 +1,4 @@
-# El 80% de los "chatbots con IA" son menús de botones con disfraz
+# El 80% de chatbots es humo
 
 `qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

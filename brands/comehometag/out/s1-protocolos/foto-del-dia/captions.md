@@ -1,4 +1,4 @@
-# ¿De qué color es el polo de tu hijo HOY?
+# ¿De qué color va vestido HOY?
 
 `comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

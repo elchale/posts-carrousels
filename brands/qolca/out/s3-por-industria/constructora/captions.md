@@ -1,4 +1,4 @@
-# Una obra parada por materiales cuesta S/5,000-20,000 al día
+# Obra parada: S/20,000 al día
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

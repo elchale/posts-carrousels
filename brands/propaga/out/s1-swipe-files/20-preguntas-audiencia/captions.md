@@ -1,4 +1,4 @@
-# "¿Qué opinan? 👇" = 0 comentarios. Estas 20 preguntas sí se responden.
+# "¿Qué opinan?" = 0 comentarios.
 
 `propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

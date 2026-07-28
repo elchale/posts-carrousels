@@ -1,4 +1,4 @@
-# "El bot respondió 4,000 mensajes" — ¿y cuánta plata tocó?
+# 4,000 mensajes. ¿Cuánta plata tocó?
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

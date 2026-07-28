@@ -1,4 +1,4 @@
-# El cliente firmó emocionado un lunes. Le escribieron 12 días después.
+# Firmó un lunes. Silencio: 12 días.
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

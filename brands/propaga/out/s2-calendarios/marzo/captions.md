@@ -1,4 +1,4 @@
-# Marzo tiene una fecha que VENDE y una que te EVALÚA
+# Una fecha VENDE. Otra te EVALÚA.
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

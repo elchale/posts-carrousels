@@ -1,4 +1,4 @@
-# Tu CRM es un Excel con mensualidad
+# Tu CRM: un Excel con mensualidad
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

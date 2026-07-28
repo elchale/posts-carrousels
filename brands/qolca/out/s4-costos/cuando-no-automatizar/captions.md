@@ -1,4 +1,4 @@
-# Rechazamos 1 de cada 4 proyectos. Estas son las razones.
+# Rechazamos 1 de cada 4 proyectos
 
 `qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

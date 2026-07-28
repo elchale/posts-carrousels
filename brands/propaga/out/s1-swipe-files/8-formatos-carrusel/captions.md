@@ -1,4 +1,4 @@
-# El carrusel es el formato que más se guarda. Estos son los 8 que funcionan.
+# El formato que más se guarda.
 
 `propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

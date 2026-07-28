@@ -1,4 +1,4 @@
-# El "empleado que nunca duerme" también tiene letras chicas
+# "No duerme." También tiene letras chicas.
 
 `qolca` · `s6-vision` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

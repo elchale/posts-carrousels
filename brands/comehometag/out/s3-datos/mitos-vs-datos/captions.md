@@ -1,4 +1,4 @@
-# 5 mitos sobre desapariciones que los datos destrozan
+# 5 mitos que destrozan los datos.
 
 `comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

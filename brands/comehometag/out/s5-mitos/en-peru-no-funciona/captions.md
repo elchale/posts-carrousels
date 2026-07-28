@@ -1,4 +1,4 @@
-# "El QR en el Perú no funciona" — hermano, pagas la pollada con QR
+# ¿El QR no funciona aquí?
 
 `comehometag` · `s5-mitos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

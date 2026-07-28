@@ -5,7 +5,7 @@
     {
       "slug": "senales-tempranas",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"Quiero irme a mi casa\" — dicho DENTRO de su casa", "b": "La señal que toda familia debe conocer" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"Quiero irme a mi casa.\"", "b": "Lo dijo dentro de su casa." },
         { "role": "story", "plate": "cine-03-abuelo", "h": "La deambulación no empieza el día que se pierde.", "b": "Empieza semanas antes, con señales que se pueden aprender a leer." },
         { "role": "value", "n": "1", "h": "\"Quiero irme a mi casa\" (estando en casa)", "b": "La frase más reveladora. \"Su casa\" es la de su memoria antigua. Es desorientación, no capricho." },
         { "role": "value", "n": "2", "h": "Inquietud al atardecer", "b": "El \"sundowning\": entre 5 y 8 pm crece la confusión y las ganas de salir. Es EL horario de riesgo." },
@@ -24,7 +24,7 @@
     {
       "slug": "por-que-se-van",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Para ti salió de casa. Para él, está VOLVIENDO a casa.", "b": "Lo que pasa en la mente de una persona con demencia" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Para él, está VOLVIENDO a casa.", "b": "La mente de una persona con demencia" },
         { "role": "story", "plate": "cine-09-ventana", "h": "Entender esa diferencia lo cambia todo.", "b": "Cómo lo buscas, cómo le hablas, cómo lo cuidas." },
         { "role": "value", "h": "Su presente vive en el pasado", "b": "La demencia borra la memoria reciente y conserva la antigua. Su realidad puede ser 1985: otra casa, otro trabajo, hijos pequeños que recoger." },
         { "role": "value", "h": "\"Volver a casa\" tiene otra dirección", "b": "La casa de su realidad es la de su infancia o juventud. Por eso camina con determinación: ÉL sabe exactamente a dónde va." },
@@ -43,7 +43,7 @@
     {
       "slug": "como-hablarle",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"¿Sabes quién soy?\" es la pregunta que más duele. Deja de hacerla.", "b": "7 frases que calman (y las que hieren)" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "La pregunta que más duele.", "b": "Deja de hacerla. 7 frases que calman." },
         { "role": "story", "plate": "cine-05-abuela", "h": "Con demencia, el TONO llega antes que las palabras.", "b": "Y algunas palabras abren puertas que otras cierran para siempre." },
         { "role": "value", "n": "1", "h": "\"Te estaba buscando para ir a casa\"", "b": "En vez de \"¡te perdiste!\". La primera es un encuentro; la segunda, una acusación que asusta." },
         { "role": "value", "n": "2", "h": "\"Vamos juntos, yo te acompaño\"", "b": "En vez de \"no puedes salir solo\". Acompañar suma; prohibir enfrenta. Con demencia, el enfrentamiento siempre pierde." },
@@ -62,7 +62,7 @@
     {
       "slug": "culpa-del-cuidador",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"Me distraje cinco minutos\" — la frase que no te deja dormir", "b": "Esto es para el que cuida" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"Me distraje cinco minutos.\"", "b": "La frase que no te deja dormir" },
         { "role": "story", "plate": "cine-01-manos", "h": "Si cuidas a alguien con demencia, conoces esa culpa.", "b": "Hoy vamos a desarmarla con datos." },
         { "role": "value", "h": "El dato que te absuelve", "b": "6 de cada 10 personas con demencia se extravían — incluidas las cuidadas por enfermeras profesionales 24/7. Es la enfermedad, no tu descuido." },
         { "role": "value", "h": "Nadie vigila 24/7. Nadie.", "b": "Dormimos, cocinamos, vamos al baño, vivimos. El plan bueno ASUME la distracción — no exige lo imposible." },
@@ -81,7 +81,7 @@
     {
       "slug": "preparar-la-casa",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "El truco de la cortina: la casa que cuida sin ser una jaula", "b": "7 ajustes de un fin de semana" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "El truco de la cortina.", "b": "La casa que cuida sin ser jaula" },
         { "role": "story", "plate": "cine-11-perro", "h": "La casa puede ser tu primera línea de cuidado.", "b": "Sin rejas nuevas ni gastos grandes. Ese equilibrio es el arte." },
         { "role": "value", "n": "1", "h": "Campanita o sensor en las puertas", "b": "Cuesta un menú y suena cuando la puerta se abre. La siesta del cuidador deja de ser una ventana de riesgo." },
         { "role": "value", "n": "2", "h": "Cerrojo ARRIBA o ABAJO", "b": "Las manos buscan la cerradura a la altura de siempre. Un cerrojo fuera de la vista desactiva la rutina motora." },
@@ -100,7 +100,7 @@
     {
       "slug": "que-lleve-puesto",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "La billetera se queda en casa justo el día que importa", "b": "Lo que un abuelo con demencia debe llevar PUESTO" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "¿Y si la billetera quedó en casa?", "b": "Lo que un abuelo debe llevar PUESTO" },
         { "role": "story", "plate": "cine-10-pulsera", "h": "Lo que va puesto, va siempre.", "b": "Esa es toda la diferencia entre un sistema y una esperanza." },
         { "role": "value", "n": "1", "h": "Identificación con contacto directo", "b": "Pulsera o tag sin batería y sin depender de que él recuerde nada. Quien lo encuentre debe poder llamar en segundos." },
         { "role": "value", "n": "2", "h": "El aviso de su condición", "b": "\"Tiene Alzheimer, puede estar desorientado.\" Esa línea le explica al que ayuda por qué el señor amable insiste en irse a 1985." },
@@ -119,7 +119,7 @@
     {
       "slug": "historia-papa-calle",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "El día que papá no reconoció su propia calle", "b": "Una historia que se repite en miles de casas" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"¿Quién cambió mi calle?\"", "b": "El día que papá no reconoció su barrio" },
         { "role": "story", "plate": "cine-03-abuelo", "h": "Salió a comprar pan, como hace 40 años.", "b": "A tres cuadras, el barrio dejó de ser el suyo." },
         { "role": "story", "plate": "cine-09-ventana", "h": "No estaba asustado. Estaba MOLESTO.", "b": "\"¿Quién cambió mi calle?\" La panadería de su memoria cerró en 1998." },
         { "role": "story", "plate": "cine-07-columpio", "h": "Dos horas. Veinte llamadas. Tres hermanos buscando.", "b": "Lo encontró la señora de una bodega... a cuatro cuadras de casa." },
@@ -138,7 +138,7 @@
     {
       "slug": "mitos-gps-abuelos",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "\"Le compramos un GPS a la abuela y listo\" — ojalá fuera tan fácil", "b": "Las 3 letras chicas que nadie lee" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "El GPS tiene letra chica.", "b": "Tres, y las descubres cuando fallan" },
         { "role": "story", "plate": "cine-05-abuela", "h": "El GPS es una gran herramienta.", "b": "Con tres letras chicas que se descubren cuando fallan." },
         { "role": "value", "n": "1", "h": "Letra chica 1: la batería", "b": "Cargarlo cada noche... en la casa de una persona que olvida. La estadística real: el GPS descargado en un cajón el día del susto." },
         { "role": "value", "n": "2", "h": "Letra chica 2: que lo lleve", "b": "Un aparato nuevo y extraño es lo primero que una persona con demencia deja de usar. Lo que no se siente propio, no acompaña." },
@@ -157,7 +157,7 @@
     {
       "slug": "red-de-barrio",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "5 conversaciones de 2 minutos cuidan más que cualquier aparato", "b": "La red de barrio, el sistema más antiguo del mundo" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "5 conversaciones de 2 minutos.", "b": "Cuidan más que cualquier aparato" },
         { "role": "story", "plate": "cine-11-perro", "h": "Antes de los GPS y las apps, existía el barrio.", "b": "En el Perú, todavía funciona mejor que todo lo demás." },
         { "role": "value", "n": "1", "h": "El mapa humano de sus rutas", "b": "Bodeguero, farmacéutico, vigilante, casera del mercado, vecina de la esquina. Cinco personas que lo ven TODOS los días." },
         { "role": "value", "n": "2", "h": "La presentación de 2 minutos", "b": "\"Él es mi papá, tiene Alzheimer. Si lo ven solo o desorientado, ¿me llaman?\" Nadie dice que no. NADIE." },
@@ -176,7 +176,7 @@
     {
       "slug": "pedir-ayuda",
       "slides": [
-        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Cuidar solo no es más amor. Es más riesgo.", "b": "Para el hermano que carga todo" },
+        { "role": "cover", "kicker": "CUIDAR AL QUE TE CUIDÓ", "h": "Cuidar solo es más riesgo.", "b": "Para el hermano que carga todo" },
         { "role": "story", "plate": "cine-12-reencuentro", "h": "Este post es la manera menos incómoda", "b": "de empezar LA conversación con tus hermanos. Mándaselo al grupo." },
         { "role": "value", "n": "1", "h": "Turnos explícitos: papelito manda", "b": "\"Yo lunes y miércoles, tú fines de semana.\" Lo tácito acumula resentimiento; lo escrito reparte descanso." },
         { "role": "value", "n": "2", "h": "El que \"no puede\", financia", "b": "El hermano que vive lejos pone la movilidad, la identificación, la señora que ayuda. Todos aportan; no todos aportan lo mismo." },

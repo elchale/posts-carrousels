@@ -1,4 +1,4 @@
-# La billetera se queda en casa justo el día que importa
+# ¿Y si la billetera quedó en casa?
 
 `comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

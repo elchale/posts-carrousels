@@ -1,4 +1,4 @@
-# El 60% de sus tickets era la misma pregunta con otro nombre
+# ¿Qué pregunta respondes 40 veces?
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# Nadie vio el post que te tomó 3 horas.
+# 3 horas de trabajo. 47 vistas.
 
 `propaga` · `s6-la-vida` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

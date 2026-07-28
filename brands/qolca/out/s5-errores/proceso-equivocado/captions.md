@@ -1,4 +1,4 @@
-# Automatizaste lo fácil. Sigue sangrando lo valioso.
+# ¿Automatizaste lo fácil o lo valioso?
 
 `qolca` · `s5-errores` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

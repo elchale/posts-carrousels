@@ -1,4 +1,4 @@
-# "Eso solo pasa en las películas" — 51 veces al día en el Perú
+# "Eso pasa en las películas."
 
 `comehometag` · `s5-mitos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

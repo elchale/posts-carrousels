@@ -1,4 +1,4 @@
-# Octubre es dos audiencias a la vez: morado y naranja
+# ¿Morado o naranja?
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

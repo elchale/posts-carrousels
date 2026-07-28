@@ -1,4 +1,4 @@
-# El Perú está lleno de diagnósticos en PDF que nunca tocaron un proceso real
+# ¿Otro diagnóstico en PDF?
 
 `qolca` · `s6-vision` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

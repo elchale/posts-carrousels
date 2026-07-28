@@ -1,4 +1,4 @@
-# Su mejor vendedor tardaba 2 días en cotizar. El sistema tarda 90 segundos.
+# ¿Cotizar? 90 segundos.
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

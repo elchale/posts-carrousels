@@ -1,4 +1,4 @@
-# Agosto NO es un mes muerto para tu negocio
+# Agosto NO es mes muerto.
 
 `propaga` · `s2-calendarios` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

@@ -1,4 +1,4 @@
-# A la mayoría de niños perdidos no los encuentra la policía
+# No los encuentra la policía.
 
 `comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

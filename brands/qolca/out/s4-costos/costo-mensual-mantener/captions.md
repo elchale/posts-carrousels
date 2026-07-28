@@ -1,4 +1,4 @@
-# Lo que te cotizan es el 60% del costo real
+# ¿Qué pasa en el mes 8?
 
 `qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

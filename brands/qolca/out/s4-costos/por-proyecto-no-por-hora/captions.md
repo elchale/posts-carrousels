@@ -1,4 +1,4 @@
-# Pagar por hora premia al proveedor lento. Piénsalo.
+# Pagar por hora premia al lento
 
 `qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

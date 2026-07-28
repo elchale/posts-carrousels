@@ -1,4 +1,4 @@
-# Vendes eficiencia digital. Tu operación corre en capturas de pantalla.
+# Vendes eficiencia. Operas en capturas.
 
 `qolca` · `s3-por-industria` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

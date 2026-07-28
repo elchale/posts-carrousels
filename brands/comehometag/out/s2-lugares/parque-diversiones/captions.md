@@ -1,4 +1,4 @@
-# En el parque de diversiones los niños no se pierden caminando: se pierden CORRIENDO
+# No se pierden caminando: CORRIENDO.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

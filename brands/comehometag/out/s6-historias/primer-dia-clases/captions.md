@@ -1,4 +1,4 @@
-# Primer día de clases. Mochila nueva, lonchera nueva.
+# Primer día de clases.
 
 `comehometag` · `s6-historias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

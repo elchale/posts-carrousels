@@ -1,4 +1,4 @@
-# Un viral sin cosechar es un billete de lotería sin cobrar.
+# ¿Te explotó un post?
 
 `propaga` · `s5-crecimiento` · **10 láminas** — sube SIEMPRE en orden 01 → 10
 

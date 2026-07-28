@@ -1,4 +1,4 @@
-# Toda empresa tiene una Rosa: la persona que sabe TODO
+# Toda empresa tiene una Rosa
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

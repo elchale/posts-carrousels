@@ -1,4 +1,4 @@
-# Diciembre en el centro: la fecha con más niños perdidos del año
+# Diciembre: récord de niños perdidos.
 
 `comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

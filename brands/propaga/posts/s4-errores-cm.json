@@ -5,7 +5,7 @@
     {
       "slug": "no-es-el-algoritmo",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Tus posts no mueren por el algoritmo. Mueren por esto.", "b": "El diagnóstico honesto, en 5 causas" },
+        { "role": "cover", "kicker": "ERRORES", "h": "No es el algoritmo.", "b": "Las 5 causas reales (y arreglables)" },
         { "role": "rehook", "h": "Culpar al algoritmo es gratis. Y no arregla nada.", "b": "Estas 5 causas sí se arreglan — esta misma semana." },
         { "role": "value", "n": "1", "h": "Publicas para nadie en particular", "b": "\"Contenido para todos\" = contenido para nadie. Sin un cliente específico en mente, tu post no le habla a ninguna persona real — y ninguna reacciona." },
         { "role": "value", "n": "2", "h": "No das razones para interactuar", "b": "El post-catálogo (foto + precio) no se guarda, no se envía, no se comenta. Sin interacción temprana, el algoritmo lo archiva. No te odia: no tuvo señales." },
@@ -25,7 +25,7 @@
     {
       "slug": "publicas-y-desapareces",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Tu post murió en su primera hora. Y tú ni estabas.", "b": "El error que el algoritmo nunca perdona" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Tu post murió. Tú ni estabas.", "b": "El error que el algoritmo nunca perdona" },
         { "role": "rehook", "h": "Tu post es una fiesta que organizaste.", "b": "Y te fuiste antes de que llegara el primer invitado. Así nadie se queda." },
         { "role": "value", "h": "La primera hora decide la distribución", "b": "El algoritmo mide la reacción temprana para decidir a cuánta gente más mostrarle el post. Un comentario respondido al minuto vale más que diez respondidos mañana." },
         { "role": "value", "h": "La regla de los 30 minutos", "b": "Publica solo cuando tengas 30 minutos disponibles después. Responde todo: comentarios, DMs, reacciones a la historia. Eres el anfitrión — actúa como tal." },
@@ -45,7 +45,7 @@
     {
       "slug": "feed-catalogo",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Nadie sigue catálogos. Tu feed es uno.", "b": "El error del 80% de negocios" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Nadie sigue catálogos.", "b": "Y tu feed es uno. Hablemos." },
         { "role": "rehook", "h": "Pregunta dura: ¿por qué alguien seguiría tu cuenta?", "b": "\"Para ver fotos de mis productos\" no es una respuesta. Nadie sigue catálogos." },
         { "role": "value", "h": "La lógica del seguidor", "b": "La gente sigue cuentas que le DAN algo: aprende, se ríe, se identifica, se inspira. Tu producto es lo que vendes; tu contenido es lo que ofreces a cambio de seguirte." },
         { "role": "value", "h": "La regla 70/20/10", "b": "70% contenido de valor (educa, entretiene, conecta) · 20% prueba social (casos, reseñas, resultados) · 10% venta directa. El catálogo invertido: por eso no funciona." },
@@ -65,7 +65,7 @@
     {
       "slug": "respondes-tarde",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "\"¿Precio?\" el lunes. Respondiste el jueves. Compró el martes.", "b": "La venta muere en la espera" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Preguntó el lunes. Respondiste el jueves.", "b": "Compró el martes. En otro lado." },
         { "role": "rehook", "h": "El interés es un pico, no una meseta.", "b": "Cada \"¿precio?\" es una billetera abierta — que se cierra en horas, no en días." },
         { "role": "value", "h": "La matemática de la espera", "b": "Responder en 5 minutos vs 24 horas multiplica por MUCHO la probabilidad de venta. El que pregunta hoy compra hoy — aquí o en otro lado." },
         { "role": "value", "h": "El comentario ignorado espanta al próximo", "b": "Cuenta con 10 \"¿precio?\" sin responder = cartel de \"aquí no atienden\". El visitante nuevo lo ve y ni pregunta. El daño es silencioso y compuesto." },
@@ -85,7 +85,7 @@
     {
       "slug": "logo-gigante",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Tu logo gigante no evita ningún robo. Solo espanta clientes.", "b": "5 tics que gritan amateur" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Tu logo gigante espanta clientes.", "b": "5 tics que gritan amateur" },
         { "role": "rehook", "h": "Tu logo no vende. Tu contenido sí.", "b": "5 tics de diseño que espantan sin que lo notes — y sus arreglos de 1 minuto." },
         { "role": "value", "n": "1", "h": "El logo tamaño protagonista", "b": "El logo enorme al centro protege de un robo que nadie iba a cometer y arruina el diseño. Chico, en una esquina, siempre la misma. O en el perfil: para eso existe." },
         { "role": "value", "n": "2", "h": "El collage de 9 fotos en un post", "b": "En el celular se ve como estampilla ilegible. Mejor: carrusel con una foto protagonista por lámina. El formato existe exactamente para eso." },
@@ -105,7 +105,7 @@
     {
       "slug": "pensamientos-no-es-cta",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "\"¿Qué opinas? 👇\" es un bostezo, no una pregunta.", "b": "Por qué nadie te comenta" },
+        { "role": "cover", "kicker": "ERRORES", "h": "\"¿Qué opinas? 👇\" = bostezo.", "b": "Por qué nadie te comenta" },
         { "role": "rehook", "h": "Le pides opinión a gente que scrollea con una mano", "b": "mientras almuerza con la otra. La pregunta tiene que ser MÁS fácil que seguir scrolleando." },
         { "role": "value", "h": "Por qué la pregunta genérica falla", "b": "\"¿Qué opinas?\" exige pensar, redactar y exponerse — tres esfuerzos por cero recompensa. El cerebro apurado elige el scroll. Siempre." },
         { "role": "value", "h": "Anatomía de la pregunta que sí se responde", "b": "Respuesta de <10 segundos · sin respuesta \"incorrecta\" posible · toca experiencia propia (\"¿a ti te pasó?\") o pide elegir (\"¿A o B?\"). Fácil + personal + sin riesgo." },
@@ -125,7 +125,7 @@
     {
       "slug": "borras-posts",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "El post que borraste a las 2 horas despegaba el jueves.", "b": "El pánico de las primeras horas" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Lo borraste. Despegaba el jueves.", "b": "El pánico de las primeras horas" },
         { "role": "rehook", "h": "Publicaste. 2 horas, 4 likes. Lo borraste.", "b": "Acabas de enterrar vivo un post con días de vida por delante. Hablemos de eso." },
         { "role": "value", "h": "Los posts ya no viven 2 horas", "b": "El feed no es cronológico: un buen post se distribuye por DÍAS y hasta semanas (los carruseles sobre todo, con su segunda oportunidad). Juzgar a las 2 horas es enterrar vivos." },
         { "role": "value", "h": "Lo que le dices al algoritmo al borrar", "b": "Cortas el historial de señales del post y le enseñas a tu métrica interna a decidir por PÁNICO y no por datos. Dos pérdidas, cero ganancias." },
@@ -145,7 +145,7 @@
     {
       "slug": "seguidores-comprados",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Compraste 1,000 seguidores. Los vas a pagar por años.", "b": "La deuda invisible del atajo" },
+        { "role": "cover", "kicker": "ERRORES", "h": "¿Compraste 1,000 seguidores?", "b": "Los vas a pagar por años" },
         { "role": "rehook", "h": "Se ve bien un día. Cobra intereses para siempre.", "b": "Así funciona la deuda de los seguidores fantasma — y así se paga." },
         { "role": "value", "h": "El daño matemático", "b": "El algoritmo muestra tu post a una muestra de tus seguidores. Si 800 son bots, tu muestra está llena de cuentas que JAMÁS interactúan → señal de \"contenido malo\" → menos alcance para siempre." },
         { "role": "value", "h": "La interacción delatora", "b": "5,000 seguidores y 12 likes: cualquiera que sepa mirar (clientes corporativos, marcas, otros negocios) detecta la compra en 5 segundos. El atajo te desnuda ante los que importan." },
@@ -165,7 +165,7 @@
     {
       "slug": "hablas-a-todos",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "Le hablas a todos. Por eso nadie te escucha.", "b": "El miedo a elegir que te mantiene invisible" },
+        { "role": "cover", "kicker": "ERRORES", "h": "Le hablas a todos.", "b": "Por eso nadie te escucha." },
         { "role": "rehook", "h": "\"Es que mi producto es para todo el mundo.\"", "b": "Por eso nadie se siente llamado. La puntería vence al perdigón. Siempre." },
         { "role": "value", "h": "La psicología del \"esto es para mí\"", "b": "La gente reacciona cuando se siente RETRATADA: \"para mamás que trabajan desde casa\" detiene a esa mamá. \"Para todos\" no detiene a ninguno. El cerebro filtra lo genérico." },
         { "role": "value", "h": "Elegir nicho no es rechazar clientes", "b": "El pan lo compra todo el mundo — la panadería que dice \"masa madre para desayunos de familia\" también le vende al soltero. El nicho es la PUERTA de entrada, no una cerca." },
@@ -185,7 +185,7 @@
     {
       "slug": "mismo-caption-everywhere",
       "slides": [
-        { "role": "cover", "kicker": "ERRORES", "h": "El mismo texto en 3 redes = mal en las 3.", "b": "Multicanal no es multiplicar CTRL+V" },
+        { "role": "cover", "kicker": "ERRORES", "h": "El mismo texto en 3 redes.", "b": "Mal en las 3. Aquí el arreglo." },
         { "role": "rehook", "h": "Cada red es una fiesta distinta.", "b": "No cuentas el mismo chiste igual en un matrimonio que en un tono. Las redes, igual." },
         { "role": "value", "h": "Por qué el copiar-pegar sale caro", "b": "Los hashtags de IG se ven raros en Facebook · el tono formal de LinkedIn muere en TikTok · el \"link en bio\" no significa nada fuera de IG. Cada detalle fuera de lugar grita descuido." },
         { "role": "value", "h": "El mismo contenido, otro traje (2 min)", "b": "No es rehacer el contenido: es reescribir el TEXTO. La imagen o el carrusel viajan igual; las palabras se cambian de ropa. Dos minutos por red, no dos horas." },

@@ -1,4 +1,4 @@
-# Su vendedor respondía "¿precio?" 80 veces al día. Ya no.
+# "¿Precio?" — 80 veces al día.
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

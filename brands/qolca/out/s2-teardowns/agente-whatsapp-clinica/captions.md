@@ -1,4 +1,4 @@
-# Un agente de WhatsApp para una clínica, en 6 días. Sin misterio.
+# 6 días. Un agente de WhatsApp.
 
 `qolca` · `s2-teardowns` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

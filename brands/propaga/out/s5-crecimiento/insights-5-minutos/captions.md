@@ -1,4 +1,4 @@
-# Tus estadísticas se leen en 5 minutos. Más es procrastinar.
+# Más de 5 minutos es procrastinar.
 
 `propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

@@ -1,4 +1,4 @@
-# "En una semana está" — la mentira fundacional del rubro
+# "En una semana está."
 
 `qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

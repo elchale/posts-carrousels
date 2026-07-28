@@ -1,4 +1,4 @@
-# "Publica martes a las 7pm" — ¿según QUIÉN?
+# "Publica martes 7pm." ¿Según QUIÉN?
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

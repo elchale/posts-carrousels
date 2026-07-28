@@ -1,4 +1,4 @@
-# Tu cliente ya no navega hashtags: te BUSCA como en Google
+# ¿Apareces tú o tu competencia?
 
 `propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

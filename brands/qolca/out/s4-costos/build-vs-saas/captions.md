@@ -1,4 +1,4 @@
-# El 60% de las veces te vamos a decir: "no lo construyas, cómpralo"
+# Casi siempre decimos: no lo construyas
 
 `qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

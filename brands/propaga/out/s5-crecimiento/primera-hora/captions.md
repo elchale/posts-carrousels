@@ -1,4 +1,4 @@
-# El algoritmo examina cada post nuevo. El examen dura 1 hora.
+# Cada post rinde un examen.
 
 `propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

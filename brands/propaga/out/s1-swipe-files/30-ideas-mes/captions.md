@@ -1,4 +1,4 @@
-# El "no sé qué publicar" se acabó hoy: 30 ideas para tu negocio
+# 30 días de contenido, resueltos.
 
 `propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

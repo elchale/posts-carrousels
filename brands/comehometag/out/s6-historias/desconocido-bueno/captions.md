@@ -1,4 +1,4 @@
-# Esta historia no es de un niño perdido.
+# No es del niño perdido.
 
 `comehometag` · `s6-historias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

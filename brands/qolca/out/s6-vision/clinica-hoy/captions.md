@@ -1,4 +1,4 @@
-# Si me dieran una clínica hoy, haría estas 5 cosas
+# Si me dieran una clínica hoy
 
 `qolca` · `s6-vision` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 

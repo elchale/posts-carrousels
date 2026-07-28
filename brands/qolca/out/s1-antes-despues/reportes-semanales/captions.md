@@ -1,4 +1,4 @@
-# El reporte de los viernes llegaba con datos del martes
+# Reportes del viernes, datos del martes
 
 `qolca` · `s1-antes-despues` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 

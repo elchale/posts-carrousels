@@ -1,4 +1,4 @@
-# Un bot que deriva 0% a humanos no es perfecto: está inventando
+# ¿Tu bot deriva 0%? Está inventando.
 
 `qolca` · `s4-costos` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 
