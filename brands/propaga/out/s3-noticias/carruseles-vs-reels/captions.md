@@ -1,0 +1,35 @@
+# ¿Carruseles o videos? Los datos de 45 millones de posts (no el gurú)
+
+`propaga` · `s3-noticias` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+
+## 🎵 TikTok
+Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
+
+```text
+¿Videos o carruseles? Los DATOS, no el gurú 📊
+#reels #carrusel #datos
+```
+
+## 📸 Instagram
+Fotos de `ig/` (4:5) · copia el caption:
+
+```text
+¿Carruseles o videos?
+
+Datos de 45 millones de posts, no opinión de gurú: los videos ganan en ALCANCE (+36% — que te descubran) y los carruseles en INTERACCIÓN (6.9% vs 3.3% — que te crean y compren). No compiten: son etapas del embudo. Mezcla para negocio chico: 2 carruseles + 1 video por semana.
+
+#reels #carrusel #instagram #peru
+```
+
+**ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
+
+```text
+Comparación con datos de videos versus carruseles: alcance para descubrir, interacción para convertir.
+```
+
+## 👥 Facebook
+Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
+
+```text
+Fin del debate con datos (45M de posts analizados): los videos ganan en alcance (+36%) y los carruseles en interacción (6.9% vs 3.3% — más del doble). No compiten — son etapas: el video te descubre, el carrusel te convierte. ¿Ustedes qué publican más?
+```

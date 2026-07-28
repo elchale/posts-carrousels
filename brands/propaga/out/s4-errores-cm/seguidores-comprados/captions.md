@@ -1,0 +1,35 @@
+# Compraste 1,000 seguidores. Los vas a pagar por años.
+
+`propaga` · `s4-errores-cm` · **9 láminas** — sube SIEMPRE en orden 01 → 09
+
+## 🎵 TikTok
+Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
+
+```text
+Comprar seguidores: la deuda que se paga por AÑOS 👻
+#seguidores #instagram #crecimiento
+```
+
+## 📸 Instagram
+Fotos de `ig/` (4:5) · copia el caption:
+
+```text
+Compraste 1,000 seguidores: se ve bien UN día y cobra intereses por años — el algoritmo muestra tus posts a una muestra de seguidores, y si están llenos de bots que jamás interactúan, tu señal es "contenido malo" para siempre.
+
+Además: 5,000 seguidores con 12 likes delata la compra ante cualquiera que sepa mirar. Los bots no compran tortas.
+
+#seguidores #instagram #crecimiento #negocios #peru
+```
+
+**ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
+
+```text
+Consecuencias de comprar seguidores: daño algorítmico permanente, delación por interacción baja y proceso de limpieza.
+```
+
+## 👥 Facebook
+Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
+
+```text
+La deuda invisible del atajo: 1,000 seguidores comprados envenenan tu alcance para siempre (el algoritmo testea tus posts con una muestra llena de bots que nunca interactúan) y te delatan ante cualquier cliente serio (5,000 seguidores, 12 likes 🚩). Los bots no compran. ¿Conocen cuentas arrastrando esa ancla?
+```

@@ -1,0 +1,206 @@
+{
+  "series": "s4-errores-cm",
+  "brand": "propaga",
+  "posts": [
+    {
+      "slug": "no-es-el-algoritmo",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "Tus posts no mueren por el algoritmo. Mueren por esto.", "b": "El diagnóstico honesto, en 5 causas" },
+        { "role": "rehook", "h": "Culpar al algoritmo es gratis. Y no arregla nada.", "b": "Estas 5 causas sí se arreglan — esta misma semana." },
+        { "role": "value", "n": "1", "h": "Publicas para nadie en particular", "b": "\"Contenido para todos\" = contenido para nadie. Sin un cliente específico en mente, tu post no le habla a ninguna persona real — y ninguna reacciona." },
+        { "role": "value", "n": "2", "h": "No das razones para interactuar", "b": "El post-catálogo (foto + precio) no se guarda, no se envía, no se comenta. Sin interacción temprana, el algoritmo lo archiva. No te odia: no tuvo señales." },
+        { "role": "value", "n": "3", "h": "Tu portada no detiene a nadie", "b": "0.25 segundos: eso tienes. Texto chiquito, foto genérica, sin promesa = scroll. La portada es el 80% del resultado y le dedicamos el 5% del esfuerzo." },
+        { "role": "value", "n": "4", "h": "Publicas y desapareces", "b": "El algoritmo mide la conversación: si no respondes comentarios ni DMs en la primera hora, la señal muere. Publicar es el 50%; conversar, el otro 50." },
+        { "role": "value", "n": "5", "h": "Cambias de tema cada semana", "b": "Hoy motivación, mañana memes, pasado tu producto. Nadie sabe para qué seguirte. Elige 3 pilares y repítelos hasta aburrirte tú — nunca al público." },
+        { "role": "stat", "h": "El algoritmo amplifica lo que funciona en pequeño.", "b": "Si 100 personas lo ignoran, 10,000 también. Arregla para 100 y el resto llega." },
+        { "role": "cta", "h": "¿Cuál de las 5 es la tuya?", "b": "Sé honesto y arregla UNA esta semana. Guarda el diagnóstico." }
+      ],
+      "caption": {
+        "ig": "Por qué tus posts no llegan a nadie — y no, no es el algoritmo: publicas para nadie en particular, no das razones para interactuar, tu portada no detiene el scroll (0.25 segundos), publicas y desapareces, y cambias de tema cada semana. La verdad de fondo: el algoritmo amplifica lo que funciona en pequeño. #marketingdigital #algoritmo #cm #emprendedores #peru",
+        "tt": "No es el algoritmo. Son estas 5 cosas 💔 #algoritmo #cm #marketingdigital",
+        "fb": "Culpar al algoritmo es gratis y no arregla nada. La verdad incómoda: el algoritmo amplifica lo que funciona en pequeño — si tus primeros 100 espectadores lo ignoran, 10,000 también lo harían. Las 5 causas reales (y arreglables) en el post. ¿Cuál es la tuya? Confesión en comentarios 👇"
+      },
+      "alt": "Cinco causas reales del bajo alcance: audiencia indefinida, falta de interacción, portadas débiles, ausencia de conversación y dispersión temática."
+    },
+    {
+      "slug": "publicas-y-desapareces",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "Tu post murió en su primera hora. Y tú ni estabas.", "b": "El error que el algoritmo nunca perdona" },
+        { "role": "rehook", "h": "Tu post es una fiesta que organizaste.", "b": "Y te fuiste antes de que llegara el primer invitado. Así nadie se queda." },
+        { "role": "value", "h": "La primera hora decide la distribución", "b": "El algoritmo mide la reacción temprana para decidir a cuánta gente más mostrarle el post. Un comentario respondido al minuto vale más que diez respondidos mañana." },
+        { "role": "value", "h": "La regla de los 30 minutos", "b": "Publica solo cuando tengas 30 minutos disponibles después. Responde todo: comentarios, DMs, reacciones a la historia. Eres el anfitrión — actúa como tal." },
+        { "role": "value", "h": "Responde para abrir, no para cerrar", "b": "\"¡Gracias! 😊\" cierra la conversación. \"¡Gracias! ¿Tú también te pasas horas en esto?\" la abre. Cada respuesta tuya puede generar otra respuesta — y otra señal." },
+        { "role": "value", "h": "Los DMs valen doble", "b": "La conversación privada es la señal de relación más fuerte que existe. El que te escribe por DM es tu futuro cliente: respóndele HOY, no \"cuando pueda\"." },
+        { "role": "value", "h": "El calentamiento previo (truco de CM)", "b": "15 minutos ANTES de publicar: comenta cuentas de tu rubro, responde historias, activa conversaciones. Llegas al feed con la conversación ya tibia. Funciona." },
+        { "role": "stat", "h": "Mismo post, con y sin anfitrión: hasta 3x de diferencia en alcance.", "b": "La presencia es una estrategia. La ausencia también — una mala." },
+        { "role": "cta", "h": "Tu próximo post: quédate 30 minutos.", "b": "Y compara el alcance. Guarda la regla del anfitrión." }
+      ],
+      "caption": {
+        "ig": "Publicar y desaparecer es organizar una fiesta e irte antes del primer invitado: la primera hora decide la distribución y un comentario respondido al minuto vale más que diez respondidos mañana. La regla: publica solo cuando tengas 30 minutos disponibles DESPUÉS. Y responde para abrir conversación, no para cerrarla. #communitymanager #interaccion #instagram #cm #peru",
+        "tt": "Publicas y te vas = fiesta sin anfitrión 🎈 #cm #communitymanager #instagram",
+        "fb": "El error más común y más barato de arreglar: publicar y desaparecer. La primera hora decide cuánta gente más verá tu post — por eso la regla del anfitrión: publica solo cuando tengas 30 minutos libres después, y responde para ABRIR conversación (\"¿a ti también te pasa?\"), no para cerrarla (\"gracias 😊\"). ¿Cuánto se quedan ustedes después de publicar?"
+      },
+      "alt": "El error de abandonar el post tras publicar: primera hora crítica, regla de los treinta minutos y respuestas que abren conversación."
+    },
+    {
+      "slug": "feed-catalogo",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "Nadie sigue catálogos. Tu feed es uno.", "b": "El error del 80% de negocios" },
+        { "role": "rehook", "h": "Pregunta dura: ¿por qué alguien seguiría tu cuenta?", "b": "\"Para ver fotos de mis productos\" no es una respuesta. Nadie sigue catálogos." },
+        { "role": "value", "h": "La lógica del seguidor", "b": "La gente sigue cuentas que le DAN algo: aprende, se ríe, se identifica, se inspira. Tu producto es lo que vendes; tu contenido es lo que ofreces a cambio de seguirte." },
+        { "role": "value", "h": "La regla 70/20/10", "b": "70% contenido de valor (educa, entretiene, conecta) · 20% prueba social (casos, reseñas, resultados) · 10% venta directa. El catálogo invertido: por eso no funciona." },
+        { "role": "value", "h": "Convierte el producto en contenido", "b": "No \"torta de chocolate S/45\" sino: cómo se hace (proceso), para quién fue (historia), qué salió mal (humor), cómo elegir una buena (educación). El producto da 10 contenidos." },
+        { "role": "value", "h": "El catálogo tiene su lugar", "b": "Historias destacadas: ahí vive el catálogo completo, ordenado por categoría, siempre disponible. El feed atrae y convence; las destacadas venden al ya convencido." },
+        { "role": "value", "h": "El test de la cuenta ajena", "b": "Mira tu feed como extraño: ¿seguirías esta cuenta si no fuera tuya? Si dudaste, ya sabes la respuesta. Y ahora sabes el arreglo: 70/20/10." },
+        { "role": "stat", "h": "Los posts de valor traen al 90% de seguidores nuevos.", "b": "Y esos seguidores luego compran del 10% de venta. El orden importa." },
+        { "role": "cta", "h": "Haz el test de la cuenta ajena hoy.", "b": "Y guarda la regla 70/20/10 para tu próxima semana de contenido." }
+      ],
+      "caption": {
+        "ig": "Tu feed es un catálogo — y nadie sigue catálogos. La lógica del seguidor: la gente sigue cuentas que le DAN algo (aprende, ríe, se identifica); tu contenido es lo que ofreces a cambio de seguirte. La regla 70/20/10: valor/prueba social/venta. Y el catálogo completo vive en las historias destacadas, no en el feed. #contentmarketing #feed #negocios #cm #peru",
+        "tt": "Nadie sigue catálogos. NADIE 🛍️ #contentmarketing #negocios #cm",
+        "fb": "Test de honestidad: miren su feed como si fuera de otra persona — ¿lo seguirían? Si la respuesta es \"mmm\"… su feed es un catálogo, y nadie sigue catálogos. La regla que lo arregla: 70% valor, 20% prueba social, 10% venta. Un solo producto puede dar 10 contenidos (proceso, historia, humor, educación). ¿Su feed pasa el test?"
+      },
+      "alt": "El error del feed catálogo: regla 70/20/10, transformación de productos en contenido y el rol de las historias destacadas."
+    },
+    {
+      "slug": "respondes-tarde",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "\"¿Precio?\" el lunes. Respondiste el jueves. Compró el martes.", "b": "La venta muere en la espera" },
+        { "role": "rehook", "h": "El interés es un pico, no una meseta.", "b": "Cada \"¿precio?\" es una billetera abierta — que se cierra en horas, no en días." },
+        { "role": "value", "h": "La matemática de la espera", "b": "Responder en 5 minutos vs 24 horas multiplica por MUCHO la probabilidad de venta. El que pregunta hoy compra hoy — aquí o en otro lado." },
+        { "role": "value", "h": "El comentario ignorado espanta al próximo", "b": "Cuenta con 10 \"¿precio?\" sin responder = cartel de \"aquí no atienden\". El visitante nuevo lo ve y ni pregunta. El daño es silencioso y compuesto." },
+        { "role": "value", "h": "El sistema mínimo (sin herramientas)", "b": "3 ventanas fijas de 10 minutos: mañana, mediodía, noche. Notificaciones de comentarios y DMs activadas. Respuestas frecuentes guardadas en notas para pegar y personalizar." },
+        { "role": "value", "h": "Las respuestas rápidas de WhatsApp/IG", "b": "Ambas apps permiten guardar respuestas predefinidas (precio, horario, delivery). Se configuran una vez, se personalizan al enviar: velocidad sin sonar a robot." },
+        { "role": "value", "h": "Cuándo pensar en automatizar", "b": "Si pasas de ~20 consultas diarias repetidas, una respuesta automática o un agente se paga solo. Antes de eso, el sistema de 3 ventanas basta y sobra." },
+        { "role": "stat", "h": "Cada \"¿precio?\" es una persona con la billetera abierta.", "b": "Nadie comenta precio por deporte. Trátalo como lo que es: una venta a medio cerrar." },
+        { "role": "cta", "h": "Activa tus 3 ventanas hoy.", "b": "Mañana, mediodía, noche. 30 minutos en total. Guarda el sistema." }
+      ],
+      "caption": {
+        "ig": "\"¿Precio?\" respondido el jueves — la señora preguntó el lunes y el martes compró en otro lado. El interés es un PICO, no una meseta: se atiende en el pico o se pierde. El sistema mínimo sin herramientas: 3 ventanas fijas de 10 minutos (mañana, mediodía, noche) + respuestas rápidas configuradas. Y ojo: los \"¿precio?\" sin responder espantan también al visitante nuevo. #atencionalcliente #ventas #dm #negocios #peru",
+        "tt": "\"¿Precio?\" respondido 3 días tarde = venta regalada a la competencia 💸 #ventas #cm #atencionalcliente",
+        "fb": "Nadie comenta \"¿precio?\" por deporte: es una persona con la billetera abierta. Y responder en 5 minutos vs 24 horas multiplica la probabilidad de venta. El sistema mínimo que cualquiera puede montar hoy: 3 ventanas fijas de 10 minutos + respuestas frecuentes guardadas. ¿En cuánto tiempo responden ustedes?"
+      },
+      "alt": "El costo de responder tarde: matemática de la espera, daño reputacional de comentarios ignorados y sistema de tres ventanas."
+    },
+    {
+      "slug": "logo-gigante",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "Tu logo gigante no evita ningún robo. Solo espanta clientes.", "b": "5 tics que gritan amateur" },
+        { "role": "rehook", "h": "Tu logo no vende. Tu contenido sí.", "b": "5 tics de diseño que espantan sin que lo notes — y sus arreglos de 1 minuto." },
+        { "role": "value", "n": "1", "h": "El logo tamaño protagonista", "b": "El logo enorme al centro protege de un robo que nadie iba a cometer y arruina el diseño. Chico, en una esquina, siempre la misma. O en el perfil: para eso existe." },
+        { "role": "value", "n": "2", "h": "El collage de 9 fotos en un post", "b": "En el celular se ve como estampilla ilegible. Mejor: carrusel con una foto protagonista por lámina. El formato existe exactamente para eso." },
+        { "role": "value", "n": "3", "h": "Texto que no se lee en chico", "b": "El diseño se aprueba MIRÁNDOLO EN EL CELULAR, no en la computadora. Si achicas y no se lee el titular, no existe el titular. Letra grande es de profesional." },
+        { "role": "value", "n": "4", "h": "El WhatsApp en la imagen... en chiquito", "b": "Si el dato de contacto importa, va GRANDE y una vez — no en letra 8 en la esquina de cada post. Mejor aún: en la bio y el cierre, donde sí se puede hacer clic." },
+        { "role": "value", "n": "5", "h": "Doce tipografías y ninguna jerarquía", "b": "Dos fuentes máximo (una para títulos, una para texto), tres tamaños, mismos colores siempre. La consistencia ES el branding — no el logo repetido." },
+        { "role": "stat", "h": "Regla madre: diseña para el pulgar apurado.", "b": "Tu post compite con memes y chismes en una pantalla de 6 pulgadas. Legible gana a bonito." },
+        { "role": "cta", "h": "Revisa tu último post en el celular.", "b": "¿Pasa los 5? Guarda la lista para tu próximo diseño." }
+      ],
+      "caption": {
+        "ig": "El logo gigante no protege de nada y arruina el diseño: 5 tics que gritan amateur — el collage de 9 fotos ilegible, el texto que no se lee en chico (el diseño se aprueba EN EL CELULAR), el WhatsApp en letra 8 y las doce tipografías sin jerarquía. La consistencia es el branding, no el logo repetido. #diseño #branding #socialmedia #tips #peru",
+        "tt": "El logo GIGANTE en cada post 😬 y otros tics de amateur #diseño #branding #socialmedia",
+        "fb": "Verdad de diseño que duele: tu logo no vende — tu contenido sí. El logo enorme al centro protege de un robo que nadie iba a cometer y arruina el post. Y la regla madre: el diseño se aprueba mirándolo EN EL CELULAR — si el titular no se lee en chico, no existe. Todos hemos caído en alguno 😄 ¿Cuál de los 5 tics han cometido?"
+      },
+      "alt": "Cinco errores de diseño amateur en redes: logo protagonista, collages, texto ilegible, contacto diminuto y exceso de tipografías."
+    },
+    {
+      "slug": "pensamientos-no-es-cta",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "\"¿Qué opinas? 👇\" es un bostezo, no una pregunta.", "b": "Por qué nadie te comenta" },
+        { "role": "rehook", "h": "Le pides opinión a gente que scrollea con una mano", "b": "mientras almuerza con la otra. La pregunta tiene que ser MÁS fácil que seguir scrolleando." },
+        { "role": "value", "h": "Por qué la pregunta genérica falla", "b": "\"¿Qué opinas?\" exige pensar, redactar y exponerse — tres esfuerzos por cero recompensa. El cerebro apurado elige el scroll. Siempre." },
+        { "role": "value", "h": "Anatomía de la pregunta que sí se responde", "b": "Respuesta de <10 segundos · sin respuesta \"incorrecta\" posible · toca experiencia propia (\"¿a ti te pasó?\") o pide elegir (\"¿A o B?\"). Fácil + personal + sin riesgo." },
+        { "role": "value", "h": "La mejora de cada pregunta floja", "b": "\"¿Qué opinas?\" → \"¿A o B?\" · \"¿Les gusta?\" → \"¿Lo usarías un lunes o solo en finde?\" · \"Comenten 👇\" → \"Completa: yo nunca ___\". Misma intención, 10 veces más respuestas." },
+        { "role": "value", "h": "El pedido correcto según el objetivo", "b": "¿Guardados? Pide guardar con razón (\"para tu próxima compra\"). ¿Envíos? \"Mándaselo a...\". ¿Comentarios? Pregunta binaria. UN objetivo por post — el pedido múltiple mata todos." },
+        { "role": "value", "h": "Y responde lo que te respondan", "b": "La pregunta que funciona genera conversación — y la conversación abandonada por el autor muere en 3 comentarios. Preguntar es firmar que te quedas a conversar." },
+        { "role": "stat", "h": "Pregunta específica vs genérica: 5-10x más comentarios.", "b": "Mismo post, misma audiencia. Solo cambió la pregunta." },
+        { "role": "cta", "h": "Practiquemos: ¿tu cierre más usado es A) \"¿qué opinas?\" o B) uno específico?", "b": "Respóndeme con A o B. Ves lo que hice, ¿no? 😄" }
+      ],
+      "caption": {
+        "ig": "\"¿Qué opinas? 👇\" no genera comentarios — es un bostezo: exige pensar, redactar y exponerse por cero recompensa, y el cerebro apurado elige el scroll. La pregunta que sí se responde: <10 segundos, sin respuesta incorrecta, toca experiencia propia o pide elegir A/B. La específica vence a la genérica: 5-10x más comentarios. #interaccion #copywriting #preguntas #cm #peru",
+        "tt": "\"¿Qué opinas?👇\" = bostezo. Esto sí funciona 💬 #interaccion #copywriting #cm",
+        "fb": "Le pides \"tu opinión\" a alguien que scrollea con una mano mientras almuerza con la otra — por eso nadie comenta. La pregunta ganadora: se responde en 10 segundos, no tiene respuesta incorrecta y pide ELEGIR. Practiquemos aquí mismo: ¿su cierre más usado es A) \"¿qué opinas?\" o B) uno específico? A o B 👇"
+      },
+      "alt": "Por qué las preguntas genéricas no generan comentarios y la anatomía de preguntas específicas que multiplican respuestas."
+    },
+    {
+      "slug": "borras-posts",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "El post que borraste a las 2 horas despegaba el jueves.", "b": "El pánico de las primeras horas" },
+        { "role": "rehook", "h": "Publicaste. 2 horas, 4 likes. Lo borraste.", "b": "Acabas de enterrar vivo un post con días de vida por delante. Hablemos de eso." },
+        { "role": "value", "h": "Los posts ya no viven 2 horas", "b": "El feed no es cronológico: un buen post se distribuye por DÍAS y hasta semanas (los carruseles sobre todo, con su segunda oportunidad). Juzgar a las 2 horas es enterrar vivos." },
+        { "role": "value", "h": "Lo que le dices al algoritmo al borrar", "b": "Cortas el historial de señales del post y le enseñas a tu métrica interna a decidir por PÁNICO y no por datos. Dos pérdidas, cero ganancias." },
+        { "role": "value", "h": "El post \"fracasado\" es información", "b": "¿Portada débil? ¿Tema que no interesa? ¿Hora muerta? El post que no funcionó te enseña más que el que sí — pero solo si lo dejas vivir y lo analizas al día 7." },
+        { "role": "value", "h": "Cuándo SÍ borrar (o archivar)", "b": "Errores de información (precio equivocado), erratas graves, contenido que ya no representa a la marca. Para todo lo demás existe ARCHIVAR: lo ocultas sin matar sus datos." },
+        { "role": "value", "h": "La regla de los 7 días", "b": "Ningún juicio antes del día 7. Ese día: ¿envíos? ¿guardados? ¿de dónde vino el alcance? Anota la lección y decide. El análisis frío vence al pánico tibio." },
+        { "role": "stat", "h": "Muchos posts hacen el 60% de su alcance después del día 2.", "b": "El que borraste a las 2 horas nunca tuvo la oportunidad de contártelo." },
+        { "role": "cta", "h": "Prohibido borrar por pánico.", "b": "Regla de los 7 días desde hoy. Guarda esto para tu próximo bajón de las 2 horas." }
+      ],
+      "caption": {
+        "ig": "Publicaste, 2 horas, 4 likes, lo borraste — acabas de matar un post que quizás despegaba el jueves: el feed ya no es cronológico y muchos posts hacen el 60% de su alcance DESPUÉS del día 2. La regla de los 7 días: ningún juicio antes, análisis frío después (¿envíos? ¿guardados?). Para los errores reales existe ARCHIVAR. #instagram #contentmarketing #cm #estrategia #peru",
+        "tt": "Borrar el post a las 2 horas = enterrarlo vivo ⚰️ #instagram #cm #contentmarketing",
+        "fb": "Confesión colectiva: todos hemos borrado un post por pánico a las 2 horas. Dato que cambia el juego: el feed no es cronológico y muchos posts hacen el 60% de su alcance después del día 2 — los carruseles hasta tienen segunda oportunidad automática. Regla nueva: nada de juicios antes del día 7. ¿Cuántos posts habrán enterrado vivos? 😅"
+      },
+      "alt": "Por qué no borrar posts a las pocas horas: distribución de varios días, valor informativo del fracaso y regla de los siete días."
+    },
+    {
+      "slug": "seguidores-comprados",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "Compraste 1,000 seguidores. Los vas a pagar por años.", "b": "La deuda invisible del atajo" },
+        { "role": "rehook", "h": "Se ve bien un día. Cobra intereses para siempre.", "b": "Así funciona la deuda de los seguidores fantasma — y así se paga." },
+        { "role": "value", "h": "El daño matemático", "b": "El algoritmo muestra tu post a una muestra de tus seguidores. Si 800 son bots, tu muestra está llena de cuentas que JAMÁS interactúan → señal de \"contenido malo\" → menos alcance para siempre." },
+        { "role": "value", "h": "La interacción delatora", "b": "5,000 seguidores y 12 likes: cualquiera que sepa mirar (clientes corporativos, marcas, otros negocios) detecta la compra en 5 segundos. El atajo te desnuda ante los que importan." },
+        { "role": "value", "h": "Los bots no compran tortas", "b": "Obviedad que hay que decir: el objetivo nunca fueron los seguidores — eran las VENTAS. 100 seguidores reales de tu distrito valen más que 10,000 cuentas de granjas." },
+        { "role": "value", "h": "Cómo se paga la deuda", "b": "Eliminar seguidores falsos (a mano o con auditoría), aceptar el bajón del número visible, y reconstruir con interacción real. Duele — menos que arrastrar el ancla eternamente." },
+        { "role": "value", "h": "Y sus primos: likes y comentarios comprados", "b": "Mismo veneno con otras etiquetas: grupos de likes, likes automáticos, comentarios genéricos (\"Nice post!\"). El algoritmo los reconoce cada vez mejor. No alimentes al ancla." },
+        { "role": "stat", "h": "Crecer 100 reales toma meses. Limpiar 1,000 falsos también.", "b": "La diferencia: el primer camino termina en clientes. El segundo, donde empezaste — pero más cansado." },
+        { "role": "cta", "h": "¿Heredaste una cuenta con fantasmas?", "b": "Empieza la limpieza hoy. Y guarda este post para el amigo tentado por el atajo." }
+      ],
+      "caption": {
+        "ig": "Compraste 1,000 seguidores: se ve bien UN día y cobra intereses por años — el algoritmo muestra tus posts a una muestra de seguidores, y si están llenos de bots que jamás interactúan, tu señal es \"contenido malo\" para siempre. Además: 5,000 seguidores con 12 likes delata la compra ante cualquiera que sepa mirar. Los bots no compran tortas. #seguidores #instagram #crecimiento #negocios #peru",
+        "tt": "Comprar seguidores: la deuda que se paga por AÑOS 👻 #seguidores #instagram #crecimiento",
+        "fb": "La deuda invisible del atajo: 1,000 seguidores comprados envenenan tu alcance para siempre (el algoritmo testea tus posts con una muestra llena de bots que nunca interactúan) y te delatan ante cualquier cliente serio (5,000 seguidores, 12 likes 🚩). Los bots no compran. ¿Conocen cuentas arrastrando esa ancla?"
+      },
+      "alt": "Consecuencias de comprar seguidores: daño algorítmico permanente, delación por interacción baja y proceso de limpieza."
+    },
+    {
+      "slug": "hablas-a-todos",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "Le hablas a todos. Por eso nadie te escucha.", "b": "El miedo a elegir que te mantiene invisible" },
+        { "role": "rehook", "h": "\"Es que mi producto es para todo el mundo.\"", "b": "Por eso nadie se siente llamado. La puntería vence al perdigón. Siempre." },
+        { "role": "value", "h": "La psicología del \"esto es para mí\"", "b": "La gente reacciona cuando se siente RETRATADA: \"para mamás que trabajan desde casa\" detiene a esa mamá. \"Para todos\" no detiene a ninguno. El cerebro filtra lo genérico." },
+        { "role": "value", "h": "Elegir nicho no es rechazar clientes", "b": "El pan lo compra todo el mundo — la panadería que dice \"masa madre para desayunos de familia\" también le vende al soltero. El nicho es la PUERTA de entrada, no una cerca." },
+        { "role": "value", "h": "Cómo se ve en el contenido", "b": "Genérico: \"5 tips de finanzas\". Con puntería: \"5 gastos hormiga de los que trabajan en oficina en Lima\". El segundo se envía al grupo de la oficina. El primero se scrollea." },
+        { "role": "value", "h": "El ejercicio del cliente estrella", "b": "Elige a TU mejor cliente real (el que paga bien, vuelve y recomienda). Descríbelo: edad, rutina, dolores, frases. Cada post se escribe PARA ESA persona. Los parecidos llegarán solos." },
+        { "role": "value", "h": "La prueba de la puntería", "b": "Tu contenido tiene puntería si alguien comenta \"esto es literal yo\" o etiqueta a un amigo específico. Si tus comentarios son genéricos, tu contenido también lo es." },
+        { "role": "stat", "h": "El post nicho llega MÁS lejos que el genérico.", "b": "Paradoja del algoritmo: la señal fuerte de un grupo chico vence a la indiferencia de un grupo grande." },
+        { "role": "cta", "h": "Define tu cliente estrella hoy.", "b": "Y escribe tu próximo post SOLO para él. Guarda el ejercicio." }
+      ],
+      "caption": {
+        "ig": "\"Mi producto es para todo el mundo\" — por eso nadie se siente llamado: el cerebro filtra lo genérico y reacciona cuando se siente RETRATADO. El nicho es la puerta, no una cerca (la panadería de \"masa madre para desayunos de familia\" también le vende al soltero). Paradoja del algoritmo: la señal fuerte de un grupo chico vence a la indiferencia de uno grande. #nicho #marketingdigital #estrategia #emprendedores #peru",
+        "tt": "\"Es para todo el mundo\" = no es para nadie 🎯 #nicho #marketing #emprendedores",
+        "fb": "El miedo a elegir nicho: \"si me especializo, pierdo clientes\". La realidad es la contraria — el nicho es la PUERTA de entrada, no una cerca: \"5 gastos hormiga del oficinista limeño\" se envía al grupo de la oficina; \"5 tips de finanzas\" se scrollea. La prueba de la puntería: ¿su contenido genera comentarios de \"esto es literal yo\"?"
+      },
+      "alt": "El error de hablar a audiencias genéricas: psicología del retrato, nicho como puerta de entrada y ejercicio del cliente estrella."
+    },
+    {
+      "slug": "mismo-caption-everywhere",
+      "slides": [
+        { "role": "cover", "kicker": "ERRORES", "h": "El mismo texto en 3 redes = mal en las 3.", "b": "Multicanal no es multiplicar CTRL+V" },
+        { "role": "rehook", "h": "Cada red es una fiesta distinta.", "b": "No cuentas el mismo chiste igual en un matrimonio que en un tono. Las redes, igual." },
+        { "role": "value", "h": "Por qué el copiar-pegar sale caro", "b": "Los hashtags de IG se ven raros en Facebook · el tono formal de LinkedIn muere en TikTok · el \"link en bio\" no significa nada fuera de IG. Cada detalle fuera de lugar grita descuido." },
+        { "role": "value", "h": "El mismo contenido, otro traje (2 min)", "b": "No es rehacer el contenido: es reescribir el TEXTO. La imagen o el carrusel viajan igual; las palabras se cambian de ropa. Dos minutos por red, no dos horas." },
+        { "role": "value", "h": "Instagram: palabra clave + valor + pedido", "b": "Primera línea con la palabra clave buscable, desarrollo con la promesa del post y UN pedido (guardar/enviar). 3-5 hashtags específicos al final." },
+        { "role": "value", "h": "Facebook: la pregunta conversable", "b": "FB premia los comentarios largos y las discusiones: abre con una pregunta o una historia. Cero hashtags (ahí no hacen nada) y tono de sobremesa." },
+        { "role": "value", "h": "TikTok: corto, hablado y con sonido", "b": "Texto de una línea con gancho, hashtags de nicho, y el post SIEMPRE con sonido en tendencia — el audio es señal de distribución hasta en fotos." },
+        { "role": "stat", "h": "Mismo post, texto adaptado: mejor rendimiento en TODAS las redes.", "b": "El contenido viaja gratis. El texto se gana su pasaje en cada frontera." },
+        { "role": "cta", "h": "Guarda la guía de trajes.", "b": "2 minutos por red. Tu alcance nota la diferencia esta misma semana." }
+      ],
+      "caption": {
+        "ig": "El mismo texto copiado y pegado en todas las redes te está frenando: los hashtags de IG se ven raros en Facebook, el \"link en bio\" no existe fuera de IG y el tono cambia por red. No es rehacer el contenido — es cambiarle el traje al TEXTO: 2 minutos por red. IG: palabra clave + pedido · FB: pregunta conversable sin hashtags · TikTok: una línea + sonido. #multicanal #socialmedia #cm #estrategia #peru",
+        "tt": "El mismo texto en todas las redes 😵 el error de 2 minutos #socialmedia #cm #multicanal",
+        "fb": "Cada red es una fiesta distinta: no cuentas el mismo chiste igual en un matrimonio que en un tono. El contenido (la imagen, el carrusel) viaja gratis entre redes — pero el texto se gana su pasaje: en Facebook funcionan las preguntas conversables y las historias, no los #hashtags #de #instagram. ¿Ustedes adaptan o CTRL+V?"
+      },
+      "alt": "Guía para adaptar textos por plataforma: por qué el copiar-pegar falla y el traje correcto para Instagram, Facebook y TikTok."
+    }
+  ]
+}

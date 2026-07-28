@@ -1,0 +1,196 @@
+{
+  "series": "s6-la-vida",
+  "brand": "propaga",
+  "posts": [
+    {
+      "slug": "post-de-3-horas",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-04-cafe-frio", "h": "Nadie vio el post que te tomó 3 horas.", "b": "Y el que hiciste en 10 minutos, explotó." },
+        { "role": "story", "plate": "cine-01-cama", "h": "Lo editaste hasta la medianoche.", "b": "Cambiaste la fuente 6 veces. Consultaste el color con tu pareja. 47 vistas." },
+        { "role": "story", "plate": "cine-07-caos", "h": "Y la foto apurada del pedido saliendo, con una línea de texto...", "b": "...tiene 40 comentarios y 3 clientes nuevos." },
+        { "role": "rehook", "h": "No es injusticia. Es información.", "b": "Tu audiencia acaba de decirte qué quiere. ¿La estás escuchando?" },
+        { "role": "value", "h": "Por qué pasa esto", "b": "El post de 3 horas suele ser PARA TI (tu estética, tu perfección). El de 10 minutos suele ser para ELLOS (real, útil, humano). La audiencia vota por lo segundo, siempre." },
+        { "role": "value", "h": "La lección práctica", "b": "Baja la producción, sube la verdad: más proceso, más día a día, más \"así salió el pedido de hoy\". Lo pulido inspira desconfianza; lo real inspira DMs." },
+        { "role": "value", "h": "El permiso que necesitabas", "b": "No tienes que ser diseñador para publicar. Tienes que ser real y constante. Tu negocio es interesante tal como es — deja de esconderlo detrás del Canva." },
+        { "role": "cta", "h": "¿Te pasó? Etiqueta a alguien del club.", "b": "Los del post de 3 horas y 47 vistas somos legión. 🧡" }
+      ],
+      "caption": {
+        "ig": "Nadie vio el post que te tomó 3 horas — y la foto apurada del pedido saliendo tiene 40 comentarios. No es injusticia: es información. El post de 3 horas suele ser PARA TI (tu estética, tu perfección); el de 10 minutos es para ELLOS (real, útil, humano). Baja la producción, sube la verdad. #emprendedores #relatable #contentcreator #realtalk #peru",
+        "tt": "El post de 3 horas: 47 vistas. La foto apurada: 40 comentarios 🥲 #relatable #emprendedores #marketingdigital",
+        "fb": "El club más grande del marketing digital: los del post de 3 horas y 47 vistas. La explicación duele pero libera — el post perfecto suele ser PARA TI; el real es para ellos. Y la audiencia siempre vota por lo real. ¿Quién más es del club? 🙋"
+      },
+      "alt": "Historia relatable del post perfeccionista que nadie vio frente a la foto espontánea que funcionó, con su lección."
+    },
+    {
+      "slug": "cliente-todo-gratis",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-05-analytics", "h": "\"¿Y tú cuánto cobras?\"", "b": "\"Depende del proyec—\" \"Porque mi sobrino lo hace gratis.\"" },
+        { "role": "story", "plate": "cine-08-caminando", "h": "El cliente que quiere el logo, la web, las redes y los videos.", "b": "Presupuesto: \"no mucho\". Plazo: \"para el viernes\"." },
+        { "role": "rehook", "h": "Todo el que cobra por su trabajo conoce esta conversación.", "b": "Hablemos de cómo responderla sin perder la paciencia (ni el cliente bueno)." },
+        { "role": "value", "h": "Por qué pasa", "b": "El que nunca hizo el trabajo no puede ver el trabajo: ve \"un logo\", no las 20 propuestas descartadas. La educación del cliente es parte del oficio — molesta, pero es así." },
+        { "role": "value", "h": "La respuesta que funciona", "b": "Sin sarcasmo, con opciones: \"Claro: con este presupuesto alcanza X. Para X+Y, la inversión es Z. ¿Qué prioridad tiene?\" — El precio se defiende con alternativas, no con discursos." },
+        { "role": "value", "h": "La señal de cuándo decir NO", "b": "El que regatea TODO antes de empezar, regateará todo hasta el final. El cliente que empieza pidiendo gratis rara vez termina pagando bien. Tu tiempo también es inventario." },
+        { "role": "value", "h": "Y sobre el sobrino...", "b": "\"¡Excelente! Si el resultado del sobrino te funciona, adelante — aquí estoy si algún día necesitas otra cosa.\" Elegante, cierto y deja la puerta abierta. El tiempo hace el resto." },
+        { "role": "cta", "h": "Envíaselo a quien vive esta conversación.", "b": "Diseñadores, fotógrafos, CMs, contadores... ellos saben. 🧡" }
+      ],
+      "caption": {
+        "ig": "\"¿Cuánto cobras?\" — \"Depende del proyec—\" — \"Porque mi sobrino lo hace gratis\" 🙃 La conversación que todo el que vende servicios conoce. La respuesta que funciona: sin sarcasmo, con opciones (\"con este presupuesto alcanza X; para X+Y la inversión es Z\"). Y la señal de oro: el que regatea TODO antes de empezar, regateará hasta el final. #freelance #servicios #emprendedores #relatable #peru",
+        "tt": "\"Mi sobrino lo hace gratis\" 💀 la conversación eterna #freelance #servicios #emprendedores",
+        "fb": "Homenaje a todos los que han escuchado \"es que mi sobrino lo hace gratis\": la respuesta elegante existe — \"¡excelente! si el resultado te funciona, adelante; aquí estoy si algún día necesitas otra cosa\". Cierto, sin sarcasmo, y el tiempo hace el resto 😄 Etiqueten a quien vive esta conversación: ¿cuál es la frase que más veces les ha tocado escuchar?"
+      },
+      "alt": "Historia humorística sobre el cliente que regatea y el sobrino gratis, con respuestas profesionales y señales de alerta."
+    },
+    {
+      "slug": "primer-cliente-desconocido",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-02-tripode", "h": "El día que un DESCONOCIDO te compró por un post.", "b": "No tu tía. No tu amiga. Un desconocido." },
+        { "role": "story", "plate": "cine-05-analytics", "h": "\"Hola, vi tu página. ¿Tienes en talla M?\"", "b": "Leíste el mensaje tres veces. Le tomaste captura. La mandaste al grupo." },
+        { "role": "story", "plate": "cine-08-caminando", "h": "Alguien que no te conoce confió en lo que publicaste.", "b": "Ese día el negocio se volvió REAL." },
+        { "role": "rehook", "h": "Ese primer desconocido es el hito que nadie celebra.", "b": "Y es más importante que los 1,000 seguidores." },
+        { "role": "value", "h": "Por qué es EL hito", "b": "La familia compra por cariño; el desconocido, por PROPUESTA. Su compra valida el producto, el precio y la comunicación: las tres cosas a la vez. Es tu primer voto imparcial." },
+        { "role": "value", "h": "Qué lo trajo (spoiler: la constancia)", "b": "Nunca es el post de ese día: es la suma — el perfil ordenado, las reseñas, las semanas publicando. El desconocido compró la CONFIANZA acumulada. Por eso tardó. Por eso vale." },
+        { "role": "value", "h": "Cómo traer al segundo más rápido", "b": "Pídele la reseña A ESE primero (\"¿me dejas compartir tu experiencia?\"), publica el caso, y sigue el ritmo. La prueba social del desconocido #1 es el imán del desconocido #2." },
+        { "role": "cta", "h": "Cuéntame de tu primer desconocido.", "b": "¿Ya llegó? ¿Cómo fue? Y si aún no: sigue publicando. Está en camino. 🧡" }
+      ],
+      "caption": {
+        "ig": "El hito que nadie celebra: el día que un DESCONOCIDO te compra por un post. No tu tía, no tu amiga — alguien que no te conoce y confió en lo que publicaste. La familia compra por cariño; el desconocido por PROPUESTA: valida producto, precio y comunicación a la vez. Y nunca lo trajo el post de ese día: lo trajo la constancia acumulada. #emprendedores #primeraventa #negocios #motivacion #peru",
+        "tt": "El día que un DESCONOCIDO te compra por primera vez 🥹 #emprendedores #primeraventa #negocios",
+        "fb": "\"Hola, vi tu página. ¿Tienes en talla M?\" — y leíste el mensaje tres veces y le tomaste captura. El primer cliente desconocido es más importante que los 1,000 seguidores: es tu primer voto imparcial. Y si aún no llega: sigue publicando, está en camino. ¿Se acuerdan del suyo? ¿Cómo fue?"
+      },
+      "alt": "Historia del primer cliente desconocido como hito emprendedor y cómo convertirlo en el imán del segundo."
+    },
+    {
+      "slug": "12-seguidores",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-01-cama", "h": "Publicar con 12 seguidores (y 9 son tu familia)", "b": "El acto de fe más grande del emprendimiento" },
+        { "role": "story", "plate": "cine-07-caos", "h": "Le das publicar y lo ven: tu mamá, tu tía, tu mejor amiga...", "b": "...y el ex-compañero del colegio que nunca comenta pero TODO lo ve." },
+        { "role": "rehook", "h": "Publicar para nadie se siente ridículo.", "b": "Y es exactamente lo que TODOS los grandes hicieron primero. Sin excepción." },
+        { "role": "value", "h": "El archivo es tu inversión", "b": "Esos posts \"para nadie\" son la vitrina que el desconocido de mañana revisará antes de comprar. No publicas para hoy: construyes el local que visitarán después." },
+        { "role": "value", "h": "Con 12 seguidores tienes una ventaja", "b": "CERO presión. Puedes probar formatos, tonos y temas sin que nadie note los experimentos fallidos. La cuenta chica es tu laboratorio gratis — los grandes pagan caro por esa libertad." },
+        { "role": "value", "h": "El ex-compañero que todo lo ve", "b": "Por cada like hay 10 mirones silenciosos. El día que necesiten tu rubro, se acordarán. Las semillas del contenido germinan MESES después — en DMs que empiezan con \"oye, vi que tú...\"." },
+        { "role": "value", "h": "La única forma de fallar", "b": "Parar. La cuenta de 12 que publica 6 meses llega a cientos REALES. La que se avergüenza y para, se queda en 12 para siempre. El roche es el único enemigo de verdad." },
+        { "role": "cta", "h": "Para ti, que publicas con 12.", "b": "Sigue. En serio: sigue. Y guarda esto para el día que dudes. 🧡" }
+      ],
+      "caption": {
+        "ig": "Publicar con 12 seguidores (9 son tu familia) es el acto de fe más grande del emprendimiento — y exactamente lo que TODOS los grandes hicieron primero. Las ventajas secretas: cero presión (tu laboratorio gratis), el archivo como vitrina del cliente de mañana, y los 10 mirones silenciosos por cada like que se acordarán de ti cuando necesiten tu rubro. La única forma de fallar: parar. #emprendedores #motivacion #cuentachica #constancia #peru",
+        "tt": "Publicar con 12 seguidores (9 son tu familia) 🥲 sigue igual #emprendedores #motivacion #constancia",
+        "fb": "Para el que publica con 12 seguidores y siente que habla solo: por cada like hay 10 mirones silenciosos — incluido el ex-compañero que nunca comenta pero TODO lo ve. Y el día que necesite tu rubro, se va a acordar. La única forma de fallar es parar. ¿Conocen a alguien que está empezando y necesita leer esto? Etiquétenlo 🧡"
+      },
+      "alt": "Mensaje de motivación para cuentas nuevas: ventajas de publicar con pocos seguidores y la constancia como única variable."
+    },
+    {
+      "slug": "cm-11pm",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-01-cama", "h": "El community manager a las 11 pm.", "b": "Respondiendo \"¿precio?\" desde la cama. Otra vez." },
+        { "role": "story", "plate": "cine-04-cafe-frio", "h": "En el trabajo: 3 marcas, 6 redes, 40 pendientes.", "b": "\"¿Puedes hacer un video rapidito? Tú que eres joven.\"" },
+        { "role": "story", "plate": "cine-05-analytics", "h": "El cliente: \"queremos algo viral, pero elegante,", "b": "que venda, pero sin vender. Para mañana.\"" },
+        { "role": "rehook", "h": "Ser CM es ser diseñador, redactor, fotógrafo, psicólogo y bombero.", "b": "Con el sueldo de UNO de esos. Homenaje al oficio." },
+        { "role": "value", "h": "Lo que nadie ve del oficio", "b": "El calendario mental de 3 marcas · aguantar el \"mi sobrino lo haría gratis\" · celebrar en silencio el post que funcionó · el pánico de las notificaciones un feriado." },
+        { "role": "value", "h": "Para los CMs: 3 salvavidas", "b": "1) Ventanas de respuesta pactadas por contrato (no vives de guardia) · 2) el banco de contenido aprobado por adelantado · 3) reportes de 5 números que el cliente SÍ entiende." },
+        { "role": "value", "h": "Para los que contratan CMs", "b": "Un buen CM no es \"el que postea\": es la voz de tu marca ante el mundo. Págalo como tal, dale acceso a la información, y confía en su criterio — para eso lo contrataste." },
+        { "role": "cta", "h": "Etiqueta a un CM que sobrevive con cafeína.", "b": "Que sepa que se le ve y se le aprecia. 🧡☕" }
+      ],
+      "caption": {
+        "ig": "El community manager a las 11pm respondiendo \"¿precio?\" desde la cama: homenaje al oficio de ser diseñador, redactor, fotógrafo, psicólogo y bombero — con el sueldo de uno. Y 3 salvavidas reales: ventanas de respuesta por contrato, banco de contenido aprobado y reportes de 5 números. Para los que contratan: un buen CM es la VOZ de tu marca — págalo como tal. #communitymanager #cm #agencias #relatable #peru",
+        "tt": "El CM a las 11pm respondiendo \"¿precio?\" desde la cama 😮‍💨 #communitymanager #relatable #agencias",
+        "fb": "\"Queremos algo viral, pero elegante, que venda pero sin vender. Para mañana.\" — Homenaje a los community managers: diseñadores, redactores, fotógrafos, psicólogos y bomberos con el sueldo de uno solo. ¿Conocen a un CM que sobrevive a punta de cafeína? Etiquétenlo, que sepa que se le aprecia ☕🧡"
+      },
+      "alt": "Homenaje humorístico al community manager multitarea con consejos para profesionales y para quienes los contratan."
+    },
+    {
+      "slug": "hazlo-viral",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-06-puesto", "h": "\"Hazlo viral.\"", "b": "— tu jefe, que comparte cadenas de WhatsApp del 2009." },
+        { "role": "story", "plate": "cine-07-caos", "h": "\"Mi sobrina tiene TikTok y le va bien.\"", "b": "\"¿Por qué no salimos como Bad Bunny?\" — presupuesto: S/0." },
+        { "role": "rehook", "h": "\"Viral\" no es una estrategia. Es un resultado.", "b": "Y confundirlos le cuesta caro a todos. Expliquémoslo con cariño." },
+        { "role": "value", "h": "Lo que sí se puede prometer", "b": "Constancia, contenido útil, respuesta rápida, medición honesta. Eso construye ventas repetibles. Lo viral, cuando llega, es el bonus — no el plan." },
+        { "role": "value", "h": "La analogía que el jefe entiende", "b": "\"Pedir un viral es pedir que la tienda se llene MAÑANA por milagro. Yo te ofrezco que se llene un poco más CADA semana, y que los que entren, compren.\" Suena menos sexy. Paga más." },
+        { "role": "value", "h": "El dato para la reunión", "b": "El negocio que factura por redes lo hace con 500-2,000 vistas CONSTANTES de la gente correcta — no con un millón de vistas de cualquiera. Puntería > lotería." },
+        { "role": "value", "h": "Y si el viral llega...", "b": "...el negocio debe estar listo para cosecharlo (perfil ordenado, respuesta rápida, stock). El viral sin preparación es un chorro de agua sobre un balde volteado." },
+        { "role": "cta", "h": "Envíale esto a tu jefe.", "b": "Con cariño. Y con el reporte de los 5 números que sí importan. 🧡" }
+      ],
+      "caption": {
+        "ig": "\"Hazlo viral\" — tu jefe, que comparte cadenas de WhatsApp del 2009 🙃 Lo viral no es una estrategia, es un resultado. La analogía para la reunión: \"pedir un viral es pedir que la tienda se llene mañana por milagro; yo ofrezco que se llene un poco más cada semana y que los que entren, compren\". Puntería > lotería. #communitymanager #jefes #marketingdigital #relatable #peru",
+        "tt": "\"Hazlo viral\" — el jefe que comparte cadenas del 2009 💀 #communitymanager #jefes #relatable",
+        "fb": "Para mandar (con cariño) al grupo de trabajo: \"viral\" no es una estrategia — es un resultado. El negocio que factura por redes lo hace con 500-2,000 vistas CONSTANTES de la gente correcta, no con un millón de vistas de cualquiera. ¿A quién le ha tocado el \"hazlo viral\" con presupuesto S/0? 😄"
+      },
+      "alt": "Historia humorística del jefe que pide virales y los argumentos para explicar constancia versus lotería viral."
+    },
+    {
+      "slug": "cochera-e-instagram",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-06-puesto", "h": "Empezó en una cochera, con una cuenta de Instagram.", "b": "Hoy tiene local. La historia de miles — y quizás la tuya." },
+        { "role": "story", "plate": "cine-02-tripode", "h": "Primer año: fotos con el celular apoyado en una taza.", "b": "Pedidos por DM. Delivery en el carro del hermano. La contabilidad: un cuaderno." },
+        { "role": "story", "plate": "cine-08-caminando", "h": "Los posts constantes hicieron lo suyo, calladitos.", "b": "Un cliente trajo a otro. La agenda se llenó. El garaje quedó chico." },
+        { "role": "story", "plate": "cine-03-abierto", "h": "El día que volteó el cartel de ABIERTO por primera vez...", "b": "...la cuenta de Instagram tenía 4 años de historia publicada. El local era la consecuencia." },
+        { "role": "rehook", "h": "El local no fue el comienzo. Fue el RESULTADO.", "b": "De publicar cuando nadie miraba." },
+        { "role": "value", "h": "Lo que esta historia enseña", "b": "Las redes no son \"marketing\" para el negocio chico: son EL local antes del local — la vitrina, el vendedor y el libro de reclamaciones, gratis, desde el día uno." },
+        { "role": "value", "h": "Para la que está hoy en su cochera", "b": "Tus fotos con el celular en la taza VALEN. Tu chamba de hormiga VALE. El compuesto de publicar 4 años es invisible por 3 y arrollador el cuarto. No pares." },
+        { "role": "cta", "h": "Etiqueta a alguien que está en su año 1.", "b": "Para que vea cómo se ve el año 4. 🧡" }
+      ],
+      "caption": {
+        "ig": "Empezó en una cochera con una cuenta de Instagram: fotos con el celular apoyado en una taza, pedidos por DM, delivery en el carro del hermano. Cuando volteó el cartel de ABIERTO por primera vez, la cuenta tenía 4 años de historia publicada — el local no fue el comienzo: fue el RESULTADO de publicar cuando nadie miraba. #emprendedores #historia #motivacion #negocios #peru",
+        "tt": "De la cochera al local: la historia de miles 🧡 #emprendedores #motivacion #negocios",
+        "fb": "La historia que se repite en miles de negocios peruanos: cochera, celular apoyado en una taza, pedidos por DM… y 4 años después, el cartel de ABIERTO. El detalle que casi nadie nota: el local fue la CONSECUENCIA de la cuenta, no al revés. ¿Quién de tu círculo está en su año 1 de cochera? Etiquétalo para que vea cómo se ve el año 4."
+      },
+      "alt": "Historia del negocio que pasó de la cochera al local físico gracias a cuatro años de constancia publicando."
+    },
+    {
+      "slug": "500-views-salon",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-08-caminando", "h": "\"Solo 500 vistas.\"", "b": "SOLO. Quinientas. Personas." },
+        { "role": "story", "plate": "cine-06-puesto", "h": "Imagina 500 personas paradas frente a tu tienda.", "b": "La cola daría la vuelta a la manzana. Llamarías a la familia a contarles." },
+        { "role": "rehook", "h": "El número es el mismo. La percepción te la arruinó el algoritmo.", "b": "Recalibremos qué significa \"poco\"." },
+        { "role": "value", "h": "El daño de compararte con virales", "b": "Ver cuentas de millones te rompió la báscula: 500 se siente \"fracaso\" cuando es un SALÓN LLENO de gente que eligió mirarte a ti, gratis, en 2026. Eso no existía hace 15 años." },
+        { "role": "value", "h": "La matemática del negocio chico", "b": "500 vistas × 2% de interesados = 10 conversaciones × 30% = 3 ventas. Un post \"fracasado\" puede pagar la semana. El negocio vive de porcentajes, no de aplausos." },
+        { "role": "value", "h": "Las vistas correctas > las vistas totales", "b": "500 vecinos de tu distrito valen más que 50,000 curiosos de otro continente. La pregunta nunca es \"¿cuántos?\" — es \"¿QUIÉNES?\". Revisa tu alcance local antes de llorar el global." },
+        { "role": "value", "h": "El ejercicio de recalibración", "b": "Cada vez que digas \"solo X vistas\", imagínalas paradas en tu local. 100 = el local lleno. 500 = la cuadra. 2,000 = un colegio entero. El asombro vuelve solo." },
+        { "role": "cta", "h": "Guárdalo para el día del bajón.", "b": "Y envíaselo al emprendedor que dijo \"solo 300 vistas\" esta semana. 🧡" }
+      ],
+      "caption": {
+        "ig": "\"Solo 500 vistas\" — SOLO. Quinientas. PERSONAS. Imagínalas paradas frente a tu tienda: la cola da la vuelta a la manzana. El algoritmo te rompió la báscula: 500 es un salón lleno de gente que eligió mirarte, y la matemática del negocio chico es clara — 500 vistas × 2% de interés = 10 conversaciones = 3 ventas. El post \"fracasado\" puede pagar la semana. #emprendedores #mindset #vistas #motivacion #peru",
+        "tt": "\"Solo 500 vistas\" = un salón LLENO de gente mirándote 🤯 #mindset #emprendedores #motivacion",
+        "fb": "Ejercicio de recalibración: cada vez que digas \"solo 500 vistas\", imagina 500 personas paradas frente a tu tienda — la cola daría vuelta a la manzana y llamarías a tu familia a contarles. El algoritmo nos rompió la báscula comparándonos con virales. La pregunta real: ¿prefieren 500 vecinos de su distrito o 50,000 curiosos de otro continente?"
+      },
+      "alt": "Recalibración de expectativas sobre vistas: quinientas vistas como salón lleno y la matemática de conversión del negocio chico."
+    },
+    {
+      "slug": "primer-ano-verdades",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-04-cafe-frio", "h": "La mayoría abandona antes del mes 6. Tú ya estás avisado.", "b": "Las 5 verdades sin filtro del primer año" },
+        { "role": "value", "n": "1", "h": "Los primeros 3 meses hablas solo", "b": "Y está BIEN: estás construyendo el archivo que los clientes de después revisarán. El eco del principio es parte del proceso, no una señal de fracaso." },
+        { "role": "value", "n": "2", "h": "Tu familia no es tu mercado", "b": "Sus likes te dan ánimo (gracias, tía) pero no información. La métrica real empieza con los desconocidos — y tarda en llegar. Distingue el cariño de los datos." },
+        { "role": "value", "n": "3", "h": "Vas a querer renunciar el mes 4", "b": "Cuando la novedad se acaba y los resultados no llegan aún: ahí se define todo. El mes 4 es el filtro que separa a los que luego \"tuvieron suerte\" de los que no." },
+        { "role": "value", "n": "4", "h": "Un post te va a sorprender", "b": "El que menos esperabas va a funcionar — y te va a enseñar más que 10 cursos. La audiencia decide qué eres bueno haciendo. Escúchala con humildad." },
+        { "role": "value", "n": "5", "h": "El año 1 se cosecha en el año 2", "b": "El SEO madura, los guardados trabajan, el boca a boca digital se acumula. Todo lo del año 1 es siembra con cosecha diferida. Por eso los que paran en el mes 8 nunca lo ven." },
+        { "role": "stat", "h": "La estadística silenciosa: la mayoría abandona antes del mes 6.", "b": "No por falta de talento — por expectativas rotas. Ahora ya sabes qué esperar." },
+        { "role": "cta", "h": "Guárdalo si estás en tu año 1.", "b": "Y compártelo con quien está por empezar. Le acabas de ahorrar el golpe. 🧡" }
+      ],
+      "caption": {
+        "ig": "Las 5 verdades sin filtro del primer año publicando para tu negocio: los primeros 3 meses hablas solo (y está bien), tu familia no es tu mercado (gracias tía, pero sus likes no son datos), el mes 4 es EL filtro, un post inesperado te enseñará más que 10 cursos, y el año 1 se cosecha en el año 2. La mayoría abandona antes del mes 6 — por expectativas rotas, no por talento. #emprendedores #primeraño #realtalk #constancia #peru",
+        "tt": "El primer año publicando para tu negocio: 5 verdades sin filtro 💭 #emprendedores #realtalk #constancia",
+        "fb": "Para el que está por abrir las redes de su negocio (o va por el mes 3 hablando solo): el mes 4 es el filtro que separa a los que después \"tuvieron suerte\" de los que no. Y la verdad más importante: el año 1 se cosecha en el año 2 — el SEO madura, los guardados trabajan, el boca a boca se acumula. ¿En qué mes vas tú?"
+      },
+      "alt": "Cinco verdades del primer año de contenido de negocio: soledad inicial, familia versus mercado, crisis del mes cuatro y cosecha diferida."
+    },
+    {
+      "slug": "por-que-sigues",
+      "slides": [
+        { "role": "story", "kicker": "LA VIDA DEL QUE PUBLICA", "plate": "cine-10-amanecer", "h": "Por qué sigues publicando", "b": "(aunque a veces parezca que nadie mira)" },
+        { "role": "story", "plate": "cine-05-analytics", "h": "Por el DM que empieza con \"oye, vi tu página...\"", "b": "Y termina en tu primera venta de la semana." },
+        { "role": "story", "plate": "cine-09-amigas", "h": "Por la clienta que le mostró tu post a su amiga.", "b": "Y la amiga a su hermana. El boca a boca ahora tiene botón de compartir." },
+        { "role": "story", "plate": "cine-03-abierto", "h": "Porque cada post es voltear el cartel de ABIERTO.", "b": "Aunque ese día no entre nadie: el negocio que publica, existe." },
+        { "role": "rehook", "h": "Publicar es insistir en que tu negocio merece ser visto.", "b": "Y la insistencia, en este juego, es la única ventaja injusta que existe." },
+        { "role": "value", "h": "La prueba está en los que pararon", "b": "Las cuentas muertas de tu rubro no fracasaron por malas: pararon. El feed abandonado en marzo es el local con las luces apagadas — el cliente pasa de largo, aunque adentro haya talento." },
+        { "role": "value", "h": "Y la de los que siguieron", "b": "Cada cuenta grande de tu rubro que hoy admiras tiene un cementerio de posts con 30 vistas en su año 1. Escarba su feed antiguo: está ahí, a la vista. Siguieron. Es literalmente todo." },
+        { "role": "cta", "h": "Sigue publicando.", "b": "Guarda este post para el día que lo dudes. Nosotros seguimos aquí — igual que tú. 🧡" }
+      ],
+      "caption": {
+        "ig": "Por qué sigues publicando aunque a veces parezca que nadie mira: por el DM que empieza con \"oye, vi tu página\", por la clienta que le mostró tu post a su amiga (el boca a boca ahora tiene botón de compartir), y porque cada post es voltear el cartel de ABIERTO — el negocio que publica, existe. Las cuentas grandes que admiras tienen un cementerio de posts con 30 vistas en su año 1. Siguieron. Es literalmente todo. #motivacion #emprendedores #constancia #negocios #peru",
+        "tt": "Para el que publica aunque parezca que nadie mira 🧡 #motivacion #emprendedores #constancia",
+        "fb": "El post para guardar y releer el día del bajón: cada cuenta grande que admiras tiene un cementerio de posts con 30 vistas en su primer año — escarba su feed antiguo, está a la vista. La diferencia nunca fue el talento: siguieron. Cada post es voltear el cartel de ABIERTO. ¿Qué te mantiene publicando a ti? 🧡"
+      },
+      "alt": "Cierre motivacional de la serie: razones para seguir publicando, el costo de parar y la constancia como ventaja."
+    }
+  ]
+}
