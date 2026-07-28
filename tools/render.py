@@ -131,6 +131,10 @@ class Renderer:
         h_text = slide.get("h", "")
         b_text = slide.get("b", "")
 
+        if slide.get("img"):
+            self._product_slide(im, draw, slide, rc, disp, dw, body_f)
+            return im
+
         if role == "cover":
             y = CORE_Y0 + 30
             if slide.get("kicker"):
@@ -194,6 +198,32 @@ class Renderer:
         else:
             raise ValueError(f"unknown role {role}")
         return im
+
+    def _product_slide(self, im, draw, slide, rc, disp, dw, body_f):
+        """White rounded card with the product photo + headline + body below."""
+        text_c, sub_c = rc["text"], rc["sub"]
+        card_w, card_h = 660, 560
+        cx0 = (W - card_w) // 2
+        cy0 = CORE_Y0 + 10
+        # rounded white card
+        card = Image.new("RGB", (card_w, card_h), "#ffffff")
+        mask = Image.new("L", (card_w, card_h), 0)
+        ImageDraw.Draw(mask).rounded_rectangle((0, 0, card_w, card_h), 36, fill=255)
+        # product photo fitted inside with padding
+        prod = Image.open(self.dir / "product" / slide["img"]).convert("RGB")
+        pw, ph = prod.size
+        scale = min((card_w - 60) / pw, (card_h - 60) / ph)
+        prod = prod.resize((int(pw * scale), int(ph * scale)), Image.LANCZOS)
+        card.paste(prod, ((card_w - prod.width) // 2, (card_h - prod.height) // 2))
+        im.paste(card, (cx0, cy0), mask)
+        # headline + body under the card
+        y = cy0 + card_h + 56
+        fnt, lines, lh, hh = block_height(draw, slide.get("h", ""), disp, dw, (84, 52), 860, 260)
+        y = draw_block(draw, lines, fnt, lh, y, text_c)
+        if slide.get("b"):
+            bf = font(body_f, 40, 500)
+            blines = wrap(draw, slide["b"], bf, 800)
+            draw_block(draw, blines, bf, 54, y + 34, sub_c)
 
     def _tag(self, draw, color):
         fnt = font(self.cfg["body_font"], 32, 600)

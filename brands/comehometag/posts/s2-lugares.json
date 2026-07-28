@@ -5,13 +5,46 @@
     {
       "slug": "playa",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En la playa, los niños se pierden distinto.", "b": "El dato de las olas que nadie conoce." },
-        { "role": "rehook", "h": "En la arena todos los niños se ven iguales.", "b": "Y las olas los van corriendo de lado sin que lo noten. Esto es lo que hay que saber." },
-        { "role": "value", "n": "1", "h": "Las olas lo llevan de lado", "b": "Tu hijo juega mirando el mar y las olas lo van moviendo por la orilla. Puede terminar a 200 metros sin darse cuenta." },
-        { "role": "value", "n": "2", "h": "Dale una señal fija", "b": "\"Nuestra sombrilla está frente al letrero azul.\" Y la regla: \"si no me ves, párate en la orilla y NO camines\"." },
-        { "role": "value", "n": "3", "h": "Si pasa: primero el agua, luego el salvavidas", "b": "Descarta el agua antes que la arena. Y avisa al torreón antes de buscar solo: ellos ven toda la playa desde arriba." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Va puesta y aguanta el mar y la arena. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin mensualidad." },
-        { "role": "cta", "h": "Guárdalo para el verano.", "b": "Y ponle su pulsera antes de la playa: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "En la playa, los niños se pierden distinto.",
+          "b": "El dato de las olas que nadie conoce."
+        },
+        {
+          "role": "rehook",
+          "h": "En la arena todos los niños se ven iguales.",
+          "b": "Y las olas los van corriendo de lado sin que lo noten. Esto es lo que hay que saber."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Las olas lo llevan de lado",
+          "b": "Tu hijo juega mirando el mar y las olas lo van moviendo por la orilla. Puede terminar a 200 metros sin darse cuenta."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Dale una señal fija",
+          "b": "\"Nuestra sombrilla está frente al letrero azul.\" Y la regla: \"si no me ves, párate en la orilla y NO camines\"."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Si pasa: primero el agua, luego el salvavidas",
+          "b": "Descarta el agua antes que la arena. Y avisa al torreón antes de buscar solo: ellos ven toda la playa desde arriba."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Va puesta y aguanta el mar y la arena. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Guárdalo para el verano.",
+          "b": "Y ponle su pulsera antes de la playa: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "Seguridad con niños en la playa: las olas los van corriendo DE LADO por la orilla — pueden terminar a 200 metros sin notarlo, y en la arena todos se ven iguales. El plan: señal fija para la sombrilla, la regla \"párate en la orilla y no camines\", y su pulsera QR de ComeHomeTag puesta (aguanta el mar): quien lo encuentre escanea y te llama al instante. #playa #seguridadinfantil #verano #peru",
@@ -23,13 +56,46 @@
     {
       "slug": "centro-comercial",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "¿Dónde se pierden los niños en el mall?", "b": "No es la juguetería. Y hay plan." },
-        { "role": "rehook", "h": "El lugar #1 es el patio de comidas.", "b": "Mucha gente, mucho ruido, mesas iguales. Ahí se separan más familias que en todas las tiendas juntas." },
-        { "role": "value", "n": "1", "h": "Al entrar, digan el punto de encuentro", "b": "\"Si nos separamos, nos vemos en la entrada principal.\" Se dice cruzando la puerta, cuando todos escuchan." },
-        { "role": "value", "n": "2", "h": "Enséñale a quién pedir ayuda", "b": "\"Si no me ves, busca a alguien con uniforme de tienda.\" Y tómale la foto del día antes de salir de casa." },
-        { "role": "value", "n": "3", "h": "Si pasa: avisa a seguridad primero", "b": "El mall tiene cámaras y radios. Tú cubres un pasillo; ellos cubren el edificio y las salidas." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Guárdalo para la próxima ida al mall.", "b": "Y su pulsera puesta: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "¿Dónde se pierden los niños en el mall?",
+          "b": "No es la juguetería. Y hay plan."
+        },
+        {
+          "role": "rehook",
+          "h": "El lugar #1 es el patio de comidas.",
+          "b": "Mucha gente, mucho ruido, mesas iguales. Ahí se separan más familias que en todas las tiendas juntas."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Al entrar, digan el punto de encuentro",
+          "b": "\"Si nos separamos, nos vemos en la entrada principal.\" Se dice cruzando la puerta, cuando todos escuchan."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Enséñale a quién pedir ayuda",
+          "b": "\"Si no me ves, busca a alguien con uniforme de tienda.\" Y tómale la foto del día antes de salir de casa."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Si pasa: avisa a seguridad primero",
+          "b": "El mall tiene cámaras y radios. Tú cubres un pasillo; ellos cubren el edificio y las salidas."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Guárdalo para la próxima ida al mall.",
+          "b": "Y su pulsera puesta: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "¿Dónde se pierden más niños en el centro comercial? No es la juguetería: es el PATIO DE COMIDAS — mucho ruido, mesas iguales, todos mirando su plato. El plan: punto de encuentro dicho al entrar, la regla del uniforme de tienda y su pulsera QR de ComeHomeTag puesta, para que quien lo encuentre te llame al instante. #seguridadinfantil #mall #padres #peru",
@@ -41,13 +107,46 @@
     {
       "slug": "procesion",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Es fácil perderse en una procesión. Haz esto.", "b": "El plan para multitudes que caminan." },
-        { "role": "rehook", "h": "Una procesión es una multitud que camina.", "b": "El lugar donde te separaste ya no existe: avanzó. Por eso el plan aquí es distinto." },
-        { "role": "value", "n": "1", "h": "El punto de encuentro debe ser fijo", "b": "\"Junto al anda\" no sirve: el anda avanza. La puerta de la iglesia o la esquina del banco no se mueven." },
-        { "role": "value", "n": "2", "h": "Niños adelante, abuelos identificados", "b": "Los niños van entre dos adultos, nunca atrás. Y los abuelos — los que más se desorientan aquí — con identificación puesta." },
-        { "role": "value", "n": "3", "h": "Si pasa: busca hacia atrás", "b": "El que se pierde queda atrás del avance. Búscalo hacia donde la procesión ya pasó, no hacia donde va." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
-        { "role": "cta", "h": "Compártelo antes de octubre.", "b": "Y las pulseras puestas para el Señor de los Milagros: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "Es fácil perderse en una procesión. Haz esto.",
+          "b": "El plan para multitudes que caminan."
+        },
+        {
+          "role": "rehook",
+          "h": "Una procesión es una multitud que camina.",
+          "b": "El lugar donde te separaste ya no existe: avanzó. Por eso el plan aquí es distinto."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "El punto de encuentro debe ser fijo",
+          "b": "\"Junto al anda\" no sirve: el anda avanza. La puerta de la iglesia o la esquina del banco no se mueven."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Niños adelante, abuelos identificados",
+          "b": "Los niños van entre dos adultos, nunca atrás. Y los abuelos — los que más se desorientan aquí — con identificación puesta."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Si pasa: busca hacia atrás",
+          "b": "El que se pierde queda atrás del avance. Búscalo hacia donde la procesión ya pasó, no hacia donde va."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Compártelo antes de octubre.",
+          "b": "Y las pulseras puestas para el Señor de los Milagros: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "Plan familiar para procesiones: la multitud CAMINA, así que \"junto al anda\" no es un punto de encuentro — el anda avanza. Reglas: punto fijo, niños adelante, y si alguien se pierde se busca hacia donde la procesión ya pasó. Los abuelos son los que más se desorientan: su pulsera QR de ComeHomeTag deja que cualquiera llame a la familia al instante. #procesion #señordelosmilagros #familia #peru",
@@ -59,13 +158,46 @@
     {
       "slug": "estadio",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el estadio todos visten como tu hijo.", "b": "Cómo no perderlo entre 40,000 personas." },
-        { "role": "rehook", "h": "40,000 personas con los mismos colores. Tu hijo también.", "b": "Dos reglas hacen que el partido sea solo un gran recuerdo." },
-        { "role": "value", "n": "1", "h": "Foto del día, con la camiseta puesta", "b": "Es lo único que lo distingue entre miles vestidos igual. Cinco segundos antes de entrar." },
-        { "role": "value", "n": "2", "h": "Memorícense su puerta y tribuna", "b": "\"Oriente, puerta 14\" — que el niño lo repita. Y en el entretiempo, al baño siempre acompañado: ahí pasan casi todas las separaciones." },
-        { "role": "value", "n": "3", "h": "Con ese ruido, lo escrito habla", "b": "Un niño perdido en el estadio no escucha ni su nombre. Su identificación responde cuando el ruido no deja." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Que sea un gran recuerdo.", "b": "Guarda el protocolo y ponle su pulsera: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "En el estadio todos visten como tu hijo.",
+          "b": "Cómo no perderlo entre 40,000 personas."
+        },
+        {
+          "role": "rehook",
+          "h": "40,000 personas con los mismos colores. Tu hijo también.",
+          "b": "Dos reglas hacen que el partido sea solo un gran recuerdo."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Foto del día, con la camiseta puesta",
+          "b": "Es lo único que lo distingue entre miles vestidos igual. Cinco segundos antes de entrar."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Memorícense su puerta y tribuna",
+          "b": "\"Oriente, puerta 14\" — que el niño lo repita. Y en el entretiempo, al baño siempre acompañado: ahí pasan casi todas las separaciones."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Con ese ruido, lo escrito habla",
+          "b": "Un niño perdido en el estadio no escucha ni su nombre. Su identificación responde cuando el ruido no deja."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Que sea un gran recuerdo.",
+          "b": "Guarda el protocolo y ponle su pulsera: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "Llevar a tu hijo al estadio: en la tribuna TODOS visten los mismos colores — tu hijo también. Las reglas: foto del día con la camiseta puesta, la puerta memorizada (\"Oriente, puerta 14\") y baño siempre acompañado en el entretiempo. Con ese ruido no escucha ni su nombre: su pulsera QR de ComeHomeTag habla por él y quien lo encuentre te llama al instante. #estadio #futbol #padres #peru",
@@ -77,13 +209,46 @@
     {
       "slug": "aeropuerto",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el aeropuerto una familia se separa fácil.", "b": "El plan simple para viajar sin sustos." },
-        { "role": "rehook", "h": "Colas, maletas, apuro y anuncios que nadie entiende.", "b": "Con este plan simple, nadie se queda atrás." },
-        { "role": "value", "n": "1", "h": "Un adulto cuida a una persona", "b": "Por tramos y con nombre: \"en migraciones, Pedro va con la abuela\". Cuando todos cuidan a todos, nadie cuida a nadie." },
-        { "role": "value", "n": "2", "h": "El punto de encuentro es el counter", "b": "El de tu aerolínea: visible, con personal y sale en los letreros. La puerta de embarque cambia; el counter no." },
-        { "role": "value", "n": "3", "h": "Si pasa: avisa a cualquier agente", "b": "Los aeropuertos tienen protocolo de menor extraviado con anuncio general. Se activa en segundos." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad." },
-        { "role": "cta", "h": "Buen viaje, sin sustos.", "b": "Manda el plan al grupo del viaje y lleven las pulseras: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "En el aeropuerto una familia se separa fácil.",
+          "b": "El plan simple para viajar sin sustos."
+        },
+        {
+          "role": "rehook",
+          "h": "Colas, maletas, apuro y anuncios que nadie entiende.",
+          "b": "Con este plan simple, nadie se queda atrás."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Un adulto cuida a una persona",
+          "b": "Por tramos y con nombre: \"en migraciones, Pedro va con la abuela\". Cuando todos cuidan a todos, nadie cuida a nadie."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "El punto de encuentro es el counter",
+          "b": "El de tu aerolínea: visible, con personal y sale en los letreros. La puerta de embarque cambia; el counter no."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Si pasa: avisa a cualquier agente",
+          "b": "Los aeropuertos tienen protocolo de menor extraviado con anuncio general. Se activa en segundos."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Buen viaje, sin sustos.",
+          "b": "Manda el plan al grupo del viaje y lleven las pulseras: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "Viajar en familia por el aeropuerto: colas, maletas y apuro separan familias en segundos. El plan: un adulto cuida a UNA persona por tramo (\"en migraciones, Pedro va con la abuela\") y el punto de encuentro es el counter de tu aerolínea — la puerta de embarque cambia. Niños y abuelos con su pulsera QR de ComeHomeTag: quien los encuentre llama a la familia al instante. #viajeconniños #aeropuerto #familia #peru",
@@ -95,13 +260,46 @@
     {
       "slug": "mercado",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el mercado sueltas su mano 20 veces.", "b": "Sin darte cuenta. Este plan lo cubre." },
-        { "role": "rehook", "h": "Sueltas su mano para pagar, escoger y cargar.", "b": "Cada vez son 5 segundos de niño solo. Estas reglas los cubren." },
-        { "role": "value", "n": "1", "h": "El niño siempre adelante", "b": "En pasillos angostos va delante de ti, donde lo ves. Atrás desaparece con que pasen dos personas." },
-        { "role": "value", "n": "2", "h": "Al pagar, dale una tarea", "b": "\"Tú agarras la bolsa del pan.\" Una tarea lo ancla mejor que una orden. Y preséntale a tu casera: \"si no ves a mamá, te quedas con la señora Rosa\"." },
-        { "role": "value", "n": "3", "h": "Si pasa: pide los altavoces", "b": "Casi todos los mercados tienen megafonía en administración. Todo el mercado escucha en segundos." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Para el sábado.", "b": "Guarda las reglas y ponle su pulsera: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "En el mercado sueltas su mano 20 veces.",
+          "b": "Sin darte cuenta. Este plan lo cubre."
+        },
+        {
+          "role": "rehook",
+          "h": "Sueltas su mano para pagar, escoger y cargar.",
+          "b": "Cada vez son 5 segundos de niño solo. Estas reglas los cubren."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "El niño siempre adelante",
+          "b": "En pasillos angostos va delante de ti, donde lo ves. Atrás desaparece con que pasen dos personas."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Al pagar, dale una tarea",
+          "b": "\"Tú agarras la bolsa del pan.\" Una tarea lo ancla mejor que una orden. Y preséntale a tu casera: \"si no ves a mamá, te quedas con la señora Rosa\"."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Si pasa: pide los altavoces",
+          "b": "Casi todos los mercados tienen megafonía en administración. Todo el mercado escucha en segundos."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Para el sábado.",
+          "b": "Guarda las reglas y ponle su pulsera: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "En el mercado sueltas la mano de tu hijo unas 20 veces por visita — para pagar, escoger, cargar — y cada una son 5 segundos de niño solo. Las reglas: niño siempre ADELANTE, la tarea que ancla (\"tú agarras la bolsa del pan\"), la casera aliada y la megafonía si pasa algo. Su pulsera QR de ComeHomeTag cubre el resto: quien lo encuentre te llama al instante. #mercado #crianza #seguridadinfantil #peru",
@@ -113,13 +311,46 @@
     {
       "slug": "parque-diversiones",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el parque de diversiones se pierden corriendo.", "b": "Las 2 reglas que evitan el susto." },
-        { "role": "rehook", "h": "La emoción es máxima y la atención, mínima.", "b": "El siguiente juego siempre está en otra dirección. Dos reglas lo resuelven." },
-        { "role": "value", "n": "1", "h": "La regla de la salida", "b": "\"Al bajar del juego, me esperas en la salida. No corres al siguiente.\" La salida casi nunca está junto a la entrada: ahí se pierden casi todos." },
-        { "role": "value", "n": "2", "h": "Primera parada: el mapa", "b": "Dos minutos señalando: aquí estamos, este es el punto de encuentro. Y en las colas, el niño siempre adelante tuyo." },
-        { "role": "value", "n": "3", "h": "Si pasa: cualquier operador de juego", "b": "Todos tienen radio. Pide además que cubran la puerta principal: es el protocolo estándar de los parques." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Diversión sin sustos.", "b": "La pulsera del parque no lleva tu número; la suya sí: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "En el parque de diversiones se pierden corriendo.",
+          "b": "Las 2 reglas que evitan el susto."
+        },
+        {
+          "role": "rehook",
+          "h": "La emoción es máxima y la atención, mínima.",
+          "b": "El siguiente juego siempre está en otra dirección. Dos reglas lo resuelven."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "La regla de la salida",
+          "b": "\"Al bajar del juego, me esperas en la salida. No corres al siguiente.\" La salida casi nunca está junto a la entrada: ahí se pierden casi todos."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Primera parada: el mapa",
+          "b": "Dos minutos señalando: aquí estamos, este es el punto de encuentro. Y en las colas, el niño siempre adelante tuyo."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Si pasa: cualquier operador de juego",
+          "b": "Todos tienen radio. Pide además que cubran la puerta principal: es el protocolo estándar de los parques."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Diversión sin sustos.",
+          "b": "La pulsera del parque no lleva tu número; la suya sí: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "Parques de diversiones: los niños no se pierden caminando — se pierden CORRIENDO al siguiente juego. La regla clave: \"al bajar, me esperas en la SALIDA\" (casi nunca está junto a la entrada, y ahí se pierden casi todos). La pulsera del parque no lleva tu teléfono; su pulsera QR de ComeHomeTag sí: quien lo encuentre te llama al instante. #parquedediversiones #familia #niños #peru",
@@ -131,13 +362,46 @@
     {
       "slug": "transporte-publico",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "¿El bus arrancó y tu hijo quedó abajo?", "b": "La regla de oro que deben ensayar." },
-        { "role": "rehook", "h": "La puerta se cierra en 3 segundos.", "b": "Y la familia queda en dos lugares que se alejan. Para esto sí hay regla." },
-        { "role": "value", "n": "1", "h": "La regla de oro: el que quedó, se queda", "b": "El que no subió (o no bajó) espera en ese mismo paradero. El del bus regresa. Jamás se mueven los dos." },
-        { "role": "value", "n": "2", "h": "Ensáyenlo como juego", "b": "\"¿Qué haces si el bus arranca y mamá no subió?\" Repitan hasta que \"me quedo donde estoy\" salga solito." },
-        { "role": "value", "n": "3", "h": "Suban y bajen en orden", "b": "Un adulto primero, los niños al medio, otro adulto al final. Los niños nunca son los últimos." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Ensáyenlo hoy en la cena.", "b": "Y su pulsera puesta para el micro: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "¿El bus arrancó y tu hijo quedó abajo?",
+          "b": "La regla de oro que deben ensayar."
+        },
+        {
+          "role": "rehook",
+          "h": "La puerta se cierra en 3 segundos.",
+          "b": "Y la familia queda en dos lugares que se alejan. Para esto sí hay regla."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "La regla de oro: el que quedó, se queda",
+          "b": "El que no subió (o no bajó) espera en ese mismo paradero. El del bus regresa. Jamás se mueven los dos."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Ensáyenlo como juego",
+          "b": "\"¿Qué haces si el bus arranca y mamá no subió?\" Repitan hasta que \"me quedo donde estoy\" salga solito."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Suban y bajen en orden",
+          "b": "Un adulto primero, los niños al medio, otro adulto al final. Los niños nunca son los últimos."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Ensáyenlo hoy en la cena.",
+          "b": "Y su pulsera puesta para el micro: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "El susto clásico de Lima: la puerta del bus se cierra en 3 segundos y la familia queda dividida. La regla de oro: el que quedó, SE QUEDA en ese paradero — el del bus regresa. Si los dos se mueven, se buscan en círculos. Y si un niño queda solo entre extraños, su pulsera QR de ComeHomeTag deja que cualquiera te llame al instante. #transportepublico #lima #seguridadinfantil #peru",
@@ -149,13 +413,46 @@
     {
       "slug": "concierto",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "En el concierto tu celular muere. Ten plan.", "b": "3 acuerdos que no necesitan batería." },
-        { "role": "rehook", "h": "Ahí no se escucha ni el propio nombre.", "b": "Todo el plan tiene que existir antes de la primera canción. Son 3 acuerdos." },
-        { "role": "value", "n": "1", "h": "Punto fijo con hora", "b": "\"Puerta 3, y a las 11 estamos ahí pase lo que pase.\" Funciona aunque los celulares mueran." },
-        { "role": "value", "n": "2", "h": "El número en papel", "b": "El número de un adulto, anotado y en el bolsillo. El papel no se queda sin batería." },
-        { "role": "value", "n": "3", "h": "Con adolescentes: el mensaje ancla", "b": "Un emoji cada hora en punto. Es señal de vida, no control. Por eso sí lo mandan." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos — y para todo el que va a eventos llenos. Quien la escanea con su celular llama a la familia al instante. Sin batería, sin mensualidad." },
-        { "role": "cta", "h": "Antes del show, al grupo.", "b": "Manda los 3 acuerdos y lleven sus pulseras: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "En el concierto tu celular muere. Ten plan.",
+          "b": "3 acuerdos que no necesitan batería."
+        },
+        {
+          "role": "rehook",
+          "h": "Ahí no se escucha ni el propio nombre.",
+          "b": "Todo el plan tiene que existir antes de la primera canción. Son 3 acuerdos."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Punto fijo con hora",
+          "b": "\"Puerta 3, y a las 11 estamos ahí pase lo que pase.\" Funciona aunque los celulares mueran."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "El número en papel",
+          "b": "El número de un adulto, anotado y en el bolsillo. El papel no se queda sin batería."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Con adolescentes: el mensaje ancla",
+          "b": "Un emoji cada hora en punto. Es señal de vida, no control. Por eso sí lo mandan."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para niños y abuelos — y para todo el que va a eventos llenos. Quien la escanea con su celular llama a la familia al instante. Sin batería, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Antes del show, al grupo.",
+          "b": "Manda los 3 acuerdos y lleven sus pulseras: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "Plan para conciertos y eventos masivos: tu celular muere antes que la música, así que el plan no puede vivir en la batería. Los 3 acuerdos: punto fijo CON hora, el número de un adulto en papel y el mensaje ancla con adolescentes (un emoji cada hora). La pulsera QR de ComeHomeTag tampoco usa batería: quien la escanea llama a la familia al instante. #conciertos #eventos #adolescentes #peru",
@@ -167,13 +464,46 @@
     {
       "slug": "navidad-centro",
       "slides": [
-        { "role": "cover", "kicker": "LUGARES DE RIESGO", "h": "Diciembre en el centro: récord de niños perdidos.", "b": "La guía honesta para las compras navideñas." },
-        { "role": "rehook", "h": "Calles llenas, apuro y bolsas en las dos manos.", "b": "La guía honesta empieza así: si puedes, no los lleves. ¿No hay opción? Sigue leyendo." },
-        { "role": "value", "n": "1", "h": "Temprano y con ropa brillante", "b": "Antes de las 10 am hay la mitad de gente. Y un polo naranja se encuentra 10 veces más rápido que una cara." },
-        { "role": "value", "n": "2", "h": "Bolsas llenas = niño anclado", "b": "Con tus manos ocupadas, el niño va agarrado de tu correa o mochila. Se decide antes de comprar." },
-        { "role": "value", "n": "3", "h": "Punto de encuentro por galería", "b": "\"Si nos separamos aquí, la puerta de ESTA galería.\" Cada galería nueva, punto nuevo." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Guárdalo para la campaña.", "b": "Y su pulsera puesta para el centro: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "LUGARES DE RIESGO",
+          "h": "Diciembre en el centro: récord de niños perdidos.",
+          "b": "La guía honesta para las compras navideñas."
+        },
+        {
+          "role": "rehook",
+          "h": "Calles llenas, apuro y bolsas en las dos manos.",
+          "b": "La guía honesta empieza así: si puedes, no los lleves. ¿No hay opción? Sigue leyendo."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Temprano y con ropa brillante",
+          "b": "Antes de las 10 am hay la mitad de gente. Y un polo naranja se encuentra 10 veces más rápido que una cara."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Bolsas llenas = niño anclado",
+          "b": "Con tus manos ocupadas, el niño va agarrado de tu correa o mochila. Se decide antes de comprar."
+        },
+        {
+          "role": "value",
+          "n": "3",
+          "h": "Punto de encuentro por galería",
+          "b": "\"Si nos separamos aquí, la puerta de ESTA galería.\" Cada galería nueva, punto nuevo."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Guárdalo para la campaña.",
+          "b": "Y su pulsera puesta para el centro: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "Compras navideñas en el centro con niños: diciembre es récord de niños perdidos, y la guía honesta empieza con \"si puedes, no los lleves\". Si no hay opción: antes de las 10 am, ropa BRILLANTE (un color se encuentra 10 veces más rápido que una cara), niño anclado a tu correa y punto por galería. Su pulsera QR de ComeHomeTag remata el plan: quien lo encuentre te llama al instante. #navidad #mesaredonda #compras #peru",

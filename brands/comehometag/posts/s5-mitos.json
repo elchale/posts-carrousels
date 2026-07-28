@@ -5,12 +5,40 @@
     {
       "slug": "gps-unica-opcion",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El GPS no basta para tu hijo.", "b": "Le falta lo más importante. Mira:" },
-        { "role": "rehook", "h": "El GPS te dice dónde está el aparato.", "b": "Pero cuando alguien encuentra a tu hijo, esa persona necesita otra cosa: poder llamarte." },
-        { "role": "value", "n": "1", "h": "Lo que el GPS hace bien", "b": "Si está cargado, con señal y con la mensualidad pagada, te dice dónde está. Son tres condiciones que deben cumplirse justo el peor día." },
-        { "role": "value", "n": "2", "h": "Lo que el GPS no puede hacer", "b": "Una señora buena encuentra a tu hijo llorando. El GPS no le dice a ELLA cómo llamarte. Y ese es el momento que importa." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad. El GPS puede sumar como extra; la pulsera es la base." },
-        { "role": "cta", "h": "Comparte la diferencia.", "b": "La pulsera está en comehometag.com. Alguien está por pagar 12 mensualidades por la mitad de la solución." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "El GPS no basta para tu hijo.",
+          "b": "Le falta lo más importante. Mira:"
+        },
+        {
+          "role": "rehook",
+          "h": "El GPS te dice dónde está el aparato.",
+          "b": "Pero cuando alguien encuentra a tu hijo, esa persona necesita otra cosa: poder llamarte."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Lo que el GPS hace bien",
+          "b": "Si está cargado, con señal y con la mensualidad pagada, te dice dónde está. Son tres condiciones que deben cumplirse justo el peor día."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Lo que el GPS no puede hacer",
+          "b": "Una señora buena encuentra a tu hijo llorando. El GPS no le dice a ELLA cómo llamarte. Y ese es el momento que importa."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad. El GPS puede sumar como extra; la pulsera es la base.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Comparte la diferencia.",
+          "b": "La pulsera está en comehometag.com. Alguien está por pagar 12 mensualidades por la mitad de la solución."
+        }
       ],
       "caption": {
         "ig": "¿Un GPS basta para proteger a tu hijo? Solo a medias: te dice dónde está el aparato, pero cuando una señora buena lo encuentra llorando, el GPS no le dice a ella cómo llamarte. Para ese momento existe la pulsera con QR de ComeHomeTag: quien lo encuentra escanea y te llama al instante — sin batería, sin app, sin mensualidad. El GPS puede sumar como extra; la base es la pulsera. #seguridadinfantil #gps #mitos #peru",
@@ -22,12 +50,40 @@
     {
       "slug": "solo-en-peliculas",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "51 personas se pierden al día en Perú.", "b": "No es de películas. Y hay solución simple." },
-        { "role": "rehook", "h": "\"A mí no me va a pasar\" calma, pero desprotege.", "b": "La vida real no es un thriller: es un descuido de 40 segundos. Mira cómo se ve." },
-        { "role": "value", "n": "1", "h": "Así se ve en la vida real", "b": "Un niño que siguió a un perro. Un abuelo que salió por pan. Una playa llena. Cosas de cualquier sábado." },
-        { "role": "value", "n": "2", "h": "Y como es cotidiano, la solución también", "b": "Como el cinturón de seguridad: nadie lo usa esperando chocar. Cuesta 2 segundos, y el día que importa, importa todo." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Ponte el cinturón hoy.", "b": "Las pulseras están en comehometag.com. Las familias con plan viven más tranquilas, no más asustadas." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "51 personas se pierden al día en Perú.",
+          "b": "No es de películas. Y hay solución simple."
+        },
+        {
+          "role": "rehook",
+          "h": "\"A mí no me va a pasar\" calma, pero desprotege.",
+          "b": "La vida real no es un thriller: es un descuido de 40 segundos. Mira cómo se ve."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Así se ve en la vida real",
+          "b": "Un niño que siguió a un perro. Un abuelo que salió por pan. Una playa llena. Cosas de cualquier sábado."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Y como es cotidiano, la solución también",
+          "b": "Como el cinturón de seguridad: nadie lo usa esperando chocar. Cuesta 2 segundos, y el día que importa, importa todo."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Ponte el cinturón hoy.",
+          "b": "Las pulseras están en comehometag.com. Las familias con plan viven más tranquilas, no más asustadas."
+        }
       ],
       "caption": {
         "ig": "\"Eso solo pasa en películas\" — en el Perú se reportan 51 desapariciones al día (Sidpol 2025), y no se ven como thriller: un niño que siguió a un perro, un abuelo que salió por pan. Como es cotidiano, la solución es cotidiana: la pulsera con QR de ComeHomeTag — quien encuentra a tu hijo escanea y te llama al instante. Como el cinturón: 2 segundos, y el día que importa, importa todo. #mitos #prevencion #peru #familia",
@@ -39,12 +95,40 @@
     {
       "slug": "nunca-se-soltaria",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "Todos los niños se sueltan de la mano.", "b": "Qué hacer para que sea solo un susto." },
-        { "role": "rehook", "h": "Se sueltan por un perro, un globo, un payaso.", "b": "Y tú también sueltas: para pagar, contestar, cargar. Es normal. Lo que falta es el plan." },
-        { "role": "value", "n": "1", "h": "No planees para el niño perfecto", "b": "Si tu plan necesita que se porte bien siempre, no es un plan: es una esperanza. Los planes buenos asumen al niño real." },
-        { "role": "value", "n": "2", "h": "El plan para el niño real", "b": "Enséñale jugando: \"te quedas quieto y buscas a una mamá con niños\". Más la foto del día y tu número puesto en él." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad. Y no depende de que \"se porte bien\"." },
-        { "role": "cta", "h": "Planea para el niño real.", "b": "El tuyo es maravilloso Y se va a soltar. Su pulsera: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "Todos los niños se sueltan de la mano.",
+          "b": "Qué hacer para que sea solo un susto."
+        },
+        {
+          "role": "rehook",
+          "h": "Se sueltan por un perro, un globo, un payaso.",
+          "b": "Y tú también sueltas: para pagar, contestar, cargar. Es normal. Lo que falta es el plan."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "No planees para el niño perfecto",
+          "b": "Si tu plan necesita que se porte bien siempre, no es un plan: es una esperanza. Los planes buenos asumen al niño real."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "El plan para el niño real",
+          "b": "Enséñale jugando: \"te quedas quieto y buscas a una mamá con niños\". Más la foto del día y tu número puesto en él."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad. Y no depende de que \"se porte bien\".",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Planea para el niño real.",
+          "b": "El tuyo es maravilloso Y se va a soltar. Su pulsera: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "\"Mi hijo nunca se soltaría de mi mano\" — todos se sueltan: por un perro, un globo, un payaso. Y tú también sueltas, para pagar y cargar. El plan para el niño REAL: enseñarle jugando a quedarse quieto, la foto del día y su pulsera ComeHomeTag puesta — quien lo encuentra escanea el QR y te llama al instante, sin depender de que \"se porte bien\". #crianza #seguridadinfantil #mitos #peru",
@@ -56,12 +140,40 @@
     {
       "slug": "airtag-para-ninos",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "¿AirTag para tu hijo? Fue hecho para maletas.", "b": "Lo que no te cuentan, en simple." },
-        { "role": "rehook", "h": "Apple mismo lo dice: no es para rastrear personas.", "b": "Y la parte técnica le da la razón. Mira por qué." },
-        { "role": "value", "n": "1", "h": "No tiene GPS propio", "b": "Se ubica por los iPhones que pasan cerca. La ubicación puede tener 40 minutos de atraso — con un niño en movimiento, eso es otro distrito." },
-        { "role": "value", "n": "2", "h": "Y no le habla a quien lo encuentra", "b": "La persona que encuentra a tu hijo no ve ningún AirTag ni sabe a quién llamar. Puede sumar como extra en la mochila; como plan único, no." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR visible para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Úsalo como extra, no como plan.", "b": "La base está en comehometag.com. Compártelo con el papá tecnológico del grupo." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "¿AirTag para tu hijo? Fue hecho para maletas.",
+          "b": "Lo que no te cuentan, en simple."
+        },
+        {
+          "role": "rehook",
+          "h": "Apple mismo lo dice: no es para rastrear personas.",
+          "b": "Y la parte técnica le da la razón. Mira por qué."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "No tiene GPS propio",
+          "b": "Se ubica por los iPhones que pasan cerca. La ubicación puede tener 40 minutos de atraso — con un niño en movimiento, eso es otro distrito."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Y no le habla a quien lo encuentra",
+          "b": "La persona que encuentra a tu hijo no ve ningún AirTag ni sabe a quién llamar. Puede sumar como extra en la mochila; como plan único, no."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR visible para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Úsalo como extra, no como plan.",
+          "b": "La base está en comehometag.com. Compártelo con el papá tecnológico del grupo."
+        }
       ],
       "caption": {
         "ig": "¿AirTag para tu hijo? Fue diseñado para llaves y maletas — Apple mismo dice que no es para rastrear personas: no tiene GPS propio y la ubicación puede tener 40 minutos de atraso. Y el detalle clave: quien encuentra a tu hijo no ve ningún AirTag ni sabe a quién llamar. Para eso existe la pulsera con QR de ComeHomeTag — se escanea con cualquier celular y te llama al instante. AirTag de extra, pulsera de base. #airtag #seguridadinfantil #tecnologia #peru",
@@ -73,12 +185,40 @@
     {
       "slug": "nombre-bordado",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "No bordes su nombre visible en la mochila.", "b": "Un extraño puede usarlo. Esta es la alternativa." },
-        { "role": "rehook", "h": "\"¡Mateo! Tu mamá me mandó por ti.\"", "b": "Con el nombre a la vista, cualquier extraño puede decir eso y ganarse su confianza en segundos." },
-        { "role": "value", "n": "1", "h": "La regla moderna", "b": "Identificación sí, datos a la vista no. Tu número disponible para quien ayuda, invisible para el que mira de pasada." },
-        { "role": "value", "n": "2", "h": "Cómo lo logra el QR", "b": "A simple vista no muestra nada: ni nombre ni teléfono. Quien ayuda escanea con su celular y recién ahí puede llamarte." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. No muestra sus datos: quien lo ayuda la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "La versión moderna del bordado.", "b": "Está en comehometag.com. Compártelo con la familia que está marcando mochilas." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "No bordes su nombre visible en la mochila.",
+          "b": "Un extraño puede usarlo. Esta es la alternativa."
+        },
+        {
+          "role": "rehook",
+          "h": "\"¡Mateo! Tu mamá me mandó por ti.\"",
+          "b": "Con el nombre a la vista, cualquier extraño puede decir eso y ganarse su confianza en segundos."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "La regla moderna",
+          "b": "Identificación sí, datos a la vista no. Tu número disponible para quien ayuda, invisible para el que mira de pasada."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Cómo lo logra el QR",
+          "b": "A simple vista no muestra nada: ni nombre ni teléfono. Quien ayuda escanea con su celular y recién ahí puede llamarte."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. No muestra sus datos: quien lo ayuda la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "La versión moderna del bordado.",
+          "b": "Está en comehometag.com. Compártelo con la familia que está marcando mochilas."
+        }
       ],
       "caption": {
         "ig": "El nombre bordado en la mochila le da a cualquier extraño el arma perfecta: \"¡Mateo! Tu mamá me mandó por ti\". La regla moderna: identificación sí, datos a la vista no. La pulsera con QR de ComeHomeTag no muestra nada a simple vista — quien ayuda escanea con su celular y recién ahí puede llamarte. Compártelo antes del regreso a clases. #seguridadinfantil #regresoaclases #crianza #peru",
@@ -90,12 +230,40 @@
     {
       "slug": "45-al-mes",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "¿Pagar mensualidad por la seguridad de tu hijo?", "b": "Hagamos la cuenta completa, con calma." },
-        { "role": "rehook", "h": "\"Son solo 50 soles al mes\", dice el vendedor.", "b": "Al año son S/700-900 entre cuotas y aparato. Y el contador nunca para." },
-        { "role": "value", "n": "1", "h": "El mes que no pagas, se corta", "b": "La protección por suscripción existe mientras tu tarjeta funcione. Y el mes apretado llega en todas las casas." },
-        { "role": "value", "n": "2", "h": "La alternativa se paga una vez", "b": "Una pulsera con QR no tiene batería, ni app, ni recibo mensual. Cuesta como una pizza familiar, una sola vez. ¿GPS además? Puede sumar en casos especiales." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu familia. Quien encuentra a tu hijo la escanea con su celular y te llama al instante. Se paga una vez: sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Haz tu cuenta anual.", "b": "Y compara en comehometag.com. Decide con números." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "¿Pagar mensualidad por la seguridad de tu hijo?",
+          "b": "Hagamos la cuenta completa, con calma."
+        },
+        {
+          "role": "rehook",
+          "h": "\"Son solo 50 soles al mes\", dice el vendedor.",
+          "b": "Al año son S/700-900 entre cuotas y aparato. Y el contador nunca para."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "El mes que no pagas, se corta",
+          "b": "La protección por suscripción existe mientras tu tarjeta funcione. Y el mes apretado llega en todas las casas."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "La alternativa se paga una vez",
+          "b": "Una pulsera con QR no tiene batería, ni app, ni recibo mensual. Cuesta como una pizza familiar, una sola vez. ¿GPS además? Puede sumar en casos especiales."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu familia. Quien encuentra a tu hijo la escanea con su celular y te llama al instante. Se paga una vez: sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Haz tu cuenta anual.",
+          "b": "Y compara en comehometag.com. Decide con números."
+        }
       ],
       "caption": {
         "ig": "¿Pagar mensualidad por la tranquilidad? La cuenta completa del GPS: S/700-900 el primer año, y el mes que no pagas la protección SE CORTA. La pulsera con QR de ComeHomeTag se paga una vez — cuesta como una pizza familiar — y funciona siempre: quien encuentra a tu hijo escanea y te llama al instante. Sin batería, sin app, sin recibo mensual. #finanzasfamiliares #seguridadinfantil #peru",
@@ -107,12 +275,40 @@
     {
       "slug": "siempre-acompanada",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Nunca está sola\" en verdad es \"casi nunca\".", "b": "Y los sustos viven en ese \"casi\"." },
-        { "role": "rehook", "h": "La siesta. El baño. La cocina. El cambio de turno.", "b": "Suma esas horas de la semana: nadie vigila las 24 horas. Nadie." },
-        { "role": "value", "n": "1", "h": "Los datos lo confirman", "b": "6 de cada 10 personas con demencia se pierden alguna vez — incluso con enfermeras profesionales todo el día. No es descuido tuyo." },
-        { "role": "value", "n": "2", "h": "La pulsera no critica tu cuidado", "b": "Ponerle una pulsera a tu mamá no dice \"la cuidamos mal\". Dice \"la cuidamos tanto que cubrimos hasta el ratito imposible de vigilar\"." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu mamá o abuela. Quien la encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad. Funciona también cuando nadie está mirando." },
-        { "role": "cta", "h": "Cubre el \"casi\".", "b": "La pulsera está en comehometag.com. Guarda esto para la conversación con tus hermanos." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "\"Nunca está sola\" en verdad es \"casi nunca\".",
+          "b": "Y los sustos viven en ese \"casi\"."
+        },
+        {
+          "role": "rehook",
+          "h": "La siesta. El baño. La cocina. El cambio de turno.",
+          "b": "Suma esas horas de la semana: nadie vigila las 24 horas. Nadie."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Los datos lo confirman",
+          "b": "6 de cada 10 personas con demencia se pierden alguna vez — incluso con enfermeras profesionales todo el día. No es descuido tuyo."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "La pulsera no critica tu cuidado",
+          "b": "Ponerle una pulsera a tu mamá no dice \"la cuidamos mal\". Dice \"la cuidamos tanto que cubrimos hasta el ratito imposible de vigilar\"."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu mamá o abuela. Quien la encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad. Funciona también cuando nadie está mirando.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Cubre el \"casi\".",
+          "b": "La pulsera está en comehometag.com. Guarda esto para la conversación con tus hermanos."
+        }
       ],
       "caption": {
         "ig": "\"Mi mamá nunca está sola\" significa \"CASI nunca\" — y los sustos viven en ese casi: la siesta, el baño, el cambio de turno. 6 de cada 10 personas con demencia se pierden alguna vez, incluso con cuidado profesional. La pulsera con QR de ComeHomeTag cubre ese ratito imposible de vigilar: quien la encuentra escanea y llama a la familia al instante. No critica tu cuidado — lo completa. #alzheimer #cuidadores #adultomayor #peru",
@@ -124,12 +320,40 @@
     {
       "slug": "en-peru-no-funciona",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "¿Un QR para emergencias funciona en Perú?", "b": "Hermano, pagas la pollada con QR." },
-        { "role": "rehook", "h": "Yape, Plin, la carta del restaurante, el bus.", "b": "El QR ya es rutina nacional. La duda real era otra: ¿la gente ayudará?" },
-        { "role": "value", "n": "1", "h": "En el Perú, la gente ayuda", "b": "Somos el país que organiza polladas para el vecino enfermo. Solo necesita que ayudar sea fácil y rápido." },
-        { "role": "value", "n": "2", "h": "El QR hace fácil ayudar", "b": "Sin app, sin registro: quien encuentra a tu hijo escanea con su celular y llama a tu familia. Ayudar toma 60 segundos, no 2 horas de comisaría." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin app, sin mensualidad. Funciona igual en Miraflores, Juliaca o Ancón." },
-        { "role": "cta", "h": "El Perú siempre estuvo listo.", "b": "Solo faltaba el puente: comehometag.com. Compártelo." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "¿Un QR para emergencias funciona en Perú?",
+          "b": "Hermano, pagas la pollada con QR."
+        },
+        {
+          "role": "rehook",
+          "h": "Yape, Plin, la carta del restaurante, el bus.",
+          "b": "El QR ya es rutina nacional. La duda real era otra: ¿la gente ayudará?"
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "En el Perú, la gente ayuda",
+          "b": "Somos el país que organiza polladas para el vecino enfermo. Solo necesita que ayudar sea fácil y rápido."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "El QR hace fácil ayudar",
+          "b": "Sin app, sin registro: quien encuentra a tu hijo escanea con su celular y llama a tu familia. Ayudar toma 60 segundos, no 2 horas de comisaría."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin app, sin mensualidad. Funciona igual en Miraflores, Juliaca o Ancón.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "El Perú siempre estuvo listo.",
+          "b": "Solo faltaba el puente: comehometag.com. Compártelo."
+        }
       ],
       "caption": {
         "ig": "\"¿Un QR para emergencias funciona en el Perú?\" — pagas la pollada con QR, pides la carta con QR y subes al bus con QR: el QR ya ganó. Y la duda real (¿la gente ayudará?) tiene respuesta: somos el país de las polladas solidarias. La pulsera ComeHomeTag es el puente — quien encuentra a tu hijo o abuelo escanea y llama a la familia en 60 segundos. #peru #tecnologia #solidaridad #seguridadfamiliar",
@@ -141,12 +365,40 @@
     {
       "slug": "mal-padre-pensarlo",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "Pensar en un plan no atrae la desgracia.", "b": "El extintor no atrae incendios. Hablemos." },
-        { "role": "rehook", "h": "El extintor no atrae incendios. El SOAT no atrae choques.", "b": "Y el simulacro de sismo no invoca terremotos. Prepararse es exactamente igual." },
-        { "role": "value", "n": "1", "h": "De dónde viene la cábala", "b": "Pensar en un hijo perdido duele, y la mente evita lo que duele. Pero \"no lo pienso\" no protege a nadie." },
-        { "role": "value", "n": "2", "h": "Los niños lo toman mejor que tú", "b": "Para un niño, el plan es un juego más. Y las familias con plan viven más tranquilas, no más asustadas." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Construye el final feliz por adelantado.", "b": "15 minutos este domingo + la pulsera de comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "Pensar en un plan no atrae la desgracia.",
+          "b": "El extintor no atrae incendios. Hablemos."
+        },
+        {
+          "role": "rehook",
+          "h": "El extintor no atrae incendios. El SOAT no atrae choques.",
+          "b": "Y el simulacro de sismo no invoca terremotos. Prepararse es exactamente igual."
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "De dónde viene la cábala",
+          "b": "Pensar en un hijo perdido duele, y la mente evita lo que duele. Pero \"no lo pienso\" no protege a nadie."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Los niños lo toman mejor que tú",
+          "b": "Para un niño, el plan es un juego más. Y las familias con plan viven más tranquilas, no más asustadas."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Construye el final feliz por adelantado.",
+          "b": "15 minutos este domingo + la pulsera de comehometag.com."
+        }
       ],
       "caption": {
         "ig": "\"Ni lo pienses, que lo atraes\" — la cábala más cara del Perú: el extintor no atrae incendios, el SOAT no atrae choques y el simulacro de sismo no invoca terremotos. Un plan familiar es el final feliz por adelantado — y la pulsera con QR de ComeHomeTag es su pieza más simple: quien encuentra a tu hijo escanea y te llama al instante. Los niños lo procesan mejor que los adultos: para ellos es un juego más. #crianza #prevencion #mitos #peru",
@@ -158,12 +410,40 @@
     {
       "slug": "numero-de-memoria",
       "slides": [
-        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Ya se sabe mi número de memoria.\"", "b": "El susto lo borra. Esto sí funciona." },
-        { "role": "rehook", "h": "Enseñarle tu número está muy bien.", "b": "Pero el miedo bloquea la memoria. Compruébalo hoy mismo:" },
-        { "role": "value", "n": "1", "h": "Haz la prueba sin drama", "b": "Tranquilo en la sala, lo dice perfecto. Pídeselo agitado, después de correr y gritar: se traba. Con pánico real, es mucho peor." },
-        { "role": "value", "n": "2", "h": "Y un niño perdido no recita: llora", "b": "Tu número tiene que estar disponible aunque él no pueda hablar. Eso solo lo hace lo escrito, puesto en él." },
-        { "role": "stat", "h": "Para esto existe ComeHomeTag.", "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante — aunque él no pueda ni hablar. Sin batería, sin app, sin mensualidad." },
-        { "role": "cta", "h": "Que tu número también vaya escrito.", "b": "La memoria de respaldo + la pulsera puesta: comehometag.com." }
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "\"Ya se sabe mi número de memoria.\"",
+          "b": "El susto lo borra. Esto sí funciona."
+        },
+        {
+          "role": "rehook",
+          "h": "Enseñarle tu número está muy bien.",
+          "b": "Pero el miedo bloquea la memoria. Compruébalo hoy mismo:"
+        },
+        {
+          "role": "value",
+          "n": "1",
+          "h": "Haz la prueba sin drama",
+          "b": "Tranquilo en la sala, lo dice perfecto. Pídeselo agitado, después de correr y gritar: se traba. Con pánico real, es mucho peor."
+        },
+        {
+          "role": "value",
+          "n": "2",
+          "h": "Y un niño perdido no recita: llora",
+          "b": "Tu número tiene que estar disponible aunque él no pueda hablar. Eso solo lo hace lo escrito, puesto en él."
+        },
+        {
+          "role": "stat",
+          "h": "Para esto existe ComeHomeTag.",
+          "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante — aunque él no pueda ni hablar. Sin batería, sin app, sin mensualidad.",
+          "img": "pulsera.png"
+        },
+        {
+          "role": "cta",
+          "h": "Que tu número también vaya escrito.",
+          "b": "La memoria de respaldo + la pulsera puesta: comehometag.com."
+        }
       ],
       "caption": {
         "ig": "\"Ya se sabe mi número de memoria\" — excelente primer paso, mal plan completo: el susto bloquea la memoria y un niño perdido no recita números… llora. Tu número tiene que estar disponible aunque él no pueda hablar — eso lo hace la pulsera con QR de ComeHomeTag: quien lo encuentra escanea y te llama al instante. Haz hoy la prueba del parque: pídele tu número agitado, después de correr. #crianza #seguridadinfantil #mitos #peru",
