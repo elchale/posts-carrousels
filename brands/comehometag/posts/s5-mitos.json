@@ -1,0 +1,196 @@
+{
+  "series": "s5-mitos",
+  "brand": "comehometag",
+  "posts": [
+    {
+      "slug": "gps-unica-opcion",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El GPS rastrea. No reúne.", "b": "La diferencia que nadie te explica antes de venderte uno" },
+        { "role": "rehook", "h": "Son dos problemas distintos.", "b": "Y el segundo es el que importa cuando alguien encuentra a tu hijo." },
+        { "role": "value", "h": "Lo que el GPS hace bien", "b": "Te dice dónde está el APARATO. Si está con el niño, cargado y con señal: tienes ubicación. Útil, real." },
+        { "role": "value", "h": "Lo que el GPS no puede hacer", "b": "Cuando una señora buena encuentra a tu hijo llorando, el GPS no le dice a ELLA cómo llamarte. Ese momento necesita otra cosa." },
+        { "role": "value", "h": "Las tres dependencias", "b": "Batería cargada + señal disponible + mensualidad al día. Tres condiciones que deben cumplirse JUSTO el día del caos." },
+        { "role": "value", "h": "La pieza pasiva", "b": "Identificación QR: sin batería, sin señal propia, sin cuota. Quien encuentra escanea con SU celular y te llama. Siempre." },
+        { "role": "value", "h": "La verdad completa", "b": "No es GPS O identificación: es identificación COMO BASE, y GPS si tu caso lo amerita. La base no se descarga." },
+        { "role": "cta", "h": "Comparte la diferencia.", "b": "Alguien está por pagar 12 mensualidades por la mitad de la solución." }
+      ],
+      "caption": {
+        "ig": "El GPS rastrea, pero no REÚNE — y son dos problemas distintos: cuando una señora buena encuentra a tu hijo llorando, el GPS no le dice a ella cómo llamarte. Las tres dependencias del rastreador (batería + señal + mensualidad) deben cumplirse justo el día del caos. La base es la identificación; el GPS, un extra si tu caso lo amerita. #seguridadinfantil #gps #mitos #peru",
+        "tt": "El GPS rastrea. No reúne. La diferencia que nadie explica 💜 #gps #mitos #padres",
+        "fb": "Pregunta que incomoda a los vendedores de GPS: cuando una señora buena encuentre a tu hijo llorando en el mercado… ¿cómo hace el GPS para decirle a ELLA tu número? Exacto: no puede. Para ese momento exacto existe la identificación visible. ¿GPS sí o no? Honesto: depende — pero nunca solo."
+      },
+      "alt": "Comparación GPS versus identificación: rastrear no es reunir, dependencias del rastreador y la base pasiva."
+    },
+    {
+      "slug": "solo-en-peliculas",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Eso solo pasa en las películas\" — 51 veces al día en el Perú", "b": "El mito de la lejanía" },
+        { "role": "rehook", "h": "51 denuncias por desaparición AL DÍA.", "b": "Sidpol, enero a julio 2025. Las películas quisieran ese guion." },
+        { "role": "value", "h": "El sesgo que nos desprotege", "b": "\"A mí no me va a pasar\" calma la mente y desarma a la familia. Útil para dormir; inútil para prepararse." },
+        { "role": "value", "h": "Cómo se ve en la vida real", "b": "No es un thriller: es un niño que siguió a un perro, un abuelo que salió por pan, una playa llena. Cotidiano, no cinematográfico." },
+        { "role": "value", "h": "Y como es cotidiano...", "b": "...la solución también: protocolo hablado, identificación puesta, foto al salir. Aburrido. Simple. Efectivo." },
+        { "role": "value", "h": "El razonamiento del cinturón", "b": "Nadie se pone cinturón esperando chocar: se lo pone porque cuesta 2 segundos y el día que importa, importa TODO." },
+        { "role": "value", "h": "El premio real", "b": "Las familias con plan viven MÁS tranquilas, no más asustadas. La preparación reduce la ansiedad — lo indefinido la dispara." },
+        { "role": "cta", "h": "2 segundos de cinturón.", "b": "Protocolo + identificación + foto. Guarda esta guía y duerme mejor." }
+      ],
+      "caption": {
+        "ig": "\"Eso solo pasa en películas\" — pasa 51 veces AL DÍA en el Perú (Sidpol 2025), y no se ve como thriller: se ve como un niño que siguió a un perro o un abuelo que salió por pan. Como es cotidiano, la solución es cotidiana: protocolo + identificación + foto del día. El razonamiento del cinturón de seguridad. #mitos #prevencion #peru #familia",
+        "tt": "\"Eso solo pasa en películas\" — 51 veces al día en Perú 💜 #mitos #peru #sabiasque",
+        "fb": "Nadie se pone el cinturón esperando chocar: se lo pone porque cuesta 2 segundos. La preparación familiar es idéntica — y el dato dice que las familias con plan viven MÁS tranquilas, no más asustadas. Lo indefinido asusta; lo planificado calma. ¿Tu familia ya tiene su \"cinturón\"?"
+      },
+      "alt": "Desmontaje del mito de la lejanía con datos peruanos y la analogía del cinturón."
+    },
+    {
+      "slug": "nunca-se-soltaria",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Mi hijo nunca se soltaría de mi mano\" — todos se sueltan", "b": "El mito del niño perfecto" },
+        { "role": "rehook", "h": "Los tranquilos, los movidos, los tuyos, los nuestros.", "b": "Todos. La pregunta es qué pasa el segundo después." },
+        { "role": "value", "h": "Los disparadores universales", "b": "Un perro. Un globo. Un payaso. Otra criatura corriendo. La emoción de un niño de 4 años pesa más que cualquier instrucción." },
+        { "role": "value", "h": "Además: tú también sueltas", "b": "Para pagar, contestar, cargar, ayudar al hermanito. 20 micro-momentos por salida. La mano es una cadena con 40 eslabones sueltos." },
+        { "role": "value", "h": "El error del plan para el niño ideal", "b": "Si tu plan requiere obediencia perfecta, no es un plan: es una esperanza. Los planes buenos asumen al niño REAL." },
+        { "role": "value", "h": "El plan para el niño real", "b": "Protocolo jugado (\"te quedas, buscas al adulto seguro\") + identificación puesta + foto del día. Nada depende de que \"se porte bien\"." },
+        { "role": "value", "h": "Y cuando pase (porque pasará)...", "b": "...será un susto de 4 minutos con anécdota, no una tragedia. Esa diferencia exacta es lo que compra la preparación." },
+        { "role": "cta", "h": "Planea para el niño real.", "b": "El tuyo es maravilloso Y se va a soltar. Guarda el plan de tres capas." }
+      ],
+      "caption": {
+        "ig": "\"Mi hijo nunca se soltaría de mi mano\" — todos se sueltan: por un perro, un globo, un payaso. Y tú también sueltas: para pagar, contestar, cargar (20 micro-momentos por salida). Un plan que requiere obediencia perfecta no es un plan — es una esperanza. El plan para el niño REAL tiene 3 capas que no dependen de que \"se porte bien\". #crianza #seguridadinfantil #mitos #peru",
+        "tt": "\"Mi hijo nunca se soltaría\" — todos se sueltan. TODOS 💜 #crianza #padres #realidad",
+        "fb": "Verdad incómoda de crianza: tu plan de seguridad no puede depender de que tu hijo \"se porte bien\". Se sueltan por un perro, un globo, un payaso — y nosotros soltamos para pagar y cargar bolsas. ¿Tu plan asume al niño ideal o al niño real? La diferencia es un susto de 4 minutos vs el peor día."
+      },
+      "alt": "El mito del niño que nunca se suelta: disparadores universales y el plan de tres capas."
+    },
+    {
+      "slug": "airtag-para-ninos",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El AirTag fue diseñado para maletas. Tu hijo no es una maleta.", "b": "Para qué sirve y para qué no" },
+        { "role": "rehook", "h": "Apple lo dice explícitamente:", "b": "no es un rastreador de personas. Y la letra chica técnica le da la razón." },
+        { "role": "value", "h": "Cómo funciona de verdad", "b": "No tiene GPS: se ubica por los iPhones que pasan CERCA. En avenida llena, decente; en descampado o zona de pocos iPhones, ciego." },
+        { "role": "value", "h": "El retraso que nadie menciona", "b": "La ubicación se actualiza cuando ALGÚN iPhone pasa cerca: puede ser hace 2 minutos o hace 40. Con un niño en movimiento, 40 minutos es otro distrito." },
+        { "role": "value", "h": "Las alertas anti-acoso juegan en contra", "b": "Un AirTag que viaja con alguien ajeno hace sonar alertas en celulares cercanos — diseñado así a propósito. Es un rastreador que se delata." },
+        { "role": "value", "h": "Lo que sí aporta", "b": "Capa extra en la mochila del colegio o el bolsillo del abuelo: información parcial a bajo costo. Como única protección: no." },
+        { "role": "value", "h": "Lo que sigue faltando", "b": "El problema de siempre: quien encuentra a tu hijo no ve ningún AirTag ni sabe a quién llamar. La identificación visible sigue siendo la base." },
+        { "role": "cta", "h": "Úsalo como capa, no como plan.", "b": "Y comparte esto con el papá tecnológico del grupo." }
+      ],
+      "caption": {
+        "ig": "El AirTag fue diseñado para llaves y maletas — Apple lo dice explícitamente: no es un rastreador de personas. Sin GPS propio, se ubica por los iPhones cercanos y la ubicación puede tener 40 minutos de retraso: con un niño en movimiento, eso es otro distrito. Capa extra: sí. Plan completo: no. #airtag #seguridadinfantil #tecnologia #peru",
+        "tt": "La verdad del AirTag para niños (Apple mismo lo dice) 💜 #airtag #tech #padres",
+        "fb": "Dato técnico que sorprende: el AirTag NO tiene GPS — se ubica por los iPhones que pasan cerca, y puede mostrar dónde estuvo hace 40 minutos, no dónde está. Con un niño en movimiento eso es otro distrito. ¿Lo usan como capa extra? Bien. ¿Como plan único? Ahí está el problema."
+      },
+      "alt": "El AirTag como protección infantil: sin GPS, retraso de actualización y rol de capa complementaria."
+    },
+    {
+      "slug": "nombre-bordado",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "El nombre bordado en la mochila le da a un extraño el arma perfecta", "b": "La solución de la abuela, revisada" },
+        { "role": "rehook", "h": "La intención es perfecta. El método tiene 30 años.", "b": "Y hoy tiene un problema que la abuela no tenía." },
+        { "role": "value", "h": "El problema nuevo: la confianza instantánea", "b": "Un nombre visible permite que CUALQUIERA llame a tu hijo por su nombre: \"¡Mateo! Tu mamá me mandó por ti\". Eso es exactamente el riesgo." },
+        { "role": "value", "h": "Y tu teléfono a la vista de todos", "b": "El número en la mochila es tu número visible para todo el mundo, todos los días — no solo en emergencias." },
+        { "role": "value", "h": "La regla moderna", "b": "Identificación SÍ, datos expuestos NO. Disponible para quien ayuda; ilegible para el que mira de pasada." },
+        { "role": "value", "h": "Cómo lo resuelve el QR", "b": "A simple vista no muestra nada. Quien ayuda escanea y recién ahí contacta a la familia. Ayuda sin exponer." },
+        { "role": "value", "h": "Si igual bordas (está bien)", "b": "Adentro de la mochila, no afuera. Y que el niño sepa que está ahí para MOSTRARLO a quien lo ayude." },
+        { "role": "cta", "h": "La versión moderna del bordado.", "b": "Compártelo con la familia que está bordando mochilas este verano." }
+      ],
+      "caption": {
+        "ig": "El nombre bordado en la mochila le da a cualquier extraño el arma perfecta: \"¡Mateo! Tu mamá me mandó por ti\" — la confianza instantánea es exactamente el riesgo. La regla moderna: identificación SÍ, datos expuestos NO. El QR no muestra nada a simple vista; quien ayuda escanea y recién ahí contacta a la familia. #seguridadinfantil #regresoaclases #crianza #peru",
+        "tt": "Por qué ya no se borda el nombre visible en la mochila 💜 #regresoaclases #padres #crianza",
+        "fb": "La solución de la abuela (nombre y teléfono bordados en la mochila) tiene hoy un problema que la abuela no tenía: cualquier extraño puede llamar a tu hijo POR SU NOMBRE y ganarse su confianza en segundos. La regla nueva: identificación sí, datos expuestos no. Compártelo antes del regreso a clases."
+      },
+      "alt": "Riesgo del nombre visible en mochilas y la alternativa de contacto no expuesto mediante QR."
+    },
+    {
+      "slug": "45-al-mes",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "La tranquilidad no debería cobrarse por mensualidad", "b": "Lo que estás pagando exactamente, mes a mes" },
+        { "role": "rehook", "h": "\"Son solo 50 soles al mes\", dice quien te la vende.", "b": "Hagamos la cuenta completa, con calma." },
+        { "role": "value", "h": "La cuenta del rastreador", "b": "S/45-65 mensuales + el aparato + el cargador que se pierde + el reemplazo. Año uno: S/700-900. Y el contador sigue corriendo." },
+        { "role": "value", "h": "El mes que no pagas", "b": "El servicio se corta. La protección por suscripción es protección CONDICIONAL: existe mientras tu tarjeta funcione." },
+        { "role": "value", "h": "La pregunta de diseño", "b": "¿Por qué la seguridad de un niño depende de un cobro recurrente? Porque el modelo de negocio lo necesita — no porque la protección lo requiera." },
+        { "role": "value", "h": "El modelo sin contador", "b": "Identificación pasiva: se paga una vez, funciona siempre. Sin batería que cargar, sin app que actualizar, sin recibo mensual." },
+        { "role": "value", "h": "Cada familia decide su mezcla", "b": "Hay casos donde el GPS mensual se justifica. Que sea una DECISIÓN informada — no la única opción que te mostraron." },
+        { "role": "cta", "h": "Haz tu cuenta anual.", "b": "Y decide con números. Guarda esta comparación para la conversación familiar." }
+      ],
+      "caption": {
+        "ig": "\"Son solo 50 soles al mes\" — la cuenta completa: S/700-900 el primer año, y el contador sigue para siempre. Y el mes que no pagas, la protección SE CORTA. La pregunta de diseño que nadie hace: ¿por qué la seguridad de un niño necesita un cobro recurrente? Porque el modelo de negocio lo necesita — no la protección. #finanzasfamiliares #seguridadinfantil #peru",
+        "tt": "La cuenta real de los rastreadores por suscripción 💸💜 #finanzas #padres #sabiasque",
+        "fb": "Cuenta clara: rastreador GPS = S/700-900 el primer año entre mensualidades y aparato. ¿Y el mes que aprietas gastos y cancelas? La protección se corta — justo cuando la vida sigue igual de impredecible. ¿Tú pagarías seguridad por suscripción o de una sola vez?"
+      },
+      "alt": "Costo anual de rastreadores por suscripción versus identificación de pago único."
+    },
+    {
+      "slug": "siempre-acompanada",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Mi mamá nunca está sola\" significa \"casi nunca está sola\"", "b": "Y los sustos viven en ese \"casi\"" },
+        { "role": "rehook", "h": "La siesta. El baño. La cocina. El cambio de turno.", "b": "Haz el inventario honesto de una semana: suma horas." },
+        { "role": "value", "h": "La deambulación elige esos momentos", "b": "No por astucia: por matemática. Salir requiere un momento sin observación — y esos momentos existen en toda casa, todos los días." },
+        { "role": "value", "h": "Los datos lo confirman", "b": "6 de cada 10 personas con demencia se extravían al menos una vez — incluidas las que tienen cuidado profesional de tiempo completo." },
+        { "role": "value", "h": "La identificación no desconfía de ti", "b": "Ponerle una pulsera a tu mamá no dice \"la cuidamos mal\". Dice \"la cuidamos TAN bien que cubrimos hasta el 1% imposible de vigilar\"." },
+        { "role": "value", "h": "Trabaja cuando ningún humano puede", "b": "La capa pasiva cubre las 24 horas sin pilas ni turnos — precisamente los momentos en que nadie está mirando." },
+        { "role": "value", "h": "Es el complemento, no la crítica", "b": "El cuidado humano hace el 99%. La capa pasiva cubre el 1% restante. Juntos: cobertura completa, culpa cero." },
+        { "role": "cta", "h": "Cubre el \"casi\".", "b": "Es la única parte del cuidado sin respaldo. Guarda esto para la conversación con tus hermanos." }
+      ],
+      "caption": {
+        "ig": "\"Mi mamá nunca está sola\" significa \"CASI nunca está sola\" — y los sustos viven en ese casi: la siesta del cuidador, el baño, la cocina, el cambio de turno. 6 de cada 10 personas con demencia se extravían incluso con cuidado profesional 24/7. La identificación no critica tu cuidado: cubre el 1% que ningún humano puede vigilar. #alzheimer #cuidadores #adultomayor #peru",
+        "tt": "\"Nunca está sola\" = \"casi nunca\". Y ahí viven los sustos 💜 #alzheimer #cuidadores #familia",
+        "fb": "Inventario honesto para familias cuidadoras: la siesta, el baño, la cocina, el cambio de turno entre hermanos. Suma esas horas de la semana — ese es el \"casi\" de \"casi nunca está sola\". No es reproche: es el 1% que nadie puede vigilar… y que sí se puede cubrir."
+      },
+      "alt": "El mito de la compañía permanente: momentos sin observación y la capa pasiva que los cubre."
+    },
+    {
+      "slug": "en-peru-no-funciona",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"El QR en el Perú no funciona\" — hermano, pagas la pollada con QR", "b": "El mito del país excepcional" },
+        { "role": "rehook", "h": "Yape, Plin, la carta del restaurante, el bus.", "b": "El QR ya ganó en el Perú. La duda real era otra." },
+        { "role": "value", "h": "2020 nos entrenó a todos", "b": "El QR pasó de rareza a rutina nacional en dos años. Hasta la señora de la esquina cobra con QR pegado en la pared." },
+        { "role": "value", "h": "La verdadera duda: ¿la gente ayudará?", "b": "Y ahí el Perú es POTENCIA MUNDIAL: somos el país que organiza polladas para el vecino enfermo. La solidaridad es infraestructura nacional." },
+        { "role": "value", "h": "Lo que el que ayuda necesita", "b": "Una instrucción obvia en un momento confuso: \"escanea y llama a la familia\". Sin app, sin registro. Un toque, una llamada." },
+        { "role": "value", "h": "El buen samaritano con apuro", "b": "Quiere ayudar pero no puede perder 2 horas en una comisaría. El QR le da una forma de ayudar en 60 segundos. Ayuda más, porque ayudar cuesta menos." },
+        { "role": "value", "h": "Y no depende de la zona", "b": "Sin cobertura, sin batería, sin idioma: el QR impreso funciona igual en Miraflores, Juliaca o un arenal de Ancón." },
+        { "role": "cta", "h": "El Perú siempre estuvo listo.", "b": "Solo faltaba el puente entre la gente buena y tu familia. Comparte esta reflexión." }
+      ],
+      "caption": {
+        "ig": "\"El QR en el Perú no funciona\" — pagas la pollada con QR, pides la carta con QR y subes al bus con QR: el QR ya ganó. La verdadera duda era otra: ¿la gente ayudará? Y ahí somos potencia mundial — el país de las polladas solidarias. Solo faltaba el puente entre la gente buena y tu familia. #peru #tecnologia #solidaridad #seguridadfamiliar",
+        "tt": "\"En el Perú eso no funciona\" — hermano, pagas la pollada con QR 💜 #peru #qr #realidad",
+        "fb": "Curioso: nadie duda del QR para pagar en la bodega, pero \"para seguridad no funciona\". La duda real siempre fue otra — ¿la gente ayudará? — y en el país de las polladas solidarias esa respuesta siempre fue SÍ. Solo faltaba el puente. ¿Qué opinas?"
+      },
+      "alt": "El mito de que el QR no funciona en Perú: adopción masiva y cultura de solidaridad."
+    },
+    {
+      "slug": "mal-padre-pensarlo",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Ni lo pienses, que lo atraes\" — el mito que más familias desarma", "b": "Hablemos de la cábala más cara del Perú" },
+        { "role": "rehook", "h": "El extintor no atrae incendios.", "b": "El SOAT no atrae choques. El simulacro no invoca terremotos. ¿Seguimos?" },
+        { "role": "value", "h": "De dónde viene el mito", "b": "Pensar en un hijo perdido DUELE, y la mente evita lo que duele. \"No lo pienso = no pasará\" es anestesia emocional disfrazada de fe." },
+        { "role": "value", "h": "Lo que dice la evidencia", "b": "Las familias con plan actúan mejor Y viven más tranquilas. Lo indefinido asusta más que lo planificado — siempre." },
+        { "role": "value", "h": "Los niños lo procesan mejor que tú", "b": "Para un niño, el protocolo es un juego más. El drama se lo ponemos los adultos; ellos solo aprenden las reglas." },
+        { "role": "value", "h": "El simulacro de sismo no invoca nada", "b": "Lo hacemos en todo colegio y oficina del país sin superstición. El simulacro familiar de separación es EXACTAMENTE el mismo acto." },
+        { "role": "value", "h": "La reformulación que libera", "b": "No estás \"pensando en tragedias\": estás construyendo el final feliz por adelantado. El plan ES el final feliz, prefabricado." },
+        { "role": "cta", "h": "Construye el final feliz.", "b": "15 minutos este domingo. Guarda esta guía como excusa para empezar." }
+      ],
+      "caption": {
+        "ig": "\"Ni lo pienses, que lo atraes\" — la cábala más cara del Perú. El extintor no atrae incendios, el SOAT no atrae choques y el simulacro de sismo no invoca terremotos. Un plan familiar no es pensar en tragedias: es construir el final feliz POR ADELANTADO. Y los niños lo procesan mejor que los adultos: para ellos es un juego más. #crianza #prevencion #mitos #peru",
+        "tt": "\"Ni lo pienses que lo atraes\" — hablemos de esta cábala 💜 #mitos #crianza #peru",
+        "fb": "El mito más peruano de todos: \"ni lo pienses, que lo atraes\". Pero hacemos simulacros de sismo sin miedo a invocar terremotos — y un plan familiar es exactamente lo mismo: el final feliz, prefabricado. ¿En tu familia existe este tabú? ¿Cómo lo manejan?"
+      },
+      "alt": "El mito supersticioso de que prepararse atrae la desgracia, desmontado con analogías cotidianas."
+    },
+    {
+      "slug": "numero-de-memoria",
+      "slides": [
+        { "role": "cover", "kicker": "MITO VS REALIDAD", "h": "\"Ya se sabe mi número de memoria\" — la mesa de una sola pata", "b": "Por qué no basta (y qué le falta)" },
+        { "role": "rehook", "h": "Enseñarle tu número: excelente.", "b": "Confiar SOLO en eso: apostar todo a la memoria de un niño asustado." },
+        { "role": "value", "h": "La neurología del susto", "b": "El estrés agudo libera cortisol y bloquea la memoria de trabajo — la que recita secuencias. Biología, no falta de práctica." },
+        { "role": "value", "h": "Compruébalo sin drama", "b": "Tu hijo dice tu número perfecto en la sala. Pídeselo agitado tras correr y gritar: se traba. Eso, elevado al pánico real." },
+        { "role": "value", "h": "Además: ¿quién marca?", "b": "Un niño perdido no recita números: llora. El número debe estar disponible cuando el niño NO PUEDE hablar. Solo lo escrito hace eso." },
+        { "role": "value", "h": "Con abuelos, ni hablar", "b": "Con deterioro cognitivo, la memoria de números es de las primeras en irse — junto con la razón para confiar en ella." },
+        { "role": "value", "h": "El sistema completo", "b": "Memoria (respaldo) + contacto escrito puesto (base) + protocolo de comportamiento. Tres patas: la mesa no se cae." },
+        { "role": "cta", "h": "Suma las otras dos patas.", "b": "La memoria sola es una mesa de una pata. Guarda el sistema completo." }
+      ],
+      "caption": {
+        "ig": "\"Ya se sabe mi número de memoria\" — excelente primer paso, terrible plan completo: el estrés agudo bloquea la memoria de trabajo (biología, no falta de práctica) y un niño perdido no recita números… llora. El número debe estar disponible cuando el niño NO puede hablar — y eso solo lo hace lo escrito. Tres patas: memoria + contacto escrito + protocolo. #crianza #seguridadinfantil #mitos #peru",
+        "tt": "El número de memoria falla justo cuando más se necesita 🧠💜 #crianza #sabiasque #padres",
+        "fb": "Haz la prueba hoy: tu hijo te dice el número perfecto en la sala. Ahora pídeselo agitado, después de correr y reír fuerte. ¿Se trabó? Eso ×100 es el pánico real. Por eso lo memorizado es el RESPALDO y lo escrito es la base. ¿Tu hijo tiene las tres patas?"
+      },
+      "alt": "Por qué la memoria de números falla bajo estrés y el sistema de tres capas."
+    }
+  ]
+}

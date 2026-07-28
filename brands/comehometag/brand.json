@@ -1,0 +1,15 @@
+{
+  "name": "ComeHomeTag",
+  "tag": "comehometag.com",
+  "display_font": "Anton-Regular.ttf",
+  "display_weight": null,
+  "body_font": "Montserrat-Variable.ttf",
+  "roles": {
+    "cover":  { "family": "cover",  "text": "#131829", "sub": "#4a4874", "accent": "#6a4cff", "light": false },
+    "rehook": { "family": "emph",   "text": "#f4f2ff", "sub": "#b9c0ff", "accent": "#ec7ea5", "light": true },
+    "value":  { "family": "value",  "text": "#1c1f38", "sub": "#565578", "accent": "#6a4cff", "light": false },
+    "stat":   { "family": "emph",   "text": "#f4f2ff", "sub": "#b9c0ff", "accent": "#ec7ea5", "light": true },
+    "story":  { "family": "cine",   "text": "#f6f3ff", "sub": "#cfc4e8", "accent": "#ec9ec0", "light": true },
+    "cta":    { "family": "cta",    "text": "#131829", "sub": "#5c5480", "accent": "#6a4cff", "light": false }
+  }
+}

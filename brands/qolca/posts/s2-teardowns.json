@@ -1,0 +1,206 @@
+{
+  "series": "s2-teardowns",
+  "brand": "qolca",
+  "posts": [
+    {
+      "slug": "agente-whatsapp-clinica",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Un agente de WhatsApp para una clínica, en 6 días. Sin misterio.", "b": "El proceso completo, día por día" },
+        { "role": "rehook", "h": "No empezamos programando.", "b": "Empezamos leyendo 400 conversaciones reales de su WhatsApp. Ahí estaba todo." },
+        { "role": "value", "n": "1", "h": "Día 1: la arqueología", "b": "400 chats reales → 6 intenciones cubren el 85%: agendar, reagendar, precios, ubicación, resultados, urgencias. Se diseña desde los datos, no la imaginación." },
+        { "role": "value", "n": "2", "h": "Día 2: las reglas de oro", "b": "Qué NUNCA responde solo (urgencias médicas → humano al instante), qué tono usa, cuándo se rinde. El límite importa más que la inteligencia." },
+        { "role": "value", "n": "3", "h": "Días 3-4: la construcción", "b": "Conexión a la agenda real de los doctores, la lista de precios oficial y el WhatsApp del negocio. El agente no inventa: consulta." },
+        { "role": "value", "n": "4", "h": "Día 5: el examen de estrés", "b": "El equipo de la clínica intentó ROMPERLO un día entero: preguntas raras, quejas, urgencias simuladas. Cada fallo, corregido en caliente." },
+        { "role": "value", "n": "5", "h": "Día 6: en vivo, con red", "b": "Lanzamiento con supervisión humana de cada conversación la primera semana. La confianza se construye viendo, no prometiendo." },
+        { "role": "stat", "h": "78% de conversaciones resueltas sin humano", "b": "desde la semana 1 — con urgencias derivadas en menos de 10 segundos. Ese balance es el éxito." },
+        { "role": "cta", "h": "¿Quieres este proceso en tu negocio?", "b": "Escríbenos \"así se hizo\" y lo conversamos con tus propios datos." }
+      ],
+      "caption": {
+        "ig": "Así se hizo: un agente de WhatsApp para una clínica en 6 días. El secreto no fue programar rápido — fue empezar leyendo 400 conversaciones reales (6 intenciones cubren el 85%) y definir qué NUNCA responde solo: urgencias → humano en 10 segundos. Día 5: el equipo intentó romperlo un día entero. Resultado: 78% resuelto desde la semana 1. #ia #whatsapp #clinicas #automatizacion #peru",
+        "tt": "Cómo se construye un agente de WhatsApp de verdad, día por día 🤖 #ia #whatsapp #detras",
+        "fb": "Proceso real, sin humo: 6 días para el agente de WhatsApp de una clínica. El día 1 no se programa nada — se leen 400 chats reales. El día 5 el equipo intenta ROMPERLO. ¿La métrica de éxito? 78% resuelto solo Y urgencias derivadas en 10 segundos. Las dos cosas, o no sirve."
+      },
+      "alt": "Construcción de un agente de WhatsApp médico en seis días: análisis, reglas, conexiones, pruebas y lanzamiento."
+    },
+    {
+      "slug": "bot-cotizacion",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Su mejor vendedor tardaba 2 días en cotizar. El sistema tarda 90 segundos.", "b": "Y el cierre subió de 12% a 31%" },
+        { "role": "rehook", "h": "No era lento: cotizar requería 4 fuentes y 2 jefes.", "b": "El problema nunca fue el vendedor. Era el sistema invisible detrás." },
+        { "role": "value", "n": "1", "h": "El diagnóstico incómodo", "b": "El 80% de cotizaciones usaba las mismas 12 configuraciones. Solo el 20% necesitaba ingeniería real. Trataban todo como el 20%." },
+        { "role": "value", "n": "2", "h": "La matriz que vivía en una cabeza", "b": "Dos tardes entrevistando al jefe de operaciones → la lógica de precios completa, por fin escrita: reglas, márgenes, excepciones." },
+        { "role": "value", "n": "3", "h": "El formulario inteligente", "b": "El cliente describe su necesidad → el sistema pregunta solo lo que falta → arma la cotización desde la matriz → PDF con membrete en 90 segundos." },
+        { "role": "value", "n": "4", "h": "El 20% difícil, mejor atendido", "b": "Los casos complejos llegan al ingeniero CON el pre-trabajo hecho. Hasta lo manual quedó más rápido." },
+        { "role": "value", "n": "5", "h": "Por qué se triplicó el cierre", "b": "La cotización llega cuando el cliente AÚN piensa en el problema — no 2 días después, cuando ya pidió otras 3. La velocidad ES estrategia." },
+        { "role": "stat", "h": "Cierre: del 12% al 31%.", "b": "Mismos precios. Misma calidad. Solo llegaron primero." },
+        { "role": "cta", "h": "¿Cuánto tarda tu cotización?", "b": "Si es más de una hora, hay una matriz esperando ser escrita. Hablemos." }
+      ],
+      "caption": {
+        "ig": "Así se hizo: el cotizador que responde en 90 segundos lo que tomaba 2 días. El hallazgo: el 80% de las cotizaciones usaba las mismas 12 configuraciones, y la lógica de precios completa vivía en la cabeza del jefe (2 tardes de entrevistas la volvieron sistema). Cierre: del 12% al 31% — mismos precios, solo llegaron primero. #ventas #cotizaciones #automatizacion #peru",
+        "tt": "De 2 días a 90 segundos por cotización. Cierre x3 📈 #ventas #automatizacion #negocios",
+        "fb": "Dato brutal de ventas B2B: la cotización que llega en 90 segundos encuentra al cliente PENSANDO en el problema; la que llega en 2 días compite contra otras 3. Este caso triplicó el cierre sin tocar precios — solo llegando primero. ¿Cuánto tarda la tuya? Sé honesto."
+      },
+      "alt": "Cotizador automático: matriz de precios extraída del experto, formulario inteligente y cierre triplicado."
+    },
+    {
+      "slug": "crm-desde-formularios",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Tenían un CRM. Nadie lo llenaba. Lo hicimos llenarse solo.", "b": "Fichas completas: del 30% al 96%" },
+        { "role": "rehook", "h": "Llenar un CRM es el trabajo que nadie contrató hacer.", "b": "El CRM vacío no es un problema de disciplina: es de diseño." },
+        { "role": "value", "n": "1", "h": "El pecado original de todo CRM", "b": "Exigir que humanos ocupados tipeen lo que el sistema podría capturar solo. Por eso el 70% de implementaciones fracasa." },
+        { "role": "value", "n": "2", "h": "El inventario de fuentes", "b": "¿Dónde nacía la información? Formulario web, WhatsApp, llamadas, ferias, referidos. Cinco puertas de entrada — cero conectadas." },
+        { "role": "value", "n": "3", "h": "La captura invisible", "b": "Formulario web → CRM solo. WhatsApp nuevo → contacto creado solo. Correo → registrado en su ficha, solo. Nadie tipea dos veces." },
+        { "role": "value", "n": "4", "h": "El enriquecimiento automático", "b": "RUC → el sistema trae razón social, dirección y estado. Un dato manual, siete automáticos. Cada ficha nace completa." },
+        { "role": "value", "n": "5", "h": "El efecto cultural", "b": "Cuando el CRM se llena solo, el equipo POR FIN lo consulta — porque ahora sí tiene la verdad. La adopción no se exige: se diseña." },
+        { "role": "stat", "h": "Fichas completas: del 30% al 96%.", "b": "Con MENOS trabajo del equipo, no más. Ese es el examen que todo CRM debería pasar." },
+        { "role": "cta", "h": "¿Tu CRM también está vacío?", "b": "No es culpa de tu equipo. Escríbenos y te mostramos la captura invisible." }
+      ],
+      "caption": {
+        "ig": "Así se hizo: el CRM que se llena solo. El pecado original de todo CRM es exigir que humanos ocupados tipeen lo que el sistema puede capturar solo — por eso el 70% de implementaciones fracasa. Cinco fuentes conectadas + enriquecimiento por RUC = fichas completas del 30% al 96%, con MENOS trabajo. #crm #ventas #automatizacion #peru",
+        "tt": "Tu CRM está vacío y no es culpa de tu equipo 📊 #crm #ventas #automatizacion",
+        "fb": "Confesión colectiva: todos compramos un CRM y nadie lo llena — porque llenarlo es un trabajo que nadie contrató hacer. La solución no es más disciplina: es captura invisible (web, WhatsApp y correo alimentan las fichas solos + el RUC trae el resto). ¿Su CRM está al día? 😅"
+      },
+      "alt": "CRM autoalimentado: captura automática desde cinco fuentes y enriquecimiento por RUC."
+    },
+    {
+      "slug": "pipeline-facturas",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "El robot que lee 600 facturas al mes y no se aburre en la 400", "b": "Lectura + validación + registro, sin manos" },
+        { "role": "rehook", "h": "Una persona, tres días al mes, tipeando facturas ajenas.", "b": "PDF por PDF, al sistema contable. Había que verlo para creerlo." },
+        { "role": "value", "n": "1", "h": "La entrada única", "b": "Regla nueva: toda factura de proveedor entra por UN correo. Se acabaron los PDF por WhatsApp, papel y \"te lo mando luego\"." },
+        { "role": "value", "n": "2", "h": "La lectura automática", "b": "Cada PDF se lee solo: RUC, monto, fecha, detalle, IGV — aunque cada proveedor tenga SU formato distinto." },
+        { "role": "value", "n": "3", "h": "La validación que no perdona", "b": "¿RUC activo? ¿Factura válida en SUNAT? ¿Monto cuadra con la orden de compra? Tres verificaciones antes de registrar nada." },
+        { "role": "value", "n": "4", "h": "Lo dudoso, a un humano", "b": "El 8% que no cuadra cae en una bandeja de revisión con TODO el contexto. Lo dudoso jamás se registra solo." },
+        { "role": "value", "n": "5", "h": "El registro final", "b": "Lo validado entra categorizado y listo para el pago programado. La contadora revisa excepciones — no tipea PDFs." },
+        { "role": "stat", "h": "De 3 días a 90 minutos al mes.", "b": "Y cero facturas observadas por SUNAT en el semestre. La máquina no se cansa en la 400." },
+        { "role": "cta", "h": "¿Cuántas facturas tipea tu equipo al mes?", "b": "Multiplica por 3 minutos cada una y escríbenos con el resultado." }
+      ],
+      "caption": {
+        "ig": "Así se hizo: el robot que procesa 600 facturas de proveedores al mes. Entrada única → lectura automática (cada proveedor con SU formato) → triple validación (RUC activo, SUNAT, orden de compra) → registro. Lo dudoso jamás se registra solo. De 3 días a 90 minutos — y la máquina procesa la factura 400 igual de bien que la primera. #contabilidad #automatizacion #sunat #peru",
+        "tt": "El robot que lee 600 facturas al mes sin aburrirse 🧾 #contabilidad #ia #automatizacion",
+        "fb": "Para contadores y administradores: ¿cuántas horas al mes se van tipeando facturas de proveedores? Este robot las lee, valida contra SUNAT y la orden de compra, y solo deriva el 8% dudoso a revisión humana. El humano no se aburre en la factura 400 — porque la 400 la procesa la máquina."
+      },
+      "alt": "Procesamiento automático de facturas de proveedores: entrada única, lectura, validación triple y registro."
+    },
+    {
+      "slug": "chatbot-agenda",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "8 mensajes para agendar UNA reunión. Ahora son 2.", "b": "La muerte del ping-pong de horarios" },
+        { "role": "rehook", "h": "\"¿Martes?\" \"No, ¿jueves?\" \"¿Tarde?\" \"Mejor viernes...\"", "b": "El impuesto invisible de toda agenda. Así lo eliminamos." },
+        { "role": "value", "n": "1", "h": "La medición del dolor", "b": "8 mensajes promedio por reunión × 25 reuniones semanales del equipo = 200 mensajes de puro tira y afloja." },
+        { "role": "value", "n": "2", "h": "El asistente lee la agenda REAL", "b": "Conectado a los calendarios del equipo: huecos, traslados y reglas (\"no antes de las 9\", \"viernes tarde libre\")." },
+        { "role": "value", "n": "3", "h": "Tres opciones reales en el primer mensaje", "b": "\"¿Reunión con Carlos? Puede: martes 10am, miércoles 3pm o jueves 9am.\" El cliente elige con un toque." },
+        { "role": "value", "n": "4", "h": "La logística invisible", "b": "Confirmada la hora: invitación a ambos calendarios, link de videollamada, recordatorio 24h antes y contexto al vendedor." },
+        { "role": "value", "n": "5", "h": "Reagendar sin drama", "b": "\"¿Podemos moverla?\" → nuevas opciones y todo se reacomoda solo. Nadie borra ni reenvía invitaciones a mano." },
+        { "role": "stat", "h": "De 8 mensajes a 2. De 2 días a 10 minutos.", "b": "El tiempo entre \"conversemos\" y reunión agendada se desplomó — y con él, los leads que se enfriaban." },
+        { "role": "cta", "h": "¿Cuántos mensajes te cuesta agendar?", "b": "Si el ping-pong te suena, escríbenos: este asistente se arma rápido." }
+      ],
+      "caption": {
+        "ig": "Así se hizo: la muerte del ping-pong de horarios (\"¿martes? no, ¿jueves? ¿tarde? mejor viernes...\"). El asistente lee la agenda REAL del equipo y propone 3 huecos verdaderos en el primer mensaje. De 8 mensajes a 2, de 2 días a 10 minutos entre \"conversemos\" y reunión agendada. El tiempo también es un embudo. #productividad #agenda #automatizacion #peru",
+        "tt": "El ping-pong de horarios: 8 mensajes para UNA reunión 😩 #productividad #automatizacion #agenda",
+        "fb": "Cuenten los mensajes de su última coordinación de reunión: ¿cuántos fueron \"¿puedes el martes?\" — \"mejor jueves\"? El promedio es 8. Este asistente lo baja a 2, proponiendo huecos REALES de la agenda desde el primer mensaje. El tiempo entre \"conversemos\" y la reunión también es un embudo de ventas."
+      },
+      "alt": "Asistente de agendamiento: lectura de calendarios reales, tres opciones en el primer mensaje y logística automática."
+    },
+    {
+      "slug": "tienda-almacen",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "\"Habría que cambiar todo el sistema\" — no. Solo conectarlo.", "b": "Tienda online + almacén, sin migrar nada" },
+        { "role": "rehook", "h": "La magia no es reemplazar lo que ya usas.", "b": "Es construir el PUENTE entre lo que ya pagas." },
+        { "role": "value", "n": "1", "h": "El problema clásico", "b": "La web vendía productos que el almacén no tenía; el almacén tenía productos que la web no mostraba. Dos sistemas, cero conversación." },
+        { "role": "value", "n": "2", "h": "El puente, no la mudanza", "b": "Nadie cambió de software: un conector lee el almacén cada 5 minutos y actualiza la tienda — stock, precios, productos nuevos." },
+        { "role": "value", "n": "3", "h": "La venta viaja de vuelta", "b": "Pedido web → orden de despacho automática con lista de picking. El almacenero dejó de transcribir pedidos del correo." },
+        { "role": "value", "n": "4", "h": "Las reglas de seguridad", "b": "Stock de seguridad por producto (la web muestra 8 cuando hay 10), frágiles marcados, cortes por horario. Los detalles hacen la confianza." },
+        { "role": "value", "n": "5", "h": "El efecto colateral inesperado", "b": "Con la verdad sincronizada, abrieron Mercado Libre en una semana: el mismo puente alimenta ambos canales. Conectar una vez, vender en N." },
+        { "role": "stat", "h": "Cancelaciones por falta de stock: de 6% a 0.3%.", "b": "Y 2 horas diarias del almacenero recuperadas. Sin cambiar UN solo sistema." },
+        { "role": "cta", "h": "¿Tus sistemas no se hablan?", "b": "Dinos cuáles usas (los que sean) y te decimos si hay puente. Casi siempre hay." }
+      ],
+      "caption": {
+        "ig": "\"Es que habría que cambiar todo el sistema\" — la frase que más ventas cuesta, y es falsa: la magia es el PUENTE entre lo que ya pagas. Tienda + almacén conectados sin migrar nada: stock sincronizado cada 5 min, pedidos que viajan solos. Cancelaciones por falta de stock: de 6% a 0.3%. Y de yapa: Mercado Libre en una semana con el mismo puente. #ecommerce #integraciones #peru",
+        "tt": "\"Habría que cambiar todo el sistema\" — no. Solo conectarlo 🔌 #ecommerce #integraciones #negocios",
+        "fb": "La frase que más proyectos mata: \"es que habría que cambiar todo el sistema\". Casi siempre es falsa — existe un puente entre lo que ya usan. Este caso: tienda + almacén conectados en días, cancelaciones de 6% a 0.3%, y Mercado Libre abierto con el mismo conector. ¿Qué sistemas no se hablan en tu negocio?"
+      },
+      "alt": "Integración tienda-almacén sin migración: conector bidireccional, stock de seguridad y expansión multicanal."
+    },
+    {
+      "slug": "dashboard-ventas",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "El 90% de los paneles de control muere en 3 semanas. Este cumplió un año.", "b": "Anatomía del panel que SÍ se usa" },
+        { "role": "rehook", "h": "No mueren por feos. Mueren por irrelevantes.", "b": "La diferencia se decide antes de dibujar el primer gráfico." },
+        { "role": "value", "n": "1", "h": "Se empieza por las DECISIONES", "b": "¿Qué decide el gerente cada semana? Precios, reposición, incentivos, cobranza. El panel muestra SOLO lo que alimenta esas 4 decisiones." },
+        { "role": "value", "n": "2", "h": "Cinco números, no cincuenta", "b": "Venta vs meta, margen real, movimientos raros, cobranza vencida, quiebres próximos. El resto existe — a un clic, no en la cara." },
+        { "role": "value", "n": "3", "h": "Cada dato con su porqué", "b": "\"Ventas: S/48K\" no dice nada. \"S/48K, -12% vs la semana pasada, por caída en la línea X\" sí. Contexto o nada." },
+        { "role": "value", "n": "4", "h": "El panel va hacia el gerente", "b": "Resumen por WhatsApp los lunes 7am + alertas cuando algo cruza umbral. Un panel tímido es un panel muerto." },
+        { "role": "value", "n": "5", "h": "La poda trimestral", "b": "¿Qué número no miraste nunca? Se saca. ¿Qué buscaste a mano? Se agrega. El panel es un producto vivo, no un cuadro colgado." },
+        { "role": "stat", "h": "12 meses de uso diario real.", "b": "El secreto no fue la tecnología: fue diseñar desde las decisiones. Los datos son solo el medio." },
+        { "role": "cta", "h": "¿Tu panel ya murió?", "b": "Dinos qué 4 decisiones tomas cada semana y te armamos el que sí se usa." }
+      ],
+      "caption": {
+        "ig": "El 90% de los paneles de control muere en 3 semanas — no por feos, por irrelevantes. Anatomía del que cumplió un año de uso diario: diseñado desde las 4 DECISIONES semanales del gerente, 5 números y no 50, cada dato con su porqué, y el panel va hacia el gerente (WhatsApp lunes 7am) en vez de esperar visitas. #datos #gerencia #pymes #peru",
+        "tt": "Por qué el 90% de los dashboards muere en 3 semanas 📊 #datos #gerencia #negocios",
+        "fb": "Test para tu panel de control: ¿cuándo fue la última vez que lo miraste sin que nadie te lo pida? El 90% muere en 3 semanas porque muestra DATOS en vez de alimentar DECISIONES. La regla del que cumplió un año: 5 números, contexto en cada uno, y resumen que llega solo los lunes 7am. ¿El tuyo vive?"
+      },
+      "alt": "Anatomía de un panel gerencial duradero: diseño desde decisiones, cinco números con contexto y entrega proactiva."
+    },
+    {
+      "slug": "flujo-cobranza",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "La secuencia que cobra S/2M al año sin una llamada incómoda", "b": "Mensaje por mensaje. Cópiala." },
+        { "role": "rehook", "h": "Cobrar no tiene por qué dañar la relación.", "b": "Esta secuencia exacta lo demuestra. Tómala, es tuya." },
+        { "role": "value", "n": "1", "h": "Día -3: el pre-aviso amable", "b": "\"Hola Ana, la factura F001-234 (S/3,500) vence el viernes. Cualquier consulta, por aquí 😊\" — La mitad paga solo con esto." },
+        { "role": "value", "n": "2", "h": "Día +1: el recordatorio sin drama", "b": "\"La factura venció ayer. Seguro es un tema de trámite — te dejo el link de pago por si ayuda.\" Puente de plata, cero acusación." },
+        { "role": "value", "n": "3", "h": "Día +7: la pregunta abierta", "b": "\"¿Hay algo trabando el pago? Si el monto es un tema este mes, conversemos un fraccionamiento.\" Abrir la puerta cobra más que empujarla." },
+        { "role": "value", "n": "4", "h": "Día +15: el tono formal, sin amenaza", "b": "\"Te escribimos formalmente por la factura con 15 días de vencida. Necesitamos una fecha esta semana.\" Claridad no es agresión." },
+        { "role": "value", "n": "5", "h": "Día +30: recién entra el humano", "b": "Una llamada armada con todo el historial — y la cuenta en pausa para nuevos pedidos. Lo automático escaló lo que lo humano debe resolver." },
+        { "role": "stat", "h": "El 84% paga antes del día +15.", "b": "Sin llamadas, sin roche, sin perder un cliente. La constancia cordial vence a la presión esporádica." },
+        { "role": "cta", "h": "Copia la secuencia. En serio.", "b": "Y si quieres que corra sola contra tu facturación real, escríbenos." }
+      ],
+      "caption": {
+        "ig": "La secuencia de cobranza que cobra S/2M al año sin una llamada incómoda — mensaje por mensaje, cópiala: pre-aviso día -3 (la mitad paga solo con esto), recordatorio sin drama +1, pregunta abierta +7 (\"¿fraccionamos?\"), tono formal +15, humano recién al +30. El 84% paga antes del día 15. #cobranza #pymes #plantilla #peru",
+        "tt": "La secuencia de cobranza sin roche, mensaje por mensaje 💬 #cobranza #pymes #plantillas",
+        "fb": "Regalo del día: la secuencia de cobranza completa, mensaje por mensaje — la misma que cobra S/2M al año sin llamadas incómodas. El secreto es el pre-aviso del día -3: la mitad paga solo con eso. Guárdenla, cópienla, úsenla. ¿Qué le agregarían?"
+      },
+      "alt": "Secuencia de cobranza cordial en cinco mensajes con resultados medidos."
+    },
+    {
+      "slug": "asistente-interno",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Toda empresa tiene una Rosa: la persona que sabe TODO", "b": "El asistente que la ascendió" },
+        { "role": "rehook", "h": "El día que Rosa está de vacaciones, la empresa cojea.", "b": "Ese día revela el problema: el conocimiento tiene un solo dueño." },
+        { "role": "value", "n": "1", "h": "El censo del conocimiento", "b": "¿Qué le preguntan a Rosa? Dos semanas registrando: 140 preguntas distintas — procedimientos, formatos, \"¿cómo se hace X?\"." },
+        { "role": "value", "n": "2", "h": "La documentación que nadie quería escribir", "b": "No le pedimos \"documenta todo\" (nunca funciona): la entrevistamos 6 horas grabadas y la IA convirtió sus respuestas en la base. Rosa habló; el sistema escribió." },
+        { "role": "value", "n": "3", "h": "El asistente en el chat de siempre", "b": "Sin app nueva: el equipo pregunta por el chat interno, como le preguntaba a Rosa. \"¿Cómo pido vacaciones?\" → respuesta + formato + a quién va." },
+        { "role": "value", "n": "4", "h": "Lo que no sabe, LO DICE", "b": "Regla dura: si no está en la base, responde \"no lo sé — pregúntale a Rosa y me avisas para aprenderlo\". Un asistente que inventa es peor que ninguno." },
+        { "role": "value", "n": "5", "h": "Rosa, ascendida", "b": "Liberada del 70% de interrupciones, ahora mejora procesos en vez de repetirlos. El conocimiento dejó de tener un solo punto de falla." },
+        { "role": "stat", "h": "140 preguntas → respuesta al instante, 24/7.", "b": "Y las vacaciones de Rosa dejaron de ser una emergencia operativa." },
+        { "role": "cta", "h": "¿Quién es la Rosa de tu empresa?", "b": "Escríbenos qué le preguntan y armamos su asistente." }
+      ],
+      "caption": {
+        "ig": "Toda empresa tiene una Rosa: la persona que sabe TODO — y cuyas vacaciones son una emergencia operativa. Así se hizo su asistente: 2 semanas censando 140 preguntas, 6 horas de entrevista grabada (la IA escribió la documentación que nadie quería escribir) y una regla dura: lo que no sabe, LO DICE. Rosa fue ascendida: ahora mejora procesos en vez de repetirlos. #gestion #ia #equipos #peru",
+        "tt": "Toda empresa tiene una Rosa. Este asistente la ascendió 🧠 #ia #equipos #gestion",
+        "fb": "¿Quién es la Rosa de tu empresa — la persona a la que TODOS le preguntan todo? El detalle bonito del caso: nadie le pidió \"documenta todo\" (nunca funciona). La entrevistamos 6 horas y la IA escribió la base de conocimiento. Rosa ahora mejora procesos en vez de repetirlos. ¿Cómo se llama tu Rosa?"
+      },
+      "alt": "Asistente de conocimiento interno: censo de preguntas, documentación por entrevista y regla de honestidad."
+    },
+    {
+      "slug": "sistema-de-este-perfil",
+      "slides": [
+        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Este post que estás leyendo lo produjo un sistema", "b": "El desmontaje de nuestro propio contenido" },
+        { "role": "rehook", "h": "Practicamos lo que cobramos.", "b": "Este perfil corre sobre el mismo tipo de sistema que construimos para clientes." },
+        { "role": "value", "n": "1", "h": "El contenido nace como datos", "b": "Cada post es un archivo de texto: gancho, láminas, textos por red. Escribir un carrusel = escribir 8 líneas. El diseño no se toca nunca." },
+        { "role": "value", "n": "2", "h": "El diseño es un sistema, no un diseñador", "b": "Marca definida UNA vez: fuentes, colores, márgenes. Un renderizador convierte las 8 líneas en láminas finales, idénticas en estilo, siempre." },
+        { "role": "value", "n": "3", "h": "Un contenido, todos los formatos", "b": "El mismo archivo genera el carrusel de Instagram, el de TikTok y el PDF de LinkedIn. Nadie diseña nada tres veces." },
+        { "role": "value", "n": "4", "h": "El calendario es una cola", "b": "Los posts entran a una cola programada. La constancia no depende de la motivación del lunes: depende del inventario." },
+        { "role": "value", "n": "5", "h": "Los números deciden la siguiente tanda", "b": "Guardados y compartidos por post, cada semana: la serie que funciona recibe 10 posts más; la que no, se corta." },
+        { "role": "stat", "h": "60 carruseles producidos en un fin de semana.", "b": "Con calidad constante y cero \"no sé qué publicar hoy\". Los sistemas también hacen marketing." },
+        { "role": "cta", "h": "¿Quieres un sistema así para tu marca?", "b": "Spoiler: cuesta menos que un community manager. Escríbenos." }
+      ],
+      "caption": {
+        "ig": "Transparencia total: este post que estás leyendo lo produjo un sistema — el mismo tipo que construimos para clientes. Cada post nace como 8 líneas de texto; un renderizador con la marca definida UNA vez genera Instagram + TikTok + LinkedIn; la cola de publicación no depende de la motivación del lunes; y los números deciden la siguiente tanda. 60 carruseles en un fin de semana. #contentmarketing #automatizacion #sistemas #peru",
+        "tt": "Este post lo produjo un sistema (desmontaje completo) 🤯 #marketing #automatizacion #sistemas",
+        "fb": "Confesión transparente: este contenido lo produce el mismo tipo de sistema que construimos para clientes — cada post son 8 líneas de texto, el diseño es un sistema (no un diseñador), y un archivo genera IG + TikTok + LinkedIn a la vez. 60 carruseles en un fin de semana. ¿Preguntas? Respondemos todo."
+      },
+      "alt": "Desmontaje del sistema de contenido de Qolca: posts como datos, renderizado multiformato y cola de publicación."
+    }
+  ]
+}

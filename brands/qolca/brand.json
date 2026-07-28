@@ -1,0 +1,58 @@
+{
+  "name": "Qolca",
+  "tag": "qolca.org",
+  "display_font": "Rajdhani-Bold.ttf",
+  "display_weight": null,
+  "body_font": "Montserrat-Variable.ttf",
+  "roles": {
+    "cover": {
+      "family": "cover",
+      "text": "#f2f7ff",
+      "sub": "#9db1d0",
+      "accent": "#5aa7ff",
+      "light": true
+    },
+    "rehook": {
+      "family": "emph",
+      "text": "#f2f7ff",
+      "sub": "#9db1d0",
+      "accent": "#5aa7ff",
+      "light": true
+    },
+    "value": {
+      "family": "value_slate",
+      "text": "#f2f7ff",
+      "sub": "#9db1d0",
+      "accent": "#5aa7ff",
+      "light": true
+    },
+    "paper": {
+      "family": "value_paper",
+      "text": "#0d162f",
+      "sub": "#4a5c7a",
+      "accent": "#2f6fd0",
+      "light": false
+    },
+    "stat": {
+      "family": "emph",
+      "text": "#f2f7ff",
+      "sub": "#9db1d0",
+      "accent": "#5aa7ff",
+      "light": true
+    },
+    "story": {
+      "family": "cine",
+      "text": "#f2f7ff",
+      "sub": "#b8c0d4",
+      "accent": "#5aa7ff",
+      "light": true
+    },
+    "cta": {
+      "family": "cta",
+      "text": "#f2f7ff",
+      "sub": "#9db1d0",
+      "accent": "#5aa7ff",
+      "light": true
+    }
+  }
+}

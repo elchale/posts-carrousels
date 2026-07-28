@@ -1,0 +1,16 @@
+{
+  "name": "Propaga",
+  "tag": "propaga.pe",
+  "display_font": "Montserrat-Variable.ttf",
+  "display_weight": 800,
+  "roles_note": "palette from propaga.pe: crimson #be001a, orange #ff7300, gold #ffc266, warm stone neutrals",
+  "body_font": "Montserrat-Variable.ttf",
+  "roles": {
+    "cover":  { "family": "cover",  "text": "#2d1a1a", "sub": "#78716c", "accent": "#be001a", "light": false },
+    "rehook": { "family": "emph",   "text": "#2d1a1a", "sub": "#7a6458", "accent": "#be001a", "light": false },
+    "value":  { "family": "value",  "text": "#292524", "sub": "#78716c", "accent": "#be001a", "light": false },
+    "stat":   { "family": "emph",   "text": "#2d1a1a", "sub": "#7a6458", "accent": "#be001a", "light": false },
+    "story":  { "family": "cine",   "text": "#fff6ec", "sub": "#f0cfa8", "accent": "#ffc266", "light": true },
+    "cta":    { "family": "cta",    "text": "#2d1a1a", "sub": "#78716c", "accent": "#be001a", "light": false }
+  }
+}

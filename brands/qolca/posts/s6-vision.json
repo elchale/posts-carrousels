@@ -1,0 +1,202 @@
+{
+  "series": "s6-vision",
+  "brand": "qolca",
+  "posts": [
+    {
+      "slug": "empresa-de-3",
+      "slides": [
+        { "role": "story", "plate": "cine-03-cafe", "h": "Lo que una empresa de 3 personas puede operar en 2026", "b": "Era imposible hace 5 años. Hoy es martes." },
+        { "role": "story", "plate": "cine-02-oficina", "h": "Atención 24/7. Cotizaciones al minuto. Cobranza puntual. Reportes solos.", "b": "Eso antes era un departamento por función." },
+        { "role": "value", "h": "La aritmética nueva", "b": "3 personas + sistemas bien construidos operan lo que en 2020 requería 12. No trabajando más: decidiendo qué NO tocar a mano nunca más." },
+        { "role": "value", "h": "Dónde va el humano", "b": "Vender cara a cara, diseñar el producto, cuidar la relación. Lo que se repite dos veces al día ya tiene quién lo haga sin quejarse." },
+        { "role": "value", "h": "El costo también cambió", "b": "Lo que costaba $50K de software corporativo hoy se arma por una fracción. La barrera ya no es plata: es saber qué pedir." },
+        { "role": "value", "h": "La ecuación vieja, jubilada", "b": "\"Más ventas = más gente\" era la única fórmula. Hoy hay otra: más ventas = los mismos 3 + mejores sistemas. El margen se queda en casa." },
+        { "role": "stat", "h": "La pregunta de 2026 no es \"¿cuánta gente tienes?\"", "b": "Es: ¿cuánto de tu operación corre sola mientras duermes?" },
+        { "role": "cta", "h": "¿Tu empresa chica piensa en grande?", "b": "Cuéntanos qué harías con un \"empleado\" que nunca duerme. Lo construimos." }
+      ],
+      "caption": {
+        "ig": "Lo que una empresa de 3 personas puede operar en 2026: atención 24/7, cotizaciones al minuto, cobranza puntual, reportes solos — lo que en 2020 requería 12 personas. La ecuación vieja (\"más ventas = más gente\") se jubiló: ahora es los mismos 3 + mejores sistemas, y el margen se queda en casa. La pregunta nueva: ¿cuánto de tu operación corre sola mientras duermes? #emprendimiento #ia #pymes #peru",
+        "tt": "Lo que 3 personas pueden operar en 2026 🚀 #emprendimiento #ia #negocios",
+        "fb": "La aritmética cambió: 3 personas + sistemas bien construidos operan hoy lo que en 2020 requería 12 — y \"más ventas = más gente\" dejó de ser la única ecuación. ¿Qué harías tú con un \"empleado\" que no duerme, no renuncia y no se aburre de lo repetitivo?"
+      },
+      "alt": "La capacidad operativa de empresas de tres personas en 2026 gracias a sistemas."
+    },
+    {
+      "slug": "trabajos-que-ia-no-toca",
+      "slides": [
+        { "role": "story", "plate": "cine-09-acuerdo", "h": "La IA no compite contra tu gente", "b": "Compite contra las 4 horas de tipeo disfrazado de su día" },
+        { "role": "story", "plate": "cine-07-papeles", "h": "Lo que ya tocó: lo repetitivo con reglas claras.", "b": "Tipear facturas, responder lo mismo 50 veces, armar el reporte del lunes." },
+        { "role": "value", "h": "Lo que no toca (por años)", "b": "Cerrar un trato mirando a los ojos, calmar a un cliente furioso, decidir con información incompleta, el olfato del \"esto huele raro\"." },
+        { "role": "value", "h": "La pregunta correcta del dueño", "b": "No \"¿a quién reemplazo?\" sino \"¿qué parte del día de cada persona es tipeo disfrazado?\". Esa parte se va. La persona, mejor usada, se queda." },
+        { "role": "value", "h": "El caso que se repite", "b": "La asistente que tipeaba facturas ahora revisa excepciones y atiende proveedores: mismo sueldo, más valor. Nadie extrañó el tipeo." },
+        { "role": "value", "h": "La ventaja peruana", "b": "Nuestras pymes tienen POCO software heredado: pueden saltar directo a lo moderno sin pagar la mudanza que las corporaciones sí pagan." },
+        { "role": "stat", "h": "4 horas diarias de tipeo disfrazado", "b": "es el promedio en puestos administrativos. Devuélveselas a tu gente — y a tu margen." },
+        { "role": "cta", "h": "¿Qué parte de tu día es tipeo disfrazado?", "b": "Esa es la conversación que vale. Escríbenos y la tenemos." }
+      ],
+      "caption": {
+        "ig": "La IA no compite contra tu gente — compite contra las 4 horas de TIPEO DISFRAZADO de su día: tipear facturas, responder lo mismo 50 veces, armar el reporte del lunes. Lo que no toca (por años): cerrar tratos mirando a los ojos, calmar clientes furiosos, el olfato del \"esto huele raro\". La pregunta correcta no es \"¿a quién reemplazo?\" sino \"¿qué parte del día de cada persona es tipeo?\". #ia #futurodeltrabajo #peru",
+        "tt": "La IA no compite contra tu gente. Compite contra su tipeo 🤖 #ia #trabajo #peru",
+        "fb": "Conversación pendiente en muchas empresas: la IA no reemplaza personas — reemplaza las 4 horas diarias de tipeo disfrazado. El caso que más se repite: la asistente que tipeaba facturas ahora revisa excepciones y atiende proveedores. Mismo sueldo, más valor. ¿Cuánto tipeo disfrazado hay en su día?"
+      },
+      "alt": "Qué trabajos transformó la IA y cuáles no, con la pregunta del tipeo disfrazado."
+    },
+    {
+      "slug": "latam-salto",
+      "slides": [
+        { "role": "story", "plate": "cine-10-amanecer", "h": "África se saltó el teléfono fijo. LatAm puede saltarse 20 años de software.", "b": "La ventaja de llegar tarde" },
+        { "role": "story", "plate": "cine-05-almacen", "h": "Las corporaciones pagan millones por sistemas de los 90 que no pueden apagar.", "b": "Tu pyme no tiene nada que apagar. Hoja en blanco." },
+        { "role": "value", "h": "Del cuaderno a la IA, sin escalas", "b": "No hace falta pasar por el sistema corporativo de 2005 para llegar al agente de 2026. El salto directo es más barato Y más simple." },
+        { "role": "value", "h": "La infraestructura ya llegó", "b": "WhatsApp es EL canal (nadie necesita capacitación), el QR ya ganó, Yape y Plin resolvieron los pagos. Las piezas difíciles ya están puestas." },
+        { "role": "value", "h": "Lo que falta no es tecnología", "b": "Es criterio aplicado: qué automatizar primero, qué medir, qué NO comprar. Por eso construimos, no solo asesoramos." },
+        { "role": "value", "h": "La ventana está abierta AHORA", "b": "La pyme peruana de 2026 puede operar como la empresa tecnológica de hace 3 años — a precio de Lima. Eso no dura para siempre." },
+        { "role": "stat", "h": "Ser chico, por una vez, es ventaja.", "b": "Sin sistemas heredados, el salto es directo. Las corporaciones pagan la mudanza; tú no." },
+        { "role": "cta", "h": "¿Saltamos juntos?", "b": "Tu empresa no necesita 20 años de evolución de software. Necesita el salto. Escríbenos." }
+      ],
+      "caption": {
+        "ig": "África se saltó el teléfono fijo y pasó directo al celular. La pyme latinoamericana puede saltarse 20 años de software corporativo y pasar del cuaderno al agente de IA — más barato y más simple que el camino \"completo\". Las piezas difíciles ya están: WhatsApp es EL canal, el QR ya ganó, Yape resolvió pagos. Ser chico, por una vez, es ventaja. #latam #tecnologia #peru #pymes",
+        "tt": "LatAm puede saltarse 20 años de software. La ventaja de llegar tarde 🌎 #latam #tech #peru",
+        "fb": "Tesis que nos apasiona: África se saltó el teléfono fijo. La pyme latinoamericana puede saltarse el software corporativo de los 2000 y pasar del cuaderno al agente de IA — sin pagar la mudanza que las corporaciones sí pagan por sus sistemas heredados. La ventana está abierta AHORA. ¿La tomamos?"
+      },
+      "alt": "El salto tecnológico latinoamericano: sin sistemas heredados, con WhatsApp, QR y pagos digitales resueltos."
+    },
+    {
+      "slug": "oficina-de-noche",
+      "slides": [
+        { "role": "story", "plate": "cine-01-ventana", "h": "2:47 am. La oficina apagada. Y tu empresa... trabajando.", "b": "La historia de la oficina de noche" },
+        { "role": "story", "plate": "cine-02-oficina", "h": "A esta hora, un cliente pregunta el precio y alguien le responde.", "b": "Alguien que no cobra horas extra ni bosteza." },
+        { "role": "story", "plate": "cine-08-telefono", "h": "A las 3:15 entra un pedido. Se registra, se agenda, se confirma.", "b": "Nadie se despertó." },
+        { "role": "story", "plate": "cine-07-papeles", "h": "A las 4:00, las ventas del día quedaron cuadradas contra el banco.", "b": "El reporte esperará al gerente antes que el café." },
+        { "role": "value", "h": "Esto no es el futuro", "b": "Es un martes cualquiera en cualquier empresa que decidió que la noche también cuenta. La tecnología es de 2026; la decisión es tuya." },
+        { "role": "value", "h": "La mitad de tu mercado vive de noche", "b": "El que cotiza a las 11pm después de acostar a los hijos. El que compara proveedores un domingo. Hoy le responde tu competencia — o nadie." },
+        { "role": "stat", "h": "8 horas de oficina + 16 de sistema = 24.", "b": "Tu empresa ya puede ser de las que no cierran nunca. Sin que nadie duerma mal." },
+        { "role": "cta", "h": "¿Qué hace tu empresa a las 3 am?", "b": "Si la respuesta es \"nada\", tenemos una conversación pendiente." }
+      ],
+      "caption": {
+        "ig": "2:47am, la oficina apagada — y la empresa trabajando: respondió un precio, registró un pedido, cuadró las ventas contra el banco. Nadie se despertó. No es el futuro: es un martes cualquiera en cualquier empresa que decidió que la noche también cuenta. La mitad de tu mercado cotiza a las 11pm — ¿quién le responde? #automatizacion #negocios #pymes #peru",
+        "tt": "¿Qué hace tu empresa a las 3am? 🌙 #negocios #automatizacion #pymes",
+        "fb": "Historia de la oficina de noche: 2:47am — un cliente pregunta, alguien responde. 3:15 — entra un pedido, se agenda solo. 4:00 — ventas cuadradas contra el banco. Nadie se despertó. La mitad de tu mercado cotiza a las 11pm después de acostar a los hijos: ¿hoy le responde tu competencia o nadie?"
+      },
+      "alt": "Narrativa nocturna de una empresa automatizada: atención, pedidos y conciliación mientras el equipo duerme."
+    },
+    {
+      "slug": "clinica-hoy",
+      "slides": [
+        { "role": "story", "plate": "cine-06-clinica", "h": "Si me dieran una clínica hoy, haría estas 5 cosas", "b": "Ejercicio de diseño desde cero" },
+        { "role": "rehook", "h": "Sin sistemas heredados ni \"siempre se hizo así\".", "b": "Solo el paciente, el doctor y el mejor 2026 posible entre ambos." },
+        { "role": "value", "n": "1", "h": "El teléfono deja de ser el canal", "b": "Agendamiento, precios, seguros, preparación de exámenes: todo por WhatsApp, al instante, 24/7. El teléfono, para lo que necesita voz." },
+        { "role": "value", "n": "2", "h": "Las citas perdidas se atacan con sistema", "b": "Recordatorio 48h y 3h con confirmar/reagendar + lista de espera automática. Del 30% a menos del 10% de inasistencia." },
+        { "role": "value", "n": "3", "h": "El doctor no tipea", "b": "La nota clínica se dicta y la IA la estructura (con revisión y firma del doctor). 10 minutos más de MIRADA al paciente por consulta." },
+        { "role": "value", "n": "4", "h": "El resultado avisa solo", "b": "\"Su resultado está listo\" con recojo o PDF seguro. Y el control anual se recuerda SOLO: la agenda del próximo año se llena con pacientes de este." },
+        { "role": "value", "n": "5", "h": "El gerente ve la clínica en un panel", "b": "Ocupación por doctor, inasistencias, ingresos por especialidad — hoy, no en el Excel del próximo mes." },
+        { "role": "stat", "h": "Nada de esto es exótico en 2026.", "b": "Cada pieza existe, probada, a precio de pyme. Solo falta decidirlo." },
+        { "role": "cta", "h": "¿Tienes una clínica (o conoces a quien sí)?", "b": "Este ejercicio se convierte en proyecto real. Escríbenos o compártelo." }
+      ],
+      "caption": {
+        "ig": "Ejercicio de diseño: si me dieran una clínica HOY, desde cero — el teléfono deja de ser el canal, las citas perdidas se atacan con sistema (del 30% al <10%), el doctor DICTA y no tipea (+10 minutos de mirada al paciente por consulta — que es lo que el paciente recuerda), los resultados avisan solos y el gerente ve todo en un panel vivo. Nada es exótico en 2026. #clinicas #salud #gestion #peru",
+        "tt": "Si me dieran una clínica hoy, haría esto 🏥 #clinicas #salud #ia",
+        "fb": "Ejercicio por rubro: diseñar el negocio desde cero, sin \"siempre se hizo así\". Hoy: una clínica. El cambio más subestimado es el #3 — el doctor que dicta en vez de tipear gana 10 minutos de MIRADA al paciente por consulta. Y eso es exactamente lo que el paciente recuerda. ¿Qué rubro diseñamos la próxima?"
+      },
+      "alt": "Diseño hipotético de una clínica moderna en cinco decisiones."
+    },
+    {
+      "slug": "empleado-que-no-duerme",
+      "slides": [
+        { "role": "story", "plate": "cine-02-oficina", "h": "El \"empleado que nunca duerme\" también tiene letras chicas", "b": "La metáfora completa, con honestidad" },
+        { "role": "rehook", "h": "Nos gusta la metáfora. Y sus letras chicas también.", "b": "Vender fantasías es pan para hoy y desconfianza para mañana." },
+        { "role": "value", "h": "Lo que SÍ es", "b": "Incansable en lo repetitivo, instantáneo en lo definido, perfecto en lo mecánico: responder, registrar, recordar, cuadrar. Ahí es imbatible, 24/7." },
+        { "role": "value", "h": "Lo que NO es", "b": "No tiene criterio para lo nuevo, no entiende contextos que no le enseñaste, no huele el problema raro. Para eso está tu gente — por mucho tiempo." },
+        { "role": "value", "h": "No se enferma, pero se desactualiza", "b": "Si subes precios y nadie le avisa, responde precios viejos con total seguridad. Necesita un dueño humano: 2 horas al mes." },
+        { "role": "value", "h": "No pide aumento, pero cuesta", "b": "$100-300 mensuales típicos en operación. Compáralo con el sueldo del trabajo que hace — no con cero. Contra cero no compite nada." },
+        { "role": "value", "h": "La contratación correcta", "b": "Como cualquier empleado: funciones definidas, periodo de prueba, un jefe (su dueño interno) y evaluación mensual. La metáfora sirve hasta el final." },
+        { "role": "stat", "h": "Mejor equipo = humanos en lo humano + sistema en lo mecánico.", "b": "Los que compiten con la máquina pierden. Los que la CONTRATAN, no." },
+        { "role": "cta", "h": "¿Listo para \"contratar\" al que no duerme?", "b": "Escríbenos qué puesto le darías. Armamos su descripción de puesto juntos." }
+      ],
+      "caption": {
+        "ig": "El \"empleado que nunca duerme\" — la metáfora completa, con letras chicas: imbatible en lo repetitivo definido, nulo en criterio para lo nuevo; no se enferma pero SE DESACTUALIZA (necesita un dueño humano de 2 hrs/mes); no pide aumento pero cuesta $100-300/mes — compáralo con el sueldo del trabajo que hace, no con cero. #ia #automatizacion #equipos #peru",
+        "tt": "El empleado que no duerme: la metáfora Y sus letras chicas 🤖 #ia #negocios #equipos",
+        "fb": "Nos encanta la metáfora del \"empleado que nunca duerme\" — por eso la contamos completa: también se desactualiza si nadie le avisa que subiste precios, y cuesta $100-300/mes (comparen contra el sueldo del trabajo que hace, no contra cero). ¿Qué puesto le darían en su empresa?"
+      },
+      "alt": "La metáfora del empleado incansable con sus limitaciones y costos reales."
+    },
+    {
+      "slug": "10-anos-en-10-slides",
+      "slides": [
+        { "role": "story", "plate": "cine-04-pizarra", "h": "¿En qué año vive tu empresa? La mayoría responde 2019.", "b": "10 años de procesos, en 8 láminas" },
+        { "role": "value", "h": "2016: papel con Excel", "b": "El pedido se anotaba, se tipeaba, se volvía a tipear en el otro sistema y se archivaba. Cuatro copias de la misma verdad, todas distintas." },
+        { "role": "value", "h": "2019: el WhatsApp caótico", "b": "Todo pasó al chat — pedidos, cobros, reclamos — sin sistema detrás. Más rápido para el cliente, más caos para adentro." },
+        { "role": "value", "h": "2021: las suscripciones acumuladas", "b": "Un software para cada cosa: agenda, facturación, marketing. Cinco mensualidades, cinco islas, cero puentes." },
+        { "role": "value", "h": "2024: la IA suelta", "b": "ChatGPT en cada escritorio, cada quien con sus trucos, resultados dispares y ningún proceso. Potencia enorme, dirección ninguna." },
+        { "role": "value", "h": "2026: los sistemas conectados", "b": "La IA dentro del proceso (no al costado), las herramientas con puentes, el dato tipeado una vez, el humano en lo humano." },
+        { "role": "value", "h": "Cada era resolvió algo y creó el problema siguiente", "b": "La de 2026 tiene su encanto: por primera vez, las piezas se HABLAN entre ellas." },
+        { "role": "stat", "h": "La mayoría de pymes peruanas vive entre 2019 y 2021.", "b": "WhatsApp caótico + suscripciones isla. El salto a 2026 es más corto de lo que parece." },
+        { "role": "cta", "h": "¿En qué año vive tu empresa?", "b": "Sin roche: respóndenos con el año. Y si es hora de saltar, escríbenos." }
+      ],
+      "caption": {
+        "ig": "¿En qué año vive tu empresa? 2016: papel con Excel (cuatro copias de la verdad, todas distintas) → 2019: WhatsApp caótico → 2021: cinco suscripciones que no se hablan → 2024: ChatGPT sin proceso → 2026: sistemas conectados. La mayoría de pymes peruanas vive entre 2019 y 2021 — y el salto es más corto de lo que parece. #evolucion #digital #pymes #peru",
+        "tt": "¿En qué año vive tu empresa? (la mayoría: 2019) 📅 #digital #pymes #negocios",
+        "fb": "Línea de tiempo honesta de los procesos empresariales: 2016 papel+Excel → 2019 WhatsApp caótico → 2021 cinco suscripciones isla → 2024 ChatGPT en cada escritorio sin proceso → 2026 sistemas conectados. Pregunta sin roche: ¿en qué año vive su empresa? Respondan con el número 👇"
+      },
+      "alt": "Línea de tiempo 2016-2026 de los procesos empresariales."
+    },
+    {
+      "slug": "ia-te-va-a-reemplazar",
+      "slides": [
+        { "role": "story", "plate": "cine-09-acuerdo", "h": "No te reemplaza la IA. Te reemplaza el competidor que la usa.", "b": "La verdad sin titular de miedo" },
+        { "role": "rehook", "h": "El titular vende pánico. La realidad es más útil.", "b": "Y más interesante para cualquiera dispuesto a moverse." },
+        { "role": "value", "h": "A quién SÍ reemplaza", "b": "A las TAREAS repetitivas — no a las personas. El puesto \"tipeador de facturas\" desaparece; la persona vale más en cualquier otra silla." },
+        { "role": "value", "h": "En empresas es igual", "b": "No te gana la IA: te gana el competidor que responde en 10 segundos lo que tú respondes en 2 días. Esa es la competencia real de 2026." },
+        { "role": "value", "h": "El movimiento defensivo (malo)", "b": "Negarla, prohibirla, esperar que pase. El Excel también fue \"una moda\" en 1995. Pregúntale a los contadores de tinta y papel." },
+        { "role": "value", "h": "El movimiento ofensivo (bueno)", "b": "Adoptarla donde duele: la tarea que tu equipo odia, el proceso donde esperan tus clientes. Empezar chico, medir en plata, escalar." },
+        { "role": "value", "h": "La conversación honesta con tu equipo", "b": "\"Automatizamos X para que tú hagas Y\" — con Y definido y mejor que X. El equipo que ve el plan coopera; el que huele amenaza, sabotea." },
+        { "role": "stat", "h": "En 5 años, todas las empresas usarán esto.", "b": "La única variable es si la tuya empezó cuando era ventaja o cuando ya era obligación." },
+        { "role": "cta", "h": "¿Ventaja u obligación?", "b": "Todavía puedes elegir la primera. Escríbenos." }
+      ],
+      "caption": {
+        "ig": "\"La IA te va a reemplazar\" — la verdad sin titular de miedo: reemplaza TAREAS, no personas. Y en empresas: no te gana la IA — te gana el competidor que responde en 10 segundos lo que tú respondes en 2 días. La conversación honesta con tu equipo: \"automatizamos X para que hagas Y\", con Y definido y mejor. En 5 años todos usarán esto; la variable es CUÁNDO empiezas tú. #ia #futurodeltrabajo #peru",
+        "tt": "No te reemplaza la IA. Te reemplaza quien la usa 🤝 #ia #trabajo #negocios",
+        "fb": "Sobre el miedo a la IA, la frase más precisa que conocemos: \"no te reemplaza la IA — te reemplaza alguien que la usa\". Y en empresas: no te gana la IA, te gana el competidor que responde en 10 segundos lo que tú respondes en 2 días. ¿Su empresa está en modo defensivo u ofensivo?"
+      },
+      "alt": "El reemplazo por IA sin alarmismo: tareas versus personas y movimientos defensivos u ofensivos."
+    },
+    {
+      "slug": "empresas-que-ya-operan-asi",
+      "slides": [
+        { "role": "story", "plate": "cine-05-almacen", "h": "El futuro ya llegó a tu rubro. Calladito, en la empresa de al lado.", "b": "Los adoptantes silenciosos del Perú" },
+        { "role": "rehook", "h": "No salen en las noticias de tecnología.", "b": "Salen en sus números. Ferreterías, clínicas, academias, distribuidoras." },
+        { "role": "value", "h": "La distribuidora que cuadra sola", "b": "900 pedidos/mes, conciliación nocturna, alertas de stock. El dueño tiene 58 años y no sabe programar. Sabe DECIDIR — que es lo que toca." },
+        { "role": "value", "h": "La clínica del un dígito", "b": "Recordatorios conversacionales + lista de espera automática. La administradora lo pidió al ver a su competencia hacerlo. La presión ya empezó." },
+        { "role": "value", "h": "La academia del 100%", "b": "Informes instantáneos 24/7 en campaña: la diferencia entre responder el lunes y responder al minuto es la diferencia entre 60% y 100% de consultas atendidas." },
+        { "role": "value", "h": "El patrón común", "b": "Ninguno \"se transformó digitalmente\". Automatizaron UN proceso que dolía, midieron en plata, siguieron con el siguiente. Sin consultores de diapositivas." },
+        { "role": "value", "h": "La ventaja compuesta", "b": "Mientras su competencia debate si la IA es moda, ellos responden más rápido, cobran más puntual y pierden menos citas. Mes tras mes." },
+        { "role": "stat", "h": "El adoptante silencioso de tu rubro ya empezó.", "b": "La pregunta es cuánto esperas para alcanzarlo." },
+        { "role": "cta", "h": "¿Tu competencia ya empezó?", "b": "Probablemente. Escríbenos antes de que la diferencia se note en tus números." }
+      ],
+      "caption": {
+        "ig": "El futuro no llega con conferencia de prensa: llega calladito, en la empresa de al lado. La distribuidora que cuadra sola (dueño de 58 años que no programa: DECIDE), la clínica del un dígito de inasistencias, la academia que atiende el 100% en campaña. El patrón: UN proceso que dolía, medido en plata, y el siguiente. Sin consultores de diapositivas. #casos #pymes #peru #automatizacion",
+        "tt": "Las empresas peruanas que ya operan así (calladitas) 🇵🇪 #pymes #peru #negocios",
+        "fb": "El futuro ya llegó a tu rubro — calladito, en la empresa de al lado: ferreterías, clínicas y academias peruanas que automatizaron UN proceso que dolía, midieron en plata y siguieron. Sin \"transformación digital\" ni consultores de diapositivas. ¿Quién es el adoptante silencioso de su rubro?"
+      },
+      "alt": "Casos de empresas peruanas tradicionales que adoptaron automatización sin ruido."
+    },
+    {
+      "slug": "construimos-no-asesoramos",
+      "slides": [
+        { "role": "story", "plate": "cine-03-cafe", "h": "El Perú está lleno de diagnósticos en PDF que nunca tocaron un proceso real", "b": "Por eso construimos, no solo asesoramos" },
+        { "role": "rehook", "h": "Duermen en carpetas, impecables.", "b": "Mientras el proceso que diagnosticaron sigue igual." },
+        { "role": "value", "h": "La consultoría clásica se detiene temprano", "b": "Diagnóstico → recomendaciones → factura → chau. La parte difícil (que funcione un martes 8am con datos sucios) queda de tarea." },
+        { "role": "value", "h": "Construir te obliga a la verdad", "b": "Las diapositivas aguantan cualquier promesa; el sistema en producción, no. Su única métrica es SI FUNCIONA. Nos gusta ese juez." },
+        { "role": "value", "h": "El criterio se demuestra construido", "b": "Cualquiera recomienda \"digitalizar procesos\". Nosotros mostramos el cotizador de 90 segundos y las conversaciones reales del agente. Evidencia sobre opinión." },
+        { "role": "value", "h": "Asesorar sí — con las manos en la masa", "b": "Qué automatizar primero, qué comprar (aunque no lo construyamos nosotros), cuándo NO hacer el proyecto. El consejo viene de construir." },
+        { "role": "value", "h": "Lo que significa para ti", "b": "Trabajas con gente que asume el riesgo de la ejecución: si el sistema no funciona, es NUESTRO problema. Pídele eso a un PDF." },
+        { "role": "stat", "h": "Entregables: sistemas corriendo. No diapositivas.", "b": "Todo el manifiesto, en cinco palabras." },
+        { "role": "cta", "h": "¿Tienes un diagnóstico durmiendo en una carpeta?", "b": "Tráelo. Lo convertimos en algo que funcione." }
+      ],
+      "caption": {
+        "ig": "El Perú está lleno de diagnósticos en PDF impecables que nunca tocaron un proceso real — duermen en carpetas mientras el proceso sigue igual. Por eso construimos: las diapositivas aguantan cualquier promesa, el sistema en producción no. Su única métrica es SI FUNCIONA un martes 8am con datos sucios. Entregables: sistemas corriendo, no diapositivas. #manifiesto #consultoria #software #peru",
+        "tt": "Diagnósticos en PDF vs sistemas corriendo 📄⚡ #software #consultoria #negocios",
+        "fb": "Nuestro manifiesto en cinco palabras: sistemas corriendo, no diapositivas. La consultoría clásica se detiene en el diagnóstico y deja la parte difícil de tarea — que funcione un martes 8am con datos sucios y gente apurada. ¿Tienen algún diagnóstico durmiendo en una carpeta? Tráiganlo: lo convertimos en algo que funcione."
+      },
+      "alt": "Manifiesto de Qolca: construir en vez de solo asesorar, con sistemas en producción como entregable."
+    }
+  ]
+}
