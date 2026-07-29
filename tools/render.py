@@ -19,6 +19,7 @@ is the center crop y 285..1635.
 from __future__ import annotations
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -41,6 +42,32 @@ def font(name: str, size: int, weight: int | None = None) -> ImageFont.FreeTypeF
         except OSError:
             pass
     return f
+
+
+# Arrows (U+2190-21FF) are deliberately NOT in here: Montserrat has "→" and the
+# cover copy uses it.
+EMOJI = re.compile(
+    "[\U0001F000-\U0001FAFF\U00002600-\U000027BF\U00002B00-\U00002BFF\U0000FE0F]"
+)
+
+
+def strip_emoji(text: str) -> str:
+    """Drop emoji before they reach the canvas.
+
+    Pillow draws with one font and no fallback, so an emoji in slide copy comes
+    out as a tofu box — 22 slides shipped that way before this existed. Captions
+    are untouched: those are pasted as text into Instagram, where emoji render.
+    """
+    if not text:
+        return text
+    out = re.sub(r"\s{2,}", " ", EMOJI.sub("", text))
+    # An emoji sitting just inside a bracket or before a comma leaves an orphan
+    # space behind: "(obvio 😄)" -> "(obvio )".
+    out = re.sub(r"\s+([)\]},.;:!?»])", r"\1", out)
+    # Same for a closing straight quote — but only when it IS closing, i.e. what
+    # follows is a space, punctuation or the end. An opening one keeps its space.
+    out = re.sub(r'\s+"(?=[\s.,;:!?)\]]|$)', '"', out)
+    return out.strip(" ·—-")
 
 
 def wrap(draw: ImageDraw.ImageDraw, text: str, fnt: ImageFont.FreeTypeFont, maxw: int) -> list[str]:
@@ -97,6 +124,7 @@ class Renderer:
     def __init__(self, brand_dir: Path):
         self.dir = brand_dir
         self.cfg = json.loads((brand_dir / "brand.json").read_text(encoding="utf-8"))
+        self._logo_src: Image.Image | None = None
         self.plates: dict[str, list[Path]] = {}
         for p in sorted((brand_dir / "plates_graded").glob("*.png")):
             fam = "cine" if p.stem.startswith("cine") else p.stem.rsplit("-", 1)[0].replace("-", "_")
@@ -128,8 +156,8 @@ class Renderer:
             s = f"{n + 1}/{total}"
             draw.text((CORE_X1 - draw.textlength(s, font=fnt), CORE_Y0 - 6), s, font=fnt, fill=sub_c)
 
-        h_text = slide.get("h", "")
-        b_text = slide.get("b", "")
+        h_text = strip_emoji(slide.get("h", ""))
+        b_text = strip_emoji(slide.get("b", ""))
 
         if slide.get("shot"):
             self._shot_slide(im, draw, slide, rc, disp, dw, body_f)
@@ -142,7 +170,7 @@ class Renderer:
         if role == "cover":
             y = CORE_Y0 + 30
             if slide.get("kicker"):
-                y = draw_kicker(draw, slide["kicker"], acc, y)
+                y = draw_kicker(draw, strip_emoji(slide["kicker"]), acc, y)
             fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (176, 64), 860, 700)
             top = y + (CORE_Y1 - 170 - y - hh) / 2
             draw_block(draw, lines, fnt, lh, top, text_c, shadow=shadow)
@@ -150,7 +178,7 @@ class Renderer:
                 bf = font(body_f, 40, 600)
                 blines = wrap(draw, b_text + "  →", bf, 800)
                 draw_block(draw, blines, bf, 52, CORE_Y1 - 60 - 52 * len(blines), acc)
-            self._tag(draw, sub_c)
+            self._tag(im, draw, sub_c)
 
         elif role in ("rehook", "stat", "story"):
             # first-slide stories are covers of their series → poster-size type
@@ -166,6 +194,10 @@ class Renderer:
             y = draw_block(draw, lines, fnt, lh, top, text_c, shadow=shadow)
             if blines:
                 draw_block(draw, blines, bf, 56, y + 40, sub_c, shadow=shadow)
+            # A "story" in slide 1 IS the cover of that post (s6 of every brand),
+            # so it gets the same footer lockup a `cover` role would.
+            if role == "story" and n == 0:
+                self._tag(im, draw, sub_c)
 
         elif role in ("value", "paper"):
             fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (88, 52), 860, 380)
@@ -185,8 +217,13 @@ class Renderer:
                 draw_block(draw, blines, bf, 58, y + 44, sub_c)
 
         elif role == "cta":
-            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (116, 60), 860, 480)
+            # The mark opens the closing slide; the cover carries the other one.
             top = CORE_Y0 + 90
+            lg = self._logo(102)
+            if lg is not None:
+                im.paste(lg, ((W - lg.width) // 2, CORE_Y0 + 4), lg)
+                top = CORE_Y0 + 4 + lg.height + 44
+            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (116, 60), 860, 430)
             y = draw_block(draw, lines, fnt, lh, top, text_c)
             if b_text:
                 bf = font(body_f, 44, 500)
@@ -220,12 +257,12 @@ class Renderer:
         # height is left, and then the three of them are centred as one block —
         # centring the image inside the leftover space instead leaves the caption
         # stranded mid-slide with a hole under it.
-        hf, hlines, hlh, hh = block_height(draw, slide.get("h", ""), disp, dw, (76, 46), 860, 250)
+        hf, hlines, hlh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, (76, 46), 860, 250)
 
         blines: list[str] = []
         bf = font(body_f, 38, 500)
         if slide.get("b"):
-            blines = wrap(draw, slide["b"], bf, 800)
+            blines = wrap(draw, strip_emoji(slide["b"]), bf, 800)
         bh = len(blines) * 50
         tail = gap_b + bh if blines else 0
 
@@ -282,18 +319,43 @@ class Renderer:
         im.paste(card, (cx0, cy0), mask)
         # headline + body under the card
         y = cy0 + card_h + 56
-        fnt, lines, lh, hh = block_height(draw, slide.get("h", ""), disp, dw, (84, 52), 860, 260)
+        fnt, lines, lh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, (84, 52), 860, 260)
         y = draw_block(draw, lines, fnt, lh, y, text_c)
         if slide.get("b"):
             bf = font(body_f, 40, 500)
-            blines = wrap(draw, slide["b"], bf, 800)
+            blines = wrap(draw, strip_emoji(slide["b"]), bf, 800)
             draw_block(draw, blines, bf, 54, y + 34, sub_c)
 
-    def _tag(self, draw, color):
+    def _logo(self, height: int) -> Image.Image | None:
+        """The brand mark at `height` px, or None if the brand has no logo file.
+
+        Each mark is the one the brand actually serves on its own site (see the
+        README), kept transparent and full-colour — all three read on their own
+        plates, so there is no light/dark variant to pick between.
+        """
+        name = self.cfg.get("logo")
+        if not name:
+            return None
+        if self._logo_src is None:
+            self._logo_src = Image.open(self.dir / name).convert("RGBA")
+        src = self._logo_src
+        return src.resize((max(1, round(src.width * height / src.height)), height), Image.LANCZOS)
+
+    def _tag(self, im, draw, color):
+        """Cover footer: the mark and the domain side by side, centred as one lockup."""
         fnt = font(self.cfg["body_font"], 32, 600)
         tag = self.cfg["tag"]
-        w = draw.textlength(tag, font=fnt)
-        draw.text(((W - w) / 2, 1560), tag, font=fnt, fill=color)
+        tw = draw.textlength(tag, font=fnt)
+        bbox = draw.textbbox((0, 0), tag, font=fnt)
+        cy = 1566
+        lg = self._logo(46)
+        if lg is None:
+            draw.text(((W - tw) / 2, cy - (bbox[3] + bbox[1]) / 2), tag, font=fnt, fill=color)
+            return
+        gap = 16
+        x = (W - (lg.width + gap + tw)) / 2
+        im.paste(lg, (round(x), round(cy - lg.height / 2)), lg)
+        draw.text((x + lg.width + gap, cy - (bbox[3] + bbox[1]) / 2), tag, font=fnt, fill=color)
 
     def render_post(self, post: dict, post_i: int, out: Path, pdf: bool) -> None:
         slides = post["slides"]

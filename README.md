@@ -54,6 +54,25 @@ npm run prepare-assets       # que la app vea las láminas nuevas
 
 El contenido es texto: editar un post = editar su JSON en `posts/` y re-renderizar.
 
+### El logo
+
+Cada carrusel lleva el logo de su marca en **dos láminas**: la portada (junto al
+dominio, abajo) y el cierre (arriba del titular). En las demás no aparece —
+repetirlo en las ocho lo vuelve ruido.
+
+Los tres son los que cada marca sirve en su propio sitio, bajados de ahí:
+
+| Marca | Origen | Qué es |
+|---|---|---|
+| ComeHomeTag | el `<svg>` de la cabecera de `comehometag.com` | arcos + persona + corazón, degradado violeta→rosa. El `/icon.svg` es el mismo pero sobre un cuadrado blanco que el favicon necesita y una lámina no |
+| Qolca | `qolca.org/logo.svg` | la red de nodos, degradado verde→azul |
+| Propaga | `propaga.pe/logo.png` | la doble P, degradado carmesí→naranja (el `.svg` pesa 2 MB porque envuelve un bitmap) |
+
+Están en `brands/<marca>/logo.png`, transparentes y a 600 px de alto, y se
+declaran con el campo `logo` de `brand.json`. Los tres tienen contraste
+suficiente sobre su propia paleta, así que no hay versión clara y versión
+oscura que elegir.
+
 ### Capturas de producto (Propaga)
 
 Los 60 carruseles de Propaga llevan una lámina con una **captura real del
