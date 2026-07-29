@@ -27,6 +27,11 @@ npm run dev        # http://localhost:3000
 - escribe `data/index.json` con títulos, captions, ALT y PDF de cada post,
   leyéndolos de `brands/<marca>/posts/<serie>.json`.
 
+`sharp` (el que genera las derivadas) está en `dependencies` y no en
+`devDependencies` a propósito: si un build no instalara las de desarrollo, el
+script seguiría corriendo pero copiaría los originales como vistas previas, y
+cada post pesaría diez veces más sin que nadie se dé cuenta.
+
 Todo eso está en `.gitignore`: se regenera solo. **Después de re-renderizar
 láminas con `tools/render.py`, corre `npm run prepare-assets`** (o simplemente
 `npm run dev`) para que la app vea los cambios.
@@ -39,8 +44,8 @@ láminas con `tools/render.py`, corre `npm run prepare-assets`** (o simplemente
    `posts-carrousels`. Vercel detecta Next.js solo.
 2. Deja todo por defecto: Root Directory `/`, Build Command `npm run build`,
    Output `.next`. **No agregues ninguna variable de entorno.**
-3. Deploy. La primera compilación tarda ~5–8 min (genera las 2 631 imágenes
-   derivadas); las siguientes reutilizan lo que no cambió.
+3. Deploy. La compilación tarda ~2 min desde cero: genera las 2 631 imágenes
+   derivadas y prerenderiza las 189 páginas (medido en un clon limpio).
 
 ### Un dominio propio
 
@@ -51,9 +56,9 @@ que funciona igual en `algo.vercel.app`, en `carruseles.tudominio.com` o en
 
 ### Detalles que conviene saber
 
-- **Cuenta personal, no organización.** El plan Hobby de Vercel no conecta
-  repositorios que pertenecen a una organización de GitHub. Si `elchale` es una
-  org, hay que mover el repo a la cuenta personal o usar un equipo Pro.
+- **Cuenta personal.** El plan Hobby de Vercel no conecta repositorios de una
+  organización de GitHub. `elchale` es una cuenta personal, así que entra sin
+  problema — pero si algún día mueves el repo a una org, hay que pasar a Pro.
 - **Peso.** El deploy sube ~490 MB de fotos estáticas (439 MB de originales +
   47 MB de previews). Eso está bien: el límite de 100 MB de Vercel aplica solo a
   los deploys hechos con `vercel deploy` desde la CLI, no a los que salen de Git.

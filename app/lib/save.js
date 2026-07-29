@@ -18,7 +18,26 @@
  * downloads, which is honest about where the files go.
  */
 
-const cache = new Map() // url-list key -> Promise<File[]>
+/* url-list key -> Promise<File[]>. Capped, and it has to be: each entry holds a
+ * whole carousel in memory (~1,2 MB) and every post prefetches two of them. Browsing
+ * thirty posts in one sitting would otherwise pile up ~70 MB of blobs and get the tab
+ * killed on a phone. Six keeps the current post and the previous one warm. */
+const MAX_CACHED = 6
+const cache = new Map()
+
+function remember(key, promise) {
+  cache.set(key, promise)
+  while (cache.size > MAX_CACHED) cache.delete(cache.keys().next().value)
+  return promise
+}
+
+function touch(key) {
+  // Map iterates in insertion order, so re-inserting marks the entry as most recent.
+  const value = cache.get(key)
+  cache.delete(key)
+  cache.set(key, value)
+  return value
+}
 
 export function canShareFiles() {
   if (typeof navigator === 'undefined' || !navigator.share || !navigator.canShare) return false
@@ -59,8 +78,8 @@ async function toFiles(urls) {
 /** Warm the cache so the next tap can call share() synchronously. */
 export function prefetch(urls) {
   const key = urls.join('|')
-  if (!cache.has(key)) cache.set(key, toFiles(urls).catch((e) => { cache.delete(key); throw e }))
-  return cache.get(key)
+  if (cache.has(key)) return touch(key)
+  return remember(key, toFiles(urls).catch((e) => { cache.delete(key); throw e }))
 }
 
 export function isReady(urls) {

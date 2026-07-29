@@ -37,11 +37,27 @@ const BRAND_CHROME = {
   propaga: { accent: '#ff7a1f', accent2: '#ffc266', label: 'Marketing para negocios' },
 }
 
-/* Series folders are named s<n>-<tema>. The number is the intended posting order and
- * the tema is the human label — no second source of truth needed. */
-function seriesLabel(id) {
+/* The best name for a series is the one already written on its covers: every post in
+ * a series carries the same kicker ("ANTES / DESPUÉS", "LA VIDA DEL QUE PUBLICA").
+ * The folder slug is the fallback — it survives renames but loses the accents, so
+ * s6-vision would read "Vision". Two series have no kicker and fall back. */
+/* Folder slugs are ASCII, so anything that needs a tilde has to be spelled out here.
+ * Only series without a kicker ever reach this list. */
+const SLUG_LABELS = { 's6-vision': 'Visión' }
+
+function slugLabel(id) {
+  if (SLUG_LABELS[id]) return SLUG_LABELS[id]
   const tema = id.replace(/^s\d+-/, '').replace(/-/g, ' ')
   return tema.charAt(0).toUpperCase() + tema.slice(1)
+}
+
+function seriesLabel(id, postsBySlug) {
+  const kickers = new Set(Object.values(postsBySlug || {}).map((p) => p.slides?.[0]?.kicker || ''))
+  if (kickers.size === 1) {
+    const only = [...kickers][0].trim()
+    if (only) return only.charAt(0).toUpperCase() + only.slice(1).toLowerCase()
+  }
+  return slugLabel(id)
 }
 
 let sharp = null
@@ -191,9 +207,11 @@ for (const brandId of listDirs(BRANDS_DIR)) {
     const seriesDir = path.join(outDir, seriesId)
     const slugs = listDirs(seriesDir)
     if (!slugs.length) continue
-    brand.series.push({ id: seriesId, label: seriesLabel(seriesId), count: slugs.length })
 
     const copyBySlug = copyBySeries[seriesId] || {}
+    const label = seriesLabel(seriesId, copyBySlug)
+    brand.series.push({ id: seriesId, label, count: slugs.length })
+
     const entries = []
 
     for (const slug of slugs) {
@@ -226,7 +244,7 @@ for (const brandId of listDirs(BRANDS_DIR)) {
         id: `${brandId}/${seriesId}/${slug}`,
         brand: brandId,
         series: seriesId,
-        seriesLabel: seriesLabel(seriesId),
+        seriesLabel: label,
         slug,
         order: copy.order ?? 999,
         title: cover.h || slug.replace(/-/g, ' '),
