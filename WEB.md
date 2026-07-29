@@ -43,7 +43,8 @@ láminas con `tools/render.py`, corre `npm run prepare-assets`** (o simplemente
 1. En [vercel.com/new](https://vercel.com/new) importa el repositorio
    `posts-carrousels`. Vercel detecta Next.js solo.
 2. Deja todo por defecto: Root Directory `/`, Build Command `npm run build`,
-   Output `.next`. **No agregues ninguna variable de entorno.**
+   Output `.next`. La única variable es `DATABASE_URL`, y es opcional — mira
+   *Conectar la base de datos* más abajo.
 3. Deploy. La compilación tarda ~2 min desde cero: genera las 2 631 imágenes
    derivadas y prerenderiza las 189 páginas (medido en un clon limpio).
 
@@ -115,12 +116,55 @@ Si te pasa, en `⋯` → **Orden al guardar** cámbialo a invertido.
 
 ## Dónde se guarda el avance
 
-En el `localStorage` del navegador, con la llave `carruseles.v1`. Es por
-dispositivo: si publicas desde el celular, el avance no aparece en la laptop.
+En **dos sitios a la vez**: el navegador y Postgres.
 
-**Inicio → ⇄ (Respaldo)** copia todo el avance como texto y lo pega en otro
-navegador. Al restaurar se combinan los dos avances y se queda con la marca más
-reciente de cada post — restaurar un respaldo viejo nunca despublica nada.
+El navegador (`localStorage`, llave `carruseles.v1`) es la copia rápida — marcar
+funciona al instante y sin señal. Postgres es la copia que importa: el avance te
+sigue entre celular y laptop, y no lo borra nadie.
+
+Hacía falta porque `localStorage` solo no aguanta el uso real:
+
+- **cada URL de deploy de Vercel es un dominio distinto**, con su propio almacén.
+  Si entras desde el panel de Vercel en vez del dominio de producción, cada
+  visita es un sitio nuevo y vacío;
+- en **pestaña privada** de Safari no se puede escribir: el avance vive en memoria
+  y muere al recargar;
+- Safari **borra el almacenamiento de un sitio a los 7 días** sin abrirlo.
+
+La sincronización es silenciosa: baja al abrir la app y al volver a la pestaña,
+sube 1,2 s después de cada cambio. Si el servidor no contesta, lo marcado queda
+en el navegador y se reintenta — marcar nunca falla por estar sin señal.
+
+**La fusión es por marca de tiempo más reciente, campo por campo.** Nunca borra:
+dos dispositivos que marcaron cosas distintas terminan con la unión de ambas, y
+el que estuvo sin señal no pisa lo del otro al reconectar. Es la misma regla que
+usa el respaldo de texto.
+
+### Conectar la base de datos
+
+Una sola variable, y es **opcional**: sin ella la app funciona igual, guardando
+solo en el navegador (y `/respaldo` te lo dice en pantalla, con un punto gris —
+no finge que guardó algo).
+
+1. `.env.prod` en la raíz tiene la línea lista. **No está en el repo** (`.env*`
+   está en `.gitignore`): es una credencial.
+2. En Vercel: **Settings → Environment Variables**, nombre `DATABASE_URL`, valor
+   el de ese archivo. Marca Production, Preview y Development.
+3. Vuelve a desplegar.
+
+La tabla `carousel_state` se crea sola la primera vez que la app la usa. No hay
+migraciones que correr.
+
+Para probar en la laptop contra la misma base, copia `.env.example` a
+`.env.local` y pon el string ahí.
+
+> **Ojo:** la app no tiene contraseña. Cualquiera con el enlace puede ver y
+> marcar. Para un dominio propio no es grave (nadie lo va a adivinar), pero si
+> quieres cerrarlo: Vercel → Settings → Deployment Protection.
+
+**Inicio → ⇄ (Respaldo)** sigue estando, y sigue siendo útil: copia el avance
+como texto para pegarlo en otro navegador, y no depende de que el servidor esté
+arriba. Ahí también ves si estás guardando en el servidor o solo aquí.
 
 ---
 
@@ -129,6 +173,9 @@ reciente de cada post — restaurar un respaldo viejo nunca despublica nada.
 ```
 app/
   layout.jsx  page.jsx            inicio
+  api/state/route.js              leer/fusionar/borrar el avance en Postgres
+  lib/db.js                       Neon + la fusión por fecha más reciente
+  components/Sync.jsx             baja al abrir, sube al marcar
   [brand]/page.jsx                grilla de la marca
   [brand]/[series]/[slug]/page.jsx  el post
   respaldo/page.jsx               copiar / restaurar el avance

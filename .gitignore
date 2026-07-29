@@ -18,6 +18,13 @@
 __pycache__/
 *.pyc
 
+# --- credenciales: NUNCA al repo -------------------------------------------
+# .env.prod trae el string de conexión de Neon. El repo es público-adyacente
+# (GitHub), así que cualquier .env queda fuera, sin excepciones.
+.env
+.env.*
+!.env.example
+
 # --- os / editor noise ---
 .DS_Store
 Thumbs.db

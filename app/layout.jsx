@@ -1,4 +1,5 @@
 import './globals.css'
+import Sync from './components/Sync'
 
 export const metadata = {
   title: 'Carruseles',
@@ -24,7 +25,10 @@ export const viewport = {
 export default function RootLayout({ children }) {
   return (
     <html lang="es">
-      <body>{children}</body>
+      <body>
+        <Sync />
+        {children}
+      </body>
     </html>
   )
 }

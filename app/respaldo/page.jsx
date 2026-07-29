@@ -5,13 +5,25 @@ import { useState } from 'react'
 import { Back, Copy } from '../components/Icons'
 import { useToast } from '../components/Toast'
 import { copyText } from '../lib/save'
-import { clearState, exportState, importState, isPublished, useMarks } from '../lib/store'
+import { clearState, exportState, importState, isPublished, useMarks, useSync } from '../lib/store'
+
+const SYNC_TEXT = {
+  synced: ['var(--done)', 'Guardado en el servidor', 'Tu avance te sigue entre celular y laptop.'],
+  syncing: ['var(--dim)', 'Guardando…', 'Sincronizando con el servidor.'],
+  error: ['var(--accent-2)', 'No se pudo guardar en el servidor',
+    'Lo marcado quedó en este navegador y se reintenta al próximo cambio.'],
+  local: ['var(--dim)', 'Solo en este navegador',
+    'No hay base de datos conectada. Safari puede borrarlo a los 7 días sin abrir la app — usa el respaldo de abajo.'],
+  idle: ['var(--dim)', 'Comprobando…', ''],
+}
 
 export default function Respaldo() {
   const marks = useMarks()
+  const sync = useSync()
   const [paste, setPaste] = useState('')
   const [error, setError] = useState(null)
   const [toast, showToast] = useToast()
+  const [color, title, detail] = SYNC_TEXT[sync.status] || SYNC_TEXT.idle
 
   const ids = Object.keys(marks.posts)
   const published = ids.filter((id) => isPublished(marks.posts[id])).length
@@ -31,9 +43,13 @@ export default function Respaldo() {
     }
   }
 
-  const onClear = () => {
-    if (!window.confirm('Se borra todo lo marcado como descargado y publicado. ¿Seguro?')) return
+  const onClear = async () => {
+    if (!window.confirm('Se borra todo lo marcado como descargado y publicado, aquí y en el servidor. ¿Seguro?')) return
     clearState()
+    // Sin esto el servidor lo devolvería en la próxima sincronización.
+    try {
+      await fetch('/api/state', { method: 'DELETE' })
+    } catch { /* el borrado local ya se hizo */ }
     showToast('Avance borrado')
   }
 
@@ -48,9 +64,24 @@ export default function Respaldo() {
 
       <main className="wrap list">
         <section className="section">
-          <p style={{ color: 'var(--dim)', fontSize: 14, lineHeight: 1.5 }}>
-            Lo que marcas como descargado y publicado se guarda <b style={{ color: 'var(--text)' }}>solo en este
-            navegador</b>. No hay cuenta ni servidor. Para pasarlo a otro celular, copia el respaldo aquí y pégalo allá.
+          <div className="resume" style={{ alignItems: 'flex-start', gap: 11 }}>
+            <span style={{
+              width: 9, height: 9, borderRadius: '50%', background: color,
+              flex: '0 0 auto', marginTop: 5,
+            }} />
+            <div className="resume__body">
+              <div style={{ fontSize: 14.5, fontWeight: 620 }}>{title}</div>
+              {detail && (
+                <div style={{ fontSize: 12.5, color: 'var(--dim)', lineHeight: 1.45, marginTop: 3 }}>{detail}</div>
+              )}
+              {sync.status === 'error' && sync.error && (
+                <div className="mono" style={{ fontSize: 11, color: 'var(--faint)', marginTop: 6 }}>{sync.error}</div>
+              )}
+            </div>
+          </div>
+          <p style={{ color: 'var(--dim)', fontSize: 14, lineHeight: 1.5, marginTop: 16 }}>
+            El respaldo de abajo sirve igual: es texto que puedes pegar en otro navegador, y no depende de que el
+            servidor esté arriba.
           </p>
 
           <div className="resume" style={{ marginTop: 16 }}>

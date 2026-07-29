@@ -116,28 +116,71 @@ export function exportState() {
   return JSON.stringify(get(), null, 0)
 }
 
+/**
+ * Fusiona un estado externo con el de aquí, quedándose con la marca de tiempo más
+ * reciente de cada campo. Es la única forma de combinar que nunca pierde nada:
+ * restaurar un respaldo viejo no despublica, y el servidor no pisa lo que este
+ * celular marcó estando sin señal. Devuelve true si cambió algo.
+ */
+function mergeInto(posts) {
+  const merged = { ...get().posts }
+  let changed = false
+  for (const [id, entry] of Object.entries(posts || {})) {
+    if (!entry || typeof entry !== 'object') continue
+    const cur = merged[id] || {}
+    const next = { ...cur }
+    for (const [k, v] of Object.entries(entry)) {
+      if (typeof v === 'number' && v > (cur[k] || 0)) { next[k] = v; changed = true }
+    }
+    merged[id] = next
+  }
+  if (changed) commit({ v: 1, posts: merged })
+  return changed
+}
+
 export function importState(text) {
   const parsed = JSON.parse(text)
   if (!parsed || typeof parsed !== 'object' || typeof parsed.posts !== 'object') {
     throw new Error('Ese texto no es un respaldo válido.')
   }
-  // Merge, keeping whichever timestamp is newer: restoring an old backup on a phone
-  // that is already ahead must not un-publish anything.
-  const merged = { ...get().posts }
-  for (const [id, entry] of Object.entries(parsed.posts)) {
-    const cur = merged[id] || {}
-    const next = { ...cur }
-    for (const [k, v] of Object.entries(entry)) {
-      if (typeof v === 'number' && v > (cur[k] || 0)) next[k] = v
-    }
-    merged[id] = next
-  }
-  commit({ v: 1, posts: merged })
+  mergeInto(parsed.posts)
   return Object.keys(parsed.posts).length
+}
+
+/** Lo que trae el servidor al abrir la app. */
+export function mergeRemote(posts) {
+  return mergeInto(posts)
+}
+
+export function snapshot() {
+  return get()
 }
 
 export function clearState() {
   commit({ v: 1, posts: {} })
+}
+
+/* ---- estado de la sincronización ------------------------------------------
+ * Sirve para poder DECIRLO en pantalla. Un icono que dice "guardado" cuando en
+ * realidad no hay servidor es peor que no tener icono: te enteras el día que
+ * cambias de celular. */
+
+let syncState = { status: 'idle', configured: null, error: null, at: 0 }
+const syncListeners = new Set()
+
+export function setSync(patch) {
+  syncState = { ...syncState, ...patch }
+  syncListeners.forEach((l) => l())
+}
+
+const SYNC_SERVER = { status: 'idle', configured: null, error: null, at: 0 }
+
+export function useSync() {
+  return useSyncExternalStore(
+    (l) => { syncListeners.add(l); return () => syncListeners.delete(l) },
+    () => syncState,
+    () => SYNC_SERVER,
+  )
 }
 
 /* ---- preferences ----------------------------------------------------------
