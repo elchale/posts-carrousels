@@ -77,9 +77,20 @@ oscura que elegir.
 
 Los 60 carruseles de Propaga llevan una lámina con una **captura real del
 producto**, sacada de las mismas que salen en propaga.pe. `tools/shots.py` las
-recorta panel por panel — una tarjeta de resultados, tres burbujas de un chat,
-cuatro filas de contactos — porque un tablero completo metido en una lámina no
-se lee en el celular. En el JSON del post es un campo `shot`:
+recorta, y hay dos tipos según lo que la lámina tenga que decir:
+
+- **Completas** (41 posts) — la pantalla entera, con barra de navegación. A
+  tamaño de lámina nadie lee las etiquetas; se reconoce la forma de un producto
+  real: dos paneles, un post con su foto, avatares, contadores sin leer. Van
+  donde el mensaje es *todo en un solo lugar*.
+- **De detalle** (19 posts) — un panel a escala casi nativa, para leerse: las
+  dos tarjetas de resultados, la tabla por ciudad, cuatro filas de contactos.
+  Van donde el mensaje es una cifra o una respuesta concreta.
+
+El error a evitar es recortar de más: la pantalla de comentarios recortada al
+texto pierde la **foto del post**, que es justo lo que la hace reconocible.
+
+En el JSON del post es un campo `shot`:
 
 ```json
 { "role": "stat", "shot": "shot-chat.png",
