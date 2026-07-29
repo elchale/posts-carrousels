@@ -22,7 +22,7 @@ import json
 import sys
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 ROOT = Path(__file__).resolve().parents[1]
 BRANDS = ROOT / "brands"
@@ -131,6 +131,10 @@ class Renderer:
         h_text = slide.get("h", "")
         b_text = slide.get("b", "")
 
+        if slide.get("shot"):
+            self._shot_slide(im, draw, slide, rc, disp, dw, body_f)
+            return im
+
         if slide.get("img"):
             self._product_slide(im, draw, slide, rc, disp, dw, body_f)
             return im
@@ -198,6 +202,66 @@ class Renderer:
         else:
             raise ValueError(f"unknown role {role}")
         return im
+
+    def _shot_slide(self, im, draw, slide, rc, disp, dw, body_f):
+        """Headline, then a real screenshot of the product, then one line of copy.
+
+        Different from `_product_slide` on purpose. A product photo reads at any
+        size; a screenshot does not — interface text is ~20px in the source, so the
+        crop gets nearly the full core width and whatever height the copy leaves it.
+        The crops in brands/propaga/product/ are cut to suit (tools/shots.py): one
+        panel each, never a whole dashboard.
+        """
+        text_c, sub_c = rc["text"], rc["sub"]
+        pad = 18            # white margin between the card edge and the screenshot
+        gap_h, gap_b = 44, 40
+
+        # Headline and caption are measured first; the screenshot takes whatever
+        # height is left, and then the three of them are centred as one block —
+        # centring the image inside the leftover space instead leaves the caption
+        # stranded mid-slide with a hole under it.
+        hf, hlines, hlh, hh = block_height(draw, slide.get("h", ""), disp, dw, (76, 46), 860, 250)
+
+        blines: list[str] = []
+        bf = font(body_f, 38, 500)
+        if slide.get("b"):
+            blines = wrap(draw, slide["b"], bf, 800)
+        bh = len(blines) * 50
+        tail = gap_b + bh if blines else 0
+
+        max_img_h = (CORE_Y1 - CORE_Y0 - 20) - hh - gap_h - tail - 2 * pad
+        shot = Image.open(self.dir / "product" / slide["shot"]).convert("RGB")
+        scale = min((888 - 2 * pad) / shot.width, max_img_h / shot.height)
+        sw, sh = max(1, round(shot.width * scale)), max(1, round(shot.height * scale))
+        shot = shot.resize((sw, sh), Image.LANCZOS)
+
+        card_w, card_h = sw + 2 * pad, sh + 2 * pad
+        cx0 = (W - card_w) // 2
+        block_h = hh + gap_h + card_h + tail
+        y = CORE_Y0 + max(10, (CORE_Y1 - CORE_Y0 - block_h) // 2)
+        cy0 = y + hh + gap_h
+
+        draw_block(draw, hlines, hf, hlh, y, text_c)
+
+        # soft drop shadow so a white panel still separates from a light plate
+        shadow = Image.new("L", (W, H), 0)
+        ImageDraw.Draw(shadow).rounded_rectangle(
+            (cx0 + 4, cy0 + 14, cx0 + card_w - 4, cy0 + card_h + 12), 26, fill=105)
+        im.paste(Image.new("RGB", (W, H), (26, 16, 10)),
+                 (0, 0), shadow.filter(ImageFilter.GaussianBlur(18)))
+
+        card = Image.new("RGB", (card_w, card_h), "#ffffff")
+        clip = Image.new("L", (sw, sh), 0)
+        ImageDraw.Draw(clip).rounded_rectangle((0, 0, sw - 1, sh - 1), 10, fill=255)
+        card.paste(shot, (pad, pad), clip)
+        mask = Image.new("L", (card_w, card_h), 0)
+        ImageDraw.Draw(mask).rounded_rectangle((0, 0, card_w - 1, card_h - 1), 24, fill=255)
+        im.paste(card, (cx0, cy0), mask)
+        draw.rounded_rectangle((cx0, cy0, cx0 + card_w - 1, cy0 + card_h - 1), 24,
+                               outline="#e2ddd6", width=2)
+
+        if blines:
+            draw_block(draw, blines, bf, 50, cy0 + card_h + gap_b, sub_c)
 
     def _product_slide(self, im, draw, slide, rc, disp, dw, body_f):
         """White rounded card with the product photo + headline + body below."""

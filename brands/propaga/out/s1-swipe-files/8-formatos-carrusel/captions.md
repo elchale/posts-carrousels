@@ -1,6 +1,6 @@
 # 8 tipos de carrusel que funcionan
 
-`propaga` · `s1-swipe-files` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`propaga` · `s1-swipe-files` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:

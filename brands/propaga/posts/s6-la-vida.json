@@ -31,6 +31,12 @@
         },
         {
           "role": "stat",
+          "shot": "shot-comentarios.png",
+          "h": "47 vistas. 6 comentarios. Contéstalos.",
+          "b": "Los comentarios de todas tus publicaciones, juntos en un panel."
+        },
+        {
+          "role": "stat",
           "h": "Publica lo real. Propaga responde lo que traiga.",
           "b": "Los 40 comentarios se vuelven DMs — y Propaga junta tus chats de todas tus redes en una sola bandeja y los responde por ti. Gratis para empezar."
         },
@@ -72,6 +78,12 @@
           "role": "value",
           "h": "Y sobre el sobrino...",
           "b": "\"¡Excelente! Si el resultado te funciona, adelante — aquí estoy si algún día necesitas otra cosa.\" Elegante, cierto, y deja la puerta abierta. El tiempo hace el resto."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-chat.png",
+          "h": "Deja de escribir lo mismo mil veces.",
+          "b": "Plantillas y respuestas automáticas contestan lo de siempre por ti."
         },
         {
           "role": "stat",
@@ -120,6 +132,12 @@
         },
         {
           "role": "stat",
+          "shot": "shot-lista.png",
+          "h": "El primero llega así, sin aviso.",
+          "b": "Un nombre que no conoces, preguntando por una talla, a las 11 de la noche."
+        },
+        {
+          "role": "stat",
           "h": "El próximo desconocido no debe esperar.",
           "b": "\"¿Tienes en talla M?\" merece respuesta al minuto. Para eso hicimos Propaga: junta tus chats de todas tus redes en una sola bandeja y responde por ti. Gratis para empezar."
         },
@@ -161,6 +179,12 @@
           "role": "value",
           "h": "La única forma de fallar es parar",
           "b": "La cuenta de 12 que publica 6 meses llega a cientos reales. La que se avergüenza y para, se queda en 12 para siempre. El roche es el único enemigo de verdad."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-movil.png",
+          "h": "Con 12 seguidores también te escriben.",
+          "b": "Y ese mensaje merece la misma respuesta que el número mil."
         },
         {
           "role": "stat",
@@ -209,6 +233,12 @@
         },
         {
           "role": "stat",
+          "shot": "shot-chat.png",
+          "h": "Las 11 pm ya no son tu turno.",
+          "b": "La IA responde el \"¿cuánto está?\" mientras tú duermes."
+        },
+        {
+          "role": "stat",
           "h": "El salvavidas 4 se llama Propaga.",
           "b": "Los \"¿precio?\" de las 11pm se responden solos: agentes de IA + los chats de todas tus marcas en una sola bandeja. Gratis para empezar."
         },
@@ -250,6 +280,12 @@
           "role": "value",
           "h": "El dato para la reunión",
           "b": "El negocio que vende por redes lo hace con 500 a 2,000 vistas CONSTANTES de la gente correcta — no con un millón de vistas de cualquiera. Puntería antes que lotería."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-respuestas.png",
+          "h": "Esto sí se puede medir.",
+          "b": "432 personas contestaron y cada respuesta costó $0.48. Eso es estrategia."
         },
         {
           "role": "stat",
@@ -304,6 +340,12 @@
         },
         {
           "role": "stat",
+          "shot": "shot-leads.png",
+          "h": "De 2 pedidos a una lista real.",
+          "b": "Cada persona que compró queda guardada, con su teléfono y su red."
+        },
+        {
+          "role": "stat",
           "h": "Los pedidos por DM también crecen.",
           "b": "De 2 pedidos a 50: Propaga junta tus chats de todas tus redes en una sola bandeja y los responde por ti. Para eso la hicimos. Gratis para empezar."
         },
@@ -345,6 +387,12 @@
           "role": "value",
           "h": "La matemática del negocio chico",
           "b": "500 vistas × 2% de interesados = 10 conversaciones × 30% = 3 ventas. Un post \"fracasado\" puede pagar la semana. El negocio vive de porcentajes, no de aplausos."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-lista.png",
+          "h": "De 500 vistas salen conversaciones.",
+          "b": "Diez mensajes ordenados en una bandeja. De ahí salen las tres ventas."
         },
         {
           "role": "stat",
@@ -394,6 +442,12 @@
         },
         {
           "role": "stat",
+          "shot": "shot-canales.png",
+          "h": "Aguantar es más fácil acompañado.",
+          "b": "Tus canales conectados y respondiendo, aunque tú tengas una mala semana."
+        },
+        {
+          "role": "stat",
           "h": "Aguantar el año 1 es más fácil con Propaga.",
           "b": "Cada mensaje que llegue se responde solo — todos tus chats en una sola bandeja, con agentes de IA — y tú guardas la energía para crear. Gratis para empezar."
         },
@@ -437,6 +491,12 @@
           "plate": "cine-03-abierto",
           "h": "Porque cada post es voltear el cartel de ABIERTO.",
           "b": "Aunque ese día no entre nadie: el negocio que publica, existe."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-chat.png",
+          "h": "Por este mensaje sigues publicando.",
+          "b": "\"Vi tu página\" — y esta vez alguien lo respondió a tiempo."
         },
         {
           "role": "stat",

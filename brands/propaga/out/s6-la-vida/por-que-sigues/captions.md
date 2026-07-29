@@ -1,6 +1,6 @@
 # Por qué sigues publicando
 
-`propaga` · `s6-la-vida` · **6 láminas** — sube SIEMPRE en orden 01 → 06
+`propaga` · `s6-la-vida` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:

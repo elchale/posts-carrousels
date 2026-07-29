@@ -13,6 +13,11 @@
 /public/icon-512.png
 /.vercel/
 
+# --- debug output from tools/shots.py --sheet ---
+/tools/_shots-sheet.png
+__pycache__/
+*.pyc
+
 # --- os / editor noise ---
 .DS_Store
 Thumbs.db

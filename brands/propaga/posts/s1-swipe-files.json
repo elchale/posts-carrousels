@@ -5,13 +5,51 @@
     {
       "slug": "30-ideas-mes",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "30 ideas de contenido para tu negocio", "b": "Una idea por día, para cualquier rubro" },
-        { "role": "rehook", "h": "¿No sabes qué publicar? Se acabó.", "b": "Sirven para bodegas, tiendas, clínicas, restaurantes. Cualquier negocio." },
-        { "role": "value", "n": "1-10", "h": "Muestra tu negocio por dentro", "b": "1 Cómo haces tu producto · 2 Un día en tu negocio · 3 Tu espacio de trabajo · 4 El antes y después de un pedido · 5 Tu herramienta favorita · 6 El error de la semana · 7 Por qué empezaste · 8 Tu primer local (foto vieja) · 9 Tu equipo · 10 Lo que aprendiste este año." },
-        { "role": "value", "n": "11-20", "h": "Enseña y da confianza", "b": "11 El error más común de tus clientes · 12 Cómo elegir bien tu producto · 13 Tres mitos de tu rubro · 14 \"Lo barato sale caro\", explicado · 15 La reseña de un cliente (captura) · 16 Un antes y después real · 17 El pedido más raro · 18 Tu cliente más antiguo · 19 Un caso con números · 20 Lo que dicen vs. lo que es." },
-        { "role": "value", "n": "21-30", "h": "Haz que participen", "b": "21 ¿Esto o esto? · 22 Adivina el precio · 23 Una pregunta de tu rubro · 24 Encuesta en historias · 25 \"Etiqueta a quien necesita esto\" · 26 Que voten por el favorito · 27 Lo que nadie sabe de tu rubro · 28 Tu rutina de apertura · 29 Qué preguntarle a un proveedor · 30 Mini glosario de tu rubro." },
-        { "role": "stat", "h": "Más contenido = más gente escribiéndote.", "b": "Y cuando te escriban, Propaga responde por ti: tus chats de WhatsApp, Instagram, Facebook y TikTok en una sola bandeja, con respuestas automáticas. Gratis para empezar." },
-        { "role": "cta", "h": "Guarda estas 30 ideas.", "b": "Y deja que Propaga responda tus mensajes: propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "30 ideas de contenido para tu negocio",
+          "b": "Una idea por día, para cualquier rubro"
+        },
+        {
+          "role": "rehook",
+          "h": "¿No sabes qué publicar? Se acabó.",
+          "b": "Sirven para bodegas, tiendas, clínicas, restaurantes. Cualquier negocio."
+        },
+        {
+          "role": "value",
+          "n": "1-10",
+          "h": "Muestra tu negocio por dentro",
+          "b": "1 Cómo haces tu producto · 2 Un día en tu negocio · 3 Tu espacio de trabajo · 4 El antes y después de un pedido · 5 Tu herramienta favorita · 6 El error de la semana · 7 Por qué empezaste · 8 Tu primer local (foto vieja) · 9 Tu equipo · 10 Lo que aprendiste este año."
+        },
+        {
+          "role": "value",
+          "n": "11-20",
+          "h": "Enseña y da confianza",
+          "b": "11 El error más común de tus clientes · 12 Cómo elegir bien tu producto · 13 Tres mitos de tu rubro · 14 \"Lo barato sale caro\", explicado · 15 La reseña de un cliente (captura) · 16 Un antes y después real · 17 El pedido más raro · 18 Tu cliente más antiguo · 19 Un caso con números · 20 Lo que dicen vs. lo que es."
+        },
+        {
+          "role": "value",
+          "n": "21-30",
+          "h": "Haz que participen",
+          "b": "21 ¿Esto o esto? · 22 Adivina el precio · 23 Una pregunta de tu rubro · 24 Encuesta en historias · 25 \"Etiqueta a quien necesita esto\" · 26 Que voten por el favorito · 27 Lo que nadie sabe de tu rubro · 28 Tu rutina de apertura · 29 Qué preguntarle a un proveedor · 30 Mini glosario de tu rubro."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-lista.png",
+          "h": "Publicas más, te escriben más.",
+          "b": "Los mensajes de WhatsApp, Instagram y Facebook llegan a una sola bandeja."
+        },
+        {
+          "role": "stat",
+          "h": "Más contenido = más gente escribiéndote.",
+          "b": "Y cuando te escriban, Propaga responde por ti: tus chats de WhatsApp, Instagram, Facebook y TikTok en una sola bandeja, con respuestas automáticas. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda estas 30 ideas.",
+          "b": "Y deja que Propaga responda tus mensajes: propaga.pe"
+        }
       ],
       "caption": {
         "ig": "30 ideas de contenido para tu negocio — una por día, para cualquier rubro: mostrar tu negocio por dentro, enseñar, dar confianza y hacer participar a tu gente. Guárdalas y ponlas en práctica — más contenido es más gente escribiéndote, y Propaga (propaga.pe) responde esos mensajes por ti, gratis. El \"no sé qué publicar\" un lunes a las 8pm se acabó hoy. #ideasdecontenido #marketingdigital #emprendedores #peru",
@@ -23,13 +61,51 @@
     {
       "slug": "15-hooks",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "15 frases para empezar tus posts", "b": "Y que la gente no siga de largo" },
-        { "role": "rehook", "h": "La primera frase decide si te leen.", "b": "Copia estas 15 y rellena con tu negocio." },
-        { "role": "value", "n": "1-5", "h": "Para dar curiosidad", "b": "1 \"Nadie te cuenta esto de [tu rubro]\" · 2 \"El error que cometí, para que tú no lo cometas\" · 3 \"Lo que pasa cuando [algo inesperado]\" · 4 \"3 señales de que [problema]\" · 5 \"El 80% hace esto mal\"." },
-        { "role": "value", "n": "6-10", "h": "Para llevar la contraria", "b": "6 \"Deja de [consejo popular]\" · 7 \"[Creencia común] es mentira\" · 8 \"Todos dicen X. Yo digo Y, y aquí está la prueba\" · 9 \"Gasté S/X para que tú no tengas que hacerlo\" · 10 \"Antes de [acción común], lee esto\"." },
-        { "role": "value", "n": "11-15", "h": "Para que se sientan identificados", "b": "11 \"Si tienes [situación], esto es para ti\" · 12 \"Imagina: eres [tu cliente] y pasa esto\" · 13 \"Nadie entiende a los que [característica]... hasta hoy\" · 14 \"Ojalá me hubieran dicho esto antes\" · 15 \"Lo que haría si empezara desde cero hoy\"." },
-        { "role": "stat", "h": "Buenos ganchos = más mensajes.", "b": "Y Propaga los responde por ti: agentes de IA que atienden tus chats de WhatsApp, Instagram y Facebook desde una sola bandeja. Gratis para empezar." },
-        { "role": "cta", "h": "Guarda las 15 y prueba una hoy.", "b": "Empieza gratis en propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "15 frases para empezar tus posts",
+          "b": "Y que la gente no siga de largo"
+        },
+        {
+          "role": "rehook",
+          "h": "La primera frase decide si te leen.",
+          "b": "Copia estas 15 y rellena con tu negocio."
+        },
+        {
+          "role": "value",
+          "n": "1-5",
+          "h": "Para dar curiosidad",
+          "b": "1 \"Nadie te cuenta esto de [tu rubro]\" · 2 \"El error que cometí, para que tú no lo cometas\" · 3 \"Lo que pasa cuando [algo inesperado]\" · 4 \"3 señales de que [problema]\" · 5 \"El 80% hace esto mal\"."
+        },
+        {
+          "role": "value",
+          "n": "6-10",
+          "h": "Para llevar la contraria",
+          "b": "6 \"Deja de [consejo popular]\" · 7 \"[Creencia común] es mentira\" · 8 \"Todos dicen X. Yo digo Y, y aquí está la prueba\" · 9 \"Gasté S/X para que tú no tengas que hacerlo\" · 10 \"Antes de [acción común], lee esto\"."
+        },
+        {
+          "role": "value",
+          "n": "11-15",
+          "h": "Para que se sientan identificados",
+          "b": "11 \"Si tienes [situación], esto es para ti\" · 12 \"Imagina: eres [tu cliente] y pasa esto\" · 13 \"Nadie entiende a los que [característica]... hasta hoy\" · 14 \"Ojalá me hubieran dicho esto antes\" · 15 \"Lo que haría si empezara desde cero hoy\"."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-comentarios.png",
+          "h": "Un buen gancho llena los comentarios.",
+          "b": "Propaga te los junta y respondes desde ahí, sin entrar a cada red."
+        },
+        {
+          "role": "stat",
+          "h": "Buenos ganchos = más mensajes.",
+          "b": "Y Propaga los responde por ti: agentes de IA que atienden tus chats de WhatsApp, Instagram y Facebook desde una sola bandeja. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda las 15 y prueba una hoy.",
+          "b": "Empieza gratis en propaga.pe"
+        }
       ],
       "caption": {
         "ig": "15 frases para empezar tus posts y que la gente no siga de largo: de curiosidad, de llevar la contraria y de identificación. Rellena con tu rubro y publica — y cuando la gente te escriba, Propaga (propaga.pe) responde por ti, gratis. La de \"deja de [consejo popular]\" es la que más comentarios trae. #ganchos #copywriting #marketingdigital #peru",
@@ -41,13 +117,51 @@
     {
       "slug": "10-ctas",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "10 formas de terminar tus posts", "b": "Para que la gente haga algo" },
-        { "role": "rehook", "h": "Pide UNA sola cosa por post.", "b": "Si pides todo (like, guarda, comparte, comenta), no consigues nada." },
-        { "role": "value", "n": "1-4", "h": "Para que guarden y compartan", "b": "1 \"Guárdalo para cuando te toque [situación]\" · 2 \"Lo vas a necesitar: guárdalo ahora\" · 3 \"Envíaselo a quien está pasando por esto\" · 4 \"Ya sabes quién necesita ver esto. Mándaselo\"." },
-        { "role": "value", "n": "5-7", "h": "Para que comenten y te visiten", "b": "5 \"¿Equipo A o equipo B? Te leo\" · 6 \"Cuéntame tu caso más extremo de [tema]\" · 7 \"La parte 2 está en el perfil\". Pregunta concreta — nunca \"¿qué opinas?\"." },
-        { "role": "value", "n": "8-10", "h": "Para vender sin roche", "b": "8 \"En la bio está el link\" · 9 \"Si quieres que lo haga por ti, escríbeme [palabra]\" · 10 \"Esto hago todos los días — mi bandeja está abierta\". Directo, sin teatro." },
-        { "role": "stat", "h": "¿Y si te escriben? Propaga responde.", "b": "El punto 9 funciona: la gente te va a escribir. Propaga junta esos chats en una sola bandeja y los responde con IA. Gratis para empezar." },
-        { "role": "cta", "h": "Guarda la lista.", "b": "Y deja que Propaga responda lo que tu próximo post traiga: propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "10 formas de terminar tus posts",
+          "b": "Para que la gente haga algo"
+        },
+        {
+          "role": "rehook",
+          "h": "Pide UNA sola cosa por post.",
+          "b": "Si pides todo (like, guarda, comparte, comenta), no consigues nada."
+        },
+        {
+          "role": "value",
+          "n": "1-4",
+          "h": "Para que guarden y compartan",
+          "b": "1 \"Guárdalo para cuando te toque [situación]\" · 2 \"Lo vas a necesitar: guárdalo ahora\" · 3 \"Envíaselo a quien está pasando por esto\" · 4 \"Ya sabes quién necesita ver esto. Mándaselo\"."
+        },
+        {
+          "role": "value",
+          "n": "5-7",
+          "h": "Para que comenten y te visiten",
+          "b": "5 \"¿Equipo A o equipo B? Te leo\" · 6 \"Cuéntame tu caso más extremo de [tema]\" · 7 \"La parte 2 está en el perfil\". Pregunta concreta — nunca \"¿qué opinas?\"."
+        },
+        {
+          "role": "value",
+          "n": "8-10",
+          "h": "Para vender sin roche",
+          "b": "8 \"En la bio está el link\" · 9 \"Si quieres que lo haga por ti, escríbeme [palabra]\" · 10 \"Esto hago todos los días — mi bandeja está abierta\". Directo, sin teatro."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-chat.png",
+          "h": "El CTA funcionó. ¿Y después?",
+          "b": "Quien te escribe recibe precio, talla y envío en el momento."
+        },
+        {
+          "role": "stat",
+          "h": "¿Y si te escriben? Propaga responde.",
+          "b": "El punto 9 funciona: la gente te va a escribir. Propaga junta esos chats en una sola bandeja y los responde con IA. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda la lista.",
+          "b": "Y deja que Propaga responda lo que tu próximo post traiga: propaga.pe"
+        }
       ],
       "caption": {
         "ig": "10 formas de terminar tus posts para que la gente haga algo: guardar, compartir, comentar o comprarte. La regla de oro: un post = UN pedido — si pides todo, no consigues nada. Y los \"escríbeme\" que consigas, Propaga (propaga.pe) los responde por ti, gratis. #cta #copywriting #socialmedia #peru",
@@ -59,13 +173,50 @@
     {
       "slug": "12-plantillas-historias",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "12 ideas de historias para tu negocio", "b": "Vende más sin cansar a nadie" },
-        { "role": "rehook", "h": "El feed atrae. Las historias convencen.", "b": "Pero 9 historias del mismo producto cansan. Mejor haz esto:" },
-        { "role": "value", "n": "1-6", "h": "Para vender y dar confianza", "b": "1 Tu producto en uso real · 2 \"Quedan X\" (solo si es verdad) · 3 El empaque de un pedido de hoy · 4 El mensaje de un cliente feliz (con permiso) · 5 La respuesta a la pregunta de la semana · 6 Tu opinión sobre algo del rubro." },
-        { "role": "value", "n": "7-12", "h": "Para conversar y ser humano", "b": "7 Encuesta \"¿esto o esto?\" · 8 Caja de preguntas · 9 El resultado del voto de ayer (cierra siempre el ciclo) · 10 El buenos días desde el negocio · 11 El pedido saliendo bajo la lluvia · 12 El error del día, contado con humor." },
-        { "role": "value", "h": "La semana armada", "b": "Lun: pregunta · Mar: producto en uso · Mié: respuesta · Jue: cliente feliz · Vie: encuesta · Sáb: humanidad · Dom: descansa (en serio)." },
-        { "role": "stat", "h": "Historias que venden = DMs que llegan.", "b": "Propaga junta los mensajes de WhatsApp, Instagram, Facebook y TikTok en una sola bandeja y los responde por ti, hasta dormido. Gratis para empezar." },
-        { "role": "cta", "h": "Guarda el calendario de historias.", "b": "Y responde cada DM sin estrés: propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "12 ideas de historias para tu negocio",
+          "b": "Vende más sin cansar a nadie"
+        },
+        {
+          "role": "rehook",
+          "h": "El feed atrae. Las historias convencen.",
+          "b": "Pero 9 historias del mismo producto cansan. Mejor haz esto:"
+        },
+        {
+          "role": "value",
+          "n": "1-6",
+          "h": "Para vender y dar confianza",
+          "b": "1 Tu producto en uso real · 2 \"Quedan X\" (solo si es verdad) · 3 El empaque de un pedido de hoy · 4 El mensaje de un cliente feliz (con permiso) · 5 La respuesta a la pregunta de la semana · 6 Tu opinión sobre algo del rubro."
+        },
+        {
+          "role": "value",
+          "n": "7-12",
+          "h": "Para conversar y ser humano",
+          "b": "7 Encuesta \"¿esto o esto?\" · 8 Caja de preguntas · 9 El resultado del voto de ayer (cierra siempre el ciclo) · 10 El buenos días desde el negocio · 11 El pedido saliendo bajo la lluvia · 12 El error del día, contado con humor."
+        },
+        {
+          "role": "value",
+          "h": "La semana armada",
+          "b": "Lun: pregunta · Mar: producto en uso · Mié: respuesta · Jue: cliente feliz · Vie: encuesta · Sáb: humanidad · Dom: descansa (en serio)."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-movil.png",
+          "h": "Las historias venden por mensaje.",
+          "b": "Y los ves en el celular, todos juntos, sin saltar de app en app."
+        },
+        {
+          "role": "stat",
+          "h": "Historias que venden = DMs que llegan.",
+          "b": "Propaga junta los mensajes de WhatsApp, Instagram, Facebook y TikTok en una sola bandeja y los responde por ti, hasta dormido. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda el calendario de historias.",
+          "b": "Y responde cada DM sin estrés: propaga.pe"
+        }
       ],
       "caption": {
         "ig": "12 ideas de historias para tu negocio, para vender más sin subir 9 fotos del mismo producto: 6 para vender y dar confianza, 6 para conversar y ser humano — más la semana armada día por día. Y los DMs que traigan, Propaga (propaga.pe) los responde por ti, gratis. #historias #instagram #negocios #peru",
@@ -77,13 +228,50 @@
     {
       "slug": "20-preguntas-audiencia",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "20 preguntas para que te comenten más", "b": "Se responden en 10 segundos" },
-        { "role": "rehook", "h": "\"¿Qué opinan?\" no funciona.", "b": "Es muy general. Estas 20 son fáciles de responder." },
-        { "role": "value", "n": "1-10", "h": "De elegir y de experiencia propia", "b": "1 ¿A o B? (con foto) · 2 ¿Equipo X o equipo Y? · 3 ¿Genial o demasiado? · 4 ¿Cuál comprarías con S/50? · 5 Sin pensar: ¿primera impresión? · 6 ¿Tu peor experiencia con [tema]? · 7 ¿El consejo que más te sirvió? · 8 ¿Tu truco casero para [problema]? · 9 ¿Lo más caro que pagaste por [esto]? · 10 ¿A qué edad aprendiste [X]?" },
-        { "role": "value", "n": "11-20", "h": "De opinión y de completar", "b": "11 ¿[Práctica común]: genialidad o estafa? · 12 Tu opinión impopular de [tema] · 13 ¿Qué está sobrevalorado en [rubro]? · 14 ¿X o Y? No vale \"depende\" · 15 Defiéndelo en un comentario · 16 [Rubro] sería mejor si ___ · 17 Nunca vuelvo a un negocio que ___ · 18 Mi gasto hormiga es ___ · 19 Si tuviera un negocio, vendería ___ · 20 El emoji de mi lunes: ___" },
-        { "role": "value", "h": "Las 3 reglas de la pregunta que funciona", "b": "Se responde en menos de 10 segundos · no hay respuesta incorrecta · y TÚ respondes los primeros comentarios. La conversación llama conversación." },
-        { "role": "stat", "h": "Más conversación, sin ahogarte.", "b": "Cuando los comentarios se vuelvan mensajes, Propaga los junta en una sola bandeja y los responde por ti. Gratis para empezar." },
-        { "role": "cta", "h": "Guarda las 20 preguntas.", "b": "Y responde cada mensaje que llegue con propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "20 preguntas para que te comenten más",
+          "b": "Se responden en 10 segundos"
+        },
+        {
+          "role": "rehook",
+          "h": "\"¿Qué opinan?\" no funciona.",
+          "b": "Es muy general. Estas 20 son fáciles de responder."
+        },
+        {
+          "role": "value",
+          "n": "1-10",
+          "h": "De elegir y de experiencia propia",
+          "b": "1 ¿A o B? (con foto) · 2 ¿Equipo X o equipo Y? · 3 ¿Genial o demasiado? · 4 ¿Cuál comprarías con S/50? · 5 Sin pensar: ¿primera impresión? · 6 ¿Tu peor experiencia con [tema]? · 7 ¿El consejo que más te sirvió? · 8 ¿Tu truco casero para [problema]? · 9 ¿Lo más caro que pagaste por [esto]? · 10 ¿A qué edad aprendiste [X]?"
+        },
+        {
+          "role": "value",
+          "n": "11-20",
+          "h": "De opinión y de completar",
+          "b": "11 ¿[Práctica común]: genialidad o estafa? · 12 Tu opinión impopular de [tema] · 13 ¿Qué está sobrevalorado en [rubro]? · 14 ¿X o Y? No vale \"depende\" · 15 Defiéndelo en un comentario · 16 [Rubro] sería mejor si ___ · 17 Nunca vuelvo a un negocio que ___ · 18 Mi gasto hormiga es ___ · 19 Si tuviera un negocio, vendería ___ · 20 El emoji de mi lunes: ___"
+        },
+        {
+          "role": "value",
+          "h": "Las 3 reglas de la pregunta que funciona",
+          "b": "Se responde en menos de 10 segundos · no hay respuesta incorrecta · y TÚ respondes los primeros comentarios. La conversación llama conversación."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-posts.png",
+          "h": "Cada post, con sus comentarios contados.",
+          "b": "Ves cuántos hay sin leer en cada publicación y respondes de corrido."
+        },
+        {
+          "role": "stat",
+          "h": "Más conversación, sin ahogarte.",
+          "b": "Cuando los comentarios se vuelvan mensajes, Propaga los junta en una sola bandeja y los responde por ti. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda las 20 preguntas.",
+          "b": "Y responde cada mensaje que llegue con propaga.pe"
+        }
       ],
       "caption": {
         "ig": "20 preguntas para que te comenten más — porque \"¿qué opinan? 👇\" da 0 comentarios: es muy general y el cerebro apurado elige el scroll. Estas se responden en 10 segundos y no tienen respuesta incorrecta. Y cuando la conversación pase al DM, Propaga (propaga.pe) responde por ti, gratis. #engagement #socialmedia #negocios #peru",
@@ -95,13 +283,50 @@
     {
       "slug": "8-formatos-carrusel",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "8 tipos de carrusel que funcionan", "b": "Estructuras listas para copiar" },
-        { "role": "rehook", "h": "El carrusel es lo que más se guarda.", "b": "Y con estos 8 esqueletos nunca te faltan ideas." },
-        { "role": "value", "n": "1-4", "h": "Los cuatro clásicos", "b": "1 Lista: \"N cosas para X\", un punto por lámina · 2 Checklist: qué revisar antes de X · 3 Mito y verdad: el mito dicho fuerte en portada · 4 Antes y después: el \"antes\" en portada — la curiosidad desliza sola." },
-        { "role": "value", "n": "5-8", "h": "Los cuatro que venden", "b": "5 Paso a paso: un paso por lámina · 6 Errores: el dolor en portada, error y arreglo por lámina · 7 Historia: gancho emocional, giro al final · 8 Comparación honesta: \"X vs Y\" con veredicto claro." },
-        { "role": "value", "h": "Las reglas para los 8", "b": "Portada con letra grande y una promesa · una idea por lámina · última lámina: pide una sola cosa." },
-        { "role": "stat", "h": "Un buen carrusel te llena la bandeja.", "b": "Propaga te la ordena: tus chats de WhatsApp, Instagram y Facebook en un solo lugar, con respuestas automáticas. Gratis para empezar." },
-        { "role": "cta", "h": "Guarda los 8 esqueletos.", "b": "Y cuando el primero funcione, Propaga responde los mensajes: propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "8 tipos de carrusel que funcionan",
+          "b": "Estructuras listas para copiar"
+        },
+        {
+          "role": "rehook",
+          "h": "El carrusel es lo que más se guarda.",
+          "b": "Y con estos 8 esqueletos nunca te faltan ideas."
+        },
+        {
+          "role": "value",
+          "n": "1-4",
+          "h": "Los cuatro clásicos",
+          "b": "1 Lista: \"N cosas para X\", un punto por lámina · 2 Checklist: qué revisar antes de X · 3 Mito y verdad: el mito dicho fuerte en portada · 4 Antes y después: el \"antes\" en portada — la curiosidad desliza sola."
+        },
+        {
+          "role": "value",
+          "n": "5-8",
+          "h": "Los cuatro que venden",
+          "b": "5 Paso a paso: un paso por lámina · 6 Errores: el dolor en portada, error y arreglo por lámina · 7 Historia: gancho emocional, giro al final · 8 Comparación honesta: \"X vs Y\" con veredicto claro."
+        },
+        {
+          "role": "value",
+          "h": "Las reglas para los 8",
+          "b": "Portada con letra grande y una promesa · una idea por lámina · última lámina: pide una sola cosa."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-leads.png",
+          "h": "Un carrusel bueno te deja contactos.",
+          "b": "Cada persona que te escribió queda guardada, con su teléfono y su red."
+        },
+        {
+          "role": "stat",
+          "h": "Un buen carrusel te llena la bandeja.",
+          "b": "Propaga te la ordena: tus chats de WhatsApp, Instagram y Facebook en un solo lugar, con respuestas automáticas. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda los 8 esqueletos.",
+          "b": "Y cuando el primero funcione, Propaga responde los mensajes: propaga.pe"
+        }
       ],
       "caption": {
         "ig": "8 tipos de carrusel que funcionan, con su estructura lista para copiar: lista, checklist, mito y verdad, antes y después, paso a paso, errores, historia y comparación (estás viendo el #1 en acción). Y las consultas que traigan las responde Propaga (propaga.pe) por ti, gratis. #carrusel #instagram #contentmarketing #peru",
@@ -113,13 +338,50 @@
     {
       "slug": "10-bios",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "Cómo escribir la bio de tu negocio", "b": "10 fórmulas listas para copiar" },
-        { "role": "rehook", "h": "El que visita tu perfil decide en segundos.", "b": "Tu bio debe decir qué vendes y qué hacer." },
-        { "role": "value", "h": "La bio perfecta tiene 4 líneas", "b": "1: qué vendes y para quién · 2: tu prueba (años, clientes) · 3: tu toque personal · 4: qué hacer + link. Nada de \"soñadora ✨ amante del café\": eso no dice qué vendes." },
-        { "role": "value", "n": "1-5", "h": "Para tiendas y negocios locales", "b": "1 \"[Producto] en [ciudad] · Delivery en [X] hrs · Pide aquí 👇\" · 2 \"Hacemos [X] desde [año] · +[N] clientes felices\" · 3 \"[Rubro] sin [dolor común] · [Distrito]\" · 4 \"Ayudo a [público] a [resultado] sin [dolor]\" · 5 \"[Resultado] para [público] · Escríbeme [palabra]\"." },
-        { "role": "value", "n": "6-10", "h": "Para servicios y marcas personales", "b": "6 \"[Profesión] · Explico [tema difícil] en simple\" · 7 \"[Tema] sin humo · Nuevo video cada [día]\" · 8 \"Documentando [proceso] en público\" · 9 \"[Logro] · Te enseño cómo\" · 10 \"Opiniones propias sobre [rubro]\"." },
-        { "role": "stat", "h": "Y cuando te escriban, Propaga responde.", "b": "Una bio clara hace que los clientes te escriban para comprar. Propaga junta esos chats de WhatsApp, Instagram y Facebook en una sola bandeja y responde por ti. Gratis para empezar." },
-        { "role": "cta", "h": "Guarda las fórmulas y reescribe tu bio hoy.", "b": "Son 10 minutos. Tú haz la bio; de responder se encarga Propaga: propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "Cómo escribir la bio de tu negocio",
+          "b": "10 fórmulas listas para copiar"
+        },
+        {
+          "role": "rehook",
+          "h": "El que visita tu perfil decide en segundos.",
+          "b": "Tu bio debe decir qué vendes y qué hacer."
+        },
+        {
+          "role": "value",
+          "h": "La bio perfecta tiene 4 líneas",
+          "b": "1: qué vendes y para quién · 2: tu prueba (años, clientes) · 3: tu toque personal · 4: qué hacer + link. Nada de \"soñadora ✨ amante del café\": eso no dice qué vendes."
+        },
+        {
+          "role": "value",
+          "n": "1-5",
+          "h": "Para tiendas y negocios locales",
+          "b": "1 \"[Producto] en [ciudad] · Delivery en [X] hrs · Pide aquí 👇\" · 2 \"Hacemos [X] desde [año] · +[N] clientes felices\" · 3 \"[Rubro] sin [dolor común] · [Distrito]\" · 4 \"Ayudo a [público] a [resultado] sin [dolor]\" · 5 \"[Resultado] para [público] · Escríbeme [palabra]\"."
+        },
+        {
+          "role": "value",
+          "n": "6-10",
+          "h": "Para servicios y marcas personales",
+          "b": "6 \"[Profesión] · Explico [tema difícil] en simple\" · 7 \"[Tema] sin humo · Nuevo video cada [día]\" · 8 \"Documentando [proceso] en público\" · 9 \"[Logro] · Te enseño cómo\" · 10 \"Opiniones propias sobre [rubro]\"."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-whatsapp.png",
+          "h": "La bio manda al WhatsApp correcto.",
+          "b": "Conecta dos números y atiende los dos desde un solo lugar."
+        },
+        {
+          "role": "stat",
+          "h": "Y cuando te escriban, Propaga responde.",
+          "b": "Una bio clara hace que los clientes te escriban para comprar. Propaga junta esos chats de WhatsApp, Instagram y Facebook en una sola bandeja y responde por ti. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda las fórmulas y reescribe tu bio hoy.",
+          "b": "Son 10 minutos. Tú haz la bio; de responder se encarga Propaga: propaga.pe"
+        }
       ],
       "caption": {
         "ig": "Cómo escribir la bio de tu negocio en 4 líneas: qué vendes y para quién, tu prueba, tu toque personal y qué hacer + link. 10 fórmulas listas para copiar según tu tipo de negocio. Y con la bio lista, los clientes te van a escribir — Propaga (propaga.pe) te ayuda a responderles, gratis. #bio #instagram #marketingdigital #peru",
@@ -131,13 +393,48 @@
     {
       "slug": "calendario-semanal",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "Solo 3 posts por semana bastan", "b": "El plan simple que sí cumplirás" },
-        { "role": "rehook", "h": "Los planes gigantes se abandonan en 2 semanas.", "b": "Este es tan simple que se cumple solo." },
-        { "role": "value", "h": "Lunes enseña, miércoles conecta, viernes vende", "b": "Lunes: enseña algo de tu rubro · Miércoles: muestra tu negocio por dentro (historia, equipo, proceso) · Viernes: caso real, reseña o promo del finde — el viernes se deciden las compras." },
-        { "role": "value", "h": "Historias: 10 minutos al día", "b": "1 a 3 historias diarias mantienen viva la relación entre posts: una encuesta, el proceso de hoy, un cliente feliz. No más de 10 minutos." },
-        { "role": "value", "h": "Prodúcelo todo en una sola sesión", "b": "Domingo o lunes, 2 horas: deja los 3 posts listos y programados. Así publicar se decide una vez por semana — no cada noche a las 9pm." },
-        { "role": "stat", "h": "Publicar es la mitad. Responder es la venta.", "b": "Mientras tú publicas tus 3 posts, Propaga atiende los mensajes que llegan: una sola bandeja y agentes de IA que responden solos. Gratis para empezar." },
-        { "role": "cta", "h": "Guarda la semana tipo.", "b": "Y deja los mensajes en manos de Propaga: propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "Solo 3 posts por semana bastan",
+          "b": "El plan simple que sí cumplirás"
+        },
+        {
+          "role": "rehook",
+          "h": "Los planes gigantes se abandonan en 2 semanas.",
+          "b": "Este es tan simple que se cumple solo."
+        },
+        {
+          "role": "value",
+          "h": "Lunes enseña, miércoles conecta, viernes vende",
+          "b": "Lunes: enseña algo de tu rubro · Miércoles: muestra tu negocio por dentro (historia, equipo, proceso) · Viernes: caso real, reseña o promo del finde — el viernes se deciden las compras."
+        },
+        {
+          "role": "value",
+          "h": "Historias: 10 minutos al día",
+          "b": "1 a 3 historias diarias mantienen viva la relación entre posts: una encuesta, el proceso de hoy, un cliente feliz. No más de 10 minutos."
+        },
+        {
+          "role": "value",
+          "h": "Prodúcelo todo en una sola sesión",
+          "b": "Domingo o lunes, 2 horas: deja los 3 posts listos y programados. Así publicar se decide una vez por semana — no cada noche a las 9pm."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-lista.png",
+          "h": "Publicas 3 veces. Te escriben 30.",
+          "b": "Todas esas conversaciones caen ordenadas en una sola bandeja."
+        },
+        {
+          "role": "stat",
+          "h": "Publicar es la mitad. Responder es la venta.",
+          "b": "Mientras tú publicas tus 3 posts, Propaga atiende los mensajes que llegan: una sola bandeja y agentes de IA que responden solos. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda la semana tipo.",
+          "b": "Y deja los mensajes en manos de Propaga: propaga.pe"
+        }
       ],
       "caption": {
         "ig": "El plan de contenido que SÍ se cumple: solo 3 posts por semana — lunes enseña, miércoles conecta, viernes vende — más historias diarias de 10 minutos. El secreto: producir todo en UNA sesión de 2 horas. Y los mensajes que traigan tus posts los responde Propaga (propaga.pe) por ti, gratis. Publicar se decide una vez por semana, no cada noche a las 9pm. #calendariodecontenido #planificacion #negocios #peru",
@@ -149,13 +446,51 @@
     {
       "slug": "15-respuestas-dificiles",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "Qué responder cuando dicen \"está caro\"", "b": "Y 14 mensajes difíciles más" },
-        { "role": "rehook", "h": "Respondes para los 100 que leen callados.", "b": "No solo para el que escribió. Por eso importa responder bien." },
-        { "role": "value", "n": "1-5", "h": "El precio y la desconfianza", "b": "1 \"¿Precio?\" → responde + \"¿para cuándo lo necesitas?\" · 2 \"Está caro\" → \"Incluye [valor]. ¿Qué presupuesto manejas?\" · 3 \"En otro lado está más barato\" → \"Puede ser 🙂 esto incluye [diferencia]. Tú decides\" · 4 \"¿Es confiable?\" → reseñas + \"te paso referencias\" · 5 \"¿Por qué tan barato?\" → la razón honesta." },
-        { "role": "value", "n": "6-10", "h": "Reclamos y provocadores", "b": "6 Reclamo público → dale la razón en lo justo + \"ya te escribí para resolverlo\" · 7 Nunca borres, nunca pelees · 8 Provocador → una respuesta con altura y FIN · 9 Pesado puro → ocultar, no borrar · 10 Spam → ignorar." },
-        { "role": "value", "n": "11-15", "h": "Los incómodos buenos", "b": "11 \"¿Hacen gratis por difusión?\" → tu política, clara y amable · 12 \"¿Me regalas uno?\" → humor + valor · 13 El chat eterno que no compra → \"¿te separo uno o lo vemos más adelante?\" · 14 \"Seguro es reventa\" → transparencia total · 15 Y siempre: responde rápido. La venta se enfría en horas." },
-        { "role": "stat", "h": "Propaga responde estos mensajes por ti.", "b": "Plantillas de mensajes listas, respuestas automáticas con IA y todos tus chats de WhatsApp, Instagram y Facebook en una sola bandeja. Gratis para empezar." },
-        { "role": "cta", "h": "Guarda el manual completo.", "b": "Y responde rápido siempre: propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "Qué responder cuando dicen \"está caro\"",
+          "b": "Y 14 mensajes difíciles más"
+        },
+        {
+          "role": "rehook",
+          "h": "Respondes para los 100 que leen callados.",
+          "b": "No solo para el que escribió. Por eso importa responder bien."
+        },
+        {
+          "role": "value",
+          "n": "1-5",
+          "h": "El precio y la desconfianza",
+          "b": "1 \"¿Precio?\" → responde + \"¿para cuándo lo necesitas?\" · 2 \"Está caro\" → \"Incluye [valor]. ¿Qué presupuesto manejas?\" · 3 \"En otro lado está más barato\" → \"Puede ser 🙂 esto incluye [diferencia]. Tú decides\" · 4 \"¿Es confiable?\" → reseñas + \"te paso referencias\" · 5 \"¿Por qué tan barato?\" → la razón honesta."
+        },
+        {
+          "role": "value",
+          "n": "6-10",
+          "h": "Reclamos y provocadores",
+          "b": "6 Reclamo público → dale la razón en lo justo + \"ya te escribí para resolverlo\" · 7 Nunca borres, nunca pelees · 8 Provocador → una respuesta con altura y FIN · 9 Pesado puro → ocultar, no borrar · 10 Spam → ignorar."
+        },
+        {
+          "role": "value",
+          "n": "11-15",
+          "h": "Los incómodos buenos",
+          "b": "11 \"¿Hacen gratis por difusión?\" → tu política, clara y amable · 12 \"¿Me regalas uno?\" → humor + valor · 13 El chat eterno que no compra → \"¿te separo uno o lo vemos más adelante?\" · 14 \"Seguro es reventa\" → transparencia total · 15 Y siempre: responde rápido. La venta se enfría en horas."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-chat.png",
+          "h": "Así se responde \"¿está caro?\".",
+          "b": "Plantillas listas y respuestas automáticas, escritas con tu tono."
+        },
+        {
+          "role": "stat",
+          "h": "Propaga responde estos mensajes por ti.",
+          "b": "Plantillas de mensajes listas, respuestas automáticas con IA y todos tus chats de WhatsApp, Instagram y Facebook en una sola bandeja. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda el manual completo.",
+          "b": "Y responde rápido siempre: propaga.pe"
+        }
       ],
       "caption": {
         "ig": "Qué responder cuando te dicen \"está caro\" — y 14 mensajes difíciles más: precio, desconfianza, reclamos públicos y provocadores. La regla madre: respondes para los 100 que leen en silencio, no solo para el que comentó. Y con Propaga (propaga.pe) respondes desde una sola bandeja, con plantillas y respuestas automáticas, gratis. #atencionalcliente #ventas #negocios #peru",
@@ -167,13 +502,48 @@
     {
       "slug": "kit-primer-mes",
       "slides": [
-        { "role": "cover", "kicker": "PARA COPIAR", "h": "Tu primer mes en redes, paso a paso", "b": "Para negocios que recién empiezan" },
-        { "role": "rehook", "h": "No necesitas ser viral el mes 1.", "b": "Necesitas bases. Este es el orden correcto." },
-        { "role": "value", "h": "Semanas 1 y 2: la base", "b": "Nombre fácil de buscar · bio que diga qué vendes · foto de perfil que se vea en chiquito · 3 posts de presentación (qué vendes, quién eres, tu primer contenido útil) · historias diarias · comenta en 20 cuentas de tu rubro o zona." },
-        { "role": "value", "h": "Semanas 3 y 4: el ritmo", "b": "Arranca el plan simple: lunes enseña, miércoles conecta, viernes vende · haz tu primera pregunta a la audiencia · pide 5 reseñas honestas a clientes · al día 30, revisa qué post gustó más: eso define el mes 2." },
-        { "role": "value", "h": "Lo que NO harás", "b": "Comprar seguidores (te persigue para siempre) · publicar 20 veces y desaparecer · compararte con cuentas de años · pagar publicidad antes de saber qué funciona." },
-        { "role": "stat", "h": "Propaga te acompaña desde el día 1.", "b": "Cuando lleguen los primeros mensajes, los tendrás todos en una sola bandeja — WhatsApp, Instagram, Facebook y TikTok — con respuestas automáticas para no perder ninguno. Gratis para empezar." },
-        { "role": "cta", "h": "Envíaselo al amigo que \"ya casi\" empieza.", "b": "Y arranquen juntos gratis en propaga.pe" }
+        {
+          "role": "cover",
+          "kicker": "PARA COPIAR",
+          "h": "Tu primer mes en redes, paso a paso",
+          "b": "Para negocios que recién empiezan"
+        },
+        {
+          "role": "rehook",
+          "h": "No necesitas ser viral el mes 1.",
+          "b": "Necesitas bases. Este es el orden correcto."
+        },
+        {
+          "role": "value",
+          "h": "Semanas 1 y 2: la base",
+          "b": "Nombre fácil de buscar · bio que diga qué vendes · foto de perfil que se vea en chiquito · 3 posts de presentación (qué vendes, quién eres, tu primer contenido útil) · historias diarias · comenta en 20 cuentas de tu rubro o zona."
+        },
+        {
+          "role": "value",
+          "h": "Semanas 3 y 4: el ritmo",
+          "b": "Arranca el plan simple: lunes enseña, miércoles conecta, viernes vende · haz tu primera pregunta a la audiencia · pide 5 reseñas honestas a clientes · al día 30, revisa qué post gustó más: eso define el mes 2."
+        },
+        {
+          "role": "value",
+          "h": "Lo que NO harás",
+          "b": "Comprar seguidores (te persigue para siempre) · publicar 20 veces y desaparecer · compararte con cuentas de años · pagar publicidad antes de saber qué funciona."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-canales.png",
+          "h": "Tu primer día se ve así.",
+          "b": "Conectas WhatsApp, Instagram y Facebook y ya estás recibiendo mensajes."
+        },
+        {
+          "role": "stat",
+          "h": "Propaga te acompaña desde el día 1.",
+          "b": "Cuando lleguen los primeros mensajes, los tendrás todos en una sola bandeja — WhatsApp, Instagram, Facebook y TikTok — con respuestas automáticas para no perder ninguno. Gratis para empezar."
+        },
+        {
+          "role": "cta",
+          "h": "Envíaselo al amigo que \"ya casi\" empieza.",
+          "b": "Y arranquen juntos gratis en propaga.pe"
+        }
       ],
       "caption": {
         "ig": "Tu primer mes en redes, paso a paso, para negocios que recién empiezan: semanas 1-2 la base (nombre buscable, bio clara, primeros posts), semanas 3-4 el ritmo (3 posts semanales + primeras reseñas). Meta real: 100 seguidores de verdad y 5 conversaciones de venta. Y los primeros mensajes que lleguen, Propaga (propaga.pe) te ayuda a responderlos, gratis. #negocionuevo #emprendedores #redessociales #peru",
