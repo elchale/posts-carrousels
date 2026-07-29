@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 "Hazlo viral" — tu jefe, que comparte cadenas de WhatsApp del 2009 🙃 Lo viral no es una estrategia, es un resultado: el negocio que vende por redes lo hace con 500-2,000 vistas CONSTANTES de la gente correcta.
 
-La constancia se organiza gratis con Propaga (propaga.pe).
+Y a esa gente correcta que escribe le responde Propaga (propaga.pe) por ti, gratis.
 
 #communitymanager #jefes #marketingdigital #relatable #peru
 ```
@@ -31,5 +31,5 @@ Historia humorística del jefe que pide virales y los argumentos para explicar c
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para mandar (con cariño) al grupo de trabajo: "viral" no es una estrategia — es un resultado. El negocio que factura por redes lo hace con 500-2,000 vistas CONSTANTES de la gente correcta, no con un millón de vistas de cualquiera. Y la constancia se organiza gratis con Propaga (propaga.pe). ¿A quién le ha tocado el "hazlo viral" con presupuesto S/0? 😄
+Para mandar (con cariño) al grupo de trabajo: "viral" no es una estrategia — es un resultado. El negocio que factura por redes lo hace con 500-2,000 vistas CONSTANTES de la gente correcta, no con un millón de vistas de cualquiera. Y los mensajes de la gente correcta los responde Propaga (propaga.pe) por ustedes, gratis. ¿A quién le ha tocado el "hazlo viral" con presupuesto S/0? 😄
 ```

@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Tu primer mes en redes, paso a paso, para negocios que recién empiezan: semanas 1-2 la base (nombre buscable, bio clara, primeros posts), semanas 3-4 el ritmo (3 posts semanales + primeras reseñas).
 
-Meta real: 100 seguidores de verdad y 5 conversaciones de venta. Planifícalo gratis con Propaga (propaga.pe).
+Meta real: 100 seguidores de verdad y 5 conversaciones de venta. Y los primeros mensajes que lleguen, Propaga (propaga.pe) te ayuda a responderlos, gratis.
 
 #negocionuevo #emprendedores #redessociales #peru
 ```
@@ -31,5 +31,5 @@ Plan del primer mes en redes para negocios nuevos, semana por semana.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para el amigo que "ya casi" abre las redes de su negocio: el primer mes es de bases, no de fama — y la meta honesta es 100 seguidores REALES y 5 conversaciones de venta (eso vale más que 1,000 fantasmas comprados). El kit completo, paso a paso, y la app para planificarlo gratis: Propaga (propaga.pe). Etiquétalo 👇
+Para el amigo que "ya casi" abre las redes de su negocio: el primer mes es de bases, no de fama — y la meta honesta es 100 seguidores REALES y 5 conversaciones de venta (eso vale más que 1,000 fantasmas comprados). El kit completo, paso a paso, y la app para responder esos primeros mensajes sin perderse ninguno: Propaga (propaga.pe), gratis. Etiquétalo 👇
 ```

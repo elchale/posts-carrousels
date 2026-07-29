@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Revisa tus estadísticas de Instagram en 5 minutos, una vez al mes: ¿qué se compartió y guardó más?
 
-¿llegué a gente nueva? ¿las visitas hicieron clic? — y dos decisiones: qué repito y qué dejo de hacer. El análisis vale por las decisiones que produce. Conviértelas en plan gratis con Propaga (propaga.pe).
+¿llegué a gente nueva? ¿las visitas hicieron clic? — y dos decisiones: qué repito y qué dejo de hacer. El análisis vale por las decisiones que produce. Y tus mensajes los responde Propaga (propaga.pe) por ti, gratis.
 
 #estadisticas #analitica #instagram #cm #peru
 ```
@@ -31,5 +31,5 @@ Rutina mensual de cinco minutos para leer estadísticas: preguntas clave y dos d
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Regla de oro de la analítica para negocios chicos: el análisis vale por las DECISIONES que produce. La rutina mensual de 5 minutos: top de compartidos y guardados (tu patrón), alcance de no-seguidores, visitas→clics (tu bio) y dos decisiones anotadas: qué repetir, qué dejar de hacer. El plan se arma gratis con Propaga (propaga.pe). ¿Cuánto tiempo pasan ustedes en las estadísticas?
+Regla de oro de la analítica para negocios chicos: el análisis vale por las DECISIONES que produce. La rutina mensual de 5 minutos: top de compartidos y guardados (tu patrón), alcance de no-seguidores, visitas→clics (tu bio) y dos decisiones anotadas: qué repetir, qué dejar de hacer. Y los mensajes se responden solos con Propaga (propaga.pe), gratis. ¿Cuánto tiempo pasan ustedes en las estadísticas?
 ```

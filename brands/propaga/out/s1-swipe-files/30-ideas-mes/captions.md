@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 30 ideas de contenido para tu negocio — una por día, para cualquier rubro: mostrar tu negocio por dentro, enseñar, dar confianza y hacer participar a tu gente.
 
-Guárdalas y prográmalas gratis con Propaga (propaga.pe): el "no sé qué publicar" un lunes a las 8pm se acabó hoy.
+Guárdalas y ponlas en práctica — más contenido es más gente escribiéndote, y Propaga (propaga.pe) responde esos mensajes por ti, gratis. El "no sé qué publicar" un lunes a las 8pm se acabó hoy.
 
 #ideasdecontenido #marketingdigital #emprendedores #peru
 ```
@@ -31,5 +31,5 @@ Treinta ideas de contenido para negocios en tres categorías.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para todos los que tienen negocio y feed abandonado: 30 ideas de contenido que funcionan en cualquier rubro. La más fácil: la captura de una reseña real — es la que más confianza genera. Con Propaga (propaga.pe) las planificas y programas gratis desde el celular. Etiqueta a un emprendedor que necesita esto.
+Para todos los que tienen negocio y feed abandonado: 30 ideas de contenido que funcionan en cualquier rubro. La más fácil: la captura de una reseña real — es la que más confianza genera. Y cuando ese contenido haga que te escriban, Propaga (propaga.pe) junta tus chats de todas tus redes y los responde por ti, gratis. Etiqueta a un emprendedor que necesita esto.
 ```

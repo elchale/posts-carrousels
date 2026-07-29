@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 8 tipos de carrusel que funcionan, con su estructura lista para copiar: lista, checklist, mito y verdad, antes y después, paso a paso, errores, historia y comparación (estás viendo el en acción).
 
-Planifícalos gratis con Propaga (propaga.pe).
+Y las consultas que traigan las responde Propaga (propaga.pe) por ti, gratis.
 
 #1 #carrusel #instagram #contentmarketing #peru
 ```
@@ -31,5 +31,5 @@ Ocho estructuras de carrusel con reglas comunes.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El carrusel es el formato que más se GUARDA — y guardar es la señal que más te recomienda. 8 esqueletos con estructura exacta: lista, checklist, mito/verdad, antes/después, paso a paso, errores, historia y comparación. Con esto + lo que sabes de tu rubro tienes carruseles para meses, y con Propaga (propaga.pe) los dejas programados gratis. ¿Su formato favorito?
+El carrusel es el formato que más se GUARDA — y guardar es la señal que más te recomienda. 8 esqueletos con estructura exacta: lista, checklist, mito/verdad, antes/después, paso a paso, errores, historia y comparación. Con esto + lo que sabes de tu rubro tienes carruseles para meses, y los mensajes que traigan los responde Propaga (propaga.pe) por ti, gratis. ¿Su formato favorito?
 ```

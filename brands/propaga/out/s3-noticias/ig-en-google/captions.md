@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Tu Instagram ahora aparece en Google — así te encuentran sin tener página web: los posts públicos de cuentas profesionales se indexan en el buscador.
 
-Requisitos: cuenta profesional pública, textos que respondan búsquedas reales y posts que se expliquen solos. Planifica ese contenido gratis con Propaga (propaga.pe).
+Requisitos: cuenta profesional pública, textos que respondan búsquedas reales y posts que se expliquen solos. Y a los que lleguen de Google les responde Propaga (propaga.pe) por ti, gratis.
 
 #google #instagram #seo #peru
 ```
@@ -31,5 +31,5 @@ La indexación de Instagram en Google: requisitos y posts que pescan búsquedas.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Prueba de 30 segundos: googleen su rubro + su ciudad ("tortas personalizadas Surco"). ¿Salen ustedes o su competencia? Los posts públicos de Instagram ya se indexan en Google — un negocio chico puede competir en búsquedas SIN web. Requisitos: cuenta profesional pública + textos que respondan preguntas reales. Planifiquen ese contenido gratis con Propaga (propaga.pe). ¿Ya salieron?
+Prueba de 30 segundos: googleen su rubro + su ciudad ("tortas personalizadas Surco"). ¿Salen ustedes o su competencia? Los posts públicos de Instagram ya se indexan en Google — un negocio chico puede competir en búsquedas SIN web. Requisitos: cuenta profesional pública + textos que respondan preguntas reales. Y a los que lleguen buscando les responde Propaga (propaga.pe) por ustedes, gratis. ¿Ya salieron?
 ```

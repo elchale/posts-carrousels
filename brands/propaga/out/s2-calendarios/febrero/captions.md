@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Cómo vender en San Valentín aunque no vendas nada romántico: el 14 es de DEMOSTRAR cariño — parejas, amigas, grupos, autoamor y mascotas: un mercado 5 veces más grande.
 
-Y no olvides al comprador del pánico del 13: existe y compra lo que encuentre. Programa el mes gratis con Propaga (propaga.pe).
+Y no olvides al comprador del pánico del 13: existe y compra lo que encuentre. A él también le responde Propaga (propaga.pe) por ti, gratis.
 
 #sanvalentin #febrero #ventas #peru
 ```
@@ -31,5 +31,5 @@ Estrategia de febrero: San Valentín ampliado a cinco públicos y calendario del
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Cada febrero el mismo error: "yo no vendo nada romántico, este mes no es para mí". San Valentín es DEMOSTRAR cariño — amigas, grupos, autoamor, mascotas: mercado 5 veces más grande que "parejas". Y el comprador del pánico del 13 existe y compra lo que encuentre. Programa febrero gratis con Propaga (propaga.pe). ¿Cuál es su ángulo?
+Cada febrero el mismo error: "yo no vendo nada romántico, este mes no es para mí". San Valentín es DEMOSTRAR cariño — amigas, grupos, autoamor, mascotas: mercado 5 veces más grande que "parejas". Y el comprador del pánico del 13 existe y compra lo que encuentre — sus mensajes de las 11pm los responde Propaga (propaga.pe) por ti, gratis. ¿Cuál es su ángulo?
 ```

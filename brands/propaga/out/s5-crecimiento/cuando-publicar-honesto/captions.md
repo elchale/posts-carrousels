@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 ¿Cada cuánto publicar?
 
-La respuesta honesta: el piso es 2-3 posts semanales (menos y la cuenta se duerme), el techo lo define tu PEOR semana — no la mejor. El truco: producir por lotes en una sesión de 2 horas y dejar todo programado gratis con Propaga (propaga.pe). La constancia se fabrica, no se improvisa.
+La respuesta honesta: el piso es 2-3 posts semanales (menos y la cuenta se duerme), el techo lo define tu PEOR semana — no la mejor. El truco: producir por lotes en una sesión de 2 horas. Y los mensajes que lleguen, cualquier semana, los responde Propaga (propaga.pe) por ti, gratis. La constancia se fabrica, no se improvisa.
 
 #frecuencia #contentmarketing #productividad #cm #peru
 ```
@@ -31,5 +31,5 @@ Guía de frecuencia de publicación sostenible: piso semanal, techo personal y p
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La pregunta honesta sobre frecuencia no es "¿cuánto debería publicar?" sino "¿qué ritmo aguanto en mi PEOR semana?" — porque 7 posts esta semana y 0 las próximas tres es peor que 2 siempre. La fórmula sostenible: 3 posts + historias diarias de 2 minutos + una sesión de producción, todo programado gratis con Propaga (propaga.pe). ¿Cuál es su ritmo real?
+La pregunta honesta sobre frecuencia no es "¿cuánto debería publicar?" sino "¿qué ritmo aguanto en mi PEOR semana?" — porque 7 posts esta semana y 0 las próximas tres es peor que 2 siempre. La fórmula sostenible: 3 posts + historias diarias de 2 minutos + una sesión de producción — y los mensajes los responde Propaga (propaga.pe) por ustedes, gratis. ¿Cuál es su ritmo real?
 ```

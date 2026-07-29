@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 ¿Publicar fotos o videos?
 
-Cada uno tiene su trabajo: los videos ganan en alcance (+36% — que te descubran) y los carruseles en interacción (el doble — que te crean y te compren). La mezcla para un negocio chico: 2 carruseles + 1 video por semana, programados gratis con Propaga (propaga.pe).
+Cada uno tiene su trabajo: los videos ganan en alcance (+36% — que te descubran) y los carruseles en interacción (el doble — que te crean y te compren). La mezcla para un negocio chico: 2 carruseles + 1 video por semana — y a los que te escriban les responde Propaga (propaga.pe) por ti, gratis.
 
 #reels #carrusel #instagram #peru
 ```
@@ -31,5 +31,5 @@ Comparación con datos de videos versus carruseles: alcance para descubrir, inte
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Fin del debate con datos (45 millones de posts analizados): los videos ganan en alcance y los carruseles en interacción — más del doble. No compiten: el video te descubre, el carrusel te convierte. La mezcla simple: 2 carruseles + 1 video por semana, programados gratis con Propaga (propaga.pe). ¿Ustedes qué publican más?
+Fin del debate con datos (45 millones de posts analizados): los videos ganan en alcance y los carruseles en interacción — más del doble. No compiten: el video te descubre, el carrusel te convierte. La mezcla simple: 2 carruseles + 1 video por semana — y los mensajes que traigan los responde Propaga (propaga.pe), gratis. ¿Ustedes qué publican más?
 ```

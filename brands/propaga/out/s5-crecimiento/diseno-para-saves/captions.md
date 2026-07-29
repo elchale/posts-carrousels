@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Haz posts que la gente guarde: nadie guarda lo que le GUSTA — guarda lo que cree que va a NECESITAR.
 
-Formatos que se archivan solos (listas, guías, tablas, plantillas), y el pedido con momento concreto ("guárdalo para tu próxima compra"). Los guardados sostienen tu alcance por semanas. Planifícalos gratis con Propaga (propaga.pe).
+Formatos que se archivan solos (listas, guías, tablas, plantillas), y el pedido con momento concreto ("guárdalo para tu próxima compra"). Los guardados sostienen tu alcance por semanas. Y cuando el guardado vuelva convertido en mensaje, Propaga (propaga.pe) responde por ti, gratis.
 
 #guardados #instagram #diseño #contentmarketing #peru
 ```
@@ -31,5 +31,5 @@ Diseño de posts para guardados: psicología de la utilidad futura, formatos de 
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La diferencia entre el post que se aplaude y el que se archiva: la promesa de utilidad FUTURA. Nadie guarda lo bonito — guarda la lista, la guía, la tabla que va a necesitar en 2 semanas. Y el detalle que multiplica: el pedido con momento concreto ("guárdalo para la campaña navideña"). Planifiquen sus posts guardables gratis con Propaga (propaga.pe). ¿Cuál fue el último post que guardaron?
+La diferencia entre el post que se aplaude y el que se archiva: la promesa de utilidad FUTURA. Nadie guarda lo bonito — guarda la lista, la guía, la tabla que va a necesitar en 2 semanas. Y el detalle que multiplica: el pedido con momento concreto ("guárdalo para la campaña navideña"). Y cuando esos guardados vuelvan como mensajes, Propaga (propaga.pe) los responde por ustedes, gratis. ¿Cuál fue el último post que guardaron?
 ```

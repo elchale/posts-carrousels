@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 12 ideas de historias para tu negocio, para vender más sin subir 9 fotos del mismo producto: 6 para vender y dar confianza, 6 para conversar y ser humano — más la semana armada día por día.
 
-Planifícala gratis con Propaga (propaga.pe).
+Y los DMs que traigan, Propaga (propaga.pe) los responde por ti, gratis.
 
 #historias #instagram #negocios #peru
 ```
@@ -31,5 +31,5 @@ Doce plantillas de historias para negocios más una secuencia semanal.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Las historias son el canal de CONFIANZA: el feed atrae extraños, las historias los convencen. Pero la mayoría de negocios las quema con 9 fotos del mismo producto. 12 ideas + la semana armada — el error del día contado con humor humaniza más que 10 logos. Planifica tu semana gratis con Propaga (propaga.pe). ¿Cuál usan más?
+Las historias son el canal de CONFIANZA: el feed atrae extraños, las historias los convencen. Pero la mayoría de negocios las quema con 9 fotos del mismo producto. 12 ideas + la semana armada — el error del día contado con humor humaniza más que 10 logos. Y cuando esas historias hagan que te escriban, Propaga (propaga.pe) responde por ti, gratis. ¿Cuál usan más?
 ```

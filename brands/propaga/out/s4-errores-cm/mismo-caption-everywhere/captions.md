@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 No copies el mismo texto en todas las redes: los hashtags de IG se ven raros en Facebook, el "link en bio" no existe fuera de Instagram y el tono cambia por red.
 
-No es rehacer el contenido — es cambiarle el traje al TEXTO: 2 minutos por red. Con Propaga (propaga.pe) preparas y programas todo gratis.
+No es rehacer el contenido — es cambiarle el traje al TEXTO: 2 minutos por red. Y los mensajes de todas tus redes los respondes desde una sola bandeja con Propaga (propaga.pe), gratis.
 
 #multicanal #socialmedia #cm #estrategia #peru
 ```
@@ -31,5 +31,5 @@ Guía para adaptar textos por plataforma: por qué el copiar-pegar falla y el tr
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Cada red es una fiesta distinta: no cuentas el mismo chiste igual en un matrimonio que en un tono. El contenido (la imagen, el carrusel) viaja gratis entre redes — pero el texto se adapta: en Facebook funcionan las preguntas conversables, no los. Con Propaga (propaga.pe) preparas y programas tu contenido gratis. ¿Ustedes adaptan o CTRL+V?
+Cada red es una fiesta distinta: no cuentas el mismo chiste igual en un matrimonio que en un tono. El contenido (la imagen, el carrusel) viaja gratis entre redes — pero el texto se adapta: en Facebook funcionan las preguntas conversables, no los. Y los mensajes de todas sus redes se responden desde una sola bandeja con Propaga (propaga.pe), gratis. ¿Ustedes adaptan o CTRL+V?
 ```

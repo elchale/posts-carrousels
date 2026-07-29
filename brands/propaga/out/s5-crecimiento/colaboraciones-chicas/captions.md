@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Crece haciendo posts con otros negocios: no necesitas un influencer — necesitas 5 cuentas de TU tamaño con TU público (complemento, no competencia: la pastelería + la florería).
 
-El post en colaboración sale en ambos feeds: dos cuentas de 800 se presentan a 800 personas nuevas, gratis. Planifica tu mes gratis con Propaga (propaga.pe).
+El post en colaboración sale en ambos feeds: dos cuentas de 800 se presentan a 800 personas nuevas, gratis. Y a los que lleguen de la colab les responde Propaga (propaga.pe), gratis.
 
 #colaboraciones #crecimiento #networking #emprendedores #peru
 ```
@@ -31,5 +31,5 @@ Guía de colaboraciones entre cuentas pequeñas: socios complementarios, formato
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La táctica de crecimiento más subvalorada para cuentas chicas: la colaboración entre iguales. Mismo público, distinto producto (el contador + la agencia, el gym + la nutricionista), post colab que sale en ambos feeds. El guion del DM: "tenemos público parecido y no competimos — ¿hacemos un post juntos?" Casi todos dicen sí. Planifiquen el mes gratis con Propaga (propaga.pe). ¿Con quién colaborarían?
+La táctica de crecimiento más subvalorada para cuentas chicas: la colaboración entre iguales. Mismo público, distinto producto (el contador + la agencia, el gym + la nutricionista), post colab que sale en ambos feeds. El guion del DM: "tenemos público parecido y no competimos — ¿hacemos un post juntos?" Casi todos dicen sí. Y los mensajes del público nuevo los responde Propaga (propaga.pe) por ustedes, gratis. ¿Con quién colaborarían?
 ```

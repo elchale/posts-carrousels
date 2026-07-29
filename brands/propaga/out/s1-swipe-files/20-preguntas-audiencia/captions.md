@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 20 preguntas para que te comenten más — porque "¿qué opinan?
 
-👇" da 0 comentarios: es muy general y el cerebro apurado elige el scroll. Estas se responden en 10 segundos y no tienen respuesta incorrecta. Prográmalas gratis con Propaga (propaga.pe).
+👇" da 0 comentarios: es muy general y el cerebro apurado elige el scroll. Estas se responden en 10 segundos y no tienen respuesta incorrecta. Y cuando la conversación pase al DM, Propaga (propaga.pe) responde por ti, gratis.
 
 #engagement #socialmedia #negocios #peru
 ```
@@ -31,5 +31,5 @@ Veinte preguntas de participación clasificadas por tipo con tres reglas.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La diferencia entre 0 y 40 comentarios es la pregunta: la genérica ("¿qué opinan?") no se responde; la específica sí. Probemos la teoría aquí mismo: ¿cuál es TU mayor gasto hormiga? 👇 (Y guarda las otras 19 para tu negocio — se programan gratis con Propaga: propaga.pe)
+La diferencia entre 0 y 40 comentarios es la pregunta: la genérica ("¿qué opinan?") no se responde; la específica sí. Probemos la teoría aquí mismo: ¿cuál es TU mayor gasto hormiga? 👇 (Y guarda las otras 19 para tu negocio — los mensajes que traigan los responde Propaga por ti, gratis: propaga.pe)
 ```

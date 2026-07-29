@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Este Día del Niño regala algo que no se rompe: los juguetes aburren en semanas, un plan familiar dura toda la infancia.
 
-Los regalos: el juego de "¿y si no me ves?", su primera pulsera ComeHomeTag propia (con su nombre y tu QR: seguridad disfrazada de regalo) y el punto de encuentro elegido por él.
+Los regalos: el juego de "¿y si no me ves?", su primera pulsera ComeHomeTag propia (con tu QR: seguridad disfrazada de regalo) y el punto de encuentro elegido por él.
 
 #diadelniño #regalos #crianza #peru
 ```
@@ -31,5 +31,5 @@ Regalos de seguridad para el Día del Niño: juego, punto de encuentro y la puls
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Se acerca el Día del Niño y el dato es real: los juguetes pierden interés en semanas. Este año, además del juguete: el juego de "¿y si no me ves?", el punto de encuentro elegido POR él y su primera pulsera ComeHomeTag propia — con su nombre, y con tu número para quien lo ayude. comehometag.com
+Se acerca el Día del Niño y el dato es real: los juguetes pierden interés en semanas. Este año, además del juguete: el juego de "¿y si no me ves?", el punto de encuentro elegido POR él y su primera pulsera ComeHomeTag propia — con tu número para quien lo ayude. comehometag.com
 ```

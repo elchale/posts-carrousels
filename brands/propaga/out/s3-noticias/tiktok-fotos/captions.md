@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Sube fotos a TikTok y llega más lejos sin hacer videos: el modo foto (hasta 35 imágenes con música) funciona y tiene menos competencia.
 
-El detalle que decide todo: el SONIDO — súbelas siempre con un sonido en tendencia. Diseña una vez y publica en dos redes, planificado gratis con Propaga (propaga.pe).
+El detalle que decide todo: el SONIDO — súbelas siempre con un sonido en tendencia. Diseña una vez y publica en dos redes — y los mensajes de ambas los responde Propaga (propaga.pe) desde una sola bandeja, gratis.
 
 #tiktok #carrusel #negocios #peru
 ```
@@ -31,5 +31,5 @@ El modo foto de TikTok para negocios: funcionamiento, oportunidad, sonido y reut
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Oportunidad que casi ningún negocio usa: los carruseles de fotos de TikTok — mismo Para Ti, menos competencia, y el contenido se LEE a ritmo propio (guías, listas, catálogos). El error típico: subirlos sin sonido — en TikTok el audio cuenta hasta en fotos. Planifica tu contenido gratis con Propaga (propaga.pe). ¿Ya probaron el formato?
+Oportunidad que casi ningún negocio usa: los carruseles de fotos de TikTok — mismo Para Ti, menos competencia, y el contenido se LEE a ritmo propio (guías, listas, catálogos). El error típico: subirlos sin sonido — en TikTok el audio cuenta hasta en fotos. Y los mensajes de TikTok e Instagram los juntas y respondes gratis con Propaga (propaga.pe). ¿Ya probaron el formato?
 ```

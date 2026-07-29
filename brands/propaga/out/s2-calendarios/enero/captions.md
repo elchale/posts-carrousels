@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Qué publicar en enero para vender más: las 2 primeras semanas la ola de "año nuevo, yo nuevo" (conecta tu producto con un propósito concreto), la semana 3 el contenido anti-abandono, y el verano mandando todo el mes.
 
-Programa enero antes del 31 con Propaga (propaga.pe), gratis.
+Y los mensajes de enero los responde Propaga (propaga.pe) por ti, gratis.
 
 #enero #propositos #negocios #peru
 ```
@@ -31,5 +31,5 @@ Calendario de enero: ola de propósitos, contenido anti-abandono y verano.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Dato de enero: la mayoría de los propósitos muere alrededor del día 19. Las primeras 2 semanas venden euforia — pero la jugada maestra es la semana 3: contenido anti-abandono ("progreso antes que perfección"). Acompañar el bajón fideliza más que celebrar el arranque. Programa el mes gratis con Propaga (propaga.pe). ¿Qué vende tu negocio en enero?
+Dato de enero: la mayoría de los propósitos muere alrededor del día 19. Las primeras 2 semanas venden euforia — pero la jugada maestra es la semana 3: contenido anti-abandono ("progreso antes que perfección"). Acompañar el bajón fideliza más que celebrar el arranque. Y a los que te escriban por sus propósitos les responde Propaga (propaga.pe) por ti, gratis. ¿Qué vende tu negocio en enero?
 ```

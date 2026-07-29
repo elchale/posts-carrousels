@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Los 3 números que debes revisar en tus estadísticas de Instagram (y los 37 que puedes ignorar): compartidos (¿llego a gente nueva?), guardados (¿soy útil o solo bonito?) y visitas→clics (si hay visitas sin clics, arregla tu bio).
 
-Con eso decides tu mes — y lo programas gratis con Propaga (propaga.pe).
+Con eso decides tu mes — y los mensajes que lleguen los responde Propaga (propaga.pe) por ti, gratis.
 
 #estadisticas #instagram #negocios #peru
 ```
@@ -31,5 +31,5 @@ Los tres números esenciales de las estadísticas de Instagram para negocios.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Análisis para gente ocupada: de los 40 números de las estadísticas, solo 3 pagan recibos — compartidos (audiencia nueva), guardados (valor real) y visitas→clics (si hay visitas sin clics, el problema es tu BIO). Los likes son vanidad. Decide con esos 3 y programa el mes gratis con Propaga (propaga.pe). ¿Cuál tienen más flojo?
+Análisis para gente ocupada: de los 40 números de las estadísticas, solo 3 pagan recibos — compartidos (audiencia nueva), guardados (valor real) y visitas→clics (si hay visitas sin clics, el problema es tu BIO). Los likes son vanidad. Decide con esos 3 — y los "¿precio?" los responde Propaga (propaga.pe) por ti, gratis. ¿Cuál tienen más flojo?
 ```

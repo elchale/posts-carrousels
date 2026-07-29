@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Venderle a todos es venderle a nadie: el cerebro filtra lo genérico y reacciona cuando se siente RETRATADO.
 
-Elegir un público es la puerta, no una cerca — la panadería de "masa madre para familias" también le vende al soltero. Haz el ejercicio del cliente estrella y planifica tu contenido gratis con Propaga (propaga.pe).
+Elegir un público es la puerta, no una cerca — la panadería de "masa madre para familias" también le vende al soltero. Haz el ejercicio del cliente estrella — y cuando te escriba, Propaga (propaga.pe) responde por ti, gratis.
 
 #nicho #marketingdigital #estrategia #emprendedores #peru
 ```
@@ -31,5 +31,5 @@ El error de hablar a audiencias genéricas: psicología del retrato, nicho como 
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El miedo a elegir público: "si me especializo, pierdo clientes". La realidad es la contraria — el público elegido es la PUERTA de entrada, no una cerca: "5 gastos hormiga del oficinista limeño" se envía al grupo de la oficina; "5 tips de finanzas" se scrollea. Escriban para su cliente estrella y planifiquen gratis con Propaga (propaga.pe). ¿Su contenido genera comentarios de "esto es literal yo"?
+El miedo a elegir público: "si me especializo, pierdo clientes". La realidad es la contraria — el público elegido es la PUERTA de entrada, no una cerca: "5 gastos hormiga del oficinista limeño" se envía al grupo de la oficina; "5 tips de finanzas" se scrollea. Escriban para su cliente estrella — y cuando les escriba, Propaga (propaga.pe) responde por ustedes, gratis. ¿Su contenido genera comentarios de "esto es literal yo"?
 ```

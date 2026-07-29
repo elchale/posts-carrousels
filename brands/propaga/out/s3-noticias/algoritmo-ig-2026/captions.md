@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Cómo hacer que Instagram muestre tus posts: los likes ya casi no cuentan — hoy mandan los compartidos (la señal para llegar a gente nueva), los guardados (el post que vive semanas) y el tiempo de atención.
 
-Con acciones para esta semana, y con Propaga (propaga.pe) las programas gratis.
+Con acciones para esta semana — y cuando el alcance traiga mensajes, Propaga (propaga.pe) los responde por ti, gratis.
 
 #1 #algoritmo #instagram #marketingdigital #peru
 ```
@@ -31,5 +31,5 @@ El algoritmo de Instagram explicado simple: envíos, guardados y tiempo de atenc
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El algoritmo de Instagram no te odia — cambió de gustos: ahora mandan los compartidos (que alguien le mande tu post a un amigo), los guardados y el tiempo de atención. La acción de esta semana: revisa qué post tuyo se compartió más… y haz otro igual. Prográmalo gratis con Propaga (propaga.pe). ¿Sabías esto?
+El algoritmo de Instagram no te odia — cambió de gustos: ahora mandan los compartidos (que alguien le mande tu post a un amigo), los guardados y el tiempo de atención. La acción de esta semana: revisa qué post tuyo se compartió más… y haz otro igual. Y los mensajes que traiga, Propaga (propaga.pe) los responde por ti, gratis. ¿Sabías esto?
 ```

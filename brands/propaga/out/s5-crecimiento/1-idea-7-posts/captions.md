@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Convierte 1 idea en 7 posts: una misma idea semilla se vuelve carrusel, video, encuesta, caso real, opinión, confesión y resumen semanal.
 
-4 ideas × 7 formatos = el mes entero resuelto — y programado gratis con Propaga (propaga.pe).
+4 ideas × 7 formatos = el mes entero resuelto. Y los mensajes que traiga los responde Propaga (propaga.pe) por ti, gratis.
 
 #contentmarketing #productividad #ideas #cm #peru
 ```
@@ -31,5 +31,5 @@ Sistema de multiplicación de contenido: una idea semilla convertida en siete fo
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La matemática que salva el mes: 4 ideas buenas × 7 formatos = 28 posts. Una misma idea semilla se convierte en carrusel, video, encuesta, caso real, opinión, confesión y resumen semanal — sin repetirse, porque cada formato le habla a una parte distinta de tu audiencia. Y todo se deja programado gratis con Propaga (propaga.pe). ¿Cuál es su idea semilla de esta semana?
+La matemática que salva el mes: 4 ideas buenas × 7 formatos = 28 posts. Una misma idea semilla se convierte en carrusel, video, encuesta, caso real, opinión, confesión y resumen semanal — sin repetirse, porque cada formato le habla a una parte distinta de tu audiencia. Y la idea semilla del ejemplo se arregla con Propaga (propaga.pe): responde tus mensajes al instante, gratis. ¿Cuál es su idea semilla de esta semana?
 ```

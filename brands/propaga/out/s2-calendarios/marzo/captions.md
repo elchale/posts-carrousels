@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Qué publicar en marzo para vender más: el regreso a clases (casi todo rubro tiene ángulo escolar y la compra se concentra en 2 semanas) y el 8 de marzo, donde la regla es dura: reconocimiento con hechos o silencio — nada de plantilla rosada.
 
-Programa el mes gratis con Propaga (propaga.pe).
+Y las consultas escolares las responde Propaga (propaga.pe) por ti, gratis.
 
 #marzo #regresoaclases #8m #peru
 ```
@@ -31,5 +31,5 @@ Calendario de marzo: regreso a clases y las reglas de coherencia para el 8M.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Marzo en dos fechas: el regreso a clases (guías por edad y "lo que siempre se olvida comprar" son oro las 2 primeras semanas) y el 8M, donde la regla es justa: si tu marca no tiene nada REAL que decir, mejor silencio que plantilla rosada. Marzo se programa en febrero — gratis con Propaga (propaga.pe). ¿De acuerdo?
+Marzo en dos fechas: el regreso a clases (guías por edad y "lo que siempre se olvida comprar" son oro las 2 primeras semanas) y el 8M, donde la regla es justa: si tu marca no tiene nada REAL que decir, mejor silencio que plantilla rosada. Marzo se prepara en febrero — y sus consultas las responde Propaga (propaga.pe) por ti, gratis. ¿De acuerdo?
 ```

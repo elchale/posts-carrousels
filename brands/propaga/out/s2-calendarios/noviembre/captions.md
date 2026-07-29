@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Cómo vender en Black Friday sin perder plata: el 70% de descuento quema tu ganancia — mejor paquetes (más valor, mismo margen), regalo por compra o acceso anticipado, siempre sobre tu producto estrella.
 
-Se siembra 3 semanas antes, y con Propaga (propaga.pe) dejas la campaña programada gratis.
+Se siembra 3 semanas antes — y los "¿sigue la oferta?" del viernes los responde Propaga (propaga.pe) por ti, gratis.
 
 #blackfriday #noviembre #negocios #peru
 ```
@@ -31,5 +31,5 @@ Estrategia de noviembre: siembra previa, alternativas al descuento y la semana c
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Verdad de noviembre: el 70% de descuento es trampa para negocios chicos — quema margen y acostumbra mal al cliente. Las jugadas inteligentes: paquete, regalo por compra, acceso anticipado. Y la campaña se siembra 3 semanas antes — con Propaga (propaga.pe) la dejas programada gratis. ¿Cuál es su jugada?
+Verdad de noviembre: el 70% de descuento es trampa para negocios chicos — quema margen y acostumbra mal al cliente. Las jugadas inteligentes: paquete, regalo por compra, acceso anticipado. Y la campaña se siembra 3 semanas antes — la avalancha de mensajes del viernes la responde Propaga (propaga.pe) por ti, gratis. ¿Cuál es su jugada?
 ```

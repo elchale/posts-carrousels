@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Repite lo que ya te funcionó: la mayor parte de tus resultados viene de un puñado de posts.
 
-El método de 10 minutos: ordena tus últimos 30 posts por compartidos y guardados — los 6 primeros son tu patrón ganador. Repetirlo es escuchar a tu audiencia. Planifica el mes alrededor del patrón, gratis con Propaga (propaga.pe).
+El método de 10 minutos: ordena tus últimos 30 posts por compartidos y guardados — los 6 primeros son tu patrón ganador. Repetirlo es escuchar a tu audiencia. Y los mensajes que traiga tu patrón ganador los responde Propaga (propaga.pe), gratis.
 
 #pareto #contentmarketing #estrategia #cm #peru
 ```
@@ -31,5 +31,5 @@ Aplicación del principio de Pareto al contenido: identificar los posts ganadore
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Ejercicio de 10 minutos que cambia el mes: ordenen sus últimos 30 posts por compartidos y guardados — los 6 primeros son su patrón ganador (tema, formato, portada). Repetir lo que funciona no es aburrido: es escuchar a la audiencia que ya votó. Y el mes se planifica gratis con Propaga (propaga.pe). ¿Cuál es el patrón de sus mejores posts?
+Ejercicio de 10 minutos que cambia el mes: ordenen sus últimos 30 posts por compartidos y guardados — los 6 primeros son su patrón ganador (tema, formato, portada). Repetir lo que funciona no es aburrido: es escuchar a la audiencia que ya votó. Y los mensajes que traigan esos posts los responde Propaga (propaga.pe) por ustedes, gratis. ¿Cuál es el patrón de sus mejores posts?
 ```

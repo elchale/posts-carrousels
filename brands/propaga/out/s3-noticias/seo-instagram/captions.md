@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Cómo aparecer cuando buscan tu negocio: Instagram ahora funciona como buscador.
 
-Las claves: tu palabra clave en la primera línea (no la gastes en "✨nuevo post✨"), el campo NOMBRE con rubro y ciudad ("Ana | Tortas Lima" aparece; "Anita_Sweet_22" no) y el texto de tus imágenes también cuenta. Programa tus posts gratis con Propaga (propaga.pe).
+Las claves: tu palabra clave en la primera línea (no la gastes en "✨nuevo post✨"), el campo NOMBRE con rubro y ciudad ("Ana | Tortas Lima" aparece; "Anita_Sweet_22" no) y el texto de tus imágenes también cuenta. Y a los que te encuentren y escriban les responde Propaga (propaga.pe) por ti, gratis.
 
 #seo #instagram #marketingdigital #peru
 ```
@@ -31,5 +31,5 @@ Búsqueda en Instagram: nombre de perfil con palabras clave, primera línea del 
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El cambio más grande de Instagram que nadie explicó bien: ahora funciona como buscador. La tarea de 10 minutos que más retorna: pon tu palabra clave en el campo NOMBRE del perfil — "Ana | Tortas Personalizadas Lima" aparece en búsquedas, "Anita_Sweet_22" no. Y programa tus posts gratis con Propaga (propaga.pe). ¿Ya lo hicieron?
+El cambio más grande de Instagram que nadie explicó bien: ahora funciona como buscador. La tarea de 10 minutos que más retorna: pon tu palabra clave en el campo NOMBRE del perfil — "Ana | Tortas Personalizadas Lima" aparece en búsquedas, "Anita_Sweet_22" no. Y a los que te encuentren les responde Propaga (propaga.pe) por ti, gratis. ¿Ya lo hicieron?
 ```

@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Por qué nadie comenta tus posts: "¿qué opinas?
 
-👇" exige pensar, redactar y exponerse — y el cerebro apurado elige el scroll. La pregunta que sí se responde: menos de 10 segundos, sin respuesta incorrecta, y pide elegir. Planifica tus posts con la pregunta pensada, gratis con Propaga (propaga.pe).
+👇" exige pensar, redactar y exponerse — y el cerebro apurado elige el scroll. La pregunta que sí se responde: menos de 10 segundos, sin respuesta incorrecta, y pide elegir. Y cuando la conversación pase al privado, Propaga (propaga.pe) responde por ti, gratis.
 
 #interaccion #copywriting #preguntas #cm #peru
 ```
@@ -31,5 +31,5 @@ Por qué las preguntas genéricas no generan comentarios y la anatomía de pregu
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Le pides "tu opinión" a alguien que scrollea con una mano mientras almuerza con la otra — por eso nadie comenta. La pregunta ganadora: se responde en 10 segundos, no tiene respuesta incorrecta y pide ELEGIR. Practiquemos aquí mismo: ¿su cierre más usado es A) "¿qué opinas?" o B) uno específico? A o B 👇 (Y sus posts se programan gratis con Propaga: propaga.pe)
+Le pides "tu opinión" a alguien que scrollea con una mano mientras almuerza con la otra — por eso nadie comenta. La pregunta ganadora: se responde en 10 segundos, no tiene respuesta incorrecta y pide ELEGIR. Practiquemos aquí mismo: ¿su cierre más usado es A) "¿qué opinas?" o B) uno específico? A o B 👇 (Y los DMs que traigan sus posts los responde Propaga: propaga.pe, gratis)
 ```

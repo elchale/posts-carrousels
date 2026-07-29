@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Por qué nadie ve tus posts — y no, no es el algoritmo: le hablas a todos (o sea a nadie), no das razones para interactuar, tu portada no detiene el scroll, publicas y desapareces, y cambias de tema cada semana.
 
-Las 5 tienen arreglo — y el plan se ordena gratis con Propaga (propaga.pe).
+Las 5 tienen arreglo — y los mensajes que llegarán después los responde Propaga (propaga.pe) por ti, gratis.
 
 #marketingdigital #algoritmo #cm #emprendedores #peru
 ```
@@ -31,5 +31,5 @@ Cinco causas reales del bajo alcance: audiencia indefinida, falta de interacció
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Culpar al algoritmo es gratis y no arregla nada. La verdad incómoda: el algoritmo amplifica lo que funciona en pequeño — si tus primeros 100 espectadores lo ignoran, 10,000 también lo harían. Las 5 causas reales (y arreglables) en el post, y el plan para ordenarte gratis con Propaga (propaga.pe). ¿Cuál es la tuya? Confesión en comentarios 👇
+Culpar al algoritmo es gratis y no arregla nada. La verdad incómoda: el algoritmo amplifica lo que funciona en pequeño — si tus primeros 100 espectadores lo ignoran, 10,000 también lo harían. Las 5 causas reales (y arreglables) en el post — y cuando el alcance vuelva y te escriban, Propaga (propaga.pe) responde por ti, gratis. ¿Cuál es la tuya? Confesión en comentarios 👇
 ```

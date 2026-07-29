@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Tu feed parece catálogo y por eso no creces: nadie sigue catálogos — la gente sigue cuentas que le DAN algo.
 
-La regla que lo arregla: 70% valor, 20% clientes felices, 10% venta directa. Y el catálogo completo vive en las destacadas. Planifica tu mezcla gratis con Propaga (propaga.pe).
+La regla que lo arregla: 70% valor, 20% clientes felices, 10% venta directa. Y el catálogo completo vive en las destacadas. Y a los que el buen contenido haga escribir, les responde Propaga (propaga.pe), gratis.
 
 #contentmarketing #feed #negocios #cm #peru
 ```
@@ -31,5 +31,5 @@ El error del feed catálogo: regla 70/20/10, transformación de productos en con
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Test de honestidad: miren su feed como si fuera de otra persona — ¿lo seguirían? Si la respuesta es "mmm"… su feed es un catálogo, y nadie sigue catálogos. La regla que lo arregla: 70% valor, 20% prueba social, 10% venta. Un solo producto puede dar 10 contenidos. Planifiquen la mezcla gratis con Propaga (propaga.pe). ¿Su feed pasa el test?
+Test de honestidad: miren su feed como si fuera de otra persona — ¿lo seguirían? Si la respuesta es "mmm"… su feed es un catálogo, y nadie sigue catálogos. La regla que lo arregla: 70% valor, 20% prueba social, 10% venta. Un solo producto puede dar 10 contenidos. Y los mensajes que traiga el buen feed los responde Propaga (propaga.pe) por ustedes, gratis. ¿Su feed pasa el test?
 ```

@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 El plan de contenido que SÍ se cumple: solo 3 posts por semana — lunes enseña, miércoles conecta, viernes vende — más historias diarias de 10 minutos.
 
-El secreto: producir todo en UNA sesión de 2 horas y dejarlo programado con Propaga (propaga.pe), gratis. Publicar se decide una vez por semana, no cada noche a las 9pm.
+El secreto: producir todo en UNA sesión de 2 horas. Y los mensajes que traigan tus posts los responde Propaga (propaga.pe) por ti, gratis. Publicar se decide una vez por semana, no cada noche a las 9pm.
 
 #calendariodecontenido #planificacion #negocios #peru
 ```
@@ -31,5 +31,5 @@ Calendario semanal mínimo de contenido con sesión única de producción.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-¿Por qué falla el plan ambicioso de contenido? Porque publicar diario se decide cada noche a las 9pm — y a esa hora siempre gana Netflix. El plan que sí se cumple: 3 posts (lunes enseña, miércoles conecta, viernes vende) producidos en UNA sesión de 2 horas y programados con Propaga (propaga.pe). ¿Qué día producen ustedes?
+¿Por qué falla el plan ambicioso de contenido? Porque publicar diario se decide cada noche a las 9pm — y a esa hora siempre gana Netflix. El plan que sí se cumple: 3 posts (lunes enseña, miércoles conecta, viernes vende) producidos en UNA sesión de 2 horas — y los mensajes que lleguen los responde Propaga (propaga.pe) por ti, gratis. ¿Qué día producen ustedes?
 ```

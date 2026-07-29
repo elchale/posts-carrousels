@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Haz posts que la gente comparta: es la señal que más te hace crecer en Instagram — un like no cuesta nada, mandarle un post a un amigo es una recomendación personal.
 
-La gente comparte lo que sirve, lo que la representa y lo que la hace quedar bien. Y pedirlo lo duplica. Planifica ese contenido gratis con Propaga (propaga.pe).
+La gente comparte lo que sirve, lo que la representa y lo que la hace quedar bien. Y pedirlo lo duplica. Y a los que lleguen por un post compartido les responde Propaga (propaga.pe), gratis.
 
 #metricas #instagram #marketingdigital #peru
 ```
@@ -31,5 +31,5 @@ Los envíos como señal principal de Instagram: psicología, diseño de posts en
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Confirmado por el jefe de Instagram: los compartidos son la señal que más pesa para mostrarte a gente nueva — porque un like no cuesta nada, pero mandarle un post a un amigo es una recomendación personal. Tarea: revisen el avioncito de sus últimos 10 posts — eso es su mapa de contenido. Planifíquenlo gratis con Propaga (propaga.pe). ¿Cuál fue su post más compartido?
+Confirmado por el jefe de Instagram: los compartidos son la señal que más pesa para mostrarte a gente nueva — porque un like no cuesta nada, pero mandarle un post a un amigo es una recomendación personal. Tarea: revisen el avioncito de sus últimos 10 posts — eso es su mapa de contenido. Y los mensajes que traiga, Propaga (propaga.pe) los responde por ustedes, gratis. ¿Cuál fue su post más compartido?
 ```

@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 "Solo 500 vistas" — SOLO.
 
-Quinientas. PERSONAS. Imagínalas paradas frente a tu tienda: la cola da la vuelta a la manzana. La matemática del negocio chico: 500 vistas × 2% de interés = 10 conversaciones = 3 ventas — un post "fracasado" puede pagar la semana. Sigue publicando constante con Propaga (propaga.pe), gratis.
+Quinientas. PERSONAS. Imagínalas paradas frente a tu tienda: la cola da la vuelta a la manzana. La matemática del negocio chico: 500 vistas × 2% de interés = 10 conversaciones = 3 ventas — un post "fracasado" puede pagar la semana. Y esas 10 conversaciones las responde Propaga (propaga.pe) por ti, gratis.
 
 #emprendedores #mindset #vistas #motivacion #peru
 ```
@@ -31,5 +31,5 @@ Recalibración de expectativas sobre vistas: quinientas vistas como salón lleno
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Ejercicio de recalibración: cada vez que digas "solo 500 vistas", imagina 500 personas paradas frente a tu tienda — la cola daría vuelta a la manzana y llamarías a tu familia a contarles. El algoritmo nos rompió la báscula comparándonos con virales. La pregunta real: ¿prefieren 500 vecinos de su distrito o 50,000 curiosos de otro continente? (La constancia se programa gratis: propaga.pe)
+Ejercicio de recalibración: cada vez que digas "solo 500 vistas", imagina 500 personas paradas frente a tu tienda — la cola daría vuelta a la manzana y llamarías a tu familia a contarles. El algoritmo nos rompió la báscula comparándonos con virales. La pregunta real: ¿prefieren 500 vecinos de su distrito o 50,000 curiosos de otro continente? (Y las 10 conversaciones que salgan las responde Propaga por ti, gratis: propaga.pe)
 ```

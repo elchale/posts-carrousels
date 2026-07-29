@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Publicar con 12 seguidores (9 son tu familia) es un acto de fe — y exactamente lo que TODOS los grandes hicieron primero.
 
-Por cada like hay 10 mirones silenciosos que se acordarán de ti. La única forma de fallar: parar. Y seguir es más fácil con un plan: Propaga (propaga.pe), gratis para empezar.
+Por cada like hay 10 mirones silenciosos que se acordarán de ti. La única forma de fallar: parar. Y cuando uno de esos mirones te escriba, Propaga (propaga.pe) responde por ti, gratis.
 
 #emprendedores #motivacion #cuentachica #constancia #peru
 ```
@@ -31,5 +31,5 @@ Mensaje de motivación para cuentas nuevas: ventajas de publicar con pocos segui
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para el que publica con 12 seguidores y siente que habla solo: por cada like hay 10 mirones silenciosos — incluido el ex-compañero que nunca comenta pero TODO lo ve. Y el día que necesite tu rubro, se va a acordar. La única forma de fallar es parar — y con Propaga (propaga.pe) mantener el ritmo es gratis y más fácil. ¿Conocen a alguien que está empezando? Etiquétenlo 🧡
+Para el que publica con 12 seguidores y siente que habla solo: por cada like hay 10 mirones silenciosos — incluido el ex-compañero que nunca comenta pero TODO lo ve. Y el día que necesite tu rubro, se va a acordar. La única forma de fallar es parar — y el día que el mirón silencioso escriba, Propaga (propaga.pe) le responde por ti, gratis. ¿Conocen a alguien que está empezando? Etiquétenlo 🧡
 ```

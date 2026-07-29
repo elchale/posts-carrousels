@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Qué publicar en septiembre para vender más: la primavera (el mes de estrenar y renovar) y el truco infalible de fin de mes — "quedan 100 días para el 2027", el empujón que funciona todos los años.
 
-12 posts bastan, programados gratis con Propaga (propaga.pe).
+12 posts bastan — y las consultas que traigan las responde Propaga (propaga.pe) por ti, gratis.
 
 #septiembre #primavera #calendariodecontenido #peru
 ```
@@ -31,5 +31,5 @@ Calendario de septiembre: primavera, gancho de los cien días y plan del mes.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El post que funciona TODOS los años a fines de septiembre: "quedan 100 días para el 2027". Urgencia honesta, aplica a casi cualquier rubro, y para servicios es el mejor empujón del trimestre. Deja el mes programado gratis con Propaga (propaga.pe). ¿Ya saben qué van a renovar en su negocio esta primavera?
+El post que funciona TODOS los años a fines de septiembre: "quedan 100 días para el 2027". Urgencia honesta, aplica a casi cualquier rubro, y para servicios es el mejor empujón del trimestre. Y a los que pregunten por tus estrenos les responde Propaga (propaga.pe) por ti, gratis. ¿Ya saben qué van a renovar en su negocio esta primavera?
 ```

@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 El community manager a las 11pm respondiendo "¿precio?" desde la cama: homenaje al oficio de ser diseñador, redactor, fotógrafo, psicólogo y bombero — con el sueldo de uno.
 
-Los salvavidas: horarios por contrato, contenido aprobado por adelantado, reportes simples… y Propaga (propaga.pe) para programar todas tus marcas gratis.
+Los salvavidas: horarios por contrato, contenido aprobado por adelantado, reportes simples… y Propaga (propaga.pe) para que los "¿precio?" de las 11pm se respondan solos, gratis.
 
 #communitymanager #cm #agencias #relatable #peru
 ```
@@ -31,5 +31,5 @@ Homenaje humorístico al community manager multitarea con salvavidas prácticos.
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-"Queremos algo viral, pero elegante, que venda pero sin vender. Para mañana." — Homenaje a los community managers: diseñadores, redactores, fotógrafos, psicólogos y bomberos con el sueldo de uno solo. Un respiro real: Propaga (propaga.pe) programa el contenido de todas tus marcas gratis. ¿Conocen a un CM que sobrevive a punta de cafeína? Etiquétenlo ☕🧡
+"Queremos algo viral, pero elegante, que venda pero sin vender. Para mañana." — Homenaje a los community managers: diseñadores, redactores, fotógrafos, psicólogos y bomberos con el sueldo de uno solo. Un respiro real: Propaga (propaga.pe) responde los mensajes de todas tus marcas por ti, gratis. ¿Conocen a un CM que sobrevive a punta de cafeína? Etiquétenlo ☕🧡
 ```
