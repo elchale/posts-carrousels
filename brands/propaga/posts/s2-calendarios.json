@@ -139,9 +139,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-lista.png",
+          "shot": "shot-bandeja.png",
           "h": "Octubre te llena la bandeja.",
-          "b": "WhatsApp, Instagram y Facebook en una sola lista, con lo pendiente marcado."
+          "b": "Así se ve: todas tus redes en una lista, con lo pendiente marcado."
         },
         {
           "role": "stat",
@@ -510,9 +510,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-fuera.png",
+          "shot": "shot-campanas.png",
           "h": "Cada fecha, con sus números.",
-          "b": "Cuántos lo leyeron y cuántos se quedaron fuera, envío por envío."
+          "b": "Cuántos leyeron, cuántos contestaron, cuánto costó y en qué ciudad."
         },
         {
           "role": "stat",

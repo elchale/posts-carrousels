@@ -250,25 +250,30 @@ class Renderer:
         panel each, never a whole dashboard.
         """
         text_c, sub_c = rc["text"], rc["sub"]
-        pad = 18            # white margin between the card edge and the screenshot
-        gap_h, gap_b = 44, 40
+        pad = 16            # white margin between the card edge and the screenshot
+        gap_h, gap_b = 34, 32
+        # Wider than the 888px text core: the core rule exists so TEXT survives the
+        # square profile-grid crop, and every crop is full width, so an image can
+        # spill past it horizontally. Vertically it still has to stay inside.
+        card_max_w = 1000
 
         # Headline and caption are measured first; the screenshot takes whatever
         # height is left, and then the three of them are centred as one block —
         # centring the image inside the leftover space instead leaves the caption
-        # stranded mid-slide with a hole under it.
-        hf, hlines, hlh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, (76, 46), 860, 250)
+        # stranded mid-slide with a hole under it. The type is deliberately smaller
+        # than on a text slide: here the screenshot is the argument.
+        hf, hlines, hlh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, (68, 44), 860, 170)
 
         blines: list[str] = []
-        bf = font(body_f, 38, 500)
+        bf = font(body_f, 36, 500)
         if slide.get("b"):
-            blines = wrap(draw, strip_emoji(slide["b"]), bf, 800)
-        bh = len(blines) * 50
+            blines = wrap(draw, strip_emoji(slide["b"]), bf, 820)
+        bh = len(blines) * 46
         tail = gap_b + bh if blines else 0
 
-        max_img_h = (CORE_Y1 - CORE_Y0 - 20) - hh - gap_h - tail - 2 * pad
+        max_img_h = (CORE_Y1 - CORE_Y0 - 16) - hh - gap_h - tail - 2 * pad
         shot = Image.open(self.dir / "product" / slide["shot"]).convert("RGB")
-        scale = min((888 - 2 * pad) / shot.width, max_img_h / shot.height)
+        scale = min((card_max_w - 2 * pad) / shot.width, max_img_h / shot.height)
         sw, sh = max(1, round(shot.width * scale)), max(1, round(shot.height * scale))
         shot = shot.resize((sw, sh), Image.LANCZOS)
 
@@ -298,7 +303,7 @@ class Renderer:
                                outline="#e2ddd6", width=2)
 
         if blines:
-            draw_block(draw, blines, bf, 50, cy0 + card_h + gap_b, sub_c)
+            draw_block(draw, blines, bf, 46, cy0 + card_h + gap_b, sub_c)
 
     def _product_slide(self, im, draw, slide, rc, disp, dw, body_f):
         """White rounded card with the product photo + headline + body below."""

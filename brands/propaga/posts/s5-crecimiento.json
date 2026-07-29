@@ -36,9 +36,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-lista.png",
+          "shot": "shot-bandeja.png",
           "h": "Los primeros mil traen los primeros mensajes.",
-          "b": "Ninguno se pierde: llegan todos juntos y marcados como pendientes."
+          "b": "Ninguno se pierde: llegan todos aquí, marcados como pendientes."
         },
         {
           "role": "stat",
@@ -199,9 +199,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-posts.png",
+          "shot": "shot-contenido.png",
           "h": "Una idea, siete publicaciones.",
-          "b": "Y ves cuál de las siete fue la que movió comentarios de verdad."
+          "b": "Y ves cuál de las siete movió comentarios de verdad."
         },
         {
           "role": "stat",
@@ -305,9 +305,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-fuera.png",
+          "shot": "shot-campanas.png",
           "h": "Repite lo que los números aprueban.",
-          "b": "1,790 lo leyeron. 273 se quedaron fuera. Eso te dice qué repetir."
+          "b": "Un envío completo: quién lo leyó, quién contestó y a qué costo."
         },
         {
           "role": "stat",
@@ -358,9 +358,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-respuestas.png",
+          "shot": "shot-fuera.png",
           "h": "Cinco minutos, dos números.",
-          "b": "Cuántos te contestaron y a qué costo. Con eso decides la semana."
+          "b": "1,790 lo leyeron. 273 se quedaron fuera. Con eso decides la semana."
         },
         {
           "role": "stat",
@@ -467,7 +467,7 @@
         },
         {
           "role": "stat",
-          "shot": "shot-lista.png",
+          "shot": "shot-bandeja.png",
           "h": "Explotó el post. Explotó la bandeja.",
           "b": "Cientos de mensajes ordenados, con los pendientes arriba."
         },

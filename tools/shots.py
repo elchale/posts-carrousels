@@ -25,35 +25,43 @@ ROOT = Path(__file__).resolve().parents[1]
 SRC = Path(r"C:\Users\Personal\Desktop\Carlos\Apps\Progress\propaga\frontend\src\assets\landing")
 OUT = ROOT / "brands" / "propaga" / "product"
 
+# Two kinds of crop, on purpose:
+#
+#   FULL views  — the whole screen, nav rail included. Nobody reads the labels at
+#                 slide size; you recognise the shape of a real product: two panes,
+#                 a post with its photo, avatars, unread badges. Use these when the
+#                 message is "todo en un solo lugar".
+#   DETAIL crops — one panel, near native scale, meant to be read: a figure, a
+#                 quoted reply, four rows of contacts.
+#
 # name -> (source file, (x0, y0, x1, y1) as fractions of the source)
 CROPS: dict[str, tuple[str, tuple[float, float, float, float]]] = {
-    # --- campañas: the numbers a shop owner actually asks for ---------------
-    # Two result cards at a time. The full four-card block was tried and dropped:
-    # at slide width the figures shrink to the point of being decoration.
+    # --- FULL views ----------------------------------------------------------
+    "shot-bandeja":     ("screens/inbox.webp",     (0.000, 0.000, 1.000, 1.000)),
+    "shot-chat":        ("screens/inbox.webp",     (0.433, 0.000, 0.996, 1.000)),
+    "shot-contenido":   ("screens/content.webp",   (0.000, 0.000, 1.000, 1.000)),
+    # The right pane of /content: the post WITH its photo and the comments under
+    # it. Cropping to the comment text alone loses the photo, and the photo is
+    # what makes it read as "this is your Instagram post".
+    "shot-comentarios": ("screens/content.webp",   (0.451, 0.030, 0.990, 0.972)),
+    "shot-campanas":    ("screens/campaigns.webp", (0.205, 0.012, 0.992, 0.988)),
+    "shot-leads-full":  ("screens/leads.webp",     (0.150, 0.010, 0.992, 0.840)),
+    "shot-canales":     ("screens/channels.webp",  (0.150, 0.020, 0.975, 0.960)),
+    "shot-movil":       ("screens/inbox-mobile.webp", (0.0, 0.0, 1.0, 0.78)),
+
+    # --- DETAIL crops --------------------------------------------------------
     "shot-respuestas":  ("screens/campaigns.webp", (0.213, 0.435, 0.588, 0.628)),
     "shot-fuera":       ("screens/campaigns.webp", (0.582, 0.435, 0.948, 0.628)),
     # Stops before the cost column: the source card clips it, and half a column
     # header reads as a broken render rather than as a table that continues.
     "shot-ciudades":    ("screens/campaigns.webp", (0.228, 0.655, 0.556, 0.968)),
-    "shot-nollego":     ("screens/campaigns.webp", (0.575, 0.655, 0.945, 0.868)),
-    # --- bandeja: the conversation itself -----------------------------------
-    "shot-chat":        ("screens/inbox.webp",     (0.439, 0.080, 1.000, 0.410)),
     "shot-campana-chat":("screens/inbox.webp",     (0.600, 0.425, 1.000, 0.700)),
-    "shot-lista":       ("screens/inbox.webp",     (0.169, 0.169, 0.428, 0.533)),
-    # --- leads ---------------------------------------------------------------
-    "shot-leads":       ("screens/leads.webp",     (0.222, 0.270, 0.640, 0.533)),
-    # --- posts y comentarios -------------------------------------------------
-    # Cut at the end of the comment text, not at the panel edge: the empty right
-    # half only makes the card wider, and a wider card is a smaller card.
-    "shot-comentarios": ("screens/content.webp",   (0.453, 0.618, 0.760, 0.826)),
-    "shot-posts":       ("screens/content.webp",   (0.222, 0.234, 0.433, 0.764)),
-    # --- canales -------------------------------------------------------------
-    "shot-canales":     ("screens/channels.webp",  (0.218, 0.179, 0.950, 0.928)),
+    "shot-lista":       ("screens/inbox.webp",     (0.169, 0.155, 0.428, 0.600)),
+    "shot-leads":       ("screens/leads.webp",     (0.212, 0.259, 0.792, 0.556)),
+    "shot-posts":       ("screens/content.webp",   (0.218, 0.215, 0.437, 0.800)),
     # One account card, not both: the second sits far to the right, and keeping it
     # doubles the crop width, which halves everything on the slide.
     "shot-whatsapp":    ("screens/channels.webp",  (0.218, 0.455, 0.546, 0.678)),
-    # --- el celular ----------------------------------------------------------
-    "shot-movil":       ("screens/inbox-mobile.webp", (0.0, 0.0, 1.0, 0.58)),
 }
 
 

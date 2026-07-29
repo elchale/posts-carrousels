@@ -36,9 +36,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-lista.png",
+          "shot": "shot-bandeja.png",
           "h": "Publicas más, te escriben más.",
-          "b": "Los mensajes de WhatsApp, Instagram y Facebook llegan a una sola bandeja."
+          "b": "Y todo cae en un solo lugar: WhatsApp, Instagram y Facebook en la misma bandeja."
         },
         {
           "role": "stat",
@@ -94,7 +94,7 @@
           "role": "stat",
           "shot": "shot-comentarios.png",
           "h": "Un buen gancho llena los comentarios.",
-          "b": "Propaga te los junta y respondes desde ahí, sin entrar a cada red."
+          "b": "El post, sus comentarios y tu respuesta en la misma pantalla."
         },
         {
           "role": "stat",
@@ -258,8 +258,8 @@
         },
         {
           "role": "stat",
-          "shot": "shot-posts.png",
-          "h": "Cada post, con sus comentarios contados.",
+          "shot": "shot-contenido.png",
+          "h": "Cada post, con sus comentarios al lado.",
           "b": "Ves cuántos hay sin leer en cada publicación y respondes de corrido."
         },
         {
@@ -421,9 +421,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-lista.png",
+          "shot": "shot-bandeja.png",
           "h": "Publicas 3 veces. Te escriben 30.",
-          "b": "Todas esas conversaciones caen ordenadas en una sola bandeja."
+          "b": "Todas esas conversaciones, ordenadas en una sola pantalla."
         },
         {
           "role": "stat",

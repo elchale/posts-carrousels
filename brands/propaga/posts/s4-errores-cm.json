@@ -36,7 +36,7 @@
         },
         {
           "role": "stat",
-          "shot": "shot-posts.png",
+          "shot": "shot-contenido.png",
           "h": "Mira post por post, no el total.",
           "b": "Cuál se movió y cuál no, con sus comentarios al costado."
         },
@@ -463,9 +463,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-leads.png",
-          "h": "Aquí está tu cliente, con nombre.",
-          "b": "Cada persona que te escribió, con su red y su teléfono. A ellos les hablas."
+          "shot": "shot-leads-full.png",
+          "h": "Filtra por ciudad, talla, lo que uses.",
+          "b": "Sabes a quién le hablas antes de escribirle. Ahí está tu cliente."
         },
         {
           "role": "stat",
@@ -511,7 +511,7 @@
         },
         {
           "role": "stat",
-          "shot": "shot-canales.png",
+          "shot": "shot-bandeja.png",
           "h": "Publicas distinto. Recibes en un lugar.",
           "b": "Cada red con su texto, y todos los mensajes en la misma bandeja."
         },

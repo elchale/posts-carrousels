@@ -142,9 +142,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-posts.png",
+          "shot": "shot-contenido.png",
           "h": "Un post viejo puede revivir.",
-          "b": "Cuando vuelve a moverse, te avisa con los comentarios nuevos marcados."
+          "b": "Cuando vuelve a moverse, sus comentarios nuevos aparecen marcados."
         },
         {
           "role": "stat",
@@ -354,9 +354,9 @@
         },
         {
           "role": "stat",
-          "shot": "shot-leads.png",
+          "shot": "shot-leads-full.png",
           "h": "Lo que sí crece: tu lista.",
-          "b": "Cada persona que te escribió, guardada con su teléfono y su red."
+          "b": "Cada persona que te escribió, con su red, su teléfono y su ciudad."
         },
         {
           "role": "stat",
