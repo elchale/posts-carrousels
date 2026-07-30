@@ -1,4 +1,4 @@
-# Rechazamos 1 de cada 4 proyectos. Mira cuáles.
+# Hay procesos que NO deberías automatizar.
 
 `qolca` · `s4-costos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El proveedor que te dice cuándo NO automatizar 🙃
-#automatizacion #negocios #honestidad
+Hay procesos que NO deberías automatizar.
+#automatizacion #costos #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-En Qolca rechazamos 1 de cada 4 proyectos de automatización — estas son las razones: el proceso que cambia cada semana (congelar un borrador), el volumen chico (<5 hrs/mes = quédate en Excel), el proceso que nadie entiende, el trato personal que ES tu producto y la crisis de caja.
+Hay procesos que NO deberías automatizar.
 
-Nos cuesta plata y nos compra algo mejor: clientes que vuelven cuando SÍ es el momento. qolca.org
+Estos cuatro, en serio.
 
-#automatizacion #honestidad #negocios #peru
+Te lo dice quien vive de automatizar. El proceso que cambia cada semana no se automatiza: congelas un borrador. Si el proceso toma menos de 5 horas al mes, tu Excel está bien — en serio.
+
+Precios y plazos a la vista, para que compares con quien quieras.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #costos #pymesperu #tecnologia #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cinco casos donde no conviene automatizar: procesos inestables, bajo volumen, procesos confusos, vínculo personal y crisis de caja.
+Hay procesos que NO deberías automatizar. Estos cuatro, en serio. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Sí, en Qolca vendemos automatización. Y rechazamos 1 de cada 4 proyectos — porque automatizar un proceso que cambia cada semana congela un borrador, y automatizar el caos solo lo hace más rápido. ¿La regla más impopular? Si te toma menos de 5 horas al mes, tu Excel está bien. En serio. qolca.org
+Hay procesos que NO deberías automatizar. Si el proceso toma menos de 5 horas al mes, tu Excel está bien — en serio. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -1,4 +1,4 @@
-# El "empleado que no duerme" tiene letras chicas.
+# "Un empleado que no duerme" tiene letra chica.
 
 `qolca` · `s6-vision` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El empleado que no duerme: la metáfora Y sus letras chicas 🤖
-#ia #negocios #equipos
+"Un empleado que no duerme" tiene letra chica.
+#ia #inteligenciaartificial #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El "empleado que nunca duerme" — Qolca te cuenta la metáfora completa, con letras chicas: imbatible en lo repetitivo definido, nulo en criterio para lo nuevo; no se enferma pero SE DESACTUALIZA (necesita un dueño humano de 2 hrs/mes); no pide aumento pero cuesta $100-300/mes — compáralo con el sueldo del trabajo que hace, no con cero.
+"Un empleado que no duerme" tiene letra chica.
 
-qolca.org
+Vale la pena leerla antes de firmar.
 
-#ia #automatizacion #equipos #peru
+Un sistema responde con la información que le diste. Andrej Karpathy lo llama el control de autonomía: cuánta independencia le das a la IA es una decisión de diseño, y se gana cuando revisar su trabajo es rápido y barato. Dos horas al mes de una persona con nombre: mirar las conversaciones raras, actualizar lo que cambió.
+
+Guárdalo y compáralo con cómo opera tu empresa hoy.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#ia #inteligenciaartificial #pymesperu #futuro #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-La metáfora del empleado incansable con sus limitaciones y costos reales.
+"Un empleado que no duerme" tiene letra chica. Vale la pena leerla antes de firmar. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-En Qolca nos encanta la metáfora del "empleado que nunca duerme" — por eso la contamos completa: también se desactualiza si nadie le avisa que subiste precios, y cuesta $100-300/mes (comparen contra el sueldo del trabajo que hace, no contra cero). ¿Qué puesto le darían en su empresa? qolca.org
+"Un empleado que no duerme" tiene letra chica. Dos horas al mes de una persona con nombre: mirar las conversaciones raras, actualizar lo que cambió. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

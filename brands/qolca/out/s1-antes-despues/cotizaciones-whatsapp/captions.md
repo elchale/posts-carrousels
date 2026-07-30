@@ -1,4 +1,4 @@
-# Tu vendedor pierde 4 horas diarias en WhatsApp.
+# Tu vendedor se pasa el día contestando "¿precio?".
 
 `qolca` · `s1-antes-despues` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-De 4 horas diarias respondiendo "¿precio?" a 10 segundos 🤖
-#automatizacion #whatsapp #negocios
+Tu vendedor se pasa el día contestando "¿precio?".
+#automatizacion #pymes #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu WhatsApp te come 4 horas al día respondiendo lo mismo — este es el tipo de sistema que construye Qolca para arreglarlo: respuestas en 10 segundos, 24/7, y las consultas de madrugada que se perdían hoy también venden.
+Tu vendedor se pasa el día contestando "¿precio?".
 
-112 horas al mes recuperadas. Más en qolca.org
+Haz la cuenta de lo que cuesta.
 
-#automatizacion #whatsapp #negocios #peru #pymes
+Copiar y pegar precio, stock y delivery. Un vendedor pegado al chat repitiendo lo mismo. Responder solo lo que se repite: precio, stock, fotos, horario, delivery.
+
+Haz la cuenta con tus números antes de contratar a nadie.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #pymesperu #whatsappbusiness #gestion #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Caso antes/después de automatización de cotizaciones por WhatsApp con 112 horas mensuales recuperadas.
+Tu vendedor se pasa el día contestando "¿precio?". Haz la cuenta de lo que cuesta. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-¿Cuántas veces al día tu equipo responde exactamente lo mismo por WhatsApp? En este caso eran 80: precio, stock, delivery. El sistema que Qolca construye para esto recuperó 112 horas al mes — y las consultas de madrugada dejaron de perderse. ¿Qué proceso te come más horas a ti? qolca.org
+Tu vendedor se pasa el día contestando "¿precio?". Cuenta cuántas consultas repetidas atiendes al día y cuántos minutos te lleva cada una. ¿Cuánto te está costando a ti? Es una cuenta de dos minutos. En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

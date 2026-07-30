@@ -5,181 +5,467 @@
     {
       "slug": "cuanto-cuesta-agente",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "¿Cuánto cuesta un WhatsApp que vende solo?", "b": "Precios reales, sin cotizar a ciegas" },
-        { "role": "rehook", "h": "Nadie en este rubro publica precios. Nosotros sí.", "b": "Cotizar a ciegas te hace perder tiempo a ti. Y a nosotros." },
-        { "role": "value", "h": "El rango real y qué pagas", "b": "Un agente con IA a medida: $1,500-5,000 de construcción + $100-300 al mes de operación. Pagas el análisis de tus conversaciones reales, las reglas, las conexiones con tu agenda y precios, y las pruebas. (Los bots de plantilla de $30/mes son otro producto: respuestas rígidas.)" },
-        { "role": "value", "h": "Cuándo NO te conviene", "b": "Con menos de ~15 conversaciones diarias, un humano con respuestas rápidas te basta — te lo decimos gratis antes de cotizar. Sobre 30-50 chats al día con preguntas repetidas, se paga con las horas liberadas y las ventas fuera de horario." },
-        { "role": "value", "h": "Recuperación típica: 2-4 meses", "b": "Si tu caso da más de 6, te lo diremos y no habrá proyecto. Preferimos el no honesto." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos agentes de WhatsApp que responden y venden solos, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando — con estos precios sobre la mesa." },
-        { "role": "cta", "h": "¿Tu volumen justifica un agente?", "b": "Dinos cuántos chats diarios recibes en qolca.org. La cuenta es gratis." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "¿Cuánto cuesta un WhatsApp que vende solo?",
+          "b": "Precios reales, sin cotizar a ciegas"
+        },
+        {
+          "role": "rehook",
+          "h": "Nadie en este rubro publica precios. Nosotros sí.",
+          "b": "Cotizar a ciegas te hace perder tiempo a ti. Y a nosotros."
+        },
+        {
+          "role": "value",
+          "h": "El rango real y qué pagas",
+          "b": "Un agente con IA a medida: $1,500-5,000 de construcción + $100-300 al mes de operación. Pagas el análisis de tus conversaciones reales, las reglas, las conexiones con tu agenda y precios, y las pruebas. (Los bots de plantilla de $30/mes son otro producto: respuestas rígidas.)"
+        },
+        {
+          "role": "value",
+          "h": "Cuándo NO te conviene",
+          "b": "Con menos de ~15 conversaciones diarias, un humano con respuestas rápidas te basta — te lo decimos gratis antes de cotizar. Sobre 30-50 chats al día con preguntas repetidas, se paga con las horas liberadas y las ventas fuera de horario."
+        },
+        {
+          "role": "value",
+          "h": "Cómo saber si te conviene",
+          "b": "Divide lo que cuesta el sistema entre lo que te ahorra o te hace ganar al mes. Si el resultado se pasa de medio año, dilo en voz alta: probablemente no sea tu momento."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas directo con quien construye tu sistema: lo que te promete es lo que va a programar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Tu volumen justifica un agente?",
+          "b": "Dinos cuántos chats diarios recibes en qolca.org. La cuenta es gratis."
+        }
       ],
       "caption": {
-        "ig": "¿Cuánto cuesta un agente de WhatsApp que vende solo? En Qolca publicamos los precios que nadie publica: $1,500-5,000 de construcción + $100-300/mes de operación. Y la verdad completa: con menos de 15 chats diarios NO te conviene, y te lo decimos gratis. Recuperación típica: 2-4 meses. qolca.org #whatsapp #ia #precios #transparencia #peru",
-        "tt": "Cuánto cuesta un agente de WhatsApp en Perú (números reales) 💰 #whatsapp #ia #negocios",
-        "fb": "Nadie en el rubro publica precios — en Qolca sí: agente de WhatsApp con IA = $1,500-5,000 + $100-300/mes. Y la parte que más nos diferencia: si tienes menos de 15 chats al día, te decimos GRATIS que no lo necesitas. ¿Preguntas de precios? Respondemos todas en comentarios. qolca.org"
+        "ig": "¿Cuánto cuesta un WhatsApp que vende solo? Precios reales, sin cotizar a ciegas.\n\nCotizar a ciegas te hace perder tiempo a ti. Un agente con IA a medida: $1,500-5,000 de construcción + $100-300 al mes de operación. Con menos de ~15 conversaciones diarias, un humano con respuestas rápidas te basta — te lo decimos gratis antes de cotizar.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "¿Cuánto cuesta un WhatsApp que vende solo? #automatizacion #costos #pymes",
+        "fb": "¿Cuánto cuesta un WhatsApp que vende solo? Divide lo que cuesta el sistema entre lo que te ahorra o te hace ganar al mes. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Costos reales de un agente de WhatsApp en Perú: construcción, operación, cuándo no conviene y retorno."
+      "alt": "¿Cuánto cuesta un WhatsApp que vende solo? Precios reales, sin cotizar a ciegas. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "costo-mensual-mantener",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Te cotizaron el sistema. Falta el 40%.", "b": "El costo que aparece en el mes 8" },
-        { "role": "rehook", "h": "La construcción es la mitad de la película.", "b": "El resto llega después — y ahí los proyectos baratos se vuelven caros." },
-        { "role": "value", "h": "Lo que cuesta operar y mantener", "b": "Operación: $70-280 al mes en servicios de terceros (WhatsApp oficial, IA, servidores) — transparente y verificable. Y mantenimiento: WhatsApp cambia sus reglas 2-3 veces al año, tus precios cambian, tu negocio cambia. Alguien debe seguir el paso." },
-        { "role": "value", "h": "La trampa del proyecto huérfano", "b": "El desarrollador que lo construyó y desapareció: cada cambio deja el sistema muerto hasta encontrar quién lo reviva. Lo barato, carísimo en el mes 8. Pregunta detectora para cualquier proveedor: \"¿qué pasa en el mes 8?\"" },
-        { "role": "value", "h": "Costo real del año 1 ≈ construcción × 1.4", "b": "Presupuesta con ese número y no habrá sorpresas. El que te cotiza solo construcción, te cotiza el 60%." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas para empresas peruanas con los costos completos sobre la mesa: construcción cerrada y mantenimiento opcional. Sin plan de mantenimiento, el sistema es tuyo igual, documentado." },
-        { "role": "cta", "h": "¿Te cotizaron solo la construcción?", "b": "Pide la cuenta completa de tu caso en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "Te cotizaron el sistema. Falta la mitad.",
+          "b": "El costo que aparece en el mes 8"
+        },
+        {
+          "role": "rehook",
+          "h": "La construcción es la mitad de la película.",
+          "b": "El resto llega después — y ahí los proyectos baratos se vuelven caros."
+        },
+        {
+          "role": "value",
+          "h": "Lo que cuesta operar y mantener",
+          "b": "Operación: $70-280 al mes en servicios de terceros (WhatsApp oficial, IA, servidores) — transparente y verificable. Y mantenimiento: WhatsApp cambia sus reglas 2-3 veces al año, tus precios cambian, tu negocio cambia. Alguien debe seguir el paso."
+        },
+        {
+          "role": "value",
+          "h": "La trampa del proyecto huérfano",
+          "b": "El desarrollador que lo construyó y desapareció: cada cambio deja el sistema muerto hasta encontrar quién lo reviva. Lo barato, carísimo en el mes 8. Pregunta detectora para cualquier proveedor: \"¿qué pasa en el mes 8?\""
+        },
+        {
+          "role": "value",
+          "h": "Presupuesta el año, no la construcción",
+          "b": "Suma doce meses de servicios de terceros y un margen para los cambios que van a venir. Ese es el número con el que se compara. Pide que te lo pongan por escrito."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Empezamos por un proceso chico y medible: si eso no funciona, no tiene sentido hablar del resto."
+        },
+        {
+          "role": "cta",
+          "h": "¿Te cotizaron solo la construcción?",
+          "b": "Pide la cuenta completa de tu caso en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "Lo que te cotizan es el 60% del costo real de una automatización — el resto llega después: $70-280/mes de operación y el mantenimiento cuando WhatsApp cambia sus reglas (2-3 veces al año). En Qolca lo ponemos todo sobre la mesa desde el día 1. Regla de presupuesto: costo año 1 = construcción × 1.4. qolca.org #automatizacion #costos #transparencia #peru",
-        "tt": "La trampa del proyecto huérfano: barato hasta el mes 8 ⚠️ #automatizacion #negocios #costos",
-        "fb": "Pregunta que desnuda a cualquier proveedor de automatización: \"¿qué pasa en el mes 8, cuando WhatsApp cambie sus reglas?\". Si no hay respuesta clara, estás comprando un problema con fecha de entrega. En Qolca cotizamos el costo completo desde el inicio: año 1 = construcción × 1.4. ¿Les ha tocado un proyecto huérfano? qolca.org"
+        "ig": "Te cotizaron el sistema. Falta la mitad. El costo que aparece en el mes 8.\n\nEl resto llega después — y ahí los proyectos baratos se vuelven caros. Operación: $70-280 al mes en servicios de terceros (WhatsApp oficial, IA, servidores) — transparente y verificable. El desarrollador que lo construyó y desapareció: cada cambio deja el sistema muerto hasta encontrar quién lo reviva.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "Te cotizaron el sistema. Falta la mitad. #automatizacion #costos #pymes",
+        "fb": "Te cotizaron el sistema. Falta la mitad. Suma doce meses de servicios de terceros y un margen para los cambios que van a venir. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Costos de mantenimiento de automatizaciones: operación, cambios de API, proyecto huérfano y regla del 1.4."
+      "alt": "Te cotizaron el sistema. Falta la mitad. El costo que aparece en el mes 8. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "cuando-no-automatizar",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Rechazamos 1 de cada 4 proyectos. Mira cuáles.", "b": "Cuándo NO te conviene automatizar" },
-        { "role": "rehook", "h": "Automatizar lo equivocado es caos más rápido.", "b": "Y te lo dice quien vive de automatizar." },
-        { "role": "value", "h": "No automatices lo inestable ni lo confuso", "b": "El proceso que cambia cada semana no se automatiza: congelas un borrador. Y el \"así se hace desde siempre, no sé por qué\" tampoco: primero se documenta y simplifica, después se automatiza lo que sobrevivió." },
-        { "role": "value", "h": "Ni lo chico, ni el vínculo, ni la crisis", "b": "Si el proceso toma menos de 5 horas al mes, tu Excel está bien — en serio. Si te compran por el trato personal del dueño, automatiza la logística detrás, no el vínculo. Y en crisis de caja: esto es inversión con retorno en meses, no salvavidas de quincena." },
-        { "role": "value", "h": "1 de cada 4 proyectos: rechazado", "b": "Nos cuesta plata y nos compra algo mejor: clientes que vuelven cuando SÍ es el momento." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos automatizaciones para empresas peruanas — solo cuando conviene. Tú nos cuentas tu proceso; nosotros te decimos honesto si es un sí o un todavía-no." },
-        { "role": "cta", "h": "¿Tu caso es un sí o un todavía-no?", "b": "Cuéntanoslo en qolca.org. El no también es gratis." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "Hay procesos que NO deberías automatizar.",
+          "b": "Estos cuatro, en serio"
+        },
+        {
+          "role": "rehook",
+          "h": "Automatizar lo equivocado es caos más rápido.",
+          "b": "Y te lo dice quien vive de automatizar."
+        },
+        {
+          "role": "value",
+          "h": "No automatices lo inestable ni lo confuso",
+          "b": "El proceso que cambia cada semana no se automatiza: congelas un borrador. Y el \"así se hace desde siempre, no sé por qué\" tampoco: primero se documenta y simplifica, después se automatiza lo que sobrevivió."
+        },
+        {
+          "role": "value",
+          "h": "Ni lo chico, ni el vínculo, ni la crisis",
+          "b": "Si el proceso toma menos de 5 horas al mes, tu Excel está bien — en serio. Si te compran por el trato personal del dueño, automatiza la logística detrás, no el vínculo. Y en crisis de caja: esto es inversión con retorno en meses, no salvavidas de quincena."
+        },
+        {
+          "role": "value",
+          "h": "Un \"no\" a tiempo es más barato",
+          "b": "Para los dos. Si tu caso cae en alguno de estos cuatro, te lo decimos antes de cotizar — y te queda el diagnóstico igual."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Y te decimos que no cuando tu caso no da todavía — es más barato para los dos que un proyecto que no iba a funcionar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Tu caso es un sí o un todavía-no?",
+          "b": "Cuéntanoslo en qolca.org. El no también es gratis."
+        }
       ],
       "caption": {
-        "ig": "En Qolca rechazamos 1 de cada 4 proyectos de automatización — estas son las razones: el proceso que cambia cada semana (congelar un borrador), el volumen chico (<5 hrs/mes = quédate en Excel), el proceso que nadie entiende, el trato personal que ES tu producto y la crisis de caja. Nos cuesta plata y nos compra algo mejor: clientes que vuelven cuando SÍ es el momento. qolca.org #automatizacion #honestidad #negocios #peru",
-        "tt": "El proveedor que te dice cuándo NO automatizar 🙃 #automatizacion #negocios #honestidad",
-        "fb": "Sí, en Qolca vendemos automatización. Y rechazamos 1 de cada 4 proyectos — porque automatizar un proceso que cambia cada semana congela un borrador, y automatizar el caos solo lo hace más rápido. ¿La regla más impopular? Si te toma menos de 5 horas al mes, tu Excel está bien. En serio. qolca.org"
+        "ig": "Hay procesos que NO deberías automatizar. Estos cuatro, en serio.\n\nTe lo dice quien vive de automatizar. El proceso que cambia cada semana no se automatiza: congelas un borrador. Si el proceso toma menos de 5 horas al mes, tu Excel está bien — en serio.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "Hay procesos que NO deberías automatizar. #automatizacion #costos #pymes",
+        "fb": "Hay procesos que NO deberías automatizar. Si el proceso toma menos de 5 horas al mes, tu Excel está bien — en serio. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco casos donde no conviene automatizar: procesos inestables, bajo volumen, procesos confusos, vínculo personal y crisis de caja."
+      "alt": "Hay procesos que NO deberías automatizar. Estos cuatro, en serio. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "chatbot-humo",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Ese \"chatbot con IA\" puede ser puro humo.", "b": "Aprende a distinguirlo en 5 minutos" },
-        { "role": "rehook", "h": "\"Chatbot con IA\" puede significar 10 cosas.", "b": "Entre la más barata y la más cara hay un mundo." },
-        { "role": "value", "h": "El humo: botones y palabras clave", "b": "El menú de botones (\"marca 1 para ventas\" con disfraz de chat) no entiende texto libre. El detector de palabras suelta LA plantilla si escribes \"precio\" — y se pierde con un \"cuánto sale\" mal escrito. Útiles para flujos simples; NO son IA aunque el brochure lo grite." },
-        { "role": "value", "h": "El peligro y lo que sí vale", "b": "La IA suelta, sin tus datos ni límites, conversa lindo e INVENTA precios y promociones — con tu marca firmando. Lo que vale la pena pagar: IA + TUS datos reales + reglas de qué nunca responde solo + pase a un humano." },
-        { "role": "value", "h": "Las 3 preguntas detectoras", "b": "\"¿Qué pasa si no sabe?\" \"¿De dónde saca los precios?\" \"¿Cuándo pasa a un humano?\" — Sin buenas respuestas, es humo. El 80% del mercado vende botones cobrando como IA." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos agentes del nivel que sí vale: con tus datos, tus límites y pase a humano, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Te están cotizando un chatbot?", "b": "Haz las 3 preguntas. Segunda opinión gratis en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "Ese \"chatbot con IA\" puede ser puro humo.",
+          "b": "Aprende a distinguirlo en 5 minutos"
+        },
+        {
+          "role": "rehook",
+          "h": "\"Chatbot con IA\" puede significar 10 cosas.",
+          "b": "Entre la más barata y la más cara hay un mundo."
+        },
+        {
+          "role": "value",
+          "h": "El humo: botones y palabras clave",
+          "b": "El menú de botones (\"marca 1 para ventas\" con disfraz de chat) no entiende texto libre. El detector de palabras suelta LA plantilla si escribes \"precio\" — y se pierde con un \"cuánto sale\" mal escrito. Útiles para flujos simples; NO son IA aunque el brochure lo grite."
+        },
+        {
+          "role": "value",
+          "h": "El peligro y lo que sí vale",
+          "b": "La IA suelta, sin tus datos ni límites, conversa lindo e INVENTA precios y promociones — con tu marca firmando. Lo que vale la pena pagar: IA + TUS datos reales + reglas de qué nunca responde solo + pase a un humano."
+        },
+        {
+          "role": "value",
+          "h": "Las 3 preguntas detectoras",
+          "b": "\"¿Qué pasa si no sabe?\" \"¿De dónde saca los precios?\" \"¿Cuándo pasa a un humano?\" — sin buenas respuestas a las tres, es humo. Buena parte de lo que se vende como IA son botones con otro nombre."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Pocos clientes a la vez: prefieres a alguien que te contesta el mismo día antes que a alguien con una lista de espera."
+        },
+        {
+          "role": "cta",
+          "h": "¿Te están cotizando un chatbot?",
+          "b": "Haz las 3 preguntas. Segunda opinión gratis en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "El 80% de los \"chatbots con IA\" del mercado son menús de botones con disfraz — cobrados como IA de verdad. Qolca te enseña a distinguirlos: botones, detector de palabras, IA suelta que INVENTA precios (peligrosa) y el agente con tus datos + límites + pase a humano — el único que vale pagar. Las 3 preguntas detectoras, adentro. qolca.org #chatbot #ia #compras #peru",
-        "tt": "Cómo detectar el humo en los \"chatbots con IA\" 🔍 #chatbot #ia #negocios",
-        "fb": "Si te están cotizando un \"chatbot con IA\", haz estas 3 preguntas: ¿qué pasa si le pregunto algo que no sabe? ¿de dónde saca los precios? ¿cuándo pasa a un humano? El 80% del mercado vende menús de botones cobrando como IA — en Qolca construimos el nivel que sí vale. Compartan con quien esté cotizando uno. qolca.org"
+        "ig": "Ese \"chatbot con IA\" puede ser puro humo. Aprende a distinguirlo en 5 minutos.\n\nEntre la más barata y la más cara hay un mundo. El menú de botones (\"marca 1 para ventas\" con disfraz de chat) no entiende texto libre. La IA suelta, sin tus datos ni límites, conversa lindo e INVENTA precios y promociones — con tu marca firmando.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "Ese \"chatbot con IA\" puede ser puro humo. #automatizacion #costos #pymes",
+        "fb": "Ese \"chatbot con IA\" puede ser puro humo. \"¿Qué pasa si no sabe?\" \"¿De dónde saca los precios?\" \"¿Cuándo pasa a un humano?\" — sin buenas respuestas a las tres, es humo. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Los cuatro niveles de chatbots del mercado y las preguntas para detectar ofertas infladas."
+      "alt": "Ese \"chatbot con IA\" puede ser puro humo. Aprende a distinguirlo en 5 minutos. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "build-vs-saas",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "¿Comprar un software o mandarlo a construir?", "b": "El criterio honesto de quien construye" },
-        { "role": "rehook", "h": "Casi siempre decimos: no lo construyas.", "b": "Aunque eso nos deje sin proyecto. Este es el criterio completo." },
-        { "role": "value", "h": "Cuándo comprar y cuándo construir", "b": "Si tu proceso es estándar (agenda, facturación simple, correos), un software maduro de $20-100/mes es imbatible: no reinventes lo resuelto. Construye solo cuando tu forma de operar ES tu ventaja — o cuando necesitas el PUENTE entre las herramientas que ya pagas y no se hablan." },
-        { "role": "value", "h": "La cuenta de quiebre", "b": "Suscripción: costo × 12 × años, para siempre. A medida: construcción + mantenimiento, y es tuyo. El cruce suele estar entre los 18 y 30 meses. Y audita antes de agregar: el negocio promedio paga $400/mes usando el 20% de cada herramienta." },
-        { "role": "value", "h": "Nuestra recomendación real: 60% comprar, 40% construir", "b": "Y el puente entre tus herramientas es donde más valor construimos." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas y conexiones a medida para empresas peruanas — y te decimos honesto cuándo mejor comprar. Tú nos cuentas tu caso; nosotros damos el veredicto." },
-        { "role": "cta", "h": "¿Comprar o construir para tu caso?", "b": "Cuéntanos qué necesitas en qolca.org. El veredicto es gratis." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "¿Comprar un software o mandarlo a construir?",
+          "b": "El criterio honesto de quien construye"
+        },
+        {
+          "role": "rehook",
+          "h": "Casi siempre decimos: no lo construyas.",
+          "b": "Aunque eso nos deje sin proyecto. Este es el criterio completo."
+        },
+        {
+          "role": "value",
+          "h": "Cuándo comprar y cuándo construir",
+          "b": "Si tu proceso es estándar (agenda, facturación simple, correos), un software maduro de $20-100/mes es imbatible: no reinventes lo resuelto. Construye solo cuando tu forma de operar ES tu ventaja — o cuando necesitas el PUENTE entre las herramientas que ya pagas y no se hablan."
+        },
+        {
+          "role": "value",
+          "h": "La cuenta de quiebre",
+          "b": "Suscripción: costo × 12 × años, para siempre. A medida: construcción + mantenimiento, y es tuyo. El cruce suele estar entre los 18 y 30 meses. Y audita antes de agregar: el negocio promedio paga $400/mes usando el 20% de cada herramienta."
+        },
+        {
+          "role": "value",
+          "h": "La respuesta honesta: casi siempre, compra",
+          "b": "Construir se justifica cuando el proceso es tuyo y raro, o cuando hay que conectar cosas que ningún producto conecta. Si te dicen \"construyamos todo\" sin preguntarte eso, te están vendiendo horas."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas directo con quien construye tu sistema: lo que te promete es lo que va a programar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Comprar o construir para tu caso?",
+          "b": "Cuéntanos qué necesitas en qolca.org. El veredicto es gratis."
+        }
       ],
       "caption": {
-        "ig": "¿Comprar la suscripción o mandar a construir? Confesión de Qolca, que vive de construir: el 60% de las veces recomendamos NO construir. Construye solo cuando el proceso ES tu ventaja — o cuando necesitas el PUENTE entre las 5 herramientas que ya pagas y no se hablan. Y audita: el negocio promedio paga $400+/mes usando el 20% de cada una. qolca.org #software #saas #decisiones #peru",
-        "tt": "¿Construir o pagar suscripción? La cuenta del punto de quiebre 💻 #software #negocios #decisiones",
-        "fb": "El 60% de las veces en Qolca le decimos al cliente: \"no lo construyas, cómpralo\" — aunque nos deje sin proyecto. Pero auditen su stack: el negocio promedio paga $400+/mes en herramientas de las que usa el 20%, y el mayor valor suele estar en el PUENTE entre ellas. ¿Cuánto suman sus suscripciones? qolca.org"
+        "ig": "¿Comprar un software o mandarlo a construir? El criterio honesto de quien construye.\n\nAunque eso nos deje sin proyecto. Si tu proceso es estándar (agenda, facturación simple, correos), un software maduro de $20-100/mes es imbatible: no reinventes lo resuelto. Suscripción: costo × 12 × años, para siempre.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "¿Comprar un software o mandarlo a construir? #automatizacion #costos #pymes",
+        "fb": "¿Comprar un software o mandarlo a construir? Construir se justifica cuando el proceso es tuyo y raro, o cuando hay que conectar cosas que ningún producto conecta. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Criterio para decidir entre software a medida y suscripciones: procesos estándar, ventajas diferenciales y puentes."
+      "alt": "¿Comprar un software o mandarlo a construir? El criterio honesto de quien construye. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "cuanto-tarda",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "\"En una semana está\" es una mentira.", "b": "Los tiempos reales, proyecto por proyecto" },
-        { "role": "rehook", "h": "Se puede armar ALGO en 3 días.", "b": "Funciona en la demostración y explota con tus clientes reales." },
-        { "role": "value", "h": "Los tiempos reales", "b": "Agente de WhatsApp: 2-4 semanas. Conexión entre sistemas: 1-3. Panel gerencial: 2-3. Lectura automática de documentos: 2-4. Menos que eso significa una cosa: sin análisis y sin pruebas." },
-        { "role": "value", "h": "La regla del 50%", "b": "Análisis + pruebas son la MITAD del cronograma: entender tus datos reales antes de construir, y probar con tu equipo antes de lanzar. El \"en 3 días\" se salta exactamente esas dos mitades — y el tiempo ahorrado lo pagas después, con tu marca." },
-        { "role": "value", "h": "La pregunta clave a cualquier proveedor", "b": "\"¿Cuántos días de tu cronograma son pruebas?\" Menos del 30% = te van a entregar un prototipo con nombre de producto." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas para empresas peruanas con cronogramas reales: la mitad es análisis y pruebas, porque así funcionan un martes 8am. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Te prometieron magia en 3 días?", "b": "Pide un cronograma real en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "\"En una semana está\" es una mentira.",
+          "b": "Los tiempos reales, proyecto por proyecto"
+        },
+        {
+          "role": "rehook",
+          "h": "Se puede armar ALGO en 3 días.",
+          "b": "Funciona en la demostración y explota con tus clientes reales."
+        },
+        {
+          "role": "value",
+          "h": "Los tiempos reales",
+          "b": "Agente de WhatsApp: 2-4 semanas. Conexión entre sistemas: 1-3. Panel gerencial: 2-3. Lectura automática de documentos: 2-4. Menos que eso significa una cosa: sin análisis y sin pruebas."
+        },
+        {
+          "role": "value",
+          "h": "La regla del 50%",
+          "b": "Análisis + pruebas son la MITAD del cronograma: entender tus datos reales antes de construir, y probar con tu equipo antes de lanzar. El \"en 3 días\" se salta exactamente esas dos mitades — y el tiempo ahorrado lo pagas después, con tu marca."
+        },
+        {
+          "role": "value",
+          "h": "La pregunta clave a cualquier proveedor",
+          "b": "\"¿Cuántos días de tu cronograma son pruebas?\" Menos del 30% = te van a entregar un prototipo con nombre de producto."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Empezamos por un proceso chico y medible: si eso no funciona, no tiene sentido hablar del resto."
+        },
+        {
+          "role": "cta",
+          "h": "¿Te prometieron magia en 3 días?",
+          "b": "Pide un cronograma real en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "\"En una semana está\" — la mentira fundacional del rubro. Los cronogramas reales de Qolca: agente de WhatsApp 2-4 semanas, conexiones 1-3, paneles 2-3, documentos 2-4. La regla del 50%: análisis + pruebas son la mitad del cronograma — y el \"en 3 días\" se salta exactamente esas dos mitades. qolca.org #automatizacion #proyectos #software #peru",
-        "tt": "\"En una semana está\" — la mentira fundacional del rubro ⏱️ #software #proyectos #negocios",
-        "fb": "Cronogramas reales de automatización (no de folleto): la mitad del tiempo NO es programar — es analizar tus datos reales y probar con tu equipo. El que promete 3 días se salta exactamente esas dos mitades. En Qolca la pregunta clave la respondemos primero: ¿cuántos días son PRUEBAS? qolca.org"
+        "ig": "\"En una semana está\" es una mentira. Los tiempos reales, proyecto por proyecto.\n\nFunciona en la demostración y explota con tus clientes reales. Agente de WhatsApp: 2-4 semanas. Análisis + pruebas son la MITAD del cronograma: entender tus datos reales antes de construir, y probar con tu equipo antes de lanzar.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "\"En una semana está\" es una mentira. #automatizacion #costos #pymes",
+        "fb": "\"En una semana está\" es una mentira. \"¿Cuántos días de tu cronograma son pruebas?\" Menos del 30% = te van a entregar un prototipo con nombre de producto. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Tiempos reales de proyectos de automatización y la regla del cincuenta por ciento de análisis y pruebas."
+      "alt": "\"En una semana está\" es una mentira. Los tiempos reales, proyecto por proyecto. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "cuando-el-bot-no-sabe",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Un bot que nunca duda está inventando.", "b": "La señal que separa serio de humo" },
-        { "role": "rehook", "h": "Todo sistema tiene un límite.", "b": "La diferencia entre uno bueno y uno peligroso es qué hace AL llegar a él." },
-        { "role": "value", "h": "El peligroso y el inútil", "b": "El peligroso no dice \"no sé\": improvisa un precio, una promoción, una política de devolución — con TU marca firmando cada invento. El inútil se rinde en bucle: \"no entendí\" × 5 hasta que el cliente se va furioso." },
-        { "role": "value", "h": "El bueno deriva — y aprende", "b": "\"Esa consulta la ve Andrea; ya le pasé tu caso, te escribe antes de las 3pm.\" Andrea recibe todo el historial: el cliente jamás repite su historia. Y si 10 clientes preguntan lo mismo esta semana, esa respuesta entra a la base y el hueco se cierra." },
-        { "role": "value", "h": "La métrica sana: 15-30% derivado al inicio", "b": "Bajando cada mes mientras aprende. El 0% no es perfección. Es invención." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos agentes que reconocen sus límites, derivan con contexto y aprenden, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "Pregúntale a tu proveedor: \"¿qué hace tu bot cuando no sabe?\"", "b": "Y compara con qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "Un bot que nunca duda está inventando.",
+          "b": "La señal que separa serio de humo"
+        },
+        {
+          "role": "rehook",
+          "h": "Todo sistema tiene un límite.",
+          "b": "La diferencia entre uno bueno y uno peligroso es qué hace AL llegar a él."
+        },
+        {
+          "role": "value",
+          "h": "El peligroso y el inútil",
+          "b": "El peligroso no dice \"no sé\": improvisa un precio, una promoción, una política de devolución — con TU marca firmando cada invento. El inútil se rinde en bucle: \"no entendí\" × 5 hasta que el cliente se va furioso."
+        },
+        {
+          "role": "value",
+          "h": "El bueno deriva — y aprende",
+          "b": "\"Esa consulta la ve Andrea; ya le pasé tu caso, te escribe antes de las 3pm.\" Andrea recibe todo el historial: el cliente jamás repite su historia. Y si 10 clientes preguntan lo mismo esta semana, esa respuesta entra a la base y el hueco se cierra."
+        },
+        {
+          "role": "value",
+          "h": "Al inicio va a derivar bastante",
+          "b": "Y debe bajar cada mes, con alguien mirando qué derivó y por qué. Un sistema que deriva el 0% desde el primer día no es perfecto: está inventando."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Y te decimos que no cuando tu caso no da todavía — es más barato para los dos que un proyecto que no iba a funcionar."
+        },
+        {
+          "role": "cta",
+          "h": "Pregúntale a tu proveedor: \"¿qué hace tu bot cuando no sabe?\"",
+          "b": "Y compara con qolca.org."
+        }
       ],
       "caption": {
-        "ig": "Dato contraintuitivo: un bot que deriva 0% de conversaciones a humanos no es perfecto — está INVENTANDO respuestas con tu marca firmando. Los agentes que construye Qolca reconocen sus límites, derivan con todo el contexto y aprenden del hueco. Métrica sana: 15-30% de derivación bajando cada mes. qolca.org #ia #chatbot #calidad #peru",
-        "tt": "¿Qué hace un bot cuando no sabe? Ahí está TODA la diferencia 🤖 #ia #chatbot #negocios",
-        "fb": "Si un proveedor presume que su bot deriva 0% de conversaciones a humanos: huye. No es un agente perfecto — es un agente que está inventando respuestas con tu marca. La métrica sana (la que usamos en Qolca): 15-30% de derivación al inicio, bajando mes a mes mientras aprende. ¿Lo sabías? qolca.org"
+        "ig": "Un bot que nunca duda está inventando. La señal que separa serio de humo.\n\nLa diferencia entre uno bueno y uno peligroso es qué hace AL llegar a él. El peligroso no dice \"no sé\": improvisa un precio, una promoción, una política de devolución — con TU marca firmando cada invento. \"Esa consulta la ve Andrea; ya le pasé tu caso, te escribe antes de las 3pm.\" Andrea recibe todo el historial: el cliente jamás repite su historia.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "Un bot que nunca duda está inventando. #automatizacion #costos #pymes",
+        "fb": "Un bot que nunca duda está inventando. Debe bajar cada mes, con alguien mirando qué derivó y por qué. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Comportamientos de chatbots ante lo desconocido: inventar, rendirse o derivar con contexto y aprender."
+      "alt": "Un bot que nunca duda está inventando. La señal que separa serio de humo. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "costo-de-no-automatizar",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Hacerlo a mano te cuesta S/6,000 al mes.", "b": "La cuenta que nadie hace, aquí" },
-        { "role": "rehook", "h": "\"Está caro\" compara contra cero.", "b": "Y el cero no existe: hacerlo a mano también cuesta — en cuotas que nadie ve." },
-        { "role": "value", "h": "Las horas y los errores", "b": "Horas: (horas semanales del proceso) × 4.3 × (costo por hora de quien lo hace). Diez horas semanales de alguien de S/12/hora = S/516 al mes. Errores: el tipeo humano falla 1-4% — factura rechazada, pedido mal enviado, cita perdida. × errores al mes." },
-        { "role": "value", "h": "Lo que no se ve", "b": "Las ventas que nunca ocurrieron: interesados sin seguimiento, carritos sin recuperar, clientes sin reactivar. Y la dependencia: si el proceso vive en la cabeza de UNA persona, sus vacaciones y su renuncia tienen precio." },
-        { "role": "value", "h": "Caso típico: S/2,000-6,000 mensuales invisibles", "b": "Ese total × 12 contra el costo del sistema. Ahora sí es una comparación — no contra un cero que nunca existió." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos los sistemas que eliminan ese costo invisible, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "Haz tu cuenta con esta calculadora.", "b": "Y si el número te asustó, escríbenos en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "Hacerlo a mano también tiene precio.",
+          "b": "Nadie lo pone en el presupuesto"
+        },
+        {
+          "role": "rehook",
+          "h": "\"Está caro\" compara contra cero.",
+          "b": "Y el cero no existe: hacerlo a mano también cuesta — en cuotas que nadie ve."
+        },
+        {
+          "role": "value",
+          "h": "Las horas y los errores",
+          "b": "Horas: (horas semanales del proceso) × 4.3 × (costo por hora de quien lo hace). Diez horas semanales de alguien de S/12/hora = S/516 al mes. Errores: el tipeo humano falla 1-4% — factura rechazada, pedido mal enviado, cita perdida. × errores al mes."
+        },
+        {
+          "role": "value",
+          "h": "Lo que no se ve",
+          "b": "Las ventas que nunca ocurrieron: interesados sin seguimiento, carritos sin recuperar, clientes sin reactivar. Y la dependencia: si el proceso vive en la cabeza de UNA persona, sus vacaciones y su renuncia tienen precio."
+        },
+        {
+          "role": "value",
+          "h": "Suma los tres. Ese es tu número",
+          "b": "Horas, errores y lo que se pierde por demora. Multiplícalo por doce y recién ahí compáralo con lo que cuesta el sistema. Es una comparación contra algo, no contra cero."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Pocos clientes a la vez: prefieres a alguien que te contesta el mismo día antes que a alguien con una lista de espera."
+        },
+        {
+          "role": "cta",
+          "h": "Haz tu cuenta con esta calculadora.",
+          "b": "Y si el número te asustó, escríbenos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "\"Está caro\" compara contra cero — y el cero no existe: hacerlo a mano cuesta S/2,000-6,000 mensuales en cuotas invisibles. La calculadora de Qolca: horas (× 4.3 × costo/hora) + errores (el tipeo humano falla 1-4%) + las ventas que nunca ocurrieron + la dependencia de UNA persona. Haz tu cuenta y compara contra ESE número. qolca.org #automatizacion #costos #pymes #peru",
-        "tt": "El costo de NO automatizar (haz tu cuenta) 🧮 #pymes #costos #negocios",
-        "fb": "Ejercicio incómodo para dueños: (horas semanales del proceso manual × 4.3 × costo/hora) + errores del mes + ventas sin seguimiento + el riesgo de que TODO viva en la cabeza de una persona. Hacerlo a mano cuesta típicamente S/2,000-6,000 mensuales — en cuotas que nadie ve. ¿Cuánto dio tu cuenta? Qolca la convierte en sistema: qolca.org"
+        "ig": "Hacerlo a mano también tiene precio. Nadie lo pone en el presupuesto.\n\nEl cero no existe: hacerlo a mano también cuesta — en cuotas que nadie ve. Horas: (horas semanales del proceso) × 4.3 × (costo por hora de quien lo hace). Las ventas que nunca ocurrieron: interesados sin seguimiento, carritos sin recuperar, clientes sin reactivar.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "Hacerlo a mano también tiene precio. #automatizacion #costos #pymes",
+        "fb": "Hacerlo a mano también tiene precio. Horas, errores y lo que se pierde por demora. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Calculadora del costo de no automatizar: horas, errores, ventas perdidas y dependencia."
+      "alt": "Hacerlo a mano también tiene precio. Nadie lo pone en el presupuesto. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "por-proyecto-no-por-hora",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "Pagar por hora premia al proveedor lento.", "b": "Por qué cobramos precio cerrado" },
-        { "role": "rehook", "h": "La hora castiga la experiencia.", "b": "Lo que resolvemos en 2 horas nos tomó años aprender. Y por hora, la lentitud factura más." },
-        { "role": "value", "h": "El precio cerrado alinea intereses", "b": "Precio fijo por resultado definido: si terminamos antes, ganamos ambos; si algo se complica, el riesgo es nuestro — no tu presupuesto. Incluye el alcance escrito, sus pruebas y los ajustes del primer mes." },
-        { "role": "value", "h": "El requisito: definir el QUÉ antes", "b": "El precio cerrado exige una semana de definición antes de empezar — exactamente la semana que los proyectos fallidos se saltaron. La hora solo es honesta para exploración genuina o soporte continuo; para construir algo definido, no." },
-        { "role": "value", "h": "0 proyectos con sobrecostos sorpresa", "b": "Porque estimar bien es NUESTRO trabajo, no tu riesgo. Así debería ser siempre." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas para empresas peruanas a precio cerrado: alcance escrito, riesgo nuestro. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Prefieres hora o proyecto?", "b": "Cuéntanos tu experiencia en qolca.org. Sin roche." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "Pagar por hora premia al proveedor lento.",
+          "b": "Por qué cobramos precio cerrado"
+        },
+        {
+          "role": "rehook",
+          "h": "La hora castiga la experiencia.",
+          "b": "Lo que resolvemos en 2 horas nos tomó años aprender. Y por hora, la lentitud factura más."
+        },
+        {
+          "role": "value",
+          "h": "El precio cerrado alinea intereses",
+          "b": "Precio fijo por resultado definido: si terminamos antes, ganamos ambos; si algo se complica, el riesgo es nuestro — no tu presupuesto. Incluye el alcance escrito, sus pruebas y los ajustes del primer mes."
+        },
+        {
+          "role": "value",
+          "h": "El requisito: definir el QUÉ antes",
+          "b": "El precio cerrado exige una semana de definición antes de empezar — exactamente la semana que los proyectos fallidos se saltaron. La hora solo es honesta para exploración genuina o soporte continuo; para construir algo definido, no."
+        },
+        {
+          "role": "value",
+          "h": "Precio cerrado antes de empezar",
+          "b": "Si el alcance cambia, se conversa y se vuelve a cotizar — pero no aparece un sobrecosto a mitad de camino. Pide eso por escrito a quien contrates, seamos nosotros o no."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas directo con quien construye tu sistema: lo que te promete es lo que va a programar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Prefieres hora o proyecto?",
+          "b": "Cuéntanos tu experiencia en qolca.org. Sin roche."
+        }
       ],
       "caption": {
-        "ig": "Pagar por hora premia al proveedor LENTO: el eficiente gana menos que el que se demora — piensa qué comportamiento estás premiando. Por eso Qolca cobra por proyecto: precio fijo, alcance escrito, y si algo se complica el riesgo es nuestro, no tu presupuesto. 0 proyectos con sobrecostos sorpresa. qolca.org #precios #b2b #transparencia #peru",
-        "tt": "Pagar por hora premia al proveedor lento 🤔 #negocios #precios #b2b",
-        "fb": "Debate de precios: pagando por hora, el proveedor eficiente gana MENOS que el lento — ¿qué comportamiento estás premiando? Por eso en Qolca cobramos por proyecto: precio fijo, alcance escrito, riesgo nuestro. ¿Ustedes qué prefieren como clientes: hora o proyecto? Argumenten 👇 qolca.org"
+        "ig": "Pagar por hora premia al proveedor lento. Por qué cobramos precio cerrado.\n\nLo que resolvemos en 2 horas nos tomó años aprender. Precio fijo por resultado definido: si terminamos antes, ganamos ambos; si algo se complica, el riesgo es nuestro — no tu presupuesto. El precio cerrado exige una semana de definición antes de empezar — exactamente la semana que los proyectos fallidos se saltaron.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "Pagar por hora premia al proveedor lento. #automatizacion #costos #pymes",
+        "fb": "Pagar por hora premia al proveedor lento. Si el alcance cambia, se conversa y se vuelve a cotizar — pero no aparece un sobrecosto a mitad de camino. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Argumentos para cobrar por proyecto: incentivos, riesgo, alcance definido y excepciones."
+      "alt": "Pagar por hora premia al proveedor lento. Por qué cobramos precio cerrado. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "preguntas-antes-de-contratar",
       "slides": [
-        { "role": "cover", "kicker": "COSTOS Y VERDADES", "h": "7 preguntas que hacen sudar a proveedores.", "b": "Úsalas con todos. Incluidos nosotros." },
-        { "role": "rehook", "h": "Un buen proveedor sobrevive el interrogatorio.", "b": "Uno malo se ofende. Esa reacción también es una respuesta." },
-        { "role": "value", "h": "Las primeras tres", "b": "1) \"¿Puedo hablar con 2 clientes tuyos?\" — conversaciones reales, no capturas. 2) \"¿Qué pasa CUANDO esto se rompa?\" — tiempo de respuesta, canal, costo. 3) \"¿El sistema es mío o tuyo?\" — accesos, cuentas, código. El secuestro técnico es más común de lo que crees." },
-        { "role": "value", "h": "Las otras cuatro", "b": "4) \"¿Qué NO va a poder hacer?\" — el que no nombra límites no conoce su producto. 5) \"¿Por qué no me conviene la opción barata?\" 6) \"¿Cuántos días del cronograma son pruebas?\" — menos del 30% = prototipo. 7) \"¿Qué proyectos has rechazado?\" — el que nunca dijo no, te dirá que sí a todo." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas para empresas peruanas y respondemos las 7 sin sudar: clientes de referencia, soporte claro, el sistema es tuyo, y rechazamos 1 de cada 4 proyectos." },
-        { "role": "cta", "h": "Guarda la lista. Úsala con todos.", "b": "Con nosotros primero, si quieres: qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "COSTOS Y VERDADES",
+          "h": "7 preguntas antes de firmar.",
+          "b": "Hazlas. A nosotros también"
+        },
+        {
+          "role": "rehook",
+          "h": "Un buen proveedor sobrevive el interrogatorio.",
+          "b": "Uno malo se ofende. Esa reacción también es una respuesta."
+        },
+        {
+          "role": "value",
+          "h": "Las primeras tres",
+          "b": "1) \"¿Puedo hablar con 2 clientes tuyos?\" — conversaciones reales, no capturas. 2) \"¿Qué pasa CUANDO esto se rompa?\" — tiempo de respuesta, canal, costo. 3) \"¿El sistema es mío o tuyo?\" — accesos, cuentas, código. El secuestro técnico es más común de lo que crees."
+        },
+        {
+          "role": "value",
+          "h": "Las otras cuatro",
+          "b": "4) \"¿Qué NO va a poder hacer?\" — el que no nombra límites no conoce su producto. 5) \"¿Por qué no me conviene la opción barata?\" 6) \"¿Cuántos días del cronograma son pruebas?\" — menos del 30% = prototipo. 7) \"¿Qué proyectos has rechazado?\" — el que nunca dijo no, te dirá que sí a todo."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Empezamos por un proceso chico y medible: si eso no funciona, no tiene sentido hablar del resto."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda la lista. Úsala con todos.",
+          "b": "Con nosotros primero, si quieres: qolca.org."
+        }
       ],
       "caption": {
-        "ig": "7 preguntas que hacen sudar a cualquier proveedor de software — úsalas con todos, incluida Qolca: hablar con 2 clientes reales, qué pasa CUANDO se rompa, de quién es el sistema, qué NO va a poder hacer, por qué no comprar lo barato, cuántos días son pruebas y qué proyectos ha rechazado. El que se ofende con la lista ya respondió. qolca.org #compras #b2b #proveedores #peru",
-        "tt": "7 preguntas que hacen sudar a cualquier proveedor de software 😅 #b2b #negocios #compras",
-        "fb": "Guarden esta lista para su próxima cotización de software: la pregunta 7 es la más reveladora — \"¿qué proyectos has rechazado y por qué?\". El proveedor que nunca dijo \"esto no te conviene\" te dirá que sí a TODO. En Qolca aceptamos el interrogatorio completo. ¿Qué pregunta agregarían? qolca.org"
+        "ig": "7 preguntas antes de firmar. Hazlas. A nosotros también.\n\n1) \"¿Puedo hablar con 2 clientes tuyos?\" — conversaciones reales, no capturas. 4) \"¿Qué NO va a poder hacer?\" — el que no nombra límites no conoce su producto.\n\nPrecios y plazos a la vista, para que compares con quien quieras.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #costos #pymesperu #tecnologia #negocios",
+        "tt": "7 preguntas antes de firmar. #automatizacion #costos #pymes",
+        "fb": "7 preguntas antes de firmar. 4) \"¿Qué NO va a poder hacer?\" — el que no nombra límites no conoce su producto. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Siete preguntas de evaluación para proveedores de software: referencias, soporte, propiedad, límites, pruebas y rechazos."
+      "alt": "7 preguntas antes de firmar. Hazlas. A nosotros también. Carrusel de Qolca sobre automatización para empresas peruanas."
     }
   ]
 }

@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Tu CRM está vacío y no es culpa de tu equipo 📊
-#crm #ventas #automatizacion
+Compraste un CRM y nadie lo llena.
+#automatizacion #ia #tecnologia
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu CRM está vacío y no es culpa de tu equipo: llenarlo es un trabajo que nadie contrató hacer.
+Compraste un CRM y nadie lo llena.
 
-Qolca construyó uno que se llena solo — web, WhatsApp y correo alimentan las fichas, y el RUC trae el resto de datos automáticamente. Fichas completas: del 30% al 96%, con MENOS trabajo. qolca.org
+No es disciplina. Es diseño.
 
-#crm #ventas #automatizacion #peru
+Se hace la lista de por dónde entra realmente un cliente: formulario web, WhatsApp, correo, ferias, referidos. Cada puerta se conecta para que el contacto se guarde solo en el momento en que llega. Un CRM funciona si el equipo lo CONSULTA, y solo lo consulta cuando confía en que está completo.
+
+Guárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #ia #tecnologia #pymesperu #procesos
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-CRM autoalimentado: captura automática desde cinco fuentes y enriquecimiento por RUC.
+Compraste un CRM y nadie lo llena. No es disciplina. Es diseño. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Confesión colectiva: todos compramos un CRM y nadie lo llena — porque llenarlo es un trabajo que nadie contrató hacer. La solución que construye Qolca no es más disciplina: es captura invisible (web, WhatsApp y correo alimentan las fichas solos + el RUC trae el resto). ¿Su CRM está al día? 😅 qolca.org
+Compraste un CRM y nadie lo llena. Un CRM funciona si el equipo lo CONSULTA, y solo lo consulta cuando confía en que está completo. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

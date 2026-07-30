@@ -1,4 +1,4 @@
-# Una clínica dejó de perder pacientes por WhatsApp.
+# Cómo se construye un WhatsApp que atiende una clínica.
 
 `qolca` · `s2-teardowns` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Cómo se construye un agente de WhatsApp de verdad, día por día 🤖
-#ia #whatsapp #detras
+Cómo se construye un WhatsApp que atiende una clínica.
+#automatizacion #ia #tecnologia
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Así construyó Qolca el agente de WhatsApp de una clínica en 6 días: primero se leyeron 400 conversaciones reales (6 tipos de consulta cubren el 85%), se definió qué NUNCA responde solo (urgencias → humano en 10 segundos) y el equipo intentó romperlo un día entero antes de salir.
+Cómo se construye un WhatsApp que atiende una clínica.
 
-Resultado: 78% resuelto desde la semana 1. qolca.org
+El método, paso por paso.
 
-#ia #whatsapp #clinicas #automatizacion #peru
+Se empieza leyendo las conversaciones que ya tuviste. Se revisan cientos de chats reales del negocio y se agrupan las consultas. En salud la regla se escribe antes de la primera línea de código: una urgencia pasa a una persona al instante, siempre.
+
+Guárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #ia #tecnologia #pymesperu #procesos
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Construcción de un agente de WhatsApp médico en seis días: análisis, reglas, conexiones, pruebas y lanzamiento.
+Cómo se construye un WhatsApp que atiende una clínica. El método, paso por paso. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Proceso real, sin humo: así hizo Qolca el agente de WhatsApp de una clínica en 6 días. El día 1 no se programa nada — se leen 400 chats reales. Antes de salir, el equipo intenta ROMPERLO. ¿La métrica de éxito? 78% resuelto solo Y urgencias derivadas en 10 segundos. Las dos cosas, o no sirve. qolca.org
+Cómo se construye un WhatsApp que atiende una clínica. Antes de soltarlo, el equipo de la clínica se pasa un día tratando de confundirlo a propósito. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -1,4 +1,4 @@
-# Te deben S/180,000 y te da roche cobrar.
+# Te deben y te da roche cobrar.
 
 `qolca` · `s1-antes-despues` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Cobrar da roche. El sistema no siente roche 💸
-#cobranza #pymes #negocios
+Te deben y te da roche cobrar.
+#automatizacion #pymes #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-S/180,000 por cobrar y vergüenza de llamar — Qolca construye la secuencia de cobranza que no siente roche: recordatorios cordiales, puntuales y con link de pago, del pre-aviso hasta la alerta interna.
+Te deben y te da roche cobrar.
 
-Resultado: días de cobro de 74 a 39, sin una sola llamada incómoda. qolca.org
+Se puede cobrar sin incomodar.
 
-#cobranza #flujodecaja #pymes #peru
+Lo que la daña es el silencio de tres meses y la llamada de golpe. Nadie quiere ser el pesado. Escribir antes del vencimiento, no después: recordar la fecha, mandar el enlace de pago, insistir con calma en los días que tú definas.
+
+Haz la cuenta con tus números antes de contratar a nadie.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #pymesperu #whatsappbusiness #gestion #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Caso de cobranza: postergación por incomodidad versus secuencia automática cordial.
+Te deben y te da roche cobrar. Se puede cobrar sin incomodar. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Verdad incómoda de las pymes peruanas: cobrar da roche, así que se posterga — y una deuda de 90 días vale la mitad que una de 30. La secuencia automática que construye Qolca bajó los días de cobro de 74 a 39 sin UNA llamada incómoda. ¿Cuánto te deben ahora mismo? qolca.org
+Te deben y te da roche cobrar. Suma lo que te deben hoy y cuántos días promedio se pasan de la fecha. ¿Cuánto te está costando a ti? Es una cuenta de dos minutos. En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

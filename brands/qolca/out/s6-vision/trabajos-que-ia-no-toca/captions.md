@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-La IA no compite contra tu gente. Compite contra su tipeo 🤖
-#ia #trabajo #peru
+La IA no viene por tu gente.
+#ia #inteligenciaartificial #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-La IA no compite contra tu gente — compite contra las 4 horas de TIPEO DISFRAZADO de su día: tipear facturas, responder lo mismo 50 veces, armar el reporte del lunes.
+La IA no viene por tu gente.
 
-Qolca construye los sistemas que se llevan ese tipeo. Lo que no toca (por años): cerrar tratos mirando a los ojos, calmar clientes furiosos, el olfato del "esto huele raro". qolca.org
+Viene por el tipeo disfrazado de trabajo.
 
-#ia #futurodeltrabajo #peru
+Nadie estudió para eso, y sin embargo ahí se va el día. Lo repetido, lo que tiene reglas claras y lo que hay que hacer a las 3 de la mañana. Negociar, entender a un cliente molesto, decidir con información incompleta, cuidar una relación de años.
+
+Guárdalo y compáralo con cómo opera tu empresa hoy.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#ia #inteligenciaartificial #pymesperu #futuro #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Qué trabajos transformó la IA y cuáles no, con la pregunta del tipeo disfrazado.
+La IA no viene por tu gente. Viene por el tipeo disfrazado de trabajo. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Conversación pendiente en muchas empresas: la IA no reemplaza personas — reemplaza las 4 horas diarias de tipeo disfrazado. El caso que más vemos en Qolca: la asistente que tipeaba facturas ahora revisa excepciones y atiende proveedores. Mismo sueldo, más valor. ¿Cuánto tipeo disfrazado hay en su día? qolca.org
+La IA no viene por tu gente. Negociar, entender a un cliente molesto, decidir con información incompleta, cuidar una relación de años. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

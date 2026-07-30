@@ -5,182 +5,472 @@
     {
       "slug": "agente-whatsapp-clinica",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Una clínica dejó de perder pacientes por WhatsApp.", "b": "Cómo se construyó, en 6 días" },
-        { "role": "rehook", "h": "No empezamos programando.", "b": "Empezamos leyendo 400 conversaciones reales de su WhatsApp. Ahí estaba todo." },
-        { "role": "value", "n": "1", "h": "Primero: entender, no programar", "b": "400 chats reales mostraron que 6 tipos de consulta cubren el 85%: agendar, precios, ubicación, resultados, urgencias. Y una regla de oro: las urgencias médicas pasan a un humano al instante, siempre." },
-        { "role": "value", "n": "2", "h": "Después: conectar y tratar de romperlo", "b": "El sistema se conectó a la agenda real de los doctores y a la lista de precios oficial — no inventa: consulta. Y antes de salir, el equipo de la clínica pasó un día entero intentando romperlo. Cada fallo, corregido en caliente." },
-        { "role": "value", "n": "3", "h": "78% de conversaciones resueltas sin humano", "b": "Desde la semana 1 — con urgencias derivadas en menos de 10 segundos. Ese balance es el éxito." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos agentes de WhatsApp que atienden y venden solos, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Quieres este proceso en tu negocio?", "b": "Escríbenos en qolca.org y lo conversamos con tus datos." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "Cómo se construye un WhatsApp que atiende una clínica.",
+          "b": "El método, paso por paso"
+        },
+        {
+          "role": "rehook",
+          "h": "No se empieza programando.",
+          "b": "Se empieza leyendo las conversaciones que ya tuviste. Ahí está todo lo que hay que saber."
+        },
+        {
+          "role": "value",
+          "h": "Primero: leer, no programar",
+          "b": "Se revisan cientos de chats reales del negocio y se agrupan las consultas. Casi siempre un puñado de tipos de pregunta cubre la mayoría del volumen. Eso es lo que se automatiza; el resto, no."
+        },
+        {
+          "role": "value",
+          "h": "Segundo: decidir dónde NO opina",
+          "b": "En salud la regla se escribe antes de la primera línea de código: una urgencia pasa a una persona al instante, siempre. Y el sistema consulta la agenda y la lista de precios reales — si no sabe, dice que no sabe."
+        },
+        {
+          "role": "value",
+          "h": "Tercero: intentar romperlo",
+          "b": "Antes de soltarlo, el equipo de la clínica se pasa un día tratando de confundirlo a propósito. Cada respuesta mala se corrige ahí, no con pacientes de verdad."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas. Hablas directo con quien programa: lo que acuerdas es lo que se construye."
+        },
+        {
+          "role": "cta",
+          "h": "¿Quieres ver este proceso con tus chats?",
+          "b": "Escríbenos en qolca.org y lo miramos con tus conversaciones, no con un ejemplo."
+        }
       ],
       "caption": {
-        "ig": "Así construyó Qolca el agente de WhatsApp de una clínica en 6 días: primero se leyeron 400 conversaciones reales (6 tipos de consulta cubren el 85%), se definió qué NUNCA responde solo (urgencias → humano en 10 segundos) y el equipo intentó romperlo un día entero antes de salir. Resultado: 78% resuelto desde la semana 1. qolca.org #ia #whatsapp #clinicas #automatizacion #peru",
-        "tt": "Cómo se construye un agente de WhatsApp de verdad, día por día 🤖 #ia #whatsapp #detras",
-        "fb": "Proceso real, sin humo: así hizo Qolca el agente de WhatsApp de una clínica en 6 días. El día 1 no se programa nada — se leen 400 chats reales. Antes de salir, el equipo intenta ROMPERLO. ¿La métrica de éxito? 78% resuelto solo Y urgencias derivadas en 10 segundos. Las dos cosas, o no sirve. qolca.org"
+        "ig": "Cómo se construye un WhatsApp que atiende una clínica. El método, paso por paso.\n\nSe empieza leyendo las conversaciones que ya tuviste. Se revisan cientos de chats reales del negocio y se agrupan las consultas. En salud la regla se escribe antes de la primera línea de código: una urgencia pasa a una persona al instante, siempre.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "Cómo se construye un WhatsApp que atiende una clínica. #automatizacion #ia #tecnologia",
+        "fb": "Cómo se construye un WhatsApp que atiende una clínica. Antes de soltarlo, el equipo de la clínica se pasa un día tratando de confundirlo a propósito. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Construcción de un agente de WhatsApp médico en seis días: análisis, reglas, conexiones, pruebas y lanzamiento."
+      "alt": "Cómo se construye un WhatsApp que atiende una clínica. El método, paso por paso. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "bot-cotizacion",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Cotizaba en 2 días. Ahora en 90 segundos.", "b": "Y su cierre de ventas se triplicó" },
-        { "role": "rehook", "h": "El problema nunca fue el vendedor.", "b": "Cotizar requería 4 fuentes de datos y la aprobación de 2 jefes. Ese era el sistema invisible detrás." },
-        { "role": "value", "n": "1", "h": "El hallazgo incómodo", "b": "El 80% de las cotizaciones usaba las mismas 12 configuraciones — y toda la lógica de precios vivía en la cabeza del jefe de operaciones. Dos tardes de entrevistas la convirtieron en reglas escritas: montos, márgenes, excepciones." },
-        { "role": "value", "n": "2", "h": "El cotizador automático", "b": "El cliente describe lo que necesita, el sistema pregunta solo lo que falta y entrega la cotización en PDF con membrete en 90 segundos. Los casos difíciles llegan al ingeniero con el pre-trabajo hecho: hasta lo manual quedó más rápido." },
-        { "role": "value", "n": "3", "h": "Cierre: del 12% al 31%", "b": "Mismos precios, misma calidad. La cotización llega cuando el cliente AÚN piensa en el problema — no 2 días después, cuando ya pidió otras 3. La velocidad ES estrategia." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos cotizadores y sistemas de venta automáticos para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuánto tarda tu cotización?", "b": "Si es más de una hora, escríbenos en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "Cómo se automatiza una cotización sin equivocarse en el precio.",
+          "b": "El orden importa"
+        },
+        {
+          "role": "rehook",
+          "h": "El problema casi nunca es el vendedor.",
+          "b": "Es que cotizar necesita cuatro fuentes de datos y la aprobación de dos personas."
+        },
+        {
+          "role": "value",
+          "h": "Primero: sacar el precio de la cabeza de alguien",
+          "b": "En muchas empresas la lógica de precios vive en la memoria del jefe de operaciones. El trabajo real son dos tardes de entrevistas para convertirla en reglas escritas: montos, márgenes, excepciones."
+        },
+        {
+          "role": "value",
+          "h": "Segundo: automatizar lo repetido, no todo",
+          "b": "Cuando un grupo chico de configuraciones cubre la mayoría de las cotizaciones, ese grupo se automatiza. Lo raro sigue pasando por una persona — pero le llega con el trabajo previo ya hecho."
+        },
+        {
+          "role": "value",
+          "h": "Tercero: que el precio no se lo invente",
+          "b": "El sistema consulta la lista oficial y las reglas acordadas. Si el caso se sale de ellas, no adivina: avisa y lo deriva. Un precio inventado cuesta más que una cotización lenta."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas. Hablas directo con quien programa: lo que acuerdas es lo que se construye."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuánto tarda hoy tu cotización?",
+          "b": "Si son días, conversemos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "De 2 días a 90 segundos por cotización — así lo construyó Qolca: el 80% de las cotizaciones usaba las mismas 12 configuraciones, y la lógica de precios completa vivía en la cabeza del jefe (2 tardes de entrevistas la volvieron sistema). Cierre: del 12% al 31% — mismos precios, solo llegaron primero. qolca.org #ventas #cotizaciones #automatizacion #peru",
-        "tt": "De 2 días a 90 segundos por cotización. Cierre x3 📈 #ventas #automatizacion #negocios",
-        "fb": "Dato brutal de ventas B2B: la cotización que llega en 90 segundos encuentra al cliente PENSANDO en el problema; la que llega en 2 días compite contra otras 3. El cotizador que construyó Qolca triplicó el cierre sin tocar precios — solo llegando primero. ¿Cuánto tarda la tuya? qolca.org"
+        "ig": "Cómo se automatiza una cotización sin equivocarse en el precio. El orden importa.\n\nEs que cotizar necesita cuatro fuentes de datos y la aprobación de dos personas. En muchas empresas la lógica de precios vive en la memoria del jefe de operaciones. Cuando un grupo chico de configuraciones cubre la mayoría de las cotizaciones, ese grupo se automatiza.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "Cómo se automatiza una cotización sin equivocarse en el precio. #automatizacion #ia #tecnologia",
+        "fb": "Cómo se automatiza una cotización sin equivocarse en el precio. El sistema consulta la lista oficial y las reglas acordadas. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cotizador automático: matriz de precios extraída del experto, formulario inteligente y cierre triplicado."
+      "alt": "Cómo se automatiza una cotización sin equivocarse en el precio. El orden importa. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "crm-desde-formularios",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Compraste un CRM y nadie lo llena.", "b": "Así se hizo uno que se llena solo" },
-        { "role": "rehook", "h": "Llenar el CRM es un trabajo que nadie contrató hacer.", "b": "El CRM vacío no es un problema de disciplina: es de diseño. Por eso el 70% fracasa." },
-        { "role": "value", "n": "1", "h": "La captura invisible", "b": "Se conectaron las 5 puertas por donde entraban clientes: formulario web, WhatsApp, correo, ferias, referidos. Ahora cada contacto se registra solo, donde nace. Nadie tipea dos veces." },
-        { "role": "value", "n": "2", "h": "Las fichas nacen completas", "b": "Con solo el RUC, el sistema trae razón social, dirección y estado del cliente: un dato manual, siete automáticos. Y cuando el CRM se llena solo, el equipo POR FIN lo consulta — porque ahora sí tiene la verdad." },
-        { "role": "value", "n": "3", "h": "Fichas completas: del 30% al 96%", "b": "Con MENOS trabajo del equipo, no más. Ese es el examen que todo CRM debería pasar." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Conectamos tus herramientas para que los datos se registren solos, en empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Tu CRM también está vacío?", "b": "No es culpa de tu equipo. Escríbenos en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "Compraste un CRM y nadie lo llena.",
+          "b": "No es disciplina. Es diseño"
+        },
+        {
+          "role": "rehook",
+          "h": "Llenar el CRM es un trabajo que nadie contrató hacer.",
+          "b": "Por eso se vacía. Pedir más disciplina no lo arregla; quitar el tipeo, sí."
+        },
+        {
+          "role": "value",
+          "h": "Primero: encontrar todas las puertas",
+          "b": "Se hace la lista de por dónde entra realmente un cliente: formulario web, WhatsApp, correo, ferias, referidos. Casi siempre hay más puertas de las que el dueño creía."
+        },
+        {
+          "role": "value",
+          "h": "Segundo: registrar donde nace, no después",
+          "b": "Cada puerta se conecta para que el contacto se guarde solo en el momento en que llega. Nadie tipea dos veces. Y con un solo dato — el RUC — se pueden traer varios más."
+        },
+        {
+          "role": "value",
+          "h": "Tercero: el examen de verdad",
+          "b": "Un CRM funciona si el equipo lo CONSULTA, y solo lo consulta cuando confía en que está completo. La pregunta no es cuántos campos tiene: es si alguien lo abre antes de llamar."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas, empezando por un proceso chico y medible antes de tocar el resto."
+        },
+        {
+          "role": "cta",
+          "h": "¿Tu CRM está vacío?",
+          "b": "No es culpa de tu equipo. Cuéntanos cómo entran tus clientes en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "Tu CRM está vacío y no es culpa de tu equipo: llenarlo es un trabajo que nadie contrató hacer. Qolca construyó uno que se llena solo — web, WhatsApp y correo alimentan las fichas, y el RUC trae el resto de datos automáticamente. Fichas completas: del 30% al 96%, con MENOS trabajo. qolca.org #crm #ventas #automatizacion #peru",
-        "tt": "Tu CRM está vacío y no es culpa de tu equipo 📊 #crm #ventas #automatizacion",
-        "fb": "Confesión colectiva: todos compramos un CRM y nadie lo llena — porque llenarlo es un trabajo que nadie contrató hacer. La solución que construye Qolca no es más disciplina: es captura invisible (web, WhatsApp y correo alimentan las fichas solos + el RUC trae el resto). ¿Su CRM está al día? 😅 qolca.org"
+        "ig": "Compraste un CRM y nadie lo llena. No es disciplina. Es diseño.\n\nSe hace la lista de por dónde entra realmente un cliente: formulario web, WhatsApp, correo, ferias, referidos. Cada puerta se conecta para que el contacto se guarde solo en el momento en que llega. Un CRM funciona si el equipo lo CONSULTA, y solo lo consulta cuando confía en que está completo.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "Compraste un CRM y nadie lo llena. #automatizacion #ia #tecnologia",
+        "fb": "Compraste un CRM y nadie lo llena. Un CRM funciona si el equipo lo CONSULTA, y solo lo consulta cuando confía en que está completo. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "CRM autoalimentado: captura automática desde cinco fuentes y enriquecimiento por RUC."
+      "alt": "Compraste un CRM y nadie lo llena. No es disciplina. Es diseño. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "pipeline-facturas",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Tu equipo pierde 3 días tipeando facturas ajenas.", "b": "El robot que las lee solo" },
-        { "role": "rehook", "h": "600 facturas de proveedores al mes, PDF por PDF.", "b": "Una persona, tres días al mes, tipeándolas al sistema contable. Había que verlo para creerlo." },
-        { "role": "value", "n": "1", "h": "Cómo funciona", "b": "Regla nueva: toda factura entra por UN correo. El sistema lee cada PDF solo — RUC, monto, fecha, IGV — aunque cada proveedor tenga su formato, y lo valida tres veces: ¿RUC activo? ¿factura válida en SUNAT? ¿monto cuadra con la orden de compra?" },
-        { "role": "value", "n": "2", "h": "Lo dudoso jamás se registra solo", "b": "El 8% que no cuadra cae en una bandeja de revisión con TODO el contexto. La contadora revisa excepciones — no tipea PDFs. Lo validado entra categorizado y listo para el pago programado." },
-        { "role": "value", "n": "3", "h": "De 3 días a 90 minutos al mes", "b": "Y cero facturas observadas por SUNAT en el semestre. La máquina no se cansa en la factura 400." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas que leen y registran documentos solos, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuántas facturas tipea tu equipo al mes?", "b": "Escríbenos en qolca.org con ese número." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "Cómo se automatiza la lectura de facturas de proveedores.",
+          "b": "Y por qué lo dudoso no se registra"
+        },
+        {
+          "role": "rehook",
+          "h": "Cada proveedor manda su PDF con un formato distinto.",
+          "b": "Por eso alguien las tipea una por una. Se puede leer solo — con condiciones."
+        },
+        {
+          "role": "value",
+          "h": "Primero: una sola puerta de entrada",
+          "b": "Antes de tocar nada: todas las facturas entran por un único correo. Sin esa regla, automatizar la lectura es automatizar un desorden que sigue creciendo por otros lados."
+        },
+        {
+          "role": "value",
+          "h": "Segundo: validar tres veces, no una",
+          "b": "Leer el PDF es lo fácil. Lo que evita problemas es cruzarlo: ¿el RUC está activo? ¿la factura existe en SUNAT? ¿el monto cuadra con la orden de compra?"
+        },
+        {
+          "role": "value",
+          "h": "Tercero: lo que no cuadra, a revisión",
+          "b": "Lo que no pasa las validaciones NO entra al sistema contable: cae en una bandeja con todo el contexto. Tu contadora revisa excepciones en vez de tipear PDFs."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas. Y cuando el proceso todavía no está listo para automatizarse, lo decimos antes de cobrarte."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántas facturas tipea tu equipo al mes?",
+          "b": "Escríbenos ese número a qolca.org."
+        }
       ],
       "caption": {
-        "ig": "600 facturas de proveedores al mes tipeadas a mano — Qolca construyó el robot que las procesa solo: entrada única por correo, lectura automática (cada proveedor con SU formato), triple validación contra SUNAT y la orden de compra, y solo el 8% dudoso pasa a revisión humana. De 3 días a 90 minutos. qolca.org #contabilidad #automatizacion #sunat #peru",
-        "tt": "El robot que lee 600 facturas al mes sin aburrirse 🧾 #contabilidad #ia #automatizacion",
-        "fb": "Para contadores y administradores: ¿cuántas horas al mes se van tipeando facturas de proveedores? El robot que construye Qolca las lee, valida contra SUNAT y la orden de compra, y solo deriva el 8% dudoso a revisión humana. El humano no se aburre en la factura 400 — porque la 400 la procesa la máquina. qolca.org"
+        "ig": "Cómo se automatiza la lectura de facturas de proveedores. Y por qué lo dudoso no se registra.\n\nPor eso alguien las tipea una por una. Antes de tocar nada: todas las facturas entran por un único correo. Lo que no pasa las validaciones NO entra al sistema contable: cae en una bandeja con todo el contexto.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "Cómo se automatiza la lectura de facturas de proveedores. #automatizacion #ia #tecnologia",
+        "fb": "Cómo se automatiza la lectura de facturas de proveedores. Lo que no pasa las validaciones NO entra al sistema contable: cae en una bandeja con todo el contexto. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Procesamiento automático de facturas de proveedores: entrada única, lectura, validación triple y registro."
+      "alt": "Cómo se automatiza la lectura de facturas de proveedores. Y por qué lo dudoso no se registra. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "chatbot-agenda",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Agendar una reunión te cuesta 8 mensajes.", "b": "El asistente que lo baja a 2" },
-        { "role": "rehook", "h": "\"¿Martes?\" \"No.\" \"¿Jueves?\" \"Mejor viernes...\"", "b": "8 mensajes por reunión × 25 reuniones semanales = 200 mensajes de puro tira y afloja." },
-        { "role": "value", "n": "1", "h": "El asistente lee la agenda REAL", "b": "Conectado a los calendarios del equipo, con sus reglas (\"no antes de las 9\", \"viernes tarde libre\"), propone 3 horarios verdaderos en el primer mensaje: \"¿Reunión con Carlos? Puede: martes 10am, miércoles 3pm o jueves 9am.\" El cliente elige con un toque." },
-        { "role": "value", "n": "2", "h": "Todo lo demás se arma solo", "b": "Confirmada la hora: invitación a ambos calendarios, link de videollamada, recordatorio 24 horas antes y contexto para el vendedor. ¿Cambio de planes? Nuevas opciones y todo se reacomoda sin que nadie borre ni reenvíe nada." },
-        { "role": "value", "n": "3", "h": "De 8 mensajes a 2. De 2 días a 10 minutos.", "b": "El tiempo entre \"conversemos\" y reunión agendada se desplomó — y con él, los interesados que se enfriaban esperando." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos asistentes que agendan y coordinan solos, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuántos mensajes te cuesta agendar?", "b": "Si el ping-pong te suena, escríbenos en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "Cómo se agenda una reunión en dos mensajes.",
+          "b": "El secreto es leer la agenda real"
+        },
+        {
+          "role": "rehook",
+          "h": "\"¿Martes?\" \"No.\" \"¿Jueves?\" \"Mejor viernes…\"",
+          "b": "El ping-pong no se arregla escribiendo más rápido. Se arregla proponiendo horas que existen."
+        },
+        {
+          "role": "value",
+          "h": "Primero: conectar el calendario de verdad",
+          "b": "Un asistente que propone horarios inventados empeora el problema. Conectado al calendario del equipo, con sus reglas — \"no antes de las 9\", \"viernes tarde libre\" — propone tres horas que sí están libres."
+        },
+        {
+          "role": "value",
+          "h": "Segundo: que lo demás se arme solo",
+          "b": "Confirmada la hora: invitación a los dos calendarios, enlace de videollamada, recordatorio el día antes. Si alguien cambia de planes, se reacomoda sin que nadie reenvíe nada."
+        },
+        {
+          "role": "value",
+          "h": "Tercero: medir el tiempo hasta la reunión",
+          "b": "La métrica no es cuántos mensajes se ahorraron: es cuántas horas pasan entre \"conversemos\" y la reunión en el calendario. Ahí se ven los interesados que se enfrían."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas, empezando por un proceso chico y medible antes de tocar el resto."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántos mensajes te cuesta agendar?",
+          "b": "Si el ping-pong te suena, escríbenos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "Agendar una reunión cuesta 8 mensajes de \"¿martes? no, ¿jueves? mejor viernes...\" — Qolca construyó el asistente que lee la agenda REAL del equipo y propone 3 horarios verdaderos en el primer mensaje. De 8 mensajes a 2, de 2 días a 10 minutos entre \"conversemos\" y reunión agendada. qolca.org #productividad #agenda #automatizacion #peru",
-        "tt": "El ping-pong de horarios: 8 mensajes para UNA reunión 😩 #productividad #automatizacion #agenda",
-        "fb": "Cuenten los mensajes de su última coordinación de reunión: ¿cuántos fueron \"¿puedes el martes?\" — \"mejor jueves\"? El promedio es 8. El asistente que construye Qolca lo baja a 2, proponiendo horarios REALES de la agenda desde el primer mensaje. El tiempo entre \"conversemos\" y la reunión también es un embudo de ventas. qolca.org"
+        "ig": "Cómo se agenda una reunión en dos mensajes. El secreto es leer la agenda real.\n\nEl ping-pong no se arregla escribiendo más rápido. Un asistente que propone horarios inventados empeora el problema. Confirmada la hora: invitación a los dos calendarios, enlace de videollamada, recordatorio el día antes.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "Cómo se agenda una reunión en dos mensajes. #automatizacion #ia #tecnologia",
+        "fb": "Cómo se agenda una reunión en dos mensajes. La métrica no es cuántos mensajes se ahorraron: es cuántas horas pasan entre \"conversemos\" y la reunión en el calendario. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Asistente de agendamiento: lectura de calendarios reales, tres opciones en el primer mensaje y logística automática."
+      "alt": "Cómo se agenda una reunión en dos mensajes. El secreto es leer la agenda real. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "tienda-almacen",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Tu web vende productos que ya no tienes.", "b": "Se arregla sin cambiar de sistema" },
-        { "role": "rehook", "h": "La web vendía lo que el almacén no tenía.", "b": "Y el almacén tenía lo que la web no mostraba. Dos sistemas, cero conversación." },
-        { "role": "value", "n": "1", "h": "El puente, no la mudanza", "b": "Nadie cambió de software: se construyó una conexión que lee el almacén cada 5 minutos y actualiza la tienda — stock, precios, productos nuevos. Y el pedido web genera solo la orden de despacho con su lista de picking." },
-        { "role": "value", "n": "2", "h": "El efecto inesperado", "b": "Con el stock por fin sincronizado, abrieron Mercado Libre en una semana: el mismo puente alimenta ambos canales. Conectar una vez, vender en varios lados." },
-        { "role": "value", "n": "3", "h": "Cancelaciones por falta de stock: de 6% a 0.3%", "b": "Y 2 horas diarias del almacenero recuperadas. Sin cambiar UN solo sistema." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Conectamos los sistemas que ya pagas para que se hablen entre ellos, en empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Tus sistemas no se hablan?", "b": "Dinos cuáles usas en qolca.org. Casi siempre hay puente." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "Tu web vende lo que el almacén no tiene.",
+          "b": "Se arregla sin cambiar de sistema"
+        },
+        {
+          "role": "rehook",
+          "h": "Dos sistemas que no se hablan.",
+          "b": "La web muestra lo que no hay, y el almacén tiene lo que la web no muestra."
+        },
+        {
+          "role": "value",
+          "h": "Primero: el puente, no la mudanza",
+          "b": "Cambiar de software es la respuesta caraosa. Casi siempre se puede construir una conexión entre lo que ya pagas: leer el almacén cada pocos minutos y actualizar la tienda."
+        },
+        {
+          "role": "value",
+          "h": "Segundo: decidir quién manda",
+          "b": "Antes de conectar hay que definir cuál sistema tiene la verdad del stock. Sin esa decisión, dos sistemas sincronizados se pelean y el resultado es peor que antes."
+        },
+        {
+          "role": "value",
+          "h": "Tercero: el mismo puente sirve para más",
+          "b": "Cuando el stock ya está sincronizado, abrir otro canal de venta deja de ser un proyecto: el mismo puente lo alimenta. Conectas una vez, vendes en varios lados."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas. Hablas directo con quien programa: lo que acuerdas es lo que se construye."
+        },
+        {
+          "role": "cta",
+          "h": "¿Tus sistemas no se hablan?",
+          "b": "Dinos cuáles usas en qolca.org. Casi siempre hay puente."
+        }
       ],
       "caption": {
-        "ig": "\"Es que habría que cambiar todo el sistema\" — falsa: Qolca conectó la tienda online con el almacén sin migrar nada. Stock sincronizado cada 5 minutos, pedidos que viajan solos, y cancelaciones por falta de stock de 6% a 0.3%. De yapa: Mercado Libre abierto en una semana con el mismo puente. qolca.org #ecommerce #integraciones #peru",
-        "tt": "\"Habría que cambiar todo el sistema\" — no. Solo conectarlo 🔌 #ecommerce #integraciones #negocios",
-        "fb": "La frase que más proyectos mata: \"es que habría que cambiar todo el sistema\". Casi siempre es falsa — existe un puente entre lo que ya usan. Qolca conectó tienda y almacén en días: cancelaciones de 6% a 0.3%, y Mercado Libre abierto con la misma conexión. ¿Qué sistemas no se hablan en tu negocio? qolca.org"
+        "ig": "Tu web vende lo que el almacén no tiene. Se arregla sin cambiar de sistema.\n\nLa web muestra lo que no hay, y el almacén tiene lo que la web no muestra. Cambiar de software es la respuesta caraosa. Antes de conectar hay que definir cuál sistema tiene la verdad del stock.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "Tu web vende lo que el almacén no tiene. #automatizacion #ia #tecnologia",
+        "fb": "Tu web vende lo que el almacén no tiene. Cuando el stock ya está sincronizado, abrir otro canal de venta deja de ser un proyecto: el mismo puente lo alimenta. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Integración tienda-almacén sin migración: conector bidireccional, stock de seguridad y expansión multicanal."
+      "alt": "Tu web vende lo que el almacén no tiene. Se arregla sin cambiar de sistema. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "dashboard-ventas",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Los paneles de control mueren en 3 semanas.", "b": "Así se hizo uno que duró" },
-        { "role": "rehook", "h": "No mueren por feos. Mueren por irrelevantes.", "b": "La diferencia se decide antes de dibujar el primer gráfico." },
-        { "role": "value", "n": "1", "h": "Se diseña desde las DECISIONES", "b": "¿Qué decide el gerente cada semana? Precios, reposición, incentivos, cobranza. El panel muestra 5 números que alimentan esas decisiones — no 50. Y cada dato con su porqué: \"S/48K, -12% vs la semana pasada, por caída en la línea X\"." },
-        { "role": "value", "n": "2", "h": "El panel va hacia el gerente", "b": "Resumen por WhatsApp los lunes 7am + alertas cuando algo se sale de rango. Un panel tímido es un panel muerto. Y cada trimestre se poda: el número que nadie miró se saca; el que se buscó a mano se agrega." },
-        { "role": "value", "n": "3", "h": "12 meses de uso diario real", "b": "El secreto no fue la tecnología: fue diseñar desde las decisiones. Los datos son solo el medio." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos paneles y reportes que los gerentes SÍ usan, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Tu panel ya murió?", "b": "Dinos qué decides cada semana en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "Los paneles de control mueren a las tres semanas.",
+          "b": "Cómo se hace uno que dure"
+        },
+        {
+          "role": "rehook",
+          "h": "No mueren por feos. Mueren por irrelevantes.",
+          "b": "Y eso se decide antes de dibujar el primer gráfico."
+        },
+        {
+          "role": "value",
+          "h": "Primero: partir de las DECISIONES",
+          "b": "La pregunta no es qué datos tienes: es qué decides cada semana. Precios, reposición, cobranza, incentivos. El panel muestra los pocos números que alimentan esas decisiones."
+        },
+        {
+          "role": "value",
+          "h": "Segundo: cada dato con su porqué",
+          "b": "Un número solo no dice nada. \"Bajó 12% respecto a la semana pasada, por la línea X\" sí. Si el panel no explica, alguien va a tener que investigar — y no lo va a hacer."
+        },
+        {
+          "role": "value",
+          "h": "Tercero: el panel va hacia ti",
+          "b": "Un panel que espera a que lo abras está muerto. Resumen por WhatsApp los lunes y aviso cuando algo se sale de rango. Y cada tanto se poda: lo que nadie mira, se saca."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas. Y cuando el proceso todavía no está listo para automatizarse, lo decimos antes de cobrarte."
+        },
+        {
+          "role": "cta",
+          "h": "¿Tu panel ya murió?",
+          "b": "Cuéntanos qué decides cada semana en qolca.org. De ahí sale el panel."
+        }
       ],
       "caption": {
-        "ig": "El 90% de los paneles de control muere en 3 semanas — no por feos, por irrelevantes. El que construyó Qolca cumplió un año de uso diario: diseñado desde las 4 DECISIONES semanales del gerente, 5 números y no 50, cada dato con su porqué, y resumen por WhatsApp los lunes 7am. qolca.org #datos #gerencia #pymes #peru",
-        "tt": "Por qué el 90% de los paneles de control muere en 3 semanas 📊 #datos #gerencia #negocios",
-        "fb": "Test para tu panel de control: ¿cuándo fue la última vez que lo miraste sin que nadie te lo pida? El 90% muere en 3 semanas porque muestra DATOS en vez de alimentar DECISIONES. El que construye Qolca: 5 números, contexto en cada uno, y resumen que llega solo los lunes 7am. ¿El tuyo vive? qolca.org"
+        "ig": "Los paneles de control mueren a las tres semanas. Cómo se hace uno que dure.\n\nEso se decide antes de dibujar el primer gráfico. La pregunta no es qué datos tienes: es qué decides cada semana. Un número solo no dice nada.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "Los paneles de control mueren a las tres semanas. #automatizacion #ia #tecnologia",
+        "fb": "Los paneles de control mueren a las tres semanas. Un panel que espera a que lo abras está muerto. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Anatomía de un panel gerencial duradero: diseño desde decisiones, cinco números con contexto y entrega proactiva."
+      "alt": "Los paneles de control mueren a las tres semanas. Cómo se hace uno que dure. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "flujo-cobranza",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Así se cobra S/2 millones sin llamadas incómodas.", "b": "Los mensajes exactos. Cópialos." },
-        { "role": "rehook", "h": "Cobrar no tiene por qué dañar la relación.", "b": "Esta secuencia exacta lo demuestra. Tómala, es tuya." },
-        { "role": "value", "n": "1", "h": "Antes y al vencer", "b": "3 días antes: \"Hola Ana, la factura F001-234 (S/3,500) vence el viernes 😊\" — la mitad paga solo con esto. Al día siguiente del vencimiento: \"Seguro es un tema de trámite — te dejo el link de pago por si ayuda.\" Cero acusación." },
-        { "role": "value", "n": "2", "h": "Si sigue sin pagar", "b": "Día 7: pregunta abierta — \"¿Hay algo trabando el pago? Si el monto es un tema, conversemos pagarlo en partes.\" Día 15: tono formal pidiendo fecha esta semana. Día 30: recién llama un humano, con todo el historial en la mano." },
-        { "role": "value", "n": "3", "h": "El 84% paga antes del día 15", "b": "Sin llamadas, sin roche, sin perder un cliente. La constancia cordial vence a la presión esporádica." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas que ejecutan esta secuencia solos contra tu facturación real, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "Copia la secuencia. En serio.", "b": "Y si quieres que corra sola, escríbenos en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "La secuencia para cobrar sin incomodar.",
+          "b": "Los mensajes exactos. Cópialos"
+        },
+        {
+          "role": "rehook",
+          "h": "Cobrar no tiene por qué dañar la relación.",
+          "b": "Lo que la daña es callarse tres meses y llamar de golpe. Esta secuencia es tuya, úsala."
+        },
+        {
+          "role": "value",
+          "h": "Antes de que venza",
+          "b": "Tres días antes: \"Hola Ana, la factura F001-234 (S/3,500) vence el viernes.\" Sin reclamo, sin drama. Muchos pagan solo con esto, porque simplemente se les pasó."
+        },
+        {
+          "role": "value",
+          "h": "El día después",
+          "b": "\"Seguro es un tema de trámite — te dejo el enlace de pago por si ayuda.\" Le das una salida elegante en vez de una acusación. La deuda se cobra; la relación se cuida."
+        },
+        {
+          "role": "value",
+          "h": "A los quince días, y solo entonces",
+          "b": "Recién ahí entra una persona, con el historial completo a la vista. Los primeros dos mensajes los puede mandar un sistema; este no."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas, empezando por un proceso chico y medible antes de tocar el resto."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuánto te deben ahora mismo?",
+          "b": "Escríbenos esa cifra a qolca.org y vemos cómo ordenarlo."
+        }
       ],
       "caption": {
-        "ig": "La secuencia de cobranza que cobra S/2 millones al año sin una llamada incómoda — mensaje por mensaje, cópiala: pre-aviso 3 días antes (la mitad paga solo con esto), recordatorio sin drama, pregunta abierta al día 7, tono formal al 15, humano recién al 30. El 84% paga antes del día 15. Qolca la deja corriendo sola contra tu facturación: qolca.org #cobranza #pymes #plantilla #peru",
-        "tt": "La secuencia de cobranza sin roche, mensaje por mensaje 💬 #cobranza #pymes #plantillas",
-        "fb": "Regalo del día: la secuencia de cobranza completa, mensaje por mensaje — la misma que cobra S/2 millones al año sin llamadas incómodas. El secreto es el pre-aviso 3 días antes: la mitad paga solo con eso. Guárdenla y úsenla — y si quieren que corra sola contra su facturación, Qolca la construye: qolca.org"
+        "ig": "La secuencia para cobrar sin incomodar. Los mensajes exactos. Cópialos.\n\nLo que la daña es callarse tres meses y llamar de golpe. Tres días antes: \"Hola Ana, la factura F001-234 (S/3,500) vence el viernes.\" Sin reclamo, sin drama. \"Seguro es un tema de trámite — te dejo el enlace de pago por si ayuda.\" Le das una salida elegante en vez de una acusación.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "La secuencia para cobrar sin incomodar. #automatizacion #ia #tecnologia",
+        "fb": "La secuencia para cobrar sin incomodar. Recién ahí entra una persona, con el historial completo a la vista. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Secuencia de cobranza cordial en cinco mensajes con resultados medidos."
+      "alt": "La secuencia para cobrar sin incomodar. Los mensajes exactos. Cópialos. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "asistente-interno",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Toda tu empresa depende de una sola persona.", "b": "La que sabe todo. Así la liberamos." },
-        { "role": "rehook", "h": "El día que Rosa sale de vacaciones, la empresa cojea.", "b": "Ese día revela el problema: el conocimiento tiene un solo dueño." },
-        { "role": "value", "n": "1", "h": "El conocimiento salió de su cabeza", "b": "Dos semanas registrando qué le preguntan: 140 preguntas distintas. Luego 6 horas de entrevista grabada — y la IA convirtió sus respuestas en una base escrita. Rosa habló; el sistema escribió. Nadie tuvo que \"documentar todo\"." },
-        { "role": "value", "n": "2", "h": "El asistente responde en el chat de siempre", "b": "Sin app nueva: el equipo pregunta por el chat interno, como le preguntaba a Rosa. \"¿Cómo pido vacaciones?\" → respuesta + formato + a quién va. Y si no sabe algo, LO DICE — jamás inventa." },
-        { "role": "value", "n": "3", "h": "140 preguntas respondidas al instante, 24/7", "b": "Rosa quedó liberada del 70% de interrupciones: ahora mejora procesos en vez de repetirlos. Y sus vacaciones dejaron de ser una emergencia." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos asistentes internos con el conocimiento de tu empresa, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Quién es la Rosa de tu empresa?", "b": "Escríbenos en qolca.org qué le preguntan." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "Toda tu empresa depende de una sola persona.",
+          "b": "La que sabe cómo se hacen las cosas"
+        },
+        {
+          "role": "rehook",
+          "h": "Si esa persona se va de vacaciones, la empresa consulta a Google.",
+          "b": "El conocimiento que no está escrito no es del negocio: es de quien lo recuerda."
+        },
+        {
+          "role": "value",
+          "h": "Primero: escribir lo que ya se sabe",
+          "b": "El trabajo no es tecnológico: es sentarse a poner en texto los procedimientos que hoy se transmiten preguntando. Sin eso, no hay sistema que responda nada."
+        },
+        {
+          "role": "value",
+          "h": "Segundo: que responda desde TUS documentos",
+          "b": "Un asistente interno útil contesta citando el procedimiento real de tu empresa, no lo que sabe de internet. Y cuando no está en el documento, dice que no está."
+        },
+        {
+          "role": "value",
+          "h": "Tercero: quién lo mantiene",
+          "b": "Un asistente entrenado con documentos de hace un año responde cosas de hace un año. Antes de construirlo hay que decidir quién actualiza los documentos y cada cuánto."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas. Pocos proyectos a la vez, para poder meternos de verdad en el tuyo."
+        },
+        {
+          "role": "cta",
+          "h": "¿Quién es la persona sin la que tu empresa se detiene?",
+          "b": "Conversemos en qolca.org sobre cómo escribir lo que ella sabe."
+        }
       ],
       "caption": {
-        "ig": "Toda empresa tiene una Rosa: la persona que sabe TODO — y cuyas vacaciones son una emergencia. Qolca construyó su asistente: 140 preguntas registradas, 6 horas de entrevista grabada (la IA escribió la documentación que nadie quería escribir) y una regla dura: lo que no sabe, LO DICE. Rosa ahora mejora procesos en vez de repetirlos. qolca.org #gestion #ia #equipos #peru",
-        "tt": "Toda empresa tiene una Rosa. Este asistente la ascendió 🧠 #ia #equipos #gestion",
-        "fb": "¿Quién es la Rosa de tu empresa — la persona a la que TODOS le preguntan todo? El detalle bonito del asistente que construyó Qolca: nadie le pidió \"documenta todo\" (nunca funciona). La entrevistamos 6 horas y la IA escribió la base de conocimiento. Rosa ahora mejora procesos en vez de repetirlos. ¿Cómo se llama tu Rosa? qolca.org"
+        "ig": "Toda tu empresa depende de una sola persona. La que sabe cómo se hacen las cosas.\n\nEl conocimiento que no está escrito no es del negocio: es de quien lo recuerda. El trabajo no es tecnológico: es sentarse a poner en texto los procedimientos que hoy se transmiten preguntando. Un asistente interno útil contesta citando el procedimiento real de tu empresa, no lo que sabe de internet.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "Toda tu empresa depende de una sola persona. #automatizacion #ia #tecnologia",
+        "fb": "Toda tu empresa depende de una sola persona. Un asistente entrenado con documentos de hace un año responde cosas de hace un año. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Asistente de conocimiento interno: censo de preguntas, documentación por entrevista y regla de honestidad."
+      "alt": "Toda tu empresa depende de una sola persona. La que sabe cómo se hacen las cosas. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "sistema-de-este-perfil",
       "slides": [
-        { "role": "cover", "kicker": "ASÍ SE HIZO", "h": "Este post no lo diseñó nadie.", "b": "Lo produjo un sistema. Te mostramos cómo." },
-        { "role": "rehook", "h": "Practicamos lo que cobramos.", "b": "Este perfil corre sobre el mismo tipo de sistema que construimos para clientes." },
-        { "role": "value", "n": "1", "h": "Escribir un post = escribir 8 líneas", "b": "Cada post nace como texto simple: gancho, láminas, descripciones. Un sistema con la marca definida UNA vez (fuentes, colores, márgenes) lo convierte en láminas finales para Instagram, TikTok y LinkedIn. Nadie diseña nada tres veces." },
-        { "role": "value", "n": "2", "h": "La constancia no depende del lunes", "b": "Los posts entran a una cola programada: publicar no depende de la motivación, sino del inventario. Y los números deciden la siguiente tanda — la serie que funciona recibe 10 posts más; la que no, se corta." },
-        { "role": "value", "n": "3", "h": "60 carruseles en un fin de semana", "b": "Con calidad constante y cero \"no sé qué publicar hoy\". Los sistemas también hacen marketing." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos sistemas así para empresas peruanas: de contenido, de ventas, de cobranza. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Quieres un sistema así para tu marca?", "b": "Cuesta menos que un community manager. Escríbenos en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "ASÍ SE HACE",
+          "h": "Este carrusel no lo diseñó nadie a mano.",
+          "b": "Lo armó un sistema. Así funciona"
+        },
+        {
+          "role": "rehook",
+          "h": "Publicar seguido a mano no se sostiene.",
+          "b": "Así que en vez de diseñar cada lámina, se construye lo que las genera."
+        },
+        {
+          "role": "value",
+          "h": "El contenido es texto, no diseño",
+          "b": "Cada post de este perfil es un archivo con unas líneas de texto. El diseño — colores, fondos, tipografías — lo aplica un programa igual en todos. Editar un post es editar texto."
+        },
+        {
+          "role": "value",
+          "h": "Un formato, varios destinos",
+          "b": "De la misma fuente salen las medidas de Instagram, las de TikTok y el PDF de LinkedIn. Se escribe una vez; los tamaños son problema del programa."
+        },
+        {
+          "role": "value",
+          "h": "La idea, fuera de las redes",
+          "b": "Lo que hace un negocio a mano todas las semanas casi siempre se puede convertir en algo que se ejecuta solo. Este perfil es el ejemplo que tenemos más a mano."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Construimos este tipo de sistemas para empresas peruanas. Hablas directo con quien programa: lo que acuerdas es lo que se construye."
+        },
+        {
+          "role": "cta",
+          "h": "¿Qué haces tú a mano todas las semanas?",
+          "b": "Cuéntanoslo en qolca.org y te decimos si se puede automatizar."
+        }
       ],
       "caption": {
-        "ig": "Transparencia total: este post lo produjo un sistema — el mismo tipo que Qolca construye para clientes. Cada post nace como 8 líneas de texto, la marca se definió una sola vez, un archivo genera Instagram + TikTok + LinkedIn, y los números deciden la siguiente tanda. 60 carruseles en un fin de semana. qolca.org #contentmarketing #automatizacion #sistemas #peru",
-        "tt": "Este post lo produjo un sistema (desmontaje completo) 🤯 #marketing #automatizacion #sistemas",
-        "fb": "Confesión transparente: este contenido lo produce el mismo tipo de sistema que Qolca construye para clientes — cada post son 8 líneas de texto, el diseño es un sistema (no un diseñador), y un archivo genera IG + TikTok + LinkedIn a la vez. 60 carruseles en un fin de semana. ¿Preguntas? Respondemos todo. qolca.org"
+        "ig": "Este carrusel no lo diseñó nadie a mano. Lo armó un sistema. Así funciona.\n\nAsí que en vez de diseñar cada lámina, se construye lo que las genera. Cada post de este perfil es un archivo con unas líneas de texto. De la misma fuente salen las medidas de Instagram, las de TikTok y el PDF de LinkedIn.\n\nGuárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #ia #tecnologia #pymesperu #procesos",
+        "tt": "Este carrusel no lo diseñó nadie a mano. #automatizacion #ia #tecnologia",
+        "fb": "Este carrusel no lo diseñó nadie a mano. Lo que hace un negocio a mano todas las semanas casi siempre se puede convertir en algo que se ejecuta solo. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Desmontaje del sistema de contenido de Qolca: posts como datos, renderizado multiformato y cola de publicación."
+      "alt": "Este carrusel no lo diseñó nadie a mano. Lo armó un sistema. Así funciona. Carrusel de Qolca sobre automatización para empresas peruanas."
     }
   ]
 }

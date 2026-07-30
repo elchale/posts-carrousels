@@ -5,172 +5,422 @@
     {
       "slug": "empresa-de-3",
       "slides": [
-        { "role": "story", "plate": "cine-03-cafe", "h": "3 personas manejan lo que antes requería 12.", "b": "Hace 5 años era imposible. Hoy es martes." },
-        { "role": "story", "plate": "cine-02-oficina", "h": "Atención 24/7. Cotizaciones al minuto. Cobranza puntual. Reportes solos.", "b": "Cada una de esas cosas antes era una persona a tiempo completo." },
-        { "role": "value", "h": "El secreto no es trabajar más", "b": "Es decidir qué NO volver a tocar a mano nunca más. Lo repetitivo lo hace un sistema; las 3 personas venden, diseñan y cuidan clientes. Y ya no cuesta lo que costaba: la barrera no es plata, es saber qué pedir." },
-        { "role": "value", "h": "La fórmula vieja se jubiló", "b": "\"Más ventas = más gente\" era la única ecuación. Hoy hay otra: más ventas = los mismos 3 + mejores sistemas. El margen se queda en casa." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos esos sistemas para empresas peruanas: WhatsApp que vende solo, cobranza automática, reportes que se arman solos. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuánto de tu operación corre sola?", "b": "Escríbenos en qolca.org y lo construimos." }
+        {
+          "role": "story",
+          "h": "Un equipo chico ya no es una limitación.",
+          "b": "Es una decisión sobre qué NO volver a hacer a mano.",
+          "plate": "cine-03-cafe"
+        },
+        {
+          "role": "story",
+          "h": "Atención de noche. Cotizaciones al minuto. Reportes que se arman solos.",
+          "b": "Nada de eso necesita contratar a nadie más."
+        },
+        {
+          "role": "value",
+          "h": "La ecuación vieja",
+          "b": "\"Más ventas = más gente\" fue la única cuenta durante décadas. Cada cliente nuevo traía un sueldo nuevo, y el margen se quedaba en la planilla."
+        },
+        {
+          "role": "value",
+          "h": "La ecuación de ahora",
+          "b": "Los mismos, con mejores sistemas. No es que la gente sobre: es que lo repetitivo deja de comerse su día. Venden, diseñan y cuidan clientes, que es para lo que los contrataste."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Empezamos por un proceso, el que más te cuesta, y lo dejamos funcionando antes de proponerte el siguiente."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuánto de tu operación corre sola?",
+          "b": "Escríbenos en qolca.org y lo construimos."
+        }
       ],
       "caption": {
-        "ig": "Una empresa de 3 personas hoy puede operar lo que en 2020 requería 12 — con los sistemas que construye Qolca: atención 24/7, cotizaciones al minuto, cobranza puntual, reportes solos. La ecuación vieja (\"más ventas = más gente\") se jubiló: ahora es los mismos 3 + mejores sistemas, y el margen se queda en casa. qolca.org #emprendimiento #ia #pymes #peru",
-        "tt": "Lo que 3 personas pueden operar en 2026 🚀 #emprendimiento #ia #negocios",
-        "fb": "La aritmética cambió: 3 personas + sistemas bien construidos operan hoy lo que en 2020 requería 12 — y \"más ventas = más gente\" dejó de ser la única ecuación. Qolca construye esos sistemas para empresas peruanas. ¿Qué harías tú con un \"empleado\" que no duerme ni se aburre de lo repetitivo? qolca.org"
+        "ig": "Un equipo chico ya no es una limitación. Es una decisión sobre qué NO volver a hacer a mano.\n\nNada de eso necesita contratar a nadie más. \"Más ventas = más gente\" fue la única cuenta durante décadas. Los mismos, con mejores sistemas.\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "Un equipo chico ya no es una limitación. #ia #inteligenciaartificial #peru",
+        "fb": "Un equipo chico ya no es una limitación. Los mismos, con mejores sistemas. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "La capacidad operativa de empresas de tres personas en 2026 gracias a sistemas."
+      "alt": "Un equipo chico ya no es una limitación. Es una decisión sobre qué NO volver a hacer a mano. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "trabajos-que-ia-no-toca",
       "slides": [
-        { "role": "story", "plate": "cine-09-acuerdo", "h": "La IA no viene por tu gente.", "b": "Viene por sus 4 horas diarias de tipeo disfrazado." },
-        { "role": "story", "plate": "cine-07-papeles", "h": "Lo repetitivo con reglas claras ya tiene quién lo haga.", "b": "Tipear facturas, responder lo mismo 50 veces, armar el reporte del lunes." },
-        { "role": "value", "h": "Lo que la máquina no toca (por años)", "b": "Cerrar un trato mirando a los ojos, calmar a un cliente furioso, decidir con información incompleta, el olfato del \"esto huele raro\". Para eso está tu gente — mejor usada." },
-        { "role": "value", "h": "La pregunta correcta del dueño", "b": "No \"¿a quién reemplazo?\" sino \"¿qué parte del día de cada persona es tipeo disfrazado?\". El caso que se repite: la asistente que tipeaba facturas ahora revisa excepciones y atiende proveedores. Mismo sueldo, más valor. Nadie extrañó el tipeo." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos los sistemas que se llevan el tipeo disfrazado — y le devuelven esas horas a tu gente y a tu margen — para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Qué parte de tu día es tipeo disfrazado?", "b": "Esa es la conversación que vale. Escríbenos en qolca.org." }
+        {
+          "role": "story",
+          "h": "La IA no viene por tu gente.",
+          "b": "Viene por el tipeo disfrazado de trabajo.",
+          "plate": "cine-09-acuerdo"
+        },
+        {
+          "role": "story",
+          "h": "Tipear facturas. Responder lo mismo cincuenta veces. Armar el reporte del lunes.",
+          "b": "Nadie estudió para eso, y sin embargo ahí se va el día."
+        },
+        {
+          "role": "value",
+          "h": "Lo que sí hace bien",
+          "b": "Lo repetido, lo que tiene reglas claras y lo que hay que hacer a las 3 de la mañana. Ahí no se cansa, no se distrae y no responde distinto según el humor."
+        },
+        {
+          "role": "value",
+          "h": "Lo que no",
+          "b": "Negociar, entender a un cliente molesto, decidir con información incompleta, cuidar una relación de años. Un sistema que intente eso hace daño más rápido de lo que ayuda."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas directo con quien construye — eso es todo el equipo de cuentas que vas a necesitar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Qué parte de tu día es tipeo disfrazado?",
+          "b": "Esa es la conversación que vale. Escríbenos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "La IA no compite contra tu gente — compite contra las 4 horas de TIPEO DISFRAZADO de su día: tipear facturas, responder lo mismo 50 veces, armar el reporte del lunes. Qolca construye los sistemas que se llevan ese tipeo. Lo que no toca (por años): cerrar tratos mirando a los ojos, calmar clientes furiosos, el olfato del \"esto huele raro\". qolca.org #ia #futurodeltrabajo #peru",
-        "tt": "La IA no compite contra tu gente. Compite contra su tipeo 🤖 #ia #trabajo #peru",
-        "fb": "Conversación pendiente en muchas empresas: la IA no reemplaza personas — reemplaza las 4 horas diarias de tipeo disfrazado. El caso que más vemos en Qolca: la asistente que tipeaba facturas ahora revisa excepciones y atiende proveedores. Mismo sueldo, más valor. ¿Cuánto tipeo disfrazado hay en su día? qolca.org"
+        "ig": "La IA no viene por tu gente. Viene por el tipeo disfrazado de trabajo.\n\nNadie estudió para eso, y sin embargo ahí se va el día. Lo repetido, lo que tiene reglas claras y lo que hay que hacer a las 3 de la mañana. Negociar, entender a un cliente molesto, decidir con información incompleta, cuidar una relación de años.\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "La IA no viene por tu gente. #ia #inteligenciaartificial #peru",
+        "fb": "La IA no viene por tu gente. Negociar, entender a un cliente molesto, decidir con información incompleta, cuidar una relación de años. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Qué trabajos transformó la IA y cuáles no, con la pregunta del tipeo disfrazado."
+      "alt": "La IA no viene por tu gente. Viene por el tipeo disfrazado de trabajo. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "latam-salto",
       "slides": [
-        { "role": "story", "plate": "cine-10-amanecer", "h": "Tu empresa puede saltarse 20 años de software.", "b": "Como África se saltó el teléfono fijo." },
-        { "role": "story", "plate": "cine-05-almacen", "h": "Las corporaciones pagan millones por sistemas viejos que no pueden apagar.", "b": "Tu pyme no tiene nada que apagar. Hoja en blanco." },
-        { "role": "value", "h": "Del cuaderno a la IA, sin escalas", "b": "No hace falta pasar por el software corporativo de 2005 para llegar al 2026. Y las piezas difíciles ya están puestas: WhatsApp es EL canal (nadie necesita capacitación), el QR ya ganó, Yape y Plin resolvieron los pagos." },
-        { "role": "value", "h": "La ventana está abierta AHORA", "b": "La pyme peruana de 2026 puede operar como una empresa tecnológica — a precio de Lima. Ser chico, por una vez, es ventaja: sin sistemas heredados, el salto es directo. Las corporaciones pagan la mudanza; tú no." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos ese salto para empresas peruanas: sistemas y automatizaciones con IA, del cuaderno a lo moderno, sin escalas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Saltamos juntos?", "b": "Tu empresa no necesita 20 años de evolución. Escríbenos en qolca.org." }
+        {
+          "role": "story",
+          "h": "Perú puede saltarse veinte años de software.",
+          "b": "Como pasó con los bancos y el celular.",
+          "plate": "cine-10-amanecer"
+        },
+        {
+          "role": "story",
+          "h": "No hay que migrar de lo viejo cuando nunca lo instalaste.",
+          "b": "Eso, que parecía un atraso, hoy juega a favor."
+        },
+        {
+          "role": "value",
+          "h": "El dato de la región",
+          "b": "En América Latina solo alrededor del 18% de las pymes tenía presupuesto asignado a inteligencia artificial. Las barreras que se repiten: infraestructura, talento y plata."
+        },
+        {
+          "role": "value",
+          "h": "Y el otro dato",
+          "b": "Perú está entre los países de la región que más rápido crecen en gasto en IA — partiendo de una base chica. Base chica significa que todavía se puede llegar temprano."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Y si tu caso todavía no da, te lo decimos: preferimos un no honesto a un proyecto que no iba a funcionar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Saltamos juntos?",
+          "b": "Tu empresa no necesita 20 años de evolución. Escríbenos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "África se saltó el teléfono fijo y pasó directo al celular. La pyme peruana puede saltarse 20 años de software corporativo y pasar del cuaderno al agente de IA — Qolca construye ese salto. Las piezas difíciles ya están: WhatsApp es EL canal, el QR ya ganó, Yape resolvió pagos. Ser chico, por una vez, es ventaja. qolca.org #latam #tecnologia #peru #pymes",
-        "tt": "Tu pyme puede saltarse 20 años de software. La ventaja de llegar tarde 🌎 #latam #tech #peru",
-        "fb": "Tesis que nos apasiona en Qolca: África se saltó el teléfono fijo. La pyme peruana puede saltarse el software corporativo de los 2000 y pasar del cuaderno al agente de IA — sin pagar la mudanza que las corporaciones sí pagan por sus sistemas heredados. La ventana está abierta AHORA. ¿La tomamos? qolca.org"
+        "ig": "Perú puede saltarse veinte años de software. Como pasó con los bancos y el celular.\n\nEso, que parecía un atraso, hoy juega a favor. En América Latina solo alrededor del 18% de las pymes tenía presupuesto asignado a inteligencia artificial. Perú está entre los países de la región que más rápido crecen en gasto en IA — partiendo de una base chica.\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "Perú puede saltarse veinte años de software. #ia #inteligenciaartificial #peru",
+        "fb": "Perú puede saltarse veinte años de software. Perú está entre los países de la región que más rápido crecen en gasto en IA — partiendo de una base chica. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "El salto tecnológico latinoamericano: sin sistemas heredados, con WhatsApp, QR y pagos digitales resueltos."
+      "alt": "Perú puede saltarse veinte años de software. Como pasó con los bancos y el celular. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "oficina-de-noche",
       "slides": [
-        { "role": "story", "plate": "cine-01-ventana", "h": "Son las 2:47 am y tu empresa trabaja.", "b": "La historia de la oficina de noche." },
-        { "role": "story", "plate": "cine-08-telefono", "h": "3:15 am: entra un pedido. Se registra, se agenda, se confirma.", "b": "Nadie se despertó. Y el cliente de las 11pm ya recibió su precio." },
-        { "role": "story", "plate": "cine-07-papeles", "h": "4:00 am: las ventas del día quedaron cuadradas contra el banco.", "b": "El reporte esperará al gerente antes que el café." },
-        { "role": "value", "h": "La mitad de tu mercado vive de noche", "b": "El que cotiza a las 11pm después de acostar a los hijos. El que compara proveedores un domingo. Hoy le responde tu competencia — o nadie. 8 horas de oficina + 16 de sistema = 24. Sin que nadie duerma mal." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos los sistemas que trabajan de noche por tu empresa: atención, pedidos, cobranza y reportes automáticos, para empresas peruanas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Qué hace tu empresa a las 3 am?", "b": "Si la respuesta es \"nada\", escríbenos en qolca.org." }
+        {
+          "role": "story",
+          "h": "Son las 2:47 de la mañana.",
+          "b": "¿Qué está haciendo tu empresa?",
+          "plate": "cine-01-ventana"
+        },
+        {
+          "role": "story",
+          "h": "La conciliación se corre sola. El recordatorio de cobranza sale a las 8.",
+          "b": "Y el cliente que escribió a medianoche ya tiene respuesta."
+        },
+        {
+          "role": "story",
+          "h": "No es ciencia ficción, es programación",
+          "b": "Nada de esto necesita un modelo de última generación. La mayoría son tareas con reglas claras que alguien hace a mano solo porque nunca hubo tiempo de sentarse a automatizarlas."
+        },
+        {
+          "role": "value",
+          "h": "El turno noche que sí conviene",
+          "b": "Lo que corre de madrugada es lo que nadie quiere hacer: cruzar archivos, preparar reportes, mandar recordatorios. Tu equipo llega en la mañana al resultado, no a la tarea."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Empezamos por un proceso, el que más te cuesta, y lo dejamos funcionando antes de proponerte el siguiente."
+        },
+        {
+          "role": "cta",
+          "h": "¿Qué hace tu empresa a las 3 am?",
+          "b": "Si la respuesta es \"nada\", escríbenos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "2:47am, la oficina apagada — y la empresa trabajando: respondió un precio, registró un pedido, cuadró las ventas contra el banco. Nadie se despertó. Son los sistemas que construye Qolca: 8 horas de oficina + 16 de sistema = 24. La mitad de tu mercado cotiza a las 11pm — ¿quién le responde? qolca.org #automatizacion #negocios #pymes #peru",
-        "tt": "¿Qué hace tu empresa a las 3am? 🌙 #negocios #automatizacion #pymes",
-        "fb": "Historia de la oficina de noche: 2:47am — un cliente pregunta, alguien responde. 3:15 — entra un pedido, se agenda solo. 4:00 — ventas cuadradas contra el banco. Nadie se despertó. Qolca construye esos sistemas. La mitad de tu mercado cotiza a las 11pm: ¿hoy le responde tu competencia o nadie? qolca.org"
+        "ig": "Son las 2:47 de la mañana. ¿Qué está haciendo tu empresa?\n\nEl cliente que escribió a medianoche ya tiene respuesta. Nada de esto necesita un modelo de última generación. Lo que corre de madrugada es lo que nadie quiere hacer: cruzar archivos, preparar reportes, mandar recordatorios.\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "Son las 2:47 de la mañana. #ia #inteligenciaartificial #peru",
+        "fb": "Son las 2:47 de la mañana. Lo que corre de madrugada es lo que nadie quiere hacer: cruzar archivos, preparar reportes, mandar recordatorios. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Narrativa nocturna de una empresa automatizada: atención, pedidos y conciliación mientras el equipo duerme."
+      "alt": "Son las 2:47 de la mañana. ¿Qué está haciendo tu empresa? Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "clinica-hoy",
       "slides": [
-        { "role": "story", "plate": "cine-06-clinica", "h": "Si abriéramos una clínica hoy, haríamos esto.", "b": "Ejercicio de diseño desde cero, sin \"siempre se hizo así\"." },
-        { "role": "value", "h": "El teléfono deja de ser el canal", "b": "Agendar, precios, seguros, preparación de exámenes: todo por WhatsApp, al instante, 24/7. Y las citas perdidas se atacan con sistema: recordatorios que confirman + lista de espera automática. Del 30% a menos del 10% de inasistencia." },
-        { "role": "value", "h": "El doctor no tipea", "b": "Dicta la nota clínica y la IA la ordena — con su revisión y firma. Resultado: 10 minutos más de MIRADA al paciente por consulta, que es lo que el paciente recuerda. Los resultados avisan solos y el control anual se recuerda solo." },
-        { "role": "value", "h": "El gerente ve la clínica en un panel", "b": "Ocupación por doctor, inasistencias, ingresos por especialidad — hoy, no en el Excel del próximo mes. Nada de esto es exótico en 2026: cada pieza existe, probada, a precio de pyme. Solo falta decidirlo." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para clínicas y empresas peruanas: agendamiento, recordatorios, dictado y paneles. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Tienes una clínica (o conoces a quien sí)?", "b": "Este ejercicio se vuelve proyecto real en qolca.org." }
+        {
+          "role": "story",
+          "h": "Si abriéramos una clínica hoy, empezaríamos por el WhatsApp.",
+          "b": "Antes que por el software de gestión.",
+          "plate": "cine-06-clinica"
+        },
+        {
+          "role": "value",
+          "h": "Primero: por dónde te habla el paciente",
+          "b": "La mayoría de las clínicas compra el sistema de historias clínicas y deja la puerta de entrada — el WhatsApp — para después. Es al revés: por ahí es por donde se pierden las citas."
+        },
+        {
+          "role": "value",
+          "h": "Segundo: una sola agenda",
+          "b": "Dos agendas que no se hablan producen dos pacientes en la misma hora. Antes de automatizar nada hay que decidir cuál manda."
+        },
+        {
+          "role": "value",
+          "h": "Tercero: la regla que no se negocia",
+          "b": "Una urgencia pasa a una persona al instante, siempre. Eso se escribe antes que cualquier otra cosa, y no se optimiza después."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas directo con quien construye — eso es todo el equipo de cuentas que vas a necesitar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Tienes una clínica (o conoces a quien sí)?",
+          "b": "Este ejercicio se vuelve proyecto real en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "Si en Qolca nos dieran una clínica HOY, desde cero: el teléfono deja de ser el canal, las citas perdidas se atacan con sistema (del 30% al <10%), el doctor DICTA y no tipea (+10 minutos de mirada al paciente por consulta), los resultados avisan solos y el gerente ve todo en un panel vivo. Nada es exótico en 2026. qolca.org #clinicas #salud #gestion #peru",
-        "tt": "Si me dieran una clínica hoy, haría esto 🏥 #clinicas #salud #ia",
-        "fb": "Ejercicio por rubro: diseñar el negocio desde cero, sin \"siempre se hizo así\". Hoy: una clínica. El cambio más subestimado — el doctor que dicta en vez de tipear gana 10 minutos de MIRADA al paciente por consulta. Y eso es exactamente lo que el paciente recuerda. Qolca convierte este ejercicio en proyecto real. ¿Qué rubro diseñamos la próxima? qolca.org"
+        "ig": "Si abriéramos una clínica hoy, empezaríamos por el WhatsApp. Antes que por el software de gestión.\n\nLa mayoría de las clínicas compra el sistema de historias clínicas y deja la puerta de entrada — el WhatsApp — para después. Dos agendas que no se hablan producen dos pacientes en la misma hora. Una urgencia pasa a una persona al instante, siempre.\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "Si abriéramos una clínica hoy, empezaríamos por el WhatsApp. #ia #inteligenciaartificial #peru",
+        "fb": "Si abriéramos una clínica hoy, empezaríamos por el WhatsApp. Una urgencia pasa a una persona al instante, siempre. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Diseño hipotético de una clínica moderna en cinco decisiones."
+      "alt": "Si abriéramos una clínica hoy, empezaríamos por el WhatsApp. Antes que por el software de gestión. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "empleado-que-no-duerme",
       "slides": [
-        { "role": "story", "plate": "cine-02-oficina", "h": "El \"empleado que no duerme\" tiene letras chicas.", "b": "La metáfora completa, con honestidad." },
-        { "role": "value", "h": "Lo que SÍ es y lo que NO es", "b": "Incansable en lo repetitivo, instantáneo en lo definido: responder, registrar, recordar, cuadrar — ahí es imbatible, 24/7. Pero no tiene criterio para lo nuevo ni huele el problema raro. Para eso está tu gente, por mucho tiempo." },
-        { "role": "value", "h": "No se enferma, pero se desactualiza", "b": "Si subes precios y nadie le avisa, responde precios viejos con total seguridad. Necesita un dueño humano: 2 horas al mes. Como cualquier empleado: funciones definidas, un jefe y evaluación mensual." },
-        { "role": "value", "h": "No pide aumento, pero cuesta", "b": "$100-300 mensuales típicos de operación. Compáralo con el sueldo del trabajo que hace — no con cero. Contra cero no compite nada." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos ese \"empleado\" para empresas peruanas — y te contamos las letras chicas antes de cobrarte. Tú nos cuentas el puesto; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Qué puesto le darías al que no duerme?", "b": "Escríbenos en qolca.org y lo armamos juntos." }
+        {
+          "role": "story",
+          "h": "\"Un empleado que no duerme\" tiene letra chica.",
+          "b": "Vale la pena leerla antes de firmar.",
+          "plate": "cine-02-oficina"
+        },
+        {
+          "role": "value",
+          "h": "No sabe lo que no le enseñaste",
+          "b": "Un sistema responde con la información que le diste. Si tu lista de precios está desactualizada, responde precios viejos — a toda hora y con toda seguridad."
+        },
+        {
+          "role": "value",
+          "h": "Y hay que decidir cuánta cuerda darle",
+          "b": "Andrej Karpathy lo llama el control de autonomía: cuánta independencia le das a la IA es una decisión de diseño, y se gana cuando revisar su trabajo es rápido y barato."
+        },
+        {
+          "role": "value",
+          "h": "Alguien tiene que ser el dueño",
+          "b": "Dos horas al mes de una persona con nombre: mirar las conversaciones raras, actualizar lo que cambió. Sin eso, cualquier sistema envejece — y envejece contestando."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Y si tu caso todavía no da, te lo decimos: preferimos un no honesto a un proyecto que no iba a funcionar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Qué puesto le darías al que no duerme?",
+          "b": "Escríbenos en qolca.org y lo armamos juntos."
+        }
       ],
       "caption": {
-        "ig": "El \"empleado que nunca duerme\" — Qolca te cuenta la metáfora completa, con letras chicas: imbatible en lo repetitivo definido, nulo en criterio para lo nuevo; no se enferma pero SE DESACTUALIZA (necesita un dueño humano de 2 hrs/mes); no pide aumento pero cuesta $100-300/mes — compáralo con el sueldo del trabajo que hace, no con cero. qolca.org #ia #automatizacion #equipos #peru",
-        "tt": "El empleado que no duerme: la metáfora Y sus letras chicas 🤖 #ia #negocios #equipos",
-        "fb": "En Qolca nos encanta la metáfora del \"empleado que nunca duerme\" — por eso la contamos completa: también se desactualiza si nadie le avisa que subiste precios, y cuesta $100-300/mes (comparen contra el sueldo del trabajo que hace, no contra cero). ¿Qué puesto le darían en su empresa? qolca.org"
+        "ig": "\"Un empleado que no duerme\" tiene letra chica. Vale la pena leerla antes de firmar.\n\nUn sistema responde con la información que le diste. Andrej Karpathy lo llama el control de autonomía: cuánta independencia le das a la IA es una decisión de diseño, y se gana cuando revisar su trabajo es rápido y barato. Dos horas al mes de una persona con nombre: mirar las conversaciones raras, actualizar lo que cambió.\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "\"Un empleado que no duerme\" tiene letra chica. #ia #inteligenciaartificial #peru",
+        "fb": "\"Un empleado que no duerme\" tiene letra chica. Dos horas al mes de una persona con nombre: mirar las conversaciones raras, actualizar lo que cambió. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "La metáfora del empleado incansable con sus limitaciones y costos reales."
+      "alt": "\"Un empleado que no duerme\" tiene letra chica. Vale la pena leerla antes de firmar. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "10-anos-en-10-slides",
       "slides": [
-        { "role": "story", "plate": "cine-04-pizarra", "h": "¿En qué año vive tu empresa?", "b": "La mayoría responde 2019. Compruébalo." },
-        { "role": "value", "h": "2016-2019: papel, Excel y WhatsApp caótico", "b": "El pedido se anotaba, se tipeaba y se volvía a tipear: cuatro copias de la misma verdad, todas distintas. Luego todo pasó al chat — pedidos, cobros, reclamos — sin sistema detrás: más rápido para el cliente, más caos para adentro." },
-        { "role": "value", "h": "2021-2024: suscripciones isla y ChatGPT suelto", "b": "Un software para cada cosa: cinco mensualidades, cinco islas, cero puentes. Después, ChatGPT en cada escritorio: cada quien con sus trucos, resultados dispares, ningún proceso. Potencia enorme, dirección ninguna." },
-        { "role": "value", "h": "2026: los sistemas conectados", "b": "La IA dentro del proceso (no al costado), las herramientas con puentes, el dato tipeado una vez, el humano en lo humano. La mayoría de pymes peruanas vive entre 2019 y 2021 — y el salto es más corto de lo que parece." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos el salto a 2026 para empresas peruanas: sistemas conectados, con IA dentro del proceso. Tú nos cuentas en qué año vive tu operación; nosotros la dejamos funcionando en este." },
-        { "role": "cta", "h": "¿En qué año vive tu empresa?", "b": "Respóndenos con el año en qolca.org." }
+        {
+          "role": "story",
+          "h": "¿En qué año opera tu empresa?",
+          "b": "La respuesta se ve en tus procesos, no en tu web.",
+          "plate": "cine-04-pizarra"
+        },
+        {
+          "role": "value",
+          "h": "2015: el papel y el Excel",
+          "b": "Los pedidos en cuaderno, el stock en una hoja, el reporte se arma a mano el viernes. Funciona, pero todo depende de que una persona se acuerde."
+        },
+        {
+          "role": "value",
+          "h": "2020: cada área con su sistema",
+          "b": "Ya hay software, pero no se hablan entre ellos. El trabajo cambió: ahora alguien copia datos de un sistema a otro. Se llama digitalizado; sigue siendo a mano."
+        },
+        {
+          "role": "value",
+          "h": "2026: los sistemas se hablan",
+          "b": "El dato se escribe una vez y viaja solo. Lo repetido corre sin que nadie lo dispare. La diferencia con 2020 no es tener más software: es que dejó de haber alguien en el medio."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Pocos clientes a la vez, porque la parte difícil no es programar: es entender tu proceso, y eso toma conversaciones."
+        },
+        {
+          "role": "cta",
+          "h": "¿En qué año vive tu empresa?",
+          "b": "Respóndenos con el año en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "¿En qué año vive tu empresa? 2016: papel con Excel (cuatro copias de la verdad, todas distintas) → 2019: WhatsApp caótico → 2021: cinco suscripciones que no se hablan → 2024: ChatGPT sin proceso → 2026: sistemas conectados. Qolca construye ese salto — y es más corto de lo que parece. qolca.org #evolucion #digital #pymes #peru",
-        "tt": "¿En qué año vive tu empresa? (la mayoría: 2019) 📅 #digital #pymes #negocios",
-        "fb": "Línea de tiempo honesta de los procesos empresariales: 2016 papel+Excel → 2019 WhatsApp caótico → 2021 cinco suscripciones isla → 2024 ChatGPT en cada escritorio sin proceso → 2026 sistemas conectados (los que construye Qolca). Pregunta sin roche: ¿en qué año vive su empresa? Respondan con el número 👇 qolca.org"
+        "ig": "¿En qué año opera tu empresa? La respuesta se ve en tus procesos, no en tu web.\n\nLos pedidos en cuaderno, el stock en una hoja, el reporte se arma a mano el viernes. Ya hay software, pero no se hablan entre ellos. El dato se escribe una vez y viaja solo.\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "¿En qué año opera tu empresa? #ia #inteligenciaartificial #peru",
+        "fb": "¿En qué año opera tu empresa? El dato se escribe una vez y viaja solo. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Línea de tiempo 2016-2026 de los procesos empresariales."
+      "alt": "¿En qué año opera tu empresa? La respuesta se ve en tus procesos, no en tu web. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "ia-te-va-a-reemplazar",
       "slides": [
-        { "role": "story", "plate": "cine-09-acuerdo", "h": "La IA no te reemplaza. El competidor sí.", "b": "El que la usa, para ser exactos." },
-        { "role": "value", "h": "Reemplaza tareas, no personas", "b": "El puesto \"tipeador de facturas\" desaparece; la persona vale más en cualquier otra silla. Y entre empresas es igual: no te gana la IA — te gana el competidor que responde en 10 segundos lo que tú respondes en 2 días." },
-        { "role": "value", "h": "Defensa mala, ofensiva buena", "b": "Negarla, prohibirla o esperar que pase es el plan malo (el Excel también fue \"una moda\" en 1995). El bueno: adoptarla donde duele — la tarea que tu equipo odia, el proceso donde esperan tus clientes — empezar chico, medir en plata, escalar." },
-        { "role": "value", "h": "La conversación honesta con tu equipo", "b": "\"Automatizamos X para que tú hagas Y\" — con Y definido y mejor que X. El equipo que ve el plan coopera; el que huele amenaza, sabotea. En 5 años, todas las empresas usarán esto: la única variable es si empezaste cuando era ventaja o cuando ya era obligación." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos la ofensiva buena para empresas peruanas: automatizaciones que empiezan chico y se miden en plata. Tú nos cuentas dónde duele; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Ventaja u obligación?", "b": "Todavía puedes elegir la primera. Escríbenos en qolca.org." }
+        {
+          "role": "story",
+          "h": "La IA no te reemplaza.",
+          "b": "Pero el que la usa bien compite distinto.",
+          "plate": "cine-09-acuerdo"
+        },
+        {
+          "role": "value",
+          "h": "Lo que dijo Sam Altman este año",
+          "b": "A las empresas que están esperando el momento perfecto para adoptar IA les respondió \"just do it\": cuando todo cambia rápido, gana el que adopta más rápido."
+        },
+        {
+          "role": "value",
+          "h": "Y lo que dijo después",
+          "b": "Que va a costar \"un montón de trabajo y algo de riesgo\". Esa segunda parte es la que nadie cita, y es la honesta: no es enchufar algo y esperar."
+        },
+        {
+          "role": "value",
+          "h": "El punto medio",
+          "b": "Ni parálisis ni magia. Un proceso, elegido porque duele, hecho bien y medido. Eso se puede empezar este mes sin apostar la empresa."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Empezamos por un proceso, el que más te cuesta, y lo dejamos funcionando antes de proponerte el siguiente."
+        },
+        {
+          "role": "cta",
+          "h": "¿Ventaja u obligación?",
+          "b": "Todavía puedes elegir la primera. Escríbenos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "\"La IA te va a reemplazar\" — la verdad sin titular de miedo: reemplaza TAREAS, no personas. Y en empresas: no te gana la IA — te gana el competidor que responde en 10 segundos lo que tú respondes en 2 días. Qolca construye la ofensiva buena: empezar chico, medir en plata, escalar. En 5 años todos usarán esto; la variable es CUÁNDO empiezas tú. qolca.org #ia #futurodeltrabajo #peru",
-        "tt": "No te reemplaza la IA. Te reemplaza quien la usa 🤝 #ia #trabajo #negocios",
-        "fb": "Sobre el miedo a la IA, la frase más precisa que conocemos: \"no te reemplaza la IA — te reemplaza alguien que la usa\". Y en empresas: te gana el competidor que responde en 10 segundos lo que tú respondes en 2 días. Qolca construye esa ventaja mientras todavía es ventaja. ¿Su empresa está en modo defensivo u ofensivo? qolca.org"
+        "ig": "La IA no te reemplaza. Pero el que la usa bien compite distinto.\n\nA las empresas que están esperando el momento perfecto para adoptar IA les respondió \"just do it\": cuando todo cambia rápido, gana el que adopta más rápido. Que va a costar \"un montón de trabajo y algo de riesgo\".\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "La IA no te reemplaza. #ia #inteligenciaartificial #peru",
+        "fb": "La IA no te reemplaza. Que va a costar \"un montón de trabajo y algo de riesgo\". ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "El reemplazo por IA sin alarmismo: tareas versus personas y movimientos defensivos u ofensivos."
+      "alt": "La IA no te reemplaza. Pero el que la usa bien compite distinto. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "empresas-que-ya-operan-asi",
       "slides": [
-        { "role": "story", "plate": "cine-05-almacen", "h": "Tu competencia ya se automatizó. Calladita.", "b": "Ferreterías, clínicas, academias. Casos reales." },
-        { "role": "value", "h": "Los adoptantes silenciosos", "b": "La distribuidora que cuadra 900 pedidos al mes sola — el dueño tiene 58 años y no sabe programar: sabe DECIDIR. La clínica que bajó sus citas perdidas a un dígito. La academia que atiende el 100% de consultas en campaña, a cualquier hora." },
-        { "role": "value", "h": "El patrón común", "b": "Ninguno \"se transformó digitalmente\". Automatizaron UN proceso que dolía, midieron en plata y siguieron con el siguiente. Sin consultores de diapositivas." },
-        { "role": "value", "h": "La ventaja se acumula", "b": "Mientras su competencia debate si la IA es moda, ellos responden más rápido, cobran más puntual y pierden menos citas. Mes tras mes. El adoptante silencioso de tu rubro ya empezó." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos esos sistemas, un proceso a la vez, para empresas peruanas: el que duele primero, medido en plata. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuánto esperas para alcanzarlos?", "b": "Escríbenos en qolca.org antes de que se note en tus números." }
+        {
+          "role": "story",
+          "h": "Adoptar IA ya es lo normal. Que funcione, no.",
+          "b": "Los dos datos, juntos, cuentan la historia.",
+          "plate": "cine-05-almacen"
+        },
+        {
+          "role": "value",
+          "h": "El dato que asusta",
+          "b": "Según el informe de impacto de IA 2026 de Intuit, el 77% de las pymes encuestadas usa IA a diario. Ya no es una ventaja: es el piso."
+        },
+        {
+          "role": "value",
+          "h": "El dato que tranquiliza",
+          "b": "El MIT revisó 300 proyectos en 150 empresas: el 95% de los pilotos de IA generativa nunca llegó a producción. Usarla es fácil; que mueva plata es otra cosa."
+        },
+        {
+          "role": "value",
+          "h": "Dónde está la diferencia",
+          "b": "Los que sí llegaron no la aplicaron a todo: eligieron un caso concreto y lo metieron dentro del flujo de trabajo real. Los que fallaron la trataron como algo que se enchufa."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas directo con quien construye — eso es todo el equipo de cuentas que vas a necesitar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuánto esperas para alcanzarlos?",
+          "b": "Escríbenos en qolca.org antes de que se note en tus números."
+        }
       ],
       "caption": {
-        "ig": "El futuro no llega con conferencia de prensa: llega calladito, en la empresa de al lado. La distribuidora que cuadra sola (dueño de 58 años que no programa: DECIDE), la clínica del un dígito de inasistencias, la academia que atiende el 100% en campaña. El patrón que aplica Qolca: UN proceso que dolía, medido en plata, y el siguiente. qolca.org #casos #pymes #peru #automatizacion",
-        "tt": "Las empresas peruanas que ya operan así (calladitas) 🇵🇪 #pymes #peru #negocios",
-        "fb": "El futuro ya llegó a tu rubro — calladito, en la empresa de al lado: ferreterías, clínicas y academias peruanas que automatizaron UN proceso que dolía, midieron en plata y siguieron. Sin \"transformación digital\" ni consultores de diapositivas. Así trabaja Qolca. ¿Quién es el adoptante silencioso de su rubro? qolca.org"
+        "ig": "Adoptar IA ya es lo normal. Que funcione, no. Los dos datos, juntos, cuentan la historia.\n\nSegún el informe de impacto de IA 2026 de Intuit, el 77% de las pymes encuestadas usa IA a diario. El MIT revisó 300 proyectos en 150 empresas: el 95% de los pilotos de IA generativa nunca llegó a producción. Los que sí llegaron no la aplicaron a todo: eligieron un caso concreto y lo metieron dentro del flujo de trabajo real.\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "Adoptar IA ya es lo normal. Que funcione, no. #ia #inteligenciaartificial #peru",
+        "fb": "Adoptar IA ya es lo normal. Que funcione, no. Los que sí llegaron no la aplicaron a todo: eligieron un caso concreto y lo metieron dentro del flujo de trabajo real. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Casos de empresas peruanas tradicionales que adoptaron automatización sin ruido."
+      "alt": "Adoptar IA ya es lo normal. Que funcione, no. Los dos datos, juntos, cuentan la historia. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "construimos-no-asesoramos",
       "slides": [
-        { "role": "story", "plate": "cine-03-cafe", "h": "¿Otro diagnóstico en PDF? No, gracias.", "b": "Por eso construimos, no solo asesoramos." },
-        { "role": "value", "h": "La consultoría clásica se detiene temprano", "b": "Diagnóstico → recomendaciones → factura → chau. La parte difícil — que funcione un martes 8am con datos sucios — queda de tarea. Las diapositivas aguantan cualquier promesa; el sistema funcionando, no. Nos gusta ese juez." },
-        { "role": "value", "h": "El criterio se demuestra construido", "b": "Cualquiera recomienda \"digitalizar procesos\". Nosotros mostramos el cotizador de 90 segundos y las conversaciones reales del agente. Y asesoramos con las manos en la masa: qué automatizar primero, qué comprar y cuándo NO hacer el proyecto." },
-        { "role": "value", "h": "El riesgo es nuestro", "b": "Si el sistema no funciona, es NUESTRO problema, no el tuyo. Pídele eso a un PDF. Entregables: sistemas corriendo, no diapositivas." },
-        { "role": "stat", "h": "Eso es Qolca.", "b": "Sistemas y automatizaciones con IA para empresas peruanas: WhatsApp que vende solo, cobranza automática, reportes que se arman solos. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Tienes un diagnóstico durmiendo en una carpeta?", "b": "Tráelo a qolca.org: lo convertimos en un sistema." }
+        {
+          "role": "story",
+          "h": "¿Otro diagnóstico en PDF? No, gracias.",
+          "b": "El informe no ejecuta nada.",
+          "plate": "cine-03-cafe"
+        },
+        {
+          "role": "value",
+          "h": "El problema del consejo suelto",
+          "b": "Un diagnóstico termina en una lista de recomendaciones que alguien de tu equipo tendría que ejecutar además de su trabajo. Por eso la mayoría se queda en la carpeta."
+        },
+        {
+          "role": "value",
+          "h": "Por qué el 95% falla",
+          "b": "El MIT lo midió: los pilotos de IA que mueren son los que no se meten en el flujo de trabajo real. Un PDF nunca se mete en el flujo de trabajo."
+        },
+        {
+          "role": "value",
+          "h": "Lo que sí cambia algo",
+          "b": "Que alguien se siente contigo, entienda el proceso, construya la cosa y se quede hasta que funcione un martes a las 8 de la mañana. Con eso hay que quedarse."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas directo con quien construye — eso es todo el equipo de cuentas que vas a necesitar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Tienes un diagnóstico durmiendo en una carpeta?",
+          "b": "Tráelo a qolca.org: lo convertimos en un sistema."
+        }
       ],
       "caption": {
-        "ig": "El Perú está lleno de diagnósticos en PDF impecables que nunca tocaron un proceso real — por eso Qolca construye en vez de solo asesorar: las diapositivas aguantan cualquier promesa, el sistema en producción no. Su única métrica es SI FUNCIONA un martes 8am con datos sucios. Entregables: sistemas corriendo, no diapositivas. qolca.org #manifiesto #consultoria #software #peru",
-        "tt": "Diagnósticos en PDF vs sistemas corriendo 📄⚡ #software #consultoria #negocios",
-        "fb": "El manifiesto de Qolca en cinco palabras: sistemas corriendo, no diapositivas. La consultoría clásica se detiene en el diagnóstico y deja la parte difícil de tarea — que funcione un martes 8am con datos sucios y gente apurada. ¿Tienen algún diagnóstico durmiendo en una carpeta? Tráiganlo: lo convertimos en algo que funcione. qolca.org"
+        "ig": "¿Otro diagnóstico en PDF? No, gracias. El informe no ejecuta nada.\n\nUn diagnóstico termina en una lista de recomendaciones que alguien de tu equipo tendría que ejecutar además de su trabajo. El MIT lo midió: los pilotos de IA que mueren son los que no se meten en el flujo de trabajo real. Que alguien se siente contigo, entienda el proceso, construya la cosa y se quede hasta que funcione un martes a las 8 de la mañana.\n\nGuárdalo y compáralo con cómo opera tu empresa hoy.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#ia #inteligenciaartificial #pymesperu #futuro #negocios",
+        "tt": "¿Otro diagnóstico en PDF? No, gracias. #ia #inteligenciaartificial #peru",
+        "fb": "¿Otro diagnóstico en PDF? No, gracias. Que alguien se siente contigo, entienda el proceso, construya la cosa y se quede hasta que funcione un martes a las 8 de la mañana. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Manifiesto de Qolca: construir en vez de solo asesorar, con sistemas en producción como entregable."
+      "alt": "¿Otro diagnóstico en PDF? No, gracias. El informe no ejecuta nada. Carrusel de Qolca sobre automatización para empresas peruanas."
     }
   ]
 }

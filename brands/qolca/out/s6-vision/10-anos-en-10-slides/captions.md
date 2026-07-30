@@ -1,4 +1,4 @@
-# ¿En qué año vive tu empresa?
+# ¿En qué año opera tu empresa?
 
 `qolca` · `s6-vision` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-¿En qué año vive tu empresa? (la mayoría: 2019) 📅
-#digital #pymes #negocios
+¿En qué año opera tu empresa?
+#ia #inteligenciaartificial #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-¿En qué año vive tu empresa?
+¿En qué año opera tu empresa?
 
-2016: papel con Excel (cuatro copias de la verdad, todas distintas) → 2019: WhatsApp caótico → 2021: cinco suscripciones que no se hablan → 2024: ChatGPT sin proceso → 2026: sistemas conectados. Qolca construye ese salto — y es más corto de lo que parece. qolca.org
+La respuesta se ve en tus procesos, no en tu web.
 
-#evolucion #digital #pymes #peru
+Los pedidos en cuaderno, el stock en una hoja, el reporte se arma a mano el viernes. Ya hay software, pero no se hablan entre ellos. El dato se escribe una vez y viaja solo.
+
+Guárdalo y compáralo con cómo opera tu empresa hoy.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#ia #inteligenciaartificial #pymesperu #futuro #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Línea de tiempo 2016-2026 de los procesos empresariales.
+¿En qué año opera tu empresa? La respuesta se ve en tus procesos, no en tu web. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Línea de tiempo honesta de los procesos empresariales: 2016 papel+Excel → 2019 WhatsApp caótico → 2021 cinco suscripciones isla → 2024 ChatGPT en cada escritorio sin proceso → 2026 sistemas conectados (los que construye Qolca). Pregunta sin roche: ¿en qué año vive su empresa? Respondan con el número 👇 qolca.org
+¿En qué año opera tu empresa? El dato se escribe una vez y viaja solo. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

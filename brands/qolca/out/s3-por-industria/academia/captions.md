@@ -1,4 +1,4 @@
-# En campaña no respondes al 60% de interesados.
+# En campaña te escriben todos el mismo día.
 
 `qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El caos de campaña de matrícula que se repite cada año 🎓
-#educacion #academias #gestion
+En campaña te escriben todos el mismo día.
+#pymes #negocios #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-En tu última campaña de matrícula, el 60% de consultas quedó sin responder a tiempo — y cada una era un alumno potencial.
+En campaña te escriben todos el mismo día.
 
-Qolca automatiza la campaña completa: informes al instante 24/7 (el 90% son idénticos), matrícula en un paso desde el celular, seguimiento del "todavía" y recordatorios de clase y cuotas. La próxima puede atender el 100%. qolca.org
+Y respondes cuando ya se matricularon en otra.
 
-#educacion #academias #automatizacion #peru
+El interesado pregunta en tres institutos la misma tarde. Los picos de campaña: cientos de consultas en pocos días con el mismo equipo. Responder esas cuatro preguntas al instante, a cualquier hora, y quedarte con el contacto.
+
+Si estás en el rubro, dinos cuál de los puntos te pega más.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#pymesperu #automatizacion #negocios #peru #gestion
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cinco procesos manuales de academias: informes, seguimiento, matrícula, recordatorios y certificados.
+En campaña te escriben todos el mismo día. Y respondes cuando ya se matricularon en otra. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Directores de academias e institutos: en la última campaña, ¿cuántas consultas quedaron sin responder ese mismo día? El promedio es 60% — y cada una era un alumno potencial. El sistema que construye Qolca puede atenderlas TODAS, a cualquier hora, sin contratar a nadie más. ¿Cuándo es la suya? qolca.org
+En campaña te escriben todos el mismo día. Un sistema se diseña para el peor día, no para el martes tranquilo. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

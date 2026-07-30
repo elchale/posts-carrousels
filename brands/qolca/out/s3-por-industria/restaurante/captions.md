@@ -1,4 +1,4 @@
-# Cada chat sin responder es un almuerzo perdido.
+# Cada chat sin responder es un almuerzo que se fue.
 
 `qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-La 1pm en el WhatsApp de todo restaurante 🍽️💥
-#restaurantes #negocios #gastronomia
+Cada chat sin responder es un almuerzo que se fue.
+#pymes #negocios #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El chat que no respondes a la 1:05pm almorzó en otro lado a la 1:10 — Qolca automatiza lo que ahoga a los restaurantes: pedidos por WhatsApp directo a cocina, reservas con confirmación, las mismas 8 preguntas respondidas al instante y campañas para hacer volver al cliente.
+Cada chat sin responder es un almuerzo que se fue.
 
-Cada chat perdido: S/30-60. qolca.org
+Y llegan todos a la misma hora.
 
-#restaurantes #gastronomia #automatizacion #peru
+Nadie puede atender el celular a la una de la tarde. Mensajes en hora punta que nadie ve. Mandar la carta al instante, tomar el pedido con preguntas simples y confirmar la reserva sola.
+
+Si estás en el rubro, dinos cuál de los puntos te pega más.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#pymesperu #automatizacion #negocios #peru #gestion
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cinco procesos manuales de restaurantes: pedidos, reservas, inventario, preguntas frecuentes y recompra.
+Cada chat sin responder es un almuerzo que se fue. Y llegan todos a la misma hora. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Dueños de restaurante: ¿cuántos chats de WhatsApp quedaron sin responder esta semana en hora punta? Cada uno vale S/30-60. Qolca construye el sistema que los atiende solos — y el proceso más ignorado: el cliente de hace 3 semanas no te olvidó, solo nadie le escribió. ¿Cuál automatizarían primero? qolca.org
+Cada chat sin responder es un almuerzo que se fue. Un cliente molesto con su pedido tiene que hablar con una persona, rápido. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

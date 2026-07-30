@@ -1,4 +1,4 @@
-# Una obra parada te cuesta S/20,000 al día.
+# En obra, la información llega tarde y sale caro.
 
 `qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-En obra todo se anota. En cuadernos que se mojan 🏗️
-#construccion #obras #ingenieria
+En obra, la información llega tarde y sale caro.
+#pymes #negocios #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Una obra parada por materiales cuesta S/5,000-20,000 AL DÍA — y el pedido se hizo por llamada (o no se hizo).
+En obra, la información llega tarde y sale caro.
 
-Qolca digitaliza la obra sin cambiar cómo trabaja: parte diario desde el celular, pedidos con aprobación e historial, valorizaciones que se arman solas y tareo sin discusión mensual. qolca.org
+Los partes están en WhatsApp.
 
-#construccion #obras #automatizacion #peru
+Un problema de obra con días encima cuesta bastante más que uno del mismo día. El avance se reporta por fotos sueltas en un grupo. El parte diario con formato fijo desde el celular del capataz.
+
+Si estás en el rubro, dinos cuál de los puntos te pega más.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#pymesperu #automatizacion #negocios #peru #gestion
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cinco procesos manuales de constructoras: parte diario, requerimientos, valorizaciones, asistencia y fotos.
+En obra, la información llega tarde y sale caro. Los partes están en WhatsApp. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para los del rubro construcción: ¿cuánto cuesta UN día de obra parada por materiales que no llegaron? Entre S/5,000 y S/20,000. El pedido digital con aprobación e historial que construye Qolca cuesta menos que UNA parada. ¿En su empresa el parte diario sigue siendo un cuaderno? qolca.org
+En obra, la información llega tarde y sale caro. Piensa en la última paralización: cuántos días duró, cuánta gente parada, cuánto vale un día. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

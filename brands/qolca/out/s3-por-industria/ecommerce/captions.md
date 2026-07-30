@@ -1,4 +1,4 @@
-# Tu tienda online pierde 50 horas al mes.
+# Dónde se te va el tiempo en una tienda online.
 
 `qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Lo que tu tienda online sigue haciendo a mano 🛒
-#ecommerce #automatizacion #negocios
+Dónde se te va el tiempo en una tienda online.
+#pymes #negocios #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu tienda online pierde 30-50 horas al mes en procesos que Qolca automatiza: responder las mismas 6 preguntas (24/7, incluida la venta de las 11pm), pasar pedidos al almacén, cuadrar contra el banco y recuperar carritos abandonados — el 70% se abandona y una secuencia rescata hasta el 15%.
+Dónde se te va el tiempo en una tienda online.
 
-qolca.org
+Cuatro puntos, siempre los mismos.
 
-#ecommerce #automatizacion #ventasonline #peru
+Vender por internet es fácil; sostenerlo a mano es lo que agota. Responder las mismas preguntas por chat. Las preguntas repetidas se responden solas; el estado del pedido se avisa al cliente sin que pregunte; la conciliación se corre de noche; el stock se sincroniza entre canales.
+
+Si estás en el rubro, dinos cuál de los puntos te pega más.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#pymesperu #automatizacion #negocios #peru #gestion
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cinco procesos manuales de un e-commerce y su automatización: chats, pedidos, conciliación, estados y carritos.
+Dónde se te va el tiempo en una tienda online. Cuatro puntos, siempre los mismos. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para los que venden online: ¿cuántos de estos procesos siguen siendo manuales en tu tienda? Responder precio/stock/delivery, pasar pedidos al almacén, cuadrar contra el banco, avisar estados, recuperar carritos. Qolca los automatiza — y el último es plata dormida: 70% se abandonan y una secuencia rescata hasta el 15%. qolca.org
+Dónde se te va el tiempo en una tienda online. Cronometra una semana cuál te quita más horas. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

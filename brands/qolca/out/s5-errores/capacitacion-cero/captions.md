@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El sistema perfecto que tu equipo no usa 😔
-#equipos #gestion #software
+Compraste el sistema. Tu equipo sigue en Excel.
+#automatizacion #errores #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El asesino silencioso de proyectos: el sistema funcionaba perfecto Y el equipo siguió en Excel.
+Compraste el sistema.
 
-No es rebeldía: lo nuevo es más lento los primeros días y el hábito gana por default. El rescate que aplica Qolca: 10 primeras operaciones JUNTOS, un campeón interno (no el jefe) y fecha real de apagado del Excel. qolca.org
+Tu equipo sigue en Excel. El asesino silencioso de proyectos.
 
-#gestiondelcambio #equipos #software #peru
+Lo nuevo es más lento LOS PRIMEROS DÍAS y nadie mostró el camino corto. "Les comparto el manual del sistema" = nadie lo abrió. Mientras el Excel viejo siga disponible, lo nuevo compite contra la costumbre.
+
+Si reconociste alguno, ese es por donde empezar.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #errores #pymesperu #chatbot #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Falta de adopción de sistemas: causas y rescate con capacitación práctica, campeón interno y apagado del método anterior.
+Compraste el sistema. Tu equipo sigue en Excel. El asesino silencioso de proyectos. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Historia repetida en mil empresas: el sistema funcionaba perfecto Y el equipo siguió en WhatsApp y Excel. ¿El error? Capacitar por correo ("les comparto el manual" = nadie lo abrió). La fórmula de Qolca: primeras 10 operaciones juntos + campeón interno + fecha de apagado del Excel viejo. ¿Les pasó? qolca.org
+Compraste el sistema. Tu equipo sigue en Excel. Pagaste la construcción Y sigues pagando el proceso manual. ¿Cuál de estos te suena de tu propia empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

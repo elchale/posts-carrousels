@@ -1,4 +1,4 @@
-# Así se cobra S/2 millones sin llamadas incómodas.
+# La secuencia para cobrar sin incomodar.
 
 `qolca` · `s2-teardowns` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-La secuencia de cobranza sin roche, mensaje por mensaje 💬
-#cobranza #pymes #plantillas
+La secuencia para cobrar sin incomodar.
+#automatizacion #ia #tecnologia
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-La secuencia de cobranza que cobra S/2 millones al año sin una llamada incómoda — mensaje por mensaje, cópiala: pre-aviso 3 días antes (la mitad paga solo con esto), recordatorio sin drama, pregunta abierta al día 7, tono formal al 15, humano recién al 30.
+La secuencia para cobrar sin incomodar.
 
-El 84% paga antes del día 15. Qolca la deja corriendo sola contra tu facturación: qolca.org
+Los mensajes exactos. Cópialos.
 
-#cobranza #pymes #plantilla #peru
+Lo que la daña es callarse tres meses y llamar de golpe. Tres días antes: "Hola Ana, la factura F001-234 (S/3,500) vence el viernes." Sin reclamo, sin drama. "Seguro es un tema de trámite — te dejo el enlace de pago por si ayuda." Le das una salida elegante en vez de una acusación.
+
+Guárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #ia #tecnologia #pymesperu #procesos
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Secuencia de cobranza cordial en cinco mensajes con resultados medidos.
+La secuencia para cobrar sin incomodar. Los mensajes exactos. Cópialos. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Regalo del día: la secuencia de cobranza completa, mensaje por mensaje — la misma que cobra S/2 millones al año sin llamadas incómodas. El secreto es el pre-aviso 3 días antes: la mitad paga solo con eso. Guárdenla y úsenla — y si quieren que corra sola contra su facturación, Qolca la construye: qolca.org
+La secuencia para cobrar sin incomodar. Recién ahí entra una persona, con el historial completo a la vista. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

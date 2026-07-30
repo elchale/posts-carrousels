@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El 70% de sus interesados moría en un Excel. Así lo arreglaron 🏠
-#inmobiliaria #ventas #automatizacion
+Pagas publicidad y nadie llama a los interesados.
+#automatizacion #pymes #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu publicidad trae interesados y tu Excel los deja morir — Qolca construyó el sistema que lo arregla: respuesta al minuto con brochure y agenda, y seguimiento automático los días 1, 3, 7 y 14.
+Pagas publicidad y nadie llama a los interesados.
 
-Resultado: el triple de visitas agendadas con el mismo presupuesto de anuncios. qolca.org
+El balde con hueco.
 
-#inmobiliaria #ventas #automatizacion #peru
+El problema nunca fue conseguir interesados. Los interesados caen en una hoja de cálculo. Escribirle al minuto de que llega, con la información que pidió y un enlace para agendar.
+
+Haz la cuenta con tus números antes de contratar a nadie.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #pymesperu #whatsappbusiness #gestion #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Caso inmobiliario: leads sin contactar versus respuesta al minuto y seguimiento automático con el triple de visitas.
+Pagas publicidad y nadie llama a los interesados. El balde con hueco. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Verdad del sector inmobiliario: un interesado que espera 24 horas ya visitó el proyecto de enfrente. Este sistema de Qolca triplicó las visitas agendadas SIN gastar un sol más en publicidad — respondiendo al minuto y persiguiendo automático. ¿Cuántos interesados sin contactar hay en tu Excel ahora mismo? qolca.org
+Pagas publicidad y nadie llama a los interesados. Interesados del mes, menos los que sí contactaste. ¿Cuánto te está costando a ti? Es una cuenta de dos minutos. En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

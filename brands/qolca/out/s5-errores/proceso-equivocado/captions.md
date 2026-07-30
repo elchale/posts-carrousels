@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Automatizaste lo fácil. Sigue sangrando lo valioso 🩸
-#automatizacion #estrategia #negocios
+Automatizaste lo fácil. Lo valioso sigue sangrando.
+#automatizacion #errores #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El error de priorización clásico: automatizar lo FÁCIL (el reporte simpático) mientras sigue sangrando lo VALIOSO (la cotización de 2 días donde esperan tus clientes).
+Automatizaste lo fácil.
 
-El método de Qolca: ¿cuántas horas come? ¿cuánta plata toca? Y la pregunta guía: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? Ese es tu proyecto. qolca.org
+Lo valioso sigue sangrando. Cómo elegir el proceso correcto.
 
-#1 #automatizacion #estrategia #pymes #peru
+Automatizar lo VALIOSO se nota en la caja. Se automatiza lo automatizable — el reporte simpático, el aviso interno — y sigue sangrando lo difícil: la cotización lenta, el seguimiento muerto. Por cada proceso: ¿cuántas horas al mes come?
+
+Si reconociste alguno, ese es por donde empezar.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #errores #pymesperu #chatbot #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cómo priorizar qué automatizar: matriz horas/dinero, cuellos de botella y la trampa de la visibilidad.
+Automatizaste lo fácil. Lo valioso sigue sangrando. Cómo elegir el proceso correcto. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Trampa común: automatizar para la foto — el panel de control da estatus, pero la secuencia de seguimiento (invisible) da VENTAS. La pregunta guía que usamos en Qolca para elegir bien: ¿qué proceso, si mañana fuera instantáneo, te haría ganar más plata? ¿Cuál automatizarían si solo pudieran elegir UNO? qolca.org
+Automatizaste lo fácil. Lo valioso sigue sangrando. ¿Qué proceso, si mañana fuera instantáneo, te haría ganar más plata? ¿Cuál de estos te suena de tu propia empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

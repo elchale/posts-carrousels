@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Diagnósticos en PDF vs sistemas corriendo 📄⚡
-#software #consultoria #negocios
+¿Otro diagnóstico en PDF? No, gracias.
+#ia #inteligenciaartificial #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El Perú está lleno de diagnósticos en PDF impecables que nunca tocaron un proceso real — por eso Qolca construye en vez de solo asesorar: las diapositivas aguantan cualquier promesa, el sistema en producción no.
+¿Otro diagnóstico en PDF?
 
-Su única métrica es SI FUNCIONA un martes 8am con datos sucios. Entregables: sistemas corriendo, no diapositivas. qolca.org
+No, gracias. El informe no ejecuta nada.
 
-#manifiesto #consultoria #software #peru
+Un diagnóstico termina en una lista de recomendaciones que alguien de tu equipo tendría que ejecutar además de su trabajo. El MIT lo midió: los pilotos de IA que mueren son los que no se meten en el flujo de trabajo real. Que alguien se siente contigo, entienda el proceso, construya la cosa y se quede hasta que funcione un martes a las 8 de la mañana.
+
+Guárdalo y compáralo con cómo opera tu empresa hoy.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#ia #inteligenciaartificial #pymesperu #futuro #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Manifiesto de Qolca: construir en vez de solo asesorar, con sistemas en producción como entregable.
+¿Otro diagnóstico en PDF? No, gracias. El informe no ejecuta nada. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El manifiesto de Qolca en cinco palabras: sistemas corriendo, no diapositivas. La consultoría clásica se detiene en el diagnóstico y deja la parte difícil de tarea — que funcione un martes 8am con datos sucios y gente apurada. ¿Tienen algún diagnóstico durmiendo en una carpeta? Tráiganlo: lo convertimos en algo que funcione. qolca.org
+¿Otro diagnóstico en PDF? No, gracias. Que alguien se siente contigo, entienda el proceso, construya la cosa y se quede hasta que funcione un martes a las 8 de la mañana. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

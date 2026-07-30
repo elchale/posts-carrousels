@@ -1,4 +1,4 @@
-# 3 personas manejan lo que antes requería 12.
+# Un equipo chico ya no es una limitación.
 
 `qolca` · `s6-vision` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Lo que 3 personas pueden operar en 2026 🚀
-#emprendimiento #ia #negocios
+Un equipo chico ya no es una limitación.
+#ia #inteligenciaartificial #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Una empresa de 3 personas hoy puede operar lo que en 2020 requería 12 — con los sistemas que construye Qolca: atención 24/7, cotizaciones al minuto, cobranza puntual, reportes solos.
+Un equipo chico ya no es una limitación.
 
-La ecuación vieja ("más ventas = más gente") se jubiló: ahora es los mismos 3 + mejores sistemas, y el margen se queda en casa. qolca.org
+Es una decisión sobre qué NO volver a hacer a mano.
 
-#emprendimiento #ia #pymes #peru
+Nada de eso necesita contratar a nadie más. "Más ventas = más gente" fue la única cuenta durante décadas. Los mismos, con mejores sistemas.
+
+Guárdalo y compáralo con cómo opera tu empresa hoy.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#ia #inteligenciaartificial #pymesperu #futuro #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-La capacidad operativa de empresas de tres personas en 2026 gracias a sistemas.
+Un equipo chico ya no es una limitación. Es una decisión sobre qué NO volver a hacer a mano. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La aritmética cambió: 3 personas + sistemas bien construidos operan hoy lo que en 2020 requería 12 — y "más ventas = más gente" dejó de ser la única ecuación. Qolca construye esos sistemas para empresas peruanas. ¿Qué harías tú con un "empleado" que no duerme ni se aburre de lo repetitivo? qolca.org
+Un equipo chico ya no es una limitación. Los mismos, con mejores sistemas. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Cuando el sistema dice 40 y el almacén tiene 12 📦
-#inventario #logistica #pymes
+Tu sistema dice 40. Tu almacén tiene 12.
+#automatizacion #pymes #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El sistema decía 40 unidades y el almacén tenía 12 — Qolca construyó la conexión que deja UNA sola verdad: cada venta y cada compra actualizan el stock al momento, y el sistema avisa ANTES del quiebre ("se agota en 9 días, el proveedor tarda 14 — pide HOY").
+Tu sistema dice 40.
 
-Resultado: 80% menos quiebres. qolca.org
+Tu almacén tiene 12. Dos verdades, ninguna sirve.
 
-#inventario #logistica #automatizacion #peru
+Esa frase cuesta ventas todos los días, porque verificar toma horas. El sistema dice una cosa y el almacén otra. Conectar ventas, compras y almacenes para que cada movimiento actualice una sola cifra.
+
+Haz la cuenta con tus números antes de contratar a nadie.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #pymesperu #whatsappbusiness #gestion #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Caso de inventario: dos verdades de stock versus sincronización única con alertas predictivas.
+Tu sistema dice 40. Tu almacén tiene 12. Dos verdades, ninguna sirve. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Test rápido para distribuidores: ¿el stock de tu sistema y el de tu almacén dicen lo mismo AHORA MISMO? Si hay dos verdades, hay ventas perdidas escondidas. El sistema que Qolca construye bajó los quiebres 80% con una regla: cada movimiento actualiza UNA cifra, y las alertas llegan antes del problema. qolca.org
+Tu sistema dice 40. Tu almacén tiene 12. Cuenta los quiebres del último mes y el margen de cada venta que no pudiste hacer. ¿Cuánto te está costando a ti? Es una cuenta de dos minutos. En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

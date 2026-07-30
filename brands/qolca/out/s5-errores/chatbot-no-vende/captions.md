@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Tu chatbot informa. No vende. La diferencia 🤖💸
-#chatbot #ventas #ia
+Tu chatbot responde de todo. No vende nada.
+#automatizacion #errores #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu chatbot informa pero no vende — Qolca arregla las 4 causas: responde sin PREGUNTAR ("¿para cuándo lo necesitas?"), no sabe cerrar, suena a robot de banco y nadie lee las conversaciones, donde está el oro.
+Tu chatbot responde de todo.
 
-El arreglo más barato del embudo: el cierre — suele duplicar la conversión con clientes que YA conversaban contigo. qolca.org
+No vende nada. Las 4 causas, todas arreglables.
 
-#chatbot #ventas #ia #peru
+"El precio es S/120" — fin. "Estimado usuario, su solicitud ha sido procesada" — nadie le compra a eso: debe hablar como TU mejor vendedor. Es el arreglo más barato del embudo: el cliente YA estaba conversando contigo.
+
+Si reconociste alguno, ese es por donde empezar.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #errores #pymesperu #chatbot #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cuatro errores de chatbots que no venden: sin preguntas, sin cierre, tono robótico y conversaciones sin revisar.
+Tu chatbot responde de todo. No vende nada. Las 4 causas, todas arreglables. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Ejercicio de 30 minutos para dueños con chatbot: lean sus últimas 50 conversaciones y marquen — ¿preguntó algo de vuelta? ¿cerró en algo concreto? ¿sonó humano? El hueco aparece en la primera docena. Qolca construye (y arregla) bots que venden. ¿El suyo vende o solo responde? qolca.org
+Tu chatbot responde de todo. No vende nada. Es el arreglo más barato del embudo: el cliente YA estaba conversando contigo. ¿Cuál de estos te suena de tu propia empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

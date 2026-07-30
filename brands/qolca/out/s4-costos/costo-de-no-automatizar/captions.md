@@ -1,4 +1,4 @@
-# Hacerlo a mano te cuesta S/6,000 al mes.
+# Hacerlo a mano también tiene precio.
 
 `qolca` · `s4-costos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El costo de NO automatizar (haz tu cuenta) 🧮
-#pymes #costos #negocios
+Hacerlo a mano también tiene precio.
+#automatizacion #costos #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"Está caro" compara contra cero — y el cero no existe: hacerlo a mano cuesta S/2,000-6,000 mensuales en cuotas invisibles.
+Hacerlo a mano también tiene precio.
 
-La calculadora de Qolca: horas (× 4.3 × costo/hora) + errores (el tipeo humano falla 1-4%) + las ventas que nunca ocurrieron + la dependencia de UNA persona. Haz tu cuenta y compara contra ESE número. qolca.org
+Nadie lo pone en el presupuesto.
 
-#automatizacion #costos #pymes #peru
+El cero no existe: hacerlo a mano también cuesta — en cuotas que nadie ve. Horas: (horas semanales del proceso) × 4.3 × (costo por hora de quien lo hace). Las ventas que nunca ocurrieron: interesados sin seguimiento, carritos sin recuperar, clientes sin reactivar.
+
+Precios y plazos a la vista, para que compares con quien quieras.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #costos #pymesperu #tecnologia #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Calculadora del costo de no automatizar: horas, errores, ventas perdidas y dependencia.
+Hacerlo a mano también tiene precio. Nadie lo pone en el presupuesto. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Ejercicio incómodo para dueños: (horas semanales del proceso manual × 4.3 × costo/hora) + errores del mes + ventas sin seguimiento + el riesgo de que TODO viva en la cabeza de una persona. Hacerlo a mano cuesta típicamente S/2,000-6,000 mensuales — en cuotas que nadie ve. ¿Cuánto dio tu cuenta? Qolca la convierte en sistema: qolca.org
+Hacerlo a mano también tiene precio. Horas, errores y lo que se pierde por demora. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -1,4 +1,4 @@
-# "¿Dónde está mi pedido?" te cuesta 3 llamadas.
+# "¿Dónde está mi pedido?" es tu consulta más cara.
 
 `qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-"¿Dónde está mi pedido?" = 3 llamadas internas 🚚
-#logistica #operaciones #negocios
+"¿Dónde está mi pedido?" es tu consulta más cara.
+#pymes #negocios #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"¿Dónde está mi pedido?" no debería costar 3 llamadas internas — Qolca automatiza el papeleo que frena operaciones logísticas: rutas armadas en segundos, avisos automáticos al cliente, comprobante digital de entrega y liquidaciones que se arman solas en ruta.
+"¿Dónde está mi pedido?" es tu consulta más cara.
 
-Con 10 conductores: 200 horas/mes recuperables. qolca.org
+Y la más fácil de quitar.
 
-#logistica #operaciones #automatizacion #peru
+Cada una interrumpe a alguien que estaba haciendo otra cosa. El cliente pregunta porque no sabe. Avisar al cliente en cada cambio de estado, sin que pregunte.
+
+Si estás en el rubro, dinos cuál de los puntos te pega más.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#pymesperu #automatizacion #negocios #peru #gestion
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cinco procesos manuales de logística: rutas, estados, comprobantes, liquidaciones y reportes.
+"¿Dónde está mi pedido?" es tu consulta más cara. Y la más fácil de quitar. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Test logístico: cuando un cliente pregunta "¿dónde está mi pedido?", ¿cuántas llamadas internas cuesta responderle? Si no es "cero — le llega solo el estado", hay 200 horas mensuales escondidas en tu operación (con 10 conductores). Qolca construye esos sistemas: rutas, avisos, comprobantes y liquidaciones automáticas. qolca.org
+"¿Dónde está mi pedido?" es tu consulta más cara. Cuenta las consultas de estado de una semana y multiplica por los minutos que toma cada una. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Tu bot respondió 4,000 mensajes. ¿Y cuánta plata tocó? 📊
-#metricas #negocios #datos
+Tu bot respondió 4,000 mensajes. ¿Cuánta plata tocó?
+#automatizacion #errores #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"El bot respondió 4,000 mensajes este mes" — ¿y cuánta plata tocó?
+Tu bot respondió 4,000 mensajes.
 
-El silencio después de esa pregunta es el problema más común del rubro. En Qolca medimos lo que paga planillas: ventas originadas, citas que llegaron, horas liberadas. Regla: si no toca plata o tiempo, no es métrica — es aplauso. qolca.org
+¿Cuánta plata tocó? Métricas que pagan planillas, adentro.
 
-#metricas #automatizacion #datos #peru
+Es el problema más común de todo el rubro. Mensajes respondidos, tiempos de respuesta, conversaciones atendidas: miden ACTIVIDAD — y la actividad no paga planillas. Conversaciones → filtradas → con siguiente paso → cerradas + horas liberadas.
+
+Si reconociste alguno, ese es por donde empezar.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #errores #pymesperu #chatbot #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Métricas de vanidad versus métricas de negocio en automatización, con tablero de cinco números.
+Tu bot respondió 4,000 mensajes. ¿Cuánta plata tocó? Métricas que pagan planillas, adentro. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Pregunta incómoda para los que ya automatizaron: ¿pueden decir en 1 minuto cuánta PLATA originó su bot este mes? Si la respuesta es "respondió X mensajes", están midiendo aplausos — y los aplausos no se depositan. El tablero honesto que arma Qolca son 5 números. ¿Los tienen? qolca.org
+Tu bot respondió 4,000 mensajes. ¿Cuánta plata tocó? Conversaciones → filtradas → con siguiente paso → cerradas + horas liberadas. ¿Cuál de estos te suena de tu propia empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

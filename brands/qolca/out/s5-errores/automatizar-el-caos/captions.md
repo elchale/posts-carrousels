@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Automatizaste el caos. Ahora es caos más rápido 🌪️
-#procesos #automatizacion #gestion
+Automatizaste el caos. Ahora es caos más rápido.
+#automatizacion #errores #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El error del rubro: automatizar el caos — ahora es caos MÁS RÁPIDO.
+Automatizaste el caos.
 
-Por eso en Qolca ordenamos antes de automatizar. Prueba del practicante: si no puedes explicar el proceso en 5 pasos, no está listo (la máquina entiende menos que el practicante). Bonus gratis: al escribir el proceso, un tercio de los pasos suele ELIMINARSE. qolca.org
+Ahora es caos más rápido. El error del rubro.
 
-#1 #procesos #automatizacion #gestion #peru
+Amplifica el orden y el desorden por igual. Si no puedes explicar el proceso en 5 pasos claros a un practicante, no está listo para automatizarse. Documentar → simplificar (el paso que nadie sabe por qué existe se ELIMINA, no se automatiza — muchos procesos pierden un tercio de pasos al escribirse) → estabilizar 2 semanas a mano → automatizar lo que sobrevivió.
+
+Si reconociste alguno, ese es por donde empezar.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#1 #automatizacion #errores #pymesperu #chatbot
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-El error de automatizar el caos: amplificación, prueba del practicante y secuencia de orden previo.
+Automatizaste el caos. Ahora es caos más rápido. El error #1 del rubro. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-La verdad menos vendedora del rubro: los proyectos de automatización no fallan por tecnología — fallan porque se automatizó un proceso que nadie podía explicar en 5 pasos. Por eso Qolca ordena antes de construir. Bonus: al escribirlo por primera vez, un tercio de los pasos suele eliminarse. Gratis. ¿Su proceso pasa la prueba? qolca.org
+Automatizaste el caos. Ahora es caos más rápido. Fallan por procesos que nadie podía explicar. ¿Cuál de estos te suena de tu propia empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -1,4 +1,4 @@
-# Tu cliente nuevo firma y espera 12 días.
+# Tu cliente firma y después no pasa nada.
 
 `qolca` · `s1-antes-despues` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Firmó un lunes. Le escribieron 12 días después 💀
-#agencias #clientes #automatizacion
+Tu cliente firma y después no pasa nada.
+#automatizacion #pymes #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El cliente firmaba emocionado un lunes y la primera señal de vida llegaba 12 días después — Qolca construyó el sistema donde la firma dispara todo en 5 minutos: bienvenida, accesos, reunión agendada, grupo creado y tareas internas armadas.
+Tu cliente firma y después no pasa nada.
 
-De 12 días a 48 horas; satisfacción de 6.8 a 9.1. qolca.org
+La primera impresión no se repite.
 
-#agencias #clientes #automatizacion #peru
+El silencio no es desinterés: es que el equipo está apagando otro incendio. Contrato firmado, "ya te escribimos para coordinar", y días de nada. Disparar todo con la firma: correo de bienvenida, formulario de accesos, reunión agendada, grupo de WhatsApp.
+
+Haz la cuenta con tus números antes de contratar a nadie.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #pymesperu #whatsappbusiness #gestion #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Caso de onboarding: limbo post-firma versus bienvenida automática en cinco minutos.
+Tu cliente firma y después no pasa nada. La primera impresión no se repite. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-El momento que casi nadie mide: los días entre la firma del contrato y la primera señal de vida del proyecto. La emoción del cliente nuevo no aguanta 12 días de silencio. El sistema que Qolca construye lo baja a 48 horas — automatizando la coordinación, no la relación. ¿Cuánto tarda el tuyo? qolca.org
+Tu cliente firma y después no pasa nada. Cuántos días pasan hoy entre la firma y la primera reunión de verdad. ¿Cuánto te está costando a ti? Es una cuenta de dos minutos. En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

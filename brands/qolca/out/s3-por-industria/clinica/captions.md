@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-La recepción de tu clínica hace 4 trabajos con 2 manos 🏥
-#clinicas #salud #gestion
+Tus pacientes no logran comunicarse contigo.
+#pymes #negocios #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El paciente que no logra comunicarse con tu clínica agenda en otra — Qolca automatiza lo que ahoga a tu recepción: agendamiento por WhatsApp 24/7, recordatorios con confirmación (la inasistencia del 20-30% es falta de sistema), avisos de resultados y reactivación de pacientes dormidos.
+Tus pacientes no logran comunicarse contigo.
 
-Cada silla vacía: S/80-200. qolca.org
+Y no es culpa de recepción.
 
-#clinicas #salud #automatizacion #peru
+El paciente que no pudo agendar no vuelve a intentar: llama a otro lado. Consultas fuera del horario de recepción. Agendar, reagendar y confirmar por WhatsApp a cualquier hora.
+
+Si estás en el rubro, dinos cuál de los puntos te pega más.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#pymesperu #automatizacion #negocios #peru #gestion
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cinco procesos manuales de clínicas: agendamiento, confirmaciones, preguntas frecuentes, resultados y reactivación.
+Tus pacientes no logran comunicarse contigo. Y no es culpa de recepción. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Para administradores de clínicas: el paciente que no logra comunicarse por teléfono no espera — agenda en otra clínica. Qolca automatiza el agendamiento, los recordatorios, los avisos de resultados y la reactivación de pacientes dormidos (la que más agenda llena con menos esfuerzo). Cada silla vacía: S/80-200. qolca.org
+Tus pacientes no logran comunicarse contigo. En salud, una urgencia pasa a una persona al instante, siempre. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Pagar por hora premia al proveedor lento 🤔
-#negocios #precios #b2b
+Pagar por hora premia al proveedor lento.
+#automatizacion #costos #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Pagar por hora premia al proveedor LENTO: el eficiente gana menos que el que se demora — piensa qué comportamiento estás premiando.
+Pagar por hora premia al proveedor lento.
 
-Por eso Qolca cobra por proyecto: precio fijo, alcance escrito, y si algo se complica el riesgo es nuestro, no tu presupuesto. 0 proyectos con sobrecostos sorpresa. qolca.org
+Por qué cobramos precio cerrado.
 
-#precios #b2b #transparencia #peru
+Lo que resolvemos en 2 horas nos tomó años aprender. Precio fijo por resultado definido: si terminamos antes, ganamos ambos; si algo se complica, el riesgo es nuestro — no tu presupuesto. El precio cerrado exige una semana de definición antes de empezar — exactamente la semana que los proyectos fallidos se saltaron.
+
+Precios y plazos a la vista, para que compares con quien quieras.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #costos #pymesperu #tecnologia #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Argumentos para cobrar por proyecto: incentivos, riesgo, alcance definido y excepciones.
+Pagar por hora premia al proveedor lento. Por qué cobramos precio cerrado. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Debate de precios: pagando por hora, el proveedor eficiente gana MENOS que el lento — ¿qué comportamiento estás premiando? Por eso en Qolca cobramos por proyecto: precio fijo, alcance escrito, riesgo nuestro. ¿Ustedes qué prefieren como clientes: hora o proyecto? Argumenten 👇 qolca.org
+Pagar por hora premia al proveedor lento. Si el alcance cambia, se conversa y se vuelve a cotizar — pero no aparece un sobrecosto a mitad de camino. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

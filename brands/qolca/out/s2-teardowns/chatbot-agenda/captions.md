@@ -1,4 +1,4 @@
-# Agendar una reunión te cuesta 8 mensajes.
+# Cómo se agenda una reunión en dos mensajes.
 
 `qolca` · `s2-teardowns` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El ping-pong de horarios: 8 mensajes para UNA reunión 😩
-#productividad #automatizacion #agenda
+Cómo se agenda una reunión en dos mensajes.
+#automatizacion #ia #tecnologia
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Agendar una reunión cuesta 8 mensajes de "¿martes?
+Cómo se agenda una reunión en dos mensajes.
 
-no, ¿jueves? mejor viernes..." — Qolca construyó el asistente que lee la agenda REAL del equipo y propone 3 horarios verdaderos en el primer mensaje. De 8 mensajes a 2, de 2 días a 10 minutos entre "conversemos" y reunión agendada. qolca.org
+El secreto es leer la agenda real.
 
-#productividad #agenda #automatizacion #peru
+El ping-pong no se arregla escribiendo más rápido. Un asistente que propone horarios inventados empeora el problema. Confirmada la hora: invitación a los dos calendarios, enlace de videollamada, recordatorio el día antes.
+
+Guárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #ia #tecnologia #pymesperu #procesos
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Asistente de agendamiento: lectura de calendarios reales, tres opciones en el primer mensaje y logística automática.
+Cómo se agenda una reunión en dos mensajes. El secreto es leer la agenda real. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Cuenten los mensajes de su última coordinación de reunión: ¿cuántos fueron "¿puedes el martes?" — "mejor jueves"? El promedio es 8. El asistente que construye Qolca lo baja a 2, proponiendo horarios REALES de la agenda desde el primer mensaje. El tiempo entre "conversemos" y la reunión también es un embudo de ventas. qolca.org
+Cómo se agenda una reunión en dos mensajes. La métrica no es cuántos mensajes se ahorraron: es cuántas horas pasan entre "conversemos" y la reunión en el calendario. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

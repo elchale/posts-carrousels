@@ -1,4 +1,4 @@
-# Tu interesado compra en 2 semanas. ¿Contigo?
+# Tu comprador decide en semanas. ¿Tú respondes en días?
 
 `qolca` · `s3-por-industria` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El interesado automotriz compara 4 marcas el mismo día 🚗
-#automotriz #ventas #negocios
+Tu comprador decide en semanas. ¿Tú respondes en días?
+#pymes #negocios #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El que pregunta por un auto hoy compra en 2 semanas — en algún lado.
+Tu comprador decide en semanas.
 
-Qolca automatiza lo que decide dónde: respuesta al minuto, seguimiento del "lo voy a pensar" (el 70% de las ventas está ahí) y el recordatorio de mantenimiento por kilometraje — la máquina de llenar el taller, que es el 60% de la rentabilidad. qolca.org
+¿Tú respondes en días? El seguimiento es el negocio.
 
-#automotriz #concesionarios #ventas #peru
+Casi todos dejan de considerarte si esa conversación se enfría. El interesado pide una cotización y después silencio. La ficha del modelo al instante, la prueba de manejo agendada sola, y el seguimiento en los días que definas — sin depender de la memoria de nadie.
+
+Si estás en el rubro, dinos cuál de los puntos te pega más.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#pymesperu #automatizacion #negocios #peru #gestion
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cinco procesos manuales de concesionarios: leads, seguimiento, mantenimientos, estados de taller y recompra.
+Tu comprador decide en semanas. ¿Tú respondes en días? El seguimiento es el negocio. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Dato del rubro automotriz que reordena prioridades: la venta es la puerta, pero el TALLER es el 60% de la rentabilidad — y el recordatorio de mantenimiento por kilometraje que construye Qolca es la máquina de llenarlo. ¿Su concesionario contacta al cliente del año 3 que está por cambiar de auto? Casi ninguno lo hace. qolca.org
+Tu comprador decide en semanas. ¿Tú respondes en días? El financiamiento, la negociación y la prueba de manejo. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

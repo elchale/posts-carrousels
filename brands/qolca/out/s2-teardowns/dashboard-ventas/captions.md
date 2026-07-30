@@ -1,4 +1,4 @@
-# Los paneles de control mueren en 3 semanas.
+# Los paneles de control mueren a las tres semanas.
 
 `qolca` · `s2-teardowns` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Por qué el 90% de los paneles de control muere en 3 semanas 📊
-#datos #gerencia #negocios
+Los paneles de control mueren a las tres semanas.
+#automatizacion #ia #tecnologia
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El 90% de los paneles de control muere en 3 semanas — no por feos, por irrelevantes.
+Los paneles de control mueren a las tres semanas.
 
-El que construyó Qolca cumplió un año de uso diario: diseñado desde las 4 DECISIONES semanales del gerente, 5 números y no 50, cada dato con su porqué, y resumen por WhatsApp los lunes 7am. qolca.org
+Cómo se hace uno que dure.
 
-#datos #gerencia #pymes #peru
+Eso se decide antes de dibujar el primer gráfico. La pregunta no es qué datos tienes: es qué decides cada semana. Un número solo no dice nada.
+
+Guárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #ia #tecnologia #pymesperu #procesos
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Anatomía de un panel gerencial duradero: diseño desde decisiones, cinco números con contexto y entrega proactiva.
+Los paneles de control mueren a las tres semanas. Cómo se hace uno que dure. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Test para tu panel de control: ¿cuándo fue la última vez que lo miraste sin que nadie te lo pida? El 90% muere en 3 semanas porque muestra DATOS en vez de alimentar DECISIONES. El que construye Qolca: 5 números, contexto en cada uno, y resumen que llega solo los lunes 7am. ¿El tuyo vive? qolca.org
+Los paneles de control mueren a las tres semanas. Un panel que espera a que lo abras está muerto. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

@@ -1,4 +1,4 @@
-# Este post no lo diseñó nadie.
+# Este carrusel no lo diseñó nadie a mano.
 
 `qolca` · `s2-teardowns` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Este post lo produjo un sistema (desmontaje completo) 🤯
-#marketing #automatizacion #sistemas
+Este carrusel no lo diseñó nadie a mano.
+#automatizacion #ia #tecnologia
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Transparencia total: este post lo produjo un sistema — el mismo tipo que Qolca construye para clientes.
+Este carrusel no lo diseñó nadie a mano.
 
-Cada post nace como 8 líneas de texto, la marca se definió una sola vez, un archivo genera Instagram + TikTok + LinkedIn, y los números deciden la siguiente tanda. 60 carruseles en un fin de semana. qolca.org
+Lo armó un sistema. Así funciona.
 
-#contentmarketing #automatizacion #sistemas #peru
+Así que en vez de diseñar cada lámina, se construye lo que las genera. Cada post de este perfil es un archivo con unas líneas de texto. De la misma fuente salen las medidas de Instagram, las de TikTok y el PDF de LinkedIn.
+
+Guárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #ia #tecnologia #pymesperu #procesos
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Desmontaje del sistema de contenido de Qolca: posts como datos, renderizado multiformato y cola de publicación.
+Este carrusel no lo diseñó nadie a mano. Lo armó un sistema. Así funciona. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Confesión transparente: este contenido lo produce el mismo tipo de sistema que Qolca construye para clientes — cada post son 8 líneas de texto, el diseño es un sistema (no un diseñador), y un archivo genera IG + TikTok + LinkedIn a la vez. 60 carruseles en un fin de semana. ¿Preguntas? Respondemos todo. qolca.org
+Este carrusel no lo diseñó nadie a mano. Lo que hace un negocio a mano todas las semanas casi siempre se puede convertir en algo que se ejecuta solo. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

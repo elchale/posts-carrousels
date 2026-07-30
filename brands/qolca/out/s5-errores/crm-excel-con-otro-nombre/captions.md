@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Señales de que tu CRM es un Excel con mensualidad 📋
-#crm #ventas #negocios
+Pagas un CRM. Lo usas como Excel.
+#automatizacion #errores #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Tu CRM es un Excel con mensualidad si: se llena a mano, no DISPARA ninguna acción y la verdad real vive en el WhatsApp del vendedor.
+Pagas un CRM.
 
-La salida que construye Qolca casi nunca es cambiar de CRM: es conectarlo — captura automática, disparadores y etapas reales, con el mismo CRM que ya pagas. qolca.org
+Lo usas como Excel. Las señales y la salida.
 
-#crm #ventas #pymes #peru
+Lo usas exactamente igual: de cementerio de datos. Se llena a mano (cuando se llena), se consulta solo antes de reuniones, no dispara ninguna acción y la verdad real vive en el WhatsApp del vendedor. Es conectarlo: cada dato se captura UNA vez, donde nace, y viaja solo al CRM.
+
+Si reconociste alguno, ese es por donde empezar.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #errores #pymesperu #chatbot #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Señales de un CRM subutilizado y la salida: captura automática, disparadores y embudo real.
+Pagas un CRM. Lo usas como Excel. Las señales y la salida. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Test de CRM en una pregunta: ¿tu CRM DISPARA algo solo? (interesado nuevo → contacto, cotización fría → alerta, cliente dormido → reactivación). Si no dispara nada, es un archivador con mensualidad. Qolca lo conecta — casi siempre con el mismo que ya pagas. ¿Cuál usan y cómo les va? qolca.org
+Pagas un CRM. Lo usas como Excel. No por cuántos campos tiene ni cuánto costó. ¿Cuál de estos te suena de tu propia empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

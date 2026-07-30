@@ -1,4 +1,4 @@
-# Tu empresa puede saltarse 20 años de software.
+# Perú puede saltarse veinte años de software.
 
 `qolca` · `s6-vision` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Tu pyme puede saltarse 20 años de software. La ventaja de llegar tarde 🌎
-#latam #tech #peru
+Perú puede saltarse veinte años de software.
+#ia #inteligenciaartificial #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-África se saltó el teléfono fijo y pasó directo al celular.
+Perú puede saltarse veinte años de software.
 
-La pyme peruana puede saltarse 20 años de software corporativo y pasar del cuaderno al agente de IA — Qolca construye ese salto. Las piezas difíciles ya están: WhatsApp es EL canal, el QR ya ganó, Yape resolvió pagos. Ser chico, por una vez, es ventaja. qolca.org
+Como pasó con los bancos y el celular.
 
-#latam #tecnologia #peru #pymes
+Eso, que parecía un atraso, hoy juega a favor. En América Latina solo alrededor del 18% de las pymes tenía presupuesto asignado a inteligencia artificial. Perú está entre los países de la región que más rápido crecen en gasto en IA — partiendo de una base chica.
+
+Guárdalo y compáralo con cómo opera tu empresa hoy.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#ia #inteligenciaartificial #pymesperu #futuro #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-El salto tecnológico latinoamericano: sin sistemas heredados, con WhatsApp, QR y pagos digitales resueltos.
+Perú puede saltarse veinte años de software. Como pasó con los bancos y el celular. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Tesis que nos apasiona en Qolca: África se saltó el teléfono fijo. La pyme peruana puede saltarse el software corporativo de los 2000 y pasar del cuaderno al agente de IA — sin pagar la mudanza que las corporaciones sí pagan por sus sistemas heredados. La ventana está abierta AHORA. ¿La tomamos? qolca.org
+Perú puede saltarse veinte años de software. Perú está entre los países de la región que más rápido crecen en gasto en IA — partiendo de una base chica. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

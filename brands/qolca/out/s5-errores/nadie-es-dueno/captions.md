@@ -1,4 +1,4 @@
-# Nadie revisa tu bot. En 6 meses muere.
+# Si nadie revisa tu bot, se muere solo.
 
 `qolca` · `s5-errores` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Los sistemas también se quedan huérfanos 🥀
-#gestion #sistemas #negocios
+Si nadie revisa tu bot, se muere solo.
+#automatizacion #errores #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-"¿Quién ve el tema del bot?" — el silencio en esa reunión, seis meses después, es un sistema muerto que nadie notó morir: precios viejos, clientes quejándose, el vendedor lo apaga "por mientras".
+Si nadie revisa tu bot, se muere solo.
 
-Por eso Qolca deja cada sistema con un dueño interno definido: 2 horas al mes. Con dueño mejora cada mes; sin dueño caduca en 6. qolca.org
+El rol de 2 horas que lo salva.
 
-#gestion #sistemas #equipos #peru
+Ese silencio, seis meses después, es un sistema muerto que nadie notó morir. Nadie revisa conversaciones → el bot responde precios viejos → los clientes se quejan → el vendedor lo apaga "por mientras" → fin. No es un rol técnico: es un rol de negocio de 2 horas al mes.
+
+Si reconociste alguno, ese es por donde empezar.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #errores #pymesperu #chatbot #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-El ciclo de muerte de sistemas sin dueño y el rol de dos horas mensuales que lo evita.
+Si nadie revisa tu bot, se muere solo. El rol de 2 horas que lo salva. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Autopsia de un sistema huérfano: nadie revisa conversaciones → el bot responde precios viejos → los clientes se quejan → el vendedor lo apaga "por mientras" → fin. Todo por no nombrar un dueño de 2 horas al mes. En Qolca lo dejamos definido desde el día 1. ¿Quién es el dueño, con nombre y apellido, de su automatización? qolca.org
+Si nadie revisa tu bot, se muere solo. La diferencia son dos horas al mes de una persona con nombre y apellido. ¿Cuál de estos te suena de tu propia empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

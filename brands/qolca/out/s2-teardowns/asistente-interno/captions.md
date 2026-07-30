@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Toda empresa tiene una Rosa. Este asistente la ascendió 🧠
-#ia #equipos #gestion
+Toda tu empresa depende de una sola persona.
+#automatizacion #ia #tecnologia
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Toda empresa tiene una Rosa: la persona que sabe TODO — y cuyas vacaciones son una emergencia.
+Toda tu empresa depende de una sola persona.
 
-Qolca construyó su asistente: 140 preguntas registradas, 6 horas de entrevista grabada (la IA escribió la documentación que nadie quería escribir) y una regla dura: lo que no sabe, LO DICE. Rosa ahora mejora procesos en vez de repetirlos. qolca.org
+La que sabe cómo se hacen las cosas.
 
-#gestion #ia #equipos #peru
+El conocimiento que no está escrito no es del negocio: es de quien lo recuerda. El trabajo no es tecnológico: es sentarse a poner en texto los procedimientos que hoy se transmiten preguntando. Un asistente interno útil contesta citando el procedimiento real de tu empresa, no lo que sabe de internet.
+
+Guárdalo si algún día vas a automatizar esto: el orden importa más que la herramienta.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #ia #tecnologia #pymesperu #procesos
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Asistente de conocimiento interno: censo de preguntas, documentación por entrevista y regla de honestidad.
+Toda tu empresa depende de una sola persona. La que sabe cómo se hacen las cosas. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-¿Quién es la Rosa de tu empresa — la persona a la que TODOS le preguntan todo? El detalle bonito del asistente que construyó Qolca: nadie le pidió "documenta todo" (nunca funciona). La entrevistamos 6 horas y la IA escribió la base de conocimiento. Rosa ahora mejora procesos en vez de repetirlos. ¿Cómo se llama tu Rosa? qolca.org
+Toda tu empresa depende de una sola persona. Un asistente entrenado con documentos de hace un año responde cosas de hace un año. El método está completo arriba. ¿Lo harías en este orden? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

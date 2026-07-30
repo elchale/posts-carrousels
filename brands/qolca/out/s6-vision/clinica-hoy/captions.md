@@ -1,4 +1,4 @@
-# Si abriéramos una clínica hoy, haríamos esto.
+# Si abriéramos una clínica hoy, empezaríamos por el WhatsApp.
 
 `qolca` · `s6-vision` · **6 láminas** — sube SIEMPRE en orden 01 → 06
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Si me dieran una clínica hoy, haría esto 🏥
-#clinicas #salud #ia
+Si abriéramos una clínica hoy, empezaríamos por el WhatsApp.
+#ia #inteligenciaartificial #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Si en Qolca nos dieran una clínica HOY, desde cero: el teléfono deja de ser el canal, las citas perdidas se atacan con sistema (del 30% al <10%), el doctor DICTA y no tipea (+10 minutos de mirada al paciente por consulta), los resultados avisan solos y el gerente ve todo en un panel vivo.
+Si abriéramos una clínica hoy, empezaríamos por el WhatsApp.
 
-Nada es exótico en 2026. qolca.org
+Antes que por el software de gestión.
 
-#clinicas #salud #gestion #peru
+La mayoría de las clínicas compra el sistema de historias clínicas y deja la puerta de entrada — el WhatsApp — para después. Dos agendas que no se hablan producen dos pacientes en la misma hora. Una urgencia pasa a una persona al instante, siempre.
+
+Guárdalo y compáralo con cómo opera tu empresa hoy.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#ia #inteligenciaartificial #pymesperu #futuro #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Diseño hipotético de una clínica moderna en cinco decisiones.
+Si abriéramos una clínica hoy, empezaríamos por el WhatsApp. Antes que por el software de gestión. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Ejercicio por rubro: diseñar el negocio desde cero, sin "siempre se hizo así". Hoy: una clínica. El cambio más subestimado — el doctor que dicta en vez de tipear gana 10 minutos de MIRADA al paciente por consulta. Y eso es exactamente lo que el paciente recuerda. Qolca convierte este ejercicio en proyecto real. ¿Qué rubro diseñamos la próxima? qolca.org
+Si abriéramos una clínica hoy, empezaríamos por el WhatsApp. Una urgencia pasa a una persona al instante, siempre. ¿En qué punto de esto está tu empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

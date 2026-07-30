@@ -1,4 +1,4 @@
-# Cuadrar ventas te roba 6 horas cada domingo.
+# Cuadrar tus ventas te quita el domingo.
 
 `qolca` · `s1-antes-despues` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-El domingo perdido de todo dueño de e-commerce 🛒
-#ecommerce #automatizacion #negocios
+Cuadrar tus ventas te quita el domingo.
+#automatizacion #pymes #peru
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-Cuadrar la tienda contra la pasarela contra el banco robaba 6 horas cada domingo — Qolca construyó el sistema que lo hace solo cada noche y deja únicamente las excepciones: de 6 horas a 20 minutos, y S/2,400 mensuales en fugas detectadas que nadie veía.
+Cuadrar tus ventas te quita el domingo.
 
-qolca.org
+Tres sistemas que no se hablan.
 
-#ecommerce #shopify #automatizacion #peru
+La pasarela de pagos, una tercera. Copiar, pegar, marcar en amarillo, dudar. Cruzar tienda, pasarela y banco cada noche y dejar solo las diferencias en una lista.
+
+Haz la cuenta con tus números antes de contratar a nadie.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #pymesperu #whatsappbusiness #gestion #peru
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Caso e-commerce: conciliación manual dominical versus proceso nocturno automático con detección de fugas.
+Cuadrar tus ventas te quita el domingo. Tres sistemas que no se hablan. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Pregunta para los que venden online: ¿cuántas horas al mes se van cuadrando la tienda contra la pasarela contra el banco? Este sistema de Qolca lo hace solo cada noche: de 6 horas cada domingo a 20 minutos. Y el bonus: S/2,400/mes en fugas que nadie veía. qolca.org
+Cuadrar tus ventas te quita el domingo. Cuántas horas te toma cuadrar al mes y cuánto vale tu hora. ¿Cuánto te está costando a ti? Es una cuenta de dos minutos. En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

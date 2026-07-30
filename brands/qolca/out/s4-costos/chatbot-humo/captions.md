@@ -6,32 +6,37 @@
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-Cómo detectar el humo en los "chatbots con IA" 🔍
-#chatbot #ia #negocios
+Ese "chatbot con IA" puede ser puro humo.
+#automatizacion #costos #pymes
 ```
 
 ## 📸 Instagram
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-El 80% de los "chatbots con IA" del mercado son menús de botones con disfraz — cobrados como IA de verdad.
+Ese "chatbot con IA" puede ser puro humo.
 
-Qolca te enseña a distinguirlos: botones, detector de palabras, IA suelta que INVENTA precios (peligrosa) y el agente con tus datos + límites + pase a humano — el único que vale pagar. Las 3 preguntas detectoras, adentro. qolca.org
+Aprende a distinguirlo en 5 minutos.
 
-#chatbot #ia #compras #peru
+Entre la más barata y la más cara hay un mundo. El menú de botones ("marca 1 para ventas" con disfraz de chat) no entiende texto libre. La IA suelta, sin tus datos ni límites, conversa lindo e INVENTA precios y promociones — con tu marca firmando.
+
+Precios y plazos a la vista, para que compares con quien quieras.
+Qolca automatiza procesos de empresas peruanas — qolca.org
+
+#automatizacion #costos #pymesperu #tecnologia #negocios
 ```
 
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Los cuatro niveles de chatbots del mercado y las preguntas para detectar ofertas infladas.
+Ese "chatbot con IA" puede ser puro humo. Aprende a distinguirlo en 5 minutos. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-Si te están cotizando un "chatbot con IA", haz estas 3 preguntas: ¿qué pasa si le pregunto algo que no sabe? ¿de dónde saca los precios? ¿cuándo pasa a un humano? El 80% del mercado vende menús de botones cobrando como IA — en Qolca construimos el nivel que sí vale. Compartan con quien esté cotizando uno. qolca.org
+Ese "chatbot con IA" puede ser puro humo. "¿Qué pasa si no sabe?" "¿De dónde saca los precios?" "¿Cuándo pasa a un humano?" — sin buenas respuestas a las tres, es humo. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

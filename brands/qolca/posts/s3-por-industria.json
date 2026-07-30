@@ -5,182 +5,472 @@
     {
       "slug": "ecommerce",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Tu tienda online pierde 50 horas al mes.", "b": "Los procesos culpables y su arreglo" },
-        { "role": "rehook", "h": "Vender online no era esto.", "b": "Era vender — no copiar datos entre cinco pantallas todo el día." },
-        { "role": "value", "n": "1", "h": "Los chats y las ventas dormidas", "b": "El 80% de tus chats son 6 preguntas: precio, stock, delivery. Un sistema las responde en segundos, 24/7 — incluida la venta de las 11pm que hoy pierdes. Y recupera carritos abandonados: el 70% se abandona; una secuencia rescata hasta el 15%." },
-        { "role": "value", "n": "2", "h": "La operación que se mueve sola", "b": "El pedido viaja solo de la web al almacén (cero transcripción, cero errores), el cliente recibe avisos automáticos — pagado, preparando, en ruta — y la conciliación contra el banco corre de noche y te deja solo las excepciones." },
-        { "role": "value", "n": "3", "h": "Suma típica: 30-50 horas mensuales", "b": "De trabajo manual que una tienda mediana puede automatizar en semanas." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para tiendas online peruanas: chats que venden solos, pedidos que viajan solos, cuentas que cuadran solas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuál te dolió más?", "b": "Escríbenos en qolca.org y te decimos cómo se automatiza." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "Dónde se te va el tiempo en una tienda online.",
+          "b": "Cuatro puntos, siempre los mismos"
+        },
+        {
+          "role": "rehook",
+          "h": "No es la web. Es todo lo que pasa alrededor de la web.",
+          "b": "Vender por internet es fácil; sostenerlo a mano es lo que agota."
+        },
+        {
+          "role": "value",
+          "h": "Los cuatro puntos de fuga",
+          "b": "Responder las mismas preguntas por chat. Avisar dónde va cada pedido. Cuadrar tienda, pasarela y banco. Y mantener el stock igual en todos los canales."
+        },
+        {
+          "role": "value",
+          "h": "Los cuatro se pueden automatizar",
+          "b": "Las preguntas repetidas se responden solas; el estado del pedido se avisa al cliente sin que pregunte; la conciliación se corre de noche; el stock se sincroniza entre canales."
+        },
+        {
+          "role": "value",
+          "h": "Empieza por uno, no por los cuatro",
+          "b": "Cronometra una semana cuál te quita más horas. Ese es por el que se empieza. Automatizar los cuatro a la vez es la forma más rápida de que ninguno quede bien."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Empezamos por uno solo — el que más te cuesta — y recién después miramos el resto."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuál de los cuatro te está costando más?",
+          "b": "Escríbenos cuál en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "Tu tienda online pierde 30-50 horas al mes en procesos que Qolca automatiza: responder las mismas 6 preguntas (24/7, incluida la venta de las 11pm), pasar pedidos al almacén, cuadrar contra el banco y recuperar carritos abandonados — el 70% se abandona y una secuencia rescata hasta el 15%. qolca.org #ecommerce #automatizacion #ventasonline #peru",
-        "tt": "Lo que tu tienda online sigue haciendo a mano 🛒 #ecommerce #automatizacion #negocios",
-        "fb": "Para los que venden online: ¿cuántos de estos procesos siguen siendo manuales en tu tienda? Responder precio/stock/delivery, pasar pedidos al almacén, cuadrar contra el banco, avisar estados, recuperar carritos. Qolca los automatiza — y el último es plata dormida: 70% se abandonan y una secuencia rescata hasta el 15%. qolca.org"
+        "ig": "Dónde se te va el tiempo en una tienda online. Cuatro puntos, siempre los mismos.\n\nVender por internet es fácil; sostenerlo a mano es lo que agota. Responder las mismas preguntas por chat. Las preguntas repetidas se responden solas; el estado del pedido se avisa al cliente sin que pregunte; la conciliación se corre de noche; el stock se sincroniza entre canales.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "Dónde se te va el tiempo en una tienda online. #pymes #negocios #peru",
+        "fb": "Dónde se te va el tiempo en una tienda online. Cronometra una semana cuál te quita más horas. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de un e-commerce y su automatización: chats, pedidos, conciliación, estados y carritos."
+      "alt": "Dónde se te va el tiempo en una tienda online. Cuatro puntos, siempre los mismos. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "inmobiliaria",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Pagas anuncios y los interesados mueren sin respuesta.", "b": "El embudo se arregla por dentro" },
-        { "role": "rehook", "h": "Un interesado que espera 24 horas ya visitó otro proyecto.", "b": "El problema casi nunca es tu publicidad: es lo que pasa después del clic." },
-        { "role": "value", "n": "1", "h": "Responder y perseguir, en automático", "b": "Respuesta al minuto con brochure y visita agendada. Y como el 80% no decide en la primera llamada, el sistema hace seguimiento solo los días 3, 7, 14 y 30. El asesor recibe solo a los que YA quieren visitar." },
-        { "role": "value", "n": "2", "h": "Visitas que sí llegan, datos que sí sirven", "b": "El 40% de visitas agendadas no llega — sin confirmación. Un recordatorio la noche anterior lo corta a la mitad. Y el reporte para la constructora deja de armarse a mano: panel siempre actualizado con interesados, visitas y separaciones." },
-        { "role": "value", "n": "3", "h": "El asesor promedio pierde 60% de su tiempo en NO vender", "b": "Perseguir, coordinar, reportar. Devuélvele ese tiempo y vende más con el mismo equipo." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para inmobiliarias peruanas: respuesta al minuto, seguimiento automático, visitas confirmadas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Tu embudo gotea?", "b": "Dinos cuántos interesados recibes al mes en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "En inmobiliaria gana el que contesta primero.",
+          "b": "No el que tiene el mejor proyecto"
+        },
+        {
+          "role": "rehook",
+          "h": "El interesado escribe a cinco proyectos la misma tarde.",
+          "b": "Y compra donde le respondieron mientras todavía estaba mirando."
+        },
+        {
+          "role": "value",
+          "h": "Dónde se pierde",
+          "b": "Entre que el interesado llena el formulario y el asesor lo llama pasan horas o días. En ese hueco ya visitó otro proyecto. Y el que no contestó nunca ni se registra."
+        },
+        {
+          "role": "value",
+          "h": "Qué se puede automatizar",
+          "b": "El primer contacto al minuto, con la información que pidió y un enlace para agendar. Y el seguimiento en los días que definas, para los que no respondieron a la primera."
+        },
+        {
+          "role": "value",
+          "h": "Lo que NO se automatiza",
+          "b": "La visita, la negociación y la confianza. El sistema sirve para que tu asesor llegue a esa conversación con gente que ya quiere verte — no para reemplazarlo."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas con quien construye tu sistema, no con un vendedor que después traduce."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuánto tardas hoy en contestar un interesado nuevo?",
+          "b": "Si no lo sabes, esa es la primera cifra que hay que medir. Conversemos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "Tu publicidad trae interesados; tu Excel los deja morir — Qolca automatiza el embudo por dentro: respuesta al minuto (a las 24 horas ya visitaron otro proyecto), seguimiento automático del 80% que no decide a la primera, confirmación de visitas (el 40% no llega sin ella) y panel siempre al día. qolca.org #inmobiliaria #ventas #automatizacion #peru",
-        "tt": "Tu publicidad trae interesados. Tu Excel los deja morir 🏠 #inmobiliaria #ventas #automatizacion",
-        "fb": "Verdad del sector inmobiliario: el problema casi nunca es el presupuesto de publicidad — es el embudo interno. Interesado sin responder 24 horas = interesado que visitó otro proyecto. 40% de visitas no llegan sin confirmación. Qolca automatiza ese embudo. ¿Cuántos interesados recibe tu proyecto al mes y cuántos llegan a visita? qolca.org"
+        "ig": "En inmobiliaria gana el que contesta primero. No el que tiene el mejor proyecto.\n\nCompra donde le respondieron mientras todavía estaba mirando. Entre que el interesado llena el formulario y el asesor lo llama pasan horas o días. El primer contacto al minuto, con la información que pidió y un enlace para agendar.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "En inmobiliaria gana el que contesta primero. #pymes #negocios #peru",
+        "fb": "En inmobiliaria gana el que contesta primero. La visita, la negociación y la confianza. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de inmobiliarias: leads, seguimiento, confirmación de visitas, reportes y post-venta."
+      "alt": "En inmobiliaria gana el que contesta primero. No el que tiene el mejor proyecto. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "clinica",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Tus pacientes no logran comunicarse contigo.", "b": "Y agendan en otra clínica" },
-        { "role": "rehook", "h": "Teléfono, mostrador, caja y WhatsApp.", "b": "Tu recepción hace 4 trabajos con 2 manos. Y el paciente que no logra comunicarse no espera." },
-        { "role": "value", "n": "1", "h": "La atención se responde sola", "b": "Agendamiento por WhatsApp 24/7 contra la agenda real de los doctores. Y las mismas 10 preguntas de siempre — precios, seguros, preparación de exámenes — respondidas al instante, sin colgar a nadie. El teléfono queda para lo que necesita voz." },
-        { "role": "value", "n": "2", "h": "Las sillas se llenan solas", "b": "Recordatorios 48 y 3 horas antes con confirmar o reagendar en el mismo mensaje (la inasistencia del 20-30% no es mala suerte: es falta de sistema). Resultados que avisan solos. Y el control anual que nadie recuerda, recordado — agenda llena con pacientes que YA te conocen." },
-        { "role": "value", "n": "3", "h": "Cada silla vacía = S/80-200 perdidos", "b": "Multiplica por tu inasistencia semanal: con eso se paga el sistema, y sobra." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para clínicas peruanas: agendamiento, recordatorios, resultados y reactivación de pacientes. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuántas sillas vacías esta semana?", "b": "Escríbenos en qolca.org con esa cifra." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "Tus pacientes no logran comunicarse contigo.",
+          "b": "Y no es culpa de recepción"
+        },
+        {
+          "role": "rehook",
+          "h": "El teléfono ocupado y el WhatsApp sin leer son la misma pérdida.",
+          "b": "El paciente que no pudo agendar no vuelve a intentar: llama a otro lado."
+        },
+        {
+          "role": "value",
+          "h": "Dónde se pierde",
+          "b": "Consultas fuera del horario de recepción. Confirmaciones que nadie alcanza a hacer. Y el hueco que deja una cancelación, que se queda hueco porque no hay tiempo de llamar a nadie."
+        },
+        {
+          "role": "value",
+          "h": "Qué se puede automatizar",
+          "b": "Agendar, reagendar y confirmar por WhatsApp a cualquier hora. Recordar la cita antes. Y ofrecer el cupo liberado a quien esté esperando."
+        },
+        {
+          "role": "value",
+          "h": "La regla que va antes que todo",
+          "b": "En salud, una urgencia pasa a una persona al instante, siempre. Un sistema que intente resolver una urgencia es un sistema mal hecho — por rápido que sea."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Si tu proceso todavía no está para automatizarse, preferimos decírtelo que cobrarte por algo que no va a funcionar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántos mensajes de pacientes quedan sin responder cada día?",
+          "b": "Cuéntanoslo en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "El paciente que no logra comunicarse con tu clínica agenda en otra — Qolca automatiza lo que ahoga a tu recepción: agendamiento por WhatsApp 24/7, recordatorios con confirmación (la inasistencia del 20-30% es falta de sistema), avisos de resultados y reactivación de pacientes dormidos. Cada silla vacía: S/80-200. qolca.org #clinicas #salud #automatizacion #peru",
-        "tt": "La recepción de tu clínica hace 4 trabajos con 2 manos 🏥 #clinicas #salud #gestion",
-        "fb": "Para administradores de clínicas: el paciente que no logra comunicarse por teléfono no espera — agenda en otra clínica. Qolca automatiza el agendamiento, los recordatorios, los avisos de resultados y la reactivación de pacientes dormidos (la que más agenda llena con menos esfuerzo). Cada silla vacía: S/80-200. qolca.org"
+        "ig": "Tus pacientes no logran comunicarse contigo. Y no es culpa de recepción.\n\nEl paciente que no pudo agendar no vuelve a intentar: llama a otro lado. Consultas fuera del horario de recepción. Agendar, reagendar y confirmar por WhatsApp a cualquier hora.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "Tus pacientes no logran comunicarse contigo. #pymes #negocios #peru",
+        "fb": "Tus pacientes no logran comunicarse contigo. En salud, una urgencia pasa a una persona al instante, siempre. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de clínicas: agendamiento, confirmaciones, preguntas frecuentes, resultados y reactivación."
+      "alt": "Tus pacientes no logran comunicarse contigo. Y no es culpa de recepción. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "logistica",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "\"¿Dónde está mi pedido?\" te cuesta 3 llamadas.", "b": "El papeleo invisible que frena tu operación" },
-        { "role": "rehook", "h": "La logística se gana en los márgenes.", "b": "Y los márgenes se van en papeleo que nadie ve." },
-        { "role": "value", "n": "1", "h": "La ruta y el cliente, sin llamadas", "b": "Las rutas se arman en segundos — por zona, capacidad y horario — en vez de \"de memoria a las 6am\". Y el cliente recibe avisos automáticos: en ruta, a 3 paradas, entregado con foto. Nadie interrumpe la operación para preguntar." },
-        { "role": "value", "n": "2", "h": "La prueba y la liquidación, sin papel", "b": "Comprobante de entrega digital: foto + ubicación + firma en el celular del conductor (se acabaron los \"yo nunca recibí\"). Y la liquidación del día se arma sola en ruta — no una hora por conductor rindiendo a mano." },
-        { "role": "value", "n": "3", "h": "1 hora diaria por conductor en papeleo", "b": "Con 10 conductores: 200 horas mensuales recuperables. Ahí está el margen." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para operaciones logísticas peruanas: rutas, avisos, comprobantes y liquidaciones automáticas. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuántas llamadas internas cuesta un \"¿dónde está?\"?", "b": "Si son más de cero, escríbenos en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "\"¿Dónde está mi pedido?\" es tu consulta más cara.",
+          "b": "Y la más fácil de quitar"
+        },
+        {
+          "role": "rehook",
+          "h": "No es cara por difícil. Es cara por repetida.",
+          "b": "Cada una interrumpe a alguien que estaba haciendo otra cosa."
+        },
+        {
+          "role": "value",
+          "h": "Dónde se pierde",
+          "b": "El cliente pregunta porque no sabe. Alguien deja lo que hacía, busca en el sistema, responde. Y el mismo cliente vuelve a preguntar al día siguiente."
+        },
+        {
+          "role": "value",
+          "h": "Qué se puede automatizar",
+          "b": "Avisar al cliente en cada cambio de estado, sin que pregunte. La consulta desaparece cuando la información llega sola — no cuando se responde más rápido."
+        },
+        {
+          "role": "value",
+          "h": "La cuenta la haces tú",
+          "b": "Cuenta las consultas de estado de una semana y multiplica por los minutos que toma cada una. Compáralo con lo que costaría avisar automáticamente. Esa resta decide."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Empezamos por uno solo — el que más te cuesta — y recién después miramos el resto."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántas veces te preguntaron \"dónde está\" esta semana?",
+          "b": "Escríbenos ese número a qolca.org."
+        }
       ],
       "caption": {
-        "ig": "\"¿Dónde está mi pedido?\" no debería costar 3 llamadas internas — Qolca automatiza el papeleo que frena operaciones logísticas: rutas armadas en segundos, avisos automáticos al cliente, comprobante digital de entrega y liquidaciones que se arman solas en ruta. Con 10 conductores: 200 horas/mes recuperables. qolca.org #logistica #operaciones #automatizacion #peru",
-        "tt": "\"¿Dónde está mi pedido?\" = 3 llamadas internas 🚚 #logistica #operaciones #negocios",
-        "fb": "Test logístico: cuando un cliente pregunta \"¿dónde está mi pedido?\", ¿cuántas llamadas internas cuesta responderle? Si no es \"cero — le llega solo el estado\", hay 200 horas mensuales escondidas en tu operación (con 10 conductores). Qolca construye esos sistemas: rutas, avisos, comprobantes y liquidaciones automáticas. qolca.org"
+        "ig": "\"¿Dónde está mi pedido?\" es tu consulta más cara. Y la más fácil de quitar.\n\nCada una interrumpe a alguien que estaba haciendo otra cosa. El cliente pregunta porque no sabe. Avisar al cliente en cada cambio de estado, sin que pregunte.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "\"¿Dónde está mi pedido?\" es tu consulta más cara. #pymes #negocios #peru",
+        "fb": "\"¿Dónde está mi pedido?\" es tu consulta más cara. Cuenta las consultas de estado de una semana y multiplica por los minutos que toma cada una. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de logística: rutas, estados, comprobantes, liquidaciones y reportes."
+      "alt": "\"¿Dónde está mi pedido?\" es tu consulta más cara. Y la más fácil de quitar. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "restaurante",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Cada chat sin responder es un almuerzo perdido.", "b": "Y vale S/30-60. El arreglo, adentro." },
-        { "role": "rehook", "h": "La hora punta no perdona.", "b": "Justo a la 1pm el WhatsApp explota, el teléfono suena y la caja tiene cola. El chat de la 1:05 almorzó en otro lado a la 1:10." },
-        { "role": "value", "n": "1", "h": "Pedidos y reservas que se atienden solos", "b": "Menú interactivo por WhatsApp con el pedido directo a cocina — el sistema no colapsa a la 1pm: a esa hora brilla. Y reservas con confirmación y recordatorio, en vez del cuaderno de las mesas fantasma." },
-        { "role": "value", "n": "2", "h": "Las preguntas y el cliente que no vuelve", "b": "Horario, carta, delivery, estacionamiento, pagos: las mismas 8 preguntas respondidas al instante, sin quitar manos de la operación. Y campañas a clientes reales — el de hace 3 semanas no te olvidó: nadie le escribió." },
-        { "role": "value", "n": "3", "h": "Cada chat perdido en hora punta = S/30-60", "b": "Cuenta los de esta semana. El sistema cuesta menos que un mes de chats perdidos." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para restaurantes peruanos: pedidos, reservas y clientes que vuelven, en automático. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Tu WhatsApp colapsa a la 1pm?", "b": "Escríbenos \"hora punta\" en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "Cada chat sin responder es un almuerzo que se fue.",
+          "b": "Y llegan todos a la misma hora"
+        },
+        {
+          "role": "rehook",
+          "h": "Los pedidos entran justo cuando la cocina está full.",
+          "b": "Nadie puede atender el celular a la una de la tarde. Y esa es la hora."
+        },
+        {
+          "role": "value",
+          "h": "Dónde se pierde",
+          "b": "Mensajes en hora punta que nadie ve. La carta que se pide una y otra vez. Reservas que se anotan en un cuaderno y a veces no. Y el pedido que se confirma tarde."
+        },
+        {
+          "role": "value",
+          "h": "Qué se puede automatizar",
+          "b": "Mandar la carta al instante, tomar el pedido con preguntas simples y confirmar la reserva sola. Lo que llega a la cocina es un pedido ya ordenado, no una conversación."
+        },
+        {
+          "role": "value",
+          "h": "El reclamo NO se automatiza",
+          "b": "Un cliente molesto con su pedido tiene que hablar con una persona, rápido. Un sistema que intente resolver un reclamo con plantillas convierte una queja en una reseña de una estrella."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Tomamos pocos clientes a la vez para poder responder el mismo día."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántos mensajes te entran entre 12 y 2?",
+          "b": "Esa es la hora que hay que resolver. Conversemos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "El chat que no respondes a la 1:05pm almorzó en otro lado a la 1:10 — Qolca automatiza lo que ahoga a los restaurantes: pedidos por WhatsApp directo a cocina, reservas con confirmación, las mismas 8 preguntas respondidas al instante y campañas para hacer volver al cliente. Cada chat perdido: S/30-60. qolca.org #restaurantes #gastronomia #automatizacion #peru",
-        "tt": "La 1pm en el WhatsApp de todo restaurante 🍽️💥 #restaurantes #negocios #gastronomia",
-        "fb": "Dueños de restaurante: ¿cuántos chats de WhatsApp quedaron sin responder esta semana en hora punta? Cada uno vale S/30-60. Qolca construye el sistema que los atiende solos — y el proceso más ignorado: el cliente de hace 3 semanas no te olvidó, solo nadie le escribió. ¿Cuál automatizarían primero? qolca.org"
+        "ig": "Cada chat sin responder es un almuerzo que se fue. Y llegan todos a la misma hora.\n\nNadie puede atender el celular a la una de la tarde. Mensajes en hora punta que nadie ve. Mandar la carta al instante, tomar el pedido con preguntas simples y confirmar la reserva sola.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "Cada chat sin responder es un almuerzo que se fue. #pymes #negocios #peru",
+        "fb": "Cada chat sin responder es un almuerzo que se fue. Un cliente molesto con su pedido tiene que hablar con una persona, rápido. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de restaurantes: pedidos, reservas, inventario, preguntas frecuentes y recompra."
+      "alt": "Cada chat sin responder es un almuerzo que se fue. Y llegan todos a la misma hora. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "estudio-contable",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Ordenas las finanzas de 40 empresas. Persiguiendo PDFs.", "b": "Cómo liberar la mitad del mes" },
-        { "role": "rehook", "h": "La mitad del mes se va en operar.", "b": "Y el cliente paga (mejor) por asesorar. Algo no cuadra." },
-        { "role": "value", "n": "1", "h": "Los documentos llegan y se registran solos", "b": "Recordatorios automáticos por cliente en cada cierre — \"faltan tus facturas de compra\" sin perseguir a nadie. Y la IA lee cada factura, la valida contra SUNAT y la registra categorizada. El asistente revisa excepciones, no tipea." },
-        { "role": "value", "n": "2", "h": "Los clientes se atienden solos", "b": "Avisos de vencimiento según el RUC de cada cliente, antes de la fecha. El \"¿cuánto pago este mes?\" — que interrumpe 20 veces al día — respondido con un estado siempre visible. Y los entregables mensuales generados con tu membrete, cero armado en Excel." },
-        { "role": "value", "n": "3", "h": "El 50% del mes, liberado", "b": "Y vendido como lo que el cliente sí valora: asesoría. El estudio gana dos veces." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para estudios contables peruanos: documentos, registro, avisos y entregables en automático. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuántas horas persigue documentos tu equipo?", "b": "Escríbenos en qolca.org. Entendemos tu flujo." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "Ordenas las finanzas de decenas de empresas persiguiendo PDFs.",
+          "b": "La ironía del rubro"
+        },
+        {
+          "role": "rehook",
+          "h": "Tu trabajo es el análisis. Tu mes es la recolección.",
+          "b": "Perseguir documentos no es contabilidad, pero se come el calendario."
+        },
+        {
+          "role": "value",
+          "h": "Dónde se pierde",
+          "b": "Pedir los mismos documentos a los mismos clientes todos los meses. Recibirlos por cinco canales distintos. Y tipear al sistema lo que llegó en PDF."
+        },
+        {
+          "role": "value",
+          "h": "Qué se puede automatizar",
+          "b": "El recordatorio a cada cliente con su lista pendiente. Una sola puerta de entrada para los documentos. Y la lectura de los PDF con validación contra SUNAT antes de registrar."
+        },
+        {
+          "role": "value",
+          "h": "Lo dudoso no se registra solo",
+          "b": "Lo que no cuadra en las validaciones va a una bandeja de revisión, nunca directo al sistema contable. Automatizar contabilidad sin ese freno es multiplicar errores más rápido."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas con quien construye tu sistema, no con un vendedor que después traduce."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántos días al mes se te van persiguiendo documentos?",
+          "b": "Escríbenos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "La paradoja del estudio contable: ordena las finanzas de 40 empresas y persigue PDFs por WhatsApp — Qolca automatiza ese flujo: documentos que llegan solos, facturas leídas y validadas contra SUNAT por IA, avisos de vencimiento por RUC y entregables con tu membrete. El 50% del mes liberado se vende como asesoría. qolca.org #contabilidad #estudiocontable #automatizacion #peru",
-        "tt": "El estudio contable que ordena 40 empresas y persigue PDFs 🧾 #contabilidad #automatizacion #b2b",
-        "fb": "Paradoja del rubro contable: ordenar las finanzas de 40 empresas… persiguiendo sus facturas por WhatsApp. Si la mitad del mes del equipo se va en perseguir, tipear y armar — esa mitad liberada se convierte en asesoría, que es lo que el cliente valora y paga mejor. Qolca construye ese sistema. ¿Les suena? qolca.org"
+        "ig": "Ordenas las finanzas de decenas de empresas persiguiendo PDFs. La ironía del rubro.\n\nPerseguir documentos no es contabilidad, pero se come el calendario. Pedir los mismos documentos a los mismos clientes todos los meses. El recordatorio a cada cliente con su lista pendiente.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "Ordenas las finanzas de decenas de empresas persiguiendo PDFs. #pymes #negocios #peru",
+        "fb": "Ordenas las finanzas de decenas de empresas persiguiendo PDFs. Lo que no cuadra en las validaciones va a una bandeja de revisión, nunca directo al sistema contable. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de estudios contables: documentos, tipeo, vencimientos, consultas y entregables."
+      "alt": "Ordenas las finanzas de decenas de empresas persiguiendo PDFs. La ironía del rubro. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "academia",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "En campaña no respondes al 60% de interesados.", "b": "Cada uno era un alumno perdido" },
-        { "role": "rehook", "h": "Cada campaña, el mismo caos.", "b": "Cientos de interesados, un Excel, tres señoritas de informes y un teléfono que no para." },
-        { "role": "value", "n": "1", "h": "Informes y matrícula, al instante", "b": "El 90% de consultas de campaña son idénticas: horarios, precios, requisitos. Respuesta inmediata 24/7 — y el interesado listo se matricula en UN paso desde el celular: formulario, pago, comprobante y aula virtual juntos, sin cola." },
-        { "role": "value", "n": "2", "h": "El \"todavía\" y los recordatorios", "b": "El que preguntó y no se matriculó no dijo que no: dijo \"todavía\". Una secuencia con fechas límite lo trae de vuelta. Y los recordatorios de clase y de cuotas combaten inasistencia y morosidad de la misma forma: a tiempo, automáticamente." },
-        { "role": "value", "n": "3", "h": "La próxima campaña puede atender el 100%", "b": "A cualquier hora, sin contratar a nadie más. La diferencia son semanas de implementación." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para academias e institutos peruanos: informes, matrícula, seguimiento y certificados en automático. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuándo es tu próxima campaña?", "b": "Si es pronto, hay tiempo. Escríbenos en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "En campaña te escriben todos el mismo día.",
+          "b": "Y respondes cuando ya se matricularon en otra"
+        },
+        {
+          "role": "rehook",
+          "h": "La matrícula no se pierde por precio. Se pierde por demora.",
+          "b": "El interesado pregunta en tres institutos la misma tarde."
+        },
+        {
+          "role": "value",
+          "h": "Dónde se pierde",
+          "b": "Los picos de campaña: cientos de consultas en pocos días con el mismo equipo. Las preguntas son casi siempre las mismas — horarios, precio, modalidad, certificado — y aun así se acumulan."
+        },
+        {
+          "role": "value",
+          "h": "Qué se puede automatizar",
+          "b": "Responder esas cuatro preguntas al instante, a cualquier hora, y quedarte con el contacto. El asesor entra cuando el interesado ya quiere matricularse."
+        },
+        {
+          "role": "value",
+          "h": "Mide el pico, no el promedio",
+          "b": "Un sistema se diseña para el peor día, no para el martes tranquilo. Revisa cuántas consultas te entraron el día más cargado de tu última campaña: ese es el número que importa."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Empezamos por uno solo — el que más te cuesta — y recién después miramos el resto."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántas consultas te entraron el día pico de tu última campaña?",
+          "b": "Cuéntanoslo en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "En tu última campaña de matrícula, el 60% de consultas quedó sin responder a tiempo — y cada una era un alumno potencial. Qolca automatiza la campaña completa: informes al instante 24/7 (el 90% son idénticos), matrícula en un paso desde el celular, seguimiento del \"todavía\" y recordatorios de clase y cuotas. La próxima puede atender el 100%. qolca.org #educacion #academias #automatizacion #peru",
-        "tt": "El caos de campaña de matrícula que se repite cada año 🎓 #educacion #academias #gestion",
-        "fb": "Directores de academias e institutos: en la última campaña, ¿cuántas consultas quedaron sin responder ese mismo día? El promedio es 60% — y cada una era un alumno potencial. El sistema que construye Qolca puede atenderlas TODAS, a cualquier hora, sin contratar a nadie más. ¿Cuándo es la suya? qolca.org"
+        "ig": "En campaña te escriben todos el mismo día. Y respondes cuando ya se matricularon en otra.\n\nEl interesado pregunta en tres institutos la misma tarde. Los picos de campaña: cientos de consultas en pocos días con el mismo equipo. Responder esas cuatro preguntas al instante, a cualquier hora, y quedarte con el contacto.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "En campaña te escriben todos el mismo día. #pymes #negocios #peru",
+        "fb": "En campaña te escriben todos el mismo día. Un sistema se diseña para el peor día, no para el martes tranquilo. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de academias: informes, seguimiento, matrícula, recordatorios y certificados."
+      "alt": "En campaña te escriben todos el mismo día. Y respondes cuando ya se matricularon en otra. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "agencia",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Tu agencia vende eficiencia y opera a mano.", "b": "Cómo facturar más con el mismo equipo" },
-        { "role": "rehook", "h": "La agencia promedio factura el 60% de su capacidad.", "b": "El resto se va en operar. Los sistemas internos son margen puro." },
-        { "role": "value", "n": "1", "h": "El cliente bien recibido y bien informado", "b": "El onboarding de 2 semanas de coordinación pasa a 48 horas: la firma dispara accesos, reunión y grupo, solo. Los reportes mensuales se arman solos con los datos de cada plataforma — tu análisis va encima. Y el \"¿en qué va lo mío?\" se responde con un estado visible por cliente." },
-        { "role": "value", "n": "2", "h": "Cobrar y vender, sin roche", "b": "Cobrarle a quien le haces marketing incomoda: la secuencia cordial automática no siente roche y la relación queda limpia de dinero. Y tus propios interesados reciben respuesta al minuto — el que espera 2 días acaba de aprender cómo tratarías SU marca." },
-        { "role": "value", "n": "3", "h": "Del 60% al 80% de capacidad facturable", "b": "Sin contratar a nadie. Solo dejando de operar a mano lo que se opera solo." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para agencias peruanas: onboarding, reportes, cobranza y respuesta al minuto. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Tu agencia también es zapatero sin zapatos?", "b": "Hablemos entre colegas en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "Vendes eficiencia y operas a mano.",
+          "b": "Lo sabes, y por eso duele"
+        },
+        {
+          "role": "rehook",
+          "h": "El reporte del cliente te toma más que el trabajo del cliente.",
+          "b": "Y es el trabajo que no puedes facturar."
+        },
+        {
+          "role": "value",
+          "h": "Dónde se pierde",
+          "b": "Armar reportes copiando de cinco plataformas. Perseguir aprobaciones por correo. Y el estado de cada proyecto viviendo en la cabeza de quien lo lleva."
+        },
+        {
+          "role": "value",
+          "h": "Qué se puede automatizar",
+          "b": "El reporte que se arma solo con los datos de las plataformas. Los recordatorios de aprobación. Y un tablero donde el estado de cada cuenta está a la vista sin preguntar."
+        },
+        {
+          "role": "value",
+          "h": "Automatiza tu operación antes de venderla",
+          "b": "Cuesta vender automatización desde una agencia que opera a mano, y se nota. Empieza por tu propio reporte mensual: es el mejor caso de estudio que puedes tener."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Si tu proceso todavía no está para automatizarse, preferimos decírtelo que cobrarte por algo que no va a funcionar."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántas horas al mes se te van en reportes?",
+          "b": "Escríbenos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "Vendes eficiencia digital y tu operación corre en Excel y capturas de pantalla — Qolca automatiza la agencia por dentro: onboarding de 2 semanas a 48 horas, reportes que se arman solos, cobranza cordial sin roche y respuesta al minuto a tus propios interesados. Del 60% al 80% de capacidad facturable. qolca.org #agencias #marketing #automatizacion #peru",
-        "tt": "Vendes eficiencia digital y tu operación corre en capturas 😅 #agencias #marketing #b2b",
-        "fb": "Autocrítica del gremio: vendemos eficiencia digital y nuestra operación corre en Excel y \"¿me pasas el acceso?\". La agencia promedio factura el 60% de su capacidad — el resto se va en operar. Qolca automatiza esa mitad: onboarding, reportes, cobranza y seguimiento propio. ¿Cuál les suena más? qolca.org"
+        "ig": "Vendes eficiencia y operas a mano. Lo sabes, y por eso duele.\n\nEs el trabajo que no puedes facturar. Armar reportes copiando de cinco plataformas. El reporte que se arma solo con los datos de las plataformas.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "Vendes eficiencia y operas a mano. #pymes #negocios #peru",
+        "fb": "Vendes eficiencia y operas a mano. Cuesta vender automatización desde una agencia que opera a mano, y se nota. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de agencias: onboarding, reportes, cobranza, estado de proyectos y prospección propia."
+      "alt": "Vendes eficiencia y operas a mano. Lo sabes, y por eso duele. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "constructora",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Una obra parada te cuesta S/20,000 al día.", "b": "Y el pedido se hizo por llamada" },
-        { "role": "rehook", "h": "En obra todo se anota.", "b": "En cuadernos que se mojan, fotos que se pierden y WhatsApps que nadie encuentra." },
-        { "role": "value", "n": "1", "h": "La obra reporta sola", "b": "El parte diario pasa del cuaderno del residente a un formulario en el celular, con fotos — la oficina lo ve al instante. Y los pedidos de materiales se hacen en digital, con aprobación e historial. Se acabaron los \"necesito 40 bolsas para el lunes\" por llamada que nadie recuerda." },
-        { "role": "value", "n": "2", "h": "El control se arma solo", "b": "El avance registrado en campo arma la valorización sin Excel sobre Excel. La asistencia se marca desde el celular con ubicación: el tareo sale solo, sin la discusión mensual. Y las fotos quedan organizadas por obra y fecha — no en el celular del ingeniero." },
-        { "role": "value", "n": "3", "h": "El pedido digital cuesta menos que UNA parada", "b": "Una obra parada por materiales: S/5,000-20,000 al día. Es la cuenta más fácil del rubro." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para constructoras peruanas: partes, pedidos, valorizaciones y tareo en automático. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Tus obras se comunican por cuaderno?", "b": "Escríbenos en qolca.org. El sistema se adapta a la obra." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "En obra, la información llega tarde y sale caro.",
+          "b": "Los partes están en WhatsApp"
+        },
+        {
+          "role": "rehook",
+          "h": "Cuando el reporte llega a oficina, el problema ya tiene días.",
+          "b": "Y un problema de obra con días encima cuesta bastante más que uno del mismo día."
+        },
+        {
+          "role": "value",
+          "h": "Dónde se pierde",
+          "b": "El avance se reporta por fotos sueltas en un grupo. Los requerimientos de material se piden verbalmente. Y el estado real de la obra se arma juntando pedazos el viernes."
+        },
+        {
+          "role": "value",
+          "h": "Qué se puede automatizar",
+          "b": "El parte diario con formato fijo desde el celular del capataz. El requerimiento de material que llega a compras al momento. Y un tablero con el avance de todos los frentes."
+        },
+        {
+          "role": "value",
+          "h": "La cuenta la haces tú",
+          "b": "Piensa en la última paralización: cuántos días duró, cuánta gente parada, cuánto vale un día. Y pregúntate cuántos de esos días fueron por información que llegó tarde."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Tomamos pocos clientes a la vez para poder responder el mismo día."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuánto tarda en llegarte el avance real de una obra?",
+          "b": "Conversemos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "Una obra parada por materiales cuesta S/5,000-20,000 AL DÍA — y el pedido se hizo por llamada (o no se hizo). Qolca digitaliza la obra sin cambiar cómo trabaja: parte diario desde el celular, pedidos con aprobación e historial, valorizaciones que se arman solas y tareo sin discusión mensual. qolca.org #construccion #obras #automatizacion #peru",
-        "tt": "En obra todo se anota. En cuadernos que se mojan 🏗️ #construccion #obras #ingenieria",
-        "fb": "Para los del rubro construcción: ¿cuánto cuesta UN día de obra parada por materiales que no llegaron? Entre S/5,000 y S/20,000. El pedido digital con aprobación e historial que construye Qolca cuesta menos que UNA parada. ¿En su empresa el parte diario sigue siendo un cuaderno? qolca.org"
+        "ig": "En obra, la información llega tarde y sale caro. Los partes están en WhatsApp.\n\nUn problema de obra con días encima cuesta bastante más que uno del mismo día. El avance se reporta por fotos sueltas en un grupo. El parte diario con formato fijo desde el celular del capataz.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "En obra, la información llega tarde y sale caro. #pymes #negocios #peru",
+        "fb": "En obra, la información llega tarde y sale caro. Piensa en la última paralización: cuántos días duró, cuánta gente parada, cuánto vale un día. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de constructoras: parte diario, requerimientos, valorizaciones, asistencia y fotos."
+      "alt": "En obra, la información llega tarde y sale caro. Los partes están en WhatsApp. Carrusel de Qolca sobre automatización para empresas peruanas."
     },
     {
       "slug": "concesionario",
       "slides": [
-        { "role": "cover", "kicker": "POR INDUSTRIA", "h": "Tu interesado compra en 2 semanas. ¿Contigo?", "b": "Estos procesos deciden con quién" },
-        { "role": "rehook", "h": "El interesado automotriz compara 4 marcas EL MISMO DÍA.", "b": "Y el taller — no la venta — es el 60% de tu rentabilidad." },
-        { "role": "value", "n": "1", "h": "La venta: responder y perseguir", "b": "Ficha, precio, financiamiento y prueba de manejo respondidos al minuto, con agenda incluida. Y el \"lo voy a pensar\" recibe seguimiento automático los días 3, 7 y 14 con el argumento correcto — el 70% de las ventas está en el seguimiento." },
-        { "role": "value", "n": "2", "h": "El taller: la máquina de llenarlo", "b": "Recordatorio de mantenimiento por kilometraje estimado + agenda en un toque (el cliente no recuerda sus 10,000 km; tu sistema sí). El \"¿ya está mi carro?\" ×30 al día se responde solo con estados automáticos. Y el cliente del año 3, por cambiar de auto, recibe contacto programado." },
-        { "role": "value", "n": "3", "h": "El taller es el 60% de la rentabilidad", "b": "La venta es la puerta; el taller, el negocio. El recordatorio de mantenimiento es la llave." },
-        { "role": "stat", "h": "Esto es lo que hace Qolca.", "b": "Construimos estos sistemas para concesionarios y talleres peruanos: respuesta al minuto, seguimiento y recordatorios de mantenimiento. Tú nos cuentas tu proceso; nosotros lo dejamos funcionando." },
-        { "role": "cta", "h": "¿Cuántos \"lo voy a pensar\" tienes sin seguimiento?", "b": "Hagamos esa cuenta en qolca.org." }
+        {
+          "role": "cover",
+          "kicker": "POR INDUSTRIA",
+          "h": "Tu comprador decide en semanas. ¿Tú respondes en días?",
+          "b": "El seguimiento es el negocio"
+        },
+        {
+          "role": "rehook",
+          "h": "Nadie compra un auto en la primera conversación.",
+          "b": "Pero casi todos dejan de considerarte si esa conversación se enfría."
+        },
+        {
+          "role": "value",
+          "h": "Dónde se pierde",
+          "b": "El interesado pide una cotización y después silencio. El seguimiento depende de que el asesor se acuerde, y el asesor tiene treinta interesados. Los que se enfrían no dejan rastro."
+        },
+        {
+          "role": "value",
+          "h": "Qué se puede automatizar",
+          "b": "La ficha del modelo al instante, la prueba de manejo agendada sola, y el seguimiento en los días que definas — sin depender de la memoria de nadie."
+        },
+        {
+          "role": "value",
+          "h": "Lo que sigue siendo del asesor",
+          "b": "El financiamiento, la negociación y la prueba de manejo. El sistema mantiene viva la conversación; la venta la cierra una persona. Confundir eso es perder las dos cosas."
+        },
+        {
+          "role": "stat",
+          "h": "Esto es lo que hace Qolca.",
+          "b": "Automatizamos procesos de empresas peruanas. Hablas con quien construye tu sistema, no con un vendedor que después traduce."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántos interesados del mes pasado siguen sin una segunda conversación?",
+          "b": "Escríbenos en qolca.org."
+        }
       ],
       "caption": {
-        "ig": "El que pregunta por un auto hoy compra en 2 semanas — en algún lado. Qolca automatiza lo que decide dónde: respuesta al minuto, seguimiento del \"lo voy a pensar\" (el 70% de las ventas está ahí) y el recordatorio de mantenimiento por kilometraje — la máquina de llenar el taller, que es el 60% de la rentabilidad. qolca.org #automotriz #concesionarios #ventas #peru",
-        "tt": "El interesado automotriz compara 4 marcas el mismo día 🚗 #automotriz #ventas #negocios",
-        "fb": "Dato del rubro automotriz que reordena prioridades: la venta es la puerta, pero el TALLER es el 60% de la rentabilidad — y el recordatorio de mantenimiento por kilometraje que construye Qolca es la máquina de llenarlo. ¿Su concesionario contacta al cliente del año 3 que está por cambiar de auto? Casi ninguno lo hace. qolca.org"
+        "ig": "Tu comprador decide en semanas. ¿Tú respondes en días? El seguimiento es el negocio.\n\nCasi todos dejan de considerarte si esa conversación se enfría. El interesado pide una cotización y después silencio. La ficha del modelo al instante, la prueba de manejo agendada sola, y el seguimiento en los días que definas — sin depender de la memoria de nadie.\n\nSi estás en el rubro, dinos cuál de los puntos te pega más.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#pymesperu #automatizacion #negocios #peru #gestion",
+        "tt": "Tu comprador decide en semanas. ¿Tú respondes en días? #pymes #negocios #peru",
+        "fb": "Tu comprador decide en semanas. ¿Tú respondes en días? El financiamiento, la negociación y la prueba de manejo. ¿Cuál de estos puntos reconoces en tu operación? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },
-      "alt": "Cinco procesos manuales de concesionarios: leads, seguimiento, mantenimientos, estados de taller y recompra."
+      "alt": "Tu comprador decide en semanas. ¿Tú respondes en días? El seguimiento es el negocio. Carrusel de Qolca sobre automatización para empresas peruanas."
     }
   ]
 }
