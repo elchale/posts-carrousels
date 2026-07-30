@@ -1,6 +1,6 @@
 # ¿Encontraste a un niño perdido? No lo muevas.
 
-`comehometag` · `s1-protocolos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Si encuentras a un niño perdido, NO camines con él buscando a su mamá: su familia está regresando sobre sus pasos.
 
-Agáchate, preséntate, quédense ahí y busca su pulsera — si lleva una ComeHomeTag, escaneas el QR con tu celular y llamas a su familia al instante. Comparte para que más adultos lo sepan.
+Agáchate, preséntate, quédense ahí y busca su pulsera — si lleva una ComeHomeTag, escaneas el QR con tu celular y llamas a su familia al instante. Comparte para que más adultos lo sepan. Guárdalo por si algún día te toca a ti.
 
 #seguridadinfantil #comunidad #peru #protocolo
 ```

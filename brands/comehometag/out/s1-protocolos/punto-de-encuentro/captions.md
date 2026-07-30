@@ -1,6 +1,6 @@
 # Antes de entrar, elijan un punto de encuentro.
 
-`comehometag` · `s1-protocolos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 El punto de encuentro familiar: la frase de 7 palabras que se dice AL ENTRAR a cualquier lugar lleno de gente.
 
-Las reglas: uno solo, que se vea de lejos y con hora de respaldo. Y si alguien no llega al punto, la pulsera QR de ComeHomeTag deja que cualquiera llame a la familia al instante.
+Las reglas: uno solo, que se vea de lejos y con hora de respaldo. Y si alguien no llega al punto, la pulsera QR de ComeHomeTag deja que cualquiera llame a la familia al instante. Guárdalo para tu próxima salida en familia.
 
 #seguridadfamiliar #padres #familia #peru
 ```

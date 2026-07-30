@@ -1,6 +1,6 @@
 # Un abuelo extraviado casi siempre está cerca.
 
-`comehometag` · `s3-datos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Dónde buscar a un adulto mayor con demencia que salió solo: casi siempre está a menos de 1.5 km, caminando hacia un lugar de SU pasado.
 
-Haz hoy el mapa de 5 lugares, avisa al barrio y pon la denuncia EN PARALELO. Y con la pulsera QR de ComeHomeTag, quien lo encuentre llama a la familia al instante.
+Haz hoy el mapa de 5 lugares, avisa al barrio y pon la denuncia EN PARALELO. Y con la pulsera QR de ComeHomeTag, quien lo encuentre llama a la familia al instante. Guárdalo para hacer el mapa de 5 lugares hoy.
 
 #alzheimer #adultomayor #cuidadores #peru
 ```

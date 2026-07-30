@@ -1,6 +1,6 @@
 # El barrio puede cuidar a tu abuelo.
 
-`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Cómo armar la red de barrio para cuidar a un adulto mayor con Alzheimer: 5 conversaciones de 2 minutos — bodeguero, farmacéutico, vigilante, casera, vecina.
 
-"Si lo ven solo, ¿me llaman?" Nadie dice que no. La red cubre su barrio; la pulsera ComeHomeTag cubre el resto del mundo: quien lo encuentre escanea y llama a la familia.
+"Si lo ven solo, ¿me llaman?" Nadie dice que no. La red cubre su barrio; la pulsera ComeHomeTag cubre el resto del mundo: quien lo encuentre escanea y llama a la familia. Guárdalo para hacer las 5 conversaciones esta semana.
 
 #alzheimer #comunidad #cuidadores #peru
 ```

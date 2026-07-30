@@ -450,6 +450,19 @@
           "b": "4) \"¿Qué NO va a poder hacer?\" — el que no nombra límites no conoce su producto. 5) \"¿Por qué no me conviene la opción barata?\" 6) \"¿Cuántos días del cronograma son pruebas?\" — menos del 30% = prototipo. 7) \"¿Qué proyectos has rechazado?\" — el que nunca dijo no, te dirá que sí a todo."
         },
         {
+          "role": "recap",
+          "h": "Las 7 preguntas",
+          "items": [
+            "¿Puedo hablar con 2 clientes tuyos?",
+            "¿Qué pasa CUANDO esto se rompa?",
+            "¿El sistema es mío o tuyo?",
+            "¿Qué NO va a poder hacer?",
+            "¿Por qué no me conviene la opción barata?",
+            "¿Cuántos días del cronograma son pruebas?",
+            "¿Qué proyectos has rechazado?"
+          ]
+        },
+        {
           "role": "stat",
           "h": "Esto es lo que hace Qolca.",
           "b": "Automatizamos procesos de empresas peruanas. Empezamos por un proceso chico y medible: si eso no funciona, no tiene sentido hablar del resto."

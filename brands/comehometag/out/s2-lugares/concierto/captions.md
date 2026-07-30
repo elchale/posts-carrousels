@@ -1,6 +1,6 @@
 # En el concierto tu celular muere. Ten plan.
 
-`comehometag` · `s2-lugares` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Plan para conciertos y eventos masivos: tu celular muere antes que la música, así que el plan no puede vivir en la batería.
 
-Los 3 acuerdos: punto fijo CON hora, el número de un adulto en papel y el mensaje ancla con adolescentes (un emoji cada hora). La pulsera QR de ComeHomeTag tampoco usa batería: quien la escanea llama a la familia al instante.
+Los 3 acuerdos: punto fijo CON hora, el número de un adulto en papel y el mensaje ancla con adolescentes (un emoji cada hora). La pulsera QR de ComeHomeTag tampoco usa batería: quien la escanea llama a la familia al instante. Guárdalo para el próximo concierto.
 
 #conciertos #eventos #adolescentes #peru
 ```

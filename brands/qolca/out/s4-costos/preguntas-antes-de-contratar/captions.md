@@ -1,6 +1,6 @@
 # 7 preguntas antes de firmar.
 
-`qolca` · `s4-costos` · **6 láminas** — sube SIEMPRE en orden 01 → 06
+`qolca` · `s4-costos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:

@@ -1,6 +1,6 @@
 # ¿Se extravió tu papá? No fue tu culpa.
 
-`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Para el que cuida a alguien con Alzheimer y se culpa: 6 de cada 10 personas con demencia se extravían alguna vez, incluso con cuidado profesional 24/7.
 
-No es negligencia, es la enfermedad. Prepararse es amar con los ojos abiertos — y la pulsera ComeHomeTag cubre el momento que nadie puede vigilar: quien lo encuentre llama a la familia al instante.
+No es negligencia, es la enfermedad. Prepararse es amar con los ojos abiertos — y la pulsera ComeHomeTag cubre el momento que nadie puede vigilar: quien lo encuentre llama a la familia al instante. Guárdalo para el día que te vuelva la culpa.
 
 #cuidadores #alzheimer #saludmental #peru
 ```

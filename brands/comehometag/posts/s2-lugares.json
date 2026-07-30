@@ -35,6 +35,9 @@
           "b": "Descarta el agua antes que la arena. Y avisa al torreón antes de buscar solo: ellos ven toda la playa desde arriba."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "h": "Para esto existe ComeHomeTag.",
           "b": "Una pulsera con código QR para tu hijo. Va puesta y aguanta el mar y la arena. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin mensualidad.",
@@ -84,6 +87,9 @@
           "n": "3",
           "h": "Si pasa: avisa a seguridad primero",
           "b": "El mall tiene cámaras y radios. Tú cubres un pasillo; ellos cubren el edificio y las salidas."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",
@@ -137,6 +143,9 @@
           "b": "El que se pierde queda atrás del avance. Búscalo hacia donde la procesión ya pasó, no hacia donde va."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "h": "Para esto existe ComeHomeTag.",
           "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad.",
@@ -149,7 +158,7 @@
         }
       ],
       "caption": {
-        "ig": "Plan familiar para procesiones: la multitud CAMINA, así que \"junto al anda\" no es un punto de encuentro — el anda avanza. Reglas: punto fijo, niños adelante, y si alguien se pierde se busca hacia donde la procesión ya pasó. Los abuelos son los que más se desorientan: su pulsera QR de ComeHomeTag deja que cualquiera llame a la familia al instante. #procesion #señordelosmilagros #familia #peru",
+        "ig": "Plan familiar para procesiones: la multitud CAMINA, así que \"junto al anda\" no es un punto de encuentro — el anda avanza. Reglas: punto fijo, niños adelante, y si alguien se pierde se busca hacia donde la procesión ya pasó. Los abuelos son los que más se desorientan: su pulsera QR de ComeHomeTag deja que cualquiera llame a la familia al instante. Guárdalo para octubre. #procesion #señordelosmilagros #familia #peru",
         "tt": "En una procesión tu punto de encuentro se MUEVE 💜 el plan correcto + pulsera ComeHomeTag para los abuelos. #procesion #familia #peru",
         "fb": "Las procesiones son el evento del año de nuestros abuelos — y donde más se desorientan. La regla que casi nadie conoce: si alguien se pierde, se busca hacia donde la procesión YA PASÓ. Y con la pulsera QR de ComeHomeTag puesta, quien lo encuentre llama a la familia al instante. Comparte antes de octubre. comehometag.com"
       },
@@ -186,6 +195,9 @@
           "n": "3",
           "h": "Con ese ruido, lo escrito habla",
           "b": "Un niño perdido en el estadio no escucha ni su nombre. Su identificación responde cuando el ruido no deja."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",
@@ -239,6 +251,9 @@
           "b": "Los aeropuertos tienen protocolo de menor extraviado con anuncio general. Se activa en segundos."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "h": "Para esto existe ComeHomeTag.",
           "b": "Una pulsera con código QR para niños y abuelos. Quien los encuentra la escanea con su celular y llama a la familia al instante. Sin batería, sin mensualidad.",
@@ -251,7 +266,7 @@
         }
       ],
       "caption": {
-        "ig": "Viajar en familia por el aeropuerto: colas, maletas y apuro separan familias en segundos. El plan: un adulto cuida a UNA persona por tramo (\"en migraciones, Pedro va con la abuela\") y el punto de encuentro es el counter de tu aerolínea — la puerta de embarque cambia. Niños y abuelos con su pulsera QR de ComeHomeTag: quien los encuentre llama a la familia al instante. #viajeconniños #aeropuerto #familia #peru",
+        "ig": "Viajar en familia por el aeropuerto: colas, maletas y apuro separan familias en segundos. El plan: un adulto cuida a UNA persona por tramo (\"en migraciones, Pedro va con la abuela\") y el punto de encuentro es el counter de tu aerolínea — la puerta de embarque cambia. Niños y abuelos con su pulsera QR de ComeHomeTag: quien los encuentre llama a la familia al instante. Guárdalo para tu próximo viaje en familia. #viajeconniños #aeropuerto #familia #peru",
         "tt": "El plan para aeropuertos con niños y abuelos ✈️💜 y sus pulseras ComeHomeTag puestas. #aeropuerto #viajes #familia",
         "fb": "El error de aeropuerto más común: usar la puerta de embarque como punto de encuentro… y la puerta CAMBIA. El punto correcto es el counter de tu aerolínea. Regla de oro: un adulto cuida a una persona, por tramo y con nombre. Las pulseras QR de ComeHomeTag cierran el plan: quien encuentre a alguien llama al instante. comehometag.com"
       },
@@ -288,6 +303,9 @@
           "n": "3",
           "h": "Si pasa: pide los altavoces",
           "b": "Casi todos los mercados tienen megafonía en administración. Todo el mercado escucha en segundos."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",
@@ -341,6 +359,9 @@
           "b": "Todos tienen radio. Pide además que cubran la puerta principal: es el protocolo estándar de los parques."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "h": "Para esto existe ComeHomeTag.",
           "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
@@ -353,7 +374,7 @@
         }
       ],
       "caption": {
-        "ig": "Parques de diversiones: los niños no se pierden caminando — se pierden CORRIENDO al siguiente juego. La regla clave: \"al bajar, me esperas en la SALIDA\" (casi nunca está junto a la entrada, y ahí se pierden casi todos). La pulsera del parque no lleva tu teléfono; su pulsera QR de ComeHomeTag sí: quien lo encuentre te llama al instante. #parquedediversiones #familia #niños #peru",
+        "ig": "Parques de diversiones: los niños no se pierden caminando — se pierden CORRIENDO al siguiente juego. La regla clave: \"al bajar, me esperas en la SALIDA\" (casi nunca está junto a la entrada, y ahí se pierden casi todos). La pulsera del parque no lleva tu teléfono; su pulsera QR de ComeHomeTag sí: quien lo encuentre te llama al instante. Guárdalo para la próxima salida al parque. #parquedediversiones #familia #niños #peru",
         "tt": "En el parque de diversiones se pierden CORRIENDO 🎡💜 regla de la salida + pulsera ComeHomeTag. #familia #niños #parque",
         "fb": "Dato de parques que sorprende: la salida de cada juego casi nunca está junto a la entrada — y ahí se pierden casi todos los niños. La regla: \"al bajar, me esperas en la SALIDA, no corres al siguiente\". Y ojo: la pulsera del parque no lleva tu número; la de ComeHomeTag sí, con QR para que te llamen al instante. comehometag.com"
       },
@@ -392,6 +413,9 @@
           "b": "Un adulto primero, los niños al medio, otro adulto al final. Los niños nunca son los últimos."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "h": "Para esto existe ComeHomeTag.",
           "b": "Una pulsera con código QR para tu hijo. Quien lo encuentra la escanea con su celular y te llama al instante. Sin batería, sin app, sin mensualidad.",
@@ -404,7 +428,7 @@
         }
       ],
       "caption": {
-        "ig": "El susto clásico de Lima: la puerta del bus se cierra en 3 segundos y la familia queda dividida. La regla de oro: el que quedó, SE QUEDA en ese paradero — el del bus regresa. Si los dos se mueven, se buscan en círculos. Y si un niño queda solo entre extraños, su pulsera QR de ComeHomeTag deja que cualquiera te llame al instante. #transportepublico #lima #seguridadinfantil #peru",
+        "ig": "El susto clásico de Lima: la puerta del bus se cierra en 3 segundos y la familia queda dividida. La regla de oro: el que quedó, SE QUEDA en ese paradero — el del bus regresa. Si los dos se mueven, se buscan en círculos. Y si un niño queda solo entre extraños, su pulsera QR de ComeHomeTag deja que cualquiera te llame al instante. Guárdalo para ensayarlo hoy en la cena. #transportepublico #lima #seguridadinfantil #peru",
         "tt": "Si el bus arranca y alguien quedó abajo: la regla de oro 🚌💜 y la pulsera ComeHomeTag por si acaso. #lima #transporte #familia",
         "fb": "Ensayo para la cena de hoy: \"¿qué haces si el bus arranca y mamá no subió?\" Respuesta correcta: ME QUEDO DONDE ESTOY — el del bus regresa. El transporte público es donde un niño puede quedar solo entre extraños en segundos: su pulsera con QR de ComeHomeTag hace que cualquiera te llame al instante. comehometag.com"
       },
@@ -443,6 +467,9 @@
           "b": "Un emoji cada hora en punto. Es señal de vida, no control. Por eso sí lo mandan."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "h": "Para esto existe ComeHomeTag.",
           "b": "Una pulsera con código QR para niños y abuelos — y para todo el que va a eventos llenos. Quien la escanea con su celular llama a la familia al instante. Sin batería, sin mensualidad.",
@@ -455,7 +482,7 @@
         }
       ],
       "caption": {
-        "ig": "Plan para conciertos y eventos masivos: tu celular muere antes que la música, así que el plan no puede vivir en la batería. Los 3 acuerdos: punto fijo CON hora, el número de un adulto en papel y el mensaje ancla con adolescentes (un emoji cada hora). La pulsera QR de ComeHomeTag tampoco usa batería: quien la escanea llama a la familia al instante. #conciertos #eventos #adolescentes #peru",
+        "ig": "Plan para conciertos y eventos masivos: tu celular muere antes que la música, así que el plan no puede vivir en la batería. Los 3 acuerdos: punto fijo CON hora, el número de un adulto en papel y el mensaje ancla con adolescentes (un emoji cada hora). La pulsera QR de ComeHomeTag tampoco usa batería: quien la escanea llama a la familia al instante. Guárdalo para el próximo concierto. #conciertos #eventos #adolescentes #peru",
         "tt": "Los 3 acuerdos antes de entrar a cualquier concierto 🎤💜 y la pulsera ComeHomeTag sin batería. #conciertos #eventos #adolescentes",
         "fb": "Para familias que van a conciertos: el plan no puede vivir en la batería del celular — muere antes que la música. Punto fijo con hora, número en papel y el \"mensaje ancla\" con adolescentes (un emoji cada hora, sin interrogatorio). La pulsera QR de ComeHomeTag tampoco necesita batería. comehometag.com"
       },
@@ -492,6 +519,9 @@
           "n": "3",
           "h": "Punto de encuentro por galería",
           "b": "\"Si nos separamos aquí, la puerta de ESTA galería.\" Cada galería nueva, punto nuevo."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",

@@ -120,6 +120,28 @@ def block_height(draw, text, fname, weight, size_range, maxw, maxh, leading=1.08
     return fnt, lines, lh, len(lines) * lh
 
 
+def recap_items(post: dict) -> list[tuple[str, str]]:
+    """The post's value slides collapsed to one line each: (number, headline).
+
+    This is what the `recap` slide draws, and why adding one costs no writing:
+    the checklist already exists, spread over three slides. Slides that carry an
+    image or a screenshot are skipped — their headline is a caption for the
+    picture, not a step.
+    """
+    out: list[tuple[str, str]] = []
+    for s in post.get("slides", []):
+        if s.get("role") not in ("value", "paper") or not s.get("h"):
+            continue
+        if s.get("img") or s.get("shot"):
+            continue
+        out.append((str(s.get("n", "")), strip_emoji(s["h"])))
+    # Series that don't number their steps, or number only some of them: a blank
+    # badge next to one item looks like a rendering bug, so renumber the lot.
+    if not all(n for n, _ in out):
+        out = [(str(i + 1), h) for i, (_, h) in enumerate(out)]
+    return out
+
+
 class Renderer:
     def __init__(self, brand_dir: Path):
         self.dir = brand_dir
@@ -139,9 +161,12 @@ class Renderer:
         pool = self.plates[role_cfg["family"]]
         return pool[(post_i * 3 + slide_i) % len(pool)]
 
-    def render_slide(self, slide: dict, n: int, total: int, post_i: int) -> Image.Image:
+    def render_slide(self, slide: dict, n: int, total: int, post_i: int,
+                     post: dict | None = None) -> Image.Image:
         role = slide["role"]
-        rc = self.cfg["roles"][role]
+        # `recap` is derived from the rest of the post, so a brand that never
+        # configured the role still renders it — on its value plates.
+        rc = self.cfg["roles"].get(role) or self.cfg["roles"]["value"]
         im = Image.open(self.plate_for(rc, slide, post_i, n)).convert("RGB")
         draw = ImageDraw.Draw(im)
         disp = self.cfg["display_font"]
@@ -199,6 +224,9 @@ class Renderer:
             if role == "story" and n == 0:
                 self._tag(im, draw, sub_c)
 
+        elif role == "recap":
+            self._recap_slide(im, draw, slide, post or {}, rc, disp, dw, body_f)
+
         elif role in ("value", "paper"):
             fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (88, 52), 860, 380)
             bf = font(body_f, 42, 500)
@@ -239,6 +267,57 @@ class Renderer:
         else:
             raise ValueError(f"unknown role {role}")
         return im
+
+    def _recap_slide(self, im, draw, slide, post, rc, disp, dw, body_f):
+        """The whole checklist on ONE slide — the thing a save is actually for.
+
+        A carousel that spreads three steps over three slides has nothing worth
+        keeping: to use the list next Saturday you have to swipe your own saved
+        post. This slide is the artifact. It carries the brand lockup on purpose
+        — it is the frame that gets screenshotted and forwarded, so it has to say
+        whose list it is.
+
+        Everything defaults off the post: title = the cover headline (it already
+        names the topic), items = `recap_items`. So the JSON addition is one
+        line, `{"role": "recap"}`, and any post can override `kicker`/`h`/`items`.
+        """
+        text_c, sub_c, acc = rc["text"], rc["sub"], rc["accent"]
+
+        items: list[tuple[str, str]] = []
+        if slide.get("items"):
+            items = [(str(i + 1), strip_emoji(t)) for i, t in enumerate(slide["items"])]
+        else:
+            items = recap_items(post)
+        title = strip_emoji(slide.get("h") or post.get("slides", [{}])[0].get("h", ""))
+
+        y = draw_kicker(draw, strip_emoji(slide.get("kicker", "para guardar")), acc, CORE_Y0 + 26)
+        tf, tlines, tlh, th = block_height(draw, title, disp, dw, (88, 52), 860, 260)
+
+        # The items are fitted to whatever height is left under the title, then
+        # title+list are centred as one block: fitting the list first and letting
+        # the title float leaves a hole in the middle of the slide.
+        num_w, gap_row = 84, 30
+        text_w = CORE_X1 - CORE_X0 - num_w
+        avail = (CORE_Y1 - 30) - (y + th + 54)
+        for size in range(46, 25, -2):
+            bf = font(body_f, size, 600)
+            rows = [(n, wrap(draw, t, bf, text_w)) for n, t in items]
+            lh = round(size * 1.16)
+            hh = sum(len(l) * lh for _, l in rows) + gap_row * max(0, len(rows) - 1)
+            if hh <= avail:
+                break
+        nf = font(disp, min(72, size + 20), dw)
+
+        block = th + 54 + hh
+        y = y + max(0, ((CORE_Y1 - 30) - y - block) / 2)
+        y = draw_block(draw, tlines, tf, tlh, y, text_c) + 54
+        for n, lines in rows:
+            draw.text((CORE_X0 + 4, y - 6), n, font=nf, fill=acc)
+            for line in lines:
+                draw.text((CORE_X0 + num_w, y), line, font=bf, fill=text_c)
+                y += lh
+            y += gap_row
+        self._tag(im, draw, sub_c)
 
     def _shot_slide(self, im, draw, slide, rc, disp, dw, body_f):
         """Headline, then a real screenshot of the product, then one line of copy.
@@ -374,7 +453,7 @@ class Renderer:
                 stale.unlink()
         ig_pages = []
         for i, slide in enumerate(slides):
-            im = self.render_slide(slide, i, len(slides), post_i)
+            im = self.render_slide(slide, i, len(slides), post_i, post)
             im.save(tt_dir / f"{i + 1:02d}.jpg", quality=92)
             ig = im.crop(IG_CROP)
             ig.save(ig_dir / f"{i + 1:02d}.jpg", quality=92)

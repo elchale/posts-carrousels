@@ -32,6 +32,9 @@
           "b": "4 que enseñan, 3 del Día del Niño (la semana previa), 2 del feriado, 3 de clientes felices. Se produce en dos sentadas."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "shot": "shot-campana-chat.png",
           "h": "Avisas la promo. Te contestan.",
@@ -83,6 +86,9 @@
           "role": "value",
           "h": "El plan del mes: 12 posts",
           "b": "3 de primavera y renovación, 2 de los 100 días, 4 que enseñan, 3 de clientes felices."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",
@@ -138,6 +144,9 @@
           "b": "Morado y calabazas NUNCA en el mismo post: públicos distintos. 12 posts: 2-3 del mes morado, 3 del 31, 4 que enseñan, 2 de clientes felices."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "shot": "shot-bandeja.png",
           "h": "Octubre te llena la bandeja.",
@@ -189,6 +198,9 @@
           "role": "value",
           "h": "Avisa desde 3 semanas antes",
           "b": "\"Guarda este perfil para las ofertas del 28\" + adelantos. El Black Friday se siembra con tiempo, no se improvisa el mismo viernes."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",
@@ -244,6 +256,9 @@
           "b": "La semana del 26 al 31 también vende: autoregalos (\"te lo mereces\"), cambios, Año Nuevo. Y el post de agradecimiento: el más humano del año."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "shot": "shot-movil.png",
           "h": "\"¿Llega antes del 24?\" a las 11 pm.",
@@ -295,6 +310,9 @@
           "role": "value",
           "h": "El verano manda",
           "b": "Enero en Perú es playa, calor y horarios raros: contenido de verano + tus horarios de temporada bien claros. Con 12 posts armas el mes."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",
@@ -350,6 +368,9 @@
           "b": "Carnavales según tu región y el verano en su pico. Con 12 posts armas febrero completo."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "shot": "shot-whatsapp.png",
           "h": "El 13 de febrero, dos números atendiendo.",
@@ -403,6 +424,9 @@
           "b": "4 escolares en las semanas 1 y 2, 1 del 8 de marzo (solo si es real), 4 que enseñan, 3 de clientes felices. Marzo arranca fuerte: se programa en febrero."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "shot": "shot-comentarios.png",
           "h": "\"¿Tienen para inicial?\" en comentarios.",
@@ -454,6 +478,9 @@
           "role": "value",
           "h": "La logística del feriado",
           "b": "Horarios del 28 y 29 en grande + fecha límite de pedidos. ¿Cierras? Dilo con gracia: \"nos fuimos por pachamanca, volvemos el 30\"."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",

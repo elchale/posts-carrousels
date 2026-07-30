@@ -1,6 +1,6 @@
 # Revisa tus estadísticas en 5 minutos
 
-`propaga` · `s5-crecimiento` · **8 láminas** — sube SIEMPRE en orden 01 → 08
+`propaga` · `s5-crecimiento` · **9 láminas** — sube SIEMPRE en orden 01 → 09
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:

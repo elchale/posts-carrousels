@@ -1,6 +1,6 @@
 # No cuides solo a tu papá con Alzheimer.
 
-`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Cómo repartir el cuidado de un papá con Alzheimer entre hermanos: turnos por escrito, el que vive lejos financia y la tarde libre del cuidador NO se negocia.
 
-Cuidar solo no es más amor: es más riesgo. Parte del plan compartido: su pulsera ComeHomeTag, para que quien lo encuentre llame a la familia al instante.
+Cuidar solo no es más amor: es más riesgo. Parte del plan compartido: su pulsera ComeHomeTag, para que quien lo encuentre llame a la familia al instante. Guárdalo para la próxima conversación con tus hermanos.
 
 #cuidadores #alzheimer #familia #saludmental #peru
 ```

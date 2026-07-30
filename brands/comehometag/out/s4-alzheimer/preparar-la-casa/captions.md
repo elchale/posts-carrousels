@@ -1,6 +1,6 @@
 # Prepara tu casa para que no salga solo.
 
-`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Cómo preparar la casa si cuidas a alguien con Alzheimer, sin volverla jaula: campanita en la puerta, cerrojo fuera de la altura habitual, una cortina sobre la salida y un espacio para caminar adentro.
 
-Y por si un día igual sale: su pulsera ComeHomeTag, para que quien lo encuentre llame a la familia al instante.
+Y por si un día igual sale: su pulsera ComeHomeTag, para que quien lo encuentre llame a la familia al instante. Guárdalo para este fin de semana.
 
 #alzheimer #demencia #cuidadores #hogar #peru
 ```

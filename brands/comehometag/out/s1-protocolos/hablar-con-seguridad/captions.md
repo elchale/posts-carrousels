@@ -1,6 +1,6 @@
 # ¿Se perdió tu hijo? Dile esto a seguridad.
 
-`comehometag` · `s1-protocolos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s1-protocolos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:

@@ -5,10 +5,15 @@ para las tres marcas: **ComeHomeTag**, **Qolca** y **Propaga**.
 
 ## Cómo publicar desde el celular
 
-Con **la app** — es la forma rápida. Elige el post, toca *Guardar 7 fotos* y el
+Con **la app** — es la forma rápida. Elige el post, toca *Guardar N fotos* y el
 menú de iOS las manda a Fotos; copia el caption de al lado, y márcalo como
 publicado para que no te lo vuelva a ofrecer. Guía completa e instrucciones de
 despliegue en **[`WEB.md`](WEB.md)**.
+
+**Qué publicar primero:** el orden está en **[`ORDEN.md`](ORDEN.md)**, de más a
+menos forma-de-guardado. El porqué —la autopsia del primer carrusel que la gente
+guardó y las reglas que salieron de ahí— está en
+**[`GUARDADOS.md`](GUARDADOS.md)**.
 
 ```bash
 cd carousels && npm install && npm run dev     # http://localhost:3000
@@ -35,7 +40,10 @@ brands/
     plates_graded/  fondos graduados a la paleta real de cada marca
     out/         LO QUE SE PUBLICA: <serie>/<post>/{ig,tt,captions.md}
 tools/           grade.py (color) · render.py (láminas) · shots.py · captions_md.py
+                 guardados.py (puntúa la forma-de-guardado -> ORDEN.md)
 app/ scripts/    la app web (Next.js) — ver WEB.md
+GUARDADOS.md     por qué se guarda un carrusel y cómo se escribe uno así
+ORDEN.md         orden de publicación sugerido (generado por guardados.py)
 COLORES.md       el sistema de color de las 3 marcas (teoría aplicada)
 PLAN-180.md      la estrategia completa y el porqué de cada serie
 STRATEGY.md      la investigación base (algoritmos, formatos, virality)
@@ -49,6 +57,7 @@ python tools/grade.py        # re-gradúa fondos a paleta
 python tools/shots.py        # recorta las capturas de Propaga (--sheet para revisarlas)
 python tools/render.py       # re-renderiza todas las láminas
 python tools/captions_md.py  # regenera captions.md
+python tools/guardados.py    # re-puntúa los 181 posts y reescribe ORDEN.md
 npm run prepare-assets       # que la app vea las láminas nuevas
 ```
 
@@ -58,7 +67,9 @@ El contenido es texto: editar un post = editar su JSON en `posts/` y re-renderiz
 
 Cada carrusel lleva el logo de su marca en **dos láminas**: la portada (junto al
 dominio, abajo) y el cierre (arriba del titular). En las demás no aparece —
-repetirlo en las ocho lo vuelve ruido.
+repetirlo en las ocho lo vuelve ruido. La excepción es la lámina **PARA GUARDAR**
+(`role: "recap"`, ver [`GUARDADOS.md`](GUARDADOS.md)): esa es la que la gente
+captura y reenvía suelta, así que también lleva el logo y el dominio abajo.
 
 Los tres son los que cada marca sirve en su propio sitio, bajados de ahí:
 

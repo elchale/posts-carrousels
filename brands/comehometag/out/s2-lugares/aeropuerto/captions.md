@@ -1,6 +1,6 @@
 # En el aeropuerto una familia se separa fácil.
 
-`comehometag` · `s2-lugares` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s2-lugares` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Viajar en familia por el aeropuerto: colas, maletas y apuro separan familias en segundos.
 
-El plan: un adulto cuida a UNA persona por tramo ("en migraciones, Pedro va con la abuela") y el punto de encuentro es el counter de tu aerolínea — la puerta de embarque cambia. Niños y abuelos con su pulsera QR de ComeHomeTag: quien los encuentre llama a la familia al instante.
+El plan: un adulto cuida a UNA persona por tramo ("en migraciones, Pedro va con la abuela") y el punto de encuentro es el counter de tu aerolínea — la puerta de embarque cambia. Niños y abuelos con su pulsera QR de ComeHomeTag: quien los encuentre llama a la familia al instante. Guárdalo para tu próximo viaje en familia.
 
 #viajeconniños #aeropuerto #familia #peru
 ```

@@ -1,6 +1,6 @@
 # ¿GPS para tu abuelo? Lee esto primero.
 
-`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 ¿GPS para un abuelo con Alzheimer?
 
-La letra chica: hay que cargarlo cada noche en la casa de una persona que olvida, cuesta S/45-65 al mes para siempre, y cuando un vecino lo encuentra desorientado, el GPS no le dice nada al vecino. La pulsera ComeHomeTag sí: escanea el QR y llama a la familia al instante — sin batería, sin mensualidad.
+La letra chica: hay que cargarlo cada noche en la casa de una persona que olvida, cuesta S/45-65 al mes para siempre, y cuando un vecino lo encuentra desorientado, el GPS no le dice nada al vecino. La pulsera ComeHomeTag sí: escanea el QR y llama a la familia al instante — sin batería, sin mensualidad. Guárdalo para antes de comprar cualquier aparato.
 
 #alzheimer #gps #cuidadores #adultomayor #peru
 ```

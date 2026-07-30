@@ -1,6 +1,6 @@
 # Cómo calmar a un abuelo desorientado.
 
-`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Cómo hablarle a un adulto mayor con Alzheimer desorientado: regalar la respuesta ("soy Carlos, tu hijo") en vez de examinar ("¿sabes quién soy?"), y acompañar en vez de corregir.
 
-Y para el día que salga solo, su pulsera ComeHomeTag: quien lo encuentre escanea y llama a la familia al instante. Imprime las frases en la refri.
+Y para el día que salga solo, su pulsera ComeHomeTag: quien lo encuentre escanea y llama a la familia al instante. Imprime las frases en la refri. Guárdalo para tenerlo a mano el día que pase.
 
 #alzheimer #demencia #cuidadores #comunicacion #peru
 ```

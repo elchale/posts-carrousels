@@ -1,6 +1,6 @@
 # 200,000 peruanos tienen Alzheimer. Pocos tienen plan.
 
-`comehometag` · `s3-datos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Más de 200,000 peruanos viven con Alzheimer (MINSA) y 6 de cada 10 personas con demencia se extraviarán al menos una vez (alz.org) — por eso existe la pulsera QR de ComeHomeTag: quien lo encuentra escanea y llama a la familia al instante.
 
-El plan: buscar en su pasado, identificación puesta y barrio avisado. Comparte con quien cuida.
+El plan: buscar en su pasado, identificación puesta y barrio avisado. Comparte con quien cuida. Guárdalo para armar el plan este fin de semana.
 
 #alzheimer #cuidadores #adultomayor #peru
 ```

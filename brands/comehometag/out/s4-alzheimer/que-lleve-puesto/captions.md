@@ -1,6 +1,6 @@
 # Lo que tu abuelo debe llevar puesto siempre.
 
-`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Lo que un adulto mayor con Alzheimer debe llevar PUESTO siempre: el aviso de su condición, su nombre de siempre y el número de la familia en el cuerpo — porque la billetera se queda en casa justo el día que importa.
 
-La pulsera ComeHomeTag cubre lo esencial: quien lo encuentre escanea el QR y llama a la familia al instante.
+La pulsera ComeHomeTag cubre lo esencial: quien lo encuentre escanea el QR y llama a la familia al instante. Guárdalo para revisar hoy qué lleva puesto.
 
 #alzheimer #adultomayor #cuidadores #peru
 ```

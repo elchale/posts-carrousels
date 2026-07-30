@@ -1,12 +1,12 @@
-# 5 mentiras sobre desapariciones que todos creemos.
+# 4 mentiras sobre desapariciones que todos creemos.
 
-`comehometag` · `s3-datos` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s3-datos` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
 
 ```text
-5 mitos sobre desapariciones que hay que dejar de creer 💜 y la pulsera ComeHomeTag como plan real.
+4 mitos sobre desapariciones que hay que dejar de creer 💜 y la pulsera ComeHomeTag como plan real.
 #mitos #sabiasque #peru
 ```
 
@@ -14,9 +14,9 @@ Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no ha
 Fotos de `ig/` (4:5) · copia el caption:
 
 ```text
-5 mitos sobre desapariciones que hay que dejar de creer — empezando por el de las 24 horas: en el Perú la denuncia es INMEDIATA, siempre.
+4 mitos sobre desapariciones que hay que dejar de creer — empezando por el de las 24 horas: en el Perú la denuncia es INMEDIATA, siempre.
 
-Y no, no le pasa solo a "familias descuidadas": le pasa a familias normales en sábados normales. Por eso el plan incluye la pulsera QR de ComeHomeTag: sin batería, sin app, quien lo encuentra te llama al instante.
+Y no, no le pasa solo a "familias descuidadas": le pasa a familias normales en sábados normales. Por eso el plan incluye la pulsera QR de ComeHomeTag: sin batería, sin app, quien lo encuentra te llama al instante. Guárdalo para la próxima vez que escuches alguna de las cuatro.
 
 #mitos #seguridadfamiliar #peru #prevencion
 ```
@@ -24,7 +24,7 @@ Y no, no le pasa solo a "familias descuidadas": le pasa a familias normales en s
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-Cinco mitos sobre desapariciones desmentidos y la pulsera QR de ComeHomeTag como plan real.
+Cuatro mitos sobre desapariciones desmentidos y la pulsera QR de ComeHomeTag como plan real.
 ```
 
 ## 👥 Facebook

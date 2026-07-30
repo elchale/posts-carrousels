@@ -35,6 +35,9 @@
           "b": "Listas guardables, contenido para tu cliente exacto y colaboraciones con cuentas de tu tamaño. Tiempo realista: 4 a 8 meses con 3 posts por semana. El que promete 1,000 en 30 días vende bots."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "shot": "shot-bandeja.png",
           "h": "Los primeros mil traen los primeros mensajes.",
@@ -86,6 +89,9 @@
           "role": "value",
           "h": "Lo que NO hacer en la primera hora",
           "b": "Editar el texto · borrar \"porque no arrancó\" · publicar otro post encima (compites contigo) · desaparecer."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",
@@ -251,6 +257,9 @@
           "b": "¿Alguien volvería a abrir esto en 2 semanas? Si no, es un post de consumo: válido para alcance, pero no esperes guardados. Cada post tiene su trabajo."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "shot": "shot-movil.png",
           "h": "Guardan hoy, escriben en dos semanas.",
@@ -302,6 +311,9 @@
           "role": "value",
           "h": "Reparte el esfuerzo",
           "b": "Tu mejor hora de diseño para el formato ganador; 20 minutos para los experimentos. Y repite este análisis cada mes: el patrón cambia con las temporadas."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",
@@ -357,6 +369,9 @@
           "b": "Compararte con cuentas grandes · llorar los likes · revisar a diario. El diario es ruido; la tendencia es mensual."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "shot": "shot-fuera.png",
           "h": "Cinco minutos, dos números.",
@@ -408,6 +423,9 @@
           "role": "value",
           "h": "Cómo proponerlo sin roche",
           "b": "DM directo: \"Tenemos público parecido y no competimos. ¿Hacemos un post juntos sobre [tema que sirve a ambos]?\" Casi todos dicen que sí."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",
@@ -466,6 +484,9 @@
           "b": "¿Por qué explotó? ¿El tema, la portada, el formato? Anótalo y repítelo. El pico pasa; la lección es permanente."
         },
         {
+          "role": "recap"
+        },
+        {
           "role": "stat",
           "shot": "shot-bandeja.png",
           "h": "Explotó el post. Explotó la bandeja.",
@@ -517,6 +538,9 @@
           "role": "value",
           "h": "Produce por lotes",
           "b": "Una sesión de 2 horas deja la semana lista y programada. Las historias sí son casi diarias — pero cuestan 2 minutos, no 2 horas."
+        },
+        {
+          "role": "recap"
         },
         {
           "role": "stat",

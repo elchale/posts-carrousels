@@ -1,6 +1,6 @@
 # Por qué un abuelo con Alzheimer sale solo.
 
-`comehometag` · `s4-alzheimer` · **7 láminas** — sube SIEMPRE en orden 01 → 07
+`comehometag` · `s4-alzheimer` · **8 láminas** — sube SIEMPRE en orden 01 → 08
 
 ## 🎵 TikTok
 Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
@@ -16,7 +16,7 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 Por qué un adulto mayor con Alzheimer sale solo de casa: en SU realidad está volviendo a casa — la de hace 40 años.
 
-Camina con decisión y no pide ayuda porque no se siente perdido. Por eso la pulsera ComeHomeTag va puesta siempre: quien lo encuentre escanea el QR y llama a la familia al instante.
+Camina con decisión y no pide ayuda porque no se siente perdido. Por eso la pulsera ComeHomeTag va puesta siempre: quien lo encuentre escanea el QR y llama a la familia al instante. Guárdalo para explicárselo al resto de la familia.
 
 #alzheimer #demencia #cuidadores #peru
 ```
