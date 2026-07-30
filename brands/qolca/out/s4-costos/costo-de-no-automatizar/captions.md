@@ -18,7 +18,7 @@ Hacerlo a mano también tiene precio.
 
 Nadie lo pone en el presupuesto.
 
-El cero no existe: hacerlo a mano también cuesta — en cuotas que nadie ve. Horas: (horas semanales del proceso) × 4.3 × (costo por hora de quien lo hace). Las ventas que nunca ocurrieron: interesados sin seguimiento, carritos sin recuperar, clientes sin reactivar.
+El cero no existe: hacerlo a mano también cuesta — en cuotas que nadie ve. Horas: las horas semanales que come el proceso, por las semanas del mes, por lo que vale la hora de quien lo hace. Las ventas que nunca ocurrieron: interesados sin seguimiento, carritos sin recuperar, clientes sin reactivar.
 
 Precios y plazos a la vista, para que compares con quien quieras.
 Qolca automatiza procesos de empresas peruanas — qolca.org

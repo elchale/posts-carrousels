@@ -19,7 +19,7 @@
         {
           "role": "value",
           "h": "No pregunta y no cierra",
-          "b": "\"El precio es S/120\" — fin. Un vendedor seguiría: \"¿para cuándo lo necesitas?\". Y toda conversación debe TERMINAR en algo: link de pago, cita agendada, datos para cotizar. Sin cierre, es un tour."
+          "b": "\"Ese es el precio\" — y punto. Un vendedor seguiría: \"¿para cuándo lo necesitas?\". Toda conversación debe TERMINAR en algo: enlace de pago, cita agendada, datos para cotizar. Sin cierre, es un tour."
         },
         {
           "role": "value",
@@ -43,7 +43,7 @@
         }
       ],
       "caption": {
-        "ig": "Tu chatbot responde de todo. No vende nada. Las 4 causas, todas arreglables.\n\n\"El precio es S/120\" — fin. \"Estimado usuario, su solicitud ha sido procesada\" — nadie le compra a eso: debe hablar como TU mejor vendedor. Es el arreglo más barato del embudo: el cliente YA estaba conversando contigo.\n\nSi reconociste alguno, ese es por donde empezar.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #errores #pymesperu #chatbot #negocios",
+        "ig": "Tu chatbot responde de todo. No vende nada. Las 4 causas, todas arreglables.\n\n\"Ese es el precio\" — y punto. \"Estimado usuario, su solicitud ha sido procesada\" — nadie le compra a eso: debe hablar como TU mejor vendedor. Es el arreglo más barato del embudo: el cliente YA estaba conversando contigo.\n\nSi reconociste alguno, ese es por donde empezar.\nQolca automatiza procesos de empresas peruanas — qolca.org\n\n#automatizacion #errores #pymesperu #chatbot #negocios",
         "tt": "Tu chatbot responde de todo. No vende nada. #automatizacion #errores #pymes",
         "fb": "Tu chatbot responde de todo. No vende nada. Es el arreglo más barato del embudo: el cliente YA estaba conversando contigo. ¿Cuál de estos te suena de tu propia empresa? En Qolca automatizamos procesos de empresas peruanas: qolca.org"
       },

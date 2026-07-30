@@ -16,9 +16,9 @@ Fotos de `ig/` (4:5) · copia el caption:
 ```text
 ¿Comprar un software o mandarlo a construir?
 
-El criterio honesto de quien construye.
+El criterio de quien construye.
 
-Aunque eso nos deje sin proyecto. Si tu proceso es estándar (agenda, facturación simple, correos), un software maduro de $20-100/mes es imbatible: no reinventes lo resuelto. Suscripción: costo × 12 × años, para siempre.
+Aunque eso nos deje sin proyecto. Agenda, facturación simple, correos: eso ya está resuelto y hay productos maduros. O cuando lo que necesitas es el PUENTE entre las herramientas que ya pagas y no se hablan entre ellas.
 
 Precios y plazos a la vista, para que compares con quien quieras.
 Qolca automatiza procesos de empresas peruanas — qolca.org
@@ -29,14 +29,14 @@ Qolca automatiza procesos de empresas peruanas — qolca.org
 **ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
 
 ```text
-¿Comprar un software o mandarlo a construir? El criterio honesto de quien construye. Carrusel de Qolca sobre automatización para empresas peruanas.
+¿Comprar un software o mandarlo a construir? El criterio de quien construye. Carrusel de Qolca sobre automatización para empresas peruanas.
 ```
 
 ## 👥 Facebook
 Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
 
 ```text
-¿Comprar un software o mandarlo a construir? Construir se justifica cuando el proceso es tuyo y raro, o cuando hay que conectar cosas que ningún producto conecta. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org
+¿Comprar un software o mandarlo a construir? Casi todas las empresas pagan suscripciones que usan a medias. ¿Te habían explicado esto antes de cotizarte? En Qolca automatizamos procesos de empresas peruanas: qolca.org
 ```
 
 ## 💼 LinkedIn

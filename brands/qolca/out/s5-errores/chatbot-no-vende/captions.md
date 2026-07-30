@@ -18,7 +18,7 @@ Tu chatbot responde de todo.
 
 No vende nada. Las 4 causas, todas arreglables.
 
-"El precio es S/120" — fin. "Estimado usuario, su solicitud ha sido procesada" — nadie le compra a eso: debe hablar como TU mejor vendedor. Es el arreglo más barato del embudo: el cliente YA estaba conversando contigo.
+"Ese es el precio" — y punto. "Estimado usuario, su solicitud ha sido procesada" — nadie le compra a eso: debe hablar como TU mejor vendedor. Es el arreglo más barato del embudo: el cliente YA estaba conversando contigo.
 
 Si reconociste alguno, ese es por donde empezar.
 Qolca automatiza procesos de empresas peruanas — qolca.org
