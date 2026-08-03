@@ -21,7 +21,7 @@
     {
      "role": "value",
      "h": "Septiembre es el mes de alistarse",
-     "b": "RNP vigente, experiencia ordenada y el hábito de mirar convocatorias. El que arma su carpeta este mes llega al cierre del año listo para postular en 48 horas."
+     "b": "· RNP vigente\n· Experiencia ordenada\n· Convocatorias miradas cada semana\nEl que arma su carpeta este mes postula en 48 horas."
     },
     {
      "role": "value",
@@ -29,12 +29,10 @@
      "b": "Busca procesos de lo que ya vendes y en tu región. Diez minutos, dos veces por semana. El resto del ruido no es tuyo."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Más de 200 mil procesos viven en los datos abiertos",
-     "b": "Radar Estatal (radarestatal.pe) los vigila por ti: feed gratis del SEACE, la IA te dice cuáles le convienen a tu empresa, e investigas contra quién compites. Sin buscar nada."
+     "b": "Radar Estatal (radarestatal.pe) los vigila por ti: feed gratis del SEACE, la IA te dice cuáles le convienen a tu empresa, e investigas contra quién compites. Sin buscar nada.",
+     "shot": "shot-datos.png"
     },
     {
      "role": "cta",
@@ -43,7 +41,7 @@
     }
    ],
    "caption": {
-    "ig": "Quedan 4 meses de compras del Estado este año — y el último trimestre es el que más convoca. Qué alistar en septiembre: RNP vigente, experiencia ordenada, y el hábito de mirar tu rubro 10 minutos, dos veces por semana. #licitaciones #seace #mype #peru #estado",
+    "ig": "Quedan 4 meses de compras del Estado este año. Y el último trimestre es el que más convoca. Qué alistar en septiembre: RNP vigente, experiencia ordenada, y el hábito de mirar tu rubro 10 minutos, dos veces por semana. #licitaciones #seace #mype #peru #estado",
     "tt": "Quedan 4 meses de compras del Estado ⏳ ¿tu empresa está lista? #licitaciones #seace #mype #peru",
     "fb": "El año del Estado termina en diciembre y lo que no ejecuta, lo pierde. Por eso el último trimestre convoca más que nunca. ¿Tu empresa llega con la carpeta lista o empezando a averiguar? En radarestatal.pe el feed del SEACE es gratis."
    },
@@ -67,12 +65,12 @@
     {
      "role": "value",
      "h": "Los 4 campos que deciden si sigues",
-     "b": "Objeto: ¿es exactamente lo tuyo? Valor: ¿es de tu tamaño? Cronograma: ¿llegas con calidad? Entidad: ¿puedes atender ahí? Un no honesto te ahorra la semana."
+     "b": "· Objeto: ¿es exactamente lo tuyo?\n· Valor: ¿es de tu tamaño?\n· Cronograma: ¿llegas con calidad?\n· Entidad: ¿puedes atender ahí?"
     },
     {
      "role": "value",
      "h": "El estado del proceso es la palabra clave",
-     "b": "Convocado: puedes entrar. En evaluación o adjudicado: llegaste tarde, aprende del expediente. Desierto: apunta — ese vuelve, y con menos competencia."
+     "b": "· Convocado: puedes entrar\n· En evaluación o adjudicado: aprende del expediente\n· Desierto: apunta, ese vuelve con menos competencia"
     },
     {
      "role": "recap"
@@ -118,15 +116,13 @@
     {
      "role": "value",
      "h": "A veces el monto va reservado",
-     "b": "Según el tipo de proceso, el valor puede no publicarse — la ficha lo indica. Ahí gana el que conoce sus costos de verdad, no el que copia números ajenos."
-    },
-    {
-     "role": "recap"
+     "b": "Según el tipo de proceso, el valor puede no publicarse. La ficha lo indica. Ahí gana el que conoce sus costos de verdad, no el que copia números ajenos."
     },
     {
      "role": "stat",
      "h": "El dato correcto en el momento correcto",
-     "b": "Radar Estatal (radarestatal.pe) te muestra los procesos de tu rubro con su valor y su cronograma, gratis y sin buscar. La IA te sugiere en cuáles tienes cancha real."
+     "b": "Radar Estatal (radarestatal.pe) te muestra los procesos de tu rubro con su valor y su cronograma, gratis y sin buscar. La IA te sugiere en cuáles tienes cancha real.",
+     "shot": "shot-feed.png"
     },
     {
      "role": "cta",
@@ -135,7 +131,7 @@
     }
    ],
    "caption": {
-    "ig": "El valor estimado de una licitación es el presupuesto que la entidad calculó — y tu primer filtro: lejos de tu costo, no inviertas la semana; cómodo, hay partido. #licitaciones #seace #valorestimado #mype #peru",
+    "ig": "El valor estimado de una licitación es el presupuesto que la entidad calculó. Y tu primer filtro: lejos de tu costo, no inviertas la semana; cómodo, hay partido. #licitaciones #seace #valorestimado #mype #peru",
     "tt": "El Estado te dice cuánto piensa pagar 💰 aprende a leer ese número #seace #licitaciones #peru",
     "fb": "¿Sabías que el presupuesto de una licitación suele estar publicado en su ficha? Es tu primer filtro para no perder semanas en procesos que no son de tu tamaño. ¿Lo revisas antes de postular?"
    },
@@ -207,7 +203,7 @@
     {
      "role": "value",
      "h": "La experiencia solo se gana ejecutando",
-     "b": "El requisito que más descalifica es experiencia acreditable — y solo se acumula postulando y cumpliendo. Cada año de espera es un año de currículum que regalas."
+     "b": "El requisito que más descalifica es experiencia acreditable. Y solo se acumula postulando y cumpliendo. Cada año de espera es un año de currículum que regalas."
     },
     {
      "role": "recap"
@@ -215,7 +211,8 @@
     {
      "role": "stat",
      "h": "Que esperar no sea tu estrategia",
-     "b": "Radar Estatal (radarestatal.pe) te trae gratis los procesos de tu rubro y la IA te dice cuáles calzan con tu empresa hoy — no con la que sueñas tener."
+     "b": "Radar Estatal (radarestatal.pe) te trae gratis los procesos de tu rubro y la IA te dice cuáles calzan con tu empresa hoy. No con la que sueñas tener.",
+     "shot": "shot-herramientas.png"
     },
     {
      "role": "cta",
@@ -256,9 +253,6 @@
      "b": "Cada pregunta la hizo alguien interesado. El tipo de duda te dice quién está adentro y por dónde piensa armar su oferta."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "La información pública gana licitaciones",
      "b": "Radar Estatal (radarestatal.pe) vive de eso: más de 200 mil procesos en datos abiertos, tu rubro filtrado gratis, y la inteligencia de competidores que casi nadie sabe leer."
@@ -289,7 +283,7 @@
     {
      "role": "value",
      "h": "Una observación no es un adiós",
-     "b": "Las formalidades — una firma, una vigencia vencida, un documento poco legible — suelen poder corregirse dentro del plazo que te den. Se llama subsanación."
+     "b": "Las formalidades (una firma, una vigencia vencida, un documento poco legible) suelen poder corregirse dentro del plazo que te den. Se llama subsanación."
     },
     {
      "role": "value",
@@ -299,7 +293,7 @@
     {
      "role": "value",
      "h": "Responde el mismo día",
-     "b": "El plazo corre en días contados y cortos. Regla práctica: observación recibida, observación respondida antes de dormir — y verifica en tus bases qué es subsanable en tu proceso."
+     "b": "El plazo corre en días contados y cortos. Regla práctica: observación recibida, observación respondida antes de dormir. Y verifica en tus bases qué es subsanable en tu proceso."
     },
     {
      "role": "recap"
@@ -307,7 +301,8 @@
     {
      "role": "stat",
      "h": "Menos sustos con información a tiempo",
-     "b": "Radar Estatal (radarestatal.pe) te acerca gratis los procesos de tu rubro con su cronograma claro, y la IA te ayuda a elegir los que puedes trabajar sin correr."
+     "b": "Radar Estatal (radarestatal.pe) te acerca gratis los procesos de tu rubro con su cronograma claro, y la IA te ayuda a elegir los que puedes trabajar sin correr.",
+     "shot": "shot-datos.png"
     },
     {
      "role": "cta",
@@ -318,7 +313,7 @@
    "caption": {
     "ig": "Te observaron la oferta en una licitación: calma. Las formalidades suelen subsanarse en plazo (firmas, vigencias, legibilidad); el precio y el fondo, no. Regla: responde el mismo día. #licitaciones #seace #subsanacion #mype #peru",
     "tt": "Te observaron la oferta, no te eliminaron 🩹 así funciona subsanar #licitaciones #seace #peru",
-    "fb": "Muchos abandonan una licitación al recibir una observación — sin saber que las formalidades suelen poder corregirse en plazo. Lo que no se corrige: el precio y el fondo. ¿Sabías que subsanar existe?"
+    "fb": "Muchos abandonan una licitación al recibir una observación. Sin saber que las formalidades suelen poder corregirse en plazo. Lo que no se corrige: el precio y el fondo. ¿Sabías que subsanar existe?"
    },
    "alt": "Portada clara con el titular: te observaron la oferta, no te eliminaron."
   },
@@ -345,7 +340,7 @@
     {
      "role": "value",
      "h": "La lección: elige socio que sume",
-     "b": "Si te falta experiencia o capacidad, un consorcio la completa. Busca un socio con historial fuerte exactamente donde tú flojeas — así arman las duplas que ganan."
+     "b": "Si te falta experiencia o capacidad, un consorcio la completa. Busca un socio con historial fuerte exactamente donde tú flojeas. Así arman las duplas que ganan."
     },
     {
      "role": "recap"
@@ -386,7 +381,7 @@
     {
      "role": "value",
      "h": "Lo que sí necesitas no es un contacto",
-     "b": "RNP vigente, una oferta que cumple lo que piden las bases y puntualidad de cronograma. Aburrido, sí. Público y replicable, también."
+     "b": "· RNP vigente\n· Oferta que cumple las bases\n· Puntualidad de cronograma\nAburrido, sí. Público y replicable, también."
     },
     {
      "role": "value",
@@ -394,12 +389,10 @@
      "b": "Cada 'para qué postulo, ya está arreglado' es un rival menos en mesa. Hay procesos que quedan desiertos exactamente por eso."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "La transparencia es tu mejor padrino",
-     "b": "Radar Estatal (radarestatal.pe) trabaja solo con datos abiertos del OECE: procesos, ganadores y entidades a la vista. Feed gratis, sin cuenta, sin contactos."
+     "b": "Radar Estatal (radarestatal.pe) trabaja solo con datos abiertos del OECE: procesos, ganadores y entidades a la vista. Feed gratis, sin cuenta, sin contactos.",
+     "shot": "shot-feed.png"
     },
     {
      "role": "cta",
@@ -408,7 +401,7 @@
     }
    ],
    "caption": {
-    "ig": "El mito favorito del nicho: 'sin contactos no le vendes al Estado'. Los datos abiertos muestran lo contrario cada año — y mientras el cinismo descansa, hay procesos que quedan desiertos. #licitaciones #seace #mype #peru #estado",
+    "ig": "El mito favorito del nicho: 'sin contactos no le vendes al Estado'. Los datos abiertos muestran lo contrario cada año. Y mientras el cinismo descansa, hay procesos que quedan desiertos. #licitaciones #seace #mype #peru #estado",
     "tt": "¿Sin padrinos no le vendes al Estado? 🤥 la data dice otra cosa #licitaciones #peru",
     "fb": "El 'ya está arreglado' es el mejor aliado de tu competencia: cada empresa que no postula por cinismo es un rival menos. Y hay procesos que se quedan sin ningún postor. ¿Y si el padrino fuera la información pública?"
    },
@@ -427,7 +420,7 @@
     {
      "role": "value",
      "h": "Al Estado no le importan tus años",
-     "b": "Le importan tus contratos cumplidos. La experiencia acreditable se demuestra con documentos: contratos, órdenes y conformidades — no con antigüedad de RUC."
+     "b": "Le importan tus contratos cumplidos. La experiencia acreditable se demuestra con documentos: contratos, órdenes y conformidades. No con antigüedad de RUC."
     },
     {
      "role": "value",
@@ -437,10 +430,7 @@
     {
      "role": "value",
      "h": "Cada conformidad abre una puerta",
-     "b": "El requisito que hoy no cumples — experiencia en el rubro — es exactamente lo que una compra chica bien ejecutada te da. Es un ascensor, no un premio consuelo."
-    },
-    {
-     "role": "recap"
+     "b": "El requisito que hoy no cumples. Experiencia en el rubro. Es exactamente lo que una compra chica bien ejecutada te da. Es un ascensor, no un premio consuelo."
     },
     {
      "role": "stat",
@@ -454,7 +444,7 @@
     }
    ],
    "caption": {
-    "ig": "La experiencia acreditable no se gana con años sino con contratos cumplidos — y las compras menores (hasta 8 UIT) son el gimnasio perfecto: poca competencia, ejecución rápida, tu primera conformidad. #licitaciones #seace #mype #8uit #peru",
+    "ig": "La experiencia acreditable no se gana con años sino con contratos cumplidos. Y las compras menores (hasta 8 UIT) son el gimnasio perfecto: poca competencia, ejecución rápida, tu primera conformidad. #licitaciones #seace #mype #8uit #peru",
     "tt": "La compra chica de hoy es tu currículum 📈 #licitaciones #seace #mype #peru",
     "fb": "¿Cómo cumples el requisito de experiencia si nunca has vendido al Estado? Con compras chicas: poca competencia, decisión rápida, y cada conformidad es un documento que mañana te abre procesos más grandes."
    },
@@ -474,7 +464,7 @@
     {
      "role": "value",
      "h": "La maldición real del proveedor",
-     "b": "No es brujería: es postular una vez, perder, y guardar el RNP en el cajón para siempre. La mayoría no vuelve — y ahí muere su currículum estatal."
+     "b": "No es brujería: es postular una vez, perder, y guardar el RNP en el cajón para siempre. La mayoría no vuelve. Y ahí muere su currículum estatal."
     },
     {
      "role": "value",
@@ -487,12 +477,10 @@
      "b": "Pide o revisa la evaluación de tu oferta perdida: qué puntaje sacaste y dónde. Corrige exactamente eso y vuelve. Las maldiciones se rompen con método."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Volver es más fácil acompañado",
-     "b": "Radar Estatal (radarestatal.pe) te trae gratis los procesos de tu rubro y la IA señala los que calzan con tu empresa. La revancha se elige mejor con datos."
+     "b": "Radar Estatal (radarestatal.pe) te trae gratis los procesos de tu rubro y la IA señala los que calzan con tu empresa. La revancha se elige mejor con datos.",
+     "shot": "shot-herramientas.png"
     },
     {
      "role": "cta",
@@ -501,9 +489,9 @@
     }
    ],
    "caption": {
-    "ig": "La maldición del proveedor del Estado: postular una vez, perder y no volver nunca. La segunda postulación cuesta la mitad — bases leídas, formatos listos, errores mapeados. El contrahechizo: revisar tu evaluación y corregir exactamente eso. #licitaciones #seace #mype #peru",
+    "ig": "La maldición del proveedor del Estado: postular una vez, perder y no volver nunca. La segunda postulación cuesta la mitad. Bases leídas, formatos listos, errores mapeados. El contrahechizo: revisar tu evaluación y corregir exactamente eso. #licitaciones #seace #mype #peru",
     "tt": "¿Tu empresa está maldita con el Estado? 🔮 la maldición se rompe con método #licitaciones #peru",
-    "fb": "Esta semana vuelven las brujas al cine — y nos acordamos de la maldición más real del nicho: perder una licitación y no volver a postular jamás. Justo cuando ya pagaste el derecho de piso. ¿Tu empresa postuló alguna vez y se retiró?"
+    "fb": "Esta semana vuelven las brujas al cine. Y nos acordamos de la maldición más real del nicho: perder una licitación y no volver a postular jamás. Justo cuando ya pagaste el derecho de piso. ¿Tu empresa postuló alguna vez y se retiró?"
    },
    "alt": "Oficina nocturna con el titular: tu empresa está maldita con el Estado, entre signos de pregunta."
   },
@@ -534,9 +522,6 @@
      "b": "Con ese estudio eliges dónde pelear y dónde no, qué precio aguanta el asalto y qué experiencia necesitas acreditar para el siguiente combate."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Tu esquina también existe",
      "b": "Radar Estatal (radarestatal.pe) estudia los videos por ti: historial de ganadores por RUC, entidades y resultados en más de 200 mil procesos de datos abiertos. Feed gratis."
@@ -550,7 +535,7 @@
    "caption": {
     "ig": "Canelo no pelea sin estudiar los videos del rival. En licitaciones el video existe y es público: las adjudicaciones de tu rubro te dicen quién gana, ante qué entidad y cómo. Estúdialas antes de postular. #licitaciones #seace #canelo #mype #peru",
     "tt": "Canelo estudia a su rival, tú postulas a ciegas 🥊 #licitaciones #seace #peru #canelo",
-    "fb": "Este sábado pelea Canelo — y él jamás sube al ring sin estudiar al rival. ¿Tú postulas al Estado sin mirar quién viene ganando en tu rubro? Los 'videos' son públicos: adjudicaciones, entidades y ganadores."
+    "fb": "Este sábado pelea Canelo. Y él jamás sube al ring sin estudiar al rival. ¿Tú postulas al Estado sin mirar quién viene ganando en tu rubro? Los 'videos' son públicos: adjudicaciones, entidades y ganadores."
    },
    "alt": "Canelo Álvarez con el titular: Canelo estudia a su rival, tú postulas a ciegas."
   },
@@ -585,7 +570,8 @@
     {
      "role": "stat",
      "h": "Vender bien empieza por elegir bien",
-     "b": "Radar Estatal (radarestatal.pe) te muestra gratis qué entidades convocan en tu rubro — y su historial de procesos. Elige a quién venderle con datos, no con fe."
+     "b": "Radar Estatal (radarestatal.pe) te muestra gratis qué entidades convocan en tu rubro. Y su historial de procesos. Elige a quién venderle con datos, no con fe.",
+     "shot": "shot-datos.png"
     },
     {
      "role": "cta",
@@ -618,7 +604,7 @@
     {
      "role": "value",
      "h": "Qué hacer en la ventana",
-     "b": "No celebrar comprando: prepara los documentos del contrato — garantías, poderes, cuenta interbancaria. El día que te llamen, tú ya estás listo."
+     "b": "No celebrar comprando: prepara los documentos del contrato. Garantías, poderes, cuenta interbancaria. El día que te llamen, tú ya estás listo."
     },
     {
      "role": "value",
@@ -631,7 +617,7 @@
     {
      "role": "stat",
      "h": "Del anuncio al contrato hay camino",
-     "b": "Radar Estatal (radarestatal.pe) te acompaña desde antes: feed gratis de procesos de tu rubro y el historial de cómo terminaron los anteriores — consentidos, apelados o desiertos."
+     "b": "Radar Estatal (radarestatal.pe) te acompaña desde antes: feed gratis de procesos de tu rubro y el historial de cómo terminaron los anteriores. Consentidos, apelados o desiertos."
     },
     {
      "role": "cta",
@@ -640,9 +626,9 @@
     }
    ],
    "caption": {
-    "ig": "Te dieron la buena pro: todavía no ganaste. Corre una ventana de apelaciones antes de que quede consentida — úsala para alistar garantías, poderes y cuenta, no para celebrar comprando. #licitaciones #buenapro #seace #mype #peru",
+    "ig": "Te dieron la buena pro: todavía no ganaste. Corre una ventana de apelaciones antes de que quede consentida. Úsala para alistar garantías, poderes y cuenta, no para celebrar comprando. #licitaciones #buenapro #seace #mype #peru",
     "tt": "Ganaste, pero todavía no ganaste 😬 la buena pro tiene cuenta regresiva #licitaciones #peru",
-    "fb": "Error clásico: celebrar la buena pro como contrato firmado. Entre el anuncio y el consentimiento hay una ventana de apelaciones — y una lista de documentos que preparar. ¿Sabías que ganar no es ganar todavía?"
+    "fb": "Error clásico: celebrar la buena pro como contrato firmado. Entre el anuncio y el consentimiento hay una ventana de apelaciones. Y una lista de documentos que preparar. ¿Sabías que ganar no es ganar todavía?"
    },
    "alt": "Portada clara con el titular: ganaste, pero todavía no ganaste."
   },
@@ -664,7 +650,7 @@
     {
      "role": "value",
      "h": "Revisa tu propia huella cada mes",
-     "b": "RNP vigente y sin sorpresas, información societaria al día, historial limpio. Encontrar tu propio error antes que un rival lo use es inteligencia básica."
+     "b": "· RNP vigente y sin sorpresas\n· Información societaria al día\n· Historial limpio\nEncuentra tu error antes que un rival lo use."
     },
     {
      "role": "value",
@@ -672,12 +658,10 @@
      "b": "Cada contrato cumplido y cada conformidad son argumentos que nadie te puede discutir. El expediente ordenado vende antes de que abras la boca."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Mírate como te miran",
-     "b": "En Radar Estatal (radarestatal.pe) puedes buscar cualquier RUC — incluido el tuyo — y ver su historia con el Estado. Feed gratis y espejo incluido."
+     "b": "En Radar Estatal (radarestatal.pe) puedes buscar cualquier RUC. Incluido el tuyo. Y ver su historia con el Estado. Feed gratis y espejo incluido.",
+     "shot": "shot-feed.png"
     },
     {
      "role": "cta",
@@ -705,12 +689,12 @@
     {
      "role": "value",
      "h": "Una licitación se pierde en 3 etapas",
-     "b": "Admisión: tus documentos entran o no entran. Evaluación: tu oferta puntúa contra la tabla. Definición: el precio y los factores deciden. Cada etapa mata ofertas."
+     "b": "· Admisión: tus documentos entran o no\n· Evaluación: tu oferta puntúa contra la tabla\n· Definición: precio y factores deciden\nCada etapa mata ofertas."
     },
     {
      "role": "value",
      "h": "La muerte más barata de evitar",
-     "b": "La mayoría cae en admisión por formalidades: foliación, firmas, vigencias, documentos ilegibles. Duele el doble porque no perdiste por calidad — perdiste por papeles."
+     "b": "La mayoría cae en admisión por formalidades: foliación, firmas, vigencias, documentos ilegibles. Duele el doble porque no perdiste por calidad. Perdiste por papeles."
     },
     {
      "role": "value",
@@ -732,9 +716,9 @@
     }
    ],
    "caption": {
-    "ig": "Hoy se anuncian nominaciones al Latin Grammy — y nominado no es ganador. En licitaciones igual: admisión, evaluación y definición son 3 etapas distintas, y la mayoría muere en la primera por formalidades. #licitaciones #seace #mype #peru",
+    "ig": "Hoy se anuncian nominaciones al Latin Grammy. Y nominado no es ganador. En licitaciones igual: admisión, evaluación y definición son 3 etapas distintas, y la mayoría muere en la primera por formalidades. #licitaciones #seace #mype #peru",
     "tt": "Estar nominado no es llevarse el Grammy 🏆 en el SEACE tampoco #licitaciones #peru",
-    "fb": "Pasar la admisión de una licitación se siente como estar nominado: bonito, pero nadie te dio nada todavía. Las 3 etapas donde se pierde — y por qué la primera es la más barata de evitar."
+    "fb": "Pasar la admisión de una licitación se siente como estar nominado: bonito, pero nadie te dio nada todavía. Las 3 etapas donde se pierde. Y por qué la primera es la más barata de evitar."
    },
    "alt": "Portada clara con el titular: estar nominado no es llevarse el Grammy."
   },
@@ -756,7 +740,7 @@
     {
      "role": "value",
      "h": "Tiene reglas estrictas",
-     "b": "Plazos cortos desde el otorgamiento y una vía que depende del proceso — tus bases indican dónde y cuándo. Fuera de plazo no existe reclamo."
+     "b": "Plazos cortos desde el otorgamiento y una vía que depende del proceso. Tus bases indican dónde y cuándo. Fuera de plazo no existe reclamo."
     },
     {
      "role": "value",
@@ -769,7 +753,8 @@
     {
      "role": "stat",
      "h": "Perder informado duele menos",
-     "b": "Radar Estatal (radarestatal.pe) te deja ver cómo terminaron los procesos de tu rubro: adjudicados, apelados o desiertos. Contexto gratis para decidir tu siguiente paso."
+     "b": "Radar Estatal (radarestatal.pe) te deja ver cómo terminaron los procesos de tu rubro: adjudicados, apelados o desiertos. Contexto gratis para decidir tu siguiente paso.",
+     "shot": "shot-herramientas.png"
     },
     {
      "role": "cta",
@@ -825,7 +810,7 @@
     }
    ],
    "caption": {
-    "ig": "Las ofertas ganadoras dejan rastro público: experiencia presentada, consorcios, plazos. Toma el patrón de 3 ganadores de tu rubro y arma tu expediente modelo — copiando lo que funciona y mejorando donde flojean. #licitaciones #seace #mype #peru",
+    "ig": "Las ofertas ganadoras dejan rastro público: experiencia presentada, consorcios, plazos. Toma el patrón de 3 ganadores de tu rubro y arma tu expediente modelo. Copiando lo que funciona y mejorando donde flojean. #licitaciones #seace #mype #peru",
     "tt": "Copia la tarea del que ya ganó 📝 en el SEACE es legal #licitaciones #seace #peru",
     "fb": "En el colegio copiar la tarea estaba mal. En licitaciones, el expediente del ganador es público: úsalo como molde y mejóralo. ¿Ya estudiaste a los que ganan en tu rubro?"
    },
@@ -857,12 +842,10 @@
      "b": "Estudia 2 o 3 procesos terminados de tu rubro y entenderás el juego real mejor que con cualquier seminario pagado. Es la práctica de otros, gratis."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "La historia de tu rubro, ordenada",
-     "b": "Radar Estatal (radarestatal.pe) organiza más de 200 mil procesos de datos abiertos para que estudiar expedientes tome minutos, no tardes. Feed gratis."
+     "b": "Radar Estatal (radarestatal.pe) organiza más de 200 mil procesos de datos abiertos para que estudiar expedientes tome minutos, no tardes. Feed gratis.",
+     "shot": "shot-datos.png"
     },
     {
      "role": "cta",
@@ -871,7 +854,7 @@
     }
    ],
    "caption": {
-    "ig": "Cada licitación deja expediente público: bases, consultas, actas, evaluación y buena pro. Estudiar 2 o 3 procesos terminados de tu rubro enseña más que un curso — es la práctica de otros, gratis. #licitaciones #seace #expediente #mype #peru",
+    "ig": "Cada licitación deja expediente público: bases, consultas, actas, evaluación y buena pro. Estudiar 2 o 3 procesos terminados de tu rubro enseña más que un curso. Es la práctica de otros, gratis. #licitaciones #seace #expediente #mype #peru",
     "tt": "Cada proceso deja expediente y es público 🗂 #licitaciones #seace #peru",
     "fb": "¿Quieres aprender a licitar de verdad? No empieces por un curso: abre el expediente de un proceso terminado de tu rubro. Las actas te muestran quién postuló, qué puntaje sacó y por qué ganó."
    },
@@ -901,10 +884,7 @@
     {
      "role": "value",
      "h": "Perdió la primera por foliación",
-     "b": "Papeles mal ordenados. La segunda fue con el expediente corregido — y la conformidad de esa entrega es hoy el requisito que le abre procesos más grandes."
-    },
-    {
-     "role": "recap"
+     "b": "Papeles mal ordenados. La segunda fue con el expediente corregido. Y la conformidad de esa entrega es hoy el requisito que le abre procesos más grandes."
     },
     {
      "role": "stat",
@@ -918,9 +898,9 @@
     }
    ],
    "caption": {
-    "ig": "Veinte años vendiendo al barrio, cero contactos, todo el cinismo del nicho — y su primera conformidad con el Estado llegó con puro método: RNP, rubro mirado dos veces por semana y una compra chica. La historia del ferretero. #licitaciones #seace #mype #peru #ferreteria",
+    "ig": "Veinte años vendiendo al barrio, cero contactos, todo el cinismo del nicho. Y su primera conformidad con el Estado llegó con puro método: RNP, rubro mirado dos veces por semana y una compra chica. La historia del ferretero. #licitaciones #seace #mype #peru #ferreteria",
     "tt": "Le vendió al Estado sin conocer a nadie 🔨 puro método #licitaciones #mype #peru",
-    "fb": "El ferretero del barrio también creía que 'eso estaba arreglado'. Perdió su primera postulación por foliación, corrigió, y hoy esa conformidad es su mejor currículum. El método fue aburrido — y funciona. ¿Conoces algún caso así?"
+    "fb": "El ferretero del barrio también creía que 'eso estaba arreglado'. Perdió su primera postulación por foliación, corrigió, y hoy esa conformidad es su mejor currículum. El método fue aburrido. Y funciona. ¿Conoces algún caso así?"
    },
    "alt": "Ferretería en penumbra con el titular: el ferretero que le vendió al Estado sin conocer a nadie."
   },
@@ -937,12 +917,12 @@
     {
      "role": "value",
      "h": "Los 7 puntos del semáforo",
-     "b": "RNP vigente. Objeto que calza con tu giro. Valor de tu tamaño. Cronograma alcanzable. Bases leídas (tabla y requisitos). Experiencia acreditable a la mano. Garantía conversada."
+     "b": "· RNP vigente\n· Objeto que calza con tu giro\n· Valor de tu tamaño\n· Cronograma alcanzable\n· Bases leídas: tabla y requisitos\n· Experiencia acreditable a la mano\n· Garantía conversada"
     },
     {
      "role": "value",
      "h": "Un rojo no siempre es un adiós",
-     "b": "RNP vencido se renueva. Experiencia corta se consorcia. Garantía se gestiona. Lo único sin arreglo es postular con el semáforo en rojo y rezar."
+     "b": "· RNP vencido: se renueva\n· Experiencia corta: se consorcia\n· Garantía: se gestiona\nLo único sin arreglo es postular en rojo y rezar."
     },
     {
      "role": "value",
@@ -955,7 +935,8 @@
     {
      "role": "stat",
      "h": "El semáforo, automatizado",
-     "b": "Radar Estatal (radarestatal.pe) te acerca gratis los procesos de tu rubro y la IA los cruza con el perfil de tu empresa: cuáles pasan tu semáforo, antes de abrir un solo PDF."
+     "b": "Radar Estatal (radarestatal.pe) te acerca gratis los procesos de tu rubro y la IA los cruza con el perfil de tu empresa: cuáles pasan tu semáforo, antes de abrir un solo PDF.",
+     "shot": "shot-feed.png"
     },
     {
      "role": "cta",
@@ -966,7 +947,7 @@
    "caption": {
     "ig": "El semáforo de 5 minutos antes de postular: RNP vigente · objeto que calza · valor a tu tamaño · cronograma alcanzable · bases leídas · experiencia lista · garantía conversada. Guárdalo. #licitaciones #seace #checklist #mype #peru",
     "tt": "Revisa esto antes de postular a cualquier proceso ✅ guárdalo #licitaciones #seace #peru",
-    "fb": "Siete verificaciones de 5 minutos que separan una postulación seria de una semana perdida. Y ojo: un rojo no siempre es adiós — RNP se renueva, experiencia se consorcia, garantía se gestiona. ¿Cuál te falta hoy?"
+    "fb": "Siete verificaciones de 5 minutos que separan una postulación seria de una semana perdida. Y ojo: un rojo no siempre es adiós. RNP se renueva, experiencia se consorcia, garantía se gestiona. ¿Cuál te falta hoy?"
    },
    "alt": "Portada clara con el titular: revisa esto antes de postular a cualquier proceso."
   },
@@ -988,7 +969,7 @@
     {
      "role": "value",
      "h": "Las favoritas de tu rival te delatan demanda",
-     "b": "Mira a qué entidades les gana tu competencia: ahí hay compra probada de lo que tú también vendes. No es teoría — es plata ya ejecutada."
+     "b": "Mira a qué entidades les gana tu competencia: ahí hay compra probada de lo que tú también vendes. No es teoría. Es plata ya ejecutada."
     },
     {
      "role": "value",
@@ -1042,12 +1023,10 @@
      "b": "Con meses de aviso preparas experiencia, stock, socios de consorcio y garantía. Cuando el proceso salga, tú ya estabas invitado."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Anticiparse es el deporte del radar",
-     "b": "Radar Estatal (radarestatal.pe) vigila las compras del Estado por ti: feed gratis de tu rubro hoy, y la inteligencia para ver venir lo de mañana."
+     "b": "Radar Estatal (radarestatal.pe) vigila las compras del Estado por ti: feed gratis de tu rubro hoy, y la inteligencia para ver venir lo de mañana.",
+     "shot": "shot-herramientas.png"
     },
     {
      "role": "cta",
@@ -1089,9 +1068,6 @@
      "b": "Sube la frecuencia: de dos miradas por semana a una diaria. Siete días de atención extra pueden pagarte el trimestre entero."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "En semana de cierre, el radar vale doble",
      "b": "Radar Estatal (radarestatal.pe) te trae los procesos de tu rubro apenas aparecen, gratis. La IA filtra; tú decides con la carpeta lista."
@@ -1103,7 +1079,7 @@
     }
    ],
    "caption": {
-    "ig": "Fin de trimestre fiscal: las entidades ejecutan lo que les queda como tú gastas un 30 de mes. Más convocatorias, plazos cortos, decisiones rápidas — terreno de MYPE ágil. Esta semana, mira tu rubro a diario. #licitaciones #seace #mype #peru #estado",
+    "ig": "Fin de trimestre fiscal: las entidades ejecutan lo que les queda como tú gastas un 30 de mes. Más convocatorias, plazos cortos, decisiones rápidas. Terreno de MYPE ágil. Esta semana, mira tu rubro a diario. #licitaciones #seace #mype #peru #estado",
     "tt": "Las entidades gastan como tú un 30 de mes 💳 y cierran trimestre esta semana #licitaciones #peru",
     "fb": "Esta semana cierra el trimestre fiscal y las entidades aceleran compras como cualquiera un fin de mes. ¿La diferencia entre verlo pasar y aprovecharlo? Mirar tu rubro a diario estos días."
    },
@@ -1123,7 +1099,7 @@
     {
      "role": "value",
      "h": "Hoy Endgame vuelve al cine",
-     "b": "Y en el SEACE los procesos también reestrenan: cuando nadie postula o nadie califica, el proceso se declara desierto — y la necesidad de la entidad sigue viva."
+     "b": "Y en el SEACE los procesos también reestrenan: cuando nadie postula o nadie califica, el proceso se declara desierto. Y la necesidad de la entidad sigue viva."
     },
     {
      "role": "value",
@@ -1136,12 +1112,10 @@
      "b": "Filtra tu rubro por estado 'desierto', anota qué pidió el proceso y por qué pudo quedar vacío, y vigila su regreso. Es de las jugadas más rentables del nicho."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Los desiertos de tu rubro, ubicados",
-     "b": "Radar Estatal (radarestatal.pe) los tiene en los datos: qué quedó desierto y cuándo. Feed gratis para que ningún reestreno te agarre fuera del cine."
+     "b": "Radar Estatal (radarestatal.pe) los tiene en los datos: qué quedó desierto y cuándo. Feed gratis para que ningún reestreno te agarre fuera del cine.",
+     "shot": "shot-datos.png"
     },
     {
      "role": "cta",
@@ -1150,9 +1124,9 @@
     }
    ],
    "caption": {
-    "ig": "Hoy vuelve Endgame al cine — y en el SEACE también hay reestrenos: los procesos desiertos se convocan de nuevo, muchas veces con ajustes y con menos competencia. Cómo cazarlos. #licitaciones #seace #desiertos #mype #peru",
+    "ig": "Hoy vuelve Endgame al cine. Y en el SEACE también hay reestrenos: los procesos desiertos se convocan de nuevo, muchas veces con ajustes y con menos competencia. Cómo cazarlos. #licitaciones #seace #desiertos #mype #peru",
     "tt": "Perdiste el estreno, te queda el reestreno ♻ los desiertos vuelven #licitaciones #peru",
-    "fb": "Miles de procesos quedan desiertos — y la necesidad de la entidad no desaparece: se reconvoca. Segunda función, menos público, mismos premios. ¿Ya vigilas los desiertos de tu rubro?"
+    "fb": "Miles de procesos quedan desiertos. Y la necesidad de la entidad no desaparece: se reconvoca. Segunda función, menos público, mismos premios. ¿Ya vigilas los desiertos de tu rubro?"
    },
    "alt": "Robert Downey Jr. con el titular: perdiste el estreno, te queda el reestreno."
   },
@@ -1196,9 +1170,9 @@
     }
    ],
    "caption": {
-    "ig": "Semana de cierre de trimestre: aparecen procesos con plazos mínimos y ejecución inmediata. No son sospechosos por defecto — son presupuesto que expira. Gana el que tenía la carpeta lista. #licitaciones #seace #mype #peru",
+    "ig": "Semana de cierre de trimestre: aparecen procesos con plazos mínimos y ejecución inmediata. No son sospechosos por defecto. Son presupuesto que expira. Gana el que tenía la carpeta lista. #licitaciones #seace #mype #peru",
     "tt": "Esta semana salen los procesos apurados 🏃 ¿estás listo? #licitaciones #seace #peru",
-    "fb": "Fin de trimestre = procesos exprés: plazos cortos, decisión rápida. La trampa no es postular — es postular sin leer. Semáforo de 5 minutos siempre, también con prisa."
+    "fb": "Fin de trimestre = procesos exprés: plazos cortos, decisión rápida. La trampa no es postular. Es postular sin leer. Semáforo de 5 minutos siempre, también con prisa."
    },
    "alt": "Portada clara con el titular: esta semana salen los procesos apurados."
   },
@@ -1215,7 +1189,7 @@
     {
      "role": "value",
      "h": "Qué vive en el kit",
-     "b": "RNP vigente. Declaraciones juradas en plantilla. Experiencia ordenada: contratos y conformidades escaneados y foliados. Poderes al día. Garantía pre-conversada con tu banco o afianzadora."
+     "b": "· RNP vigente\n· Declaraciones juradas en plantilla\n· Contratos y conformidades escaneados\n· Poderes al día\n· Garantía conversada con tu banco"
     },
     {
      "role": "value",
@@ -1233,7 +1207,8 @@
     {
      "role": "stat",
      "h": "Kit listo + radar encendido",
-     "b": "Con la carpeta armada, solo falta enterarte a tiempo: Radar Estatal (radarestatal.pe) te trae gratis los procesos de tu rubro apenas salen."
+     "b": "Con la carpeta armada, solo falta enterarte a tiempo: Radar Estatal (radarestatal.pe) te trae gratis los procesos de tu rubro apenas salen.",
+     "shot": "shot-feed.png"
     },
     {
      "role": "cta",
@@ -1242,7 +1217,7 @@
     }
    ],
    "caption": {
-    "ig": "El kit de 48 horas del proveedor: RNP vigente, DJs en plantilla, experiencia escaneada y foliada, poderes al día, garantía pre-conversada. Cuesta una tarde y te deja postular a plazos que eliminan al resto. #licitaciones #seace #mype #peru",
+    "ig": "El kit de 48 horas del proveedor: RNP vigente, DJs en plantilla, experiencia escaneada y foliada, poderes al día, garantía ya conversada. Cuesta una tarde y te deja postular a plazos que eliminan al resto. #licitaciones #seace #mype #peru",
     "tt": "Tu carpeta lista vale más que tu mejor precio 💼 #licitaciones #seace #mype #peru",
     "fb": "En procesos con plazo corto no gana el más barato: gana el que ya tenía los papeles listos. Una tarde armando tu kit de 48 horas te cambia el trimestre. ¿Tu carpeta está lista hoy?"
    },
@@ -1266,7 +1241,7 @@
     {
      "role": "value",
      "h": "Anota el patrón",
-     "b": "Qué entidad compró, qué tamaño tenía el proceso, quién ganó y — con honestidad — si estabas en capacidad de competir. Cuatro columnas, sin excusas."
+     "b": "· Qué entidad compró\n· Qué tamaño tenía el proceso\n· Quién ganó\n· Si podías competir, con honestidad\nCuatro columnas, sin excusas."
     },
     {
      "role": "value",
@@ -1288,7 +1263,7 @@
     }
    ],
    "caption": {
-    "ig": "La autopsia mensual del proveedor: qué se adjudicó en tu rubro el último mes, quién lo ganó y si podías competir. Duele — y de ahí salen tus entidades objetivo, tus rivales reales y tu plan. #licitaciones #seace #mype #peru",
+    "ig": "La autopsia mensual del proveedor: qué se adjudicó en tu rubro el último mes, quién lo ganó y si podías competir. Duele. Y de ahí salen tus entidades objetivo, tus rivales reales y tu plan. #licitaciones #seace #mype #peru",
     "tt": "Mira quién ganó lo que dejaste pasar 😮 la autopsia mensual #licitaciones #seace #peru",
     "fb": "Ejercicio incómodo y rentable: revisar las buenas pro del mes en tu rubro y admitir cuáles pudiste pelear. Esa lista vale más que cualquier estudio de mercado pagado."
    },
@@ -1307,7 +1282,7 @@
     {
      "role": "value",
      "h": "La garantía no es un trámite exprés",
-     "b": "Para emitir una carta fianza, tu banco, caja o afianzadora evalúa historial, líneas y documentos. Eso toma días — y una buena pro no espera."
+     "b": "Para emitir una carta fianza, tu banco, caja o afianzadora evalúa historial, líneas y documentos. Eso toma días. Y una buena pro no espera."
     },
     {
      "role": "value",
@@ -1325,7 +1300,8 @@
     {
      "role": "stat",
      "h": "Gana con toda la cancha lista",
-     "b": "Radar Estatal (radarestatal.pe) te avisa gratis de los procesos de tu rubro con tiempo — para que la conversación con tu banco llegue antes que la buena pro."
+     "b": "Radar Estatal (radarestatal.pe) te avisa gratis de los procesos de tu rubro con tiempo. Para que la conversación con tu banco llegue antes que la buena pro.",
+     "shot": "shot-herramientas.png"
     },
     {
      "role": "cta",
@@ -1334,7 +1310,7 @@
     }
    ],
    "caption": {
-    "ig": "La carta fianza no se consigue en un día: tu banco evalúa historial y líneas. Ten la conversación ESTE mes, antes de ganar — hay buenas pro que se caen por llegar tarde con la garantía. #licitaciones #cartafianza #seace #mype #peru",
+    "ig": "La carta fianza no se consigue en un día: tu banco evalúa historial y líneas. Ten la conversación ESTE mes, antes de ganar. Hay buenas pro que se caen por llegar tarde con la garantía. #licitaciones #cartafianza #seace #mype #peru",
     "tt": "Tu banco también decide si le vendes al Estado 🏦 #licitaciones #mype #peru",
     "fb": "El gol en contra más evitable del nicho: ganar la buena pro y perderla por no tener la fianza a tiempo. La garantía se conversa con tu banco antes, no después. ¿Ya sabes qué línea te darían?"
    },
@@ -1354,17 +1330,17 @@
     {
      "role": "value",
      "h": "Noviembre y diciembre son el cierre grande",
-     "b": "Fin de año fiscal: las entidades convocan y ejecutan lo que les queda de presupuesto. Es la temporada alta del nicho — todos los años, sin falta."
+     "b": "Fin de año fiscal: las entidades convocan y ejecutan lo que les queda de presupuesto. Es la temporada alta del nicho. Todos los años, sin falta."
     },
     {
      "role": "value",
      "h": "Se cosecha lo sembrado en septiembre",
-     "b": "El semáforo de 5 minutos, el kit de 48 horas, tus 3 entidades elegidas: todo lo que armaste este mes se paga en el trimestre que empieza mañana."
+     "b": "· El semáforo de 5 minutos\n· El kit de 48 horas\n· Tus 3 entidades elegidas\nTodo lo de septiembre se paga en el trimestre que empieza mañana."
     },
     {
      "role": "value",
      "h": "El plan de octubre en una línea",
-     "b": "Rubro mirado a diario, desiertos vigilados, carpeta al día y tu banco ya avisado. El que averigua en noviembre, mira; el que se preparó, factura."
+     "b": "· Rubro mirado a diario\n· Desiertos vigilados\n· Carpeta al día\n· Banco avisado\nEl que se preparó, factura."
     },
     {
      "role": "recap"
@@ -1381,7 +1357,7 @@
     }
    ],
    "caption": {
-    "ig": "Mañana empieza el último trimestre: el Black Friday del proveedor del Estado. Noviembre y diciembre concentran el cierre presupuestal — y se cosecha lo alistado en septiembre: carpeta, entidades, banco y rubro mirado a diario. #licitaciones #seace #mype #peru #cierrepresupuestal",
+    "ig": "Mañana empieza el último trimestre: el Black Friday del proveedor del Estado. Noviembre y diciembre concentran el cierre presupuestal. Y se cosecha lo alistado en septiembre: carpeta, entidades, banco y rubro mirado a diario. #licitaciones #seace #mype #peru #cierrepresupuestal",
     "tt": "Mañana empieza el Black Friday del proveedor del Estado 🔥 #licitaciones #seace #peru",
     "fb": "El último trimestre del año fiscal es la temporada alta de las compras estatales. La diferencia entre mirarla y facturarla se decidió este mes: carpeta lista, entidades elegidas, banco avisado. ¿Llegas preparado?"
    },

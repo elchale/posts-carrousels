@@ -99,16 +99,23 @@ def strip_emoji(text: str) -> str:
 
 
 def wrap(draw: ImageDraw.ImageDraw, text: str, fnt: ImageFont.FreeTypeFont, maxw: int) -> list[str]:
-    lines, cur = [], ""
-    for word in text.split():
-        cand = f"{cur} {word}".strip()
-        if draw.textlength(cand, font=fnt) <= maxw or not cur:
-            cur = cand
-        else:
+    """Word-wrap respetando '\n' como salto DURO — así los `b` pueden llevar
+    bullets ('· texto' por línea) en vez de párrafos (Carlos 2026-08-03)."""
+    lines: list[str] = []
+    for seg in text.split("\n"):
+        seg = seg.strip()
+        if not seg:
+            continue
+        cur = ""
+        for word in seg.split():
+            cand = f"{cur} {word}".strip()
+            if draw.textlength(cand, font=fnt) <= maxw or not cur:
+                cur = cand
+            else:
+                lines.append(cur)
+                cur = word
+        if cur:
             lines.append(cur)
-            cur = word
-    if cur:
-        lines.append(cur)
     return lines
 
 
