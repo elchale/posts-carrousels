@@ -23,7 +23,25 @@ import re
 import sys
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
+
+# Duotono de marca para fotos de evento (CALENDARIO-90 R4: la foto se colorea
+# a la paleta). (sombra, luz) por marca; keep = cuánto color original respira.
+EVENT_TONES = {
+    "comehometag": ("#2a2148", "#f3effc", 0.22),
+    "propaga": ("#3a1c14", "#fdf6ec", 0.25),
+    "qolca": ("#0d162f", "#eaf2ff", 0.20),
+    "radarestatal": ("#0c2440", "#f6f9fc", 0.18),
+}
+
+
+def brand_tone(img: Image.Image, brand: str) -> Image.Image:
+    """Duotone a photo into the brand palette, keeping a breath of original
+    colour so faces stay recognizable (that's the whole point of the photo)."""
+    dark, light, keep = EVENT_TONES.get(brand, ("#222222", "#f5f5f5", 0.25))
+    gray = ImageOps.autocontrast(img.convert("L"), cutoff=1)
+    toned = ImageOps.colorize(gray, black=dark, white=light)
+    return Image.blend(toned, img, keep)
 
 ROOT = Path(__file__).resolve().parents[1]
 BRANDS = ROOT / "brands"
@@ -385,21 +403,39 @@ class Renderer:
             draw_block(draw, blines, bf, 46, cy0 + card_h + gap_b, sub_c)
 
     def _product_slide(self, im, draw, slide, rc, disp, dw, body_f):
-        """White rounded card with the product photo + headline + body below."""
+        """Rounded card with a photo + headline + body below.
+
+        Two treatments, split by filename:
+        - `evento-*` (fotos de evento/celebridad): the photo FILLS a large card
+          (cover-fit + center-crop, no padding) and is duotoned to the brand
+          palette so it sits inside the identity instead of on top of it.
+        - anything else (screenshots/producto): contain-fit with white padding —
+          a screenshot must never be cropped.
+        """
         text_c, sub_c = rc["text"], rc["sub"]
-        card_w, card_h = 660, 560
+        is_evento = str(slide["img"]).startswith("evento-")
+        card_w, card_h = (860, 660) if is_evento else (660, 560)
         cx0 = (W - card_w) // 2
         cy0 = CORE_Y0 + 10
-        # rounded white card
         card = Image.new("RGB", (card_w, card_h), "#ffffff")
         mask = Image.new("L", (card_w, card_h), 0)
         ImageDraw.Draw(mask).rounded_rectangle((0, 0, card_w, card_h), 36, fill=255)
-        # product photo fitted inside with padding
         prod = Image.open(self.dir / "product" / slide["img"]).convert("RGB")
         pw, ph = prod.size
-        scale = min((card_w - 60) / pw, (card_h - 60) / ph)
-        prod = prod.resize((int(pw * scale), int(ph * scale)), Image.LANCZOS)
-        card.paste(prod, ((card_w - prod.width) // 2, (card_h - prod.height) // 2))
+        if is_evento:
+            # cover-fit: scale so the photo overflows the card, center-crop
+            scale = max(card_w / pw, card_h / ph)
+            prod = prod.resize((round(pw * scale), round(ph * scale)), Image.LANCZOS)
+            x0 = (prod.width - card_w) // 2
+            # bias the crop upward: faces live in the top half of portraits
+            y0 = min((prod.height - card_h) // 3, prod.height - card_h)
+            prod = prod.crop((x0, y0, x0 + card_w, y0 + card_h))
+            prod = brand_tone(prod, self.dir.name)
+            card.paste(prod, (0, 0))
+        else:
+            scale = min((card_w - 60) / pw, (card_h - 60) / ph)
+            prod = prod.resize((int(pw * scale), int(ph * scale)), Image.LANCZOS)
+            card.paste(prod, ((card_w - prod.width) // 2, (card_h - prod.height) // 2))
         im.paste(card, (cx0, cy0), mask)
         # headline + body under the card
         y = cy0 + card_h + 56
