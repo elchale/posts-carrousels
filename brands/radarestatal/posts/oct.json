@@ -277,37 +277,42 @@
     {
      "role": "cover",
      "kicker": "FERIADO",
-     "h": "El feriado no congela tus plazos",
-     "b": "Angamos descansa, tu cronograma no siempre",
+     "h": "El feriado engaña a los que cuentan de memoria",
+     "b": "tus plazos pueden seguir corriendo",
      "emoji": "📅"
     },
     {
      "role": "value",
-     "h": "Días hábiles y días calendario no son lo mismo",
-     "b": "Las etapas de un proceso se cuentan según su cronograma: algunas van por días hábiles, otras corren de corrido. El feriado solo salva a las primeras."
+     "h": "Manda el cronograma, no tu cálculo",
+     "b": "Así no: contar los días de memoria\nAsí sí: las fechas exactas que publicó la entidad"
     },
     {
      "role": "value",
-     "h": "La regla práctica: manda el cronograma",
-     "b": "No calcules de memoria. Abre el cronograma del proceso y usa las fechas exactas que publicó la entidad. Esa es la única cuenta que vale."
+     "h": "Hábiles y calendario no son lo mismo",
+     "b": "Así no: asumir que todo se congela\nAsí sí: cada etapa tiene su forma de contar"
+    },
+    {
+     "role": "value",
+     "h": "La oferta no espera al lunes",
+     "b": "Así no: «lo veo después del feriado»\nAsí sí: deadline con alarma un día antes"
     },
     {
      "role": "stat",
-     "h": "El radar te avisa antes de cada cierre",
-     "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE, sin cuenta."
+     "h": "El radar no toma feriados",
+     "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE y avisos antes de cada cierre."
     },
     {
      "role": "cta",
-     "h": "Feriado tranquilo, fechas claras.",
+     "h": "Descansa tú. Tu cronograma no.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "Feriado largo y un clásico del proveedor: contar mal los plazos. Días hábiles y calendario no son lo mismo, y la única cuenta que vale es el cronograma publicado del proceso. #licitaciones #seace #mype #feriado #peru",
-    "tt": "El feriado no congela tus plazos como crees 📅 #licitaciones #seace #mype",
-    "fb": "Angamos descansa; tu cronograma, no siempre. Algunas etapas corren por días hábiles y otras de corrido. No calcules de memoria: abre el cronograma del proceso y usa sus fechas exactas. Radar Estatal (radarestatal.pe) te avisa antes de cada cierre."
+    "ig": "El feriado engaña al que cuenta plazos de memoria: manda el cronograma publicado por la entidad, los días hábiles y calendario se cuentan distinto y la oferta no espera al lunes. Radar Estatal (radarestatal.pe) avisa antes de cada cierre. #licitaciones #SEACE #feriado #mype #peru #contratacionesdelestado",
+    "tt": "El feriado engaña a los que cuentan de memoria 📅 #licitaciones #SEACE #mype #peru",
+    "fb": "Feriado largo y proveedores relajados: combinación cara. Algunas etapas de un proceso corren de corrido aunque tú descanses. La regla es una: manda el cronograma publicado, no tu cálculo. Alarma un día antes de cada cierre. radarestatal.pe no toma feriados."
    },
-   "alt": "Portada: cómo contar plazos de licitación en feriados."
+   "alt": "Errores al contar plazos de licitación en feriados y la regla del cronograma publicado."
   },
   {
    "slug": "09-pac-2027",
@@ -468,37 +473,43 @@
    "slides": [
     {
      "role": "cover",
-     "h": "Un proceso se sigue en vivo, como un partido",
+     "h": "Un proceso no se mira una sola vez",
+     "b": "se sigue en vivo",
      "emoji": "👀"
     },
     {
      "role": "value",
-     "h": "La ficha SEACE te dice en qué minuto va",
-     "b": "Convocatoria, consultas, ofertas, evaluación, buena pro. Cada etapa aparece en la ficha con su fecha. El marcador del partido."
+     "h": "La ficha es el marcador",
+     "b": "Así no: leer la convocatoria y desaparecer\nAsí sí: el estado de la ficha en cada etapa"
     },
     {
      "role": "value",
-     "h": "Dos momentos donde entras tú",
-     "b": "· Consultas: tu chance de preguntar y corregir\n· Presentación de ofertas: tu deadline real\nLo demás es esperar con el archivo listo."
+     "h": "Las consultas son tu turno",
+     "b": "Así no: enterarte del pliego cuando ya cerró\nAsí sí: la ventana de consultas con alarma"
+    },
+    {
+     "role": "value",
+     "h": "La buena pro se ve venir",
+     "b": "Así no: saberla por terceros, tarde\nAsí sí: fechas de evaluación en tu calendario"
     },
     {
      "role": "stat",
-     "h": "El radar te avisa cada cambio de etapa",
-     "b": "Radar Estatal (radarestatal.pe), gratis y sin cuenta.",
-     "shot": "shot-datos.png"
+     "shot": "shot-datos.png",
+     "h": "Cada cambio de etapa, avisado",
+     "b": "Radar Estatal (radarestatal.pe): el proceso completo vigilado, de la convocatoria a la buena pro."
     },
     {
      "role": "cta",
-     "h": "No pierdas el partido por no ver el marcador.",
+     "h": "Síguelo como un partido. En vivo.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "Un proceso de selección se sigue como un partido: la ficha SEACE es el marcador y solo hay dos jugadas tuyas. Las consultas y la presentación de ofertas. #seace #licitaciones #mype #contratacionespublicas #peru",
-    "tt": "Un proceso se sigue en vivo, como un partido 👀 #seace #licitaciones #mype",
-    "fb": "¿Dónde va tu proceso? La ficha del SEACE muestra cada etapa con su fecha: convocatoria, consultas, ofertas, buena pro. Tus dos momentos: preguntar a tiempo y ofertar a tiempo. Radar Estatal (radarestatal.pe) te avisa cada cambio."
+    "ig": "Un proceso del SEACE no se mira una sola vez, se sigue en vivo: el estado de la ficha en cada etapa, la ventana de consultas con alarma y las fechas de evaluación en tu calendario. Radar Estatal (radarestatal.pe) avisa cada cambio de etapa. #SEACE #licitaciones #mype #contratacionesdelestado #peru",
+    "tt": "Un proceso no se mira una sola vez 👀 se sigue en vivo #SEACE #licitaciones #mype #peru",
+    "fb": "Leer la convocatoria y desaparecer es perder el partido por no mirarlo: la ventana de consultas pasa, las bases se corrigen y la buena pro te la cuentan terceros. La ficha del proceso es el marcador en vivo. radarestatal.pe te avisa cada cambio de etapa."
    },
-   "alt": "Portada: cómo seguir un proceso de selección en la ficha del SEACE."
+   "alt": "Seguimiento en vivo de un proceso de licitación frente a mirarlo una sola vez."
   },
   {
    "slug": "14-desiertos-diciembre",
@@ -542,37 +553,43 @@
    "slides": [
     {
      "role": "cover",
-     "h": "Cotiza tu carta fianza antes de necesitarla",
+     "h": "Al banco se va antes de ganar",
+     "b": "después ya es tarde",
      "emoji": "🏦"
     },
     {
      "role": "value",
-     "h": "El banco también tiene sus plazos",
-     "b": "Línea de garantías, evaluación, emisión: no es trámite de un día. En noviembre, cada día de banco es un proceso que se te escapa."
+     "h": "Línea hoy, carta cuando ganes",
+     "b": "Así no: pedir la carta con el plazo encima\nAsí sí: línea aprobada esperando su proceso"
     },
     {
      "role": "value",
-     "h": "Pide la línea, no la carta",
-     "b": "Tener línea aprobada no cuesta como emitir la carta. La emites solo cuando ganas. Pero la línea se negocia hoy, con calma y mejor tasa."
+     "h": "El banco también tiene cronograma",
+     "b": "Así no: asumir que emiten en un día\nAsí sí: evaluación y emisión toman días, cuéntalos"
+    },
+    {
+     "role": "value",
+     "h": "Cotiza más de una puerta",
+     "b": "Así no: casarte con tu único banco\nAsí sí: cajas y afianzadoras también compiten"
     },
     {
      "role": "stat",
+     "shot": "shot-feed.png",
      "h": "Sabrás para qué proceso emitirla",
-     "b": "Radar Estatal (radarestatal.pe): la IA te dice cuáles valen tu garantía.",
-     "shot": "shot-feed.png"
+     "b": "Radar Estatal (radarestatal.pe): la IA te dice qué procesos valen tu garantía."
     },
     {
      "role": "cta",
-     "h": "Banco en octubre, firma en diciembre.",
+     "h": "La fianza se gana en el banco, antes.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "La jugada bancaria de octubre: negociar la LÍNEA de fianza (no la carta). La carta se emite solo si ganas; la línea se consigue hoy, con calma y mejor tasa. #cartafianza #licitaciones #mype #seace #peru",
-    "tt": "Cotiza tu carta fianza antes de necesitarla 🏦 #licitaciones #mype #cartafianza",
-    "fb": "En noviembre cada día de trámite bancario es un proceso perdido. La movida inteligente: aprobar la línea de garantías este mes y emitir la carta solo cuando ganes. Radar Estatal (radarestatal.pe) te dice qué procesos la merecen."
+    "ig": "La carta fianza se pierde por tiempos, no por montos: la línea se negocia hoy y la carta se emite cuando ganas, el banco tiene sus propios plazos y las cajas y afianzadoras también compiten. Radar Estatal (radarestatal.pe) te dice qué procesos valen tu garantía. #cartafianza #licitaciones #mype #SEACE #peru",
+    "tt": "Al banco se va antes de ganar 🏦 después ya es tarde #licitaciones #mype #SEACE #peru",
+    "fb": "Hay buenas pro que se caen después de ganadas: la fianza no llegó a tiempo. La conversación con el banco va antes de postular: línea aprobada esperando su proceso, plazos del banco contados y más de una puerta cotizada. radarestatal.pe"
    },
-   "alt": "Portada: negociar la línea de carta fianza antes de la temporada alta."
+   "alt": "Cuándo gestionar la carta fianza: línea antes de postular frente a correr al banco tras ganar."
   },
   {
    "slug": "16-factura-requisito",
@@ -801,18 +818,23 @@
    "slides": [
     {
      "role": "cover",
-     "h": "Tu región convoca más de lo que crees",
+     "h": "Los procesos de tu región casi nadie los mira",
      "emoji": "📍"
     },
     {
      "role": "value",
-     "h": "Filtra el SEACE por tu departamento",
-     "b": "Municipios, gobiernos regionales, unidades locales: compras que no salen en el ruido nacional y donde entregar cerca es ventaja real."
+     "h": "Filtra por tu departamento",
+     "b": "Así no: solo el ruido nacional\nAsí sí: municipios y gobiernos regionales de tu zona"
     },
     {
      "role": "value",
-     "h": "Lo chico local tiene menos competencia",
-     "b": "Los procesos menores de provincia rara vez atraen postores de fuera. Tu dirección, tu logística y tu presencia valen puntos ahí."
+     "h": "Compite donde tu logística gana",
+     "b": "Así no: pelear procesos grandes en Lima\nAsí sí: lo chico local, donde entregar te sale natural"
+    },
+    {
+     "role": "value",
+     "h": "Apunta tus entidades vecinas",
+     "b": "Así no: venderle «al Estado» en abstracto\nAsí sí: tres entidades locales estudiadas"
     },
     {
      "role": "stat",
@@ -821,16 +843,16 @@
     },
     {
      "role": "cta",
-     "h": "Empieza por tu propia esquina.",
+     "h": "Tu cancha queda cerca de tu casa.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "El filtro que pocos usan en SEACE: tu departamento. Municipios y entidades locales convocan compras donde entregar cerca es ventaja. Y los postores de fuera casi nunca llegan. #licitaciones #seace #mype #regiones #peru",
-    "tt": "Tu región convoca más de lo que crees 📍 #licitaciones #seace #mype",
-    "fb": "Antes de pelear procesos nacionales, filtra el SEACE por tu departamento: compras locales, menos competencia y tu logística como ventaja real. Radar Estatal (radarestatal.pe) filtra por rubro y zona."
+    "ig": "Los procesos de tu región casi nadie los mira: filtra el SEACE por tu departamento, compite donde tu logística gana y estudia tres entidades vecinas en vez de venderle «al Estado» en abstracto. Radar Estatal (radarestatal.pe) filtra por rubro y zona. #licitaciones #SEACE #mype #regiones #peru #contratacionesdelestado",
+    "tt": "Los procesos de tu región casi nadie los mira 📍 #licitaciones #SEACE #mype #peru",
+    "fb": "Los procesos menores de provincia rara vez atraen postores de fuera: tu dirección y tu logística son ventaja real. Filtra por tu departamento, apunta a tus municipios y estudia tres entidades vecinas. radarestatal.pe, gratis y sin cuenta."
    },
-   "alt": "Portada: filtrar procesos del SEACE por región propia."
+   "alt": "Ventaja local en licitaciones: filtrar por región y estudiar entidades vecinas."
   },
   {
    "slug": "23-compra-inimaginable",
@@ -875,18 +897,23 @@
     {
      "role": "story",
      "plate": "cine-01-ventana",
-     "h": "Mientras descansas, el SEACE sigue publicando",
+     "h": "El SEACE no descansa y tú revisas cuando puedes",
      "emoji": "🌙"
     },
     {
      "role": "value",
-     "h": "Las convocatorias no respetan tu finde",
-     "b": "Los procesos se publican cualquier día. El lunes que no revisas: la consulta que no haces y el plazo que arranca sin ti."
+     "h": "Rutina fija, no voluntad",
+     "b": "Así no: revisar «cuando haya tiempo»\nAsí sí: lunes y jueves, 10 minutos con filtros"
     },
     {
      "role": "value",
-     "h": "La rutina mínima: lunes y jueves, 10 minutos",
-     "b": "Dos revisiones fijas por semana con tus filtros guardados cubren casi todo. Lo que caiga entre medio, lo caza una alerta."
+     "h": "La fuente decide tu velocidad",
+     "b": "Así no: enterarte por boca a boca, días tarde\nAsí sí: alerta o revisión corta, el día uno"
+    },
+    {
+     "role": "value",
+     "h": "El feriado no pausa nada",
+     "b": "Así no: volver el martes a ver qué pasó\nAsí sí: los plazos corrieron, revísalos igual"
     },
     {
      "role": "stat",
@@ -895,16 +922,16 @@
     },
     {
      "role": "cta",
-     "h": "El SEACE no descansa. Tú sí puedes.",
+     "h": "Revisar poco está bien. Revisar fijo, mejor.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "Los procesos se publican cualquier día. El finde también. La rutina mínima del proveedor: lunes y jueves, 10 minutos, filtros guardados. El resto lo caza una alerta. #seace #licitaciones #mype #rutina #peru",
-    "tt": "Mientras descansas, el SEACE sigue publicando 🌙 #seace #licitaciones #mype",
-    "fb": "El SEACE publica sábados, domingos y feriados. Con dos revisiones fijas a la semana cubres casi todo. Y lo que caiga entre medio lo caza el radar. Radar Estatal (radarestatal.pe), prendido hasta cuando duermes."
+    "ig": "El SEACE publica cualquier día y el que revisa «cuando puede» se entera tarde: rutina fija de lunes y jueves con filtros guardados, fuente rápida para enterarte el día uno y ojo con los plazos que corren en feriados. Radar Estatal (radarestatal.pe) vigila por ti. #SEACE #licitaciones #mype #contratacionesdelestado #peru",
+    "tt": "El SEACE no descansa y tú revisas cuando puedes 🌙 #SEACE #licitaciones #mype #peru",
+    "fb": "Las convocatorias no respetan tu finde: se publican cualquier día. La diferencia entre enterarse el día uno y el día ocho es la fuente y la rutina: lunes y jueves fijos con filtros guardados, o una alerta que trabaja sola. radarestatal.pe vigila hasta en feriados."
    },
-   "alt": "Oficina de noche: el SEACE publica aunque tú descanses."
+   "alt": "Rutina fija para revisar el SEACE frente a revisarlo cuando se puede."
   },
   {
    "slug": "25-sin-local",

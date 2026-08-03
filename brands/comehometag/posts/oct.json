@@ -627,37 +627,42 @@
     {
      "role": "cover",
      "kicker": "MES MORADO",
-     "emoji": "🕯",
-     "h": "Cada barrio tiene su procesión antes de la grande",
-     "b": ""
+     "h": "En la procesión del barrio bajas la guardia",
+     "b": "acá todos nos conocemos",
+     "emoji": "🕯"
     },
     {
      "role": "value",
-     "h": "La confianza engaña",
-     "b": "En la procesión del barrio bajas la guardia: \"acá todos nos conocemos\". Pero la procesión trae gente de otros diez barrios. Tu calle deja de ser tu calle por unas horas."
+     "h": "La confianza también se organiza",
+     "b": "Así no: soltarlo «porque es su barrio»\nAsí sí: cada niño con su par, el abuelo del brazo"
     },
     {
      "role": "value",
-     "h": "Mismo plan, escala chica",
-     "b": "El punto de reencuentro (la bodega de siempre), el niño con el abuelo agarrados, el par que se cuida junto, y salir antes de que oscurezca del todo."
+     "h": "El punto es la bodega, dicho hoy",
+     "b": "Así no: «nos vemos donde siempre»\nAsí sí: «la bodega de don Pepe», en voz alta"
+    },
+    {
+     "role": "value",
+     "h": "Las caras nuevas",
+     "b": "Así no: creer que todos son vecinos\nAsí sí: la procesión trae gente de otros barrios, mano igual"
     },
     {
      "role": "stat",
-     "h": "El barrio se llena de caras nuevas.",
-     "b": "ComeHomeTag: el QR con tu contacto, en la muñeca del niño y del abuelo. Sin batería."
+     "h": "El QR no distingue barrios",
+     "b": "ComeHomeTag: la pulsera con tu contacto en la muñeca del niño y del abuelo. En la procesión chica o en la grande, quien lo encuentre te llama."
     },
     {
      "role": "cta",
-     "h": "La bodega de siempre es el punto.",
+     "h": "Que el barrio siga siendo el lugar seguro.",
      "b": "comehometag.com"
     }
    ],
    "caption": {
-    "ig": "Antes de la procesión grande, cada barrio saca la suya. Y ahí bajamos la guardia: \"acá nos conocemos todos\". Pero la procesión trae gente de otros diez barrios. Mismo plan a escala chica: punto en la bodega de siempre, el niño y el abuelo en par, salida antes de que oscurezca. #mesmorado #procesion #barrio #peru",
-    "tt": "Cada barrio tiene su procesión antes de la grande 🕯 #mesmorado #peru",
-    "fb": "La procesión del barrio se siente segura porque es TU barrio. Pero por unas horas tu calle recibe gente de otros diez. El plan no cambia, solo la escala: la bodega de siempre como punto, el niño con el abuelo en par, y salir antes de la oscuridad total. ¿Tu barrio ya sacó su procesión?"
+    "ig": "Procesión del barrio: donde más se baja la guardia. «Acá todos nos conocemos» es el error, la procesión chica también trae caras nuevas. Par asignado, punto en la bodega dicho hoy y mano en el tumulto. ComeHomeTag (comehometag.com): el QR de la familia en el mes morado. #mesmorado #señordelosmilagros #procesion #familia #peru #niñosseguros",
+    "tt": "En la procesión del barrio bajas la guardia 🕯 #mesmorado #procesion #familia #peru",
+    "fb": "La procesión del barrio es donde más nos confiamos: «acá todos nos conocemos». Pero la procesión chica también trae gente de otros barrios. Mismo plan a escala chica: par asignado, punto en la bodega con nombre y mano igual. ComeHomeTag (comehometag.com) lleva tu contacto puesto."
    },
-   "alt": "Procesiones de barrio en el Mes Morado: mismo plan de reencuentro a escala chica."
+   "alt": "Errores de confianza en la procesión del barrio y su corrección: pares, punto con nombre y atención a caras nuevas."
   },
   {
    "slug": "18-todos-de-morado",

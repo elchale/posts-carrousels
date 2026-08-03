@@ -425,43 +425,47 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "SIMULACRO 3PM",
-     "h": "10 minutos hoy valen más que el simulacro de mañana",
+     "kicker": "SIMULACRO NACIONAL",
+     "h": "Casi todas las familias ensayan el simulacro mal",
+     "b": "mañana hazlo así",
      "emoji": "⏰"
     },
     {
      "role": "value",
-     "h": "El guión de esta noche, en la cena",
-     "b": "Mañana 3pm es el Simulacro Nacional. Esta noche, 10 minutos en la mesa: cada uno dice en voz alta su punto de reunión y quién lo recoge. Si alguien duda, el plan solo existía en tu cabeza."
+     "h": "Ensayen también separados",
+     "b": "Así no: siempre todos juntos en la sala\nAsí sí: una ronda con cada uno en su cuarto\nEl sismo real no avisa dónde los agarra"
     },
     {
      "role": "value",
-     "h": "El niño practica su parte",
-     "b": "Que diga su nombre completo, el nombre real de sus papás (no «mamá») y un número. Si no le sale: papel plastificado en la mochila y listo. La solución no es presionarlo, es respaldarlo."
+     "h": "El niño dice el plan, no lo escucha",
+     "b": "Así no: tú recitas y él asiente\nAsí sí: él te guía a la zona segura\nEl que lo dijo solo, lo recuerda solo"
     },
     {
      "role": "value",
-     "h": "Una vez, físico",
-     "b": "Agacharse, cubrirse, agarrarse: háganlo UNA vez de verdad esta noche, aunque dé risa. El cuerpo recuerda lo que hizo, no lo que escuchó. Mañana a las 3 les va a salir solo."
+     "h": "Una vez física, aunque dé risa",
+     "b": "Así no: comentarlo en la cena y ya\nAsí sí: agacharse y cubrirse una vez de verdad"
+    },
+    {
+     "role": "recap"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
-     "h": "Y la pulsera puesta, obviamente.",
-     "b": "Mañana millones ensayan. Las familias que ya usan ComeHomeTag ensayan con ventaja: pase lo que pase, el que encuentre a los suyos sabe a quién llamar."
+     "h": "Y el plan B se lleva puesto",
+     "b": "Los papás preparados ensayan con ComeHomeTag en la muñeca: si un sismo real los separa, cualquiera escanea el QR del niño o del abuelo y los junta. Sin batería, sin apps."
     },
     {
      "role": "cta",
-     "h": "10 minutos hoy. Mañana solo ejecutan.",
-     "b": "comehometag.com"
+     "h": "Mañana a las 3, que el ensayo valga.",
+     "b": "Hazlo bien una vez. comehometag.com"
     }
    ],
    "caption": {
-    "ig": "La noche antes del Simulacro Nacional: 10 minutos en la cena para que cada uno diga su punto de reunión, el niño practique nombre completo y número, y el contacto de provincia SEPA que lo es (mándale el SMS ahora). Mañana 3pm se ejecuta. Con la pulsera de ComeHomeTag (comehometag.com) puesta, obviamente. #simulacronacional #sismo #familia #prevencion #peru",
-    "tt": "10 minutos hoy > el simulacro de mañana ⏰ El guión de la cena #simulacro #peru #familia",
-    "fb": "Mañana a las 3pm tiembla todo el Perú (de mentira). El ensayo que vale es el de esta noche en la cena: puntos de reunión en voz alta, el niño practica su parte, y el SMS al contacto de provincia. 10 minutos. ¿Lo hacen esta noche?"
+    "ig": "Simulacro nacional: mañana ensaya todo el Perú y casi todas las familias lo hacen mal. Así no: todos juntos, papá recita, nadie se mueve. Así sí: una ronda separados, el niño dice el plan solo y una pasada física de verdad. Los papás que usan ComeHomeTag (comehometag.com) ensayan con el plan B puesto. #simulacronacional #sismo #familia #niñosseguros #peru #prevencion",
+    "tt": "Casi todos ensayan el simulacro mal ⏰ así se corrige #simulacro #sismo #familia #peru",
+    "fb": "Mañana es el Simulacro Nacional y la mayoría lo ensaya mal: todos juntos en la sala, el papá recita y nadie se agacha. Ensayen una ronda separados, dejen que el niño diga el plan él solo y háganlo físico una vez. ComeHomeTag (comehometag.com): el QR que junta a la familia si un sismo real la separa."
    },
-   "alt": "Guión familiar de 10 minutos para la noche previa al Simulacro Nacional."
+   "alt": "Así no y así sí: los errores más comunes al ensayar el simulacro nacional en familia y su corrección."
   },
   {
    "slug": "14-hoy-ensaya-peru",
@@ -774,23 +778,24 @@
    "slides": [
     {
      "role": "cover",
-     "h": "¿Quién puede recoger a tu hijo del colegio?",
+     "h": "Así no se organiza el recojo del colegio",
+     "b": "tres errores de todos los días",
      "emoji": "🎒"
     },
     {
      "role": "value",
-     "h": "La lista autorizada, por escrito",
-     "b": "El colegio debe tener NOMBRES y DNI de quienes pueden llevarse a tu hijo, y tú debes saber qué pasa si va alguien que no está. Y revísala después de cada cambio familiar (separaciones, mudanzas): esa lista suele tener 3 años de polvo."
+     "h": "La lista es escrita, no sobreentendida",
+     "b": "Así no: «lo recoge su tía», dicho al aire\nAsí sí: nombres y DNI entregados al colegio"
+    },
+    {
+     "role": "value",
+     "h": "El cambio de plan pasa por el colegio",
+     "b": "Así no: avisarle solo al niño en la mañana\nAsí sí: el colegio confirma contigo antes de entregarlo"
     },
     {
      "role": "value",
      "h": "La contraseña familiar",
-     "b": "Si algún día tiene que ir alguien no habitual, tu hijo pregunta la contraseña («¿cuál es la palabra de mamá?»). Extraño sin contraseña = no se va con él y avisa a su profesora. Simple, ensayable, funciona."
-    },
-    {
-     "role": "value",
-     "h": "El ensayo incómodo",
-     "b": "Pregúntale a tu hijo: «¿y si viene el amigo de papá a recogerte?». La respuesta correcta es que NO se va, aunque el señor conozca su nombre. Que conozcan su nombre no significa nada. Eso se le enseña jugando, no asustando."
+     "b": "Así no: «te recoge un amigo de papá»\nAsí sí: pregunta la palabra secreta o no se va"
     },
     {
      "role": "recap"
@@ -798,21 +803,21 @@
     {
      "role": "stat",
      "shot": "pulsera.png",
-     "h": "El contacto siempre encima.",
-     "b": "Con ComeHomeTag, si los planes cambian y tu hijo queda esperando, cualquier profesor o auxiliar escanea su pulsera y te contacta directo. Los papás organizados ya lo llevan resuelto."
+     "h": "El contacto siempre encima",
+     "b": "Si un día los planes fallan y tu hijo queda esperando en la puerta, cualquier profesor escanea su ComeHomeTag y te llama a ti. Los papás organizados ya la usan de uniforme."
     },
     {
      "role": "cta",
-     "h": "Lista al día, contraseña lista.",
-     "b": "comehometag.com"
+     "h": "Que el recojo nunca sea una sorpresa.",
+     "b": "Ordénalo hoy. comehometag.com"
     }
    ],
    "caption": {
-    "ig": "Recojo del colegio: lista autorizada por escrito (nombres y DNI), contraseña familiar para los no habituales, actualización después de cada cambio familiar, y el ensayo del «amigo de papá» (la respuesta correcta: no se va, avisa a su profesora). ComeHomeTag (comehometag.com) para el contacto siempre encima. #colegio #papas #seguridadinfantil #peru",
-    "tt": "¿Quién puede recoger a tu hijo del colegio? 🏫 #colegio #papas #peru #seguridad",
-    "fb": "Pregunta seria: ¿la lista de personas autorizadas a recoger a tu hijo del colegio está al día... o tiene 3 años de polvo? Contraseña familiar + lista actualizada + el ensayo del «amigo de papá». Todo en el post. ¿Tu familia tiene contraseña?"
+    "ig": "Recojo del colegio: los tres errores que casi todas las familias cometen y su corrección. Lista escrita con DNI, todo cambio de plan confirmado por el colegio y la contraseña familiar ensayada. ComeHomeTag (comehometag.com): la pulsera QR que habla por tu hijo si el plan falla. #colegio #niñosseguros #papas #recojo #peru #seguridadinfantil",
+    "tt": "Así no se organiza el recojo del colegio 🎒 #colegio #papas #niños #peru",
+    "fb": "¿Cómo se organiza el recojo del colegio en tu casa? Así no: «lo recoge su tía» dicho al aire, avisarle solo al niño, «te recoge un amigo de papá». Así sí: lista escrita con DNI, el colegio confirma contigo y la contraseña familiar. ComeHomeTag (comehometag.com) lleva tu contacto puesto por si el plan falla."
    },
-   "alt": "Salida del colegio; lista autorizada, contraseña familiar y el ensayo del desconocido."
+   "alt": "Errores y correcciones para organizar el recojo del colegio: lista escrita, confirmación y contraseña familiar."
   },
   {
    "slug": "22-telemaco",
@@ -999,38 +1004,47 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "DÍA DEL ADULTO MAYOR",
-     "h": "Cuidar al que te cuidó no es vigilarlo",
+     "kicker": "ADULTO MAYOR",
+     "h": "Hay dos formas de cuidar a tu papá",
+     "b": "una lo aleja",
      "emoji": "🕰"
     },
     {
      "role": "value",
-     "h": "La visita con propósito",
-     "b": "Tres cosas, sin que parezca inspección:\n· Medicinas al día\n· Números visibles junto al teléfono\n· Identificación donde él la use"
+     "h": "Las palabras que cuidan",
+     "b": "Así no: «¿a dónde vas a ir tú solo?»\nAsí sí: «espérame y vamos juntos»"
     },
     {
      "role": "value",
-     "h": "La pregunta que abre todo",
-     "b": "«¿Qué te haría sentir más tranquilo cuando sales solo?» Escuchar su respuesta te dice exactamente qué cuidado va a aceptar y cuál va a sabotear. Los planes impuestos duran una semana; los conversados, años."
+     "h": "La visita que no es inspección",
+     "b": "Así no: llegar a revisar y corregir\nAsí sí: medicinas, números y pulsera, chequeados en la conversación"
+    },
+    {
+     "role": "value",
+     "h": "Libertad con red, no encierro",
+     "b": "Así no: quitarle la calle «por su bien»\nAsí sí: sus rutas de siempre, con el barrio avisado"
+    },
+    {
+     "role": "recap"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
-     "h": "Libertad con red de seguridad.",
-     "b": "Las familias que usan ComeHomeTag con sus abuelos les devuelven la calle: él sale como siempre, y todos saben que si algo pasa, cualquiera puede contactarlos en segundos. Eso es cuidar sin encerrar."
+     "h": "La red invisible se llama QR",
+     "b": "Las familias que cuidan sin encerrar le ponen ComeHomeTag: él sale como siempre y cualquiera que lo vea desorientado escanea la pulsera y te llama. Sin botones, sin carga, sin lecciones."
     },
     {
      "role": "cta",
-     "h": "Feliz día a los que nos cuidaron primero.",
-     "b": "comehometag.com"
+     "h": "Cuidar no es vigilar. Es estar.",
+     "b": "De la forma correcta. comehometag.com"
     }
    ],
    "caption": {
-    "ig": "Día del Adulto Mayor: cuidar no es vigilar. Es asegurar que siempre pueda volver a casa. La visita con propósito (medicinas, números visibles junto al teléfono, identificación en uso) y la pregunta que abre todo: ¿qué te haría sentir más tranquilo al salir solo? ComeHomeTag (comehometag.com). #diadeladultomayor #abuelos #familia #peru",
-    "tt": "Cuidar al que te cuidó no es vigilarlo 🧓❤️ #adultomayor #abuelos #peru",
-    "fb": "Hoy es el Día del Adulto Mayor. La línea que separa cuidar de vigilar es más fina de lo que parece: una encierra, la otra libera. En el post: las 3 cosas que revisar en tu próxima visita sin que parezca inspección, y la pregunta que deberías hacerle hoy. ¿Cuándo fue tu última visita con propósito?"
+    "ig": "Cuidar a un adulto mayor sin humillarlo: qué decir y qué no, la visita que no parece inspección y la libertad con red de seguridad. ComeHomeTag (comehometag.com): la pulsera QR que lo acompaña sin vigilarlo. #adultomayor #abuelos #alzheimer #familia #peru #cuidadores",
+    "tt": "Hay dos formas de cuidar a tu papá y una lo aleja 🕰 #adultomayor #abuelos #familia #peru",
+    "fb": "«¿A dónde vas a ir tú solo?» aleja. «Espérame y vamos juntos» cuida. Hay dos formas de cuidar a tu papá: la que lo encierra y la que le da libertad con red. ComeHomeTag (comehometag.com): la pulsera QR que habla por él si un día se desorienta en la calle."
    },
-   "alt": "Día del Adulto Mayor: cuidar sin vigilar, la visita con propósito y la pregunta clave."
+   "alt": "Dos formas de cuidar a un padre mayor: frases, visitas y libertad con red, en formato así no y así sí."
   },
   {
    "slug": "27-pozo-deseos",
@@ -1210,38 +1224,47 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "RESUMEN",
-     "h": "Lo que aprendimos en agosto cabe en una lámina",
+     "kicker": "FIN DE MES",
+     "h": "Todo agosto vi papás cometiendo los mismos errores",
+     "b": "guárdate las correcciones",
      "emoji": "📋"
     },
     {
      "role": "value",
-     "h": "Los 5 hábitos del mes",
-     "b": "· Foto del día antes de salir\n· Responsable por niño, en voz alta\n· Punto de reencuentro al llegar\n· Identificación siempre encima\n· Conteo en cada cambio de ambiente"
+     "h": "La foto del día",
+     "b": "Así no: buscar una foto vieja tras el susto\nAsí sí: foto al salir, con la ropa de hoy"
     },
     {
      "role": "value",
-     "h": "Septiembre viene con tarea propia",
-     "b": "El mes que empieza mañana es el Mes Mundial del Alzheimer, y esta cuenta lo va a acompañar con lo que las familias con abuelos necesitan saber. Si tienes un abuelo en casa, quédate cerca."
+     "h": "El punto de reencuentro",
+     "b": "Así no: «si algo pasa, nos buscamos»\nAsí sí: lugar con nombre, dicho al llegar"
+    },
+    {
+     "role": "value",
+     "h": "El responsable con nombre",
+     "b": "Así no: «todos los estamos viendo»\nAsí sí: «tú ves a Mati hasta las 3»"
+    },
+    {
+     "role": "recap"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
-     "h": "El hábito número 4, resuelto.",
-     "b": "La identificación siempre encima es exactamente lo que resuelve ComeHomeTag: pulsera QR sin batería que habla por tu hijo o tu abuelo cuando hace falta. Las familias del hábito 4 ya la llevan."
+     "h": "El cuarto hábito se pone una vez",
+     "b": "Identificación siempre encima: eso resuelve ComeHomeTag. Pulsera QR sin batería que dice tu número cuando tu hijo no puede. Las familias que la usan cierran agosto tranquilas."
     },
     {
      "role": "cta",
-     "h": "Guarda la lámina. Nos vemos en septiembre.",
-     "b": "comehometag.com"
+     "h": "Septiembre empieza con los hábitos corregidos.",
+     "b": "Guarda esta lista. comehometag.com"
     }
    ],
    "caption": {
-    "ig": "Agosto en una lámina: foto del día, responsable por niño en voz alta, punto de reencuentro al llegar, identificación siempre encima y conteo en cada cambio. Guárdala. Con estos 5 hábitos el 90% de los sustos no ocurre. Septiembre es el Mes Mundial del Alzheimer: quédate cerca. ComeHomeTag (comehometag.com). #familia #seguridadinfantil #papas #peru #alzheimer",
-    "tt": "Todo agosto en una lámina 📌 Guárdala #papas #familia #peru",
-    "fb": "Fin de mes: todo lo de agosto comprimido en 5 hábitos que caben en una lámina (y en una puerta de refri). Guárdala. Y ojo: septiembre es el Mes Mundial del Alzheimer. Si tienes un abuelo en casa, este espacio te va a servir. ¿Cuál de los 5 hábitos ya es automático en tu familia?"
+    "ig": "Los errores que más se repiten al salir con niños y su corrección, para guardar: foto del día antes de salir, punto de reencuentro con nombre y responsable nombrado en voz alta. ComeHomeTag (comehometag.com): la identificación que se pone una vez y habla siempre. #niñosseguros #papas #familia #peru #seguridadinfantil #paraguardar",
+    "tt": "Todo agosto vi papás cometiendo los mismos errores 📋 #papas #niños #familia #peru",
+    "fb": "Un mes entero viendo salidas familiares deja un patrón: foto vieja en vez de foto del día, «nos buscamos» en vez de un punto con nombre, «todos lo estaban viendo» en vez de un responsable nombrado. Guárdate las correcciones. ComeHomeTag (comehometag.com): el hábito que se pone una vez."
    },
-   "alt": "Resumen del mes: los cinco hábitos de seguridad familiar de agosto en una lámina."
+   "alt": "Checklist de errores y correcciones al salir con niños: foto del día, punto de reencuentro y responsable nombrado."
   }
  ]
 }

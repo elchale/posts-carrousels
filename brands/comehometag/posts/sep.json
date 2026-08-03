@@ -858,38 +858,46 @@
     {
      "role": "cover",
      "kicker": "DÍA MUNDIAL DEL ALZHEIMER",
-     "emoji": "💜",
-     "h": "200 mil familias peruanas viven con Alzheimer",
-     "b": "hoy es su día mundial"
+     "h": "A una persona con Alzheimer no se le habla así",
+     "b": "hoy es su día mundial",
+     "emoji": "💜"
     },
     {
      "role": "value",
-     "h": "Lo que sí puede cambiar hoy",
-     "b": "Que se hable. Pregunta en tu grupo familiar: ¿alguien nota algo en los abuelos? ¿quién está cuidando y necesita relevo? El Alzheimer se lleva mejor en equipo que en secreto."
+     "h": "No lo examines",
+     "b": "Así no: «¿no te acuerdas quién soy?»\nAsí sí: «hola papá, soy Carlos, tu hijo»"
     },
     {
      "role": "value",
-     "h": "Los 4 básicos del que cuida",
-     "b": "· Rutina fija\n· Salidas acompañadas al atardecer\n· El barrio avisado con tu número\n· Identificación SIEMPRE encima"
+     "h": "No lo corrijas, acompáñalo",
+     "b": "Así no: «mamá murió hace años, entiende»\nAsí sí: «cuéntame de ella mientras tomamos té»"
+    },
+    {
+     "role": "value",
+     "h": "Háblale como a un adulto",
+     "b": "Así no: rápido, al aire y en plural\nAsí sí: de frente, despacio, una idea por vez"
+    },
+    {
+     "role": "recap"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
-     "h": "Hoy sí te lo decimos directo",
-     "b": "ComeHomeTag (comehometag.com) es la pulsera QR para abuelos: quien la escanea con su celular ve tu contacto al momento. Sin batería, sin apps, sin mensualidades. Las familias que cuidan ya la llevan puesta."
+     "h": "Cuando tú no estés cerca para hablar bien",
+     "b": "ComeHomeTag habla por él: una pulsera QR que cualquier persona escanea y ve a quién llamar. Las familias que cuidan a un abuelo la eligen porque no lo delata ni lo vigila."
     },
     {
      "role": "cta",
-     "h": "Comparte esto con una familia morada.",
-     "b": "Y que la identificación quede puesta hoy: comehometag.com"
+     "h": "Hoy el mundo habla de Alzheimer. Háblale bien tú.",
+     "b": "comehometag.com"
     }
    ],
    "caption": {
-    "ig": "Día Mundial del Alzheimer: en el Perú lo viven más de 200 mil familias (MINSA), casi siempre cuidando en casa y sin manual. Los 4 básicos del cuidador. Rutina, atardecer acompañado, barrio avisado, identificación encima. Y la pregunta que tu grupo familiar debería hacerse hoy. 💜 #diamundialdelalzheimer #alzheimer #peru #adultomayor",
-    "tt": "Hoy es el Día Mundial del Alzheimer 💜 los 4 básicos del cuidador #alzheimer #peru #abuelos",
-    "fb": "Hoy es el Día Mundial del Alzheimer. Más de 200 mil familias peruanas lo viven. Y la mayoría carga sola. Si en tu familia hay un abuelo con diagnóstico (o con señales), hoy es el día de hacer la pregunta en el grupo: ¿quién cuida, y quién lo releva? Los 4 básicos van en el post."
+    "ig": "Día Mundial del Alzheimer: cómo hablarle a una persona con Alzheimer y cómo no. No lo examines con «¿no te acuerdas?», no lo corrijas, preséntate tú y háblale de frente, despacio, una idea por vez. ComeHomeTag (comehometag.com): la pulsera QR que habla por él cuando no puede. #alzheimer #adultomayor #abuelos #familia #peru #cuidadores",
+    "tt": "A una persona con Alzheimer no se le habla así 💜 #alzheimer #abuelos #familia #peru",
+    "fb": "Hoy es el Día Mundial del Alzheimer. «¿No te acuerdas quién soy?» duele y no ayuda: preséntate tú. «Mamá murió hace años» rompe: acompaña la emoción. De frente, despacio, una idea por vez. ComeHomeTag (comehometag.com): la pulsera QR que habla por él cuando el recuerdo no llega."
    },
-   "alt": "Día Mundial del Alzheimer: los cuatro hábitos básicos del cuidador."
+   "alt": "Frases que dañan y frases que cuidan al hablar con una persona con Alzheimer, por el día mundial."
   },
   {
    "slug": "22-primavera-ninos",
@@ -1181,42 +1189,46 @@
    "slides": [
     {
      "role": "cover",
-     "emoji": "✅",
-     "h": "Guárdate estos 4 hábitos de septiembre"
+     "h": "Hay papás modo susto y papás modo plan",
+     "b": "septiembre te enseñó a ser el segundo",
+     "emoji": "✅"
     },
     {
      "role": "value",
-     "h": "1. El número como canción",
-     "b": "Tu hijo y tu papá saben tu número de memoria. Se practica en el carro, se prueba una vez por semana, sin mirar pantalla."
+     "h": "Cuando no lo ves",
+     "b": "Modo susto: correr gritando su nombre\nModo plan: uno se planta en el punto, otro barre"
     },
     {
      "role": "value",
-     "h": "2. La foto del día y la red de 3",
-     "b": "Foto como salió vestido, en cada salida. Y dos personas que siempre contestan, con las fotos y el plan. Un mensaje al mes mantiene viva la red."
+     "h": "Cuando te piden describirlo",
+     "b": "Modo susto: «polo azul... creo»\nModo plan: mostrar la foto de hoy"
     },
     {
      "role": "value",
-     "h": "3. El punto y la regla. 4. Lo pasivo",
-     "b": "Punto de reencuentro dicho en voz alta al llegar + 'si te pierdes, quédate donde estás'. Y encima de todo: identificación pasiva, la que no usa batería."
+     "h": "El número de mamá",
+     "b": "Modo susto: «él se lo sabe»\nModo plan: probado esta semana, sin mirar pantalla"
+    },
+    {
+     "role": "recap"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
-     "h": "El hábito que se pone una vez",
-     "b": "ComeHomeTag es el número 4 resuelto: QR con tu contacto, puesto en la muñeca, sin batería ni mensualidad. comehometag.com"
+     "h": "El modo plan se lleva en la muñeca",
+     "b": "Los papás modo plan completan el sistema con ComeHomeTag: si todo lo demás falla, el QR dice tu número al primer escaneo. Sin batería, sin mensualidades."
     },
     {
      "role": "cta",
-     "h": "Septiembre acaba. Los hábitos se quedan.",
-     "b": "Guarda la lámina 3 y revívela cada mes: comehometag.com"
+     "h": "Octubre viene con multitudes. Entra en modo plan.",
+     "b": "comehometag.com"
     }
    ],
    "caption": {
-    "ig": "Los 4 hábitos que septiembre deja instalados: el número memorizado como canción, la foto del día + red de 3, el punto de reencuentro con su regla, y la identificación pasiva. Guarda este post. Es el resumen del mes en una lámina. #seguridadinfantil #habitos #familia #peru #alzheimer",
-    "tt": "4 hábitos que salvan, en 30 segundos ✅ #seguridadinfantil #familia #peru",
-    "fb": "Fin de mes, resumen honesto: si de todo septiembre te quedas con 4 cosas, que sean estas. Número memorizado, foto del día + red de 3, punto de reencuentro dicho en voz alta, e identificación que no usa batería. Guárdalo y pruébalos este finde."
+    "ig": "Papás modo susto vs papás modo plan: la diferencia en el momento que importa. Uno se planta en el punto y otro barre, la foto de hoy en vez de la memoria, y el número probado esta semana. ComeHomeTag (comehometag.com) completa el modo plan. #niñosseguros #papas #familia #peru #prevencion",
+    "tt": "Hay papás modo susto y papás modo plan ✅ ¿cuál eres? #papas #niños #familia #peru",
+    "fb": "Cuando un niño no aparece hay dos tipos de papás: el que corre gritando y el que ejecuta el plan. Plantarse en el punto, mostrar la foto de hoy, el número probado. Octubre viene con procesiones y multitudes: entra en modo plan. ComeHomeTag (comehometag.com), el QR que habla si todo lo demás falla."
    },
-   "alt": "Resumen de los cuatro hábitos de seguridad familiar del mes."
+   "alt": "Comparación entre reaccionar con susto y reaccionar con plan cuando un niño se pierde."
   },
   {
    "slug": "30-mes-morado",

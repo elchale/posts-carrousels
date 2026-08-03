@@ -365,20 +365,25 @@
     {
      "role": "cover",
      "kicker": "LA PELÍCULA DE FACEBOOK",
-     "emoji": "🗂",
-     "h": "Facebook cayó por sus propios archivos",
-     "b": "hoy se estrena la película",
-     "img": "evento-social-reckoning.jpg"
+     "img": "evento-social-reckoning.jpg",
+     "h": "Estás mirando los números equivocados de tu negocio",
+     "b": "hoy se estrena la película de los archivos",
+     "emoji": "🗂"
     },
     {
      "role": "value",
-     "h": "Tus números también hablan",
-     "b": "Qué post trajo ventas, a qué hora te compran, de dónde llega la gente: tu negocio genera archivos todos los días y nadie los lee."
+     "h": "El alcance no paga la luz",
+     "b": "Así no: celebrar cinco mil vistas\nAsí sí: contar mensajes recibidos por post"
     },
     {
      "role": "value",
-     "h": "Los 3 que sí importan",
-     "b": "El alcance no paga. Guarda mejor: mensajes recibidos por post, hora real de tus ventas, y el post que la gente comparte. Eso decide tu próximo mes."
+     "h": "La hora real de tus ventas",
+     "b": "Así no: publicar a la hora que te acomoda\nAsí sí: mirar cuándo te escriben y publicar antes"
+    },
+    {
+     "role": "value",
+     "h": "El post que se repite",
+     "b": "Así no: repetir el que te gustó a ti\nAsí sí: repetir el que trajo preguntas"
     },
     {
      "role": "stat",
@@ -388,16 +393,16 @@
     },
     {
      "role": "cta",
-     "h": "Lee tus archivos antes de que te lean.",
-     "b": "propaga.pe"
+     "h": "Tus archivos también dicen la verdad.",
+     "b": "Léelos. propaga.pe"
     }
    ],
    "caption": {
-    "ig": "Hoy se estrena The Social Reckoning: Facebook y sus archivos internos. Tu negocio también tiene archivos que hablan, qué post vendió, a qué hora compran, qué se comparte. Léelos. #thesocialreckoning #marketingdigital #negociosperu",
-    "tt": "Facebook cayó por sus archivos, los tuyos te pueden salvar 🗂 #thesocialreckoning #negocios",
-    "fb": "Se estrena la película de los archivos de Facebook. Moraleja para tu negocio: los números internos siempre hablan. Los 3 que sí importan: mensajes por post, hora de tus ventas y qué comparte la gente. ¿Los has visto esta semana?"
+    "ig": "Los números que miras vs los que pagan: mensajes por post en vez de alcance, la hora real en que te escriben en vez de la que te acomoda, y repetir el post que trajo preguntas. propaga.pe te enseña esos números sin abrir Excel. #metricas #negocios #marketingdigital #emprendedores #peru #redessociales",
+    "tt": "Estás mirando los números equivocados de tu negocio 🗂 #negocios #metricas #emprendedores #peru",
+    "fb": "Hoy se estrena la película de los archivos de Facebook: los números internos dicen la verdad. Los de tu negocio también, si miras los correctos: mensajes por post, hora real de tus ventas y el post que trajo preguntas. propaga.pe te los enseña sin Excel."
    },
-   "alt": "Los protagonistas de The Social Reckoning, película sobre los archivos de Facebook."
+   "alt": "Métricas de vanidad frente a métricas que venden, con el estreno de la película de Facebook como percha."
   },
   {
    "slug": "11-promo-2x1",
@@ -866,18 +871,23 @@
     {
      "role": "cover",
      "kicker": "CYBER WOW",
-     "emoji": "🛒",
-     "h": "Una sola oferta buena revienta esa semana"
+     "h": "Hay ofertas que revientan y ofertas que dan roche",
+     "emoji": "🛒"
     },
     {
      "role": "value",
-     "h": "La matemática de la oferta",
-     "b": "Descuento que aguante tu margen, tope de unidades y fecha de cierre. Los tres juntos o no sales."
+     "h": "Una sola, con matemática",
+     "b": "Así no: «todo con descuento»\nAsí sí: una oferta que tu margen aguanta"
     },
     {
      "role": "value",
-     "h": "Anúnciala antes",
-     "b": "La semana previa se calienta: 'el lunes pasa algo' más cuenta regresiva. El que anuncia el mismo lunes llega tarde."
+     "h": "Tope y fecha o no es oferta",
+     "b": "Así no: descuento eterno sin límite\nAsí sí: unidades contadas y día de cierre"
+    },
+    {
+     "role": "value",
+     "h": "Se calienta antes",
+     "b": "Así no: anunciarla el mismo lunes\nAsí sí: «el lunes pasa algo» desde esta semana"
     },
     {
      "role": "stat",
@@ -887,16 +897,16 @@
     },
     {
      "role": "cta",
-     "h": "Tu oferta se decide hoy, no ese lunes.",
+     "h": "Que tu oferta reviente, no que dé roche.",
      "b": "propaga.pe"
     }
    ],
    "caption": {
-    "ig": "La oferta de Cyber Wow se arma con 3 piezas: descuento que aguante el margen, tope de unidades, fecha de cierre. Y se anuncia la semana previa con intriga. #cyberwow #ofertas #negociosperu",
-    "tt": "Una sola oferta buena revienta la semana 🛒 #cyberwow #negociosperu",
-    "fb": "Para Cyber Wow no necesitas 20 descuentos: necesitas UNO con margen, tope y fecha, anunciado desde la semana previa con cuenta regresiva. El que avisa el mismo lunes, llega cuando ya gastaron."
+    "ig": "Ofertas de Cyber Wow que revientan vs las que dan roche: una sola con matemática que el margen aguanta, tope de unidades y fecha de cierre, y calentada desde la semana previa. propaga.pe manda el aviso a toda tu lista el día exacto. #cyberwow #ofertas #negocios #emprendedores #peru #ventas",
+    "tt": "Hay ofertas que revientan y ofertas que dan roche 🛒 #cyberwow #ofertas #negocios #peru",
+    "fb": "En Cyber Wow se ven los dos tipos de oferta: la que revienta (una sola, margen calculado, tope y fecha, anunciada antes) y la que da roche (todo con descuento, eterna, publicada el mismo lunes). propaga.pe deja tu semana Cyber programada."
    },
-   "alt": "Estructura de una oferta rentable para Cyber Wow."
+   "alt": "Comparación entre ofertas bien armadas y ofertas improvisadas para la semana de Cyber Wow."
   },
   {
    "slug": "24-halloween-para-todos",

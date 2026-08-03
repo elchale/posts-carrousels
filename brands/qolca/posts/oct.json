@@ -454,36 +454,41 @@
    "slides": [
     {
      "role": "cover",
-     "h": "Tu garantía es tu segunda venta",
+     "h": "Cobraste y desapareciste, como casi todos",
      "emoji": "🔧"
     },
     {
      "role": "value",
-     "h": "La garantía trae al cliente gratis",
-     "b": "El mantenimiento, la revisión, el ajuste: visitas que el cliente agradece. Cada una es una venta nueva esperando turno."
+     "h": "El mensaje de las 24 horas",
+     "b": "Así no: silencio hasta el reclamo\nAsí sí: «¿llegó todo bien? ¿alguna duda?»"
     },
     {
      "role": "value",
-     "h": "Prográmalas al vender",
-     "b": "En el momento del sí: «te escribo en [plazo] para la revisión». Queda en la ficha con fecha, y se cumple."
+     "h": "La revisión se agenda al vender",
+     "b": "Así no: «cualquier cosa me escribes»\nAsí sí: «te escribo en un mes para la revisión»"
+    },
+    {
+     "role": "value",
+     "h": "La garantía como cita, no como papel",
+     "b": "Así no: garantía guardada en un cajón\nAsí sí: mantenimiento con fecha en la ficha"
     },
     {
      "role": "stat",
      "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Citas, entregas y recordatorios que se confirman sin que los persigas"
+     "b": "Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\nCitas, entregas y recordatorios que se confirman sin que los persigas"
     },
     {
      "role": "cta",
-     "h": "La posventa se agenda al vender.",
-     "b": "Y la agenda avisa sola: qolca.org"
+     "h": "La segunda venta empieza al cobrar la primera.",
+     "b": "qolca.org"
     }
    ],
    "caption": {
-    "ig": "La garantía no es un costo: es la cita de tu segunda venta. Programarla en el momento del sí y dejar que la agenda avise. #posventa #ventas #peru #negocios",
-    "tt": "Tu garantía es una venta disfrazada 🔧 #negocios #peru #ventas",
-    "fb": "¿Ofreces mantenimiento o revisión y esperas que el cliente se acuerde? La segunda venta se agenda EN la primera: «te escribo en 6 meses», apuntado con fecha. ¿Lo haces?"
+    "ig": "Cobrar y desaparecer vs vender la segunda: el «¿llegó todo bien?» a las 24 horas, la revisión agendada en el momento del sí y la garantía convertida en cita con fecha. Qolca (qolca.org) deja esos mensajes programados en tu CRM. #postventa #clientes #ventas #negocios #peru #crm",
+    "tt": "Cobraste y desapareciste, como casi todos 🔧 #postventa #ventas #negocios #peru",
+    "fb": "La mayoría de negocios cobra y desaparece hasta el reclamo. Los que venden dos veces escriben a las 24 horas, agendan la revisión al vender y convierten la garantía en cita. Qolca (qolca.org): CRMs donde la posventa se dispara sola."
    },
-   "alt": "Programar mantenimiento y garantía como segunda venta."
+   "alt": "Posventa que desaparece frente a posventa que agenda: mensajes de 24 horas, revisiones y garantía con fecha."
   },
   {
    "slug": "13-simulacro",
@@ -568,36 +573,42 @@
    "slides": [
     {
      "role": "cover",
-     "h": "Revisa qué respondiste el 1 de octubre",
+     "h": "Tus chats de hace 15 días siguen vivos",
+     "b": "retómalos bien",
      "emoji": "🔍"
     },
     {
      "role": "value",
-     "h": "El repaso de quincena",
-     "b": "Filtra los chats de hace 15 días sin cierre. No son perdidos: son pendientes que nadie retomó."
+     "h": "Pendiente no es perdido",
+     "b": "Así no: darlos por muertos en silencio\nAsí sí: filtrar los sin cierre y retomarlos"
     },
     {
      "role": "value",
-     "h": "El retoque sin drama",
-     "b": "«¿Seguimos con lo que hablamos? Esta semana puedo [beneficio concreto].» Directo, sin «disculpa la molestia»."
+     "h": "Sin pedir disculpas",
+     "b": "Así no: «disculpa la molestia...»\nAsí sí: «¿seguimos con lo que hablamos?»"
+    },
+    {
+     "role": "value",
+     "h": "Con contexto y beneficio",
+     "b": "Así no: «¿ya decidiste?», pelado\nAsí sí: «esta semana puedo entregarlo instalado»"
     },
     {
      "role": "stat",
      "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Cada cliente con su historia completa: qué pidió, qué pagó, cuándo volver a llamarlo"
+     "b": "Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\nCada cliente con su historia completa: qué pidió, qué pagó, cuándo volver a llamarlo"
     },
     {
      "role": "cta",
-     "h": "Quince días, una revisada.",
-     "b": "El pendiente no se pierde solo: qolca.org"
+     "h": "Quince días no matan una venta. El silencio sí.",
+     "b": "qolca.org"
     }
    ],
    "caption": {
-    "ig": "El repaso de quincena: los chats de hace 15 días sin cierre son ventas dormidas. El filtro y el mensaje de retoque sin drama. #ventas #seguimiento #peru #negocios",
-    "tt": "Lo que respondiste el 1 de octubre te está esperando 🔍 #negocios #ventas",
-    "fb": "Mitad de mes: ¿cuántos chats de la primera semana quedaron sin cierre? No están perdidos, están esperando el retoque. Sin «disculpa la molestia»: directo y con beneficio. ¿Cuántos rescatas hoy?"
+    "ig": "Los chats de hace 15 días no están perdidos, están pendientes: filtra los sin cierre, retómalos sin pedir disculpas y con un beneficio concreto sobre la mesa. Qolca (qolca.org) arma la lista de retome sola en tu CRM. #ventas #whatsapp #seguimiento #negocios #peru #crm",
+    "tt": "Tus chats de hace 15 días siguen vivos 🔍 #ventas #whatsapp #negocios #peru",
+    "fb": "El que preguntó hace dos semanas y quedó en visto no dijo que no: se distrajo. Filtra los chats sin cierre, retómalos directo («¿seguimos con lo que hablamos?») y suma algo concreto. Qolca (qolca.org): el CRM que te entrega esa lista lista."
    },
-   "alt": "Repaso quincenal de chats sin cierre y mensaje de retoque."
+   "alt": "Cómo retomar chats pendientes de quincena: sin disculpas, con contexto y con beneficio."
   },
   {
    "slug": "16-contestar-no-es-atender",
@@ -1040,41 +1051,41 @@
    "slides": [
     {
      "role": "cover",
-     "h": "Tu asistente también necesita guion",
+     "h": "Lo que responde solo por ti necesita guion",
      "emoji": "🎭"
     },
     {
      "role": "value",
-     "h": "Lo que responde por ti habla como tú o estorba",
-     "b": "Saludo con tu voz, respuestas con tus palabras. El cliente detecta lo enlatado en la primera línea."
+     "h": "Suena a tu negocio o estorba",
+     "b": "Así no: «estimado usuario, mensaje procesado»\nAsí sí: tu nombre, tiempo honesto, salida a persona"
     },
     {
      "role": "value",
-     "h": "Las 3 preguntas que califican",
-     "b": "¿Para cuándo? ¿Para qué uso? ¿Cómo prefieres pagar? Con esas tres, la persona entra a cerrar, no a averiguar."
+     "h": "Califica, no interroga",
+     "b": "Así no: diez preguntas de formulario\nAsí sí: ¿para cuándo, para qué uso, cómo pagas?"
     },
     {
      "role": "value",
-     "h": "Lo que NUNCA responde solo",
-     "b": "Reclamos, negociación y despedidas: ahí siempre entra un humano. Esa regla es la que da confianza."
+     "h": "Lo que nunca responde solo",
+     "b": "Así no: reclamos contestados por máquina\nAsí sí: reclamo detectado, humano al instante"
     },
     {
      "role": "stat",
      "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· De noche responde solo lo repetitivo; lo importante te espera etiquetado, y siempre hay un humano al final"
+     "b": "Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\nDe noche responde solo lo repetitivo; lo importante te espera etiquetado, y siempre hay un humano al final"
     },
     {
      "role": "cta",
-     "h": "Escríbele el guion a tu asistente.",
-     "b": "O construyámoslo juntos: qolca.org"
+     "h": "Automático por fuera, tú por dentro.",
+     "b": "qolca.org"
     }
    ],
    "caption": {
-    "ig": "Tu asistente (humano o automático) necesita guion: la voz, las 3 preguntas que califican y la lista de lo que NUNCA se responde solo. #atencion #whatsapp #peru #negocios",
-    "tt": "Sin guion, tu asistente espanta clientes 🎭 #negocios #peru",
-    "fb": "¿Quien responde por ti suena a ti o a call center? El guion define voz, las 3 preguntas que califican y, lo más importante, lo que jamás se responde en automático. ¿Tu asistente lo tiene?"
+    "ig": "Un asistente automático sin guion espanta: debe sonar a tu negocio con tiempo honesto, calificar con tres preguntas en vez de interrogar y pasar los reclamos a un humano al instante. Qolca (qolca.org) escribe ese guion contigo. #automatizacion #whatsapp #atencionalcliente #negocios #peru #ia",
+    "tt": "Lo que responde solo por ti necesita guion 🎭 #whatsapp #automatizacion #negocios #peru",
+    "fb": "Automatizar sin guion es poner un robot antipático en tu puerta. El asistente que funciona suena a tu negocio, hace las tres preguntas que califican y deriva los reclamos a una persona de inmediato. Qolca (qolca.org) los construye con tu voz."
    },
-   "alt": "Guion de atención para asistentes humanos o automáticos."
+   "alt": "Reglas de guion para asistentes automáticos: tono propio, preguntas que califican y reclamos siempre humanos."
   },
   {
    "slug": "28-base-limpia",
@@ -1117,36 +1128,42 @@
    "slides": [
     {
      "role": "cover",
-     "h": "La campaña navideña se atiende con lo de Cyber Wow",
+     "h": "La campaña navideña no se inventa de cero",
+     "b": "ya la tienes a medias",
      "emoji": "🎄"
     },
     {
      "role": "value",
-     "h": "El kit se recicla, no se reinventa",
-     "b": "· Mismo saludo con fechas nuevas, mismas respuestas con productos de diciembre, misma regla de escalado\n· Cambias tres líneas, no tres días"
+     "h": "Recicla el kit, no lo reinventes",
+     "b": "Así no: diciembre desde el papel en blanco\nAsí sí: el kit de Cyber Wow con fechas nuevas"
     },
     {
      "role": "value",
-     "h": "Lo único nuevo: los tiempos de entrega",
-     "b": "Diciembre satura todo. El tiempo honesto de noviembre no es el del 20 de diciembre, ajústalo cada semana."
+     "h": "Los tiempos se ajustan cada semana",
+     "b": "Así no: prometer en diciembre la entrega de noviembre\nAsí sí: tiempo honesto revisado cada lunes"
+    },
+    {
+     "role": "value",
+     "h": "Se prueba antes del pico",
+     "b": "Así no: estrenar respuestas el 15 de diciembre\nAsí sí: mándatelas a ti mismo esta semana"
     },
     {
      "role": "stat",
      "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Citas, entregas y recordatorios que se confirman sin que los persigas"
+     "b": "Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\nCitas, entregas y recordatorios que se confirman sin que los persigas"
     },
     {
      "role": "cta",
-     "h": "Guarda tu kit de campaña.",
-     "b": "Diciembre ya está a la vuelta: qolca.org"
+     "h": "Diciembre se gana con lo ya probado.",
+     "b": "qolca.org"
     }
    ],
    "caption": {
-    "ig": "Tu kit de Cyber Wow ES tu kit navideño: qué se recicla tal cual y lo único que cambia (los tiempos de entrega). #navidad #cyberwow #peru #negocios",
-    "tt": "Navidad se atiende con el kit de Cyber Wow 🎄 #negocios #peru",
-    "fb": "No armes dos veces lo mismo: el kit de Cyber Wow se recicla para diciembre cambiando 3 líneas. Lo único sagrado: ajustar tiempos de entrega cada semana. ¿Guardaste tu kit?"
+    "ig": "La campaña navideña no se inventa de cero: recicla el kit de Cyber Wow con fechas nuevas, ajusta los tiempos de entrega cada lunes y prueba las respuestas antes del pico. Qolca (qolca.org) deja el sistema listo para diciembre. #navidad #campaña #whatsapp #negocios #peru #ventas",
+    "tt": "La campaña navideña no se inventa de cero 🎄 #navidad #negocios #ventas #peru",
+    "fb": "Diciembre no necesita un sistema nuevo: necesita el de Cyber Wow reciclado con fechas nuevas, tiempos de entrega honestos revisados cada semana y respuestas probadas antes del pico. Qolca (qolca.org) construye el kit que aguanta la campaña."
    },
-   "alt": "Reciclaje del kit de campaña para navidad."
+   "alt": "Cómo reciclar el kit de campaña para Navidad en vez de improvisar diciembre desde cero."
   },
   {
    "slug": "30-halloween",

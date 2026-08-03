@@ -276,51 +276,43 @@
     {
      "role": "story",
      "plate": "cine-02-oficina",
-     "h": "Lee unas bases en 20 minutos",
-     "b": "El orden importa más que el esfuerzo",
+     "h": "Las bases no se leen de corrido",
+     "b": "el orden te ahorra semanas",
      "emoji": "📄"
     },
     {
      "role": "value",
-     "h": "1. Cronograma",
-     "b": "Fechas de consultas, de presentación de ofertas y de buena pro. Si la presentación es pasado mañana, llegaste tarde. Pasa al siguiente sin leer más."
+     "h": "Primero el cronograma",
+     "b": "Así no: soñar con el contrato en la página 1\nAsí sí: fechas primero, ¿llegas con calidad?"
     },
     {
      "role": "value",
-     "h": "2. Requisitos de calificación",
-     "b": "La lista de lo que descalifica: RNP, experiencia, capacidad. Si no cumples uno, cierra el PDF ahí. Nada de lo demás importa todavía."
+     "h": "Requisitos antes que ilusión",
+     "b": "Así no: armar la oferta y recién ver requisitos\nAsí sí: calificación en semáforo, un rojo y siguiente"
     },
     {
      "role": "value",
-     "h": "3. Especificaciones técnicas",
-     "b": "¿Puedes entregar exactamente eso, en ese plazo, en ese lugar? Las especificaciones no se negocian después de la buena pro. Se cumplen."
-    },
-    {
-     "role": "value",
-     "h": "4. Factores de evaluación",
-     "b": "Aquí dice cómo se gana: cuánto pesa el precio y qué suma puntos. Muchos pierden con buena oferta por saltarse esta página. Es la que decide tu estrategia."
-    },
-    {
-     "role": "recap"
+     "h": "El precio se arma para la tabla",
+     "b": "Así no: cotizar y recién mirar los factores\nAsí sí: factores de evaluación antes de poner precio"
     },
     {
      "role": "stat",
+     "shot": "shot-feed.png",
      "h": "El radar te resume lo importante primero",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE y una IA que te explica qué pide cada proceso y cuáles le convienen a tu empresa.",
-     "shot": "shot-feed.png"
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE y una IA que lee lo pesado."
     },
     {
      "role": "cta",
-     "h": "20 minutos, en este orden",
-     "b": "Guarda la ruta de lectura y estrénala hoy: radarestatal.pe"
+     "h": "Bases leídas en orden, semanas ganadas.",
+     "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "Cómo leer las bases de una licitación en 20 minutos: 1) cronograma, 2) requisitos de calificación (si fallas uno, cierra el PDF), 3) especificaciones técnicas, 4) factores de evaluación. La página que dice cómo se gana. #licitaciones #bases #SEACE #mype #peru",
-    "tt": "Lee unas bases de licitación en 20 min. El orden correcto 📄 #licitaciones #SEACE #mype #peru",
-    "fb": "Las bases no se leen de corrido como novela: se leen en orden de descarte. Cronograma, requisitos de calificación, especificaciones, y recién ahí los factores de evaluación. La página que dice cómo se gana y que casi todos se saltan. Guía completa en el post. radarestatal.pe"
+    "ig": "Cómo NO leer unas bases del SEACE: de corrido y soñando con el contrato. El orden correcto: cronograma primero, requisitos de calificación en semáforo y los factores de evaluación antes de cotizar. Radar Estatal (radarestatal.pe) resume lo importante. #licitaciones #SEACE #mype #contratacionesdelestado #peru #proveedoresdelestado",
+    "tt": "Las bases no se leen de corrido 📄 el orden te ahorra semanas #licitaciones #SEACE #mype #peru",
+    "fb": "El error clásico del proveedor nuevo: leer las bases de corrido, ilusionado, y descubrir al final un requisito que no cumple. El orden correcto ahorra semanas: cronograma, requisitos en semáforo, y los factores de evaluación antes de poner precio. radarestatal.pe"
    },
-   "alt": "Orden correcto para leer las bases de un proceso de selección: cronograma, requisitos, especificaciones y factores."
+   "alt": "Orden correcto e incorrecto para leer unas bases de licitación del Estado."
   },
   {
    "slug": "11-quien-postula",
@@ -685,24 +677,23 @@
     {
      "role": "story",
      "plate": "cine-10-amanecer",
-     "h": "Las entidades compran con calendario",
-     "b": "Tú también deberías vender con uno",
+     "h": "El Estado compra con calendario y tú vendes sin uno",
      "emoji": "📅"
     },
     {
      "role": "value",
-     "h": "El año fiscal manda",
-     "b": "Cada entidad tiene un presupuesto anual que debe ejecutar. Por eso las compras se aceleran hacia el fin de cada trimestre y hacia el cierre del año. Es ritmo, no casualidad."
+     "h": "El ritmo fiscal existe",
+     "b": "Así no: mirar el SEACE «cuando me acuerdo»\nAsí sí: martes y jueves, 10 minutos fijos"
     },
     {
      "role": "value",
-     "h": "Tu rubro tiene temporada",
-     "b": "Busca tu rubro con filtro de fechas y compara mes a mes: vas a ver los picos. Esa estacionalidad se repite. Y te dice cuándo tener todo listo."
+     "h": "La temporada de tu rubro",
+     "b": "Así no: tratar todos los meses igual\nAsí sí: filtrar por fechas y ubicar tus picos"
     },
     {
      "role": "value",
-     "h": "Prepárate antes del pico",
-     "b": "RNP habilitado, experiencia documentada, garantía conversada con tu banco, búsqueda afinada. El pico premia al que llegó preparado, no al que se enteró ese día."
+     "h": "Prepararse antes, no durante",
+     "b": "Así no: sacar el RNP cuando salió el proceso\nAsí sí: carpeta lista antes del cierre de trimestre"
     },
     {
      "role": "stat",
@@ -711,16 +702,16 @@
     },
     {
      "role": "cta",
-     "h": "El Estado tiene agenda",
-     "b": "Cópiala: radarestatal.pe"
+     "h": "El Estado tiene agenda. Cópiala.",
+     "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "El Estado compra con calendario: presupuesto anual, picos a fin de trimestre y cierre de año. Tu rubro tiene temporada. Mírala con el filtro de fechas del SEACE y prepara la carpeta antes del pico. #licitaciones #SEACE #mype #contratacionesdelestado #peru",
-    "tt": "Las entidades del Estado compran con calendario 📅 #licitaciones #SEACE #mype #peru",
-    "fb": "¿Sabías que las compras del Estado tienen temporadas? El presupuesto anual se ejecuta con apuro a fin de trimestre y de año. El proveedor que conoce ese ritmo prepara su carpeta ANTES del pico. Y llega cuando los demás recién se enteran. radarestatal.pe"
+    "ig": "El Estado compra con calendario: presupuesto anual y picos a fin de trimestre y de año. Así no: mirar el SEACE cuando te acuerdas. Así sí: dos revisadas fijas por semana, temporada del rubro ubicada y carpeta lista antes del pico. Radar Estatal (radarestatal.pe). #licitaciones #SEACE #mype #contratacionesdelestado #peru",
+    "tt": "El Estado compra con calendario y tú vendes sin uno 📅 #licitaciones #SEACE #mype #peru",
+    "fb": "Las compras del Estado tienen ritmo: se aceleran a fin de trimestre y hacia el cierre del año. El proveedor sin calendario se entera tarde; el que copia la agenda del Estado prepara la carpeta antes del pico. radarestatal.pe vigila ese calendario por ti."
    },
-   "alt": "El calendario fiscal del Estado: por qué las compras se aceleran a fin de trimestre y cómo prepararse."
+   "alt": "Vender al Estado con calendario propio frente a mirar el SEACE de vez en cuando."
   },
   {
    "slug": "20-oferta-perdida",
@@ -858,45 +849,42 @@
     {
      "role": "story",
      "plate": "cine-11-ferreteria",
-     "h": "¿Qué garantías te va a pedir el Estado?",
-     "b": "Menos miedo del que crees",
+     "h": "Le tienes miedo a la garantía equivocada",
+     "b": "el problema es el cuándo, no el cuánto",
      "emoji": "📜"
     },
     {
      "role": "value",
-     "h": "La de fiel cumplimiento",
-     "b": "Es el respaldo de que entregarás lo que ofertaste. El monto y la forma los fijan las bases de cada proceso. Por eso se leen antes, no después de ganar."
+     "h": "La línea se pide antes de ganar",
+     "b": "Así no: correr al banco con la buena pro en mano\nAsí sí: línea conversada al decidir postular"
     },
     {
      "role": "value",
-     "h": "La alternativa que las MYPE olvidan",
-     "b": "En varios supuestos una MYPE puede solicitar la retención del pago en lugar de presentar carta fianza. Verifica en tus bases si tu proceso lo permite. Puede cambiarte el juego."
+     "h": "La retención existe para MYPE",
+     "b": "Así no: descartar procesos «por la carta fianza»\nAsí sí: verificar en tus bases si aplica la retención del pago"
     },
     {
      "role": "value",
-     "h": "Consíguela antes de ofertar",
-     "b": "Habla con tu banco o entidad financiera cuando decidas postular, no cuando ya ganaste. La garantía se consigue con días de anticipación. El apuro es su peor enemigo."
-    },
-    {
-     "role": "recap"
+     "h": "El monto lo fijan las bases",
+     "b": "Así no: asumir que toda garantía es imposible\nAsí sí: leer qué pide cada proceso, varía"
     },
     {
      "role": "stat",
      "h": "El radar te dice qué pide cada proceso",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE y una IA que te explica los requisitos de cada proceso antes de que inviertas tu semana."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE y una IA que resume requisitos y garantías."
     },
     {
      "role": "cta",
-     "h": "La garantía no muerde",
-     "b": "Llegar tarde a pedirla, sí: radarestatal.pe"
+     "h": "Miedo informado deja de ser miedo.",
+     "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "Garantías en licitaciones del Estado sin miedo: la de fiel cumplimiento la fijan las bases, y en varios supuestos una MYPE puede pedir retención del pago en lugar de carta fianza. Y siempre: consíguela antes de ofertar, no después de ganar. #licitaciones #mype #cartafianza #SEACE #peru",
-    "tt": "¿Qué garantías pide el Estado? Menos miedo del que crees 💪 #licitaciones #mype #SEACE #peru",
-    "fb": "La carta fianza asusta a más de una MYPE fuera del juego. Y muchas no saben que en varios supuestos pueden pedir retención del pago en su lugar. La regla que nunca falla: la garantía se gestiona cuando decides postular, no cuando ya ganaste. Detalles en el post. radarestatal.pe"
+    "ig": "Las garantías del Estado asustan menos cuando se entienden: la línea de fianza se conversa con el banco al postular, no al ganar; muchas MYPE pueden pedir retención del pago en vez de carta fianza; y el monto lo fijan las bases de cada proceso. Radar Estatal (radarestatal.pe). #licitaciones #mype #cartafianza #SEACE #peru #contratacionesdelestado",
+    "tt": "Le tienes miedo a la garantía equivocada 📜 #licitaciones #mype #SEACE #peru",
+    "fb": "Muchos descartan las licitaciones «por la carta fianza» sin saber que la conversación con el banco va antes de ganar, que las bases fijan cuánto pide cada proceso, y que muchas MYPE pueden pedir retención del pago en su lugar. radarestatal.pe te dice qué pide cada proceso."
    },
-   "alt": "Garantías en contrataciones del Estado: fiel cumplimiento, la alternativa de retención para MYPEs y cuándo gestionarla."
+   "alt": "Errores y aciertos frente a las garantías al postular al Estado: línea antes de ganar y retención para MYPE."
   },
   {
    "slug": "24-dos-puntos",
@@ -1087,43 +1075,43 @@
     {
      "role": "story",
      "plate": "cine-13-bases",
-     "h": "Nadie puede leer todo el SEACE",
-     "b": "Tú tampoco, y está bien",
+     "h": "Estás leyendo el SEACE como no es",
+     "b": "nadie puede con todo, tampoco hace falta",
      "emoji": "🌊"
     },
     {
      "role": "value",
-     "h": "El tamaño real del mar",
-     "b": "Más de 200 mil procesos viven en la base de datos abiertos del OECE, y cada día hábil entran nuevos. Leerlo todo no es disciplina: es imposible."
+     "h": "Afinado le gana a completo",
+     "b": "Así no: abrir el feed nacional entero\nAsí sí: rubro, región y escala, guardados"
     },
     {
      "role": "value",
-     "h": "Lo que sí puede un humano",
-     "b": "Dos revisadas semanales con búsqueda afinada: rubro, región, escala. Con criterio, diez minutos rinden más que una tarde entera sin filtro."
+     "h": "Frecuencia corta, no maratones",
+     "b": "Así no: una tarde entera al mes\nAsí sí: 10 minutos, dos veces por semana"
     },
     {
      "role": "value",
-     "h": "Lo que se escapa igual",
-     "b": "El proceso publicado con otro nombre, la entidad que nunca habías mirado, el desierto que se reconvocó el viernes. Al método manual siempre se le escapa algo. Asúmelo y cúbrete."
+     "h": "La misma búsqueda siempre",
+     "b": "Así no: buscar distinto cada vez\nAsí sí: búsqueda idéntica, lo nuevo salta solo"
     },
     {
      "role": "stat",
-     "h": "Para eso se inventó el radar",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, una IA que revisa lo que tú no llegas a ver y te recomienda lo que le conviene a tu empresa.",
-     "shot": "shot-feed.png"
+     "shot": "shot-feed.png",
+     "h": "Para lo que igual se escapa",
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
-     "h": "El mar no se lee, se navega",
-     "b": "Con instrumentos: radarestatal.pe"
+     "h": "Lee menos SEACE. Lee mejor.",
+     "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "Más de 200 mil procesos en los datos abiertos del OECE y nuevos cada día hábil: nadie puede leer todo el SEACE. Lo que sí puedes: dos revisadas semanales con filtro afinado. Y una herramienta que cubra lo que al método manual siempre se le escapa. #SEACE #licitaciones #mype #OECE #peru",
-    "tt": "Nadie puede leer todo el SEACE. Y está bien 🌊 #SEACE #licitaciones #mype #peru",
-    "fb": "Confesión de proveedor: nadie lee todo el SEACE. Son más de 200 mil procesos en datos abiertos y entran nuevos cada día hábil. El juego no es leer más. Es filtrar mejor y cubrirse de lo que igual se escapa. Cómo, en el post. radarestatal.pe"
+    "ig": "Nadie puede leer todo el SEACE y no hace falta: búsqueda afinada por rubro, región y escala, 10 minutos dos veces por semana y siempre la misma búsqueda para que lo nuevo salte solo. Radar Estatal (radarestatal.pe) caza lo que igual se escapa. #SEACE #licitaciones #mype #contratacionesdelestado #peru",
+    "tt": "Estás leyendo el SEACE como no es 🌊 #SEACE #licitaciones #mype #peru",
+    "fb": "Más de 200 mil procesos viven en los datos abiertos del Estado: leerlo todo es imposible. Leerlo bien no: filtros guardados de rubro, región y escala, dos revisadas cortas por semana, siempre idénticas. radarestatal.pe vigila lo que se te escapa entre medio."
    },
-   "alt": "El volumen del SEACE: más de 200 mil procesos en datos abiertos y cómo monitorearlo con método."
+   "alt": "Cómo leer el SEACE con filtros y rutina corta en vez de maratones imposibles."
   },
   {
    "slug": "29-iron-man-villano",

@@ -920,24 +920,24 @@
     {
      "role": "cover",
      "kicker": "SANTA ROSA",
-     "h": "El feriado te regala un domingo de ventas extra",
-     "b": "Los 3 posts del finde largo",
+     "h": "El post de feriado casi todos lo hacen mal",
+     "b": "así se corrige",
      "emoji": "🛒"
     },
     {
      "role": "value",
-     "h": "Viernes: la promo del feriado",
-     "b": "El combo o producto estrella con nombre propio (\"el plan feriado\") y cómo reservar o pedir. Publicado viernes al mediodía, cuando se arma el plan del finde."
+     "h": "Nada de tarjetas virtuales",
+     "b": "Así no: «feliz feriado» y el logo\nAsí sí: la promo del feriado con nombre propio"
     },
     {
      "role": "value",
-     "h": "Sábado: el recordatorio con prueba",
-     "b": "La misma promo, pero mostrada: la foto real, el pedido saliendo, el local listo. El que dudó el viernes decide el sábado viendo que es verdad."
+     "h": "La víspera vende, el día entrega",
+     "b": "Así no: publicar la promo el mismo domingo\nAsí sí: viernes anuncio, sábado recordatorio con foto"
     },
     {
      "role": "value",
-     "h": "Domingo: el post de \"estamos aquí\"",
-     "b": "Horario del día bien grande + lo que hay + cómo pedir. El feriado la gente decide a última hora: el post de las 10am atrapa el almuerzo."
+     "h": "El dato aburrido primero",
+     "b": "Así no: «escríbenos por DM para todo»\nAsí sí: horario del feriado y cómo pedir, visibles"
     },
     {
      "role": "recap"
@@ -945,21 +945,21 @@
     {
      "role": "stat",
      "shot": "shot-campana-chat.png",
-     "h": "Promo avisada, chats respondidos.",
-     "b": "Con propaga.pe el aviso sale a toda tu lista y las respuestas llegan a una sola bandeja."
+     "h": "Los tres posts, programados de una vez",
+     "b": "Con propaga.pe dejas el finde largo listo en una sentada y el domingo solo atiendes pedidos. Los negocios que llegan preparados ya publican así."
     },
     {
      "role": "cta",
-     "h": "Viernes, sábado, domingo. Listo.",
-     "b": "Tu finde largo programado: propaga.pe"
+     "h": "Este feriado, ni una tarjeta virtual.",
+     "b": "Vende de verdad. propaga.pe"
     }
    ],
    "caption": {
-    "ig": "El finde largo de Santa Rosa en 3 posts: viernes la promo con nombre (\"el plan feriado\"), sábado el recordatorio con foto real, domingo el \"estamos aquí\" con horario a las 10am. El feriado se decide a última hora, tu post también debe estar ahí. #santarosa #findelargo #negociosperu #ventas",
-    "tt": "El feriado te regala un domingo de ventas EXTRA 🗓️ 3 posts y listo #feriado #negociosperu #ventas",
-    "fb": "Un domingo feriado es un sábado disfrazado: la gente sale, celebra y gasta. Tres posts bastan: VIERNES la promo del feriado con cómo reservar, SÁBADO el recordatorio con foto real (la prueba de que es verdad), DOMINGO el horario del día a las 10am para atrapar el almuerzo. ¿Tu negocio ya tiene sus 3?"
+    "ig": "Posts de feriado que venden vs los que nadie ve: nada de «feliz feriado» con logo, promo con nombre propio publicada la víspera y el horario visible sin DM de por medio. propaga.pe deja el finde largo programado en una sentada. #santarosa #feriado #negocios #emprendedores #peru #marketingdigital",
+    "tt": "El post de feriado casi todos lo hacen mal 🛒 #feriado #negocios #emprendedores #peru",
+    "fb": "Se viene el feriado y tu feed se va a llenar de tarjetas de «feliz feriado» que no venden nada. Así sí: promo con nombre propio, anunciada el viernes, recordada el sábado con foto, y el horario del feriado visible. propaga.pe programa los tres posts de una vez."
    },
-   "alt": "Carrusel: los tres posts para vender en el fin de semana largo de Santa Rosa."
+   "alt": "Comparación entre posts de feriado que no venden y los que sí: promo con nombre, víspera y datos visibles."
   },
   {
    "slug": "25-pozo-de-los-deseos",
@@ -968,43 +968,43 @@
      "role": "cover",
      "kicker": "SANTA ROSA",
      "img": "evento-pozo.jpg",
-     "h": "¿Tu deseo es tener más clientes?",
-     "b": "el pozo no contesta, tu perfil sí",
+     "h": "Tu post de pregunta nadie lo contesta",
+     "b": "así se pregunta bien",
      "emoji": "🪙"
     },
     {
      "role": "value",
-     "h": "El post de participación que sí jala",
-     "b": "\"¿Qué le pedirías al pozo para tu familia este año?\" Pregunta concreta, personal y del momento. Las preguntas genéricas (\"¿cómo están?\") no mueven a nadie."
+     "h": "Pregunta del momento, no de manual",
+     "b": "Así no: «¿cómo está tu día?»\nAsí sí: «¿qué le pedirías al pozo este año?»"
     },
     {
      "role": "value",
-     "h": "Responde TODO y fija el mejor",
-     "b": "Un post de pregunta abandonado es una fiesta sin anfitrión. Cada respuesta se contesta (aunque sea corto), y el comentario más bonito se fija arriba."
+     "h": "El anfitrión no abandona la fiesta",
+     "b": "Así no: publicar y desaparecer\nAsí sí: cada respuesta se contesta, la mejor se fija"
     },
     {
      "role": "value",
-     "h": "Por qué conviene un post que no vende",
-     "b": "Los comentarios de hoy le enseñan al algoritmo que tu cuenta conversa. Tu post de venta de mañana llega más lejos. Se siembra en feriado, se cosecha en semana."
+     "h": "Responde con nombre, no con emoji",
+     "b": "Así no: un corazoncito a cada comentario\nAsí sí: dos líneas con su nombre"
     },
     {
      "role": "stat",
      "shot": "shot-comentarios.png",
-     "h": "Todas las respuestas, un solo lugar.",
-     "b": "propaga.pe junta los comentarios de todas tus redes para que el anfitrión nunca abandone la fiesta."
+     "h": "Todas las respuestas, un solo lugar",
+     "b": "propaga.pe junta los comentarios de todas tus redes en una bandeja: la fiesta atendida completa, entre venta y venta."
     },
     {
      "role": "cta",
-     "h": "Tu deseo: que comenten. Concedido.",
-     "b": "Publica tu pregunta del feriado: propaga.pe"
+     "h": "Este feriado pregunta bien y contesta todo.",
+     "b": "propaga.pe"
     }
    ],
    "caption": {
-    "ig": "Este feriado miles harán cola en el pozo de los deseos de Santa Rosa. Tu negocio puede entrar a esa conversación con un post de participación: \"¿qué le pedirías al pozo para tu familia?\", pregunta concreta + responder todo + fijar el mejor comentario. #santarosa #engagement #negociosperu #comunidad",
-    "tt": "Miles van a tirar su deseo al pozo 🪙 pregúntale el suyo a tus clientes #santarosa #negociosperu #engagement",
-    "fb": "El ritual del feriado: miles de cartas al pozo de los deseos de Santa Rosa. Tu negocio no necesita vender nada ese día, necesita conversar: \"¿Qué le pedirías al pozo este año?\" es un post que llena los comentarios si respondes todos y fijas el más bonito. Y esa conversación empuja tus posts de venta de la semana. ¿Cuál sería TU deseo?"
+    "ig": "Posts de pregunta que nadie contesta vs los que llenan tu bandeja: pregunta concreta del momento como el pozo de los deseos de Santa Rosa, cada respuesta contestada con nombre y la mejor fijada. propaga.pe junta los comentarios de todas tus redes. #santarosa #pozodelosdeseos #negocios #engagement #peru #emprendedores",
+    "tt": "Tu post de pregunta nadie lo contesta 🪙 así se hace #santarosa #negocios #peru #emprendedores",
+    "fb": "«¿Cómo está tu día?» no lo contesta nadie. «¿Qué le pedirías al pozo este año?» sí, porque es del momento. Y el que pregunta se queda a conversar: cada respuesta con nombre, la mejor fijada. propaga.pe junta los comentarios de todas tus redes en una bandeja."
    },
-   "alt": "Carrusel: post de participación para el feriado de Santa Rosa inspirado en el pozo de los deseos."
+   "alt": "Cómo hacer un post de pregunta que sí se contesta, con el pozo de los deseos de Santa Rosa como percha."
   },
   {
    "slug": "26-ya-vuelvo-whatsapp",
@@ -1243,43 +1243,43 @@
     {
      "role": "cover",
      "kicker": "PLANIFICACIÓN",
-     "h": "Septiembre se gana planificándolo hoy",
-     "b": "Las fechas que vienen y la tanda del mes",
+     "h": "Tu competencia ya planificó septiembre y tú no",
+     "b": "todavía estás a tiempo",
      "emoji": "🗓"
     },
     {
      "role": "value",
-     "h": "Las fechas de septiembre que venden",
-     "b": "Día de la Familia (dom 13): salidas y almuerzos. Primavera y Día de la Juventud (mar 23): renovación, promos frescas, todo se \"estrena\". Y la vuelta a la rutina que empuja pedidos entre semana."
+     "h": "El calendario antes que el pánico",
+     "b": "Así no: decidir cada mañana qué publicar\nAsí sí: las fechas del mes marcadas hoy"
     },
     {
      "role": "value",
-     "h": "La tanda del mes en una mañana",
-     "b": "Un día de esta semana, 2 horas, 12 posts:\n· 4 que enseñan\n· 4 que muestran\n· 4 de las fechas del mes"
+     "h": "La tanda le gana al diario",
+     "b": "Así no: 30 sesiones de apuro\nAsí sí: 12 posts en una mañana"
     },
     {
      "role": "value",
-     "h": "Deja espacio para lo vivo",
-     "b": "La tanda cubre lo planificable; las historias diarias cuentan lo que pasa. Base programada más capa espontánea: así se ve una marca activa sin morir en el intento."
+     "h": "Las fotos se cazan antes",
+     "b": "Así no: buscar foto a las 9 de la noche\nAsí sí: sábado de banco, 20 fotos de una vez"
     },
     {
      "role": "stat",
      "shot": "shot-lista.png",
-     "h": "Septiembre completo, en una pantalla.",
-     "b": "propaga.pe es la nueva herramienta del mercado: la tanda del mes programada en una sola sesión."
+     "h": "Septiembre completo, en una pantalla",
+     "b": "propaga.pe es donde esa planificación rinde: escribes una vez, arrastras cada post a su día y el mes publica solo."
     },
     {
      "role": "cta",
-     "h": "Que septiembre te encuentre listo.",
-     "b": "Tu mes en una mañana: propaga.pe"
+     "h": "Que septiembre no te agarre improvisando.",
+     "b": "propaga.pe"
     }
    ],
    "caption": {
-    "ig": "Último día de agosto: septiembre se planifica HOY. Las fechas que venden: Día de la Familia (13), Primavera y Día de la Juventud (23), y la vuelta a la rutina. La tanda del mes: una mañana, 12 posts, mes resuelto. #septiembre #planificacion #negociosperu #contenido",
-    "tt": "Septiembre se gana HOY, no el 15 📆 planifica tu mes en una mañana #planificacion #negociosperu #contenido",
-    "fb": "Mañana empieza septiembre. El negocio que planifica hoy arranca el 1 vendiendo; el que improvisa pierde la primera semana. Fechas clave: Día de la Familia (dom 13), Primavera (mar 23) y la vuelta a la rutina. Una mañana de esta semana + 12 posts = mes resuelto. ¿Ya sabes qué publica tu negocio el 1 de septiembre?"
+    "ig": "Planificar septiembre vs improvisarlo: calendario del mes marcado hoy, tanda de 12 posts en una mañana y banco de fotos del sábado. Tu competencia ya lo hizo. propaga.pe publica el mes solo. #planificacion #negocios #emprendedores #peru #marketingdigital #redessociales",
+    "tt": "Tu competencia ya planificó septiembre y tú no 🗓 #negocios #emprendedores #peru #marketing",
+    "fb": "Hay dos formas de entrar a septiembre: decidiendo cada mañana qué publicar, o con el mes ya programado. Calendario marcado, tanda de 12 posts en una mañana, fotos cazadas el sábado. propaga.pe hace que la planificación publique sola."
    },
-   "alt": "Carrusel: planificación del contenido de septiembre con sus fechas comerciales clave."
+   "alt": "Comparación entre improvisar el mes y planificarlo: calendario, tanda mensual y banco de fotos."
   }
  ]
 }
