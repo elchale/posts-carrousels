@@ -1,0 +1,53 @@
+{
+  "name": "Radar Estatal",
+  "tag": "radarestatal.pe",
+  "logo": "logo.png",
+  "display_font": "ChakraPetch-Bold.ttf",
+  "display_weight": null,
+  "roles_note": "el logo ES la paleta (directiva): solo azul y celeste. paper #F6F9FC, ink #0C2440, radar #2E7BE0, radar-deep #1D5FBF, sky #CFE3FA, mist #EAF2FD, line #D9E5F2. Nada de ambar/esmeralda.",
+  "body_font": "Montserrat-Variable.ttf",
+  "roles": {
+    "cover": {
+      "family": "cover",
+      "text": "#0c2440",
+      "sub": "#4e6584",
+      "accent": "#1d5fbf",
+      "light": false
+    },
+    "rehook": {
+      "family": "emph",
+      "text": "#f2f7fc",
+      "sub": "#a9c6ea",
+      "accent": "#8fc0f8",
+      "light": true
+    },
+    "value": {
+      "family": "value",
+      "text": "#0c2440",
+      "sub": "#4e6584",
+      "accent": "#1d5fbf",
+      "light": false
+    },
+    "stat": {
+      "family": "emph",
+      "text": "#f2f7fc",
+      "sub": "#a9c6ea",
+      "accent": "#8fc0f8",
+      "light": true
+    },
+    "story": {
+      "family": "cine",
+      "text": "#f4f8fd",
+      "sub": "#c2d7f0",
+      "accent": "#8fc0f8",
+      "light": true
+    },
+    "cta": {
+      "family": "cta",
+      "text": "#0c2440",
+      "sub": "#4e6584",
+      "accent": "#1d5fbf",
+      "light": false
+    }
+  }
+}

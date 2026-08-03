@@ -145,7 +145,24 @@ PRO = dict(
     cine=lambda a: scrim(top_scrim(splittone(exposure(a, 1.15, 0.94), "#2d1a1a", "#ff9550", 0.32), 0.15, 0.30), 0.45, 0.68),
 )
 
-RECIPES = {"comehometag": CHT, "qolca": QOL, "propaga": PRO}
+RAD = dict(
+    # radarestatal.pe (2026-08-02): el logo es la paleta — solo azul/celeste.
+    # paper #F6F9FC, ink #0C2440, radar #2E7BE0, sky #CFE3FA, mist #EAF2FD.
+    # Marca LIGHT: portadas claras con "ping" celeste; emph = azul tinta oscuro.
+    # keep=0.30 en cover: los anillos/retícula de radar SON la marca — a 0.10
+    # el duotono los borraba (visto 2026-08-03 en las plates propias).
+    cover=lambda a: add_glow(duotone(a, "#cfe3fa", "#f6f9fc", keep=0.30), "#9cc4f2", 0.5, 0.42, 0.55, 0.25),
+    cta=lambda a: add_glow(duotone(a, "#cfe3fa", "#f8fafd", keep=0.10), "#7fb4f5", 0.5, 0.80, 0.50, 0.30),
+    emph=lambda a: duotone(a, "#0c2440", "#2e7be0", keep=0.18),
+    value_paper=lambda a: duotone(a, "#d9e5f2", "#f9fbfe", keep=0.10),
+    value_slate=lambda a: duotone(a, "#bfd9f6", "#eaf2fd", keep=0.10),
+    # plates propias 2026-08-03: mist = workhorse claro, sky = alt celeste
+    value_mist=lambda a: duotone(a, "#d9e5f2", "#f9fbfe", keep=0.10),
+    value_sky=lambda a: duotone(a, "#bfd9f6", "#eaf2fd", keep=0.10),
+    cine=lambda a: scrim(top_scrim(splittone(desat(a, 0.10), "#081a33", "#8fbcec", 0.30), 0.18, 0.35), 0.42, 0.74),
+)
+
+RECIPES = {"comehometag": CHT, "qolca": QOL, "propaga": PRO, "radarestatal": RAD}
 
 # families that get mirrored variants to fill inventory (all abstracts)
 MIRROR_FAMILIES = ("cover", "cta", "emph", "value")
@@ -155,7 +172,8 @@ def family_of(name: str) -> str:
     if name.startswith("cine"):
         return "cine"
     for fam in ("cover", "cta", "emph", "value-paper", "value-sage",
-                "value-slate", "value-blanco", "value-menta"):
+                "value-slate", "value-blanco", "value-menta",
+                "value-mist", "value-sky"):
         if name.startswith(fam):
             return fam.replace("-", "_")
     raise ValueError(name)
