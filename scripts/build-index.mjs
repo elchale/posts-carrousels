@@ -211,7 +211,12 @@ for (const brandId of listDirs(BRANDS_DIR)) {
     posts: [],
   }
 
-  for (const seriesId of listDirs(outDir)) {
+  const orderedSeries = listDirs(outDir).sort((a, b) => {
+    const ia = MONTH_ORDER.indexOf(a)
+    const ib = MONTH_ORDER.indexOf(b)
+    return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib) || a.localeCompare(b)
+  })
+  for (const seriesId of orderedSeries) {
     const seriesDir = path.join(outDir, seriesId)
     const slugs = listDirs(seriesDir)
     if (!slugs.length) continue
