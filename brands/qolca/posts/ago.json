@@ -9,7 +9,8 @@
      "role": "cover",
      "h": "Zendaya ya no se acuerda de Spider-Man",
      "b": "Tu negocio tampoco se acuerda de sus clientes",
-     "img": "evento-zendaya.jpg"
+     "img": "evento-zendaya.jpg",
+     "emoji": "💔"
     },
     {
      "role": "value",
@@ -59,7 +60,8 @@
      "role": "cover",
      "h": "Odiseo dijo llamarse Nadie y se salvó",
      "b": "Nadie también contesta tu WhatsApp de noche",
-     "img": "evento-still-odiseo.jpg"
+     "img": "evento-still-odiseo.jpg",
+     "emoji": "👁"
     },
     {
      "role": "value",
@@ -109,7 +111,8 @@
      "role": "cover",
      "h": "Peter tiene chica nueva y sigue pensando en MJ",
      "b": "Tus clientes antiguos también esperan que los llames",
-     "img": "evento-still-peter-jean.jpg"
+     "img": "evento-still-peter-jean.jpg",
+     "emoji": "💘"
     },
     {
      "role": "value",
@@ -159,7 +162,8 @@
      "role": "cover",
      "h": "Iron Man volvió convertido en el villano",
      "b": "Tu vendedor estrella también puede cambiar de bando",
-     "img": "evento-rdj.jpg"
+     "img": "evento-rdj.jpg",
+     "emoji": "😈"
     },
     {
      "role": "value",
@@ -209,7 +213,8 @@
      "role": "cover",
      "h": "Penélope esperó 20 años, tu cliente ni dos horas",
      "b": "La fidelidad murió con el visto",
-     "img": "evento-still-penelope.jpg"
+     "img": "evento-still-penelope.jpg",
+     "emoji": "⏳"
     },
     {
      "role": "value",
@@ -259,7 +264,8 @@
      "role": "cover",
      "h": "La chica nueva de Spiderman lee mentes",
      "b": "Tú sigues preguntándole al cuaderno qué quería cada cliente",
-     "img": "evento-still-peter-jean.jpg"
+     "img": "evento-still-peter-jean.jpg",
+     "emoji": "🧠"
     },
     {
      "role": "value",
@@ -303,7 +309,8 @@
     {
      "role": "cover",
      "h": "El 78% le compra al primero que responde",
-     "b": "Y tu lunes empezó con 14 chats sin abrir"
+     "b": "Y tu lunes empezó con 14 chats sin abrir",
+     "emoji": "⚡"
     },
     {
      "role": "value",
@@ -353,7 +360,8 @@
      "role": "cover",
      "kicker": "SEMANA DEL NIÑO",
      "h": "Que tu WhatsApp no colapse el Día del Niño",
-     "b": "El domingo 16 escribe medio Perú"
+     "b": "El domingo 16 escribe medio Perú",
+     "emoji": "🤯"
     },
     {
      "role": "value",
@@ -403,7 +411,8 @@
      "role": "cover",
      "kicker": "SEMANA DEL NIÑO",
      "h": "Las 3 preguntas que te harán 100 veces esta semana",
-     "b": "Escríbelas una vez, respóndelas siempre"
+     "b": "Escríbelas una vez, respóndelas siempre",
+     "emoji": "🔁"
     },
     {
      "role": "story",
@@ -454,7 +463,8 @@
      "role": "cover",
      "kicker": "SEMANA DEL NIÑO",
      "h": "Los que preguntan el jueves compran el domingo",
-     "b": "Si alguien les recuerda que existes"
+     "b": "Si alguien les recuerda que existes",
+     "emoji": "🛍"
     },
     {
      "role": "value",
@@ -498,7 +508,8 @@
     {
      "role": "cover",
      "h": "A los 30 minutos el interés ya se enfrió",
-     "b": "En semana pico, el reloj corre más rápido"
+     "b": "En semana pico, el reloj corre más rápido",
+     "emoji": "🧊"
     },
     {
      "role": "value",
@@ -543,7 +554,8 @@
      "role": "cover",
      "kicker": "VÍSPERA",
      "h": "Mañana explota tu bandeja",
-     "b": "El plan de guerra se arma hoy en 20 minutos"
+     "b": "El plan de guerra se arma hoy en 20 minutos",
+     "emoji": "💥"
     },
     {
      "role": "value",
@@ -588,7 +600,8 @@
      "role": "cover",
      "kicker": "DÍA DEL NIÑO",
      "h": "Hoy no dejes a Nadie atendiendo",
-     "b": "El día pico se gana chat por chat"
+     "b": "El día pico se gana chat por chat",
+     "emoji": "🚫"
     },
     {
      "role": "value",
@@ -632,7 +645,8 @@
     {
      "role": "cover",
      "h": "El que preguntó y no compró sigue queriendo",
-     "b": "El lunes después del pico es día de cosecha"
+     "b": "El lunes después del pico es día de cosecha",
+     "emoji": "👻"
     },
     {
      "role": "value",
@@ -676,7 +690,8 @@
     {
      "role": "cover",
      "h": "Tu cuaderno no se acuerda de nadie",
-     "b": "La ficha de cliente que sí funciona tiene 3 columnas"
+     "b": "La ficha de cliente que sí funciona tiene 3 columnas",
+     "emoji": "📓"
     },
     {
      "role": "value",
@@ -725,7 +740,8 @@
     {
      "role": "cover",
      "h": "¿El canto de los clientes te tiene gritando?",
-     "b": "200 chats cantando a la vez tienen arreglo"
+     "b": "200 chats cantando a la vez tienen arreglo",
+     "emoji": "🙉"
     },
     {
      "role": "value",
@@ -769,7 +785,8 @@
     {
      "role": "cover",
      "h": "Tus clientes antiguos esperan tu llamada",
-     "b": "La regla de los 90 días"
+     "b": "La regla de los 90 días",
+     "emoji": "📞"
     },
     {
      "role": "value",
@@ -813,7 +830,8 @@
     {
      "role": "cover",
      "h": "¿Organizarías la boda de Taylor Swift por WhatsApp?",
-     "b": "Mil invitados, un chat"
+     "b": "Mil invitados, un chat",
+     "emoji": "💍"
     },
     {
      "role": "value",
@@ -862,7 +880,8 @@
     {
      "role": "cover",
      "h": "Que tu WhatsApp diga la verdad cuando no estás",
-     "b": "El mensaje de ausencia honesto vende más que el silencio"
+     "b": "El mensaje de ausencia honesto vende más que el silencio",
+     "emoji": "🌙"
     },
     {
      "role": "value",
@@ -907,7 +926,8 @@
      "role": "story",
      "h": "El cliente de las 11pm compra a las 7am",
      "b": "Si alguien le dio señal de vida en la noche",
-     "plate": "cine-01-ventana"
+     "plate": "cine-01-ventana",
+     "emoji": "🌙"
     },
     {
      "role": "value",
@@ -951,7 +971,8 @@
     {
      "role": "cover",
      "h": "Tu bandeja del lunes es un cementerio de findes",
-     "b": "20 minutos la resucitan"
+     "b": "20 minutos la resucitan",
+     "emoji": "🪦"
     },
     {
      "role": "value",
@@ -995,7 +1016,8 @@
     {
      "role": "cover",
      "h": "Una cotización sin seguimiento es plata regalada",
-     "b": "Regalada a tu competencia"
+     "b": "Regalada a tu competencia",
+     "emoji": "💸"
     },
     {
      "role": "value",
@@ -1044,7 +1066,8 @@
     {
      "role": "cover",
      "h": "Confirmar la cita mata los plantones",
-     "b": "El recordatorio de 24 horas que casi nadie manda"
+     "b": "El recordatorio de 24 horas que casi nadie manda",
+     "emoji": "📅"
     },
     {
      "role": "value",
@@ -1089,7 +1112,8 @@
      "role": "cover",
      "kicker": "PRE-FERIADO",
      "h": "El feriado también compra",
-     "b": "Santa Rosa es el domingo — decide hoy quién atiende"
+     "b": "Santa Rosa es el domingo — decide hoy quién atiende",
+     "emoji": "🛒"
     },
     {
      "role": "value",
@@ -1133,7 +1157,8 @@
     {
      "role": "cover",
      "h": "Tu competencia descansa el feriado, tu WhatsApp no",
-     "b": "La ventaja injusta del domingo"
+     "b": "La ventaja injusta del domingo",
+     "emoji": "😴"
     },
     {
      "role": "value",
@@ -1177,7 +1202,8 @@
     {
      "role": "cover",
      "h": "Responder rápido no es sonar apurado",
-     "b": "Las plantillas que no parecen robot"
+     "b": "Las plantillas que no parecen robot",
+     "emoji": "⚡"
     },
     {
      "role": "value",
@@ -1223,7 +1249,8 @@
      "kicker": "SANTA ROSA",
      "h": "Los deseos se piden hoy, los pedidos entran igual",
      "b": "Feliz Santa Rosa — tu bandeja no es devota",
-     "img": "evento-pozo.jpg"
+     "img": "evento-pozo.jpg",
+     "emoji": "🪙"
     },
     {
      "role": "value",
@@ -1268,7 +1295,8 @@
      "role": "cover",
      "kicker": "CIERRE DE AGOSTO",
      "h": "¿Cuántas conversaciones dejaste a medias este mes?",
-     "b": "Haz la cuenta — duele pero paga"
+     "b": "Haz la cuenta — duele pero paga",
+     "emoji": "📊"
     },
     {
      "role": "value",

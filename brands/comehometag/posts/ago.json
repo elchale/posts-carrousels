@@ -9,7 +9,8 @@
      "role": "cover",
      "kicker": "SEMANA SPIDERMAN",
      "h": "Mil niños entraron al cine vestidos de Spiderman",
-     "img": "evento-sala-llena.png"
+     "img": "evento-sala-llena.png",
+     "emoji": "🕷"
     },
     {
      "role": "value",
@@ -60,7 +61,8 @@
      "role": "cover",
      "kicker": "SEMANA LA ODISEA",
      "h": "¿Esperarías 20 años como Penélope?",
-     "img": "evento-still-penelope.jpg"
+     "img": "evento-still-penelope.jpg",
+     "emoji": "⏳"
     },
     {
      "role": "value",
@@ -110,7 +112,8 @@
     {
      "role": "cover",
      "h": "¿Contratarías a Spiderman de niñera?",
-     "img": "evento-still-spidey.jpg"
+     "img": "evento-still-spidey.jpg",
+     "emoji": "🍼"
     },
     {
      "role": "value",
@@ -159,7 +162,8 @@
    "slides": [
     {
      "role": "cover",
-     "h": "Tu hijo desaparece más rápido que Spiderman"
+     "h": "Tu hijo desaparece más rápido que Spiderman",
+     "emoji": "😱"
     },
     {
      "role": "value",
@@ -210,7 +214,8 @@
     {
      "role": "cover",
      "kicker": "FIN DE SEMANA",
-     "h": "En el mercado tu hijo ve rodillas, no caras"
+     "h": "En el mercado tu hijo ve rodillas, no caras",
+     "emoji": "😨"
     },
     {
      "role": "value",
@@ -262,7 +267,8 @@
      "role": "cover",
      "kicker": "SIMULACRO NACIONAL",
      "h": "El viernes tiembla a las 3 de la tarde",
-     "img": "evento-simulacro.jpg"
+     "img": "evento-simulacro.jpg",
+     "emoji": "🚨"
     },
     {
      "role": "value",
@@ -313,7 +319,8 @@
      "role": "story",
      "kicker": "SIMULACRO NACIONAL",
      "h": "Tu mochila de emergencia no existe y lo sabes",
-     "plate": "cine-14-mochila"
+     "plate": "cine-14-mochila",
+     "emoji": "🎒"
     },
     {
      "role": "value",
@@ -363,7 +370,8 @@
     {
      "role": "cover",
      "kicker": "SIMULACRO NACIONAL",
-     "h": "¿Y si tiembla cuando no estás con ellos?"
+     "h": "¿Y si tiembla cuando no estás con ellos?",
+     "emoji": "😰"
     },
     {
      "role": "value",
@@ -414,7 +422,8 @@
     {
      "role": "cover",
      "kicker": "DÍA DEL NIÑO",
-     "h": "Este domingo hay más niños sueltos que nunca"
+     "h": "Este domingo hay más niños sueltos que nunca",
+     "emoji": "🎈"
     },
     {
      "role": "value",
@@ -464,7 +473,8 @@
     {
      "role": "cover",
      "kicker": "SIMULACRO 3PM",
-     "h": "10 minutos hoy valen más que el simulacro de mañana"
+     "h": "10 minutos hoy valen más que el simulacro de mañana",
+     "emoji": "⏰"
     },
     {
      "role": "value",
@@ -515,7 +525,8 @@
      "role": "cover",
      "kicker": "3:00 PM",
      "h": "Hoy a las 3 ensaya todo el Perú",
-     "img": "evento-simulacro.jpg"
+     "img": "evento-simulacro.jpg",
+     "emoji": "🚨"
     },
     {
      "role": "value",
@@ -560,7 +571,8 @@
     {
      "role": "cover",
      "kicker": "DÍA DEL NIÑO",
-     "h": "Mañana los parques revientan de niños"
+     "h": "Mañana los parques revientan de niños",
+     "emoji": "🎈"
     },
     {
      "role": "value",
@@ -611,7 +623,8 @@
     {
      "role": "cover",
      "kicker": "DÍA DEL NIÑO",
-     "h": "Feliz día, que no se te pierda"
+     "h": "Feliz día, que no se te pierda",
+     "emoji": "🥳"
     },
     {
      "role": "value",
@@ -650,7 +663,8 @@
    "slides": [
     {
      "role": "cover",
-     "h": "Tu hijo perdido te busca donde te vio por última vez"
+     "h": "Tu hijo perdido te busca donde te vio por última vez",
+     "emoji": "🔍"
     },
     {
      "role": "value",
@@ -700,7 +714,8 @@
     {
      "role": "cover",
      "kicker": "MITO VS REALIDAD",
-     "h": "El secuestro no es tu mayor riesgo"
+     "h": "El secuestro no es tu mayor riesgo",
+     "emoji": "😳"
     },
     {
      "role": "value",
@@ -749,7 +764,8 @@
    "slides": [
     {
      "role": "cover",
-     "h": "La tía que lo estaba viendo no lo estaba viendo"
+     "h": "La tía que lo estaba viendo no lo estaba viendo",
+     "emoji": "👀"
     },
     {
      "role": "story",
@@ -799,7 +815,8 @@
    "slides": [
     {
      "role": "cover",
-     "h": "Tu perro no sabe tu número"
+     "h": "Tu perro no sabe tu número",
+     "emoji": "🐶"
     },
     {
      "role": "value",
@@ -849,7 +866,8 @@
    "slides": [
     {
      "role": "cover",
-     "h": "¿Quién puede recoger a tu hijo del colegio?"
+     "h": "¿Quién puede recoger a tu hijo del colegio?",
+     "emoji": "🎒"
     },
     {
      "role": "value",
@@ -900,7 +918,8 @@
      "role": "cover",
      "kicker": "ADULTO MAYOR",
      "h": "No hagas que tu hijo te busque por 10 años",
-     "img": "evento-still-penelope.jpg"
+     "img": "evento-still-telemaco.jpg",
+     "emoji": "💔"
     },
     {
      "role": "value",
@@ -950,7 +969,8 @@
     {
      "role": "cover",
      "kicker": "ADULTO MAYOR",
-     "h": "6 de cada 10 abuelos con demencia van a deambular"
+     "h": "6 de cada 10 abuelos con demencia van a deambular",
+     "emoji": "🧓"
     },
     {
      "role": "value",
@@ -1001,7 +1021,8 @@
     {
      "role": "cover",
      "kicker": "ADULTO MAYOR",
-     "h": "Tu papá dice que no necesita ayuda"
+     "h": "Tu papá dice que no necesita ayuda",
+     "emoji": "🧓"
     },
     {
      "role": "value",
@@ -1051,7 +1072,8 @@
     {
      "role": "cover",
      "kicker": "ADULTO MAYOR",
-     "h": "El que encuentra a tu papá no sabe quién es"
+     "h": "El que encuentra a tu papá no sabe quién es",
+     "emoji": "😢"
     },
     {
      "role": "value",
@@ -1102,7 +1124,8 @@
     {
      "role": "cover",
      "kicker": "DÍA DEL ADULTO MAYOR",
-     "h": "Cuidar al que te cuidó no es vigilarlo"
+     "h": "Cuidar al que te cuidó no es vigilarlo",
+     "emoji": "🕰"
     },
     {
      "role": "value",
@@ -1148,7 +1171,8 @@
      "role": "cover",
      "kicker": "SANTA ROSA",
      "h": "Miles harán cola en el pozo de los deseos",
-     "img": "evento-pozo.jpg"
+     "img": "evento-pozo.jpg",
+     "emoji": "🪙"
     },
     {
      "role": "value",
@@ -1198,7 +1222,8 @@
     {
      "role": "cover",
      "kicker": "FERIADO",
-     "h": "Esto hacen las familias grandes antes de salir en feriado"
+     "h": "Esto hacen las familias grandes antes de salir en feriado",
+     "emoji": "🚸"
     },
     {
      "role": "value",
@@ -1249,7 +1274,8 @@
      "role": "story",
      "kicker": "CONCIERTO",
      "h": "Tu hija va al concierto y tú no duermes",
-     "plate": "cine-15-concierto"
+     "plate": "cine-15-concierto",
+     "emoji": "🎤"
     },
     {
      "role": "value",
@@ -1300,7 +1326,8 @@
      "role": "cover",
      "kicker": "SANTA ROSA",
      "h": "Hoy el pozo junta más gente que un estadio",
-     "img": "evento-pozo.jpg"
+     "img": "evento-pozo.jpg",
+     "emoji": "🪙"
     },
     {
      "role": "value",
@@ -1340,7 +1367,8 @@
     {
      "role": "cover",
      "kicker": "RESUMEN",
-     "h": "Lo que aprendimos en agosto cabe en una lámina"
+     "h": "Lo que aprendimos en agosto cabe en una lámina",
+     "emoji": "📋"
     },
     {
      "role": "value",

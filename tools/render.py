@@ -35,6 +35,16 @@ EVENT_TONES = {
 }
 
 
+def emoji_img(ch: str, size: int) -> Image.Image | None:
+    """Noto Emoji PNG (assets/emoji/) — Pillow no dibuja emoji de fuente, así
+    que van como imagen. El campo `emoji` del slide es UN carácter emoji."""
+    cps = [f"{ord(c):x}" for c in ch if ord(c) != 0xFE0F]
+    p = ROOT / "assets" / "emoji" / ("emoji_u" + "_".join(cps) + ".png")
+    if not p.exists():
+        return None
+    return Image.open(p).convert("RGBA").resize((size, size), Image.LANCZOS)
+
+
 def brand_tone(img: Image.Image, brand: str) -> Image.Image:
     """Duotone a photo into the brand palette, keeping a breath of original
     colour so faces stay recognizable (that's the whole point of the photo)."""
@@ -214,8 +224,13 @@ class Renderer:
             y = CORE_Y0 + 30
             if slide.get("kicker"):
                 y = draw_kicker(draw, strip_emoji(slide["kicker"]), acc, y)
+            em = emoji_img(slide["emoji"], 120) if slide.get("emoji") else None
             fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (176, 64), 860, 700)
-            top = y + (CORE_Y1 - 170 - y - hh) / 2
+            eh = 150 if em else 0
+            top = y + (CORE_Y1 - 170 - y - hh - eh) / 2
+            if em:
+                im.paste(em, ((W - em.width) // 2, int(top)), em)
+                top += eh
             draw_block(draw, lines, fnt, lh, top, text_c, shadow=shadow)
             if b_text:
                 bf = font(body_f, 40, 600)
@@ -233,7 +248,12 @@ class Renderer:
             if b_text:
                 blines = wrap(draw, b_text, bf, 780)
                 bh = len(blines) * 56 + 40
-            top = CORE_Y0 + (CORE_Y1 - CORE_Y0 - hh - bh) / 2
+            em = emoji_img(slide["emoji"], 120) if (slide.get("emoji") and n == 0) else None
+            eh = 150 if em else 0
+            top = CORE_Y0 + (CORE_Y1 - CORE_Y0 - hh - bh - eh) / 2
+            if em:
+                im.paste(em, ((W - em.width) // 2, int(top)), em)
+                top += eh
             y = draw_block(draw, lines, fnt, lh, top, text_c, shadow=shadow)
             if blines:
                 draw_block(draw, blines, bf, 56, y + 40, sub_c, shadow=shadow)
@@ -449,6 +469,11 @@ class Renderer:
             prod = prod.resize((int(pw * scale), int(ph * scale)), Image.LANCZOS)
             card.paste(prod, ((card_w - prod.width) // 2, (card_h - prod.height) // 2))
         im.paste(card, (cx0, cy0), mask)
+        # emoji badge riding the card's bottom-right corner
+        if slide.get("emoji"):
+            em = emoji_img(slide["emoji"], 150)
+            if em is not None:
+                im.paste(em, (cx0 + card_w - 100, cy0 + card_h - 100), em)
         # headline + body under the card
         y = cy0 + card_h + 56
         y = draw_block(draw, lines, fnt, lh, y, text_c)

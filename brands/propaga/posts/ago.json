@@ -10,7 +10,8 @@
      "kicker": "FINDE RÉCORD",
      "img": "evento-zendaya.jpg",
      "h": "Zendaya está en las dos películas del finde récord",
-     "b": "Y tú no puedes con dos redes"
+     "b": "Y tú no puedes con dos redes",
+     "emoji": "🎬"
     },
     {
      "role": "value",
@@ -62,7 +63,8 @@
      "kicker": "SPIDER-MAN",
      "img": "evento-holland.jpg",
      "h": "Spoilea tu negocio como Tom Holland",
-     "b": "Lo que se anuncia antes, se vende el día uno"
+     "b": "Lo que se anuncia antes, se vende el día uno",
+     "emoji": "🤐"
     },
     {
      "role": "value",
@@ -114,7 +116,8 @@
      "kicker": "MARVEL",
      "img": "evento-rdj.jpg",
      "h": "Marvel rompió internet mostrando sillas vacías",
-     "b": "5 horas de sillas. 55 tendencias mundiales."
+     "b": "5 horas de sillas. 55 tendencias mundiales.",
+     "emoji": "🪑"
     },
     {
      "role": "value",
@@ -166,7 +169,8 @@
      "kicker": "LA ODISEA",
      "img": "evento-still-nolan-set.jpg",
      "h": "Nolan construyó su monstruo en vez de dibujarlo",
-     "b": "Por eso se siente real"
+     "b": "Por eso se siente real",
+     "emoji": "🐙"
     },
     {
      "role": "value",
@@ -217,7 +221,8 @@
      "role": "cover",
      "kicker": "GTA 6",
      "h": "Rockstar sube 2 videos al año y tú 2 al día",
-     "b": "Adivina quién está agotado"
+     "b": "Adivina quién está agotado",
+     "emoji": "🎮"
     },
     {
      "role": "value",
@@ -268,7 +273,8 @@
      "role": "cover",
      "kicker": "SISTEMA",
      "h": "Publicas cuando puedes, no cuando te ven",
-     "b": "Por eso nadie reacciona"
+     "b": "Por eso nadie reacciona",
+     "emoji": "👀"
     },
     {
      "role": "value",
@@ -319,7 +325,8 @@
      "role": "cover",
      "kicker": "DÍA DEL NIÑO",
      "h": "Publica esto la semana del Día del Niño",
-     "b": "Tres posts, cada uno con su día"
+     "b": "Tres posts, cada uno con su día",
+     "emoji": "🎈"
     },
     {
      "role": "value",
@@ -370,7 +377,8 @@
      "role": "cover",
      "kicker": "DÍA DEL NIÑO",
      "h": "¿Crees que el Día del Niño no es tu fecha?",
-     "b": "Todo regalo aplica. Todo."
+     "b": "Todo regalo aplica. Todo.",
+     "emoji": "😅"
     },
     {
      "role": "value",
@@ -421,7 +429,8 @@
      "role": "cover",
      "kicker": "DÍA DEL NIÑO",
      "h": "El regalo se decide el jueves, no el domingo",
-     "b": "El timeline del que compra"
+     "b": "El timeline del que compra",
+     "emoji": "🛍"
     },
     {
      "role": "value",
@@ -473,7 +482,8 @@
      "kicker": "FINDE FAMILIAR",
      "img": "evento-sala-llena.png",
      "h": "Este finde los malls van a reventar de familias",
-     "b": "PAW Patrol + víspera del Día del Niño"
+     "b": "PAW Patrol + víspera del Día del Niño",
+     "emoji": "🍿"
     },
     {
      "role": "value",
@@ -524,7 +534,8 @@
      "role": "cover",
      "kicker": "VÍSPERA",
      "h": "Un \"¿precio?\" sin responder es plata que se va",
-     "b": "Y este finde llegan en manada"
+     "b": "Y este finde llegan en manada",
+     "emoji": "💸"
     },
     {
      "role": "value",
@@ -575,7 +586,8 @@
      "role": "cover",
      "kicker": "VÍSPERA",
      "h": "Mañana es el Día del Niño. Hoy se vende.",
-     "b": "La checklist de la víspera"
+     "b": "La checklist de la víspera",
+     "emoji": "🎈"
     },
     {
      "role": "value",
@@ -626,7 +638,8 @@
      "role": "cover",
      "kicker": "DÍA DEL NIÑO",
      "h": "\"Feliz Día del Niño\" es un post muerto",
-     "b": "Esto sí funciona hoy"
+     "b": "Esto sí funciona hoy",
+     "emoji": "💀"
     },
     {
      "role": "value",
@@ -677,7 +690,8 @@
      "role": "cover",
      "kicker": "SISTEMA",
      "h": "La foto que no tomaste hoy era el post del jueves",
-     "b": "El banco propio en 10 minutos por semana"
+     "b": "El banco propio en 10 minutos por semana",
+     "emoji": "📸"
     },
     {
      "role": "value",
@@ -728,7 +742,8 @@
      "role": "cover",
      "kicker": "TIKTOK",
      "h": "Ya no te encuentran por el audio de moda",
-     "b": "Te encuentran por lo que escribes"
+     "b": "Te encuentran por lo que escribes",
+     "emoji": "🔎"
     },
     {
      "role": "value",
@@ -779,7 +794,8 @@
      "role": "cover",
      "kicker": "BÁSICOS",
      "h": "Tu post más buscado es el más aburrido",
-     "b": "Horario, ubicación, cómo pedir"
+     "b": "Horario, ubicación, cómo pedir",
+     "emoji": "🥱"
     },
     {
      "role": "value",
@@ -830,7 +846,8 @@
      "role": "cover",
      "kicker": "VENTAS",
      "h": "Ese \"¿precio?\" en comentarios es una venta pidiendo permiso",
-     "b": "Respóndele como tal"
+     "b": "Respóndele como tal",
+     "emoji": "💬"
     },
     {
      "role": "value",
@@ -881,7 +898,8 @@
      "role": "cover",
      "kicker": "SISTEMA",
      "h": "No necesitas community manager, necesitas una hora",
-     "b": "El sistema semanal completo"
+     "b": "El sistema semanal completo",
+     "emoji": "⏰"
     },
     {
      "role": "value",
@@ -933,7 +951,8 @@
      "kicker": "LA ODISEA",
      "img": "evento-still-penelope.jpg",
      "h": "Pareces Penélope tejiendo y destejiendo tu negocio",
-     "b": "Cada día el mismo trabajo desde cero"
+     "b": "Cada día el mismo trabajo desde cero",
+     "emoji": "🧶"
     },
     {
      "role": "value",
@@ -984,7 +1003,8 @@
      "role": "cover",
      "kicker": "SANTA ROSA",
      "h": "Tu competencia ya está preparando el feriado",
-     "b": "Y faltan 7 días"
+     "b": "Y faltan 7 días",
+     "emoji": "😤"
     },
     {
      "role": "value",
@@ -1035,7 +1055,8 @@
      "role": "cover",
      "kicker": "SANTA ROSA",
      "h": "El feriado te regala un domingo de ventas extra",
-     "b": "Los 3 posts del finde largo"
+     "b": "Los 3 posts del finde largo",
+     "emoji": "🛒"
     },
     {
      "role": "value",
@@ -1087,7 +1108,8 @@
      "kicker": "SANTA ROSA",
      "img": "evento-pozo.jpg",
      "h": "Miles van a tirar su deseo al pozo este feriado",
-     "b": "Pregúntale el suyo a tu cliente"
+     "b": "Pregúntale el suyo a tu cliente",
+     "emoji": "🪙"
     },
     {
      "role": "value",
@@ -1138,7 +1160,8 @@
      "role": "cover",
      "kicker": "VENTAS",
      "h": "Tu \"ya te contesto\" de WhatsApp cuesta ventas",
-     "b": "El mensaje de ausencia que sí vende"
+     "b": "El mensaje de ausencia que sí vende",
+     "emoji": "😬"
     },
     {
      "role": "value",
@@ -1189,7 +1212,8 @@
      "role": "cover",
      "kicker": "PERFIL",
      "h": "Un perfil sin destacadas es un local sin vitrina",
-     "b": "Las 4 que todo negocio necesita"
+     "b": "Las 4 que todo negocio necesita",
+     "emoji": "🏪"
     },
     {
      "role": "value",
@@ -1240,7 +1264,8 @@
      "role": "cover",
      "kicker": "SANTA ROSA",
      "h": "Publica hoy lo que quieres vender el domingo",
-     "b": "48 horas de anticipación"
+     "b": "48 horas de anticipación",
+     "emoji": "📅"
     },
     {
      "role": "value",
@@ -1291,7 +1316,8 @@
      "role": "cover",
      "kicker": "PAULO LONDRA",
      "h": "Medio Lima está en el concierto. El resto, en tu feed.",
-     "b": "Cómo colgarse de un evento sin ser sponsor"
+     "b": "Cómo colgarse de un evento sin ser sponsor",
+     "emoji": "🎤"
     },
     {
      "role": "value",
@@ -1342,7 +1368,8 @@
      "role": "cover",
      "kicker": "SANTA ROSA",
      "h": "Feriado: tu cliente está en el celular ahora mismo",
-     "b": "Los 3 toques del día D"
+     "b": "Los 3 toques del día D",
+     "emoji": "📱"
     },
     {
      "role": "value",
@@ -1393,7 +1420,8 @@
      "role": "cover",
      "kicker": "PLANIFICACIÓN",
      "h": "Septiembre se gana planificándolo hoy",
-     "b": "Las fechas que vienen y la tanda del mes"
+     "b": "Las fechas que vienen y la tanda del mes",
+     "emoji": "🗓"
     },
     {
      "role": "value",
