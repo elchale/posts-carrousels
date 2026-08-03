@@ -167,9 +167,9 @@
     {
      "role": "cover",
      "kicker": "LA ODISEA",
-     "img": "evento-still-nolan-set.jpg",
-     "h": "Nolan construyó su monstruo en vez de dibujarlo",
-     "b": "Por eso se siente real",
+     "img": "evento-nolan-imax.jpg",
+     "h": "Usa la técnica de Nolan para tu negocio",
+     "b": "sin CGI: hazlo de verdad y se nota",
      "emoji": "🐙"
     },
     {
@@ -222,7 +222,8 @@
      "kicker": "GTA 6",
      "h": "Rockstar sube 2 videos al año y tú 2 al día",
      "b": "Adivina quién está agotado",
-     "emoji": "🎮"
+     "emoji": "🎮",
+     "img": "evento-rockstar.jpg"
     },
     {
      "role": "value",
@@ -1107,8 +1108,8 @@
      "role": "cover",
      "kicker": "SANTA ROSA",
      "img": "evento-pozo.jpg",
-     "h": "Miles van a tirar su deseo al pozo este feriado",
-     "b": "Pregúntale el suyo a tu cliente",
+     "h": "¿Tu deseo es tener más clientes?",
+     "b": "el pozo no contesta, tu perfil sí",
      "emoji": "🪙"
     },
     {

@@ -161,7 +161,7 @@
     {
      "role": "cover",
      "h": "Iron Man volvió convertido en el villano",
-     "b": "Tu vendedor estrella también puede cambiar de bando",
+     "b": "No dejes que tu cliente se vaya al otro lado",
      "img": "evento-rdj.jpg",
      "emoji": "😈"
     },
@@ -831,7 +831,8 @@
      "role": "cover",
      "h": "¿Organizarías la boda de Taylor Swift por WhatsApp?",
      "b": "Mil invitados, un chat",
-     "emoji": "💍"
+     "emoji": "💍",
+     "img": "evento-taylor.jpg"
     },
     {
      "role": "value",
@@ -1247,8 +1248,7 @@
     {
      "role": "cover",
      "kicker": "SANTA ROSA",
-     "h": "Los deseos se piden hoy, los pedidos entran igual",
-     "b": "Feliz Santa Rosa — tu bandeja no es devota",
+     "h": "Tú no eres Santa Rosa, tienes que buscar tus clientes",
      "img": "evento-pozo.jpg",
      "emoji": "🪙"
     },
