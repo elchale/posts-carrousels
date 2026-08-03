@@ -207,7 +207,7 @@ class Renderer:
             return im
 
         if slide.get("img"):
-            self._product_slide(im, draw, slide, rc, disp, dw, body_f)
+            self._product_slide(im, draw, slide, rc, disp, dw, body_f, role)
             return im
 
         if role == "cover":
@@ -402,7 +402,7 @@ class Renderer:
         if blines:
             draw_block(draw, blines, bf, 46, cy0 + card_h + gap_b, sub_c)
 
-    def _product_slide(self, im, draw, slide, rc, disp, dw, body_f):
+    def _product_slide(self, im, draw, slide, rc, disp, dw, body_f, role="value"):
         """Rounded card with a photo + headline + body below.
 
         Two treatments, split by filename:
@@ -412,11 +412,23 @@ class Renderer:
         - anything else (screenshots/producto): contain-fit with white padding —
           a screenshot must never be cropped.
         """
-        text_c, sub_c = rc["text"], rc["sub"]
+        text_c, sub_c, acc = rc["text"], rc["sub"], rc["accent"]
         is_evento = str(slide["img"]).startswith("evento-")
-        card_w, card_h = (860, 660) if is_evento else (660, 560)
+        card_w = 860 if is_evento else 660
         cx0 = (W - card_w) // 2
         cy0 = CORE_Y0 + 10
+        # an img COVER keeps the full brand chrome a text cover has:
+        # kicker above the card, brand lockup at the foot (drawn at the end)
+        if role == "cover" and slide.get("kicker"):
+            cy0 = draw_kicker(draw, strip_emoji(slide["kicker"]), acc, CORE_Y0 - 4) + 14
+        # measure the text FIRST; the card takes whatever height remains above
+        # the footer lockup (same contract as _shot_slide) — no collisions ever
+        fnt, lines, lh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, (84, 52), 860, 260)
+        bf = font(body_f, 40, 500)
+        blines = wrap(draw, strip_emoji(slide.get("b", "")), bf, 800) if slide.get("b") else []
+        bh = (34 + 54 * len(blines)) if blines else 0
+        bottom = 1496 if role == "cover" else CORE_Y1 + 10
+        card_h = min(660 if is_evento else 560, bottom - hh - bh - 56 - cy0)
         card = Image.new("RGB", (card_w, card_h), "#ffffff")
         mask = Image.new("L", (card_w, card_h), 0)
         ImageDraw.Draw(mask).rounded_rectangle((0, 0, card_w, card_h), 36, fill=255)
@@ -439,12 +451,11 @@ class Renderer:
         im.paste(card, (cx0, cy0), mask)
         # headline + body under the card
         y = cy0 + card_h + 56
-        fnt, lines, lh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, (84, 52), 860, 260)
         y = draw_block(draw, lines, fnt, lh, y, text_c)
-        if slide.get("b"):
-            bf = font(body_f, 40, 500)
-            blines = wrap(draw, strip_emoji(slide["b"]), bf, 800)
+        if blines:
             draw_block(draw, blines, bf, 54, y + 34, sub_c)
+        if role == "cover":
+            self._tag(im, draw, sub_c)
 
     def _logo(self, height: int) -> Image.Image | None:
         """The brand mark at `height` px, or None if the brand has no logo file.
