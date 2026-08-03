@@ -225,19 +225,24 @@ class Renderer:
             if slide.get("kicker"):
                 y = draw_kicker(draw, strip_emoji(slide["kicker"]), acc, y)
             em = emoji_img(slide["emoji"], 120) if slide.get("emoji") else None
-            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (176, 64), 860, 700)
             eh = 150 if em else 0
-            # respiro mínimo bajo el kicker: con titulares largos el centrado
-            # pegaba el emoji al kicker (corrección Carlos 2026-08-03)
-            top = y + max(80, (CORE_Y1 - 170 - y - hh - eh) / 2)
+            # el SUB se mide PRIMERO y reserva su zona fija abajo; el titular
+            # recibe solo el espacio restante y block_height reduce la fuente
+            # si no cabe — colisión imposible por construcción (Carlos 2026-08-03)
+            bf = font(body_f, 40, 600)
+            blines = wrap(draw, b_text + "  →", bf, 800) if b_text else []
+            sub_top = CORE_Y1 - 60 - 52 * len(blines) if blines else CORE_Y1 - 60
+            # el gap mínimo de 80 tras el kicker se DESCUENTA del presupuesto
+            # (sumarlo después empujaba el titular sobre el sub: bug 2026-08-03)
+            avail = max(220, sub_top - 40 - (y + 80) - eh)
+            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (176, 64), 860, avail)
+            top = y + 80 + (avail - hh) / 2
             if em:
                 im.paste(em, ((W - em.width) // 2, int(top)), em)
                 top += eh
             draw_block(draw, lines, fnt, lh, top, text_c, shadow=shadow)
-            if b_text:
-                bf = font(body_f, 40, 600)
-                blines = wrap(draw, b_text + "  →", bf, 800)
-                draw_block(draw, blines, bf, 52, CORE_Y1 - 60 - 52 * len(blines), acc)
+            if blines:
+                draw_block(draw, blines, bf, 52, sub_top, acc)
             self._tag(im, draw, sub_c)
 
         elif role in ("rehook", "stat", "story"):
