@@ -183,7 +183,15 @@ for (const brandId of listDirs(BRANDS_DIR)) {
    * has rendered slides + a generated captions.md, so read captions from the JSON —
    * it also fixes the posting ORDER, which alphabetical folder listing would lose. */
   const copyBySeries = {}
-  for (const f of fs.existsSync(path.join(brandDir, 'posts')) ? fs.readdirSync(path.join(brandDir, 'posts')) : []) {
+  /* Meses en orden cronológico, no alfabético (ago < oct < sep rompería la cola) */
+  const MONTH_ORDER = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic']
+  const seriesFiles = (fs.existsSync(path.join(brandDir, 'posts')) ? fs.readdirSync(path.join(brandDir, 'posts')) : [])
+    .sort((a, b) => {
+      const ia = MONTH_ORDER.indexOf(a.replace('.json', ''))
+      const ib = MONTH_ORDER.indexOf(b.replace('.json', ''))
+      return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib) || a.localeCompare(b)
+    })
+  for (const f of seriesFiles) {
     if (!f.endsWith('.json')) continue
     const data = readJson(path.join(brandDir, 'posts', f))
     if (!data?.posts) continue
