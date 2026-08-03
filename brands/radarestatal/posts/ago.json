@@ -14,11 +14,6 @@
     },
     {
      "role": "value",
-     "h": "El SEACE no es difícil, es un laberinto",
-     "b": "Todo está publicado: cada proceso de selección, sus bases y sus fechas. El problema nunca fue el acceso — es encontrar lo tuyo entre miles de convocatorias."
-    },
-    {
-     "role": "value",
      "h": "Busca así: rubro + región",
      "b": "En el buscador de procesos del SEACE escribe la palabra de tu rubro (limpieza, imprenta, ferretería…), filtra tu región y ordena por fecha de convocatoria. Ahí aparece tu mapa."
     },
@@ -38,7 +33,7 @@
     {
      "role": "stat",
      "h": "O deja que un radar busque por ti",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado peruano — feed gratis con los procesos del SEACE, una IA que te dice cuáles le convienen a tu empresa y el historial de cualquier competidor por RUC. Los proveedores que ya lo usan reciben lo suyo sin buscarlo."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC. Los que ya lo usan reciben lo suyo sin buscarlo."
     },
     {
      "role": "cta",
@@ -70,11 +65,6 @@
     },
     {
      "role": "value",
-     "h": "En el Estado también ganan los chicos",
-     "b": "No compites en tamaño: compites en información. Los procesos chicos, los desiertos que se reconvocan y los rubros con pocos postores son terreno natural de una MYPE."
-    },
-    {
-     "role": "value",
      "h": "Empieza por las compras de hasta 8 UIT",
      "b": "Las contrataciones de hasta 8 UIT van fuera del régimen general: más simples, más rápidas y con mucha menos competencia mirándolas. Las entidades las publican — casi nadie las revisa."
     },
@@ -89,7 +79,7 @@
     {
      "role": "stat",
      "h": "Tu Fire Stick se llama Radar Estatal",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado peruano por ti — feed gratis con los procesos del SEACE, una IA que elige los que le convienen a tu empresa y el historial de cualquier competidor por RUC."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -116,11 +106,6 @@
     },
     {
      "role": "value",
-     "h": "En el Estado no existen secretos",
-     "b": "Cada buena pro, cada contrato y cada postor queda registrado en datos abiertos. Sacar archivos internos de Facebook es escándalo de película; mirar estos es tu derecho."
-    },
-    {
-     "role": "value",
      "h": "Fuente 1: sus adjudicaciones",
      "b": "En el SEACE buscas por RUC y ves qué procesos ganó tu competidor, con qué entidades y desde cuándo. Los montos adjudicados también son públicos: míralos tú mismo."
     },
@@ -140,7 +125,7 @@
     {
      "role": "stat",
      "h": "Los que usan radar ven esto sin abrir un PDF",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, recomendaciones con IA para tu empresa y la inteligencia de competidores por RUC en un solo lugar."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -213,11 +198,6 @@
     },
     {
      "role": "value",
-     "h": "Qué es y por qué va primero",
-     "b": "El Registro Nacional de Proveedores te habilita para contratar con el Estado. Sin RNP vigente no puedes ni presentar oferta — es el paso cero, antes de mirar cualquier proceso."
-    },
-    {
-     "role": "value",
      "h": "Elige bien tu registro",
      "b": "Bienes, servicios u obras (ejecutor o consultor). Puedes tener más de uno. La regla: regístrate en lo que de verdad vendes — el registro equivocado descalifica igual que no tenerlo."
     },
@@ -232,7 +212,7 @@
     {
      "role": "stat",
      "h": "Con el RNP listo, el radar hace el resto",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis con los procesos del SEACE, IA que recomienda los de tu rubro e inteligencia de competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -278,7 +258,7 @@
     {
      "role": "stat",
      "h": "El radar te avisa los desiertos de tu rubro",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos para tu empresa y competidores por RUC. Más de 200 mil procesos en la base de datos abiertos OECE."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC. Más de 200 mil procesos en datos abiertos OECE."
     },
     {
      "role": "cta",
@@ -375,7 +355,7 @@
     {
      "role": "stat",
      "h": "Con radar, los rivales se ven venir",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos y la inteligencia de competidores que casi nadie sabe leer, en un solo lugar."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -411,17 +391,12 @@
      "b": "Hay entidades que compran tu rubro cada cierto tiempo — colegios, hospitales, municipios. Apúntalas: son tu cartera natural, y sus próximas convocatorias se parecen a las pasadas."
     },
     {
-     "role": "value",
-     "h": "El tamaño del mar",
-     "b": "Más de 200 mil procesos viven en la base de datos abiertos del OECE. Tu rubro es una tajada de eso — y revisarla toma 10 minutos con el filtro correcto."
-    },
-    {
      "role": "recap"
     },
     {
      "role": "stat",
      "h": "El radar conoce tu tajada",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE con los procesos de tu rubro, IA que recomienda los que te convienen y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -467,7 +442,7 @@
     {
      "role": "stat",
      "h": "El radar te avisa cuándo abre la ventana",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE con fechas claras de cada etapa, IA que recomienda procesos y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -513,7 +488,7 @@
     {
      "role": "stat",
      "h": "O deja que el radar presienta por ti",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que detecta los procesos que le convienen a tu empresa y competidores por RUC. Los proveedores que ya lo usan no revisan: reciben."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC. Los que ya lo usan reciben lo suyo sin buscarlo."
     },
     {
      "role": "cta",
@@ -537,11 +512,6 @@
      "h": "¿El Estado solo le compra a los grandes?",
      "b": "Los datos dicen otra cosa",
      "emoji": "🐜"
-    },
-    {
-     "role": "value",
-     "h": "Las MYPE también ganan buena pro",
-     "b": "En los datos abiertos del OECE hay adjudicaciones a micro y pequeñas empresas todos los meses. No es terreno exclusivo de corporaciones — es terreno de quien postula bien."
     },
     {
      "role": "value",
@@ -605,7 +575,7 @@
     {
      "role": "stat",
      "h": "El dossier del rival, en un solo lugar",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos y el historial de cualquier competidor por RUC sin abrir un PDF."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -651,7 +621,7 @@
     {
      "role": "stat",
      "h": "El radar también te muestra a tu futuro socio",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos y el historial por RUC para conocer a un socio antes de firmar con él."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -679,12 +649,7 @@
     {
      "role": "value",
      "h": "Lo que ya es un hecho",
-     "b": "La Ley 32069 es la nueva ley de contrataciones públicas del Perú, y el OSCE ahora es OECE. Los procesos nuevos se rigen por este marco — no por el que conocías."
-    },
-    {
-     "role": "value",
-     "h": "Por qué te importa a ti",
-     "b": "Las bases citan la norma vigente. Postular con reflejos de la ley antigua produce errores de forma — y los errores de forma descalifican igual que los de fondo."
+     "b": "La Ley 32069 es la nueva ley de contrataciones públicas del Perú, y el OSCE ahora es OECE. Postular con reflejos de la ley antigua produce errores de forma — y descalifican igual que los de fondo."
     },
     {
      "role": "value",
@@ -697,7 +662,7 @@
     {
      "role": "stat",
      "h": "El radar habla el idioma nuevo",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE con la información de cada proceso al día, IA que te explica qué piden y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -743,7 +708,7 @@
     {
      "role": "stat",
      "h": "El radar conoce el calendario de memoria",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos de tu rubro y competidores por RUC, todos los días hábiles del año."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -777,11 +742,6 @@
      "role": "value",
      "h": "Dos «no» y pasas al siguiente",
      "b": "La regla es fría a propósito: con dos respuestas en contra, ese proceso no era el tuyo. No es rendirse — es elegir donde sí puedes ganar."
-    },
-    {
-     "role": "value",
-     "h": "El costo que nadie calcula",
-     "b": "Una semana armando una oferta condenada es una semana sin vender ni buscar el proceso correcto. Elegir bien vale tanto como ofertar bien."
     },
     {
      "role": "recap"
@@ -835,7 +795,7 @@
     {
      "role": "stat",
      "h": "El radar es un caballo que no hay que empujar",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos para tu empresa y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -862,13 +822,8 @@
     },
     {
      "role": "value",
-     "h": "Qué son",
-     "b": "Las contrataciones de hasta 8 UIT van fuera del régimen general: trámite más simple, decisión más rápida y montos a escala de una MYPE."
-    },
-    {
-     "role": "value",
      "h": "Por qué son tu puerta de entrada",
-     "b": "Menos papeleo, menos rivales mirando y entregas que una empresa chica cumple sin ahogarse. Es donde se hace historial — y el historial es lo que pide todo proceso grande."
+     "b": "Van fuera del régimen general: trámite simple, decisión rápida y montos a escala MYPE — con muy pocos rivales mirando. Es donde se hace historial, y el historial es lo que pide todo proceso grande."
     },
     {
      "role": "value",
@@ -881,7 +836,7 @@
     {
      "role": "stat",
      "h": "El radar también vigila lo chico",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos a tu escala y competidores por RUC. Más de 200 mil procesos en la base de datos abiertos OECE."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC. Más de 200 mil procesos en datos abiertos OECE."
     },
     {
      "role": "cta",
@@ -1019,7 +974,7 @@
     {
      "role": "stat",
      "h": "El radar lee fichas por ti",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos y la inteligencia de competidores por RUC que convierte fichas en decisiones."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -1065,7 +1020,7 @@
     {
      "role": "stat",
      "h": "La primera semana, con radar, rinde doble",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda los procesos que le convienen a tu empresa y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -1111,7 +1066,7 @@
     {
      "role": "stat",
      "h": "El radar convierte derrotas en mapa",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos a tu medida y el historial de cualquier rival por RUC."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -1203,7 +1158,7 @@
     {
      "role": "stat",
      "h": "El radar no pierde de vista a nadie",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos y el historial de cualquier RUC: socios, rivales y los que son ambos."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",
@@ -1249,7 +1204,7 @@
     {
      "role": "stat",
      "h": "El radar surfea los cierres de trimestre",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda procesos de tu rubro y competidores por RUC, justo cuando el calendario aprieta."
+     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti — feed gratis del SEACE, IA que recomienda y competidores por RUC."
     },
     {
      "role": "cta",

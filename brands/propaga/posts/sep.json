@@ -5,13 +5,42 @@
   {
    "slug": "01-septiembre-empezo",
    "slides": [
-    {"role": "cover", "kicker": "NUEVO MES", "emoji": "🗓", "h": "Septiembre empezó y tu feed no se enteró", "b": "el plan del mes en una tarde"},
-    {"role": "value", "h": "Las 3 olas del mes", "b": "Semana del 8: el evento de Apple (todos hablando de tecnología). 23: primavera (todos estrenan). Fin de mes: la rampa a octubre. Tu contenido surfea olas que ya existen."},
-    {"role": "value", "h": "12 posts, dos sentadas", "b": "4 que enseñan tu oficio, 4 de temporada, 2 de clientes felices, 2 de producto. Sábado en la mañana: las fotos. Domingo: los textos. Listo el mes."},
-    {"role": "value", "h": "El truco del mes nuevo", "b": "Los primeros 3 días del mes la gente organiza su vida: publica HOY tu horario, tu carta o tu catálogo actualizado — es cuando más se busca."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-posts.png", "h": "Todo el mes, programado en una mañana.", "b": "Escribes una vez, arrastras cada post al día que toca y propaga.pe lo publica solo en todas tus redes."},
-    {"role": "cta", "h": "Empieza el mes con el plan hecho.", "b": "propaga.pe — la nueva herramienta del mercado"}
+    {
+     "role": "cover",
+     "kicker": "NUEVO MES",
+     "emoji": "🗓",
+     "h": "Septiembre empezó y tu feed no se enteró",
+     "b": "el plan del mes en una tarde"
+    },
+    {
+     "role": "value",
+     "h": "Las 3 olas del mes",
+     "b": "Semana del 8: el evento de Apple (todos hablando de tecnología). 23: primavera (todos estrenan). Fin de mes: la rampa a octubre. Tu contenido surfea olas que ya existen."
+    },
+    {
+     "role": "value",
+     "h": "12 posts, dos sentadas",
+     "b": "4 que enseñan tu oficio, 4 de temporada, 2 de clientes felices, 2 de producto. Sábado en la mañana: las fotos. Domingo: los textos. Listo el mes."
+    },
+    {
+     "role": "value",
+     "h": "El truco del mes nuevo",
+     "b": "Los primeros 3 días del mes la gente organiza su vida: publica HOY tu horario, tu carta o tu catálogo actualizado — es cuando más se busca."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-posts.png",
+     "h": "Todo el mes, programado en una mañana.",
+     "b": "Escribes una vez, arrastras cada post al día que toca y propaga.pe lo publica solo en todas tus redes."
+    },
+    {
+     "role": "cta",
+     "h": "Empieza el mes con el plan hecho.",
+     "b": "propaga.pe — la nueva herramienta del mercado"
+    }
    ],
    "caption": {
     "ig": "Septiembre tiene 3 olas de venta y ninguna es tuya: son de Apple, de la primavera y de octubre que se acerca. El plan del mes: 12 posts en dos sentadas — y programados con propaga.pe salen solos. #septiembre #negociosperu #emprendedores #marketingdigital",
@@ -23,13 +52,41 @@
   {
    "slug": "02-post-enterrado",
    "slides": [
-    {"role": "cover", "emoji": "📌", "h": "Tu mejor post está enterrado", "b": "y el cliente que llega hoy no lo verá"},
-    {"role": "value", "h": "Los 3 que se fijan", "b": "El que explica qué vendes, el que más se compartió y el que enseña cómo pedirte. Fíjalos en ese orden — son tu recepcionista."},
-    {"role": "value", "h": "Tus últimos 9 cuadritos venden o espantan", "b": "El que llega ve una cuadrícula, no tu historia. Archiva los saludos de feriado y los sorteos vencidos: que los 9 hablen de lo que vendes."},
-    {"role": "value", "h": "La prueba del extraño", "b": "Abre tu perfil como si no te conocieras: ¿en 5 segundos se entiende qué vendes, dónde estás y cómo pedir? Si dudaste, hoy se arregla."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-contenido.png", "h": "Tu perfil ordenado, sin excavar.", "b": "En propaga.pe ves todo tu contenido de un vistazo y detectas qué falta antes que tu cliente."},
-    {"role": "cta", "h": "Desentierra tu mejor post hoy.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "📌",
+     "h": "Tu mejor post está enterrado",
+     "b": "y el cliente que llega hoy no lo verá"
+    },
+    {
+     "role": "value",
+     "h": "Los 3 que se fijan",
+     "b": "El que explica qué vendes, el que más se compartió y el que enseña cómo pedirte. Fíjalos en ese orden — son tu recepcionista."
+    },
+    {
+     "role": "value",
+     "h": "Tus últimos 9 cuadritos venden o espantan",
+     "b": "El que llega ve una cuadrícula, no tu historia. Archiva los saludos de feriado y los sorteos vencidos: que los 9 hablen de lo que vendes."
+    },
+    {
+     "role": "value",
+     "h": "La prueba del extraño",
+     "b": "Abre tu perfil como si no te conocieras: ¿en 5 segundos se entiende qué vendes, dónde estás y cómo pedir? Si dudaste, hoy se arregla."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-contenido.png",
+     "h": "Tu perfil ordenado, sin excavar.",
+     "b": "En propaga.pe ves todo tu contenido de un vistazo y detectas qué falta antes que tu cliente."
+    },
+    {
+     "role": "cta",
+     "h": "Desentierra tu mejor post hoy.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Tu post más vendedor quedó enterrado hace 3 meses. Fíjalo: el que explica qué vendes, el más compartido y el de cómo pedirte. Tu perfil es tu vitrina — propaga.pe te lo ordena. #instagramparanegocios #negociosperu #emprendedores",
@@ -41,13 +98,43 @@
   {
    "slug": "03-carin-leon",
    "slides": [
-    {"role": "cover", "kicker": "PREMIOS JUVENTUD", "emoji": "🏆", "img": "evento-carin.jpg", "h": "El artista del año publica menos que tú", "b": "y llena estadios"},
-    {"role": "value", "h": "9 nominaciones, un patrón", "b": "Carín León no publica todo lo que hace: publica lo que suena a él. Tu negocio también tiene un sonido — 3 temas tuyos, repetidos con orgullo."},
-    {"role": "value", "h": "Menos posts, más firma", "b": "Elige 3 formatos que te salgan bien (el cómo-se-hace, la entrega, el cliente feliz) y repítelos hasta que te reconozcan sin leer tu nombre."},
-    {"role": "value", "h": "Mira el feed de cualquier artista grande", "b": "Portadas, fechas, backstage. Tres tipos de post, nada más. Los negocios que se ven profesionales hacen exactamente eso."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-lista.png", "h": "Tus formatos, listos para repetir.", "b": "propaga.pe guarda tus tipos de post como plantillas: eliges, cambias la foto y sale."},
-    {"role": "cta", "h": "Encuentra tu sonido y repítelo.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "PREMIOS JUVENTUD",
+     "emoji": "🏆",
+     "img": "evento-carin.jpg",
+     "h": "El artista del año publica menos que tú",
+     "b": "y llena estadios"
+    },
+    {
+     "role": "value",
+     "h": "9 nominaciones, un patrón",
+     "b": "Carín León no publica todo lo que hace: publica lo que suena a él. Tu negocio también tiene un sonido — 3 temas tuyos, repetidos con orgullo."
+    },
+    {
+     "role": "value",
+     "h": "Menos posts, más firma",
+     "b": "Elige 3 formatos que te salgan bien (el cómo-se-hace, la entrega, el cliente feliz) y repítelos hasta que te reconozcan sin leer tu nombre."
+    },
+    {
+     "role": "value",
+     "h": "Mira el feed de cualquier artista grande",
+     "b": "Portadas, fechas, backstage. Tres tipos de post, nada más. Los negocios que se ven profesionales hacen exactamente eso."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-lista.png",
+     "h": "Tus formatos, listos para repetir.",
+     "b": "propaga.pe guarda tus tipos de post como plantillas: eliges, cambias la foto y sale."
+    },
+    {
+     "role": "cta",
+     "h": "Encuentra tu sonido y repítelo.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Carín León llega a Premios Juventud con 9 nominaciones — y su feed tiene menos posts que el tuyo. El secreto no es cantidad: es firma. 3 formatos propios repetidos hasta que te reconozcan. #premiosjuventud #carinleon #negociosperu #marketing",
@@ -59,13 +146,41 @@
   {
    "slug": "04-comentarios-clientes",
    "slides": [
-    {"role": "cover", "emoji": "💬", "h": "Cada comentario es un cliente probándote", "b": "responde como si te estuviera comprando"},
-    {"role": "value", "h": "Los 3 comentarios que venden", "b": "El \"¿precio?\" (responde y lleva la conversación al privado), el \"¿dónde están?\" (dirección + horario exactos) y el elogio (agradece y suma: \"vuelve este viernes que llega nuevo\")."},
-    {"role": "value", "h": "La regla de la primera hora", "b": "Responder dentro de la hora hace dos cosas: el algoritmo muestra más tu post y el cliente siente tienda atendida. Pasada la hora, contesta igual — pero la venta ya se enfrió."},
-    {"role": "value", "h": "Nunca dejes un comentario en visto", "b": "Es público: el que mira decide si eres una tienda que responde o una que ignora. Un comentario ignorado espanta a diez que nunca escribieron."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-comentarios.png", "h": "Todos tus comentarios en un solo lugar.", "b": "propaga.pe junta los comentarios de todas tus redes para que ninguno se quede en visto."},
-    {"role": "cta", "h": "Responde como si te compraran. Porque te están comprando.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "💬",
+     "h": "Cada comentario es un cliente probándote",
+     "b": "responde como si te estuviera comprando"
+    },
+    {
+     "role": "value",
+     "h": "Los 3 comentarios que venden",
+     "b": "El \"¿precio?\" (responde y lleva la conversación al privado), el \"¿dónde están?\" (dirección + horario exactos) y el elogio (agradece y suma: \"vuelve este viernes que llega nuevo\")."
+    },
+    {
+     "role": "value",
+     "h": "La regla de la primera hora",
+     "b": "Responder dentro de la hora hace dos cosas: el algoritmo muestra más tu post y el cliente siente tienda atendida. Pasada la hora, contesta igual — pero la venta ya se enfrió."
+    },
+    {
+     "role": "value",
+     "h": "Nunca dejes un comentario en visto",
+     "b": "Es público: el que mira decide si eres una tienda que responde o una que ignora. Un comentario ignorado espanta a diez que nunca escribieron."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-comentarios.png",
+     "h": "Todos tus comentarios en un solo lugar.",
+     "b": "propaga.pe junta los comentarios de todas tus redes para que ninguno se quede en visto."
+    },
+    {
+     "role": "cta",
+     "h": "Responde como si te compraran. Porque te están comprando.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Un comentario sin responder es una venta que se enfría en público. Los 3 que venden: el ¿precio?, el ¿dónde están? y el elogio. Regla: primera hora. propaga.pe junta los de todas tus redes. #atencionalcliente #negociosperu #ventas #emprendedores",
@@ -77,13 +192,41 @@
   {
    "slug": "05-fondo-de-fotos",
    "slides": [
-    {"role": "cover", "emoji": "📸", "h": "Tu foto vende hasta que se ve la trastienda", "b": "el fondo también habla"},
-    {"role": "value", "h": "La regla del metro cuadrado", "b": "No necesitas un local bonito: necesitas UN rincón. Pared limpia, luz de ventana, una repisa. Todas tus fotos salen de ese metro cuadrado."},
-    {"role": "value", "h": "Los 3 fondos que funcionan", "b": "Pared lisa para el producto, tu mesa de trabajo ordenada para el proceso, y el empaque con tu nombre para la entrega. Nada más."},
-    {"role": "value", "h": "30 segundos de despeje", "b": "La gente no lee tu oferta si el fondo grita: tazas sucias, cables, cajas. Antes de cada foto: 30 segundos de mover cosas fuera del cuadro."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-movil.png", "h": "Fotos listas, publicación lista.", "b": "Desde el celular: foto en tu rincón, texto y programada en propaga.pe. Cinco minutos."},
-    {"role": "cta", "h": "Encuentra tu metro cuadrado hoy.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "📸",
+     "h": "Tu foto vende hasta que se ve la trastienda",
+     "b": "el fondo también habla"
+    },
+    {
+     "role": "value",
+     "h": "La regla del metro cuadrado",
+     "b": "No necesitas un local bonito: necesitas UN rincón. Pared limpia, luz de ventana, una repisa. Todas tus fotos salen de ese metro cuadrado."
+    },
+    {
+     "role": "value",
+     "h": "Los 3 fondos que funcionan",
+     "b": "Pared lisa para el producto, tu mesa de trabajo ordenada para el proceso, y el empaque con tu nombre para la entrega. Nada más."
+    },
+    {
+     "role": "value",
+     "h": "30 segundos de despeje",
+     "b": "La gente no lee tu oferta si el fondo grita: tazas sucias, cables, cajas. Antes de cada foto: 30 segundos de mover cosas fuera del cuadro."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-movil.png",
+     "h": "Fotos listas, publicación lista.",
+     "b": "Desde el celular: foto en tu rincón, texto y programada en propaga.pe. Cinco minutos."
+    },
+    {
+     "role": "cta",
+     "h": "Encuentra tu metro cuadrado hoy.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Tu producto puede ser el mejor del barrio, pero si atrás se ve el desorden, la foto vende desconfianza. La solución cuesta cero: un metro cuadrado con pared limpia y luz de ventana. #fotosdeproducto #negociosperu #marketingdigital #emprendedores",
@@ -95,13 +238,41 @@
   {
    "slug": "06-historias-caducan",
    "slides": [
-    {"role": "cover", "emoji": "⏳", "h": "Tus historias mueren en 24 horas, tu perfil queda", "b": "reparte el esfuerzo"},
-    {"role": "value", "h": "Qué va en historias", "b": "Lo de HOY: llegó stock, queda uno, así va el pedido. Urgencia y cercanía. Es la radio de tu negocio: suena y se va."},
-    {"role": "value", "h": "Qué va al feed", "b": "Lo que un extraño debe ver dentro de 6 meses: qué vendes, cómo pedirte, clientes felices. Es tu catálogo permanente."},
-    {"role": "value", "h": "La dupla que funciona", "b": "El post se publica en el feed y la historia lo anuncia (\"nuevo en el perfil\"). Un mismo contenido, dos vitrinas, cero esfuerzo extra."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-canales.png", "h": "Feed e historias desde un solo lugar.", "b": "propaga.pe publica en todas tus redes y formatos sin copiar y pegar nada."},
-    {"role": "cta", "h": "Que tu esfuerzo no caduque a las 24 horas.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "⏳",
+     "h": "Tus historias mueren en 24 horas, tu perfil queda",
+     "b": "reparte el esfuerzo"
+    },
+    {
+     "role": "value",
+     "h": "Qué va en historias",
+     "b": "Lo de HOY: llegó stock, queda uno, así va el pedido. Urgencia y cercanía. Es la radio de tu negocio: suena y se va."
+    },
+    {
+     "role": "value",
+     "h": "Qué va al feed",
+     "b": "Lo que un extraño debe ver dentro de 6 meses: qué vendes, cómo pedirte, clientes felices. Es tu catálogo permanente."
+    },
+    {
+     "role": "value",
+     "h": "La dupla que funciona",
+     "b": "El post se publica en el feed y la historia lo anuncia (\"nuevo en el perfil\"). Un mismo contenido, dos vitrinas, cero esfuerzo extra."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-canales.png",
+     "h": "Feed e historias desde un solo lugar.",
+     "b": "propaga.pe publica en todas tus redes y formatos sin copiar y pegar nada."
+    },
+    {
+     "role": "cta",
+     "h": "Que tu esfuerzo no caduque a las 24 horas.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Si todo tu esfuerzo se va en historias, tu negocio desaparece cada 24 horas. Historias = lo de hoy. Feed = lo que un extraño debe encontrar en 6 meses. La dupla: post + historia que lo anuncia. #instagramparanegocios #negociosperu #contenido",
@@ -113,13 +284,42 @@
   {
    "slug": "07-apple-ensaya",
    "slides": [
-    {"role": "cover", "kicker": "SEMANA APPLE", "emoji": "🍎", "h": "Apple ensaya meses lo que dura dos horas", "b": "tú improvisas tu lanzamiento"},
-    {"role": "value", "h": "Anuncia antes, sin mostrar todo", "b": "Apple manda una invitación misteriosa una semana antes y el mundo especula. Tú: \"el jueves llega algo nuevo\" + foto con el detalle tapado."},
-    {"role": "value", "h": "Un solo protagonista", "b": "Cada keynote tiene UNA estrella, no el catálogo entero. Tu lanzamiento igual: un producto, una historia, una fecha."},
-    {"role": "value", "h": "El día D no se improvisa", "b": "3 fotos, un video corto y la historia fijada — todo preparado ANTES. El día del lanzamiento solo publicas y respondes."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-campanas.png", "h": "Tu lanzamiento, programado como keynote.", "b": "En propaga.pe dejas la secuencia completa lista: teaser, revelación y seguimiento salen solos."},
-    {"role": "cta", "h": "Prepara tu keynote esta semana.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "SEMANA APPLE",
+     "emoji": "🍎",
+     "h": "Apple ensaya meses lo que dura dos horas",
+     "b": "tú improvisas tu lanzamiento"
+    },
+    {
+     "role": "value",
+     "h": "Anuncia antes, sin mostrar todo",
+     "b": "Apple manda una invitación misteriosa una semana antes y el mundo especula. Tú: \"el jueves llega algo nuevo\" + foto con el detalle tapado."
+    },
+    {
+     "role": "value",
+     "h": "Un solo protagonista",
+     "b": "Cada keynote tiene UNA estrella, no el catálogo entero. Tu lanzamiento igual: un producto, una historia, una fecha."
+    },
+    {
+     "role": "value",
+     "h": "El día D no se improvisa",
+     "b": "3 fotos, un video corto y la historia fijada — todo preparado ANTES. El día del lanzamiento solo publicas y respondes."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-campanas.png",
+     "h": "Tu lanzamiento, programado como keynote.",
+     "b": "En propaga.pe dejas la secuencia completa lista: teaser, revelación y seguimiento salen solos."
+    },
+    {
+     "role": "cta",
+     "h": "Prepara tu keynote esta semana.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Esta semana Apple presenta el iPhone 18 con una keynote ensayada durante meses. Tu lanzamiento no necesita meses: necesita una secuencia — teaser 5 días antes, un solo protagonista y el día D preparado. #apple #keynote #negociosperu #lanzamiento",
@@ -131,13 +331,42 @@
   {
    "slug": "08-iphone-plegable",
    "slides": [
-    {"role": "cover", "kicker": "EVENTO APPLE", "emoji": "📱", "h": "No necesitas un iPhone plegable para vender más", "b": "necesitas que te encuentren"},
-    {"role": "value", "h": "Hoy todos hablan de Apple: súmate", "b": "Con tu giro y humor ligero: \"mientras esperas el iPhone plegable, tu [lo que vendes] sí está en stock\". Un post, cero producción."},
-    {"role": "value", "h": "Tu celular actual sobra", "b": "Las fotos que venden se hacen con luz y fondo, no con cámara nueva. Las marcas grandes graban campañas enteras con celulares de hace 3 años."},
-    {"role": "value", "h": "La búsqueda es tu vitrina real", "b": "El que quiere comprar escribe \"torta tres leches Surco\", no \"iPhone 18\". Tus captions llevan las palabras que tu cliente busca, no las de moda."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-fuera.png", "h": "Publica una vez, aparece en todas partes.", "b": "propaga.pe reparte tu post en cada red donde tu cliente te busca."},
-    {"role": "cta", "h": "Que te encuentren — con el celular que ya tienes.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "EVENTO APPLE",
+     "emoji": "📱",
+     "h": "No necesitas un iPhone plegable para vender más",
+     "b": "necesitas que te encuentren"
+    },
+    {
+     "role": "value",
+     "h": "Hoy todos hablan de Apple: súmate",
+     "b": "Con tu giro y humor ligero: \"mientras esperas el iPhone plegable, tu [lo que vendes] sí está en stock\". Un post, cero producción."
+    },
+    {
+     "role": "value",
+     "h": "Tu celular actual sobra",
+     "b": "Las fotos que venden se hacen con luz y fondo, no con cámara nueva. Las marcas grandes graban campañas enteras con celulares de hace 3 años."
+    },
+    {
+     "role": "value",
+     "h": "La búsqueda es tu vitrina real",
+     "b": "El que quiere comprar escribe \"torta tres leches Surco\", no \"iPhone 18\". Tus captions llevan las palabras que tu cliente busca, no las de moda."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-fuera.png",
+     "h": "Publica una vez, aparece en todas partes.",
+     "b": "propaga.pe reparte tu post en cada red donde tu cliente te busca."
+    },
+    {
+     "role": "cta",
+     "h": "Que te encuentren — con el celular que ya tienes.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Hoy Apple presenta el iPhone plegable y medio mundo babea. Dato: tus ventas no dependen de tu cámara — dependen de que te encuentren. Captions con las palabras que tu cliente busca > celular nuevo. #iphone18 #apple #negociosperu #marketingdigital",
@@ -149,13 +378,41 @@
   {
    "slug": "09-apple-vende-recuerdos",
    "slides": [
-    {"role": "cover", "emoji": "✨", "h": "Apple no vende cámaras, vende tus recuerdos", "b": "véndele el resultado a tu cliente"},
-    {"role": "value", "h": "Característica vs resultado", "b": "\"Torta de un kilo\" es un dato. \"Alcanza para los 12 del cumpleaños\" es una venta. Reescribe tus descripciones desde el resultado."},
-    {"role": "value", "h": "La foto del después", "b": "No muestres solo el producto: muéstralo usándose. La torta partida, la polera puesta, el mueble ya en la sala. El cliente se imagina — y el que se imagina, compra."},
-    {"role": "value", "h": "Una línea de resultado bajo cada foto", "b": "\"Llega hoy\", \"aguanta 6 meses de recreo\", \"para los que odian planchar\". Una línea que responde: ¿y esto qué hace por mí?"},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-contenido.png", "h": "Tus descripciones, guardadas y reutilizables.", "b": "propaga.pe guarda tus textos que funcionan para que no empieces de cero cada vez."},
-    {"role": "cta", "h": "Vende el después, no el producto.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "✨",
+     "h": "Apple no vende cámaras, vende tus recuerdos",
+     "b": "véndele el resultado a tu cliente"
+    },
+    {
+     "role": "value",
+     "h": "Característica vs resultado",
+     "b": "\"Torta de un kilo\" es un dato. \"Alcanza para los 12 del cumpleaños\" es una venta. Reescribe tus descripciones desde el resultado."
+    },
+    {
+     "role": "value",
+     "h": "La foto del después",
+     "b": "No muestres solo el producto: muéstralo usándose. La torta partida, la polera puesta, el mueble ya en la sala. El cliente se imagina — y el que se imagina, compra."
+    },
+    {
+     "role": "value",
+     "h": "Una línea de resultado bajo cada foto",
+     "b": "\"Llega hoy\", \"aguanta 6 meses de recreo\", \"para los que odian planchar\". Una línea que responde: ¿y esto qué hace por mí?"
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-contenido.png",
+     "h": "Tus descripciones, guardadas y reutilizables.",
+     "b": "propaga.pe guarda tus textos que funcionan para que no empieces de cero cada vez."
+    },
+    {
+     "role": "cta",
+     "h": "Vende el después, no el producto.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Apple nunca dice \"sensor de 48MP\": dice \"tus recuerdos, más nítidos\". Esa es toda la lección: el cliente no compra tu producto, compra lo que le pasa con él. Reescribe tus descripciones desde el resultado. #copywriting #negociosperu #ventas #marketing",
@@ -167,13 +424,36 @@
   {
    "slug": "10-ritual-lunes",
    "slides": [
-    {"role": "cover", "emoji": "⏰", "h": "15 minutos de lunes valen una semana de posts", "b": "el ritual que ordena todo"},
-    {"role": "value", "h": "Lunes: decide los 3 de la semana", "b": "Uno que enseña, uno que muestra, uno que vende. Los apuntas en una nota y ya no vuelves a pensar \"¿qué publico?\" en toda la semana."},
-    {"role": "value", "h": "Miércoles: las fotos en lote", "b": "20 minutos en tu rincón de luz y salen las 3 fotos de una vez. Producir en lote toma la mitad del tiempo que producir suelto."},
-    {"role": "value", "h": "El post improvisado se nota", "b": "El \"¿qué publico hoy?\" de las 9pm mata más posts que la flojera — y los que sobreviven salen flojos. El ritual de 15 minutos existe para eso."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-posts.png", "h": "Decidido el lunes, publicado toda la semana.", "b": "Dejas los 3 programados en propaga.pe y la semana corre sola."},
-    {"role": "cta", "h": "Tu próximo lunes, 15 minutos. Pruébalo.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "⏰",
+     "h": "15 minutos de lunes valen una semana de posts",
+     "b": "el ritual que ordena todo"
+    },
+    {
+     "role": "value",
+     "h": "Lunes: decide los 3 de la semana",
+     "b": "Uno que enseña, uno que muestra, uno que vende. Los apuntas en una nota y ya no vuelves a pensar \"¿qué publico?\" en toda la semana."
+    },
+    {
+     "role": "value",
+     "h": "Miércoles: las fotos en lote",
+     "b": "20 minutos en tu rincón de luz y salen las 3 fotos de una vez. Producir en lote toma la mitad del tiempo que producir suelto."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-posts.png",
+     "h": "Decidido el lunes, publicado toda la semana.",
+     "b": "Dejas los 3 programados en propaga.pe y la semana corre sola."
+    },
+    {
+     "role": "cta",
+     "h": "Tu próximo lunes, 15 minutos. Pruébalo.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "El secreto de los negocios que publican constante no es disciplina: es un ritual de 15 minutos los lunes. 3 posts decididos, fotos en lote el miércoles, y cero \"¿qué publico hoy?\" a las 9pm. #productividad #negociosperu #contenido #emprendedores",
@@ -185,13 +465,43 @@
   {
    "slug": "11-brujas-28-anos",
    "slides": [
-    {"role": "cover", "kicker": "PRACTICAL MAGIC 2", "emoji": "🧙", "img": "evento-bullock.jpg", "h": "Las brujas volvieron después de 28 años", "b": "tu negocio no aguanta ni 28 días sin publicar"},
-    {"role": "value", "h": "La pausa mata en frío", "b": "El algoritmo te olvida en dos semanas; el cliente, antes. Un feed parado un mes le dice al que llega: \"¿seguirán atendiendo?\""},
-    {"role": "value", "h": "Si no puedes publicar, programa", "b": "Una sentada de una tarde deja un mes andando. Vacaciones, temporada alta en el taller, lo que sea: el feed no tiene por qué enterarse."},
-    {"role": "value", "h": "Todo regreso se anuncia", "b": "Bullock y Kidman llevan meses en prensa antes del estreno. Si pausaste, no reaparezcas en silencio: \"volvemos el lunes con...\" una semana antes."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-posts.png", "h": "Tu feed nunca se entera de tus pausas.", "b": "Programas el mes en propaga.pe y el negocio se ve vivo aunque estés de viaje."},
-    {"role": "cta", "h": "Que tu magia no desaparezca 28 años.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "PRACTICAL MAGIC 2",
+     "emoji": "🧙",
+     "img": "evento-bullock.jpg",
+     "h": "Las brujas volvieron después de 28 años",
+     "b": "tu negocio no aguanta ni 28 días sin publicar"
+    },
+    {
+     "role": "value",
+     "h": "La pausa mata en frío",
+     "b": "El algoritmo te olvida en dos semanas; el cliente, antes. Un feed parado un mes le dice al que llega: \"¿seguirán atendiendo?\""
+    },
+    {
+     "role": "value",
+     "h": "Si no puedes publicar, programa",
+     "b": "Una sentada de una tarde deja un mes andando. Vacaciones, temporada alta en el taller, lo que sea: el feed no tiene por qué enterarse."
+    },
+    {
+     "role": "value",
+     "h": "Todo regreso se anuncia",
+     "b": "Bullock y Kidman llevan meses en prensa antes del estreno. Si pausaste, no reaparezcas en silencio: \"volvemos el lunes con...\" una semana antes."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-posts.png",
+     "h": "Tu feed nunca se entera de tus pausas.",
+     "b": "Programas el mes en propaga.pe y el negocio se ve vivo aunque estés de viaje."
+    },
+    {
+     "role": "cta",
+     "h": "Que tu magia no desaparezca 28 años.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Practical Magic 2 llega 28 años después y las salas se van a llenar igual — porque son Bullock y Kidman. Tu negocio no tiene ese lujo: dos semanas sin publicar y el algoritmo te olvidó. Programa y desaparece sin que se note. #practicalmagic #negociosperu #contenido",
@@ -203,13 +513,43 @@
   {
    "slug": "12-noche-de-pelea",
    "slides": [
-    {"role": "cover", "kicker": "PELEA DE CANELO", "emoji": "🥊", "img": "evento-canelo.jpg", "h": "Prepara tu delivery para la noche de la pelea", "b": "la gente pide, no cocina"},
-    {"role": "value", "h": "Por qué este sábado importa", "b": "Pelea de Canelo = media Latinoamérica frente a la tele con hambre. Comida, bebidas, snacks, hasta farmacia: la noche mueve pedidos como un feriado."},
-    {"role": "value", "h": "El combo con nombre", "b": "Arma un combo de pelea (\"combo round 12\", \"la esquina completa\") y publícalo jueves y viernes. El sábado ya es tarde: la gente decide antes del campanazo."},
-    {"role": "value", "h": "Horario extendido, pero avisado", "b": "Si atiendes hasta tarde esa noche, dilo en post + historia fijada. El 90% pide donde sabe que le van a contestar."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-whatsapp.png", "h": "Los pedidos de la pelea, en una bandeja.", "b": "propaga.pe junta los mensajes de todas tus redes para que el round 12 no te agarre buscando chats."},
-    {"role": "cta", "h": "Este sábado gana el que avisó el jueves.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "PELEA DE CANELO",
+     "emoji": "🥊",
+     "img": "evento-canelo.jpg",
+     "h": "Prepara tu delivery para la noche de la pelea",
+     "b": "la gente pide, no cocina"
+    },
+    {
+     "role": "value",
+     "h": "Por qué este sábado importa",
+     "b": "Pelea de Canelo = media Latinoamérica frente a la tele con hambre. Comida, bebidas, snacks, hasta farmacia: la noche mueve pedidos como un feriado."
+    },
+    {
+     "role": "value",
+     "h": "El combo con nombre",
+     "b": "Arma un combo de pelea (\"combo round 12\", \"la esquina completa\") y publícalo jueves y viernes. El sábado ya es tarde: la gente decide antes del campanazo."
+    },
+    {
+     "role": "value",
+     "h": "Horario extendido, pero avisado",
+     "b": "Si atiendes hasta tarde esa noche, dilo en post + historia fijada. El 90% pide donde sabe que le van a contestar."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-whatsapp.png",
+     "h": "Los pedidos de la pelea, en una bandeja.",
+     "b": "propaga.pe junta los mensajes de todas tus redes para que el round 12 no te agarre buscando chats."
+    },
+    {
+     "role": "cta",
+     "h": "Este sábado gana el que avisó el jueves.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Sábado pelea Canelo y media Latinoamérica va a pedir comida sin moverse del sillón. Si vendes algo que se come, se toma o se picotea: combo con nombre publicado el JUEVES. El sábado la gente ya decidió. #canelo #boxeo #negociosperu #delivery",
@@ -221,13 +561,42 @@
   {
    "slug": "13-negocio-con-cara",
    "slides": [
-    {"role": "cover", "kicker": "DÍA DE LA FAMILIA", "emoji": "❤", "h": "Publica la historia de tu familia, no tu logo", "b": "hoy conecta más que nunca"},
-    {"role": "value", "h": "El post de hoy: quiénes son ustedes", "b": "La foto real del puesto, del taller, de la cocina — con nombres. Los negocios con cara venden más que los anónimos, y hoy es el día perfecto para presentarse."},
-    {"role": "value", "h": "La antigüedad es confianza gratis", "b": "\"Desde 2011, familia Gutiérrez\" en la bio. Una línea que responde la pregunta que nadie hace en voz alta: ¿y estos serán serios?"},
-    {"role": "value", "h": "Familia como sazón, no como plato", "b": "Un post personal por cada 4 de negocio. La historia conecta; el catálogo vende. Los dos, en su medida."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-contenido.png", "h": "Tu historia y tu catálogo, en orden.", "b": "propaga.pe te deja ver el balance de tu feed de un vistazo: cuánta cara, cuánto producto."},
-    {"role": "cta", "h": "Hoy preséntate. Mañana vende.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "DÍA DE LA FAMILIA",
+     "emoji": "❤",
+     "h": "Publica la historia de tu familia, no tu logo",
+     "b": "hoy conecta más que nunca"
+    },
+    {
+     "role": "value",
+     "h": "El post de hoy: quiénes son ustedes",
+     "b": "La foto real del puesto, del taller, de la cocina — con nombres. Los negocios con cara venden más que los anónimos, y hoy es el día perfecto para presentarse."
+    },
+    {
+     "role": "value",
+     "h": "La antigüedad es confianza gratis",
+     "b": "\"Desde 2011, familia Gutiérrez\" en la bio. Una línea que responde la pregunta que nadie hace en voz alta: ¿y estos serán serios?"
+    },
+    {
+     "role": "value",
+     "h": "Familia como sazón, no como plato",
+     "b": "Un post personal por cada 4 de negocio. La historia conecta; el catálogo vende. Los dos, en su medida."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-contenido.png",
+     "h": "Tu historia y tu catálogo, en orden.",
+     "b": "propaga.pe te deja ver el balance de tu feed de un vistazo: cuánta cara, cuánto producto."
+    },
+    {
+     "role": "cta",
+     "h": "Hoy preséntate. Mañana vende.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Día de la Familia: el mejor post de hoy no es tu producto, son ustedes. La foto real del taller con nombres, el \"desde 2011\" en la bio. La gente le compra a gente. #diadelafamilia #negociofamiliar #negociosperu #emprendedores",
@@ -239,13 +608,42 @@
   {
    "slug": "14-emmy-retencion",
    "slides": [
-    {"role": "cover", "kicker": "PREMIOS EMMY", "emoji": "🎭", "h": "En los Emmy gana la serie que te atrapa", "b": "tu post también compite por atención"},
-    {"role": "value", "h": "Los primeros 2 segundos deciden", "b": "Como el cold open de una serie: tu primera lámina es el gancho, no el logo. El saludo y la marca van después — si el gancho funcionó."},
-    {"role": "value", "h": "El carrusel es tu serie", "b": "5 láminas que prometen la siguiente retienen más que 5 posts sueltos. Cada lámina termina abriendo la que viene."},
-    {"role": "value", "h": "Cierra en cliffhanger", "b": "\"Guárdalo para el domingo\", \"¿cuál probarías primero?\" — la serie que deja pregunta se renueva; el post que deja pregunta se comenta."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-contenido.png", "h": "Tus carruseles, armados sin pelear con apps.", "b": "propaga.pe publica carruseles completos en todas tus redes de una sola vez."},
-    {"role": "cta", "h": "Haz posts que se maratoneen.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "PREMIOS EMMY",
+     "emoji": "🎭",
+     "h": "En los Emmy gana la serie que te atrapa",
+     "b": "tu post también compite por atención"
+    },
+    {
+     "role": "value",
+     "h": "Los primeros 2 segundos deciden",
+     "b": "Como el cold open de una serie: tu primera lámina es el gancho, no el logo. El saludo y la marca van después — si el gancho funcionó."
+    },
+    {
+     "role": "value",
+     "h": "El carrusel es tu serie",
+     "b": "5 láminas que prometen la siguiente retienen más que 5 posts sueltos. Cada lámina termina abriendo la que viene."
+    },
+    {
+     "role": "value",
+     "h": "Cierra en cliffhanger",
+     "b": "\"Guárdalo para el domingo\", \"¿cuál probarías primero?\" — la serie que deja pregunta se renueva; el post que deja pregunta se comenta."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-contenido.png",
+     "h": "Tus carruseles, armados sin pelear con apps.",
+     "b": "propaga.pe publica carruseles completos en todas tus redes de una sola vez."
+    },
+    {
+     "role": "cta",
+     "h": "Haz posts que se maratoneen.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Esta noche son los Emmy y la lección para tu negocio está en cómo empieza cualquier serie ganadora: el cold open. Tu primera lámina es el gancho, no tu logo. Y el cierre, siempre en cliffhanger. #emmys #contenido #negociosperu #marketingdigital",
@@ -257,13 +655,41 @@
   {
    "slug": "15-promo-quincena",
    "slides": [
-    {"role": "cover", "emoji": "😬", "h": "Ya es quincena y tu promo no salió", "b": "todavía alcanza"},
-    {"role": "value", "h": "Hoy cae sueldo en medio Perú", "b": "La quincena mueve más que el fin de mes en muchos rubros: la gente compra lo que vio ayer. Publica tu oferta HOY, no el 28."},
-    {"role": "value", "h": "Promo simple gana a promo creativa", "b": "\"2x1 hasta el domingo\" vende más que cualquier mecánica con pasos. Una condición, una fecha, una foto clara."},
-    {"role": "value", "h": "Mide una sola cosa", "b": "¿Cuántos te escribieron por la promo? Ese número decide si la repites en la quincena de octubre. Sin número, solo estás regalando margen."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-leads.png", "h": "Sabes exactamente cuántos escribieron.", "b": "propaga.pe te muestra los contactos que trajo cada post — la promo deja de ser una corazonada."},
-    {"role": "cta", "h": "Tu promo de quincena sale hoy.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "😬",
+     "h": "Ya es quincena y tu promo no salió",
+     "b": "todavía alcanza"
+    },
+    {
+     "role": "value",
+     "h": "Hoy cae sueldo en medio Perú",
+     "b": "La quincena mueve más que el fin de mes en muchos rubros: la gente compra lo que vio ayer. Publica tu oferta HOY, no el 28."
+    },
+    {
+     "role": "value",
+     "h": "Promo simple gana a promo creativa",
+     "b": "\"2x1 hasta el domingo\" vende más que cualquier mecánica con pasos. Una condición, una fecha, una foto clara."
+    },
+    {
+     "role": "value",
+     "h": "Mide una sola cosa",
+     "b": "¿Cuántos te escribieron por la promo? Ese número decide si la repites en la quincena de octubre. Sin número, solo estás regalando margen."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-leads.png",
+     "h": "Sabes exactamente cuántos escribieron.",
+     "b": "propaga.pe te muestra los contactos que trajo cada post — la promo deja de ser una corazonada."
+    },
+    {
+     "role": "cta",
+     "h": "Tu promo de quincena sale hoy.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Hoy es quincena: cae sueldo y la gente compra lo que vio ayer en el feed. Tu promo simple (una condición, una fecha) publicada hoy vale el doble que el 28. Y mide una sola cosa: cuántos escribieron. #quincena #promo #negociosperu #ventas",
@@ -275,13 +701,42 @@
   {
    "slug": "16-nominado-no-gana",
    "slides": [
-    {"role": "cover", "kicker": "LATIN GRAMMY", "emoji": "🏅", "h": "Ser nominado no es ganar", "b": "aparecer en el feed no es vender"},
-    {"role": "value", "h": "Alcance no es caja", "b": "Mil vistas sin un \"¿cómo pido?\" son aplausos, no ventas. El post bonito que no dice cómo comprar es una nominación sin premio."},
-    {"role": "value", "h": "El post que convierte tiene 3 cosas", "b": "Foto clara, para quién es, y cómo pedir. Si falta una, decoraste el feed — no publicaste una venta."},
-    {"role": "value", "h": "El premio se entrega en el chat", "b": "La venta se cierra en la conversación, no en el post. Responder dentro de la hora es tu discurso de agradecimiento."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-respuestas.png", "h": "Ningún \"¿cómo pido?\" sin respuesta.", "b": "propaga.pe junta las preguntas de todos tus posts en una bandeja y las respondes al toque."},
-    {"role": "cta", "h": "No te quedes en nominado.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "LATIN GRAMMY",
+     "emoji": "🏅",
+     "h": "Ser nominado no es ganar",
+     "b": "aparecer en el feed no es vender"
+    },
+    {
+     "role": "value",
+     "h": "Alcance no es caja",
+     "b": "Mil vistas sin un \"¿cómo pido?\" son aplausos, no ventas. El post bonito que no dice cómo comprar es una nominación sin premio."
+    },
+    {
+     "role": "value",
+     "h": "El post que convierte tiene 3 cosas",
+     "b": "Foto clara, para quién es, y cómo pedir. Si falta una, decoraste el feed — no publicaste una venta."
+    },
+    {
+     "role": "value",
+     "h": "El premio se entrega en el chat",
+     "b": "La venta se cierra en la conversación, no en el post. Responder dentro de la hora es tu discurso de agradecimiento."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-respuestas.png",
+     "h": "Ningún \"¿cómo pido?\" sin respuesta.",
+     "b": "propaga.pe junta las preguntas de todos tus posts en una bandeja y las respondes al toque."
+    },
+    {
+     "role": "cta",
+     "h": "No te quedes en nominado.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Hoy salen las nominaciones al Latin Grammy — y ser nominado no es ganar, igual que aparecer en el feed no es vender. El post que convierte: foto clara + para quién + cómo pedir. El premio se cobra en el chat. #latingrammy #ventas #negociosperu #marketing",
@@ -293,13 +748,42 @@
   {
    "slug": "17-competencia-scroll",
    "slides": [
-    {"role": "story", "plate": "cine-08-caminando", "emoji": "⚡", "h": "Tu competencia no es la tienda de al lado", "b": "es el scroll infinito"},
-    {"role": "value", "h": "Compites contra videos de gatitos", "b": "Tu post no pelea con otras tiendas: pelea con todo el entretenimiento del planeta por 2 segundos de atención. Por eso el gancho manda."},
-    {"role": "value", "h": "Lo específico detiene el dedo", "b": "\"Ropa para niños\" pierde contra \"polos que aguantan el recreo\". Cuanto más exacto el problema, más frena el scroll."},
-    {"role": "value", "h": "Una cara vale más que un logo", "b": "Los posts con personas retienen más: tu cara, tus manos trabajando o tu cliente feliz (con permiso). El logo no mira a los ojos."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-contenido.png", "h": "Ganchos que ya probaste, a la mano.", "b": "propaga.pe guarda tus posts con mejor alcance para que repitas lo que detiene el dedo."},
-    {"role": "cta", "h": "Detén el scroll o sé el scroll.", "b": "propaga.pe"}
+    {
+     "role": "story",
+     "plate": "cine-08-caminando",
+     "emoji": "⚡",
+     "h": "Tu competencia no es la tienda de al lado",
+     "b": "es el scroll infinito"
+    },
+    {
+     "role": "value",
+     "h": "Compites contra videos de gatitos",
+     "b": "Tu post no pelea con otras tiendas: pelea con todo el entretenimiento del planeta por 2 segundos de atención. Por eso el gancho manda."
+    },
+    {
+     "role": "value",
+     "h": "Lo específico detiene el dedo",
+     "b": "\"Ropa para niños\" pierde contra \"polos que aguantan el recreo\". Cuanto más exacto el problema, más frena el scroll."
+    },
+    {
+     "role": "value",
+     "h": "Una cara vale más que un logo",
+     "b": "Los posts con personas retienen más: tu cara, tus manos trabajando o tu cliente feliz (con permiso). El logo no mira a los ojos."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-contenido.png",
+     "h": "Ganchos que ya probaste, a la mano.",
+     "b": "propaga.pe guarda tus posts con mejor alcance para que repitas lo que detiene el dedo."
+    },
+    {
+     "role": "cta",
+     "h": "Detén el scroll o sé el scroll.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Tu competencia real no tiene tienda: es el scroll. Peleas contra gatitos, chismes y partidos por 2 segundos de atención. Ganan los específicos (\"polos que aguantan el recreo\") y las caras reales. #marketingdigital #negociosperu #contenido #emprendedores",
@@ -311,13 +795,41 @@
   {
    "slug": "18-asi-se-hace",
    "slides": [
-    {"role": "cover", "emoji": "🎥", "h": "La gente compra viendo cómo lo haces", "b": "tu proceso es tu mejor anuncio"},
-    {"role": "value", "h": "El video de 15 segundos", "b": "Graba el paso más visual de tu oficio: el glaseado cayendo, el corte de tela, el empaque cerrándose. Sin editar, con luz de día."},
-    {"role": "value", "h": "Por qué funciona siempre", "b": "Nadie desconfía de lo que vio hacerse. Y el tiempo que la gente se queda mirando le dice al algoritmo que te muestre más."},
-    {"role": "value", "h": "Conviértelo en serie semanal", "b": "\"Así se hace\" cada jueves, mismo formato. A la tercera semana la gente lo espera — y lo que se espera, se comparte."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-posts.png", "h": "Tu serie semanal, en piloto automático.", "b": "Grabas cuando puedes y propaga.pe lo publica cada jueves sin que estés pendiente."},
-    {"role": "cta", "h": "Graba el paso que mejor te sale. Hoy.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "🎥",
+     "h": "La gente compra viendo cómo lo haces",
+     "b": "tu proceso es tu mejor anuncio"
+    },
+    {
+     "role": "value",
+     "h": "El video de 15 segundos",
+     "b": "Graba el paso más visual de tu oficio: el glaseado cayendo, el corte de tela, el empaque cerrándose. Sin editar, con luz de día."
+    },
+    {
+     "role": "value",
+     "h": "Por qué funciona siempre",
+     "b": "Nadie desconfía de lo que vio hacerse. Y el tiempo que la gente se queda mirando le dice al algoritmo que te muestre más."
+    },
+    {
+     "role": "value",
+     "h": "Conviértelo en serie semanal",
+     "b": "\"Así se hace\" cada jueves, mismo formato. A la tercera semana la gente lo espera — y lo que se espera, se comparte."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-posts.png",
+     "h": "Tu serie semanal, en piloto automático.",
+     "b": "Grabas cuando puedes y propaga.pe lo publica cada jueves sin que estés pendiente."
+    },
+    {
+     "role": "cta",
+     "h": "Graba el paso que mejor te sale. Hoy.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "El video más vendedor de tu negocio ya existe: es el paso más visual de tu proceso, grabado 15 segundos con luz. Nadie desconfía de lo que vio hacerse. Serie semanal y a correr. #detrasdecamaras #negociosperu #videomarketing #emprendedores",
@@ -329,13 +841,41 @@
   {
    "slug": "19-te-buscaron-anoche",
    "slides": [
-    {"role": "cover", "emoji": "📍", "h": "Tu cliente te buscó anoche y no te encontró", "b": "revisa estos 4 lugares"},
-    {"role": "value", "h": "Los 4 datos que siempre faltan", "b": "Horario real (con feriados), ubicación exacta, número que sí contesta y cómo pedir. Revísalos en tu bio, en Google y en Facebook — hoy."},
-    {"role": "value", "h": "La bio de una sola línea", "b": "Qué vendes + dónde + cómo pedir. Las frases motivacionales no responden ninguna de las 3 preguntas del que llega."},
-    {"role": "value", "h": "El número viejo es un hueco en la bolsa", "b": "Ventas yéndose al vacío todos los días sin que lo veas. Escríbete a ti mismo desde otro celular y comprueba qué encuentra tu cliente."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-canales.png", "h": "Todos tus canales, coherentes.", "b": "propaga.pe te muestra tus redes juntas: detectas el dato viejo antes que tu cliente."},
-    {"role": "cta", "h": "Haz la prueba del cliente perdido hoy.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "📍",
+     "h": "Tu cliente te buscó anoche y no te encontró",
+     "b": "revisa estos 4 lugares"
+    },
+    {
+     "role": "value",
+     "h": "Los 4 datos que siempre faltan",
+     "b": "Horario real (con feriados), ubicación exacta, número que sí contesta y cómo pedir. Revísalos en tu bio, en Google y en Facebook — hoy."
+    },
+    {
+     "role": "value",
+     "h": "La bio de una sola línea",
+     "b": "Qué vendes + dónde + cómo pedir. Las frases motivacionales no responden ninguna de las 3 preguntas del que llega."
+    },
+    {
+     "role": "value",
+     "h": "El número viejo es un hueco en la bolsa",
+     "b": "Ventas yéndose al vacío todos los días sin que lo veas. Escríbete a ti mismo desde otro celular y comprueba qué encuentra tu cliente."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-canales.png",
+     "h": "Todos tus canales, coherentes.",
+     "b": "propaga.pe te muestra tus redes juntas: detectas el dato viejo antes que tu cliente."
+    },
+    {
+     "role": "cta",
+     "h": "Haz la prueba del cliente perdido hoy.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Anoche alguien quiso comprarte: buscó tu horario, encontró uno viejo, y le compró al de al lado. Los 4 datos que se revisan hoy: horario, ubicación, número que contesta y cómo pedir. #googlemybusiness #negociosperu #ventas #emprendedores",
@@ -347,13 +887,42 @@
   {
    "slug": "20-compra-de-noche",
    "slides": [
-    {"role": "story", "plate": "cine-01-cama", "emoji": "🌙", "h": "Tu cliente compra echado en su cama", "b": "a las 10pm, con una mano"},
-    {"role": "value", "h": "El pico de las 9 a 11", "b": "De noche la gente scrollea y decide; compra o escribe al día siguiente. Publica entre 7 y 9pm para estar arriba cuando llegue su noche."},
-    {"role": "value", "h": "Escribe para una mano y un ojo", "b": "Frases cortas, foto que se entiende en miniatura, cero letra chica. Tu post se lee medio dormido o no se lee."},
-    {"role": "value", "h": "Los mensajes de las 11pm son oro", "b": "El \"¿precio?\" nocturno es un comprador de la mañana siguiente: los primeros 30 minutos de tu día son para contestarlos."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-respuestas.png", "h": "Los mensajes de la noche te esperan ordenados.", "b": "propaga.pe junta lo que llegó de madrugada para que tu primera media hora rinda."},
-    {"role": "cta", "h": "Publica para su noche, cobra en tu mañana.", "b": "propaga.pe"}
+    {
+     "role": "story",
+     "plate": "cine-01-cama",
+     "emoji": "🌙",
+     "h": "Tu cliente compra echado en su cama",
+     "b": "a las 10pm, con una mano"
+    },
+    {
+     "role": "value",
+     "h": "El pico de las 9 a 11",
+     "b": "De noche la gente scrollea y decide; compra o escribe al día siguiente. Publica entre 7 y 9pm para estar arriba cuando llegue su noche."
+    },
+    {
+     "role": "value",
+     "h": "Escribe para una mano y un ojo",
+     "b": "Frases cortas, foto que se entiende en miniatura, cero letra chica. Tu post se lee medio dormido o no se lee."
+    },
+    {
+     "role": "value",
+     "h": "Los mensajes de las 11pm son oro",
+     "b": "El \"¿precio?\" nocturno es un comprador de la mañana siguiente: los primeros 30 minutos de tu día son para contestarlos."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-respuestas.png",
+     "h": "Los mensajes de la noche te esperan ordenados.",
+     "b": "propaga.pe junta lo que llegó de madrugada para que tu primera media hora rinda."
+    },
+    {
+     "role": "cta",
+     "h": "Publica para su noche, cobra en tu mañana.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Tu cliente no compra en horario de oficina: compra echado en su cama a las 10pm, con una mano y medio ojo. Publica 7-9pm, escribe corto, y contesta los mensajes nocturnos apenas abras. #horarios #negociosperu #marketingdigital #ventas",
@@ -365,13 +934,42 @@
   {
    "slug": "21-vitrina-primavera",
    "slides": [
-    {"role": "cover", "kicker": "LLEGA PRIMAVERA", "emoji": "🌸", "h": "La primavera empieza en tu vitrina, no el 23", "b": "esta semana se prepara"},
-    {"role": "value", "h": "El refresh de una hora", "b": "Foto de portada nueva con luz de día, historias destacadas reordenadas (lo de temporada primero) y tu mejor producto arriba. Una hora, feed nuevo."},
-    {"role": "value", "h": "La luz de primavera es la decoración", "b": "No compres nada: saca tus productos a la ventana o a la calle y fotografía con la luz nueva. El feed se ve de temporada solo."},
-    {"role": "value", "h": "El post \"ya llegó\"", "b": "Anuncia lo de temporada aunque sea lo mismo con otro ángulo: \"volvieron los...\", \"edición primavera\". Lo nuevo es percepción."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-campanas.png", "h": "Tu semana de primavera, programada.", "b": "Dejas los posts de la temporada listos en propaga.pe y florecen solos."},
-    {"role": "cta", "h": "Que el 23 te encuentre florecido.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "LLEGA PRIMAVERA",
+     "emoji": "🌸",
+     "h": "La primavera empieza en tu vitrina, no el 23",
+     "b": "esta semana se prepara"
+    },
+    {
+     "role": "value",
+     "h": "El refresh de una hora",
+     "b": "Foto de portada nueva con luz de día, historias destacadas reordenadas (lo de temporada primero) y tu mejor producto arriba. Una hora, feed nuevo."
+    },
+    {
+     "role": "value",
+     "h": "La luz de primavera es la decoración",
+     "b": "No compres nada: saca tus productos a la ventana o a la calle y fotografía con la luz nueva. El feed se ve de temporada solo."
+    },
+    {
+     "role": "value",
+     "h": "El post \"ya llegó\"",
+     "b": "Anuncia lo de temporada aunque sea lo mismo con otro ángulo: \"volvieron los...\", \"edición primavera\". Lo nuevo es percepción."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-campanas.png",
+     "h": "Tu semana de primavera, programada.",
+     "b": "Dejas los posts de la temporada listos en propaga.pe y florecen solos."
+    },
+    {
+     "role": "cta",
+     "h": "Que el 23 te encuentre florecido.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "La primavera no empieza el 23: empieza cuando tu vitrina digital la anuncia. El refresh de 1 hora: portada nueva, destacadas reordenadas, producto de temporada arriba. La luz de estos días es decoración gratis. #primavera #negociosperu #vitrina #emprendedores",
@@ -383,13 +981,42 @@
   {
    "slug": "22-generacion-scroll",
    "slides": [
-    {"role": "cover", "kicker": "DÍA DE LA JUVENTUD", "emoji": "🎧", "h": "Los jóvenes no leen carteles, leen historias", "b": "véndeles donde miran"},
-    {"role": "value", "h": "El código joven", "b": "Respuesta rápida, humor ligero, cero \"estimado cliente\". Se les habla como escribes en tu grupo de amigos — con respeto, sin corbata."},
-    {"role": "value", "h": "Video vertical o invisible", "b": "Si tu cliente tiene menos de 25, tu formato es el video corto vertical. Uno por semana basta para existir en su mundo."},
-    {"role": "value", "h": "Compran por referencia, no por anuncio", "b": "Repostea las historias donde te etiquetan (pidiendo permiso). El amigo que te recomienda vale más que toda tu publicidad."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-canales.png", "h": "Estás en la red donde ellos viven.", "b": "propaga.pe publica tu contenido en todas las plataformas de una vez — también donde para tu cliente joven."},
-    {"role": "cta", "h": "Habla su idioma sin disfrazarte.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "DÍA DE LA JUVENTUD",
+     "emoji": "🎧",
+     "h": "Los jóvenes no leen carteles, leen historias",
+     "b": "véndeles donde miran"
+    },
+    {
+     "role": "value",
+     "h": "El código joven",
+     "b": "Respuesta rápida, humor ligero, cero \"estimado cliente\". Se les habla como escribes en tu grupo de amigos — con respeto, sin corbata."
+    },
+    {
+     "role": "value",
+     "h": "Video vertical o invisible",
+     "b": "Si tu cliente tiene menos de 25, tu formato es el video corto vertical. Uno por semana basta para existir en su mundo."
+    },
+    {
+     "role": "value",
+     "h": "Compran por referencia, no por anuncio",
+     "b": "Repostea las historias donde te etiquetan (pidiendo permiso). El amigo que te recomienda vale más que toda tu publicidad."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-canales.png",
+     "h": "Estás en la red donde ellos viven.",
+     "b": "propaga.pe publica tu contenido en todas las plataformas de una vez — también donde para tu cliente joven."
+    },
+    {
+     "role": "cta",
+     "h": "Habla su idioma sin disfrazarte.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Día de la Juventud: si tu cliente tiene menos de 25, no lee carteles — lee historias, mira videos verticales y compra lo que sus amigos etiquetan. El código: rápido, ligero, sin corbata. #diadelajuventud #negociosperu #genz #marketing",
@@ -401,13 +1028,42 @@
   {
    "slug": "23-primavera-estrena",
    "slides": [
-    {"role": "cover", "kicker": "PRIMAVERA", "emoji": "🌷", "h": "Todos estrenan algo en primavera", "b": "¿y tu negocio?"},
-    {"role": "value", "h": "Estrena sin gastar", "b": "Un producto renombrado de temporada, el combo primavera o el empaque con un detalle nuevo. \"Nuevo\" es percepción, no inversión."},
-    {"role": "value", "h": "Hoy se publica en la mañana", "b": "Día de primavera y juventud: el feed se llena desde temprano. El post de 8-9am gana el día; el de la tarde llega al ruido."},
-    {"role": "value", "h": "La palabra de búsqueda gratis", "b": "\"Primavera\" en tu caption HOY. La gente busca la temporada esta semana — y encuentra a los que la nombraron."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-fuera.png", "h": "Tu estreno, en todas partes a la vez.", "b": "propaga.pe lo publica en cada red apenas lo apruebas — la mañana rinde el doble."},
-    {"role": "cta", "h": "Feliz primavera. Ahora estrena algo.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "PRIMAVERA",
+     "emoji": "🌷",
+     "h": "Todos estrenan algo en primavera",
+     "b": "¿y tu negocio?"
+    },
+    {
+     "role": "value",
+     "h": "Estrena sin gastar",
+     "b": "Un producto renombrado de temporada, el combo primavera o el empaque con un detalle nuevo. \"Nuevo\" es percepción, no inversión."
+    },
+    {
+     "role": "value",
+     "h": "Hoy se publica en la mañana",
+     "b": "Día de primavera y juventud: el feed se llena desde temprano. El post de 8-9am gana el día; el de la tarde llega al ruido."
+    },
+    {
+     "role": "value",
+     "h": "La palabra de búsqueda gratis",
+     "b": "\"Primavera\" en tu caption HOY. La gente busca la temporada esta semana — y encuentra a los que la nombraron."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-fuera.png",
+     "h": "Tu estreno, en todas partes a la vez.",
+     "b": "propaga.pe lo publica en cada red apenas lo apruebas — la mañana rinde el doble."
+    },
+    {
+     "role": "cta",
+     "h": "Feliz primavera. Ahora estrena algo.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Feliz primavera 🌷 Hoy todos estrenan algo — y tu negocio también puede sin gastar un sol: producto renombrado, combo de temporada, empaque con detalle. Publica en la mañana y pon \"primavera\" en el caption: es búsqueda gratis. #primavera #negociosperu #ventas",
@@ -419,13 +1075,41 @@
   {
    "slug": "24-cliente-feliz",
    "slides": [
-    {"role": "cover", "emoji": "⭐", "h": "Un cliente feliz vende más que diez posts tuyos", "b": "aprende a pedirlo"},
-    {"role": "value", "h": "Cómo pedirlo sin roche", "b": "Al entregar: \"¿me mandas una foto cuando lo pruebes?\". Tres de cada diez la mandan — y esa foto vale más que cualquier campaña."},
-    {"role": "value", "h": "Cómo publicarlo bien", "b": "Captura del mensaje (tapando el número), foto del cliente con permiso, o su historia reposteada. Siempre con contexto: qué pidió y para qué ocasión."},
-    {"role": "value", "h": "El archivo de elogios", "b": "Carpeta en tu celular: \"clientes felices\". El día que no sepas qué publicar, ahí hay un post esperando. Es tu banco de confianza."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-comentarios.png", "h": "Los elogios llegan y no se pierden.", "b": "propaga.pe junta los comentarios y menciones buenas de todas tus redes — tu archivo se llena solo."},
-    {"role": "cta", "h": "Pide la foto en tu próxima entrega.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "⭐",
+     "h": "Un cliente feliz vende más que diez posts tuyos",
+     "b": "aprende a pedirlo"
+    },
+    {
+     "role": "value",
+     "h": "Cómo pedirlo sin roche",
+     "b": "Al entregar: \"¿me mandas una foto cuando lo pruebes?\". Tres de cada diez la mandan — y esa foto vale más que cualquier campaña."
+    },
+    {
+     "role": "value",
+     "h": "Cómo publicarlo bien",
+     "b": "Captura del mensaje (tapando el número), foto del cliente con permiso, o su historia reposteada. Siempre con contexto: qué pidió y para qué ocasión."
+    },
+    {
+     "role": "value",
+     "h": "El archivo de elogios",
+     "b": "Carpeta en tu celular: \"clientes felices\". El día que no sepas qué publicar, ahí hay un post esperando. Es tu banco de confianza."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-comentarios.png",
+     "h": "Los elogios llegan y no se pierden.",
+     "b": "propaga.pe junta los comentarios y menciones buenas de todas tus redes — tu archivo se llena solo."
+    },
+    {
+     "role": "cta",
+     "h": "Pide la foto en tu próxima entrega.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Tu mejor vendedor no cobra sueldo: es el cliente feliz que te manda foto. Cómo pedirla sin roche (\"¿me mandas una foto cuando lo pruebes?\"), cómo publicarla y dónde archivarla. #testimonios #clientesfelices #negociosperu #ventas",
@@ -437,13 +1121,43 @@
   {
    "slug": "25-nostalgia-endgame",
    "slides": [
-    {"role": "cover", "kicker": "VUELVE ENDGAME", "emoji": "♻", "img": "evento-rdj.jpg", "h": "Marvel revende una película de 2019 y llena salas", "b": "tu mejor contenido también puede volver"},
-    {"role": "value", "h": "El re-post con derecho", "b": "Tu post más comentado de hace meses: repúblícalo con foto nueva y un \"me lo siguen pidiendo\". Nadie recuerda tu feed tanto como tú."},
-    {"role": "value", "h": "Los éxitos son franquicias", "b": "Si un formato funcionó (el antes-después, la entrega, el cómo-se-hace), no fue un post: fue el piloto. Repítelo con otro caso cada semana."},
-    {"role": "value", "h": "El aniversario se re-estrena", "b": "\"Hace 3 años empezamos con una mesa\" — tu historia propia aguanta una función anual, y cada año llega público nuevo que no la vio."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-contenido.png", "h": "Tus éxitos, identificados y listos.", "b": "propaga.pe te muestra qué posts funcionaron para re-estrenarlos sin adivinar."},
-    {"role": "cta", "h": "Re-estrena tu taquillazo esta semana.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "VUELVE ENDGAME",
+     "emoji": "♻",
+     "img": "evento-rdj.jpg",
+     "h": "Marvel revende una película de 2019 y llena salas",
+     "b": "tu mejor contenido también puede volver"
+    },
+    {
+     "role": "value",
+     "h": "El re-post con derecho",
+     "b": "Tu post más comentado de hace meses: repúblícalo con foto nueva y un \"me lo siguen pidiendo\". Nadie recuerda tu feed tanto como tú."
+    },
+    {
+     "role": "value",
+     "h": "Los éxitos son franquicias",
+     "b": "Si un formato funcionó (el antes-después, la entrega, el cómo-se-hace), no fue un post: fue el piloto. Repítelo con otro caso cada semana."
+    },
+    {
+     "role": "value",
+     "h": "El aniversario se re-estrena",
+     "b": "\"Hace 3 años empezamos con una mesa\" — tu historia propia aguanta una función anual, y cada año llega público nuevo que no la vio."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-contenido.png",
+     "h": "Tus éxitos, identificados y listos.",
+     "b": "propaga.pe te muestra qué posts funcionaron para re-estrenarlos sin adivinar."
+    },
+    {
+     "role": "cta",
+     "h": "Re-estrena tu taquillazo esta semana.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Hoy Endgame vuelve al cine — una película del 2019 llenando salas otra vez. Tu contenido también tiene taquillazos re-estrenables: el post más comentado, el formato que funcionó, tu historia de origen. La nostalgia vende. #endgame #marvel #negociosperu #contenido",
@@ -455,13 +1169,41 @@
   {
    "slug": "26-los-de-siempre",
    "slides": [
-    {"role": "cover", "emoji": "💛", "h": "Tus mejores clientes ya te siguen y no les hablas", "b": "el post para los tuyos"},
-    {"role": "value", "h": "Uno de cada cinco posts es para ellos", "b": "El \"gracias\", la encuesta, el detrás de escena. Los que ya compran sostienen tu negocio — y tu feed solo le habla a extraños."},
-    {"role": "value", "h": "La encuesta que pre-vende", "b": "Historia con dos opciones: \"¿traemos más de esto o de esto?\". La gente vota, tú pides stock ya vendido. La comunidad decide y compra."},
-    {"role": "value", "h": "Nombra a tu gente", "b": "\"Para las mamás del turno mañana\", \"los del combo de siempre\". Sentirse parte engancha más que cualquier descuento."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-lista.png", "h": "Sabes quiénes son los de siempre.", "b": "propaga.pe te muestra quiénes interactúan más — tu comunidad tiene nombres."},
-    {"role": "cta", "h": "Hoy publica para los que ya te quieren.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "emoji": "💛",
+     "h": "Tus mejores clientes ya te siguen y no les hablas",
+     "b": "el post para los tuyos"
+    },
+    {
+     "role": "value",
+     "h": "Uno de cada cinco posts es para ellos",
+     "b": "El \"gracias\", la encuesta, el detrás de escena. Los que ya compran sostienen tu negocio — y tu feed solo le habla a extraños."
+    },
+    {
+     "role": "value",
+     "h": "La encuesta que pre-vende",
+     "b": "Historia con dos opciones: \"¿traemos más de esto o de esto?\". La gente vota, tú pides stock ya vendido. La comunidad decide y compra."
+    },
+    {
+     "role": "value",
+     "h": "Nombra a tu gente",
+     "b": "\"Para las mamás del turno mañana\", \"los del combo de siempre\". Sentirse parte engancha más que cualquier descuento."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-lista.png",
+     "h": "Sabes quiénes son los de siempre.",
+     "b": "propaga.pe te muestra quiénes interactúan más — tu comunidad tiene nombres."
+    },
+    {
+     "role": "cta",
+     "h": "Hoy publica para los que ya te quieren.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Tu feed le habla todo el día a desconocidos mientras tus mejores clientes — los que ya compran — no reciben ni un gracias. La regla: 1 de cada 5 posts para los tuyos. Y la encuesta que pre-vende stock. #comunidad #clientes #negociosperu #fidelizacion",
@@ -473,13 +1215,42 @@
   {
    "slug": "27-clip-10-segundos",
    "slides": [
-    {"role": "cover", "kicker": "NOCHE DE VMAs", "emoji": "✂", "h": "En los VMAs el momento viral dura 10 segundos", "b": "corta lo mejor de lo tuyo"},
-    {"role": "value", "h": "Un video, tres clips", "b": "De tu video de proceso salen 3 de 10 segundos: el momento más visual, el resultado final y la reacción del cliente. Una grabación, semana de contenido."},
-    {"role": "value", "h": "Empieza en el mejor segundo", "b": "Nada de saludos: el clip arranca en el momento más impresionante. Nadie regala 5 segundos de espera — ni a Lady Gaga."},
-    {"role": "value", "h": "Subtítulos o invisible", "b": "El 80% mira sin sonido. Dos líneas grandes encima del video y tu clip habla aunque el celular esté en silencio."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-movil.png", "h": "Cortas una vez, publicas en todas.", "b": "propaga.pe sube tus clips a cada red en su formato — sin exportar tres veces."},
-    {"role": "cta", "h": "Corta tu momento viral esta semana.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "NOCHE DE VMAs",
+     "emoji": "✂",
+     "h": "En los VMAs el momento viral dura 10 segundos",
+     "b": "corta lo mejor de lo tuyo"
+    },
+    {
+     "role": "value",
+     "h": "Un video, tres clips",
+     "b": "De tu video de proceso salen 3 de 10 segundos: el momento más visual, el resultado final y la reacción del cliente. Una grabación, semana de contenido."
+    },
+    {
+     "role": "value",
+     "h": "Empieza en el mejor segundo",
+     "b": "Nada de saludos: el clip arranca en el momento más impresionante. Nadie regala 5 segundos de espera — ni a Lady Gaga."
+    },
+    {
+     "role": "value",
+     "h": "Subtítulos o invisible",
+     "b": "El 80% mira sin sonido. Dos líneas grandes encima del video y tu clip habla aunque el celular esté en silencio."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-movil.png",
+     "h": "Cortas una vez, publicas en todas.",
+     "b": "propaga.pe sube tus clips a cada red en su formato — sin exportar tres veces."
+    },
+    {
+     "role": "cta",
+     "h": "Corta tu momento viral esta semana.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Esta noche son los VMAs y mañana solo se hablará de momentos de 10 segundos. Tu negocio también los tiene: el corte perfecto, el resultado, la reacción. Un video largo = 3 clips virales. Empieza en el mejor segundo. #vmas #reels #negociosperu #video",
@@ -491,13 +1262,42 @@
   {
    "slug": "28-octubre-tres-fechas",
    "slides": [
-    {"role": "cover", "kicker": "SE VIENE OCTUBRE", "emoji": "🎃", "h": "Octubre trae 3 fechas que venden solas", "b": "y se preparan esta semana"},
-    {"role": "value", "h": "Las 3 del mes", "b": "Días gastronómicos (lomo saltado el 9, anticucho el 17, chifa el 21), Halloween + Canción Criolla (el 31) y la rampa a Cyber Wow al cierre. Comida, disfraces, dulces, promos: casi todo rubro entra."},
-    {"role": "value", "h": "Elige UNA y prepárala completa", "b": "Qué vas a ofrecer, qué foto necesitas y qué día lo anuncias (5 días antes). Una fecha bien trabajada vale más que tres improvisadas."},
-    {"role": "value", "h": "El error clásico de octubre", "b": "Publicar el 31 a las 6pm. Las fechas venden la semana previa — el día es para entregar, no para anunciar."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-campanas.png", "h": "Tu octubre, cargado desde septiembre.", "b": "Dejas las campañas del mes en propaga.pe y cada fecha sale a tiempo, sin corridas."},
-    {"role": "cta", "h": "Octubre premia al que llegó antes.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "SE VIENE OCTUBRE",
+     "emoji": "🎃",
+     "h": "Octubre trae 3 fechas que venden solas",
+     "b": "y se preparan esta semana"
+    },
+    {
+     "role": "value",
+     "h": "Las 3 del mes",
+     "b": "Días gastronómicos (lomo saltado el 9, anticucho el 17, chifa el 21), Halloween + Canción Criolla (el 31) y la rampa a Cyber Wow al cierre. Comida, disfraces, dulces, promos: casi todo rubro entra."
+    },
+    {
+     "role": "value",
+     "h": "Elige UNA y prepárala completa",
+     "b": "Qué vas a ofrecer, qué foto necesitas y qué día lo anuncias (5 días antes). Una fecha bien trabajada vale más que tres improvisadas."
+    },
+    {
+     "role": "value",
+     "h": "El error clásico de octubre",
+     "b": "Publicar el 31 a las 6pm. Las fechas venden la semana previa — el día es para entregar, no para anunciar."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-campanas.png",
+     "h": "Tu octubre, cargado desde septiembre.",
+     "b": "Dejas las campañas del mes en propaga.pe y cada fecha sale a tiempo, sin corridas."
+    },
+    {
+     "role": "cta",
+     "h": "Octubre premia al que llegó antes.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Octubre viene cargado: día del lomo saltado (9), anticucho (17), chifa (21), Halloween y Canción Criolla (31), y la previa de Cyber Wow. Elige tu fecha, prepárala completa y anúnciala 5 días antes. #octubre #halloween #negociosperu #calendario",
@@ -509,13 +1309,42 @@
   {
    "slug": "29-banco-de-fotos",
    "slides": [
-    {"role": "story", "plate": "cine-07-caos", "emoji": "🗂", "h": "Tu celular tiene 400 fotos y tu feed ninguna", "b": "ordena tu banco en 30 minutos"},
-    {"role": "value", "h": "La carpeta única", "b": "Crea el álbum \"NEGOCIO\" y mueve ahí toda foto usable: producto, proceso, clientes, local. 30 minutos una sola vez — y se acabó el buscar."},
-    {"role": "value", "h": "La regla de salida", "b": "Cada foto buena que tomes va directo al álbum en ese momento. El \"luego la paso\" es el cementerio donde mueren los posts."},
-    {"role": "value", "h": "La sesión mensual de 20", "b": "Un día al mes, tu rincón de luz, 20 fotos seguidas: productos, detalles, manos trabajando. El mes queda abastecido en una hora."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-movil.png", "h": "Del álbum al post en dos toques.", "b": "propaga.pe toma las fotos de tu celular y las convierte en publicaciones programadas."},
-    {"role": "cta", "h": "Tus 400 fotos quieren trabajar.", "b": "propaga.pe"}
+    {
+     "role": "story",
+     "plate": "cine-07-caos",
+     "emoji": "🗂",
+     "h": "Tu celular tiene 400 fotos y tu feed ninguna",
+     "b": "ordena tu banco en 30 minutos"
+    },
+    {
+     "role": "value",
+     "h": "La carpeta única",
+     "b": "Crea el álbum \"NEGOCIO\" y mueve ahí toda foto usable: producto, proceso, clientes, local. 30 minutos una sola vez — y se acabó el buscar."
+    },
+    {
+     "role": "value",
+     "h": "La regla de salida",
+     "b": "Cada foto buena que tomes va directo al álbum en ese momento. El \"luego la paso\" es el cementerio donde mueren los posts."
+    },
+    {
+     "role": "value",
+     "h": "La sesión mensual de 20",
+     "b": "Un día al mes, tu rincón de luz, 20 fotos seguidas: productos, detalles, manos trabajando. El mes queda abastecido en una hora."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-movil.png",
+     "h": "Del álbum al post en dos toques.",
+     "b": "propaga.pe toma las fotos de tu celular y las convierte en publicaciones programadas."
+    },
+    {
+     "role": "cta",
+     "h": "Tus 400 fotos quieren trabajar.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Tienes 400 fotos en el celular y ninguna en el feed — porque encontrarlas es más difícil que tomarlas. El sistema: álbum NEGOCIO (30 min una vez), regla de salida (foto buena → álbum) y sesión mensual de 20. #organizacion #fotos #negociosperu #contenido",
@@ -527,13 +1356,42 @@
   {
    "slug": "30-halloween-empezo-hoy",
    "slides": [
-    {"role": "cover", "kicker": "RAMPA A OCTUBRE", "emoji": "🗓", "h": "El que vende en Halloween empezó en septiembre", "b": "tu octubre se decide hoy"},
-    {"role": "value", "h": "El calendario de octubre en 15 minutos", "b": "Elige tus 2 fechas del mes, ponles día de anuncio (5 antes de cada una) y deja los posts esbozados. Hoy, mientras nadie más lo hace."},
-    {"role": "value", "h": "Stock y foto antes que post", "b": "Lo de temporada se fotografía cuando LLEGA, con calma y luz — no la víspera con apuro. La foto de octubre se toma en septiembre."},
-    {"role": "value", "h": "Las palabras calientes del mes", "b": "Disfraces, dulces, promos, cena criolla: octubre tiene búsqueda encendida. Tus captions del mes llevan esas palabras desde el primer día."},
-    {"role": "recap"},
-    {"role": "stat", "shot": "shot-posts.png", "h": "Octubre entero, dormido y listo.", "b": "Programas hoy en propaga.pe y el mes se despierta solo, fecha por fecha."},
-    {"role": "cta", "h": "Octubre te encuentra listo.", "b": "propaga.pe"}
+    {
+     "role": "cover",
+     "kicker": "RAMPA A OCTUBRE",
+     "emoji": "🗓",
+     "h": "El que vende en Halloween empezó en septiembre",
+     "b": "tu octubre se decide hoy"
+    },
+    {
+     "role": "value",
+     "h": "El calendario de octubre en 15 minutos",
+     "b": "Elige tus 2 fechas del mes, ponles día de anuncio (5 antes de cada una) y deja los posts esbozados. Hoy, mientras nadie más lo hace."
+    },
+    {
+     "role": "value",
+     "h": "Stock y foto antes que post",
+     "b": "Lo de temporada se fotografía cuando LLEGA, con calma y luz — no la víspera con apuro. La foto de octubre se toma en septiembre."
+    },
+    {
+     "role": "value",
+     "h": "Las palabras calientes del mes",
+     "b": "Disfraces, dulces, promos, cena criolla: octubre tiene búsqueda encendida. Tus captions del mes llevan esas palabras desde el primer día."
+    },
+    {
+     "role": "recap"
+    },
+    {
+     "role": "stat",
+     "shot": "shot-posts.png",
+     "h": "Octubre entero, dormido y listo.",
+     "b": "Programas hoy en propaga.pe y el mes se despierta solo, fecha por fecha."
+    },
+    {
+     "role": "cta",
+     "h": "Octubre te encuentra listo.",
+     "b": "propaga.pe"
+    }
    ],
    "caption": {
     "ig": "Último día de septiembre = primer día de tu octubre. Los negocios que venden en Halloween, Canción Criolla y los días gastronómicos ya están programando. 15 minutos hoy: 2 fechas, día de anuncio, posts esbozados. #octubre #planificacion #negociosperu #halloween",

@@ -227,7 +227,9 @@ class Renderer:
             em = emoji_img(slide["emoji"], 120) if slide.get("emoji") else None
             fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (176, 64), 860, 700)
             eh = 150 if em else 0
-            top = y + (CORE_Y1 - 170 - y - hh - eh) / 2
+            # respiro mínimo bajo el kicker: con titulares largos el centrado
+            # pegaba el emoji al kicker (corrección Carlos 2026-08-03)
+            top = y + max(80, (CORE_Y1 - 170 - y - hh - eh) / 2)
             if em:
                 im.paste(em, ((W - em.width) // 2, int(top)), em)
                 top += eh

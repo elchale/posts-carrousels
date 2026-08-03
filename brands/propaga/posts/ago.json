@@ -29,11 +29,6 @@
      "b": "Post para el feed (la foto y el dato), historia (la misma foto con sticker de pregunta), carrusel o video corto (el paso a paso). Nada nuevo que inventar: la idea ya estaba."
     },
     {
-     "role": "value",
-     "h": "El error es empezar de cero cada vez",
-     "b": "El negocio que publica poco no es flojo: es el que cree que cada red necesita una idea distinta. Ninguna estrella de cine trabaja así."
-    },
-    {
      "role": "recap"
     },
     {
@@ -65,11 +60,6 @@
      "h": "Spoilea tu negocio como Tom Holland",
      "b": "Lo que se anuncia antes, se vende el día uno",
      "emoji": "🤐"
-    },
-    {
-     "role": "value",
-     "h": "Holland es famoso por spoilear todo.",
-     "b": "Y sus películas igual rompen récords. Porque avisar antes no mata la venta: la calienta. Tu negocio puede usar el mismo defecto como estrategia."
     },
     {
      "role": "value",
@@ -131,11 +121,6 @@
     },
     {
      "role": "value",
-     "h": "Por qué funciona",
-     "b": "La gente completa sola lo que falta — y comenta preguntando. Un post que muestra todo se mira; un post al que le falta algo se responde."
-    },
-    {
-     "role": "value",
      "h": "La regla de la silla",
      "b": "Úsala solo cuando de verdad viene algo (producto nuevo, cambio, fecha). La intriga sin revelación después quema la confianza — Marvel sí estrenó la película."
     },
@@ -176,11 +161,6 @@
      "role": "value",
      "h": "Una marioneta de 18 metros.",
      "b": "El cíclope de La Odisea es un muñeco gigante subido a una colina griega. Nolan pudo dibujarlo en computadora — eligió construirlo. El público lo NOTA."
-    },
-    {
-     "role": "value",
-     "h": "Tu banco de imágenes es tu CGI",
-     "b": "Las fotos de stock con gringos sonriendo se sienten falsas al primer scroll. La foto medio imperfecta de TU local, TU producto y TUS manos vende más que la perfecta ajena."
     },
     {
      "role": "value",
@@ -232,11 +212,6 @@
     },
     {
      "role": "value",
-     "h": "Publicar por publicar no es estrategia",
-     "b": "14 posts desesperados a la semana rinden menos que 3 buenos. El algoritmo no premia cantidad: premia que la gente se quede mirando."
-    },
-    {
-     "role": "value",
      "h": "Los 3 de la semana",
      "b": "Uno que ENSEÑA (el dato o truco de tu rubro), uno que MUESTRA (producto o proceso, foto real), uno que INVITA (promo, pedido, pregunta). Martes, jueves y sábado, por ejemplo."
     },
@@ -276,11 +251,6 @@
      "h": "Publicas cuando puedes, no cuando te ven",
      "b": "Por eso nadie reacciona",
      "emoji": "👀"
-    },
-    {
-     "role": "value",
-     "h": "Las 11pm del cansancio no es tu horario.",
-     "b": "Es el único momento libre del dueño — y el peor para el post. El negocio publica cuando el cliente scrollea, no cuando el dueño respira."
     },
     {
      "role": "value",
@@ -328,11 +298,6 @@
      "h": "Publica esto la semana del Día del Niño",
      "b": "Tres posts, cada uno con su día",
      "emoji": "🎈"
-    },
-    {
-     "role": "value",
-     "h": "La fecha comercial más fuerte de agosto.",
-     "b": "Domingo 16. Los papás, tíos y padrinos compran entre jueves y sábado. Tu semana de publicaciones se arma al revés desde ahí."
     },
     {
      "role": "value",
@@ -488,11 +453,6 @@
     },
     {
      "role": "value",
-     "h": "Estreno infantil + fecha del niño = tráfico doble.",
-     "b": "La película de PAW Patrol se estrena justo antes del Día del Niño. Cines llenos, patios de comida llenos, calles comerciales llenas. Ese público pasa por TU puerta."
-    },
-    {
-     "role": "value",
      "h": "Atrapa el paso, no el scroll",
      "b": "El finde de tráfico físico se gana afuera: el cartel legible desde lejos, la promo familiar en la puerta, el producto estrella VISIBLE. Instagram apoya, la vereda vende."
     },
@@ -537,11 +497,6 @@
      "h": "Un \"¿precio?\" sin responder es plata que se va",
      "b": "Y este finde llegan en manada",
      "emoji": "💸"
-    },
-    {
-     "role": "value",
-     "h": "El finde pico no perdona bandejas llenas.",
-     "b": "Día del Niño = decenas de \"¿precio?\", \"¿hay delivery?\", \"¿hasta qué hora?\". El que contesta en minutos vende; el que contesta el lunes saluda a un chat muerto."
     },
     {
      "role": "value",
@@ -592,11 +547,6 @@
     },
     {
      "role": "value",
-     "h": "El sábado es el día de la decisión.",
-     "b": "Los que miraron toda la semana compran HOY. Tu único trabajo: estar visible, responder rápido y facilitar el sí."
-    },
-    {
-     "role": "value",
      "h": "1. El post de \"todavía llegas\"",
      "b": "En la mañana: qué queda, cómo pedir, hasta qué hora entregas. Directo, sin poesía. Es el post más útil del mes."
     },
@@ -644,11 +594,6 @@
     },
     {
      "role": "value",
-     "h": "Hoy todos publican el mismo saludo.",
-     "b": "Una imagen genérica con globos que nadie mira dos veces. La fecha no se saluda: se usa. Hoy el contenido es lo que está PASANDO en tu negocio."
-    },
-    {
-     "role": "value",
      "h": "El detrás de cámara del ajetreo",
      "b": "La cola, los paquetes saliendo, el equipo a mil. El movimiento real es la mejor publicidad del día — nadie quiere comprarle al local vacío."
     },
@@ -693,11 +638,6 @@
      "h": "La foto que no tomaste hoy era el post del jueves",
      "b": "El banco propio en 10 minutos por semana",
      "emoji": "📸"
-    },
-    {
-     "role": "value",
-     "h": "El bloqueo nunca es de ideas. Es de fotos.",
-     "b": "\"No tengo qué publicar\" casi siempre significa \"no tengo imagen para esto\". Se arregla acumulando fotos ANTES de necesitarlas."
     },
     {
      "role": "value",
@@ -762,11 +702,6 @@
      "b": "Primera línea: qué es + para quién + dónde (\"Tortas temáticas para el Día del Niño, entrega en todo Arequipa\"). Después el detalle. Los hashtags: 3-5 del rubro, no 30 genéricos."
     },
     {
-     "role": "value",
-     "h": "El audio ya no es el atajo",
-     "b": "El audio de moda da un empujón corto; la búsqueda trae clientes todo el año. Un video con caption buscable sigue vendiendo meses después de publicado."
-    },
-    {
      "role": "recap"
     },
     {
@@ -797,11 +732,6 @@
      "h": "Tu post más buscado es el más aburrido",
      "b": "Horario, ubicación, cómo pedir",
      "emoji": "🥱"
-    },
-    {
-     "role": "value",
-     "h": "Nadie aplaude el post de horario.",
-     "b": "Pero es el que tu cliente abre antes de ir, antes de pedir y antes del feriado. Un negocio sin esa info visible pierde ventas en silencio."
     },
     {
      "role": "value",
@@ -852,11 +782,6 @@
     },
     {
      "role": "value",
-     "h": "Los comentarios no son vanidad. Son fila.",
-     "b": "\"¿Precio?\", \"¿hay en talla M?\", \"¿hacen envíos a Trujillo?\" — cada uno es alguien con la billetera en la mano esperando que lo atiendan."
-    },
-    {
-     "role": "value",
      "h": "Responde en público + cierra en privado",
      "b": "En el comentario: \"¡Te escribimos al privado!\" (los demás ven que atiendes). En el privado: el precio con foto y cómo pedir. Público para la vitrina, privado para el cierre."
     },
@@ -901,11 +826,6 @@
      "h": "No necesitas community manager, necesitas una hora",
      "b": "El sistema semanal completo",
      "emoji": "⏰"
-    },
-    {
-     "role": "value",
-     "h": "El problema no es el talento. Es el desorden.",
-     "b": "Publicar \"cuando se pueda\" garantiza semanas vacías. Una hora fija a la semana, con método, rinde más que inspiración repartida en 7 días."
     },
     {
      "role": "value",
@@ -971,11 +891,6 @@
      "b": "Una mañana al mes: 12 posts producidos de corrido con el calendario adelante. Rinde más que 30 sesiones de pánico de 20 minutos — y se nota en la calidad."
     },
     {
-     "role": "value",
-     "h": "Deshacer también cansa",
-     "b": "Borrar el post que salió mal a las 11pm, rehacer la promo que nadie vio, volver a explicar el horario. El retrabajo invisible es la mitad del agotamiento del dueño."
-    },
-    {
      "role": "recap"
     },
     {
@@ -1019,11 +934,6 @@
     },
     {
      "role": "value",
-     "h": "El contenido del feriado se programa antes",
-     "b": "El feriado se trabaja o se descansa — en ambos casos el contenido ya debe estar listo. Programado desde el jueves: el aviso, el recordatorio, el post del día."
-    },
-    {
-     "role": "value",
      "h": "Si cierras, también publicas",
      "b": "\"Este feriado descansamos con la familia — volvemos el lunes con todo\" es un gran post: humaniza, avisa y evita los 20 chats de \"¿están abiertos?\"."
     },
@@ -1058,11 +968,6 @@
      "h": "El feriado te regala un domingo de ventas extra",
      "b": "Los 3 posts del finde largo",
      "emoji": "🛒"
-    },
-    {
-     "role": "value",
-     "h": "Un domingo feriado no es un domingo.",
-     "b": "Es un sábado disfrazado: la gente sale, pide, celebra y gasta. Tu semana de contenido necesita solo 3 piezas bien puestas."
     },
     {
      "role": "value",
@@ -1111,11 +1016,6 @@
      "h": "¿Tu deseo es tener más clientes?",
      "b": "el pozo no contesta, tu perfil sí",
      "emoji": "🪙"
-    },
-    {
-     "role": "value",
-     "h": "La carta al pozo es EL ritual del feriado.",
-     "b": "Miles hacen cola en el santuario para dejar su deseo escrito. Tu negocio puede subirse a esa conversación sin vender nada — preguntando."
     },
     {
      "role": "value",
@@ -1171,13 +1071,8 @@
     },
     {
      "role": "value",
-     "h": "Qué debe decir (y qué no)",
-     "b": "SÍ: horario real de respuesta, el dato que casi todos preguntan (catálogo, zonas de entrega), y qué hacer mientras (\"mira el catálogo aquí\"). NO: \"su mensaje es importante para nosotros\"."
-    },
-    {
-     "role": "value",
-     "h": "El ejemplo completo",
-     "b": "\"¡Hola! Atendemos de 9am a 7pm. Mientras tanto: catálogo actualizado en [link], entregamos en toda la ciudad. Mañana a primera hora te confirmamos tu pedido.\" Corto, útil, humano."
+     "h": "El mensaje completo (cópialo)",
+     "b": "\"¡Hola! Atendemos de 9am a 7pm. Mientras tanto: catálogo actualizado en [link], entregamos en toda la ciudad. Mañana a primera hora te confirmamos tu pedido.\" Corto, útil, humano. Nada de \"su mensaje es importante para nosotros\"."
     },
     {
      "role": "value",
@@ -1270,11 +1165,6 @@
     },
     {
      "role": "value",
-     "h": "El feriado no espera al improvisado.",
-     "b": "Domingo 30, feriado nacional. Lo que se publica HOY viernes entra en el plan del finde de la gente; lo que se publica el domingo llega tarde a casi todos."
-    },
-    {
-     "role": "value",
      "h": "Hoy: el post de reserva",
      "b": "\"Para el feriado, reserva hasta el sábado 6pm\" — con qué incluye y cómo separar. La reserva convierte intención de finde en compromiso pagado."
     },
@@ -1319,11 +1209,6 @@
      "h": "Medio Lima está en el concierto. El resto, en tu feed.",
      "b": "Cómo colgarse de un evento sin ser sponsor",
      "emoji": "🎤"
-    },
-    {
-     "role": "value",
-     "h": "Un Estadio Nacional lleno mueve la ciudad.",
-     "b": "Paulo Londra esta noche: 40 mil personas yendo, y muchísimos más viéndolo por historias. Los eventos grandes son conversación gratis para el negocio que sabe entrar."
     },
     {
      "role": "story",
@@ -1374,11 +1259,6 @@
     },
     {
      "role": "value",
-     "h": "Hoy la gente scrollea el doble.",
-     "b": "En casa, sin apuro, decidiendo el almuerzo y la tarde. El negocio visible a las 10am entra al plan del día; el que publica a las 6pm cuenta lo que se perdió."
-    },
-    {
-     "role": "value",
      "h": "10am: el post del día",
      "b": "Horario de hoy + lo que hay + cómo pedir, todo en una imagen. Es el toque que atrapa el almuerzo y las salidas de la tarde."
     },
@@ -1423,11 +1303,6 @@
      "h": "Septiembre se gana planificándolo hoy",
      "b": "Las fechas que vienen y la tanda del mes",
      "emoji": "🗓"
-    },
-    {
-     "role": "value",
-     "h": "Agosto se acabó. ¿Improvisamos otro mes?",
-     "b": "El negocio que planifica el 31 empieza el 1 vendiendo; el que improvisa pasa la primera semana \"viendo qué publica\". Septiembre tiene fechas fuertes — y avisan con calendario."
     },
     {
      "role": "value",

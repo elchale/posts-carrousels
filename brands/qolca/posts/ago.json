@@ -14,11 +14,6 @@
     },
     {
      "role": "value",
-     "h": "MJ olvidó a Peter. Tú olvidaste al que pidió precio el martes.",
-     "b": "No fue mala intención: fue un chat que bajó en la bandeja. Así se enfría casi toda venta perdida — nadie dijo no, simplemente nadie volvió a escribir."
-    },
-    {
-     "role": "value",
      "h": "El mensaje de las 24 horas",
      "b": "\"Hola [nombre], ayer te pasé el precio de [X]. ¿Te ayudo a decidir? Si prefieres, te lo separo hasta mañana.\" Corto, útil, sin rogar."
     },
@@ -31,9 +26,6 @@
      "role": "value",
      "h": "La regla: ninguna cotización muere sin 2 toques",
      "b": "Uno a las 24 horas, otro a las 72. Se anota en el chat mismo: fija el mensaje o etiqueta \"cotizado\". Dos minutos por cliente."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -62,11 +54,6 @@
      "b": "Nadie también contesta tu WhatsApp de noche",
      "img": "evento-still-odiseo.jpg",
      "emoji": "👁"
-    },
-    {
-     "role": "value",
-     "h": "De 9pm a 9am atiende Nadie",
-     "b": "Y los mensajes de la noche son los más calientes: la gente escribe cuando por fin tiene tiempo — después del trabajo, con la decisión tomada."
     },
     {
      "role": "value",
@@ -116,11 +103,6 @@
     },
     {
      "role": "value",
-     "h": "Todos persiguen leads nuevos. Casi nadie llama a los que ya compraron.",
-     "b": "Y el que ya te compró una vez ya te tiene confianza — la parte más difícil de la venta ya está hecha desde hace meses."
-    },
-    {
-     "role": "value",
      "h": "Tu lista de clientes pasados es una mina sin excavar",
      "b": "El que compró un auto vuelve a cambiarlo en unos años. La pareja de la boda tiene aniversario cada año. El que alquiló, algún día compra. Cada rubro tiene su ciclo: apúntalo."
     },
@@ -164,11 +146,6 @@
      "b": "No dejes que tu cliente se vaya al otro lado",
      "img": "evento-rdj.jpg",
      "emoji": "😈"
-    },
-    {
-     "role": "value",
-     "h": "El día que renuncia, ¿qué se lleva?",
-     "b": "Si los chats están en su celular y los contactos en su memoria, se lleva TODO: clientes, historial, acuerdos a medias. No por malo — porque nada era de la empresa."
     },
     {
      "role": "value",
@@ -220,11 +197,6 @@
      "role": "value",
      "h": "El 78% le compra al primero que responde",
      "b": "No al mejor ni al más barato: al primero. Mientras redactas la respuesta perfecta, otro ya mandó una imperfecta y se llevó la venta."
-    },
-    {
-     "role": "value",
-     "h": "Estar ocupado no es excusa — es la situación normal",
-     "b": "Estás vendiendo, mostrando, manejando. El sistema no es \"responder al toque\": es que SIEMPRE haya un acuse en el primer minuto, aunque el humano llegue después."
     },
     {
      "role": "value",
@@ -314,11 +286,6 @@
     },
     {
      "role": "value",
-     "h": "La velocidad es una decisión de sistema, no de carácter",
-     "b": "Nadie \"es lento\": tiene un negocio que atender. Los que responden primero no son más rápidos — tienen turnos, plantillas y horarios de repaso."
-    },
-    {
-     "role": "value",
      "h": "Turnos: el celular siempre tiene un dueño",
      "b": "De 9 a 1, Ana. De 1 a 6, tú. Nunca \"todos ven el WhatsApp\": cuando todos son responsables, nadie responde. Un nombre por franja, escrito donde todos lo vean."
     },
@@ -362,11 +329,6 @@
      "h": "Que tu WhatsApp no colapse el Día del Niño",
      "b": "El domingo 16 escribe medio Perú",
      "emoji": "🤯"
-    },
-    {
-     "role": "value",
-     "h": "La fecha pico no perdona bandejas desordenadas",
-     "b": "Regalos, reservas, delivery, \"¿tienen para hoy?\": la semana previa al Día del Niño multiplica las consultas de golpe — y cada una sin responder es una venta que se fue donde sí contestaron."
     },
     {
      "role": "value",
@@ -417,7 +379,7 @@
     {
      "role": "story",
      "h": "1: \"¿Cuánto cuesta?\" — responde con rango y siguiente paso",
-     "b": "\"Desde S/ X según modelo — ¿para qué edad es el regalo?\" no aplica aquí sin cifras tuyas: la clave es SIEMPRE cerrar con una pregunta que avance la venta, no con un número seco.",
+     "b": "\"Desde S/ [tu precio] según modelo — ¿para qué edad es el regalo?\" La clave: SIEMPRE cerrar con una pregunta que avance la venta, nunca con un número seco.",
      "plate": "cine-08-telefono"
     },
     {
@@ -434,9 +396,6 @@
      "role": "value",
      "h": "Guárdalas en WhatsApp Business en 5 minutos",
      "b": "Ajustes → Herramientas para la empresa → Respuestas rápidas. Escribes \"/precio\" y aparece tu texto completo. Tres atajos hoy te ahorran cien tipeos el domingo."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -518,11 +477,6 @@
     },
     {
      "role": "value",
-     "h": "En fechas pico todos escriben a la vez — y todos esperan menos",
-     "b": "La misma persona que un martes normal esperaría la tarde, en semana de regalos le escribe a 3 tiendas en 10 minutos. El primero que da señal de vida corre solo."
-    },
-    {
-     "role": "value",
      "h": "No necesitas responder todo: necesitas TOCAR todo",
      "b": "Acuse de 1 minuto a todo lo que entra (\"¡te leí! te respondo antes de la 1\"), y resolver por tandas en tus repasos. Tocar rápido y resolver ordenado le gana a resolver lento."
     },
@@ -573,9 +527,6 @@
      "b": "Mañana a las 9pm: repaso final. Todo chat del día recibe respuesta o acuse aunque sea breve. Lo que quedó en \"cotizado\" se etiqueta — el lunes ese es tu oro."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "O llega al pico con el sistema ya montado.",
      "b": "Los negocios que atienden picos con Qolca no arman planes de guerra: su WhatsApp responde lo repetitivo solo, deriva lo importante y deja cada interesado registrado para el seguimiento. Se construye una vez."
@@ -610,16 +561,8 @@
     },
     {
      "role": "value",
-     "h": "Al mediodía, medio repaso",
-     "b": "Cinco minutos: ¿algún chat quedó sin toque? ¿el stock de las plantillas sigue siendo verdad? Corrige y sigue. Un dato falso en la respuesta rápida cuesta más que no responder."
-    },
-    {
-     "role": "value",
      "h": "El cierre de hoy vale tanto como las ventas de hoy",
      "b": "9pm: etiqueta a todo el que preguntó y no compró. Mañana esa lista recibe UN mensaje amable — muchos regalos se compran \"el lunes después\" y nadie compite por esa venta."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -664,9 +607,6 @@
      "b": "Cada día que pasa el mensaje se vuelve más raro. Hoy es natural (\"ayer fue el día\"); el viernes es spam. La ventana de la cosecha dura 48 horas."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Con un CRM, esta lista se arma sola.",
      "b": "Qolca registra a cada interesado del pico con lo que preguntó, y el lunes te entrega la lista lista — o manda el mensaje por ti, con tu voz y su nombre. Hablas directo con quien lo construye."
@@ -695,11 +635,6 @@
     },
     {
      "role": "value",
-     "h": "El cuaderno guarda números; la ficha guarda ventas",
-     "b": "\"Sr. Torres - 987...\" no te dice nada en 2 semanas. La ficha útil responde: ¿qué buscaba? ¿cuándo y cuánto? ¿qué sigue? Lo demás es decoración."
-    },
-    {
-     "role": "value",
      "h": "Columna 1: qué busca, con sus palabras",
      "b": "\"Camioneta automática, familiar, urgente\" vale oro. \"Interesado en autos\" no vale nada. Copia las palabras del cliente: son las que él quiere volver a escuchar."
     },
@@ -712,9 +647,6 @@
      "role": "value",
      "h": "Columna 3: próxima acción CON fecha",
      "b": "\"Llamarlo el 25 cuando llegue el modelo\" — si la columna 3 está vacía, ese cliente no existe. Toda fila termina en una acción futura o se archiva con fecha de recontacto."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -759,9 +691,6 @@
      "b": "Crea las 3 etiquetas, recorre tu bandeja de arriba a abajo una sola vez y clasifica. Duele media hora. Desde mañana, tu día empieza por NUEVO y sigue por COTIZADO con fecha vencida."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Un embudo que se ordena solo, sin gritos.",
      "b": "Qolca construye ese embudo en serio: cada conversación entra, se clasifica y avanza sola de estado — y tú ves en una pantalla qué hay en cada etapa. Hablas directo con quien lo construye."
@@ -799,14 +728,6 @@
      "b": "Llegó algo nuevo relacionado a lo que compró. Se acerca su fecha (aniversario, renovación, mantenimiento). O simplemente: \"¿cómo te fue con [lo que llevó]?\" — la post-venta que casi nadie hace."
     },
     {
-     "role": "value",
-     "h": "Cada rubro tiene su ciclo natural: úsalo",
-     "b": "El auto pide mantenimiento y algún día se cambia. La boda cumple aniversario cada año. El que alquiló va a querer comprar. Apunta el ciclo en la ficha y la excusa se agenda sola."
-    },
-    {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Un CRM convierte los 90 días en una alarma.",
      "b": "Qolca deja tu base de clientes con ciclos y fechas: cuando a alguien le toca, el sistema te avisa — o le escribe por ti con tu voz. Empezamos por algo chico y medible."
@@ -833,11 +754,6 @@
      "b": "Mil invitados, un chat",
      "emoji": "💍",
      "img": "evento-taylor.jpg"
-    },
-    {
-     "role": "value",
-     "h": "Todo negocio de coordinación vive (y muere) en el chat",
-     "b": "Fechas, cambios, confirmaciones, \"¿me pasas la dirección de nuevo?\". Una boda, una entrega, una visita: son cientos de mensajes donde UN dato perdido cuesta la reputación."
     },
     {
      "role": "value",
@@ -891,16 +807,8 @@
     },
     {
      "role": "value",
-     "h": "El mensaje honesto tiene 3 partes",
-     "b": "La verdad (\"atendemos hasta las 7pm, ahorita no hay nadie\"). Lo útil (precio desde, horario, ubicación — lo que igual iba a preguntar). Y el compromiso real (\"mañana desde las 9 te responde una persona\")."
-    },
-    {
-     "role": "value",
      "h": "Ejemplo completo para copiar",
      "b": "\"¡Gracias por escribir! Ya cerramos por hoy — atendemos de 9am a 7pm. Te dejo lo esencial: [horario, ubicación, desde cuánto]. Mañana apenas abrimos te responde una persona. Si es urgente, dilo aquí y te priorizamos.\""
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -946,9 +854,6 @@
      "b": "Si a las 11:02 recibe respuesta útil y \"mañana a las 9 te llama Renzo\", a las 7am tu negocio es EL plan. Si recibió silencio, a las 7am sigue comparando."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Un asistente nocturno que agenda la mañana.",
      "b": "Qolca construye asistentes que atienden de noche: responden lo esencial con la verdad, toman el dato y dejan la llamada de las 9am agendada para tu equipo. Derivan a humano apenas amanece."
@@ -977,11 +882,6 @@
     },
     {
      "role": "value",
-     "h": "Lo del sábado y domingo no está muerto — está enfriándose",
-     "b": "Consultas de finde sin responder son las primeras ventas de la semana… para alguien. La pregunta es si para ti o para el que sí las repasa el lunes."
-    },
-    {
-     "role": "value",
      "h": "El repaso del lunes: 3 pasadas, 20 minutos",
      "b": "Pasada 1: responde TODO lo nuevo del finde (aunque sea acuse). Pasada 2: los \"cotizado\" con fecha vencida reciben su seguimiento. Pasada 3: cierra o archiva lo que ya murió — con motivo."
     },
@@ -989,9 +889,6 @@
      "role": "value",
      "h": "Archivar también es vender",
      "b": "\"Cerrado: compró en otro lado\" o \"archivado: recontactar en octubre\" limpia la bandeja Y alimenta tu ficha. La bandeja infinita donde nada se cierra es la razón por la que todo se pierde."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -1019,11 +916,6 @@
      "h": "Una cotización sin seguimiento es plata regalada",
      "b": "Regalada a tu competencia",
      "emoji": "💸"
-    },
-    {
-     "role": "value",
-     "h": "Cotizar cuesta; no hacer seguimiento lo desperdicia",
-     "b": "Te tomaste el trabajo: armaste precio, opciones, respondiste dudas. Si ahí se acaba, hiciste el 80% del esfuerzo para regalarle el cierre al siguiente que le escriba."
     },
     {
      "role": "value",
@@ -1072,11 +964,6 @@
     },
     {
      "role": "value",
-     "h": "El plantón casi nunca es mala fe: es la vida",
-     "b": "Agendó el lunes para el sábado. Para el sábado ya se le cruzó todo. La visita al depa, el test drive, la degustación: cada silla vacía costó tu tiempo y el de tu equipo."
-    },
-    {
-     "role": "value",
      "h": "El recordatorio de 24 horas, con pregunta",
      "b": "\"Hola [nombre], mañana 4pm te esperamos para [la cita]. ¿Confirmamos?\" — la pregunta es la clave: obliga una respuesta. El que confirma, viene. El que duda, reagenda HOY y no mañana."
     },
@@ -1084,9 +971,6 @@
      "role": "value",
      "h": "El de 2 horas, solo logística",
      "b": "\"¡Nos vemos a las 4! Te dejo la ubicación: [pin]. Cualquier cosa me escribes.\" Corto, útil, imposible de malinterpretar. Dos mensajes en total — más es acoso, menos es ruleta."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -1118,11 +1002,6 @@
     },
     {
      "role": "value",
-     "h": "Feriado = más tiempo libre = más gente escribiendo",
-     "b": "El día de descanso es cuando la gente por fin cotiza el auto, agenda la visita, pregunta por la fecha. Tu bandeja no descansa — la pregunta es si alguien la ve."
-    },
-    {
-     "role": "value",
      "h": "Decisión honesta: se atiende o no se atiende",
      "b": "Ambas valen. Lo que no vale es el limbo: nadie respondiendo Y ningún mensaje que lo diga. Si descansas, que tu WhatsApp diga la verdad y capture el dato para el lunes."
     },
@@ -1130,9 +1009,6 @@
      "role": "value",
      "h": "El mensaje de feriado que trabaja solo",
      "b": "\"¡Feliz feriado! Hoy descansamos con la familia. Te dejo [precio desde/horario/ubicación] y mañana desde las 9 te respondemos con calma. Déjame tu consulta que mañana eres el primero.\""
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -1177,9 +1053,6 @@
      "b": "Los chats del domingo son compradores de semana: respondieron su duda, quedaron agendados, y el lunes a las 9 reciben el \"como te prometí\". La venta se siente atendida desde el día 1."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "La señal de vida puede no costarte el descanso.",
      "b": "Qolca deja un asistente de guardia: responde, captura el dato, agenda el lunes. Tú descansas de verdad y tu negocio nunca entró al limbo. Hablas directo con quien lo construye."
@@ -1208,11 +1081,6 @@
     },
     {
      "role": "value",
-     "h": "La plantilla se nota cuando le falta el nombre y le sobra formalidad",
-     "b": "\"Estimado cliente, gracias por comunicarse\" grita copy-paste. \"Hola Jorge, ¡claro que sí!\" suena a persona — y también estaba guardado. La diferencia es cómo la escribiste."
-    },
-    {
-     "role": "value",
      "h": "Escribe tus plantillas como hablas",
      "b": "Prueba de fuego: léela en voz alta. Si no lo dirías así en persona, reescríbela. \"¿Para cuándo lo necesitas?\" le gana a \"indíquenos su fecha requerida\" todos los días."
     },
@@ -1220,9 +1088,6 @@
      "role": "value",
      "h": "Deja un espacio personal en cada una",
      "b": "Toda plantilla necesita un [hueco]: el nombre, el producto exacto, el detalle que demuestre que leíste. 5 segundos de personalización convierten la plantilla en atención."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -1254,11 +1119,6 @@
     },
     {
      "role": "value",
-     "h": "Hoy medio Perú pasea y el resto cotiza desde el sillón",
-     "b": "Día perfecto para los dos repasos de 10 minutos: mediodía y 7pm. Acuse, respuesta rápida, agendar para mañana. Nada más — es feriado de verdad."
-    },
-    {
-     "role": "value",
      "h": "El deseo del negocio se escribe distinto",
      "b": "En el pozo se tira una carta; en tu negocio el \"deseo\" (vender más, perder menos) se convierte en sistema: la ficha, el embudo, el seguimiento. Los deseos con método se cumplen solos."
     },
@@ -1266,9 +1126,6 @@
      "role": "value",
      "h": "Mañana lunes: la doble cosecha",
      "b": "Chats del feriado + cotizaciones de la semana con fecha vencida. Empieza el día con las 3 pasadas de 20 minutos y agosto cierra con la bandeja limpia."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -1302,11 +1159,6 @@
      "role": "value",
      "h": "La cuenta se hace en 10 minutos y sin excusas",
      "b": "Abre tu WhatsApp y cuenta: chats de agosto donde un interesado preguntó y la conversación murió sin un sí, un no o un seguimiento. Ese número × tu ticket promedio. Tu cifra, no la nuestra."
-    },
-    {
-     "role": "value",
-     "h": "Ese número no es culpa: es diagnóstico",
-     "b": "No eras flojo — no tenías sistema. Sin acuse de 1 minuto, sin estados, sin fechas de seguimiento, TODOS los negocios pierden lo mismo. La diferencia está en quién lo mide y lo arregla."
     },
     {
      "role": "value",

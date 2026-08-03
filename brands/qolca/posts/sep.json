@@ -27,9 +27,6 @@
      "b": "Cada lunes abre la etiqueta del mes que viene y escríbele a cada uno. No es presión: es \"sigo aquí, ¿avanzamos?\". La mayoría de tu competencia no lo hace."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Esto lo hace un sistema solo.",
      "b": "Qolca es el estudio peruano que construye el CRM y el WhatsApp que responde solo para negocios que venden conversando: lotes de autos, bodas y eventos, inmobiliarias. Hablas directo con quien lo construye y empezamos por algo chico y medible."
@@ -71,9 +68,6 @@
      "b": "Nadie responde de noche. El \"ya te aviso\" que nunca llega. Y el chat que quedó en visto porque entró otro encima. Cada hueco tiene arreglo esta misma semana."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Los negocios ordenados ya no hacen esto a mano.",
      "b": "Tienen su CRM con Qolca: cada chat con dueño, cada cotización con fecha de seguimiento, cada noche con un asistente que recibe y deriva a humano. Qolca lo construye a la medida de negocios como lotes de autos, bodas e inmobiliarias."
@@ -104,11 +98,6 @@
     },
     {
      "role": "value",
-     "h": "Toda cotización compite",
-     "b": "Contra otras dos tiendas, contra el \"mejor lo dejo\", contra el olvido. La tuya gana solo si sigue viva en la cabeza del cliente."
-    },
-    {
-     "role": "value",
      "h": "Cuenta tus nominadas",
      "b": "Abre WhatsApp y cuenta cuántas cotizaciones diste esta semana que no tienen respuesta final. Ese es tu ranking real de esta noche."
     },
@@ -116,9 +105,6 @@
      "role": "value",
      "h": "El empujón que no incomoda",
      "b": "\"Hola [nombre], ¿seguimos con lo que vimos? Si cambió algo, dime y lo ajustamos.\" Corto, útil y sin rogar. Mándalo a las 3 más recientes."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -160,9 +146,6 @@
      "role": "value",
      "h": "La regla de oro",
      "b": "Ningún chat se cierra sin etiqueta. El visto puede esperar, la etiqueta no: es lo que te deja retomar mañana sin releer toda la conversación."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -207,9 +190,6 @@
      "b": "Cierre honesto: \"¿lo dejamos para más adelante? Te guardo los datos y te aviso si algo cambia.\" Puerta abierta y ficha llena."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Esto lo hace un sistema solo.",
      "b": "Qolca es el estudio peruano que construye el CRM y el WhatsApp que responde solo para negocios que venden conversando: lotes de autos, bodas y eventos, inmobiliarias. Hablas directo con quien lo construye y empezamos por algo chico y medible."
@@ -251,9 +231,6 @@
      "b": "Si el finde nadie atendió, que al menos algo conteste: un mensaje honesto con horario y la promesa de respuesta el lunes. Cumplida, porque queda etiquetada."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Los negocios ordenados ya no hacen esto a mano.",
      "b": "Tienen su CRM con Qolca: cada chat con dueño, cada cotización con fecha de seguimiento, cada noche con un asistente que recibe y deriva a humano. Qolca lo construye a la medida de negocios como lotes de autos, bodas e inmobiliarias."
@@ -281,11 +258,6 @@
     },
     {
      "role": "value",
-     "h": "Tu lista está regada",
-     "b": "Mitad en chats, mitad en tu memoria, algo en un cuaderno del año pasado. Eso no es una cartera de clientes: es un rompecabezas sin foto de referencia."
-    },
-    {
-     "role": "value",
      "h": "La base mínima: 3 columnas",
      "b": "Nombre · qué compró o cotizó · cuándo volver a escribirle. Excel o papel, da igual: lo que importa es que exista en UN solo lugar."
     },
@@ -293,9 +265,6 @@
      "role": "value",
      "h": "De dónde salen los datos",
      "b": "Media hora: recorre tus últimos 60 chats y las boletas del mes. Sin lista completa no hay campaña, ni reactivación, ni post-venta que funcione."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -327,11 +296,6 @@
     },
     {
      "role": "value",
-     "h": "Improvisar sale caro",
-     "b": "Cada vez que escribes desde cero tardas más, te olvidas de algo y suenas distinto. El cliente nota el desorden aunque no lo diga."
-    },
-    {
-     "role": "value",
      "h": "Guioniza las 5 de siempre",
      "b": "Precio, horario, ubicación, disponibilidad, formas de pago. Escríbelas UNA vez, con tu tono, y guárdalas como respuestas rápidas de WhatsApp Business."
     },
@@ -339,9 +303,6 @@
      "role": "value",
      "h": "El truco del tono",
      "b": "Lee tu plantilla en voz alta. Si no suena a ti, reescríbela. Guion no es robot: es tu mejor versión, disponible siempre."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -386,9 +347,6 @@
      "b": "Pregúntate: ¿a quién debo escribirle esta semana? Si la respuesta tarda más de un minuto, todavía no tienes sistema — tienes recuerdos."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Esto lo hace un sistema solo.",
      "b": "Qolca es el estudio peruano que construye el CRM y el WhatsApp que responde solo para negocios que venden conversando: lotes de autos, bodas y eventos, inmobiliarias. Hablas directo con quien lo construye y empezamos por algo chico y medible."
@@ -428,9 +386,6 @@
      "role": "value",
      "h": "La llamada del día 7",
      "b": "\"¿Seguiste viendo? Me llegó algo parecido a lo que buscabas.\" Con la ficha llena, siempre tienes algo real que decir — y no suenas a plantilla."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -476,9 +431,6 @@
      "b": "Esta semana: toda cotización sale con fecha de seguimiento apuntada. La próxima: ninguna noche sin respuesta automática honesta. Una regla a la vez."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Esto lo hace un sistema solo.",
      "b": "Qolca es el estudio peruano que construye el CRM y el WhatsApp que responde solo para negocios que venden conversando: lotes de autos, bodas y eventos, inmobiliarias. Hablas directo con quien lo construye y empezamos por algo chico y medible."
@@ -520,9 +472,6 @@
      "role": "value",
      "h": "El corte honesto",
      "b": "Cuando ya no llegas, dilo: \"cerramos pedidos por hoy, mañana abrimos 12pm\". Un no claro cuida más clientes que un sí incumplido."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -567,9 +516,6 @@
      "b": "Nadie entrega el turno sin pasar los pendientes en voz alta. Dos minutos que matan para siempre el \"a mí nadie me dijo\"."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Esto lo hace un sistema solo.",
      "b": "Qolca es el estudio peruano que construye el CRM y el WhatsApp que responde solo para negocios que venden conversando: lotes de autos, bodas y eventos, inmobiliarias. Hablas directo con quien lo construye y empezamos por algo chico y medible."
@@ -611,9 +557,6 @@
      "b": "No arregles los tres a la vez. Esta semana solo uno: mide tu primera respuesta y bájala a la mitad. La próxima, el siguiente."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Los negocios ordenados ya no hacen esto a mano.",
      "b": "Tienen su CRM con Qolca: cada chat con dueño, cada cotización con fecha de seguimiento, cada noche con un asistente que recibe y deriva a humano. Qolca lo construye a la medida de negocios como lotes de autos, bodas e inmobiliarias."
@@ -653,9 +596,6 @@
      "role": "value",
      "h": "Tu semana con filtro",
      "b": "Dos bloques tuyos al día para cierres y seguimientos importantes. El resto fluye sin ti — y tú vuelves a ser gerente de tu propio negocio."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -701,9 +641,6 @@
      "b": "\"¿Qué te ayudaría a decidir: fecha, entrega o una alternativa? Dime y lo cuadramos.\" Preguntar por el freno real acelera más que insistir."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Los negocios ordenados ya no hacen esto a mano.",
      "b": "Tienen su CRM con Qolca: cada chat con dueño, cada cotización con fecha de seguimiento, cada noche con un asistente que recibe y deriva a humano. Qolca lo construye a la medida de negocios como lotes de autos, bodas e inmobiliarias."
@@ -743,9 +680,6 @@
      "role": "value",
      "h": "Y agenda el regreso",
      "b": "Todo \"ya te aviso\" entra a RECONTACTAR con fecha. Tibios: una semana. Fríos: un mes, y solo con una novedad real que contar."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -789,9 +723,6 @@
      "b": "Si al segundo puente no responde, pasa a RECONTACTAR en 30 días. Perseguir más ya no es seguimiento: es espanto."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Los negocios ordenados ya no hacen esto a mano.",
      "b": "Tienen su CRM con Qolca: cada chat con dueño, cada cotización con fecha de seguimiento, cada noche con un asistente que recibe y deriva a humano. Qolca lo construye a la medida de negocios como lotes de autos, bodas e inmobiliarias."
@@ -831,9 +762,6 @@
      "role": "value",
      "h": "Mídete esta semana",
      "b": "Toma tus últimos 10 chats y calcula tu tiempo promedio de primera respuesta. Ese número decide cuántas ventas ves — y cuántas ni te enteras."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -878,9 +806,6 @@
      "b": "Fecha tomada no es cliente perdido: \"esa fecha está tomada, ¿te aviso si se libera? Tengo estas otras dos\". Apúntalo — y cumple."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Los negocios ordenados ya no hacen esto a mano.",
      "b": "Tienen su CRM con Qolca: cada chat con dueño, cada cotización con fecha de seguimiento, cada noche con un asistente que recibe y deriva a humano. Qolca lo construye a la medida de negocios como lotes de autos, bodas e inmobiliarias."
@@ -922,9 +847,6 @@
      "b": "Si la gran mayoría llega por recomendación, tu campaña es pedir referidos, no repartir volantes. Los números deciden mejor que las corazonadas."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Esto lo hace un sistema solo.",
      "b": "Qolca es el estudio peruano que construye el CRM y el WhatsApp que responde solo para negocios que venden conversando: lotes de autos, bodas y eventos, inmobiliarias. Hablas directo con quien lo construye y empezamos por algo chico y medible."
@@ -964,9 +886,6 @@
      "role": "value",
      "h": "Mide y repite",
      "b": "De 20, algunos contestan siempre. Apunta cuántos y qué motivo funcionó — y repite el próximo mes con otros 20. Eso es una máquina, no una campaña."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -1011,9 +930,6 @@
      "b": "Bodas y eventos, lotes que se mueven, visitas a depas: confirma todo dos días antes. La primavera también trae plantones."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Esto lo hace un sistema solo.",
      "b": "Qolca es el estudio peruano que construye el CRM y el WhatsApp que responde solo para negocios que venden conversando: lotes de autos, bodas y eventos, inmobiliarias. Hablas directo con quien lo construye y empezamos por algo chico y medible."
@@ -1053,9 +969,6 @@
      "role": "value",
      "h": "Pruébalo en voz alta",
      "b": "Si te da vergüenza leérselo a un amigo, reescríbelo. El automático es tu recepcionista: que reciba como tú recibirías."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -1102,9 +1015,6 @@
      "b": "Al que compró: la novedad. Al que cotizó: su duda resuelta. Al que visitó: lo nuevo parecido a lo que buscó. Nunca el mismo mensaje a los tres."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Esto lo hace un sistema solo.",
      "b": "Qolca es el estudio peruano que construye el CRM y el WhatsApp que responde solo para negocios que venden conversando: lotes de autos, bodas y eventos, inmobiliarias. Hablas directo con quien lo construye y empezamos por algo chico y medible."
@@ -1146,9 +1056,6 @@
      "b": "Antes del último día: pendientes traspasados, chats clave respaldados, y un mensaje al cliente presentando a quien lo atiende ahora. Profesional, sin drama."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Los negocios ordenados ya no hacen esto a mano.",
      "b": "Tienen su CRM con Qolca: cada chat con dueño, cada cotización con fecha de seguimiento, cada noche con un asistente que recibe y deriva a humano. Qolca lo construye a la medida de negocios como lotes de autos, bodas e inmobiliarias."
@@ -1176,11 +1083,6 @@
     },
     {
      "role": "value",
-     "h": "El descanso también se diseña",
-     "b": "Cerrar el finde está bien. Perder los chats del finde, no. La diferencia entre ambos es una guardia mínima bien armada."
-    },
-    {
-     "role": "value",
      "h": "La guardia mínima",
      "b": "Asistente que recibe, responde lo básico y ordena — más dos ventanas tuyas de 15 minutos (mediodía y noche) solo para lo urgente y lo que huele a cierre."
     },
@@ -1188,9 +1090,6 @@
      "role": "value",
      "h": "El lunes sin montaña",
      "b": "Con etiquetas puestas desde el sábado, el lunes no reconstruyes nada: abres COTIZADO y RECONTACTAR y sigues exactamente donde quedaste."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -1234,9 +1133,6 @@
      "b": "No es memoria: es una etiqueta POST-VENTA con fechas. Autos, bodas, depas, lo que vendas — el que atendió bien dos veces, vende tres."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "h": "Los negocios ordenados ya no hacen esto a mano.",
      "b": "Tienen su CRM con Qolca: cada chat con dueño, cada cotización con fecha de seguimiento, cada noche con un asistente que recibe y deriva a humano. Qolca lo construye a la medida de negocios como lotes de autos, bodas e inmobiliarias."
@@ -1276,9 +1172,6 @@
      "role": "value",
      "h": "El repaso de las 6",
      "b": "Último hábito del día: ¿mañana qué hay? Tres minutos que te hacen llegar preparado — y puntual — a todo lo que prometiste."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",

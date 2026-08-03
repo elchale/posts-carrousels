@@ -14,11 +14,6 @@
     },
     {
      "role": "value",
-     "h": "¿Cuál de todos es el tuyo?",
-     "b": "Estreno récord = cines y malls llenos de niños con el MISMO disfraz y la cara tapada. Describirlo de memoria («tiene una máscara roja») no sirve de nada este finde."
-    },
-    {
-     "role": "value",
      "h": "Foto del disfraz esa mañana",
      "b": "Antes de salir, foto de cuerpo entero CON zapatos. Si se pierde, muestras la foto exacta en vez de describir a mil niños iguales. Los zapatos casi nunca se repiten."
     },
@@ -67,12 +62,7 @@
     {
      "role": "value",
      "h": "Tú no aguantas ni 20 minutos",
-     "b": "Y está bien: esos 20 minutos sin saber dónde está tu hijo son los más largos de tu vida. Lo que cambia todo es saber ESPERAR con método, no con pánico."
-    },
-    {
-     "role": "value",
-     "h": "Esperar bien es un trabajo",
-     "b": "Los niños vuelven al último lugar donde te vieron. Por eso UN adulto se queda clavado y visible en ese punto, aunque le tiemble todo. Si ese punto queda vacío, el niño que vuelve no encuentra a nadie."
+     "b": "Y está bien. Pero esos minutos tienen método: los niños vuelven al último lugar donde te vieron — UN adulto se queda clavado y visible ahí, aunque le tiemble todo. Si ese punto queda vacío, el niño que vuelve no encuentra a nadie."
     },
     {
      "role": "value",
@@ -114,11 +104,6 @@
      "h": "¿Contratarías a Spiderman de niñera?",
      "img": "evento-still-spidey.jpg",
      "emoji": "🍼"
-    },
-    {
-     "role": "value",
-     "h": "Ni él le sigue el ritmo a tu hijo",
-     "b": "Cuando dejas a tus hijos con la tía, la niñera o la prima, no necesitan superpoderes. Necesitan tres cosas que casi nadie deja: información, reglas y un número que funcione."
     },
     {
      "role": "value",
@@ -168,13 +153,7 @@
     {
      "role": "value",
      "h": "Los tres momentos exactos",
-     "b": "Los niños no se pierden «de repente». Se pierden cuando algo brilla en una vitrina, cuando aparecen otros niños, y cuando tú estás pagando o mirando el celular. Tres momentos, siempre los mismos."
-    },
-    {
-     "role": "story",
-     "plate": "cine-04-mama",
-     "h": "El segundo en que volteaste",
-     "b": "En la caja del súper sueltas la mano «un segundo» para sacar la billetera. Ese es el segundo exacto. No es descuido de mal padre: es el patrón de TODOS los padres."
+     "b": "Los niños no se pierden «de repente». Se pierden cuando algo brilla en una vitrina, cuando aparecen otros niños, y cuando tú estás pagando. Tres momentos, siempre los mismos — y no es descuido de mal padre: es el patrón de todos."
     },
     {
      "role": "value",
@@ -216,11 +195,6 @@
      "kicker": "FIN DE SEMANA",
      "h": "En el mercado tu hijo ve rodillas, no caras",
      "emoji": "😨"
-    },
-    {
-     "role": "value",
-     "h": "El mundo a un metro de altura",
-     "b": "Agáchate a su altura en pleno mercado: solo se ven piernas, bolsas y fierros de puestos. Tú lo ves a él; él no te ve a ti. Por eso se pierden a dos metros de su mamá."
     },
     {
      "role": "value",
@@ -269,11 +243,6 @@
      "h": "El viernes tiembla a las 3 de la tarde",
      "img": "evento-simulacro.jpg",
      "emoji": "🚨"
-    },
-    {
-     "role": "value",
-     "h": "Es el simulacro, y es tu ensayo",
-     "b": "Viernes 14, 3pm: Simulacro Nacional Multipeligro de INDECI. Todo el Perú lo hace a medias. Tu familia puede hacerlo en serio, porque el sismo real no va a esperar a que estén todos juntos."
     },
     {
      "role": "value",
@@ -338,11 +307,6 @@
      "b": "Bajo pánico, los niños (y los adultos) olvidan números que «se saben». Papel plastificado con 3 teléfonos y la dirección, en la mochila del colegio y en la de emergencia. La memoria falla; el papel no."
     },
     {
-     "role": "value",
-     "h": "El simulacro es tu alarma de vencimientos",
-     "b": "Cada simulacro nacional (hay 2-3 al año): revisar agua, pilas y medicinas de la mochila. No necesitas acordarte tú — INDECI te lo recuerda con bombo y platillo."
-    },
-    {
      "role": "recap"
     },
     {
@@ -384,12 +348,6 @@
      "b": "«Si tiembla y no estamos juntos, te quedas donde los adultos del lugar. Nadie se mueve solo.» Un niño que sale a buscarte a la calle convierte un susto en una emergencia."
     },
     {
-     "role": "story",
-     "plate": "cine-08-papa",
-     "h": "El reencuentro no es una búsqueda",
-     "b": "Las familias con plan no se buscan: se encuentran. Cada uno sabe a qué punto ir y quién viene por él. Los que no tienen plan se cruzan en el camino sin saberlo."
-    },
-    {
      "role": "value",
      "h": "Ensáyalo el viernes",
      "b": "En el simulacro del 14, que cada uno cumpla SU parte de verdad: el niño se queda con su profesora, tú vas al punto, el abuelo espera en casa. Un ensayo torpe hoy vale más que mil planes perfectos en la cabeza."
@@ -424,11 +382,6 @@
      "kicker": "DÍA DEL NIÑO",
      "h": "Este domingo hay más niños sueltos que nunca",
      "emoji": "🎈"
-    },
-    {
-     "role": "value",
-     "h": "El escenario número 1 del año",
-     "b": "Día del Niño = parques, malls, cines y jugueterías llenos al mismo tiempo. Además este finde estrena la película de PAW Patrol: cines de niños de pared a pared. Es el día con más reportes de niños separados de su familia."
     },
     {
      "role": "value",
@@ -485,11 +438,6 @@
      "role": "value",
      "h": "El niño practica su parte",
      "b": "Que diga su nombre completo, el nombre real de sus papás (no «mamá») y un número. Si no le sale: papel plastificado en la mochila y listo — la solución no es presionarlo, es respaldarlo."
-    },
-    {
-     "role": "value",
-     "h": "Prueba el contacto de provincia",
-     "b": "Mándale un SMS AHORA a ese tío de Arequipa: «eres nuestro contacto de emergencia, si pasa algo todos te reportamos a ti». Un contacto que no sabe que lo es, no es un contacto."
     },
     {
      "role": "value",
@@ -585,12 +533,6 @@
      "b": "Conviértelo en concurso al llegar: «¿dónde nos juntamos si nos perdemos? El primero que responde gana». Un niño que JUEGA la regla la recuerda; uno que la escucha en sermón, no."
     },
     {
-     "role": "story",
-     "plate": "cine-12-reencuentro",
-     "h": "Si se pierde, así se encuentra",
-     "b": "Tú: uno se queda en el punto, otro avisa a seguridad con la foto del día. Él: abraza un puesto o un árbol y no camina. Los reencuentros rápidos no son suerte: son dos personas haciendo lo acordado."
-    },
-    {
      "role": "value",
      "h": "Ojo con la hora del bajón",
      "b": "Después del almuerzo y del algodón de azúcar viene el sueño y el berrinche — y ahí es cuando los papás se distraen negociando y los niños se sueltan. Programa la salida ANTES del bajón, no después."
@@ -637,9 +579,6 @@
      "b": "Máxima gente, máximo ruido, niños con azúcar. Si puedes elegir, celebra temprano. Si ya estás en el pico: la mano no se negocia."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Hoy sale con su ComeHomeTag, obviamente.",
@@ -665,11 +604,6 @@
      "role": "cover",
      "h": "Tu hijo perdido te busca donde te vio por última vez",
      "emoji": "🔍"
-    },
-    {
-     "role": "value",
-     "h": "El mapa mental de un niño",
-     "b": "Para un niño perdido, el mundo se reduce a un solo lugar seguro: el último punto donde estaban juntos. Su instinto es volver ahí. El tuyo es correr a buscarlo lejos. Ese cruce es el error clásico."
     },
     {
      "role": "value",
@@ -726,11 +660,6 @@
      "role": "value",
      "h": "El miedo equivocado desprotege",
      "b": "El papá que solo teme al secuestrador vigila extraños — y no arma punto de reencuentro, ni foto del día, ni responsable por niño. Se prepara para la película y no para el domingo en el parque."
-    },
-    {
-     "role": "value",
-     "h": "Prepararse quita pánico, no amor",
-     "b": "Un plan no es paranoia: es lo que te deja disfrutar la salida. Las familias con método viven MENOS sustos, no más miedo. La ansiedad viene de no saber qué harías; el plan la apaga."
     },
     {
      "role": "value",
@@ -834,12 +763,6 @@
      "b": "Collar + arnés, correa enganchada al arnés. Los perros asustados por pirotecnia o claxon se «sacan» el collar solo en dos segundos — y agosto tiene procesiones y ensayos con banda a la vuelta de la esquina."
     },
     {
-     "role": "story",
-     "plate": "cine-11-perro",
-     "h": "El que lo encuentra quiere ayudar",
-     "b": "La gente SÍ quiere devolver mascotas — lo que no quiere es adivinar. Cuanto más fácil se lo pongas al que lo encuentra, más rápido vuelve tu perro a casa. Así de simple."
-    },
-    {
      "role": "recap"
     },
     {
@@ -872,17 +795,12 @@
     {
      "role": "value",
      "h": "La lista autorizada, por escrito",
-     "b": "El colegio debe tener NOMBRES y DNI de quienes pueden llevarse a tu hijo — y tú debes saber qué pasa si va alguien que no está: ¿llaman? ¿A quién? Si nunca lo has preguntado, esta semana es cuándo."
+     "b": "El colegio debe tener NOMBRES y DNI de quienes pueden llevarse a tu hijo — y tú debes saber qué pasa si va alguien que no está. Y revísala después de cada cambio familiar (separaciones, mudanzas): esa lista suele tener 3 años de polvo."
     },
     {
      "role": "value",
      "h": "La contraseña familiar",
      "b": "Si algún día tiene que ir alguien no habitual, tu hijo pregunta la contraseña («¿cuál es la palabra de mamá?»). Extraño sin contraseña = no se va con él y avisa a su profesora. Simple, ensayable, funciona."
-    },
-    {
-     "role": "value",
-     "h": "Actualiza después de los cambios",
-     "b": "Separaciones, mudanzas, la tía que ya no vive cerca: la lista del colegio suele tener 3 años de polvo. Cambio en la familia = revisión de la lista. Nadie más lo va a hacer por ti."
     },
     {
      "role": "value",
@@ -920,11 +838,6 @@
      "h": "No hagas que tu hijo te busque por 10 años",
      "img": "evento-still-telemaco.jpg",
      "emoji": "💔"
-    },
-    {
-     "role": "value",
-     "h": "El hijo de Odiseo lo buscó una década",
-     "b": "En la película, Telémaco pasa 10 años buscando a su padre. En la vida real, la búsqueda empieza más cerca: papás y abuelos que un día empiezan a «desviarse» de sus rutas de siempre. Y hay señales antes."
     },
     {
      "role": "value",
@@ -988,12 +901,6 @@
      "b": "Rutina fija (las salidas acompañadas a la misma hora bajan la urgencia de salir solo). Vecinos y bodeguero con tu número. E identificación SIEMPRE encima — no en la cómoda, no «cuando salga»: siempre."
     },
     {
-     "role": "story",
-     "plate": "cine-03-abuelo",
-     "h": "No es exageración, es estadística",
-     "b": "Si en tu familia hay demencia, la deambulación no es un «si pasa»: es un «cuándo». Prepararse no es dramatizar — es lo que hacen las familias que ya pasaron por esto y aprendieron a la mala."
-    },
-    {
      "role": "recap"
     },
     {
@@ -1040,11 +947,6 @@
      "b": "Todo lo que hay que cargar, prender o configurar termina en un cajón. Lo que funciona es lo que no estorba: se pone una vez y se olvida. Si requiere que tu papá «aprenda a usarlo», ya perdiste."
     },
     {
-     "role": "value",
-     "h": "La red del barrio",
-     "b": "El bodeguero, el vigilante de la cuadra, la vecina de años: tres personas que lo ven a diario y que deberían tener tu número «por si acaso». Esa red gratis vale más que cualquier aparato."
-    },
-    {
      "role": "recap"
     },
     {
@@ -1074,11 +976,6 @@
      "kicker": "ADULTO MAYOR",
      "h": "El que encuentra a tu papá no sabe quién es",
      "emoji": "😢"
-    },
-    {
-     "role": "value",
-     "h": "Lo que ve un extraño",
-     "b": "Un señor mayor, bien vestido, que insiste en que está bien y que «vive por acá». Nada grita emergencia. Por eso mucha gente buena pasa de largo: no es indiferencia, es duda."
     },
     {
      "role": "story",
@@ -1129,11 +1026,6 @@
     },
     {
      "role": "value",
-     "h": "Hoy es su día. Esta es la diferencia",
-     "b": "Vigilar es controlar sus movimientos. Cuidar es asegurar que, pase lo que pase, pueda volver a casa. Lo primero lo encoge; lo segundo lo deja vivir. Hoy, Día del Adulto Mayor, elige lo segundo."
-    },
-    {
-     "role": "value",
      "h": "La visita con propósito",
      "b": "En tu próxima visita revisa 3 cosas sin que parezca inspección: que sus medicinas estén al día, que haya números de la familia VISIBLES junto al teléfono, y que su identificación esté donde él la use — no guardada «para ocasiones»."
     },
@@ -1141,9 +1033,6 @@
      "role": "value",
      "h": "La pregunta que abre todo",
      "b": "«¿Qué te haría sentir más tranquilo cuando sales solo?» Escuchar su respuesta te dice exactamente qué cuidado va a aceptar y cuál va a sabotear. Los planes impuestos duran una semana; los conversados, años."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
@@ -1173,11 +1062,6 @@
      "h": "Miles harán cola en el pozo de los deseos",
      "img": "evento-pozo.jpg",
      "emoji": "🪙"
-    },
-    {
-     "role": "value",
-     "h": "El domingo se junta todo",
-     "b": "Feriado + fe + tradición = colas de horas en Santa Rosa con niños aburridos y abuelos de pie. Es una multitud lenta y apretada: el escenario perfecto para soltarse de la mano sin que nadie lo note."
     },
     {
      "role": "value",
@@ -1232,11 +1116,6 @@
     },
     {
      "role": "value",
-     "h": "El plan viaja en el bolsillo del niño",
-     "b": "Papelito con nombre completo, número de dos adultos y el punto del día. En feriado los celulares mueren temprano de tanta foto — el papel no tiene batería."
-    },
-    {
-     "role": "value",
      "h": "Transporte público en manada",
      "b": "Un adulto sube primero, los niños al medio, otro adulto cierra. Al bajar, igual y se cuenta en voz alta. Las puertas de bus y las escaleras del tren son donde las manadas se parten."
     },
@@ -1276,11 +1155,6 @@
      "h": "Tu hija va al concierto y tú no duermes",
      "plate": "cine-15-concierto",
      "emoji": "🎤"
-    },
-    {
-     "role": "value",
-     "h": "Hoy toca Paulo Londra en el Nacional",
-     "b": "Estadio lleno, miles de chicos, señal saturada. Tu hija va a estar bien — y tú vas a dormir mejor si en vez de «cuídate» le das un plan de 4 puntos que toma 2 minutos acordar."
     },
     {
      "role": "value",
@@ -1340,9 +1214,6 @@
      "b": "Niño aburrido explora; niño con misión se queda: «tú cuidas la carta y me avisas cuando lleguemos al pozo». Una tarea tonta es el mejor ancla en una cola de dos horas."
     },
     {
-     "role": "recap"
-    },
-    {
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Feriado en multitud, QR puesto.",
@@ -1377,16 +1248,8 @@
     },
     {
      "role": "value",
-     "h": "Guárdala y ya no leas nada más",
-     "b": "Esta lámina es el mes entero comprimido. Con estos 5 hábitos automáticos, el 90% de los sustos familiares simplemente no ocurre. Los otros posts son el porqué; esta lámina es el qué."
-    },
-    {
-     "role": "value",
      "h": "Septiembre viene con tarea propia",
      "b": "El mes que empieza mañana es el Mes Mundial del Alzheimer — y esta cuenta lo va a acompañar con lo que las familias con abuelos necesitan saber. Si tienes un abuelo en casa, quédate cerca."
-    },
-    {
-     "role": "recap"
     },
     {
      "role": "stat",
