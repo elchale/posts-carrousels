@@ -7,7 +7,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 04",
      "img": "evento-still-odiseo.jpg",
      "h": "Pareces Matt Damon buscando concursos del Estado",
      "b": "Perdido, sin saber que hay un camino corto"
@@ -57,8 +56,7 @@
    "slug": "05-fire-stick",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 05",
+     "role": "story",
      "plate": "cine-16-madrugada",
      "h": "Un chico tumbó a Rockstar con un Fire Stick",
      "b": "No necesitas ser grande, necesitas la herramienta"
@@ -109,7 +107,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 06",
      "img": "evento-holland.jpg",
      "h": "Tu competencia guarda secretos peor que Tom Holland",
      "b": "Todo lo que ganó está publicado"
@@ -160,7 +157,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 07",
      "img": "evento-still-spidey.jpg",
      "h": "Con grandes contratos vienen grandes requisitos",
      "b": "Revisa esto antes de postular"
@@ -205,8 +201,7 @@
    "slug": "08-rnp",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 08",
+     "role": "story",
      "plate": "cine-13-bases",
      "h": "Sin RNP no existes para el Estado",
      "b": "Sácalo esta semana, es en línea"
@@ -251,8 +246,7 @@
    "slug": "09-desiertos",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 09",
+     "role": "story",
      "plate": "cine-05-almacen",
      "h": "¿Si todo está arreglado, por qué sobran contratos?",
      "b": "Miles de procesos se quedan sin postores"
@@ -297,8 +291,7 @@
    "slug": "10-leer-bases",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 10",
+     "role": "story",
      "plate": "cine-02-oficina",
      "h": "Lee unas bases en 20 minutos",
      "b": "El orden importa más que el esfuerzo"
@@ -348,8 +341,7 @@
    "slug": "11-quien-postula",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 11",
+     "role": "story",
      "plate": "cine-09-acuerdo",
      "h": "Averigua quién va a postular antes de tu oferta",
      "b": "El documento que los delata es público"
@@ -394,8 +386,7 @@
    "slug": "12-tu-rubro",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 12",
+     "role": "story",
      "plate": "cine-11-ferreteria",
      "h": "El Estado ya compró lo tuyo este mes",
      "b": "Y va a volver a comprarlo"
@@ -440,8 +431,7 @@
    "slug": "13-consultas-arma",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 13",
+     "role": "story",
      "plate": "cine-14-imprenta",
      "h": "Puedes pedir que corrijan unas bases",
      "b": "Gratis, por escrito y sin abogado"
@@ -487,7 +477,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 14",
      "img": "evento-still-spidey.jpg",
      "h": "Adquiere tu sentido arácnido para concursos del Estado",
      "b": ""
@@ -532,8 +521,7 @@
    "slug": "15-solo-grandes",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 15",
+     "role": "story",
      "plate": "cine-12-obra",
      "h": "¿El Estado solo le compra a los grandes?",
      "b": "Los datos dicen otra cosa"
@@ -578,8 +566,7 @@
    "slug": "16-historial-ruc",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 16",
+     "role": "story",
      "plate": "cine-01-ventana",
      "h": "Así ves cuánto le vende tu competencia al Estado",
      "b": ""
@@ -624,8 +611,7 @@
    "slug": "17-consorcios",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 17",
+     "role": "story",
      "plate": "cine-09-acuerdo",
      "h": "Dos chicos juntos le ganan a un grande",
      "b": "Se llama consorcio y es legal"
@@ -670,8 +656,7 @@
    "slug": "18-ley-32069",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 18",
+     "role": "story",
      "plate": "cine-13-bases",
      "h": "La ley de contrataciones cambió y casi nadie leyó",
      "b": "Te toca aunque no leas leyes"
@@ -716,8 +701,7 @@
    "slug": "19-calendario-fiscal",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 19",
+     "role": "story",
      "plate": "cine-10-amanecer",
      "h": "Las entidades compran con calendario",
      "b": "Tú también deberías vender con uno"
@@ -762,8 +746,7 @@
    "slug": "20-oferta-perdida",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 20",
+     "role": "story",
      "plate": "cine-16-madrugada",
      "h": "No prepares una oferta que ya perdiste",
      "b": "Cinco preguntas antes de empezar"
@@ -809,7 +792,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 21",
      "img": "evento-still-odiseo.jpg",
      "h": "Métele tu caballo de Troya al Estado",
      "b": "Entra antes de la buena pro"
@@ -854,8 +836,7 @@
    "slug": "22-8uit",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 22",
+     "role": "story",
      "plate": "cine-15-reparto",
      "h": "El Estado hace compras que nadie está mirando",
      "b": "Las de hasta 8 UIT"
@@ -900,8 +881,7 @@
    "slug": "23-garantias",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 23",
+     "role": "story",
      "plate": "cine-11-ferreteria",
      "h": "¿Qué garantías te va a pedir el Estado?",
      "b": "Menos miedo del que crees"
@@ -946,8 +926,7 @@
    "slug": "24-dos-puntos",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 24",
+     "role": "story",
      "plate": "cine-11-ferreteria",
      "h": "Perdió la buena pro por dos puntos",
      "b": "Le pasa a cientos cada mes"
@@ -992,8 +971,7 @@
    "slug": "25-ficha-rnp",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 25",
+     "role": "story",
      "plate": "cine-02-oficina",
      "h": "La hoja de vida de tu competencia es pública",
      "b": "Y la tuya también"
@@ -1038,8 +1016,7 @@
    "slug": "26-primera-semana",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 26",
+     "role": "story",
      "plate": "cine-10-amanecer",
      "h": "Encuentra tu primera licitación esta semana",
      "b": "La ruta completa del primerizo"
@@ -1084,8 +1061,7 @@
    "slug": "27-despues-de-perder",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 27",
+     "role": "story",
      "plate": "cine-16-madrugada",
      "h": "Perdiste la buena pro, ¿y ahora?",
      "b": "El acta te dice exactamente por qué"
@@ -1130,8 +1106,7 @@
    "slug": "28-nadie-lee-todo",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 28",
+     "role": "story",
      "plate": "cine-13-bases",
      "h": "Nadie puede leer todo el SEACE",
      "b": "Tú tampoco, y está bien"
@@ -1177,7 +1152,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 29",
      "img": "evento-rdj.jpg",
      "h": "Iron Man volvió convertido en el villano",
      "b": "Tu socio de hoy compite mañana"
@@ -1222,8 +1196,7 @@
    "slug": "30-fin-trimestre",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 30",
+     "role": "story",
      "plate": "cine-10-amanecer",
      "h": "Septiembre cierra trimestre y las entidades lo saben",
      "b": "Prepárate esta semana"
@@ -1268,8 +1241,7 @@
    "slug": "31-cierre-agosto",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 31",
+     "role": "story",
      "plate": "cine-05-almacen",
      "h": "Este mes salieron miles de procesos, ¿viste alguno?",
      "b": "Los 4 hábitos para que no se repita"

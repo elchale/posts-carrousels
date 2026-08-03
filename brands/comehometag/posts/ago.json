@@ -7,7 +7,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 04 · SEMANA SPIDERMAN",
+     "kicker": "SEMANA SPIDERMAN",
      "h": "Mil niños entraron al cine vestidos de Spiderman",
      "img": "evento-sala-llena.png"
     },
@@ -58,7 +58,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 05 · SEMANA LA ODISEA",
+     "kicker": "SEMANA LA ODISEA",
      "h": "¿Esperarías 20 años como Penélope?",
      "img": "evento-still-penelope.jpg"
     },
@@ -109,7 +109,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 06",
      "h": "¿Contratarías a Spiderman de niñera?",
      "img": "evento-still-spidey.jpg"
     },
@@ -160,7 +159,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 07",
      "h": "Tu hijo desaparece más rápido que Spiderman"
     },
     {
@@ -211,7 +209,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 08 · FIN DE SEMANA",
+     "kicker": "FIN DE SEMANA",
      "h": "En el mercado tu hijo ve rodillas, no caras"
     },
     {
@@ -262,7 +260,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 14 · SIMULACRO NACIONAL",
+     "kicker": "SIMULACRO NACIONAL",
      "h": "El viernes tiembla a las 3 de la tarde",
      "img": "evento-simulacro.jpg"
     },
@@ -312,8 +310,8 @@
    "slug": "10-mochila-no-existe",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "AGO 14 · SIMULACRO NACIONAL",
+     "role": "story",
+     "kicker": "SIMULACRO NACIONAL",
      "h": "Tu mochila de emergencia no existe y lo sabes",
      "plate": "cine-14-mochila"
     },
@@ -364,7 +362,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 14 · SIMULACRO NACIONAL",
+     "kicker": "SIMULACRO NACIONAL",
      "h": "¿Y si tiembla cuando no estás con ellos?"
     },
     {
@@ -415,7 +413,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 16 · DÍA DEL NIÑO",
+     "kicker": "DÍA DEL NIÑO",
      "h": "Este domingo hay más niños sueltos que nunca"
     },
     {
@@ -465,7 +463,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 14 · SIMULACRO 3PM",
+     "kicker": "SIMULACRO 3PM",
      "h": "10 minutos hoy valen más que el simulacro de mañana"
     },
     {
@@ -515,7 +513,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "VIE 14 · 3:00 PM",
+     "kicker": "3:00 PM",
      "h": "Hoy a las 3 ensaya todo el Perú",
      "img": "evento-simulacro.jpg"
     },
@@ -561,7 +559,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 16 · DÍA DEL NIÑO",
+     "kicker": "DÍA DEL NIÑO",
      "h": "Mañana los parques revientan de niños"
     },
     {
@@ -612,7 +610,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "DOM 16 · DÍA DEL NIÑO",
+     "kicker": "DÍA DEL NIÑO",
      "h": "Feliz día, que no se te pierda"
     },
     {
@@ -652,7 +650,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 17",
      "h": "Tu hijo perdido te busca donde te vio por última vez"
     },
     {
@@ -702,7 +699,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 18 · MITO VS REALIDAD",
+     "kicker": "MITO VS REALIDAD",
      "h": "El secuestro no es tu mayor riesgo"
     },
     {
@@ -752,7 +749,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 19",
      "h": "La tía que lo estaba viendo no lo estaba viendo"
     },
     {
@@ -803,7 +799,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 20",
      "h": "Tu perro no sabe tu número"
     },
     {
@@ -854,7 +849,6 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 21",
      "h": "¿Quién puede recoger a tu hijo del colegio?"
     },
     {
@@ -904,7 +898,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 26 · ADULTO MAYOR",
+     "kicker": "ADULTO MAYOR",
      "h": "No hagas que tu hijo te busque por 10 años",
      "img": "evento-still-penelope.jpg"
     },
@@ -955,7 +949,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 26 · ADULTO MAYOR",
+     "kicker": "ADULTO MAYOR",
      "h": "6 de cada 10 abuelos con demencia van a deambular"
     },
     {
@@ -1006,7 +1000,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 26 · ADULTO MAYOR",
+     "kicker": "ADULTO MAYOR",
      "h": "Tu papá dice que no necesita ayuda"
     },
     {
@@ -1056,7 +1050,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 26 · ADULTO MAYOR",
+     "kicker": "ADULTO MAYOR",
      "h": "El que encuentra a tu papá no sabe quién es"
     },
     {
@@ -1107,7 +1101,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "MIÉ 26 · DÍA DEL ADULTO MAYOR",
+     "kicker": "DÍA DEL ADULTO MAYOR",
      "h": "Cuidar al que te cuidó no es vigilarlo"
     },
     {
@@ -1152,7 +1146,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "DOM 30 · SANTA ROSA",
+     "kicker": "SANTA ROSA",
      "h": "Miles harán cola en el pozo de los deseos",
      "img": "evento-pozo.jpg"
     },
@@ -1203,7 +1197,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "DOM 30 · FERIADO",
+     "kicker": "FERIADO",
      "h": "Esto hacen las familias grandes antes de salir en feriado"
     },
     {
@@ -1252,8 +1246,8 @@
    "slug": "29-concierto-hija",
    "slides": [
     {
-     "role": "cover",
-     "kicker": "SÁB 29 · CONCIERTO",
+     "role": "story",
+     "kicker": "CONCIERTO",
      "h": "Tu hija va al concierto y tú no duermes",
      "plate": "cine-15-concierto"
     },
@@ -1304,7 +1298,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "DOM 30 · SANTA ROSA",
+     "kicker": "SANTA ROSA",
      "h": "Hoy el pozo junta más gente que un estadio",
      "img": "evento-pozo.jpg"
     },
@@ -1345,7 +1339,7 @@
    "slides": [
     {
      "role": "cover",
-     "kicker": "AGO 31 · RESUMEN",
+     "kicker": "RESUMEN",
      "h": "Lo que aprendimos en agosto cabe en una lámina"
     },
     {
