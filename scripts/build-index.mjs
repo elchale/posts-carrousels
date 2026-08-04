@@ -68,7 +68,12 @@ try {
     '                para las miniaturas (la app funciona igual, pesa más en datos).')
 }
 
-const stats = { linked: 0, previews: 0, thumbs: 0, skipped: 0 }
+const stats = { linked: 0, previews: 0, thumbs: 0, skipped: 0, pruned: 0 }
+
+/* Todo destino que ESTA pasada produce (o confirma fresco). Lo que quede en
+ * public/{posts,preview,thumb} fuera de este set es de una versión anterior
+ * del contenido y se poda al final. */
+const managed = new Set()
 
 function mkdirp(dir) {
   fs.mkdirSync(dir, { recursive: true })
@@ -86,6 +91,7 @@ function isFresh(src, dest) {
 }
 
 function linkOrCopy(src, dest) {
+  managed.add(path.resolve(dest))
   if (isFresh(src, dest)) {
     stats.skipped++
     return
@@ -102,6 +108,7 @@ function linkOrCopy(src, dest) {
 
 const resizeQueue = []
 function queueResize(src, dest, width, quality, counter) {
+  managed.add(path.resolve(dest))
   if (isFresh(src, dest)) {
     stats.skipped++
     return
@@ -285,6 +292,30 @@ for (const brandId of listDirs(BRANDS_DIR)) {
 
 await drainResizeQueue()
 
+/* ---------------------------------------------------------------- prune */
+/* El script solo AGREGABA: un post que perdió láminas, se renombró o cuya serie
+ * murió dejaba sus archivos viejos en public/ para siempre (643 láminas fantasma
+ * el día que se descubrió). El manifest no las lista, así que la app se ve bien,
+ * pero cualquier cosa que sirva la carpeta tal cual — o un build que reuse
+ * public/ — entrega versiones viejas. Lo que esta pasada no produjo, se va. */
+function prune(root) {
+  if (!fs.existsSync(root)) return
+  const walk = (dir) => {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, e.name)
+      if (e.isDirectory()) {
+        walk(full)
+        if (!fs.readdirSync(full).length) fs.rmdirSync(full)
+      } else if (!managed.has(path.resolve(full))) {
+        fs.rmSync(full, { force: true })
+        stats.pruned++
+      }
+    }
+  }
+  walk(root)
+}
+for (const dir of ['posts', 'preview', 'thumb']) prune(path.join(PUBLIC, dir))
+
 /* ---------------------------------------------------------------- icons */
 
 const ICON_SVG = (size) => `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 180 180">
@@ -323,7 +354,7 @@ fs.writeFileSync(
 console.log(
   `[build-index] ${brands.length} marcas · ${totalPosts} posts · ` +
   `${stats.linked} archivos enlazados · ${stats.previews} previews · ${stats.thumbs} miniaturas · ` +
-  `${stats.skipped} ya al día`,
+  `${stats.skipped} ya al día · ${stats.pruned} fantasma podados`,
 )
 if (!totalPosts) {
   console.error('[build-index] no se encontró ningún post en brands/<marca>/out/ — ¿corriste tools/render.py?')
