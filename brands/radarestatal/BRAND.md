@@ -13,12 +13,17 @@ desplegado — existe logo, redes y correo. Fuente de verdad del producto:
 
 Tagline de producto: "Tu radar de contrataciones del Estado".
 
-Tres capacidades (en orden de gancho):
+Cuatro capacidades (en orden de gancho):
 1. **Feed diario gratis** de procesos de selección del SEACE (datos abiertos OECE).
 2. **Recomendaciones IA**: la IA elige los mejores procesos para TU empresa.
 3. **Inteligencia de competidores por RUC**: historial de qué ganó y perdió
-   cualquier empresa ante el Estado, y cómo ver quién va a postular ANTES de
-   la buena pro (el pliego de consultas es público y casi nadie lo sabe leer).
+   cualquier empresa ante el Estado, y quiénes se registraron y consultaron en
+   un proceso abierto (competencia POSIBLE — ver la regla dura de abajo).
+4. **Avisos de designaciones y visitas**: cuando designan a un funcionario en
+   una entidad que sigues, o cuando esa entidad publica su registro de visitas,
+   te llega el aviso. Ambas fuentes son públicas y obligatorias (designaciones
+   en El Peruano; Registro de Visitas en Línea, publicación diaria en datos
+   abiertos), pero nadie las revisa a mano todos los días.
 
 ## Identidad visual
 
@@ -66,9 +71,10 @@ uno. Las herramientas de competidores le ahorran su tarde entera.
 1. **Cómo-hacer del proceso** (registro utilidad — el dominante): sacar el RNP,
    leer unas bases sin morir, usar las consultas y observaciones como arma,
    entender consorcios, qué mirar antes de invertir tiempo en una oferta.
-2. **Inteligencia de competidores** (la cuña propia del producto): cómo saber
-   quién va a postular antes de la buena pro, cómo ver cuánto le vende una
-   empresa al Estado, qué dice una ficha RNP de tu competidor.
+2. **Inteligencia de competidores** (la cuña propia del producto): cómo leer el
+   pliego absolutorio para saber quiénes se registraron y consultaron el proceso
+   (competencia posible, nunca confirmada), cómo ver cuánto le vende una empresa
+   al Estado, qué dice una ficha RNP de tu competidor.
 3. **La plata real del Estado** (asombro citable): cuánto compra el Estado en
    tu rubro y tu región, qué entidades compran más, montos concretos con
    fuente. Los números REALES son el contenido — esta marca vive de eso.
@@ -86,7 +92,7 @@ uno. Las herramientas de competidores le ahorran su tarde entera.
 
 Ganchos de calibre galería (pasan los 7 filtros duros del skill):
 - "Haz esto antes de postular a tu primera licitación"
-- "Averigua quién va a postular antes de presentar tu oferta"
+- "Mira quiénes ya consultaron el proceso antes de armar tu oferta"
 - "Así ves cuánto le vende tu competencia al Estado"
 - "Tu competencia ya sabe qué licitaciones ganaste este año"
 - "Qué hacer cuando unas bases te piden experiencia que no tienes"
@@ -127,6 +133,20 @@ Consecuencias para el contenido:
   `COMPETENCIA.md` §4.6 propone S/39/99/249) — decisión de producto de
   Carlos, irrelevante para el contenido.
 
+## Registro: informativo y real, SIN humor ni cultura pop
+
+Regla dura de Carlos (2026-08-03), específica de esta marca y distinta del
+resto del sistema: **Radar Estatal no hace chistes y no usa cultura pop.**
+Nada de películas, actores, mitología, deportistas, premios ni festividades
+como gancho o como hilo. Ni "Black Friday del Estado", ni Halloween, ni
+"maldiciones". El lector es un dueño de MYPE decidiendo si invierte una semana
+de trabajo en una oferta: el capital de la marca es que lo que decimos sea
+cierto y le sirva. El gancho se saca del DATO y del DOLOR, no del ingenio.
+
+Registros de portada permitidos: utilidad directa ("Haz esto antes de…"),
+FOMO real y comprobable ("tu competencia ya puede leer tu historial"), mito vs
+data ("¿sin contactos no le vendes al Estado?"), dato de asombro citable.
+
 ## Reglas de afirmaciones (la ficha dura)
 
 - **Cifras SÍ — pero solo verificadas.** La marca se sostiene en datos abiertos
@@ -143,6 +163,58 @@ Consecuencias para el contenido:
   (regla global del skill).
 - El feed gratis es un claim real (gratis e ilimitado, sin cuenta). La IA se
   describe como es: recomienda procesos y explica requisitos.
+
+### Las falacias que ya nos costaron una pasada completa (2026-08-03)
+
+Verificadas contra norma y fuente oficial. **Ningún post puede contradecirlas.**
+
+1. **NO se puede saber quién va a postular.** Nadie sabe quién presentará
+   oferta hasta que se presentan. Lo que SÍ es público es el **pliego
+   absolutorio de consultas y observaciones**: quién se registró como
+   participante y formuló consultas. Eso es **competencia posible**, no
+   confirmada — registrarse no obliga a ofertar y quien nunca consultó puede
+   presentarse igual. Redacción obligatoria: "quiénes ya consultaron",
+   "posibles competidores", nunca "quién va a postular" ni "los delata".
+2. **El RNP NO vence.** Su vigencia es indefinida desde 2017; se mantiene
+   mientras el RUC esté activo y habido en SUNAT, y la información del registro
+   se actualiza cuando cambia (domicilio, representantes, socios). No existe
+   "renovar el RNP" ni "RNP vencido". Lo que sí existe: quedar **no habido** o
+   con el RUC de baja, o estar **inhabilitado** por sanción (registro público
+   del OECE). Se dice "RNP activo / habilitado", nunca "RNP vigente hasta".
+3. **Las contrataciones ≤8 UIT no son procesos de selección.** Están excluidas
+   del ámbito de la Ley 32069: no hay convocatoria a la que "postular" en el
+   SEACE — la entidad pide cotizaciones directamente. Lo que se publica es el
+   **registro de contratos menores** (objeto, RUC del proveedor elegido, monto,
+   fecha, número de cotizaciones): un registro EX POST. Su uso correcto en
+   contenido es de inteligencia ("quién compra lo tuyo y a quién se lo compra,
+   para saber a qué entidad cotizarle"), nunca "postula ahí". UIT 2026:
+   S/ 5,500 → tope de 8 UIT = S/ 44,000.
+4. **Valor estimado ≠ valor referencial.** "Valor estimado" es para bienes y
+   servicios; "valor referencial" para consultoría y ejecución de obras. Es
+   público por regla; solo excepcionalmente la entidad lo reserva por decisión
+   motivada. Nunca decir "según el tipo de proceso va reservado".
+5. **Cero cifras inventadas.** Prohibido "a cientos les pasa cada mes", "el 90%
+   no llega", "miles de empresas ganan su primer contrato". Si no está
+   verificada contra nuestra base o la fuente OECE/MEF, se reescribe como algo
+   que el lector puede comprobar él mismo ("búscalo filtrando por tu rubro").
+6. **Las historias de proveedores son RUTA TIPO, no testimonios.** Mientras no
+   haya un caso real con permiso, se redactan en modo método ("así entra una
+   ferretería"), nunca como si fuera una persona concreta que existió.
+7. **Ley 32069**: publicada el 24/06/2024, vigente desde el **22/04/2025**;
+   su reglamento es el DS 009-2025-EF. El OSCE es hoy **OECE**. PLADICOP viene
+   reemplazando progresivamente al SEACE — decirlo así, en presente progresivo.
+8. **Garantías (Ley 32069)**: las MYPE pueden usar **retención de pago** como
+   garantía de fiel cumplimiento **sin límite de monto**; el resto de
+   proveedores, hasta S/ 480,000 en bienes y servicios y S/ 5 millones en
+   obras. También existen fideicomiso y contrato de seguro. Verificar siempre
+   contra las bases del proceso concreto.
+9. **Designaciones y visitas** (la capacidad nueva): las designaciones de
+   funcionarios se publican por resolución en El Peruano; el **Registro de
+   Visitas en Línea** es obligatorio, de publicación diaria y en datos
+   abiertos. Se comunica como lo que es: **un aviso automático de información
+   pública**. Nunca insinuar que sirve para gestionar contactos, influir en
+   una compra ni "llegar al funcionario" — eso rompe la regla de cero
+   acusación/insinuación de corrupción y el disclaimer del producto.
 
 ## Voz
 
