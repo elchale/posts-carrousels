@@ -15,22 +15,22 @@
     {
      "role": "value",
      "h": "El mensaje de las 24 horas",
-     "b": "\"Hola [nombre], ayer te pasé el precio de [X]. ¿Te ayudo a decidir?. Si prefieres, te lo separo hasta mañana.\" Corto, útil, sin rogar."
+     "b": "«Ayer te pasé el precio de [X]. ¿Te ayudo a decidir? Si prefieres, te lo separo.»"
     },
     {
      "role": "value",
      "h": "El de las 72 horas cierra o libera",
-     "b": "· \"[Nombre], ¿seguimos con [X]?. Si no es el momento, sin problema, te aviso cuando llegue algo parecido.\" O responde, o te deja libre\n· Ambas son mejores que el silencio"
+     "b": "«¿Seguimos con [X]? Si no es el momento, te aviso cuando llegue algo parecido.»"
     },
     {
      "role": "value",
      "h": "La regla: ninguna cotización muere sin 2 toques",
-     "b": "· Uno a las 24 horas, otro a las 72\n· Se anota en el chat mismo: fija el mensaje o etiqueta \"cotizado\"\n· Dos minutos por cliente"
+     "b": "· Uno a las 24 horas\n· Otro a las 72\n· Se anota en el chat mismo\n· Dos minutos por cliente"
     },
     {
      "role": "stat",
      "h": "Que el seguimiento no dependa de tu memoria.",
-     "b": "Qolca es un estudio peruano que construye CRMs: tu WhatsApp guarda cada interesado, recuerda el seguimiento y responde solo cuando no estás, derivando a humano cuando importa. Hablas directo con quien lo construye."
+     "b": "Qolca construye CRMs: tu WhatsApp guarda cada interesado y te recuerda el seguimiento."
     },
     {
      "role": "cta",
@@ -58,17 +58,18 @@
     {
      "role": "value",
      "h": "El turno nocturno mínimo se arma en 10 minutos",
-     "b": "Un mensaje de bienvenida fuera de horario que responda de verdad: precio desde, ubicación y horario, y una pregunta: \"¿te llamamos mañana a las 9 o prefieres pasar?\""
+     "b": "· Precio desde\n· Ubicación y horario\n· «¿Te llamamos mañana a las 9?»"
     },
     {
      "role": "value",
      "h": "Lo que NO debe decir",
-     "b": "· \"En breve nos comunicaremos\" no es una respuesta, es un tramposo \"quizás\"\n· Di la verdad: hasta qué hora atiende un humano y qué pasa mientras tanto"
+     "b": "· «En breve nos comunicaremos» es un quizás\n· Di hasta qué hora atiende un humano"
     },
     {
      "role": "value",
      "h": "En la mañana, el repaso de 10 minutos",
-     "b": "· Todo chat que entró de noche se responde antes de las 9:30 con nombre y contexto\n· El que escribió a las 11pm y recibe respuesta a las 9:05 siente que lo esperabas"
+     "b": "· Todo chat de la noche, respondido antes de las 9:30\n· Con nombre y contexto\n· El de las 11pm siente que lo esperabas",
+     "emoji": "🙌"
     },
     {
      "role": "recap"
@@ -76,7 +77,7 @@
     {
      "role": "stat",
      "h": "O deja de dejarle el turno a Nadie.",
-     "b": "Qolca construye asistentes que atienden tu WhatsApp de noche: responden lo de siempre, agendan la llamada de la mañana y derivan a humano apenas hace falta. Empezamos por algo chico y medible."
+     "b": "Qolca construye asistentes que atienden tu WhatsApp de noche y derivan a humano apenas hace falta."
     },
     {
      "role": "cta",
@@ -104,17 +105,17 @@
     {
      "role": "value",
      "h": "Tu lista de clientes pasados es una mina sin excavar",
-     "b": "· El que compró un auto vuelve a cambiarlo en unos años\n· La pareja de la boda tiene aniversario cada año\n· El que alquiló, algún día compra\n· Cada rubro tiene su ciclo: apúntalo"
+     "b": "· El que compró un auto lo cambia\n· La boda tiene aniversario\n· El que alquiló, algún día compra\n· Cada rubro tiene su ciclo"
     },
     {
      "role": "value",
      "h": "La llamada necesita excusa real, no saludo vacío",
-     "b": "· \"Hola [nombre], llegó algo parecido a lo que buscabas\" o \"se viene [su fecha], ¿te ayudo con algo?\"\n· Un \"¿cómo estás?\" sin motivo incomoda; una excusa útil abre la puerta"
+     "b": "· «Llegó algo parecido a lo que buscabas»\n· «Se viene [su fecha], ¿te ayudo?»\n· Un «¿cómo estás?» sin motivo incomoda"
     },
     {
      "role": "value",
      "h": "Hazlo método: 5 antiguos cada viernes",
-     "b": "· Media hora, cinco mensajes, cada semana\n· En un mes tocaste 20 relaciones que ya te tenían confianza y nadie más está cultivando"
+     "b": "· Media hora, cinco mensajes\n· Cada viernes\n· En un mes, 20 relaciones que ya te tienen confianza"
     },
     {
      "role": "recap"
@@ -122,7 +123,7 @@
     {
      "role": "stat",
      "h": "Que tu base de clientes trabaje sola.",
-     "b": "· Qolca construye CRMs que recuerdan por ti: quién compró qué, cuándo toca escribirle y con qué excusa real\n· Tu WhatsApp avisa; tú solo llamas\n· Hablas directo con quien lo construye"
+     "b": "Qolca construye CRMs que recuerdan por ti: quién compró qué y cuándo toca escribirle."
     },
     {
      "role": "cta",
@@ -150,17 +151,17 @@
     {
      "role": "value",
      "h": "Lo que debe vivir en sistema, no en un celular personal",
-     "b": "La lista de clientes con su historial. Las cotizaciones abiertas y en qué quedaron. Los acuerdos de precio. Las fechas de recontacto. Todo lo demás puede ser personal; esto no."
+     "b": "· La lista de clientes con su historial\n· Las cotizaciones y en qué quedaron\n· Los acuerdos de precio\n· Las fechas de recontacto"
     },
     {
      "role": "value",
      "h": "La prueba del atropello",
-     "b": "Pregunta incómoda pero necesaria: si mañana tu mejor vendedor no viene, ¿alguien puede seguir sus ventas esa misma tarde? Si la respuesta es no, el negocio depende de un celular ajeno."
+     "b": "Si mañana tu mejor vendedor no viene, ¿alguien puede seguir sus ventas esa tarde?"
     },
     {
      "role": "value",
      "h": "Empieza esta semana con el traspaso mínimo",
-     "b": "· Un archivo compartido con 3 columnas por cliente activo: qué busca, en qué quedaron, próximo paso con fecha\n· Media hora por vendedor, una sola vez, y luego 5 minutos al día"
+     "b": "· Qué busca\n· En qué quedaron\n· Próximo paso con fecha\n· Media hora por vendedor, una vez"
     },
     {
      "role": "recap"
@@ -168,7 +169,7 @@
     {
      "role": "stat",
      "h": "Los negocios con CRM no le temen a ningún Doctor Doom.",
-     "b": "Qolca construye el sistema donde viven tus clientes, historiales y cotizaciones, de la empresa, no del celular de alguien. Cada conversación queda registrada y cualquiera puede continuarla."
+     "b": "Qolca construye el sistema donde viven tus clientes y cotizaciones: de la empresa, no de un celular."
     },
     {
      "role": "cta",
@@ -196,17 +197,18 @@
     {
      "role": "value",
      "h": "Gana el que estaba ahí, no el que redactó mejor",
-     "b": "· No siempre compra al mejor ni al más barato: compra al que le contestó\n· Mientras redactas la respuesta perfecta, otro ya mandó una imperfecta y se llevó la venta"
+     "b": "· No compra al más barato: compra al que contestó\n· Mientras redactas la perfecta, otro mandó la imperfecta",
+     "emoji": "😱"
     },
     {
      "role": "value",
      "h": "El acuse honesto de 1 minuto",
-     "b": "\"¡Ya te leí! Estoy con un cliente, te respondo antes de la 1pm.\" Diez palabras que congelan al comprador: ya fue atendido, ya no busca a otro."
+     "b": "«¡Ya te leí! Estoy con un cliente, te respondo antes de la 1pm.»"
     },
     {
      "role": "value",
      "h": "Y la promesa se cumple con un repaso fijo",
-     "b": "· Tres horarios al día para vaciar pendientes: 9am, 1pm, 6pm\n· El que promete \"antes de la 1\" y cumple, gana más confianza que el que respondió al instante"
+     "b": "· 9am, 1pm y 6pm para vaciar pendientes\n· Prometer «antes de la 1» y cumplir gana más que contestar al toque"
     },
     {
      "role": "recap"
@@ -214,7 +216,7 @@
     {
      "role": "stat",
      "h": "O que el primer minuto nunca falle.",
-     "b": "Qolca construye asistentes que dan ese primer acuse solos, con la verdad de tu horario, y derivan a humano apenas puedes. Empezamos por algo chico y medible, hablas directo con quien lo construye."
+     "b": "Qolca construye asistentes que dan ese primer acuse solos, con la verdad de tu horario."
     },
     {
      "role": "cta",
@@ -242,17 +244,17 @@
     {
      "role": "value",
      "h": "\"Leer la mente\" del cliente es solo apuntar 3 cosas",
-     "b": "· Qué buscaba exactamente\n· Cuánto pensaba gastar y para cuándo\n· Y cuál es el próximo paso con fecha\n· Con eso, el siguiente mensaje siempre parece adivinado"
+     "b": "· Qué buscaba exactamente\n· Cuánto pensaba gastar y para cuándo\n· El próximo paso, con fecha"
     },
     {
      "role": "value",
      "h": "La ficha vive donde la vea todo el equipo",
-     "b": "· Un Excel compartido basta para empezar: una fila por cliente, tres columnas\n· Lo que no sirve: la memoria, el cuaderno personal y \"yo me acuerdo\""
+     "b": "· Un Excel compartido basta\n· Una fila por cliente, tres columnas\n· La memoria y el cuaderno no sirven"
     },
     {
      "role": "value",
      "h": "El poder aparece a la segunda conversación",
-     "b": "· \"Hola Carlos, ¿seguimos con la camioneta gris para fin de mes?\" vs \"Hola, ¿en qué te ayudo?\"\n· El primero suena a telépata\n· Es la misma información, apuntada a tiempo"
+     "b": "«¿Seguimos con la camioneta gris para fin de mes?» suena a telépata. Es la misma info, apuntada."
     },
     {
      "role": "recap"
@@ -260,7 +262,7 @@
     {
      "role": "stat",
      "h": "Un CRM es eso: memoria que parece magia.",
-     "b": "· Qolca construye la ficha automática de cada cliente: qué preguntó, qué cotizó, cuándo volver a escribirle\n· Tu equipo abre el chat y ya sabe todo\n· Hablas directo con quien lo construye"
+     "b": "Qolca construye la ficha automática de cada cliente: qué preguntó, qué cotizó, cuándo escribirle."
     },
     {
      "role": "cta",
@@ -287,17 +289,18 @@
     {
      "role": "value",
      "h": "Turnos: el celular siempre tiene un dueño",
-     "b": "· De 9 a 1, Ana\n· De 1 a 6, tú\n· Nunca \"todos ven el WhatsApp\": cuando todos son responsables, nadie responde\n· Un nombre por franja, escrito donde todos lo vean"
+     "b": "· De 9 a 1, Ana\n· De 1 a 6, tú\n· Nunca «todos ven el WhatsApp»\n· Un nombre por franja, escrito",
+     "emoji": "😤"
     },
     {
      "role": "value",
      "h": "Plantillas: las 5 respuestas que usas 50 veces por semana",
-     "b": "· Precio desde, horario y ubicación, disponibilidad, formas de pago, cómo agendar visita\n· Escríbelas una vez bien y guárdalas como respuestas rápidas de WhatsApp Business"
+     "b": "· Precio desde\n· Horario y ubicación\n· Disponibilidad y pagos\n· Guardadas como respuestas rápidas"
     },
     {
      "role": "value",
      "h": "Repasos: 3 horarios fijos que vacían la bandeja",
-     "b": "· 9am, 1pm y 6pm, diez minutos cada uno\n· Con acuse de 1 minuto entre medio, nadie espera sin señal de vida\n· Eso es ser \"el primero\" casi siempre, sin vivir en el celular"
+     "b": "· 9am, 1pm y 6pm\n· Diez minutos cada uno\n· Con el acuse entre medio, nadie espera sin señal"
     },
     {
      "role": "recap"
@@ -305,7 +308,7 @@
     {
      "role": "stat",
      "h": "Ser el primero, sin vivir en el celular.",
-     "b": "Qolca arma ese sistema y lo deja respondiendo solo: acuse inmediato, respuestas de siempre resueltas, y tu equipo entra solo donde hace falta un humano. Empezamos por algo chico y medible."
+     "b": "Qolca deja el sistema respondiendo solo y tu equipo entra donde hace falta un humano."
     },
     {
      "role": "cta",
@@ -333,17 +336,17 @@
     {
      "role": "value",
      "h": "El kit del día pico, parte 1: respuestas listas",
-     "b": "Escribe HOY las respuestas a las 3 preguntas que lloverán: precio y opciones, horario y stock, delivery y zonas. Guárdalas como respuestas rápidas para pegarlas en 2 segundos."
+     "b": "· Precio y opciones\n· Horario y stock\n· Delivery y zonas\n· Guardadas como respuestas rápidas"
     },
     {
      "role": "value",
      "h": "Parte 2: el acuse para la avalancha",
-     "b": "\"¡Ya te leí! Hoy estamos a full por el Día del Niño, te respondo en menos de 30 min.\" Honesto y suficiente: el cliente atendido no se va."
+     "b": "«¡Ya te leí! Hoy estamos a full por el Día del Niño, te respondo en menos de 30 min.»"
     },
     {
      "role": "value",
      "h": "Parte 3: los grandes van con humano",
-     "b": "· Pedido de varias unidades, evento, cliente conocido: esos chats se marcan y los toma una persona de inmediato\n· El sistema atiende lo repetitivo para que tú atiendas lo importante"
+     "b": "· Pedido grande, evento o cliente conocido: los toma una persona\n· El sistema atiende lo repetitivo"
     },
     {
      "role": "recap"
@@ -351,7 +354,7 @@
     {
      "role": "stat",
      "h": "Los negocios preparados duermen la noche del pico.",
-     "b": "Qolca deja tu WhatsApp respondiendo lo de siempre solo, con derivación a humano al instante cuando el pedido es grande. Construido a tu medida por un estudio peruano con quien hablas directo."
+     "b": "Qolca deja tu WhatsApp respondiendo lo de siempre, y deriva a humano cuando el pedido es grande."
     },
     {
      "role": "cta",
@@ -379,28 +382,28 @@
     {
      "role": "story",
      "h": "1: \"¿Cuánto cuesta?\", responde con rango y siguiente paso",
-     "b": "\"Desde S/ [tu precio] según modelo, ¿para qué edad es el regalo?\" La clave: SIEMPRE cerrar con una pregunta que avance la venta, nunca con un número seco.",
+     "b": "«Desde S/ [tu precio] según modelo. ¿Para qué edad es el regalo?» Nunca un número seco.",
      "plate": "cine-08-telefono"
     },
     {
      "role": "value",
      "h": "2: \"¿Tienen disponible?\", responde con opciones, no con sí",
-     "b": "· \"Sí\" mata la conversación\n· \"Sí, nos quedan en azul y rojo, ¿te separo uno?\" la avanza\n· Cada respuesta rápida termina en pregunta"
+     "b": "· «Sí» mata la conversación\n· «Sí, en azul y rojo, ¿te separo uno?» la avanza\n· Termina siempre en pregunta"
     },
     {
      "role": "value",
      "h": "3: \"¿Hacen delivery?\", zonas, tiempos y cómo pedir",
-     "b": "\"Sí, llegamos a [zonas] entre [horas]. Si confirmas antes de la 1pm, llega hoy.\" La urgencia real de la fecha juega a tu favor: úsala con la verdad."
+     "b": "«Sí, llegamos a [zonas] entre [horas]. Si confirmas antes de la 1pm, llega hoy.»"
     },
     {
      "role": "value",
      "h": "Guárdalas en WhatsApp Business en 5 minutos",
-     "b": "· Ajustes → Herramientas para la empresa → Respuestas rápidas\n· Escribes \"/precio\" y aparece tu texto completo\n· Tres atajos hoy te ahorran cien tipeos el domingo"
+     "b": "· Ajustes, Herramientas, Respuestas rápidas\n· Escribes «/precio» y aparece el texto\n· Tres atajos, cien tipeos menos"
     },
     {
      "role": "stat",
      "h": "Y cuando ni con atajos alcance, que respondan solas.",
-     "b": "Qolca convierte esas respuestas en un asistente que las da por ti, de día, de noche y en pleno pico, y te pasa el chat apenas la conversación se pone seria. Hablas directo con quien lo construye."
+     "b": "Qolca convierte esas respuestas en un asistente que las da por ti y te pasa el chat cuando se pone seria."
     },
     {
      "role": "cta",
@@ -428,17 +431,17 @@
     {
      "role": "value",
      "h": "El que pregunta temprano está comparando",
-     "b": "Miró 4 tiendas, preguntó en 3, le respondieron 2. El domingo le comprará a la que se quedó en su cabeza, y en su cabeza se queda el que hace seguimiento, no el que respondió más bonito."
+     "b": "Miró 4 tiendas, preguntó en 3, le respondieron 2. El domingo le compra al que hizo seguimiento."
     },
     {
      "role": "value",
      "h": "Etiqueta HOY a los interesados de la semana",
-     "b": "· En WhatsApp Business: etiqueta \"Día del Niño\" a todo el que preguntó\n· Es un toque por chat\n· El viernes tendrás tu lista de compradores casi listos, ordenada y completa"
+     "b": "· Etiqueta «Día del Niño» al que preguntó\n· Un toque por chat\n· El viernes la lista está lista"
     },
     {
      "role": "value",
      "h": "El sábado, el mensaje que cierra",
-     "b": "\"Hola [nombre], ¿al final te decidiste por [lo que preguntó]? Mañana es el día, si confirmas hoy te lo dejo listo/te lo llevo.\" Un mensaje, enviado a toda la etiqueta, con nombre."
+     "b": "«¿Al final te decidiste por [X]? Mañana es el día, si confirmas hoy te lo dejo listo.»"
     },
     {
      "role": "recap"
@@ -446,7 +449,7 @@
     {
      "role": "stat",
      "h": "El seguimiento de fecha pico, en piloto automático.",
-     "b": "Qolca registra a cada interesado con lo que preguntó y dispara el recordatorio del sábado por ti, con tu voz, con su nombre, derivando a humano al primer \"sí\". Empezamos por algo chico y medible."
+     "b": "Qolca registra a cada interesado y dispara el recordatorio del sábado por ti, con su nombre."
     },
     {
      "role": "cta",
@@ -473,12 +476,12 @@
     {
      "role": "value",
      "h": "El interés es un helado al sol",
-     "b": "Quien escribe tiene el celular en la mano y varias pestañas abiertas: está comparando AHORA. Media hora después ya no está en ese momento. No se enoja, simplemente sigue scrolleando y aparece otra tienda."
+     "b": "Tiene el celular en la mano y varias pestañas abiertas: está comparando AHORA."
     },
     {
      "role": "value",
      "h": "No necesitas responder todo: necesitas TOCAR todo",
-     "b": "· Acuse de 1 minuto a todo lo que entra (\"¡te leí!. te respondo antes de la 1\"), y resolver por tandas en tus repasos\n· Tocar rápido y resolver ordenado le gana a resolver lento"
+     "b": "· Acuse de 1 minuto a todo lo que entra\n· Resolver por tandas, en tus repasos\n· Tocar rápido gana a resolver lento"
     },
     {
      "role": "recap"
@@ -486,7 +489,7 @@
     {
      "role": "stat",
      "h": "El primer toque puede no depender de nadie.",
-     "b": "Qolca deja ese primer toque automático, inmediato, honesto, con tu horario real, y resuelve solo las preguntas de siempre. Tu equipo entra donde el chat se pone serio. Hablas directo con quien lo construye."
+     "b": "Qolca deja ese primer toque automático e inmediato, con tu horario real, y resuelve lo de siempre."
     },
     {
      "role": "cta",
@@ -514,22 +517,22 @@
     {
      "role": "value",
      "h": "1. Turnos escritos, no sobreentendidos",
-     "b": "· ¿Quién tiene el celular de 9 a 1?\n· ¿Quién de 1 a cierre?\n· Un nombre por franja\n· El error clásico del día pico: \"todos estamos pendientes\" = nadie responde"
+     "b": "· ¿Quién tiene el celular de 9 a 1?\n· ¿Quién de 1 a cierre?\n· «Todos estamos pendientes» es nadie"
     },
     {
      "role": "value",
      "h": "2. Plantillas a un toque de distancia",
-     "b": "· Tus respuestas rápidas de precio, stock y delivery ya deberían existir (las de esta semana)\n· Hoy solo verifica: ¿se abren con /atajo?\n· ¿están actualizadas con lo que de verdad queda en stock?"
+     "b": "· ¿Se abren con /atajo?\n· ¿Dicen el stock que de verdad queda?\n· Verifícalo hoy, no mañana"
     },
     {
      "role": "value",
      "h": "3. El corte de las 9pm",
-     "b": "· Mañana a las 9pm: repaso final\n· Todo chat del día recibe respuesta o acuse aunque sea breve\n· Lo que quedó en \"cotizado\" se etiqueta, el lunes ese es tu oro"
+     "b": "· 9pm: repaso final\n· Todo chat recibe respuesta o acuse\n· Lo «cotizado» se etiqueta: el lunes es tu oro"
     },
     {
      "role": "stat",
      "h": "O llega al pico con el sistema ya montado.",
-     "b": "Los negocios que atienden picos con Qolca no arman planes de guerra: su WhatsApp responde lo repetitivo solo, deriva lo importante y deja cada interesado registrado para el seguimiento. Se construye una vez."
+     "b": "Con Qolca no hay plan de guerra: el WhatsApp responde lo repetitivo y registra a cada interesado."
     },
     {
      "role": "cta",
@@ -557,17 +560,17 @@
     {
      "role": "value",
      "h": "Hoy solo existen 3 reglas",
-     "b": "· Todo chat recibe un toque en el primer minuto\n· Las preguntas de siempre se responden con plantilla\n· Los pedidos grandes van directo a un humano\n· Nada más, hoy no es día de inventar"
+     "b": "· Un toque en el primer minuto\n· Lo de siempre, con plantilla\n· Los pedidos grandes, a un humano"
     },
     {
      "role": "value",
      "h": "El cierre de hoy vale tanto como las ventas de hoy",
-     "b": "9pm: etiqueta a todo el que preguntó y no compró. Mañana esa lista recibe UN mensaje amable, muchos regalos se compran \"el lunes después\" y nadie compite por esa venta."
+     "b": "9pm: etiqueta al que preguntó y no compró. Muchos regalos se compran «el lunes después»."
     },
     {
      "role": "stat",
      "h": "Hoy es exactamente el día para el que existe Qolca.",
-     "b": "Un asistente que responde lo repetitivo al instante, deriva lo serio a tu equipo y registra a cada interesado sin que nadie apunte nada. Construido a medida, empezando por algo chico y medible."
+     "b": "Un asistente que responde lo repetitivo, deriva lo serio y registra a cada interesado."
     },
     {
      "role": "cta",
@@ -594,22 +597,23 @@
     {
      "role": "value",
      "h": "Ayer no te compró por mil razones, casi ninguna es \"no quiere\"",
-     "b": "· Se le hizo tarde, no le respondieron a tiempo, lo dejó para después\n· El interés sigue ahí, enfriándose\n· Hoy vale más un mensaje tuyo que diez posts nuevos"
+     "b": "· Se le hizo tarde\n· No le respondieron\n· Lo dejó para después\n· El interés sigue ahí, enfriándose",
+     "emoji": "🥶"
     },
     {
      "role": "value",
      "h": "El mensaje del lunes, palabra por palabra",
-     "b": "\"Hola [nombre], ayer fue una locura, ¿te quedaste con ganas de [lo que preguntó]?. Sigue disponible y hoy sí te atiendo con calma.\" Cero presión, cero descuentos: solo la puerta abierta."
+     "b": "«¿Te quedaste con ganas de [lo que preguntó]? Sigue disponible y hoy sí te atiendo con calma.»"
     },
     {
      "role": "value",
      "h": "Manda hoy, no el jueves",
-     "b": "· Cada día que pasa el mensaje se vuelve más raro\n· Hoy es natural (\"ayer fue el día\"); el viernes es spam\n· La ventana de la cosecha dura 48 horas"
+     "b": "· Hoy es natural: «ayer fue el día»\n· El viernes ya es spam\n· La ventana dura 48 horas"
     },
     {
      "role": "stat",
      "h": "Con un CRM, esta lista se arma sola.",
-     "b": "Qolca registra a cada interesado del pico con lo que preguntó, y el lunes te entrega la lista lista, o manda el mensaje por ti, con tu voz y su nombre. Hablas directo con quien lo construye."
+     "b": "Qolca registra a cada interesado del pico y el lunes te entrega la lista, o manda el mensaje por ti."
     },
     {
      "role": "cta",
@@ -636,22 +640,22 @@
     {
      "role": "value",
      "h": "Columna 1: qué busca, con sus palabras",
-     "b": "· \"Camioneta automática, familiar, urgente\" vale oro\n· \"Interesado en autos\" no vale nada\n· Copia las palabras del cliente: son las que él quiere volver a escuchar"
+     "b": "· «Camioneta automática, familiar, urgente» vale oro\n· «Interesado en autos» no vale nada\n· Copia sus palabras"
     },
     {
      "role": "value",
      "h": "Columna 2: presupuesto y plazo (los suyos)",
-     "b": "· No es fisgonear: es dejar de ofrecerle lo que no puede o lo que no es para ahora\n· \"Para diciembre\" apuntado hoy es una venta programada, no un chat perdido"
+     "b": "· No es fisgonear: es dejar de ofrecer lo que no es para ahora\n· «Para diciembre» es una venta programada"
     },
     {
      "role": "value",
      "h": "Columna 3: próxima acción CON fecha",
-     "b": "· \"Llamarlo el 25 cuando llegue el modelo\", si la columna 3 está vacía, ese cliente no existe\n· Toda fila termina en una acción futura o se archiva con fecha de recontacto"
+     "b": "· «Llamarlo el 25 cuando llegue el modelo»\n· Si está vacía, ese cliente no existe\n· Toda fila termina en fecha"
     },
     {
      "role": "stat",
      "h": "Esto en un sistema se llama CRM, y se llena solo.",
-     "b": "· Qolca construye el tuyo: cada chat alimenta la ficha automáticamente y las \"próximas acciones\" te buscan a ti\n· Sirve igual para un lote de autos, una empresa de bodas o una inmobiliaria\n· Se empieza chico"
+     "b": "· Qolca lo construye: cada chat alimenta la ficha\n· Las próximas acciones te buscan a ti\n· Se empieza chico y medible"
     },
     {
      "role": "cta",
@@ -678,22 +682,22 @@
     {
      "role": "value",
      "h": "El caos no es exceso de clientes: es falta de estados",
-     "b": "· Odiseo sobrevivió a las sirenas con un sistema (cera y sogas), no con fuerza de voluntad\n· Tu bandeja necesita lo mismo: cada chat en un estado, cada estado con una acción"
+     "b": "Odiseo sobrevivió a las sirenas con un sistema, no con fuerza de voluntad."
     },
     {
      "role": "value",
-     "h": "Solo existen 3 estados: NUEVO, COTIZADO, CERRADO",
-     "b": "· NUEVO: nadie lo tocó (urgente)\n· COTIZADO: espera respuesta o seguimiento (tiene fecha)\n· CERRADO: ganado o archivado con motivo\n· Si un chat no está en ninguno, está perdido"
+     "h": "Solo existen tres estados",
+     "b": "· NUEVO: nadie lo tocó\n· COTIZADO: espera respuesta, con fecha\n· CERRADO: ganado o archivado con motivo"
     },
     {
      "role": "value",
      "h": "Se implementa con etiquetas de WhatsApp en 15 minutos",
-     "b": "· Crea las 3 etiquetas, recorre tu bandeja de arriba a abajo una sola vez y clasifica\n· Duele media hora\n· Desde mañana, tu día empieza por NUEVO y sigue por COTIZADO con fecha vencida"
+     "b": "· Crea las 3 etiquetas\n· Recorre tu bandeja una sola vez\n· Duele media hora, y ya"
     },
     {
      "role": "stat",
      "h": "Un embudo que se ordena solo, sin gritos.",
-     "b": "Qolca construye ese embudo en serio: cada conversación entra, se clasifica y avanza sola de estado, y tú ves en una pantalla qué hay en cada etapa. Hablas directo con quien lo construye."
+     "b": "Qolca construye ese embudo en serio: cada conversación entra, se clasifica y avanza sola."
     },
     {
      "role": "cta",
@@ -735,7 +739,7 @@
     {
      "role": "stat",
      "h": "Un CRM convierte los 90 días en una alarma",
-     "b": "Qolca construye tu base de clientes con ciclos y fechas: cuando a alguien le toca, el sistema te avisa con la excusa real lista. O le escribe por ti, con tu voz."
+     "b": "Qolca construye tu base con ciclos y fechas: cuando a alguien le toca, el sistema te avisa."
     },
     {
      "role": "cta",
@@ -763,17 +767,17 @@
     {
      "role": "value",
      "h": "Regla 1: un chat por cliente, no por conversación",
-     "b": "· Todo lo del mismo cliente en un solo hilo, nada de \"te escribo del otro número\"\n· Y el dato importante (fecha, monto acordado, dirección) se FIJA en el chat para no bucearlo después"
+     "b": "· Todo del mismo cliente, en un solo hilo\n· Fecha, monto y dirección FIJADOS en el chat"
     },
     {
      "role": "value",
      "h": "Regla 2: lo acordado se confirma por escrito al toque",
-     "b": "\"Quedamos entonces: sábado 20, 4pm, 80 personas ¿correcto?\", diez segundos que evitan casi todos los malentendidos. Si no está escrito y confirmado, no existe."
+     "b": "«Quedamos: sábado 20, 4pm, 80 personas. ¿Correcto?» Si no está escrito, no existe."
     },
     {
      "role": "value",
      "h": "Regla 3: los pendientes viven en una lista, no en tu cabeza",
-     "b": "· Al cerrar cada conversación: ¿quedó algo por hacer?\n· Va a la ficha con fecha\n· La cabeza es para atender bien, no para almacenar promesas"
+     "b": "· ¿Quedó algo por hacer?\n· Va a la ficha, con fecha\n· La cabeza es para atender, no para almacenar"
     },
     {
      "role": "recap"
@@ -781,7 +785,7 @@
     {
      "role": "stat",
      "h": "Coordinar sin perder nada: eso construimos.",
-     "b": "Qolca arma sistemas donde cada cliente tiene su ficha, sus acuerdos y sus pendientes con fecha, para lotes de autos, bodas y eventos, inmobiliarias o cualquier negocio que viva coordinando. Hablas directo con quien lo construye."
+     "b": "Qolca arma sistemas donde cada cliente tiene su ficha, sus acuerdos y sus pendientes con fecha."
     },
     {
      "role": "cta",
@@ -823,7 +827,7 @@
     {
      "role": "stat",
      "h": "Y si quieres que además converse",
-     "b": "Qolca convierte ese mensaje en un asistente que responde lo de siempre de verdad, agenda para mañana y deriva lo serio a tu equipo apenas amanece."
+     "b": "Qolca convierte ese mensaje en un asistente que responde de verdad, agenda y deriva lo serio."
     },
     {
      "role": "cta",
@@ -851,22 +855,23 @@
     {
      "role": "value",
      "h": "De noche escriben los decididos",
-     "b": "· El que escribe a las 11pm ya comparó todo el día, ya convenció a la esposa, ya sacó cuentas\n· No está \"viendo opciones\": está eligiendo a quién comprarle mañana temprano"
+     "b": "· Ya comparó todo el día\n· Ya convenció a la esposa\n· No está viendo opciones: está eligiendo"
     },
     {
      "role": "value",
      "h": "Pasa en todos los rubros a la vez",
-     "b": "· El papá que vio la camioneta después de acostar a los hijos\n· La pareja que arma la boda un domingo en la noche\n· La familia que encontró el depa en el portal a las 10\n· La noche decide"
+     "b": "· El papá que vio la camioneta ya de noche\n· La pareja que arma la boda el domingo\n· La familia que encontró el depa a las 10"
     },
     {
      "role": "value",
      "h": "La señal de vida nocturna cambia el resultado de la mañana",
-     "b": "· Si a las 11:02 recibe respuesta útil y \"mañana a las 9 te llama Renzo\", a las 7am tu negocio es EL plan\n· Si recibió silencio, a las 7am sigue comparando"
+     "b": "Si a las 11:02 recibe respuesta y «mañana a las 9 te llama Renzo», a las 7am eres EL plan.",
+     "emoji": "🙌"
     },
     {
      "role": "stat",
      "h": "Un asistente nocturno que agenda la mañana.",
-     "b": "Qolca construye asistentes que atienden de noche: responden lo esencial con la verdad, toman el dato y dejan la llamada de las 9am agendada para tu equipo. Derivan a humano apenas amanece."
+     "b": "Qolca construye asistentes que atienden de noche, toman el dato y dejan la llamada agendada."
     },
     {
      "role": "cta",
@@ -893,17 +898,17 @@
     {
      "role": "value",
      "h": "El repaso del lunes: 3 pasadas, 20 minutos",
-     "b": "· Pasada 1: responde TODO lo nuevo del finde (aunque sea acuse)\n· Pasada 2: los \"cotizado\" con fecha vencida reciben su seguimiento\n· Pasada 3: cierra o archiva lo que ya murió, con motivo"
+     "b": "· Pasada 1: responde todo lo nuevo\n· Pasada 2: los cotizados vencidos\n· Pasada 3: cierra o archiva lo muerto"
     },
     {
      "role": "value",
      "h": "Archivar también es vender",
-     "b": "· \"Cerrado: compró en otro lado\" o \"archivado: recontactar en octubre\" limpia la bandeja Y alimenta tu ficha\n· La bandeja infinita donde nada se cierra es la razón por la que todo se pierde"
+     "b": "«Cerrado: compró en otro lado», «recontactar en octubre». La bandeja infinita es por qué todo se pierde."
     },
     {
      "role": "stat",
      "h": "O ten un lunes donde nada quedó del finde.",
-     "b": "Los negocios con Qolca llegan al lunes con el finde ya atendido: el asistente respondió, registró y agendó, y el repaso de 20 minutos es solo revisar lo importante. Hablas directo con quien lo construye."
+     "b": "Los negocios con Qolca llegan al lunes con el finde ya atendido: respondido, registrado y agendado."
     },
     {
      "role": "cta",
@@ -930,17 +935,17 @@
     {
      "role": "value",
      "h": "Toda cotización nace con su fecha de seguimiento",
-     "b": "· En el momento de enviarla, decide: ¿cuándo la persigo?\n· 24-48h para compras chicas; una semana para decisiones grandes\n· Se apunta en la ficha o se etiqueta, nunca \"cuando me acuerde\""
+     "b": "· 24 a 48 horas para compras chicas\n· Una semana para decisiones grandes\n· Nunca «cuando me acuerde»"
     },
     {
      "role": "value",
      "h": "El seguimiento no repite el precio: agrega una razón",
-     "b": "· \"¿Pudiste revisarlo?. Te cuento que [dato útil nuevo: queda uno, llega otro color, puedo incluir X]\"\n· Perseguir con las manos vacías aburre; perseguir con novedad reabre"
+     "b": "· «¿Pudiste revisarlo? Queda uno, llega otro color»\n· Perseguir con las manos vacías aburre"
     },
     {
      "role": "value",
      "h": "A la tercera sin respuesta, se archiva con dignidad",
-     "b": "\"Te dejo de escribir para no molestar, cualquier cosa aquí estoy.\" Profesional, deja la puerta abierta, y tu embudo queda limpio para los que sí están decidiendo."
+     "b": "«Te dejo de escribir para no molestar, cualquier cosa aquí estoy.»"
     },
     {
      "role": "recap"
@@ -948,7 +953,7 @@
     {
      "role": "stat",
      "h": "Que ninguna cotización muera sin pelear.",
-     "b": "Qolca registra cada cotización con su fecha y dispara los seguimientos, con tu voz, con contexto, sabiendo cuándo insistir y cuándo archivar. Empezamos por algo chico y medible."
+     "b": "Qolca registra cada cotización con su fecha y dispara los seguimientos, con tu voz."
     },
     {
      "role": "cta",
@@ -975,17 +980,17 @@
     {
      "role": "value",
      "h": "El recordatorio de 24 horas, con pregunta",
-     "b": "· \"Hola [nombre], mañana 4pm te esperamos para [la cita]. ¿Confirmamos?\", la pregunta es la clave: obliga una respuesta\n· El que confirma, viene\n· El que duda, reagenda HOY y no mañana"
+     "b": "«Mañana 4pm te esperamos. ¿Confirmamos?» La pregunta obliga respuesta: el que duda, reagenda hoy."
     },
     {
      "role": "value",
      "h": "El de 2 horas, solo logística",
-     "b": "· \"¡Nos vemos a las 4!. Te dejo la ubicación: [pin]. Cualquier cosa me escribes.\" Corto, útil, imposible de malinterpretar\n· Dos mensajes en total, más es acoso, menos es ruleta"
+     "b": "«¡Nos vemos a las 4! Te dejo la ubicación: [pin].» Dos mensajes en total, ni uno más."
     },
     {
      "role": "stat",
      "h": "Recordatorios que se mandan solos, citas que sí pasan.",
-     "b": "Qolca agenda cada cita con sus 2 recordatorios automáticos y te avisa quién confirmó y quién no, para reagendar a tiempo en vez de esperar parado. Hablas directo con quien lo construye."
+     "b": "Qolca agenda cada cita con sus 2 recordatorios y te avisa quién confirmó y quién no."
     },
     {
      "role": "cta",
@@ -1028,7 +1033,7 @@
     {
      "role": "stat",
      "h": "O que el feriado atienda solo",
-     "b": "Los negocios con asistente de Qolca no eligen entre descansar y vender: el sistema responde lo de siempre, anota al interesado y agenda el lunes."
+     "b": "Con el asistente de Qolca no eliges entre descansar y vender: responde, anota y agenda el lunes."
     },
     {
      "role": "cta",
@@ -1055,22 +1060,22 @@
     {
      "role": "value",
      "h": "Compruébalo: escríbele a tres negocios de tu rubro hoy",
-     "b": "· Cuenta cuántos responden y cuántos ni avisan que están cerrados\n· El que da CUALQUIER señal de vida ese día atiende en una cancha vacía"
+     "b": "· Cuenta cuántos responden\n· Cuántos ni avisan que cerraron\n· El que da señal juega en cancha vacía"
     },
     {
      "role": "value",
      "h": "Señal de vida mínima: 2 repasos de 10 minutos",
-     "b": "· Uno a mediodía, uno a las 7pm\n· Solo acuses y respuestas rápidas, nada de trabajar el feriado completo\n· Veinte minutos que te ponen primero en la fila del lunes"
+     "b": "· Uno a mediodía, uno a las 7pm\n· Solo acuses y respuestas rápidas\n· Veinte minutos, no el feriado entero"
     },
     {
      "role": "value",
      "h": "Y todo lo del feriado se cosecha el lunes temprano",
-     "b": "Los chats del domingo son compradores de semana: respondieron su duda, quedaron agendados, y el lunes a las 9 reciben el \"como te prometí\". La venta se siente atendida desde el día 1."
+     "b": "Los chats del domingo son compradores de semana: el lunes a las 9 reciben el «como te prometí»."
     },
     {
      "role": "stat",
      "h": "La señal de vida puede no costarte el descanso.",
-     "b": "· Qolca deja un asistente de guardia: responde, captura el dato, agenda el lunes\n· Tú descansas de verdad y tu negocio nunca entró al limbo\n· Hablas directo con quien lo construye"
+     "b": "· Qolca deja un asistente de guardia\n· Responde, captura el dato, agenda el lunes\n· Tú descansas de verdad"
     },
     {
      "role": "cta",
@@ -1112,7 +1117,7 @@
     {
      "role": "stat",
      "h": "Un asistente también puede sonar a ti",
-     "b": "Qolca escribe contigo las respuestas de tu asistente: tu tono, tus palabras, tus huecos personales, para que responder rápido nunca suene a máquina."
+     "b": "Qolca escribe contigo las respuestas de tu asistente: tu tono, tus palabras, tus huecos personales."
     },
     {
      "role": "cta",
@@ -1140,17 +1145,17 @@
     {
      "role": "value",
      "h": "El deseo del negocio se escribe distinto",
-     "b": "En el pozo se tira una carta; en tu negocio el \"deseo\" (vender más, perder menos) se convierte en sistema: la ficha, el embudo, el seguimiento. Los deseos con método se cumplen solos."
+     "b": "El deseo (vender más, perder menos) se convierte en sistema: la ficha, el embudo, el seguimiento."
     },
     {
      "role": "value",
      "h": "Mañana lunes: la doble cosecha",
-     "b": "· Chats del feriado + cotizaciones de la semana con fecha vencida\n· Empieza el día con las 3 pasadas de 20 minutos y agosto cierra con la bandeja limpia"
+     "b": "· Chats del feriado\n· Cotizaciones con fecha vencida\n· Las 3 pasadas de 20 minutos"
     },
     {
      "role": "stat",
      "h": "Nuestro deseo es fácil de adivinar.",
-     "b": "Que ningún negocio peruano pierda ventas por un chat sin responder. Qolca construye el CRM y el asistente que lo hacen realidad, empezando por algo chico y medible, hablando directo con quien lo construye."
+     "b": "Que ningún negocio peruano pierda ventas por un chat sin responder. Qolca construye el CRM que lo evita."
     },
     {
      "role": "cta",
@@ -1178,12 +1183,12 @@
     {
      "role": "value",
      "h": "La cuenta se hace en 10 minutos y sin excusas",
-     "b": "Abre tu WhatsApp y cuenta: chats de agosto donde un interesado preguntó y la conversación murió sin un sí, un no o un seguimiento. Ese número × tu ticket promedio. Tu cifra, no la nuestra."
+     "b": "Cuenta los chats de agosto que murieron sin un sí, un no o un seguimiento. Ese número por tu ticket."
     },
     {
      "role": "value",
      "h": "Septiembre empieza con 3 hábitos, no con 30",
-     "b": "El acuse de 1 minuto. Las 3 etiquetas (nuevo/cotizado/cerrado). El repaso del lunes. Solo eso, 4 semanas. El mes que viene, vuelve a hacer la cuenta y compara."
+     "b": "· El acuse de 1 minuto\n· Las 3 etiquetas\n· El repaso del lunes\n· Solo eso, 4 semanas"
     },
     {
      "role": "recap"
@@ -1191,7 +1196,7 @@
     {
      "role": "stat",
      "h": "O deja que el sistema se encargue desde el día 1.",
-     "b": "· Qolca construye tu CRM con esos hábitos incorporados: nada queda sin toque, sin estado ni sin fecha\n· Empezamos por algo chico y medible, y la cuenta de fin de mes la ves en una pantalla"
+     "b": "· Qolca construye tu CRM con esos hábitos dentro\n· Nada queda sin toque, sin estado ni sin fecha\n· Se empieza chico y medible"
     },
     {
      "role": "cta",

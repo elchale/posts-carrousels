@@ -1,4 +1,4 @@
-# GUÍA DE SUBIDA — Radar Estatal
+# GUÍA DE SUBIDA — radarestatal
 
 Cada post vive en `out/<serie>/<post>/` y contiene:
 
@@ -16,10 +16,8 @@ Cada post vive en `out/<serie>/<post>/` y contiene:
 3. **TikTok**: agrega un **sonido en tendencia** ANTES de publicar — el audio
    es parte de la distribución incluso en fotos. Sin sonido no hay alcance.
 4. **Facebook**: caption propio (conversacional, con pregunta), SIN hashtags.
-5. **LinkedIn**: esta marca SÍ es de LinkedIn (dueños de MYPE y licitadores
-   viven ahí) — el mismo carrusel funciona como document post.
-6. **Después de publicar**: quédate 30 minutos respondiendo comentarios y
+5. **Después de publicar**: quédate 30 minutos respondiendo comentarios y
    mensajes. La primera hora decide la distribución.
-7. **Cadencia**: 1 carrusel al día. Constancia > volumen.
-8. **Cada primer lunes**: revisa envíos y guardados por post. Lo que vuela se
+6. **Cadencia**: 1 carrusel al día. Constancia > volumen.
+7. **Cada primer lunes**: revisa envíos y guardados por post. Lo que vuela se
    repite; lo que no, se corta.

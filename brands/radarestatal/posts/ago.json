@@ -15,23 +15,23 @@
     {
      "role": "value",
      "h": "Así se pierde una venta al Estado",
-     "b": "El proceso de tu rubro salió hace dos semanas, la ventana de consultas ya cerró y la buena pro se la llevó otro. Te enteraste tarde, otra vez."
+     "b": "El proceso salió hace dos semanas, las consultas ya cerraron y la buena pro se la llevó otro."
     },
     {
      "role": "value",
      "shot": "shot-feed.png",
      "h": "Esto es Radar Estatal",
-     "b": "El feed del SEACE filtrado a tu rubro, gratis y sin cuenta. Los procesos te llegan solos, el día uno."
+     "b": "El feed del SEACE filtrado a tu rubro, gratis y sin cuenta. Los procesos llegan solos."
     },
     {
      "role": "value",
      "h": "Lo que hace por tu empresa",
-     "b": "Feed gratis de procesos del SEACE\nIA que recomienda los que te convienen\nCompetidores investigados por RUC"
+     "b": "· Feed gratis de procesos del SEACE\n· IA que recomienda los que te convienen\n· Competidores investigados por RUC"
     },
     {
      "role": "value",
      "h": "Empieza con tu rubro, hoy",
-     "b": "Entra, escribe lo que vendes y mira lo que el Estado está comprando ahora mismo. Más de 200 mil procesos en datos abiertos, organizados."
+     "b": "Entra, escribe lo que vendes y mira lo que el Estado está comprando ahora mismo."
     },
     {
      "role": "cta",
@@ -59,17 +59,17 @@
     {
      "role": "value",
      "h": "Paso 1: busca por lo que vendes",
-     "b": "En el buscador de procesos del SEACE escribe la palabra de tu rubro (limpieza, imprenta, ferretería), filtra tu región y ordena por fecha de convocatoria. Lo nuevo queda arriba."
+     "b": "· Escribe la palabra de tu rubro\n· Filtra tu región\n· Ordena por fecha de convocatoria"
     },
     {
      "role": "value",
      "h": "Paso 2: mira solo dos campos",
-     "b": "El objeto de contratación, ¿es exactamente lo que vendes? Y el valor estimado (valor referencial si es obra o consultoría), ¿está a tu escala? Si ambos calzan, recién abres las bases."
+     "b": "· ¿El objeto de contratación es lo que vendes?\n· ¿El valor estimado está a tu escala?\n· En obras y consultoría, el referencial"
     },
     {
      "role": "value",
      "h": "Paso 3: repite la misma búsqueda",
-     "b": "Las convocatorias salen todos los días hábiles. Dos revisadas fijas por semana, con la búsqueda idéntica, bastan para que lo nuevo salte solo."
+     "b": "Salen todos los días hábiles. Dos revisadas fijas por semana, con la búsqueda idéntica."
     },
     {
      "role": "recap"
@@ -78,7 +78,7 @@
      "role": "stat",
      "shot": "shot-feed.png",
      "h": "O deja que un «radar» busque por ti",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC. Los que ya lo usan reciben lo suyo sin buscarlo."
+     "b": "Radar Estatal (radarestatal.pe) vigila el SEACE por ti: los procesos de tu rubro llegan solos."
     },
     {
      "role": "cta",
@@ -106,7 +106,7 @@
     {
      "role": "value",
      "h": "Se llaman datos abiertos",
-     "b": "El OECE publica las contrataciones del Estado como datos abiertos: qué entidad convocó, qué compró, por cuánto y a quién se lo adjudicó. Sin cuenta y sin pedir permiso a nadie."
+     "b": "El OECE publica qué entidad convocó, qué compró, por cuánto y a quién se lo adjudicó."
     },
     {
      "role": "value",
@@ -116,13 +116,13 @@
     {
      "role": "value",
      "h": "Empieza chico: un rubro, un año",
-     "b": "Filtra tu palabra clave y el último año. Con eso ya tienes tu mapa de entidades y de rivales. El resto de la base es de otros rubros."
+     "b": "Filtra tu palabra clave y el último año: ahí está tu mapa de entidades y de rivales."
     },
     {
      "role": "stat",
      "shot": "shot-datos.png",
      "h": "Nosotros vivimos de esa base",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Más de 200 mil procesos de datos abiertos OECE organizados, feed gratis del SEACE e investigación de competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe): más de 200 mil procesos de datos abiertos OECE, organizados."
     },
     {
      "role": "cta",
@@ -150,17 +150,17 @@
     {
      "role": "value",
      "h": "Fuente 1: sus adjudicaciones",
-     "b": "En el SEACE buscas por RUC y ves qué procesos ganó tu competidor, con qué entidades y desde cuándo. Los montos adjudicados también son públicos: míralos tú mismo."
+     "b": "Busca por RUC: qué procesos ganó, con qué entidades y desde cuándo. Los montos también son públicos."
     },
     {
      "role": "value",
      "h": "Fuente 2: su ficha RNP",
-     "b": "El Registro Nacional de Proveedores muestra en qué registros está inscrito y desde cuándo. Una inscripción nueva en tu rubro significa que está entrando a tu cancha."
+     "b": "El RNP muestra en qué registros está inscrito. Una inscripción nueva en tu rubro es competencia entrando."
     },
     {
      "role": "value",
      "h": "Fuente 3: el pliego absolutorio",
-     "b": "En un proceso abierto solo los participantes registrados pueden consultar, y el pliego publica esas consultas con el nombre de quien las hizo. Son tus posibles competidores: registrarse no obliga a presentar oferta."
+     "b": "Solo los participantes registrados pueden consultar, y el pliego publica esas consultas con nombre."
     },
     {
      "role": "recap"
@@ -169,7 +169,7 @@
      "role": "stat",
      "shot": "shot-herramientas.png",
      "h": "Las tres fuentes, sin abrir un PDF",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe) reúne las tres: adjudicaciones, RNP y competidores por RUC."
     },
     {
      "role": "cta",
@@ -197,7 +197,8 @@
     {
      "role": "value",
      "h": "El error clásico: ilusionarse primero",
-     "b": "Una semana armando la oferta y recién ahí descubres que pedían experiencia que no tienes. Las bases se leen al revés: primero lo que te descalifica."
+     "b": "Una semana armando la oferta para descubrir que pedían experiencia que no tienes.",
+     "emoji": "😖"
     },
     {
      "role": "value",
@@ -207,7 +208,7 @@
     {
      "role": "value",
      "h": "El semáforo de cinco minutos",
-     "b": "Abre los requisitos de calificación y marca: ¿cumplo los cuatro? Todo verde, sigue. Un rojo, siguiente proceso. No era el tuyo. Cinco minutos que salvan semanas."
+     "b": "· ¿Cumples los cuatro?\n· Todo verde, sigue\n· Un rojo, siguiente proceso"
     },
     {
      "role": "recap"
@@ -215,7 +216,7 @@
     {
      "role": "stat",
      "h": "El «radar» te muestra requisitos antes de ilusionarte",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE y una IA que te dice qué procesos le convienen a tu empresa según lo que sí cumples."
+     "b": "Radar Estatal (radarestatal.pe): una IA que te dice qué procesos le convienen a tu empresa."
     },
     {
      "role": "cta",
@@ -243,20 +244,20 @@
     {
      "role": "value",
      "h": "Elige bien tu registro",
-     "b": "Bienes, servicios u obras (ejecutor o consultor). Puedes tener más de uno. La regla: inscríbete en lo que de verdad vendes. El registro equivocado descalifica igual que no tenerlo."
+     "b": "Bienes, servicios u obras. Inscríbete en lo que de verdad vendes: el registro equivocado descalifica."
     },
     {
      "role": "value",
      "h": "El trámite, resumido",
-     "b": "RUC activo y habido, usuario en la plataforma del RNP, solicitud del registro que te toca y constancia. Todo en línea."
+     "b": "· RUC activo y habido\n· Usuario en la plataforma del RNP\n· Solicitud del registro que te toca"
     },
     {
      "role": "recap"
     },
     {
      "role": "stat",
-     "h": "Con el RNP listo, el «radar» hace el resto",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC.",
+     "h": "Ya inscrito, empieza la caza",
+     "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE apenas tu registro esté listo.",
      "shot": "shot-datos.png"
     },
     {
@@ -284,23 +285,23 @@
     },
     {
      "role": "value",
-     "h": "Desierto: nadie levantó la mano",
-     "b": "Un proceso queda desierto cuando nadie postula o ninguna oferta califica. Pasa todos los meses y en todos los rubros, y queda registrado en los datos abiertos del OECE."
+     "h": "Nadie levantó la mano",
+     "b": "Queda desierto cuando nadie postula o ninguna oferta califica. Y queda registrado en el OECE."
     },
     {
      "role": "value",
      "h": "¿Arreglado? Los datos dicen «desatendido»",
-     "b": "Un desierto no prueba una conspiración: prueba que nadie llegó. Nadie se enteró a tiempo, los requisitos se leyeron mal, el plazo quedó corto. El problema suele ser información."
+     "b": "Un desierto no prueba una conspiración: prueba que nadie llegó. Casi siempre falta información."
     },
     {
      "role": "value",
      "h": "La segunda convocatoria es tu amiga",
-     "b": "Un desierto se reconvoca: misma necesidad, historia conocida y menos competencia. Ubica los procesos de tu rubro cuya primera convocatoria quedó desierta y llega temprano a la segunda."
+     "b": "Se reconvoca: misma necesidad, menos competencia. Ubica los desiertos de tu rubro y llega temprano."
     },
     {
      "role": "stat",
-     "h": "El «radar» te avisa los desiertos de tu rubro",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC. Más de 200 mil procesos en datos abiertos OECE."
+     "h": "La segunda llamada no se anuncia sola",
+     "b": "Radar Estatal (radarestatal.pe) te avisa cuando un proceso de tu rubro se reconvoca."
     },
     {
      "role": "cta",
@@ -344,7 +345,7 @@
      "role": "stat",
      "shot": "shot-feed.png",
      "h": "El «radar» te resume lo importante primero",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE y una IA que lee lo pesado."
+     "b": "Radar Estatal (radarestatal.pe): el feed del SEACE y una IA que lee lo pesado por ti."
     },
     {
      "role": "cta",
@@ -372,12 +373,12 @@
     {
      "role": "value",
      "h": "Solo los participantes pueden preguntar",
-     "b": "Antes de presentar ofertas hay una etapa de consultas y observaciones, y solo quien se registró como participante puede usarla. Por eso el pliego sale con nombres."
+     "b": "Antes de las ofertas hay una etapa de consultas, y solo los participantes registrados la usan."
     },
     {
      "role": "value",
      "h": "Son posibles rivales, no una lista de postores",
-     "b": "Registrarse no obliga a presentar oferta, y alguien que nunca consultó puede aparecer el último día. Nadie sabe quién postulará hasta que se presentan las ofertas. Esto es la mejor pista disponible, no una certeza."
+     "b": "Registrarse no obliga a presentar oferta. Nadie sabe quién postulará: es la mejor pista, no una certeza."
     },
     {
      "role": "value",
@@ -387,7 +388,7 @@
     {
      "role": "value",
      "h": "Dónde lo encuentras",
-     "b": "En el expediente del proceso en el SEACE, según las fechas del cronograma: el pliego absolutorio de consultas y observaciones. Se descarga gratis, como todo lo demás."
+     "b": "En el expediente del proceso en el SEACE: el pliego absolutorio. Se descarga gratis."
     },
     {
      "role": "recap"
@@ -395,7 +396,7 @@
     {
      "role": "stat",
      "h": "Con «radar», los posibles rivales se ven venir",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe) investiga competidores por RUC y vigila el SEACE por ti."
     },
     {
      "role": "cta",
@@ -423,12 +424,12 @@
     {
      "role": "value",
      "h": "Tu rubro tiene historial público",
-     "b": "Busca por objeto de contratación con la palabra de tu rubro y filtra por fechas: ahí está cuántos procesos salieron el último mes y qué entidades los convocaron."
+     "b": "Busca por objeto de contratación y filtra por fechas: cuántos procesos salieron y qué entidades."
     },
     {
      "role": "value",
      "h": "Identifica a las que repiten",
-     "b": "Hay entidades que compran tu rubro cada cierto tiempo. Colegios, hospitales, municipios. Apúntalas: son tu cartera natural, y sus próximas convocatorias se parecen a las pasadas."
+     "b": "Colegios, hospitales, municipios: hay entidades que compran tu rubro cada cierto tiempo. Apúntalas."
     },
     {
      "role": "recap"
@@ -436,7 +437,7 @@
     {
      "role": "stat",
      "h": "El «radar» conoce tu tajada",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC.",
+     "b": "Radar Estatal (radarestatal.pe) sigue a las entidades que compran lo tuyo y te avisa.",
      "shot": "shot-herramientas.png"
     },
     {
@@ -465,17 +466,17 @@
     {
      "role": "value",
      "h": "Consulta u observación",
-     "b": "La consulta aclara («¿el plazo incluye instalación?»). La observación cuestiona algo que podría incumplir la normativa. Ambas se presentan dentro del plazo del cronograma. Y son gratis."
+     "b": "· La consulta aclara: «¿el plazo incluye instalación?»\n· La observación cuestiona lo que incumple la norma\n· Ambas, dentro del cronograma"
     },
     {
      "role": "value",
      "h": "Redáctala concreta",
-     "b": "Cita el numeral exacto de las bases, plantea el problema y propone la corrección. Una consulta vaga recibe respuesta vaga; una precisa puede cambiar el proceso."
+     "b": "Cita el numeral exacto, plantea el problema y propone la corrección. La vaga recibe respuesta vaga."
     },
     {
      "role": "value",
      "h": "Lo que pasa después",
-     "b": "La entidad responde a todos en el pliego absolutorio y las bases pueden integrarse corregidas. Bonus: en ese pliego también ves quién más está preguntando. Tus posibles rivales, porque consultar no obliga a ofertar."
+     "b": "La entidad responde a todos en el pliego absolutorio y las bases pueden integrarse corregidas."
     },
     {
      "role": "recap"
@@ -483,7 +484,7 @@
     {
      "role": "stat",
      "h": "El «radar» te avisa cuándo abre la ventana",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe) te avisa el día que se abre el plazo de consultas."
     },
     {
      "role": "cta",
@@ -511,12 +512,12 @@
     {
      "role": "value",
      "h": "Las designaciones salen publicadas",
-     "b": "Cada nombramiento de un funcionario público se formaliza con una resolución que se publica en El Peruano. Quién entra, a qué cargo y desde cuándo: información oficial, abierta a cualquiera."
+     "b": "Cada nombramiento se formaliza con una resolución publicada en El Peruano: quién entra y desde cuándo."
     },
     {
      "role": "value",
      "h": "Por qué importa si le vendes a esa entidad",
-     "b": "El área que convoca y aprueba tus procesos tiene responsables con nombre. Un cambio de titular puede venir con cambios de prioridades, de ritmo y de criterios en las bases nuevas."
+     "b": "Un cambio de titular puede venir con cambios de prioridades, de ritmo y de criterios en las bases."
     },
     {
      "role": "value",
@@ -525,8 +526,8 @@
     },
     {
      "role": "stat",
-     "h": "Radar Estatal también te avisa de esto",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Además del feed gratis del SEACE, te avisa cuando designan a un funcionario en las entidades que sigues."
+     "h": "El dato te llega el mismo día",
+     "b": "Radar Estatal (radarestatal.pe) te avisa cuando designan a un funcionario en las entidades que sigues."
     },
     {
      "role": "cta",
@@ -554,12 +555,12 @@
     {
      "role": "value",
      "h": "Lo cotidiano también se licita",
-     "b": "Útiles de oficina, mantenimiento, catering, imprenta, transporte, limpieza. El Estado compra exactamente lo que las MYPEs venden. Todos los días hábiles del año."
+     "b": "Útiles, mantenimiento, catering, imprenta, transporte, limpieza. El Estado compra lo que las MYPE venden."
     },
     {
      "role": "value",
      "h": "Compite en tu categoría de peso",
-     "b": "Filtra por valor estimado a tu escala. Un proceso gigante no es «la gran oportunidad»: es una descalificación con pasos previos. El de tu talla sí se gana."
+     "b": "Filtra por valor estimado a tu escala. El proceso gigante es una descalificación con pasos previos."
     },
     {
      "role": "recap"
@@ -567,7 +568,7 @@
     {
      "role": "stat",
      "h": "El «radar» filtra por tu talla solo",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE y una IA que recomienda procesos según lo que tu empresa realmente puede cumplir."
+     "b": "Radar Estatal (radarestatal.pe): una IA que recomienda procesos según lo que tu empresa puede cumplir."
     },
     {
      "role": "cta",
@@ -595,25 +596,25 @@
     {
      "role": "value",
      "h": "Busca su RUC",
-     "b": "En el SEACE, la búsqueda por RUC te muestra los procesos donde participó cualquier empresa: cuáles ganó, cuáles perdió y con qué entidades trabaja."
+     "b": "La búsqueda por RUC muestra en qué procesos participó: cuáles ganó, cuáles perdió y con qué entidades."
     },
     {
      "role": "value",
      "h": "Lee su cartera completa",
-     "b": "Qué rubros vende, desde cuándo, con qué frecuencia gana. Los montos adjudicados son públicos: revísalos tú mismo. Sin espías y sin favores."
+     "b": "Qué rubros vende, desde cuándo y con qué frecuencia gana. Los montos adjudicados son públicos."
     },
     {
      "role": "value",
      "h": "Conviértelo en decisiones",
-     "b": "¿Dónde postula él y tú no? ¿Qué entidades ya compran tu rubro? ¿Contra quién pierdes siempre? Cada respuesta cambia tu próxima oferta. Y recuerda: tu RUC también lo leen."
+     "b": "· ¿Dónde postula él y tú no?\n· ¿Contra quién pierdes siempre?\n· Tu RUC también lo leen"
     },
     {
      "role": "recap"
     },
     {
      "role": "stat",
-     "h": "El dossier del rival, en un solo lugar",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC.",
+     "h": "Sin abrir diez pestañas",
+     "b": "Radar Estatal (radarestatal.pe) arma ese dossier por RUC en un solo lugar.",
      "shot": "shot-feed.png"
     },
     {
@@ -642,17 +643,17 @@
     {
      "role": "value",
      "h": "Qué es un consorcio",
-     "b": "Dos o más empresas presentan una sola oferta con una promesa formal de consorcio. No necesitas crear una empresa nueva: se formaliza si ganan la buena pro."
+     "b": "Dos o más empresas presentan una sola oferta con promesa formal de consorcio. Se formaliza si ganan."
     },
     {
      "role": "value",
      "h": "Cuándo conviene",
-     "b": "Tú tienes la experiencia y el otro la capacidad de entrega. O al revés. Juntos cumplen requisitos que separados los dejaban fuera. Así entran los chicos a procesos medianos."
+     "b": "Tú tienes la experiencia y el otro la capacidad de entrega. Juntos cumplen lo que separados no."
     },
     {
      "role": "value",
      "h": "Los errores que lo arruinan",
-     "b": "Armarlo el último día. No definir porcentajes de participación. Asumir que toda la experiencia se suma. Cómo se acredita en consorcio lo dicen las bases: léelo antes de prometer."
+     "b": "· Armarlo el último día\n· No definir porcentajes\n· Asumir que la experiencia se suma\n· Léelo en las bases antes"
     },
     {
      "role": "recap"
@@ -660,7 +661,7 @@
     {
      "role": "stat",
      "h": "El «radar» también te muestra a tu futuro socio",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe) te muestra por RUC quién ya trabaja en tu rubro."
     },
     {
      "role": "cta",
@@ -688,12 +689,12 @@
     {
      "role": "value",
      "h": "Lo que ya es un hecho",
-     "b": "La Ley 32069 es la nueva ley de contrataciones públicas del Perú, y el OSCE ahora es OECE. Postular con reflejos de la ley antigua produce errores de forma. Y descalifican igual que los de fondo."
+     "b": "La Ley 32069 es la nueva ley de contrataciones y el OSCE ahora es OECE. Los errores de forma descalifican."
     },
     {
      "role": "value",
      "h": "Cómo estar al día sin ser abogado",
-     "b": "Antes de postular mira qué norma citan las bases, verifica en el portal del OECE y usa la etapa de consultas para despejar dudas del proceso concreto. Para eso existe."
+     "b": "· Mira qué norma citan las bases\n· Verifica en el portal del OECE\n· Usa la etapa de consultas"
     },
     {
      "role": "recap"
@@ -701,7 +702,7 @@
     {
      "role": "stat",
      "h": "El «radar» habla el idioma nuevo",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC.",
+     "b": "Radar Estatal (radarestatal.pe): el feed del SEACE, con el marco vigente al día.",
      "shot": "shot-herramientas.png"
     },
     {
@@ -718,46 +719,51 @@
    "alt": "Qué significa la Ley 32069 y el cambio de OSCE a OECE para una MYPE que vende al Estado."
   },
   {
-   "slug": "19-calendario-fiscal",
+   "slug": "19-cambio-de-jefe",
    "slides": [
     {
-     "role": "story",
-     "plate": "cine-10-amanecer",
-     "h": "El Estado compra con calendario y tú vendes sin uno",
-     "emoji": "📅"
+     "role": "cover",
+     "kicker": "DATO PÚBLICO",
+     "h": "Cambió el jefe del área que te compra",
+     "b": "y tu venta cambia con él",
+     "emoji": "🔁"
     },
     {
      "role": "value",
-     "h": "Rutina fija, no memoria",
-     "b": "Así no: mirar el SEACE «cuando me acuerdo»\nAsí sí: martes y jueves, 10 minutos fijos"
+     "h": "Lo primero: no asumas nada",
+     "b": "· Las prioridades pueden cambiar\n· El ritmo de convocatorias también\n· Quien te atendía ya no decide"
     },
     {
      "role": "value",
-     "h": "Ubica la temporada de tu rubro",
-     "b": "Así no: tratar todos los meses igual\nAsí sí: filtrar por fechas y ubicar tus picos"
+     "h": "Revisa las bases nuevas, no las viejas",
+     "b": "Los requisitos y formatos de esa entidad pueden moverse con el nuevo titular. Compara antes de copiar tu oferta anterior."
     },
     {
      "role": "value",
-     "h": "Prepárate antes, no durante",
-     "b": "Así no: sacar el RNP cuando salió el proceso\nAsí sí: carpeta lista antes del cierre del año"
+     "h": "Vuelve a mirar su calendario",
+     "b": "· ¿Retomó las convocatorias?\n· ¿Se reprogramaron fechas?\n· ¿Aparecieron procesos nuevos?"
+    },
+    {
+     "role": "recap"
     },
     {
      "role": "stat",
-     "h": "El «radar» conoce el calendario de memoria",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "shot": "shot-herramientas.png",
+     "h": "El aviso llega el mismo día",
+     "b": "Radar Estatal (radarestatal.pe) te avisa cuando designan a un funcionario en las entidades que sigues."
     },
     {
      "role": "cta",
-     "h": "El Estado tiene agenda. Cópiala.",
+     "h": "Cuando cambia quien decide, revisa todo.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "El Estado compra con calendario: el presupuesto es anual y vence el 31 de diciembre. Así no: mirar el SEACE cuando te acuerdas. Así sí: dos revisadas fijas por semana, temporada del rubro ubicada y carpeta lista antes del pico. Radar Estatal (radarestatal.pe). #licitaciones #SEACE #mype #contratacionesdelestado #peru",
-    "tt": "El Estado compra con calendario y tú vendes sin uno 📅 #licitaciones #SEACE #mype #peru",
-    "fb": "Las compras del Estado tienen ritmo: el presupuesto es anual y lo no ejecutado se pierde el 31 de diciembre. El proveedor sin calendario se entera tarde; el que copia la agenda del Estado prepara la carpeta antes del pico. radarestatal.pe vigila ese calendario por ti."
+    "ig": "Cambio de funcionario en una entidad del Estado: qué revisar si le vendes a esa entidad. Las designaciones se formalizan por resolución pública, y un cambio de titular puede mover prioridades, ritmo de convocatorias y criterios de las bases. Revisa las bases nuevas, no las del año pasado, y vuelve a mirar su calendario de procesos. Radar Estatal (radarestatal.pe) te avisa cuando designan a un funcionario en las entidades que sigues. #contratacionespublicas #seace #mype #proveedordelestado #peru",
+    "tt": "Cambió el jefe del área que te compra 🔁 qué revisar esta semana #seace #licitaciones #mype #peru",
+    "fb": "Si le vendes a una entidad del Estado, un cambio de funcionario no es un detalle: puede mover prioridades, fechas y criterios de las bases. Las designaciones son públicas y se formalizan por resolución. ¿Sabes quién dirige hoy el área que compra lo tuyo?"
    },
-   "alt": "Vender al Estado con calendario propio frente a mirar el SEACE de vez en cuando."
+   "alt": "Qué revisar cuando designan a un nuevo funcionario en la entidad a la que le vendes."
   },
   {
    "slug": "20-oferta-perdida",
@@ -772,12 +778,12 @@
     {
      "role": "value",
      "h": "Las cinco preguntas",
-     "b": "¿Cumplo los requisitos de calificación? ¿El plazo de entrega es real para mí? ¿Tengo la experiencia documentada? ¿Puedo cubrir la garantía? ¿Quiénes ya consultaron el proceso?"
+     "b": "· ¿Cumplo los requisitos de calificación?\n· ¿El plazo es real para mí?\n· ¿Tengo la experiencia documentada?\n· ¿Puedo cubrir la garantía?"
     },
     {
      "role": "value",
      "h": "Dos «no» y pasas al siguiente",
-     "b": "La regla es fría a propósito: con dos respuestas en contra, ese proceso no era el tuyo. No es rendirse. Es elegir donde sí puedes ganar."
+     "b": "Con dos respuestas en contra, ese proceso no era el tuyo. Es elegir dónde sí puedes ganar."
     },
     {
      "role": "recap"
@@ -785,7 +791,7 @@
     {
      "role": "stat",
      "h": "La IA del «radar» responde esas preguntas antes",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE y una IA que evalúa qué procesos le convienen a tu empresa antes de que gastes una semana en descubrirlo.",
+     "b": "Radar Estatal (radarestatal.pe): una IA que evalúa qué procesos te convienen antes de gastar la semana.",
      "shot": "shot-datos.png"
     },
     {
@@ -814,25 +820,25 @@
     {
      "role": "value",
      "h": "Qué te da el registro",
-     "b": "Registrarte como participante te habilita a presentar consultas y te pone dentro de la información del proceso: bases integradas, pliego absolutorio y cada cambio del cronograma."
+     "b": "Te habilita a presentar consultas y te mete en la información: bases integradas, pliego y cronograma."
     },
     {
      "role": "value",
      "h": "Es gratis y electrónico",
-     "b": "Se hace en el SEACE, desde el día siguiente a la convocatoria y hasta antes de que empiece la presentación de ofertas. Y no te obliga a presentar nada."
+     "b": "En el SEACE, desde el día siguiente a la convocatoria hasta antes de las ofertas. No te obliga a nada."
     },
     {
      "role": "value",
      "h": "Decide con el campo a la vista",
-     "b": "Quiénes más consultaron, qué pidieron corregir y cómo respondió la entidad. Con eso decides si presentas oferta. Con información, no con corazonada."
+     "b": "Quiénes más consultaron, qué pidieron corregir y cómo respondió la entidad."
     },
     {
      "role": "recap"
     },
     {
      "role": "stat",
-     "h": "El «radar» te avisa cuando abre la ventana",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "h": "El «radar» te encuentra el proceso el día uno",
+     "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE filtrado a tu rubro."
     },
     {
      "role": "cta",
@@ -860,17 +866,17 @@
     {
      "role": "value",
      "h": "Qué son las contrataciones menores",
-     "b": "Las compras de hasta 8 UIT quedan fuera del ámbito de la ley de contrataciones. No hay proceso de selección al que postular: la entidad pide cotizaciones y elige. Con la UIT de 2026 en S/ 5,500, el tope es S/ 44,000."
+     "b": "· Quedan fuera del ámbito de la ley\n· No hay proceso de selección: la entidad cotiza y elige\n· Con la UIT 2026 en S/ 5,500, el tope es S/ 44,000"
     },
     {
      "role": "value",
      "h": "Sí se publican, pero después",
-     "b": "Las entidades registran cada contrato menor: objeto, RUC del proveedor elegido, monto y fecha. Es el registro de lo ya comprado, no una convocatoria abierta."
+     "b": "Las entidades registran objeto, RUC del proveedor, monto y fecha. Es lo ya comprado, no una convocatoria."
     },
     {
      "role": "value",
      "h": "Úsalo como mapa, no como bandeja",
-     "b": "· Qué entidades compran lo tuyo\n· Cada cuánto y por cuánto\n· A quién se lo compran hoy\nEsa lista te dice a quién conviene cotizarle."
+     "b": "· Qué entidades compran lo tuyo\n· Cada cuánto y por cuánto\n· A quién se lo compran hoy\n· Esa lista dice a quién cotizarle"
     },
     {
      "role": "recap"
@@ -879,7 +885,7 @@
      "role": "stat",
      "shot": "shot-feed.png",
      "h": "El «radar» también vigila lo chico",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC. Más de 200 mil procesos en datos abiertos OECE."
+     "b": "Radar Estatal (radarestatal.pe) organiza más de 200 mil procesos de datos abiertos OECE."
     },
     {
      "role": "cta",
@@ -921,8 +927,8 @@
     },
     {
      "role": "stat",
-     "h": "El «radar» te dice qué pide cada proceso",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE y una IA que resume requisitos y garantías."
+     "h": "Saber qué piden antes de abrir el PDF",
+     "b": "Radar Estatal (radarestatal.pe): una IA que resume requisitos y garantías de cada proceso."
     },
     {
      "role": "cta",
@@ -950,23 +956,24 @@
     {
      "role": "value",
      "h": "La página que decide el resultado",
-     "b": "Los factores de evaluación dicen cómo se reparte el puntaje: precio, plazo, garantía, experiencia. Están en las bases, publicados desde la convocatoria."
+     "b": "Dicen cómo se reparte el puntaje: precio, plazo, garantía, experiencia. Publicados desde la convocatoria."
     },
     {
      "role": "value",
      "h": "El error típico",
-     "b": "Cotizar primero y mirar los factores después. Si el puntaje premia plazo de entrega mejorado y tú no lo ofreciste, el rival te gana sin tener mejor precio."
+     "b": "Si el puntaje premia plazo mejorado y tú no lo ofreciste, el rival gana sin mejor precio.",
+     "emoji": "😤"
     },
     {
      "role": "value",
      "h": "Arma la oferta para esa tabla",
-     "b": "Antes de poner precio, lee los factores y calcula dónde ganas puntos que ya puedes cumplir. El precio es un factor. Casi nunca el único."
+     "b": "Antes de poner precio, calcula dónde ganas puntos que ya puedes cumplir. El precio es un factor."
     },
     {
      "role": "stat",
      "shot": "shot-herramientas.png",
-     "h": "El «radar» te muestra cómo se gana cada proceso",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que te explica cada proceso y el historial de tus rivales por RUC."
+     "h": "Cómo se ganó el anterior, a la vista",
+     "b": "Radar Estatal (radarestatal.pe): una IA que te explica cada proceso y el historial de tus rivales."
     },
     {
      "role": "cta",
@@ -994,7 +1001,7 @@
     {
      "role": "value",
      "h": "La ficha RNP existe y se consulta",
-     "b": "Cada proveedor del Estado tiene su ficha en el Registro Nacional de Proveedores: en qué registros está inscrito, desde cuándo y con qué estado. Se consulta gratis."
+     "b": "En qué registros está inscrito, desde cuándo y con qué estado. Se consulta gratis."
     },
     {
      "role": "value",
@@ -1004,15 +1011,15 @@
     {
      "role": "value",
      "h": "El espejo incómodo",
-     "b": "Tu ficha también la leen. Tenla activa, en los registros correctos y con la información actualizada. Es tu carta de presentación permanente ante cada entidad y cada rival."
+     "b": "Tu ficha también la leen: tenla activa, en los registros correctos y actualizada."
     },
     {
      "role": "recap"
     },
     {
      "role": "stat",
-     "h": "El «radar» lee fichas por ti",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "h": "El perfil del rival, armado",
+     "b": "Radar Estatal (radarestatal.pe) lee esas fichas y te arma el perfil por RUC."
     },
     {
      "role": "cta",
@@ -1040,17 +1047,17 @@
     {
      "role": "value",
      "h": "Día 1 y 2: papeles",
-     "b": "RUC activo y habido. RNP inscrito en el registro que corresponde a lo que vendes (bienes, servicios u obras). Sin estos dos, lo demás es turismo."
+     "b": "RUC activo y habido. RNP inscrito en el registro de lo que vendes. Sin eso, lo demás es turismo."
     },
     {
      "role": "value",
      "h": "Día 3: la búsqueda",
-     "b": "· Palabra clave de tu rubro\n· Tu región\n· Valor estimado a tu escala\nGuarda los 3 procesos que mejor calcen: no necesitas veinte."
+     "b": "· Palabra clave de tu rubro\n· Tu región\n· Valor estimado a tu escala\n· Guarda los 3 que mejor calcen"
     },
     {
      "role": "value",
      "h": "Día 4 y 5: filtra y entra",
-     "b": "Revisa cronogramas vigentes y requisitos que sí cumples. Regístrate como participante en el mejor y presenta tus consultas dentro del plazo. Ya estás jugando."
+     "b": "Regístrate como participante en el mejor y presenta tus consultas dentro del plazo."
     },
     {
      "role": "recap"
@@ -1058,7 +1065,7 @@
     {
      "role": "stat",
      "h": "La primera semana, con «radar», rinde doble",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC.",
+     "b": "Radar Estatal (radarestatal.pe) te entrega esos 3 procesos sin que los busques.",
      "shot": "shot-datos.png"
     },
     {
@@ -1087,17 +1094,17 @@
     {
      "role": "value",
      "h": "Lee el acta y el cuadro comparativo",
-     "b": "Están en el expediente del proceso, públicos: los puntajes de todos los postores, quién ganó y con qué. Tu autopsia gratis. Casi nadie la abre."
+     "b": "Están en el expediente, públicos: los puntajes de todos, quién ganó y con qué. Casi nadie los abre."
     },
     {
      "role": "value",
      "h": "Ubica tu causa exacta",
-     "b": "¿Perdiste por precio, por puntaje técnico o por un error de forma? Cada causa tiene arreglo distinto. Y adivinarla sin leer el acta es perder dos veces."
+     "b": "¿Precio, puntaje técnico o error de forma? Cada causa tiene un arreglo distinto."
     },
     {
      "role": "value",
      "h": "Sigue al que te ganó",
-     "b": "Su historial por RUC te muestra dónde más compite y cómo gana. O lo evitas, o aprendes su juego. Las dos son estrategias válidas. Perder con data es entrenar."
+     "b": "Su historial por RUC muestra dónde compite y cómo gana. O lo evitas, o aprendes su juego."
     },
     {
      "role": "recap"
@@ -1105,7 +1112,7 @@
     {
      "role": "stat",
      "h": "El «radar» convierte derrotas en mapa",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe) guarda el historial de cada rival por RUC."
     },
     {
      "role": "cta",
@@ -1121,48 +1128,46 @@
    "alt": "Qué hacer tras perder una buena pro: leer el acta, el cuadro comparativo y el historial del ganador."
   },
   {
-   "slug": "28-nadie-lee-todo",
+   "slug": "28-quien-decide-la-compra",
    "slides": [
     {
-     "role": "story",
-     "plate": "cine-13-bases",
-     "h": "Estás leyendo el SEACE como no es",
-     "b": "nadie puede con todo, tampoco hace falta",
-     "emoji": "🌊"
+     "role": "cover",
+     "kicker": "CÓMO FUNCIONA",
+     "h": "Detrás de cada compra hay funcionarios con nombre",
+     "emoji": "🗣"
     },
     {
      "role": "value",
-     "h": "Afinado le gana a completo",
-     "b": "Así no: abrir el feed nacional entero\nAsí sí: rubro, región y escala, guardados"
+     "h": "Tres roles intervienen en tu proceso",
+     "b": "· El área usuaria, que necesita lo que vendes\n· El órgano encargado de las contrataciones\n· El comité de selección, cuando corresponde"
     },
     {
      "role": "value",
-     "h": "Frecuencia corta, no maratones",
-     "b": "Así no: una tarde entera al mes\nAsí sí: 10 minutos, dos veces por semana"
+     "h": "Por eso importa quién está a cargo",
+     "b": "El titular de la entidad y los jefes de esas áreas se designan por resolución pública. Saber quiénes son te ordena el mapa."
     },
     {
      "role": "value",
-     "h": "La misma búsqueda siempre",
-     "b": "Así no: buscar distinto cada vez\nAsí sí: búsqueda idéntica, lo nuevo salta solo"
+     "h": "Y no, no es un atajo",
+     "b": "Conocer nombres no adelanta ninguna buena pro. Al proceso se entra por las bases, con oferta y papeles."
     },
     {
      "role": "stat",
-     "shot": "shot-feed.png",
-     "h": "Para lo que igual se escapa",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "h": "El «radar» sigue esos movimientos",
+     "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE y avisos de designaciones en las entidades que sigues."
     },
     {
      "role": "cta",
-     "h": "Lee menos SEACE. Lee mejor.",
+     "h": "Sabe quién decide. Postula como siempre.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "Nadie puede leer todo el SEACE y no hace falta: búsqueda afinada por rubro, región y escala, 10 minutos dos veces por semana y siempre la misma búsqueda para que lo nuevo salte solo. Radar Estatal (radarestatal.pe) caza lo que igual se escapa. #SEACE #licitaciones #mype #contratacionesdelestado #peru",
-    "tt": "Estás leyendo el SEACE como no es 🌊 #SEACE #licitaciones #mype #peru",
-    "fb": "Más de 200 mil procesos viven en los datos abiertos del Estado: leerlo todo es imposible. Leerlo bien no: filtros guardados de rubro, región y escala, dos revisadas cortas por semana, siempre idénticas. radarestatal.pe vigila lo que se te escapa entre medio."
+    "ig": "Quién decide una compra del Estado: el área usuaria que necesita el bien o servicio, el órgano encargado de las contrataciones y el comité de selección cuando corresponde. Los titulares y jefes de esas áreas se designan por resolución pública, así que saber quién está a cargo es información abierta. Ojo: conocer nombres no adelanta ninguna buena pro, al proceso se entra por las bases. Radar Estatal (radarestatal.pe) vigila el SEACE y las designaciones de las entidades que sigues. #contratacionespublicas #seace #rnp #mype #peru",
+    "tt": "Detrás de cada compra del Estado hay funcionarios con nombre 🗣 y es dato público #seace #licitaciones #peru",
+    "fb": "En una compra del Estado intervienen el área usuaria, el órgano encargado de las contrataciones y, cuando corresponde, el comité de selección. Todos con responsables designados por resolución pública. Saber quién está a cargo ordena el mapa; ganar sigue dependiendo de tu oferta y tus papeles."
    },
-   "alt": "Cómo leer el SEACE con filtros y rutina corta en vez de maratones imposibles."
+   "alt": "Los roles que intervienen en una compra del Estado y por qué sus designaciones son públicas."
   },
   {
    "slug": "29-socio-consorcio",
@@ -1177,22 +1182,22 @@
     {
      "role": "value",
      "h": "En licitaciones no hay exclusividad",
-     "b": "El consorciado de este proceso puede postular solo en el siguiente. Contra ti. El que se sorprende es el que no llevaba registro de con quién trabajó."
+     "b": "El consorciado de hoy puede postular solo en el siguiente. Contra ti."
     },
     {
      "role": "value",
      "h": "Revisa a tu socio como a un rival",
-     "b": "Antes de consorciar, mira su historial por RUC: qué gana, dónde y con quién ha ido antes. Y confirma que no esté inhabilitado. Un buen socio se elige con datos."
+     "b": "Antes de consorciar, mira su historial por RUC y confirma que no esté inhabilitado."
     },
     {
      "role": "value",
      "h": "Tu experiencia es tuya: documéntala",
-     "b": "Contratos, conformidades y actas de cada proceso, ordenados y escaneados. Los consorcios se disuelven; tu file de experiencia te acompaña a la siguiente oferta."
+     "b": "Contratos, conformidades y actas, ordenados. Los consorcios se disuelven; tu file te acompaña."
     },
     {
      "role": "stat",
      "h": "El «radar» no pierde de vista a nadie",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC."
+     "b": "Radar Estatal (radarestatal.pe) te da el historial de tu socio antes de firmar."
     },
     {
      "role": "cta",
@@ -1220,7 +1225,7 @@
     {
      "role": "value",
      "h": "Hábitos 1 y 2",
-     "b": "Búsqueda guardada (rubro + región + escala) revisada martes y jueves. Y el semáforo de requisitos ANTES de ilusionarte con cualquier proceso: cinco minutos, cero semanas perdidas."
+     "b": "· Búsqueda guardada, revisada martes y jueves\n· Semáforo de requisitos ANTES de ilusionarte"
     },
     {
      "role": "value",
@@ -1230,15 +1235,15 @@
     {
      "role": "value",
      "h": "Septiembre es el mes para estrenarlos",
-     "b": "Quedan cuatro meses de año fiscal y el presupuesto no ejecutado se pierde el 31 de diciembre. El mejor momento para pasar de mirar a postular empieza el mes que viene."
+     "b": "Quedan cuatro meses de año fiscal y lo no ejecutado se pierde el 31 de diciembre."
     },
     {
      "role": "recap"
     },
     {
      "role": "stat",
-     "h": "O estrena «radar» en vez de hábitos",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que te dice qué procesos le convienen a tu empresa y el historial de cualquier competidor por RUC. Los cuatro hábitos, automáticos."
+     "h": "O deja que corran solos",
+     "b": "Radar Estatal (radarestatal.pe) automatiza los cuatro hábitos: feed, recomendación y rivales por RUC."
     },
     {
      "role": "cta",

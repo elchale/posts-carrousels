@@ -1,0 +1,35 @@
+# Usa la técnica de Nolan para tu negocio
+
+`propaga` · `ago` · **6 láminas** — sube SIEMPRE en orden 01 → 06
+
+## 🎵 TikTok
+Fotos de `tt/` (9:16) · **⚠ AGREGA UN SONIDO EN TENDENCIA** (sin sonido no hay alcance) · copia:
+
+```text
+Nolan no usa CGI y tu negocio sigue usando fotos de stock 📷 3 encuadres con tu celular
+#negociosperu #fotografia #marketing
+```
+
+## 📸 Instagram
+Fotos de `ig/` (4:5) · copia el caption:
+
+```text
+Nolan construyó un cíclope de 18 metros en vez de usar CGI, y se nota.
+
+Tus fotos igual: la real e imperfecta le gana al banco de imágenes. Los 3 encuadres que salen con cualquier celular + la checklist de 60 segundos, en el carrusel.
+
+#fotografia #negociosperu #marketingdigital #contenido
+```
+
+**ALT** (Opciones avanzadas → Texto alternativo, lámina 1 — ayuda al SEO):
+
+```text
+Carrusel: por qué las fotos reales del negocio venden más que las de stock, con la analogía del cíclope de Nolan.
+```
+
+## 👥 Facebook
+Las mismas fotos de `ig/` · SIN hashtags (en FB no ayudan) · copia:
+
+```text
+El cíclope de La Odisea es una marioneta REAL de 18 metros que subieron a una colina en Grecia. Nolan pudo dibujarlo por computadora y eligió construirlo, porque el público nota la diferencia. Tus clientes también: la foto real de tu local le gana a cualquier imagen de stock con oficinas gringas. ¿Tu última publicación tenía foto tuya o foto de internet?
+```

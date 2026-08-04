@@ -15,17 +15,17 @@
     {
      "role": "value",
      "h": "Las 3 olas del mes",
-     "b": "Semana del 8: el evento de Apple (todos hablando de tecnología). 23: primavera (todos estrenan). Fin de mes: la rampa a octubre. Tu contenido surfea olas que ya existen."
+     "b": "· Semana del 8: el evento de Apple\n· 23: primavera, todos estrenan\n· Fin de mes: la rampa a octubre"
     },
     {
      "role": "value",
      "h": "12 posts, dos sentadas",
-     "b": "4 que enseñan tu oficio, 4 de temporada, 2 de clientes felices, 2 de producto. Sábado en la mañana: las fotos. Domingo: los textos. Listo el mes."
+     "b": "· 4 que enseñan tu oficio\n· 4 de temporada\n· 2 de clientes felices\n· 2 de producto"
     },
     {
      "role": "value",
      "h": "El truco del mes nuevo",
-     "b": "Los primeros 3 días del mes la gente organiza su vida: publica HOY tu horario, tu carta o tu catálogo actualizado. Es cuando más se busca."
+     "b": "Los primeros 3 días la gente organiza su vida: publica hoy tu horario o tu catálogo."
     },
     {
      "role": "stat",
@@ -63,12 +63,12 @@
     {
      "role": "value",
      "h": "Tus últimos 9 cuadritos venden o espantan",
-     "b": "El que llega ve una cuadrícula, no tu historia. Archiva los saludos de feriado y los sorteos vencidos: que los 9 hablen de lo que vendes."
+     "b": "El que llega ve una cuadrícula, no tu historia. Archiva saludos de feriado y sorteos vencidos."
     },
     {
      "role": "value",
      "h": "La prueba del extraño",
-     "b": "Abre tu perfil como si no te conocieras: ¿en 5 segundos se entiende qué vendes, dónde estás y cómo pedir? Si dudaste, hoy se arregla."
+     "b": "Ábrelo como si no te conocieras: ¿en 5 segundos se entiende qué vendes y cómo pedir?"
     },
     {
      "role": "stat",
@@ -103,17 +103,17 @@
     {
      "role": "value",
      "h": "9 nominaciones, un patrón",
-     "b": "Carín León no publica todo lo que hace: publica lo que suena a él. Tu negocio también tiene un sonido. 3 temas tuyos, repetidos con orgullo."
+     "b": "No publica todo lo que hace: publica lo que suena a él. Tu negocio también tiene un sonido."
     },
     {
      "role": "value",
      "h": "Menos posts, más firma",
-     "b": "Elige 3 formatos que te salgan bien (el cómo-se-hace, la entrega, el cliente feliz) y repítelos hasta que te reconozcan sin leer tu nombre."
+     "b": "· El cómo se hace\n· La entrega\n· El cliente feliz\n· Repítelos hasta que te reconozcan"
     },
     {
      "role": "value",
      "h": "Mira el feed de cualquier artista grande",
-     "b": "Portadas, fechas, backstage. Tres tipos de post, nada más. Los negocios que se ven profesionales hacen exactamente eso."
+     "b": "Portadas, fechas, backstage. Tres tipos de post, nada más."
     },
     {
      "role": "stat",
@@ -146,17 +146,17 @@
     {
      "role": "value",
      "h": "Los 3 comentarios que venden",
-     "b": "El \"¿precio?\" (responde y lleva la conversación al privado), el \"¿dónde están?\" (dirección + horario exactos) y el elogio (agradece y suma: \"vuelve este viernes que llega nuevo\")."
+     "b": "· «¿Precio?»: responde y pasa al privado\n· «¿Dónde están?»: dirección y horario\n· El elogio: agradece y suma"
     },
     {
      "role": "value",
      "h": "La regla de la primera hora",
-     "b": "Responder dentro de la hora hace dos cosas: el algoritmo muestra más tu post y el cliente siente tienda atendida. Pasada la hora contesta igual, pero la venta ya se enfrió."
+     "b": "Dentro de la hora: el algoritmo te muestra más y el cliente siente tienda atendida."
     },
     {
      "role": "value",
      "h": "Nunca dejes un comentario en visto",
-     "b": "Es público: el que mira decide si eres una tienda que responde o una que ignora. Un comentario ignorado espanta a diez que nunca escribieron."
+     "b": "Es público: un comentario ignorado espanta a diez que nunca escribieron."
     },
     {
      "role": "stat",
@@ -189,17 +189,17 @@
     {
      "role": "value",
      "h": "La regla del metro cuadrado",
-     "b": "No necesitas un local bonito: necesitas UN rincón. Pared limpia, luz de ventana, una repisa. Todas tus fotos salen de ese metro cuadrado."
+     "b": "No necesitas un local bonito: necesitas UN rincón. Pared limpia, luz de ventana, una repisa."
     },
     {
      "role": "value",
      "h": "Los 3 fondos que funcionan",
-     "b": "Pared lisa para el producto, tu mesa de trabajo ordenada para el proceso, y el empaque con tu nombre para la entrega. Nada más."
+     "b": "· Pared lisa para el producto\n· Tu mesa ordenada para el proceso\n· El empaque con tu nombre para la entrega"
     },
     {
      "role": "value",
      "h": "30 segundos de despeje",
-     "b": "La gente no lee tu oferta si el fondo grita: tazas sucias, cables, cajas. Antes de cada foto: 30 segundos de mover cosas fuera del cuadro."
+     "b": "Tazas sucias, cables, cajas: 30 segundos moviendo cosas fuera del cuadro."
     },
     {
      "role": "stat",
@@ -276,12 +276,12 @@
     {
      "role": "value",
      "h": "Anuncia antes, sin mostrar todo",
-     "b": "Apple manda una invitación misteriosa una semana antes y el mundo especula. Tú: \"el jueves llega algo nuevo\" + foto con el detalle tapado."
+     "b": "Apple manda una invitación misteriosa y el mundo especula. Tú: «el jueves llega algo nuevo»."
     },
     {
      "role": "value",
      "h": "Un solo protagonista",
-     "b": "Cada keynote tiene UNA estrella, no el catálogo entero. Tu lanzamiento igual: un producto, una historia, una fecha."
+     "b": "Cada keynote tiene UNA estrella, no el catálogo entero. Un producto, una fecha."
     },
     {
      "role": "value",
@@ -320,17 +320,17 @@
     {
      "role": "value",
      "h": "Hoy todos hablan de Apple: súmate",
-     "b": "Con tu giro y humor ligero: \"mientras esperas el iPhone plegable, tu [lo que vendes] sí está en stock\". Un post, cero producción."
+     "b": "«Mientras esperas el iPhone plegable, tu [lo que vendes] sí está en stock.» Un post, cero producción."
     },
     {
      "role": "value",
      "h": "Tu celular actual sobra",
-     "b": "Las fotos que venden se hacen con luz y fondo, no con cámara nueva. Las marcas grandes graban campañas enteras con celulares de hace 3 años."
+     "b": "Las fotos que venden se hacen con luz y fondo, no con cámara nueva."
     },
     {
      "role": "value",
      "h": "La búsqueda es tu vitrina real",
-     "b": "El que quiere comprar escribe \"torta tres leches Surco\", no \"iPhone 18\". Tus captions llevan las palabras que tu cliente busca, no las de moda."
+     "b": "El que quiere comprar escribe «torta tres leches Surco», no «iPhone 18»."
     },
     {
      "role": "stat",
@@ -363,17 +363,17 @@
     {
      "role": "value",
      "h": "Característica vs resultado",
-     "b": "\"Torta de un kilo\" es un dato. \"Alcanza para los 12 del cumpleaños\" es una venta. Reescribe tus descripciones desde el resultado."
+     "b": "«Torta de un kilo» es un dato. «Alcanza para los 12 del cumpleaños» es una venta."
     },
     {
      "role": "value",
      "h": "La foto del después",
-     "b": "No muestres solo el producto: muéstralo usándose. La torta partida, la polera puesta, el mueble ya en la sala. El cliente se imagina. Y el que se imagina, compra."
+     "b": "· La torta partida\n· La polera puesta\n· El mueble ya en la sala\n· El que se imagina, compra"
     },
     {
      "role": "value",
      "h": "Una línea de resultado bajo cada foto",
-     "b": "\"Llega hoy\", \"aguanta 6 meses de recreo\", \"para los que odian planchar\". Una línea que responde: ¿y esto qué hace por mí?"
+     "b": "«Llega hoy», «aguanta 6 meses de recreo», «para los que odian planchar»."
     },
     {
      "role": "stat",
@@ -451,17 +451,18 @@
     {
      "role": "value",
      "h": "La pausa mata en frío",
-     "b": "Sin nada nuevo publicado no hay nada que mostrarle a nadie, y el cliente se olvida antes que cualquier algoritmo. Un feed parado un mes le dice al que llega: \"¿seguirán atendiendo?\""
+     "b": "El cliente se olvida antes que cualquier algoritmo. Un feed parado un mes pregunta: «¿seguirán atendiendo?»",
+     "emoji": "😨"
     },
     {
      "role": "value",
      "h": "Si no puedes publicar, programa",
-     "b": "Una sentada de una tarde deja un mes andando. Vacaciones, temporada alta en el taller, lo que sea: el feed no tiene por qué enterarse."
+     "b": "Una sentada de una tarde deja un mes andando. El feed no tiene por qué enterarse."
     },
     {
      "role": "value",
      "h": "Todo regreso se anuncia",
-     "b": "Bullock y Kidman llevan meses en prensa antes del estreno. Si pausaste, no reaparezcas en silencio: \"volvemos el lunes con...\" una semana antes."
+     "b": "Si pausaste, no reaparezcas en silencio: «volvemos el lunes con…», una semana antes."
     },
     {
      "role": "stat",
@@ -496,17 +497,17 @@
     {
      "role": "value",
      "h": "Por qué este sábado importa",
-     "b": "Pelea de Canelo = media Latinoamérica frente a la tele con hambre. Comida, bebidas, snacks, hasta farmacia: la noche mueve pedidos como un feriado."
+     "b": "Media Latinoamérica frente a la tele con hambre. Comida, bebidas, snacks: mueve como un feriado."
     },
     {
      "role": "value",
      "h": "El combo con nombre",
-     "b": "Arma un combo de pelea (\"combo round 12\", \"la esquina completa\") y publícalo jueves y viernes. El sábado ya es tarde: la gente decide antes del campanazo."
+     "b": "«Combo round 12», «la esquina completa». Publicado jueves y viernes: el sábado ya es tarde."
     },
     {
      "role": "value",
      "h": "Horario extendido, pero avisado",
-     "b": "Si atiendes hasta tarde esa noche, dilo en post + historia fijada. La gente pide donde sabe que le van a contestar."
+     "b": "Si atiendes hasta tarde, dilo en post y en historia fijada. Se pide donde contestan."
     },
     {
      "role": "stat",
@@ -540,17 +541,17 @@
     {
      "role": "value",
      "h": "El post de hoy: quiénes son ustedes",
-     "b": "La foto real del puesto, del taller, de la cocina, con nombres. Los negocios con cara venden más que los anónimos. Hoy es el día perfecto para presentarse."
+     "b": "La foto real del puesto, del taller, de la cocina, con nombres. Los negocios con cara venden más."
     },
     {
      "role": "value",
      "h": "La antigüedad es confianza gratis",
-     "b": "\"Desde 2011, familia Gutiérrez\" en la bio. Una línea que responde la pregunta que nadie hace en voz alta: ¿y estos serán serios?"
+     "b": "«Desde 2011, familia Gutiérrez» en la bio. Responde lo que nadie pregunta en voz alta."
     },
     {
      "role": "value",
      "h": "Familia como sazón, no como plato",
-     "b": "Un post personal por cada 4 de negocio. La historia conecta; el catálogo vende. Los dos, en su medida."
+     "b": "Un post personal por cada 4 de negocio. La historia conecta; el catálogo vende."
     },
     {
      "role": "stat",
@@ -584,7 +585,7 @@
     {
      "role": "value",
      "h": "Los primeros 2 segundos deciden",
-     "b": "Como el cold open de una serie: tu primera lámina es el gancho, no el logo. El saludo y la marca van después, si el gancho funcionó."
+     "b": "Como el cold open de una serie: tu primera lámina es el gancho, no el logo."
     },
     {
      "role": "value",
@@ -594,7 +595,7 @@
     {
      "role": "value",
      "h": "Cierra en cliffhanger",
-     "b": "\"Guárdalo para el domingo\", \"¿cuál probarías primero?\". La serie que deja pregunta se renueva; el post que deja pregunta se comenta."
+     "b": "«Guárdalo para el domingo», «¿cuál probarías primero?». La pregunta se comenta."
     },
     {
      "role": "stat",
@@ -627,17 +628,18 @@
     {
      "role": "value",
      "h": "Hoy cae sueldo en medio Perú",
-     "b": "La quincena mueve más que el fin de mes en muchos rubros: la gente compra lo que vio ayer. Publica tu oferta HOY, no el 28."
+     "b": "La quincena mueve más que el fin de mes: la gente compra lo que vio ayer.",
+     "emoji": "💸"
     },
     {
      "role": "value",
      "h": "Promo simple gana a promo creativa",
-     "b": "\"2x1 hasta el domingo\" vende más que cualquier mecánica con pasos. Una condición, una fecha, una foto clara."
+     "b": "«2x1 hasta el domingo» gana a cualquier mecánica con pasos. Una condición, una fecha."
     },
     {
      "role": "value",
      "h": "Mide una sola cosa",
-     "b": "¿Cuántos te escribieron por la promo? Ese número decide si la repites en la quincena de octubre. Sin número, solo estás regalando margen."
+     "b": "¿Cuántos te escribieron por la promo? Sin ese número, solo estás regalando margen."
     },
     {
      "role": "stat",
@@ -715,7 +717,7 @@
     {
      "role": "value",
      "h": "Compites contra videos de gatitos",
-     "b": "Tu post no pelea con otras tiendas: pelea con todo el entretenimiento del planeta por 2 segundos de atención. Por eso el gancho manda."
+     "b": "No peleas con otras tiendas: peleas con todo el entretenimiento del planeta por 2 segundos."
     },
     {
      "role": "value",
@@ -725,7 +727,7 @@
     {
      "role": "value",
      "h": "Una cara vale más que un logo",
-     "b": "Los posts con personas retienen más: tu cara, tus manos trabajando o tu cliente feliz (con permiso). El logo no mira a los ojos."
+     "b": "Los posts con personas retienen más: tu cara, tus manos, tu cliente feliz. El logo no mira a los ojos."
     },
     {
      "role": "stat",
@@ -758,17 +760,17 @@
     {
      "role": "value",
      "h": "El video de 15 segundos",
-     "b": "Graba el paso más visual de tu oficio: el glaseado cayendo, el corte de tela, el empaque cerrándose. Sin editar, con luz de día."
+     "b": "El glaseado cayendo, el corte de tela, el empaque cerrándose. Sin editar, con luz de día."
     },
     {
      "role": "value",
      "h": "Por qué funciona siempre",
-     "b": "Nadie desconfía de lo que vio hacerse. Y el tiempo que la gente se queda mirando le dice al algoritmo que te muestre más."
+     "b": "Nadie desconfía de lo que vio hacerse. Y el rato que se quedan mirando le avisa al algoritmo."
     },
     {
      "role": "value",
      "h": "Conviértelo en serie semanal",
-     "b": "\"Así se hace\" cada jueves, mismo formato. A la tercera semana la gente lo espera. Lo que se espera, se comparte."
+     "b": "«Así se hace» cada jueves, mismo formato. Lo que se espera, se comparte."
     },
     {
      "role": "stat",
@@ -806,12 +808,12 @@
     {
      "role": "value",
      "h": "La bio de una sola línea",
-     "b": "Qué vendes + dónde + cómo pedir. Las frases motivacionales no responden ninguna de las 3 preguntas del que llega."
+     "b": "Qué vendes, dónde y cómo pedir. Las frases motivacionales no responden nada de eso."
     },
     {
      "role": "value",
      "h": "El número viejo es un hueco en la bolsa",
-     "b": "Ventas yéndose al vacío todos los días sin que lo veas. Escríbete a ti mismo desde otro celular y comprueba qué encuentra tu cliente."
+     "b": "Escríbete a ti mismo desde otro celular y comprueba qué encuentra tu cliente."
     },
     {
      "role": "stat",
@@ -845,17 +847,17 @@
     {
      "role": "value",
      "h": "El pico de las 9 a 11",
-     "b": "De noche la gente scrollea y decide; compra o escribe al día siguiente. Publica entre 7 y 9pm para estar arriba cuando llegue su noche."
+     "b": "De noche scrollea y decide; compra al día siguiente. Publica entre 7 y 9pm."
     },
     {
      "role": "value",
      "h": "Escribe para una mano y un ojo",
-     "b": "Frases cortas, foto que se entiende en miniatura, cero letra chica. Tu post se lee medio dormido o no se lee."
+     "b": "Frases cortas, foto que se entiende en miniatura, cero letra chica."
     },
     {
      "role": "value",
      "h": "Los mensajes de las 11pm son oro",
-     "b": "El \"¿precio?\" nocturno es un comprador de la mañana siguiente: los primeros 30 minutos de tu día son para contestarlos."
+     "b": "El «¿precio?» nocturno es un comprador de la mañana. Tus primeros 30 minutos son para eso."
     },
     {
      "role": "stat",
@@ -889,17 +891,17 @@
     {
      "role": "value",
      "h": "El refresh de una hora",
-     "b": "Foto de portada nueva con luz de día, historias destacadas reordenadas (lo de temporada primero) y tu mejor producto arriba. Una hora, feed nuevo."
+     "b": "· Portada nueva con luz de día\n· Destacadas reordenadas, temporada primero\n· Tu mejor producto arriba"
     },
     {
      "role": "value",
      "h": "La luz de primavera es la decoración",
-     "b": "No compres nada: saca tus productos a la ventana o a la calle y fotografía con la luz nueva. El feed se ve de temporada solo."
+     "b": "No compres nada: saca tus productos a la ventana y fotografía con la luz nueva."
     },
     {
      "role": "value",
      "h": "El post \"ya llegó\"",
-     "b": "Anuncia lo de temporada aunque sea lo mismo con otro ángulo: \"volvieron los...\", \"edición primavera\". Lo nuevo es percepción."
+     "b": "«Volvieron los…», «edición primavera». Lo nuevo es percepción."
     },
     {
      "role": "stat",
@@ -933,17 +935,17 @@
     {
      "role": "value",
      "h": "El código joven",
-     "b": "Respuesta rápida, humor ligero, cero \"estimado cliente\". Se les habla como escribes en tu grupo de amigos: con respeto, sin corbata."
+     "b": "Respuesta rápida, humor ligero, cero «estimado cliente». Con respeto, sin corbata."
     },
     {
      "role": "value",
      "h": "Video vertical o invisible",
-     "b": "Si tu cliente tiene menos de 25, tu formato es el video corto vertical. Uno por semana basta para existir en su mundo."
+     "b": "Si tu cliente tiene menos de 25, uno corto por semana basta para existir en su mundo."
     },
     {
      "role": "value",
      "h": "Compran por referencia, no por anuncio",
-     "b": "Repostea las historias donde te etiquetan (pidiendo permiso). El amigo que te recomienda vale más que toda tu publicidad."
+     "b": "Repostea las historias donde te etiquetan, con permiso. El amigo que recomienda vale más."
     },
     {
      "role": "stat",
@@ -977,17 +979,17 @@
     {
      "role": "value",
      "h": "Estrena sin gastar",
-     "b": "Un producto renombrado de temporada, el combo primavera o el empaque con un detalle nuevo. \"Nuevo\" es percepción, no inversión."
+     "b": "Un producto renombrado, el combo primavera, el empaque con un detalle nuevo."
     },
     {
      "role": "value",
      "h": "Hoy se publica en la mañana",
-     "b": "Día de primavera y juventud: el feed se llena desde temprano. El post de 8 a 9 de la mañana gana el día; el de la tarde llega al ruido."
+     "b": "El feed se llena desde temprano: el post de 8 a 9am gana el día; el de la tarde llega al ruido."
     },
     {
      "role": "value",
      "h": "La palabra de búsqueda gratis",
-     "b": "\"Primavera\" en tu caption HOY. La gente busca la temporada esta semana y encuentra a los que la nombraron."
+     "b": "«Primavera» en tu caption HOY. Esta semana la gente busca la temporada."
     },
     {
      "role": "stat",
@@ -1020,17 +1022,17 @@
     {
      "role": "value",
      "h": "Cómo pedirlo sin roche",
-     "b": "Al entregar: \"¿me mandas una foto cuando lo pruebes?\". Tres de cada diez la mandan. Esa foto vale más que cualquier campaña."
+     "b": "Al entregar: «¿me mandas una foto cuando lo pruebes?». Tres de cada diez la mandan."
     },
     {
      "role": "value",
      "h": "Cómo publicarlo bien",
-     "b": "Captura del mensaje (tapando el número), foto del cliente con permiso, o su historia reposteada. Siempre con contexto: qué pidió y para qué ocasión."
+     "b": "· Captura del mensaje, tapando el número\n· Foto del cliente, con permiso\n· Siempre con contexto: qué pidió"
     },
     {
      "role": "value",
      "h": "El archivo de elogios",
-     "b": "Carpeta en tu celular: \"clientes felices\". El día que no sepas qué publicar, ahí hay un post esperando. Es tu banco de confianza."
+     "b": "Carpeta en tu celular: «clientes felices». El día sin ideas, ahí hay un post esperando."
     },
     {
      "role": "recap"
@@ -1068,17 +1070,17 @@
     {
      "role": "value",
      "h": "El re-post con derecho",
-     "b": "Tu post más comentado de hace meses: repúblícalo con foto nueva y un \"me lo siguen pidiendo\". Nadie recuerda tu feed tanto como tú."
+     "b": "Tu post más comentado de hace meses, con foto nueva y un «me lo siguen pidiendo»."
     },
     {
      "role": "value",
      "h": "Los éxitos son franquicias",
-     "b": "Si un formato funcionó (el antes-después, la entrega, el cómo-se-hace), no fue un post: fue el piloto. Repítelo con otro caso cada semana."
+     "b": "Si un formato funcionó, no fue un post: fue el piloto. Repítelo con otro caso cada semana."
     },
     {
      "role": "value",
      "h": "El aniversario se re-estrena",
-     "b": "\"Hace 3 años empezamos con una mesa.\" Tu historia propia aguanta una función anual, y cada año llega público nuevo que no la vio."
+     "b": "«Hace 3 años empezamos con una mesa.» Cada año llega público nuevo que no la vio."
     },
     {
      "role": "stat",
@@ -1111,17 +1113,17 @@
     {
      "role": "value",
      "h": "Uno de cada cinco posts es para ellos",
-     "b": "El \"gracias\", la encuesta, el detrás de escena. Los que ya compran sostienen tu negocio, y tu feed solo le habla a extraños."
+     "b": "El gracias, la encuesta, el detrás de escena. Tu feed solo le habla a extraños."
     },
     {
      "role": "value",
      "h": "La encuesta que pre-vende",
-     "b": "Historia con dos opciones: \"¿traemos más de esto o de esto?\". La gente vota, tú pides stock ya vendido. La comunidad decide y compra."
+     "b": "Historia con dos opciones: «¿traemos más de esto o de esto?». Votan, y pides stock ya vendido."
     },
     {
      "role": "value",
      "h": "Nombra a tu gente",
-     "b": "\"Para las mamás del turno mañana\", \"los del combo de siempre\". Sentirse parte engancha más que cualquier descuento."
+     "b": "«Para las mamás del turno mañana», «los del combo de siempre»."
     },
     {
      "role": "stat",
@@ -1155,17 +1157,17 @@
     {
      "role": "value",
      "h": "Un video, tres clips",
-     "b": "De tu video de proceso salen 3 de 10 segundos: el momento más visual, el resultado final y la reacción del cliente. Una grabación, semana de contenido."
+     "b": "· El momento más visual\n· El resultado final\n· La reacción del cliente\n· Una grabación, tres clips"
     },
     {
      "role": "value",
      "h": "Empieza en el mejor segundo",
-     "b": "Nada de saludos: el clip arranca en el momento más impresionante. Nadie regala 5 segundos de espera, ni a Lady Gaga."
+     "b": "Nada de saludos: el clip arranca en el momento más impresionante."
     },
     {
      "role": "value",
      "h": "Subtítulos o invisible",
-     "b": "Mucha gente mira sin sonido: en el bus, en la oficina, al lado de alguien durmiendo. Dos líneas grandes encima del video y tu clip habla aunque el celular esté en silencio."
+     "b": "Mucha gente mira sin sonido. Dos líneas grandes encima y tu clip habla igual."
     },
     {
      "role": "recap"
@@ -1202,17 +1204,17 @@
     {
      "role": "value",
      "h": "Las 3 del mes",
-     "b": "Días gastronómicos (lomo saltado el 9, anticucho el 17, chifa el 21), Halloween + Canción Criolla (el 31) y la rampa a Cyber Wow al cierre. Comida, disfraces, dulces, promos: casi todo rubro entra."
+     "b": "· Días gastronómicos: 9, 17 y 21\n· Halloween y Canción Criolla, el 31\n· La rampa a Cyber Wow al cierre"
     },
     {
      "role": "value",
      "h": "Elige UNA y prepárala completa",
-     "b": "Qué vas a ofrecer, qué foto necesitas y qué día lo anuncias (5 días antes). Una fecha bien trabajada vale más que tres improvisadas."
+     "b": "Qué ofreces, qué foto necesitas y qué día lo anuncias. Una bien trabajada vale por tres."
     },
     {
      "role": "value",
      "h": "El error clásico de octubre",
-     "b": "Publicar el 31 a las 6pm. Las fechas venden la semana previa. El día es para entregar, no para anunciar."
+     "b": "Publicar el 31 a las 6pm. El día es para entregar, no para anunciar."
     },
     {
      "role": "stat",
@@ -1246,17 +1248,17 @@
     {
      "role": "value",
      "h": "La carpeta única",
-     "b": "Crea el álbum NEGOCIO y mueve ahí toda foto usable: producto, proceso, clientes, local. 30 minutos una sola vez y se acabó el buscar."
+     "b": "Crea el álbum NEGOCIO y mueve ahí toda foto usable: producto, proceso, clientes, local."
     },
     {
      "role": "value",
      "h": "La regla de salida",
-     "b": "Cada foto buena que tomes va directo al álbum en ese momento. El \"luego la paso\" es el cementerio donde mueren los posts."
+     "b": "Cada foto buena va al álbum en ese momento. El «luego la paso» es un cementerio."
     },
     {
      "role": "value",
      "h": "La sesión mensual de 20",
-     "b": "Un día al mes, tu rincón de luz, 20 fotos seguidas: productos, detalles, manos trabajando. El mes queda abastecido en una hora."
+     "b": "Un día al mes, tu rincón de luz, 20 fotos seguidas. El mes queda abastecido."
     },
     {
      "role": "recap"
@@ -1293,17 +1295,17 @@
     {
      "role": "value",
      "h": "El calendario de octubre en 15 minutos",
-     "b": "Elige tus 2 fechas del mes, ponles día de anuncio (5 antes de cada una) y deja los posts esbozados. Hoy, mientras nadie más lo hace."
+     "b": "Elige tus 2 fechas del mes, ponles día de anuncio y deja los posts esbozados."
     },
     {
      "role": "value",
      "h": "Stock y foto antes que post",
-     "b": "Lo de temporada se fotografía cuando LLEGA, con calma y luz, no la víspera con apuro. La foto de octubre se toma en septiembre."
+     "b": "Lo de temporada se fotografía cuando LLEGA, con calma y luz. La de octubre es de septiembre."
     },
     {
      "role": "value",
      "h": "Las palabras calientes del mes",
-     "b": "Disfraces, dulces, promos, cena criolla: octubre tiene búsqueda encendida. Tus captions del mes llevan esas palabras desde el primer día."
+     "b": "Disfraces, dulces, promos, cena criolla: octubre tiene búsqueda encendida."
     },
     {
      "role": "recap"

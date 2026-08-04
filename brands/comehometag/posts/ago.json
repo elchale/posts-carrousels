@@ -15,17 +15,18 @@
     {
      "role": "value",
      "h": "Foto del disfraz esa mañana",
-     "b": "Antes de salir, foto de cuerpo entero CON zapatos. Si se pierde, muestras la foto exacta en vez de describir a mil niños iguales. Los zapatos casi nunca se repiten."
+     "b": "· Cuerpo entero y CON zapatos\n· Los zapatos casi nunca se repiten\n· La muestras, no la describes"
     },
     {
      "role": "value",
      "h": "Ponle algo que no sea del disfraz",
-     "b": "Una pulsera de tela, un pasador de color, un sticker en la zapatilla. Seguridad busca «algo distinto», no «un Spiderman más». Ese detalle recorta la búsqueda a minutos."
+     "b": "· Pulsera de tela o pasador de color\n· Un sticker en la zapatilla\n· Seguridad busca «algo distinto»"
     },
     {
      "role": "value",
      "h": "La regla de la máscara",
-     "b": "Con máscara puesta ve menos y no lo reconocen. En pasillos y escaleras: máscara arriba o mano agarrada. La mitad de los sustos empiezan porque el niño no vio cuándo doblaste."
+     "b": "· Con máscara ve menos\n· Nadie le ve la cara\n· En pasillos: máscara arriba o mano",
+     "emoji": "🎭"
     },
     {
      "role": "recap"
@@ -34,12 +35,13 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "La máscara no habla. El QR sí.",
-     "b": "Los papás que ya usan ComeHomeTag le ponen la «pulsera» hasta al disfraz: cualquiera la escanea con su celular y te llama al toque. Sin batería, sin apps, sin mensualidad."
+     "b": "Los papás que ya lo usan se la ponen hasta al disfraz. Se escanea y te llaman."
     },
     {
      "role": "cta",
      "h": "Mil Spidermans, uno solo es el tuyo.",
-     "b": "Que se note cuál. comehometag.com"
+     "b": "Que se note cuál. comehometag.com",
+     "emoji": "🕸"
     }
    ],
    "caption": {
@@ -61,18 +63,19 @@
     },
     {
      "role": "value",
-     "h": "Tú no aguantas ni 20 minutos",
-     "b": "Y está bien. Pero esos minutos tienen método: los niños vuelven al último lugar donde te vieron. UN adulto se queda clavado y visible ahí, aunque le tiemble todo. Si ese punto queda vacío, el niño que vuelve no encuentra a nadie."
+     "h": "Un adulto se queda donde te vieron",
+     "b": "· El niño vuelve a ese punto\n· Ahí se queda alguien visible\n· Si está vacío, no encuentra a nadie",
+     "emoji": "😰"
     },
     {
      "role": "value",
-     "h": "El otro barre en círculos",
-     "b": "El segundo adulto busca en círculos que crecen desde el punto, no en línea recta hacia «donde cree». Y avisa a seguridad del lugar con foto y ropa exacta, no con una descripción de memoria."
+     "h": "El otro busca en círculos",
+     "b": "· Círculos que crecen desde el punto\n· Nunca en línea recta\n· A seguridad: foto y ropa exacta"
     },
     {
      "role": "value",
      "h": "El punto se acuerda al llegar",
-     "b": "«Si nos perdemos, nos juntamos en el letrero grande.» Diez segundos al entrar a cualquier sitio. La espera de Penélope duró 20 años porque nadie acordó dónde encontrarse."
+     "b": "«Si nos perdemos, nos vemos en el letrero grande.» Diez segundos al entrar."
     },
     {
      "role": "recap"
@@ -80,13 +83,14 @@
     {
      "role": "stat",
      "shot": "pulsera.png",
-     "h": "Con ComeHomeTag la espera dura un escaneo.",
-     "b": "El que encuentra a tu hijo escanea el QR de su «pulsera» y te llama en ese instante. Las familias que la usan esperan minutos, no capítulos."
+     "h": "Con ComeHomeTag te llaman en el acto.",
+     "b": "El que lo encuentra escanea el QR de su «pulsera» y marca tu número."
     },
     {
      "role": "cta",
      "h": "Que tu espera nunca sea de 20 años.",
-     "b": "comehometag.com"
+     "b": "comehometag.com",
+     "emoji": "❤"
     }
    ],
    "caption": {
@@ -108,17 +112,17 @@
     {
      "role": "value",
      "h": "El papel en la mochila",
-     "b": "Nombre completo del niño, tu número y el de un segundo adulto, alergias y medicinas con horario. En un papel FÍSICO en la mochila: el celular de la niñera se queda sin batería justo cuando importa."
+     "b": "· Nombre del niño y dos números\n· Alergias y medicinas con horario\n· En papel, no en el celular"
     },
     {
      "role": "value",
      "h": "La regla de la puerta",
-     "b": "Quién puede tocar la puerta y llevarse al niño, POR NOMBRE. «Si viene alguien que no está en la lista, me llamas antes de abrir.» Dicho en voz alta delante del niño, que también la sepa."
+     "b": "· Quién puede llevárselo, por nombre\n· Si no está en la lista, te llama\n· Dicho delante del niño"
     },
     {
      "role": "value",
      "h": "El niño también carga el plan",
-     "b": "Tu número donde él sabe encontrarlo y una instrucción simple: «si pasa algo raro, le dices a la señora que llame a mamá». Los niños cumplen instrucciones cortas mejor que los adultos."
+     "b": "«Si pasa algo raro, le dices a la señora que llame a mamá.»"
     },
     {
      "role": "recap"
@@ -127,7 +131,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "El respaldo de la niñera se llama QR.",
-     "b": "Nosotros también dejamos a nuestros hijos con alguien más. Por eso llevan ComeHomeTag puesto: cualquier adulto escanea y nos llama, aunque el papel se pierda y el celular se apague."
+     "b": "Nosotros también dejamos a los nuestros con alguien más. Por eso salen con su ComeHomeTag puesto."
     },
     {
      "role": "cta",
@@ -153,17 +157,17 @@
     {
      "role": "value",
      "h": "Los tres momentos exactos",
-     "b": "Los niños no se pierden «de repente». Se pierden cuando algo brilla en una vitrina, cuando aparecen otros niños, y cuando tú estás pagando. Tres momentos, siempre los mismos, y no es descuido de mal padre: es el patrón de todos."
+     "b": "· Cuando algo brilla en una vitrina\n· Cuando aparecen otros niños\n· Cuando tú estás pagando"
     },
     {
      "role": "value",
      "h": "El ancla de voz",
-     "b": "Al entrar a cada sitio nuevo, dilo en voz alta: «estamos juntos, si te sueltas te quedas donde estás». Tres segundos. Los niños obedecen mejor la última instrucción que escucharon."
+     "b": "«Estamos juntos; si te sueltas, te quedas donde estás.» Tres segundos al entrar."
     },
     {
      "role": "value",
      "h": "En los tres momentos, cambia de mano",
-     "b": "Vitrina, otros niños, momento de pagar: pasa al niño a la mano que NO usas. Suena tonto y funciona: el error no es soltarlo, es soltarlo sin darte cuenta."
+     "b": "· Pásalo a la mano que no usas\n· Suena tonto y funciona\n· El error es soltarlo sin notarlo"
     },
     {
      "role": "recap"
@@ -172,7 +176,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Para el segundo en que sí se soltó.",
-     "b": "Los papás que ya usan ComeHomeTag no dependen de que el niño recite tu número con extraños: el QR de su «pulsera» lo dice por él."
+     "b": "Con ComeHomeTag, el QR de su «pulsera» dice tu número por él."
     },
     {
      "role": "cta",
@@ -199,18 +203,19 @@
     {
      "role": "value",
      "h": "Dale un punto GRANDE",
-     "b": "«Si no me ves, vas al letrero rojo de la entrada.» Un niño no encuentra «el puesto de la señora Juana», pero sí un letrero alto y de color. El punto de referencia se elige a SU altura, no a la tuya."
+     "b": "«Si no me ves, vas al letrero rojo de la entrada.» Se elige a SU altura."
     },
     {
      "role": "value",
      "h": "La instrucción del puesto",
-     "b": "Si se suelta: abraza el puesto más cercano y no camina. Un niño quieto se encuentra en minutos; uno caminando «buscándote» se aleja justo hacia donde no estás."
+     "b": "· Abraza el puesto más cercano\n· No camina buscándote\n· Quieto se encuentra en minutos",
+     "emoji": "😰"
     },
     {
      "role": "story",
      "plate": "cine-01-manos",
      "h": "Mano en cruces y esquinas",
-     "b": "Adentro del pasillo puede ir suelto mirando; en cada cruce de pasillos, mano. Los cruces son donde el río de gente lo arrastra a otra dirección sin que nadie lo note."
+     "b": "En el pasillo puede ir suelto. En cada cruce, mano."
     },
     {
      "role": "recap"
@@ -219,12 +224,13 @@
      "role": "stat",
      "shot": "llavero.png",
      "h": "El caserito también puede llamarte.",
-     "b": "Con el QR de ComeHomeTag, la señora del puesto que lo encuentre escanea con su celular y te llama ahí mismo. Las familias que van al mercado con niños ya lo llevan puesto."
+     "b": "Con el QR de ComeHomeTag, la señora del puesto que lo encuentre escanea y te llama."
     },
     {
      "role": "cta",
      "h": "Rodillas ve tu hijo. Que el QR vea por él.",
-     "b": "comehometag.com"
+     "b": "comehometag.com",
+     "emoji": "👀"
     }
    ],
    "caption": {
@@ -247,17 +253,18 @@
     {
      "role": "value",
      "h": "El simulacro real es la separación",
-     "b": "A las 3pm de un día cualquiera tú estás en el trabajo, tus hijos en el colegio, el abuelo en casa. El plan familiar no es «agacharse»: es cómo se REENCUENTRAN después."
+     "b": "A las 3pm tú estás en el trabajo, los niños en el colegio, el abuelo en casa.",
+     "emoji": "😰"
     },
     {
      "role": "value",
-     "h": "Punto 1, punto 2, y quién recoge a quién",
+     "h": "Lo que se acuerda por escrito",
      "b": "· Punto 1: la casa\n· Punto 2: una casa de confianza acordada\n· Por escrito: quién recoge a cada hijo"
     },
     {
      "role": "value",
      "h": "El contacto fuera de Lima",
-     "b": "En un sismo grande las llamadas locales colapsan; los SMS y las llamadas a provincia suelen pasar. Elijan HOY un familiar fuera de la ciudad como central de mensajes: todos reportan ahí."
+     "b": "· Las llamadas locales colapsan\n· Los SMS y provincia suelen pasar\n· Elijan hoy quién recibe el reporte"
     },
     {
      "role": "recap"
@@ -266,7 +273,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Si los agarra separados, el QR responde.",
-     "b": "Las familias preparadas ya llevan ComeHomeTag: si alguien encuentra a tu hijo o a tu abuelo en el caos, escanea la «pulsera» y te contacta. Sin batería que se acabe, sin señal que dependa de apps."
+     "b": "Con ComeHomeTag alguien escanea la «pulsera» de tu hijo o de tu abuelo y te contacta."
     },
     {
      "role": "cta",
@@ -299,12 +306,13 @@
     {
      "role": "value",
      "h": "Vive al lado de la puerta",
-     "b": "No en el ropero, no «por ahí arriba». En el sismo de verdad nadie va a buscar nada: se agarra lo que está EN el camino de salida. Un gancho junto a la puerta es el mejor mueble de emergencia que existe."
+     "b": "· No en el ropero, no «por ahí arriba»\n· Se agarra lo que está en el camino\n· Un gancho junto a la puerta basta"
     },
     {
      "role": "value",
      "h": "El papel que el niño no puede olvidar",
-     "b": "Bajo pánico, los niños (y los adultos) olvidan números que «se saben». Papel plastificado con 3 teléfonos y la dirección, en la mochila del colegio y en la de emergencia. La memoria falla; el papel no."
+     "b": "· Plastificado: 3 teléfonos y la dirección\n· En la mochila del colegio y en la de emergencia\n· Bajo pánico la memoria falla",
+     "emoji": "😰"
     },
     {
      "role": "recap"
@@ -313,7 +321,7 @@
      "role": "stat",
      "shot": "llavero.png",
      "h": "En la mochila también va un QR.",
-     "b": "Nosotros le colgamos un llavero ComeHomeTag a la mochila de emergencia y a la del colegio: si la mochila y el niño aparecen lejos de ti, cualquiera escanea y te llama."
+     "b": "Nosotros colgamos un llavero ComeHomeTag en las dos mochilas: si aparece lejos de ti, escanean y te llaman."
     },
     {
      "role": "cta",
@@ -345,12 +353,13 @@
     {
      "role": "value",
      "h": "La regla familiar de oro",
-     "b": "«Si tiembla y no estamos juntos, te quedas donde los adultos del lugar. Nadie se mueve solo.» Un niño que sale a buscarte a la calle convierte un susto en una emergencia."
+     "b": "«Si tiembla y no estamos juntos, te quedas con los adultos del lugar. Nadie se mueve solo.»",
+     "emoji": "🫂"
     },
     {
      "role": "value",
      "h": "Ensáyalo el viernes",
-     "b": "En el simulacro del 14, que cada uno cumpla SU parte de verdad: el niño se queda con su profesora, tú vas al punto, el abuelo espera en casa. Un ensayo torpe hoy vale más que mil planes perfectos en la cabeza."
+     "b": "· El niño se queda con su profesora\n· Tú vas al punto acordado\n· El abuelo espera en casa"
     },
     {
      "role": "recap"
@@ -359,7 +368,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "El plan B cuando el plan A se rompe.",
-     "b": "Los papás que ya usan ComeHomeTag saben que si fallan la señal, la memoria y el protocolo, el QR en la muñeca de su hijo sigue funcionando: se escanea con cualquier celular."
+     "b": "Si fallan la señal, la memoria y el protocolo, el QR de ComeHomeTag sigue funcionando."
     },
     {
      "role": "cta",
@@ -386,17 +395,18 @@
     {
      "role": "value",
      "h": "La trampa de la manada",
-     "b": "Salida familiar grande: 10 adultos, 6 niños... y cero ojos. Todos creen que «otro lo estaba viendo». La regla: UN responsable por niño, dicho en voz alta: «tú ves a Mati hasta el almuerzo». Con nombre y hora."
+     "b": "· 10 adultos, 6 niños, cero ojos\n· Todos creen que otro lo ve\n· Un responsable por niño, en voz alta",
+     "emoji": "👀"
     },
     {
      "role": "value",
-     "h": "El punto se acuerda al llegar",
-     "b": "Al entrar al parque o al mall, 10 segundos: «si alguien se pierde, nos juntamos en la puerta del cine / la pileta / el letrero grande». Acordarlo DESPUÉS de perderse no funciona, por razones obvias."
+     "h": "El punto, apenas cruzan la puerta",
+     "b": "«Si alguien se pierde, nos juntamos en la pileta.» Diez segundos, al llegar."
     },
     {
      "role": "value",
      "h": "Foto del día antes de salir",
-     "b": "La foto de hoy con la ropa de hoy. Si algo pasa, seguridad busca con una imagen exacta y no con «polo azul, creo». Dos segundos que valen una búsqueda entera."
+     "b": "La ropa de hoy, en foto. Seguridad busca una imagen, no «polo azul, creo»."
     },
     {
      "role": "recap"
@@ -405,7 +415,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "El domingo, todos con su QR puesto.",
-     "b": "Los papás que van al Día del Niño con ComeHomeTag van tranquilos: si el niño aparece donde no debía, cualquier adulto escanea la «pulsera» y los llama. Así de directo."
+     "b": "Los papás que salen con ComeHomeTag van tranquilos: cualquier adulto escanea la «pulsera» y los llama."
     },
     {
      "role": "cta",
@@ -433,7 +443,7 @@
     {
      "role": "value",
      "h": "Ensayen también separados",
-     "b": "Así no: siempre todos juntos en la sala\nAsí sí: una ronda con cada uno en su cuarto\nEl sismo real no avisa dónde los agarra"
+     "b": "Así no: siempre todos juntos en la sala\nAsí sí: una ronda con cada uno en su cuarto"
     },
     {
      "role": "value",
@@ -452,7 +462,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Y el plan B se lleva puesto",
-     "b": "Los papás preparados ensayan con ComeHomeTag en la muñeca: si un sismo real los separa, cualquiera escanea el QR del niño o del abuelo y los junta. Sin batería, sin apps."
+     "b": "Los papás preparados ensayan con ComeHomeTag puesto: si un sismo los separa, cualquiera escanea y los junta."
     },
     {
      "role": "cta",
@@ -485,18 +495,19 @@
     {
      "role": "value",
      "h": "El olvidado de todos los simulacros",
-     "b": "El abuelo. ¿Quién lo asiste hoy a las 3? ¿Su medicina está en la mochila? Si vive solo: llamada de verificación apenas termine el simulacro. Hoy es el día perfecto para estrenar esa costumbre."
+     "b": "El abuelo. ¿Quién lo asiste hoy a las 3? ¿Su medicina está lista?",
+     "emoji": "🧓"
     },
     {
      "role": "value",
      "h": "La sobremesa del simulacro",
-     "b": "Hoy en la cena, 5 minutos: ¿qué salió mal? ¿Quién no sabía su punto? ¿Qué le faltó a la mochila? Un simulacro sin sobremesa es teatro; con sobremesa es entrenamiento."
+     "b": "· ¿Qué salió mal?\n· ¿Quién no sabía su punto?\n· ¿Qué le faltó a la mochila?"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Hoy también se ensaya el QR.",
-     "b": "Familias que ya usan ComeHomeTag: hoy prueben escanear la «pulsera» del niño y del abuelo. 5 segundos, y confirman que el contacto está al día. Preparados de verdad."
+     "b": "Hoy prueben escanear la «pulsera» ComeHomeTag del niño y del abuelo: 5 segundos y confirman el contacto."
     },
     {
      "role": "cta",
@@ -523,23 +534,24 @@
     {
      "role": "value",
      "h": "Sal temprano, vuelve temprano",
-     "b": "El pico de gente en parques y malls es de 1 a 3pm. A las 11am tienes los mismos juegos con la mitad de gente. Y niños con energía y sin hambre se pierden menos que niños cansados a las 4pm."
+     "b": "· El pico es de 1 a 3pm\n· A las 11 hay los mismos juegos\n· Niño cansado se pierde más"
     },
     {
      "role": "value",
      "h": "El juego del punto de encuentro",
-     "b": "Conviértelo en concurso al llegar: «¿dónde nos juntamos si nos perdemos? El primero que responde gana». Un niño que JUEGA la regla la recuerda; uno que la escucha en sermón, no."
+     "b": "«¿Dónde nos juntamos si nos perdemos? El primero que responde gana.»"
     },
     {
      "role": "value",
      "h": "Ojo con la hora del bajón",
-     "b": "Después del almuerzo y del algodón de azúcar viene el sueño y el berrinche. Ahí es cuando los papás se distraen negociando y los niños se sueltan. Programa la salida ANTES del bajón, no después."
+     "b": "· Después del almuerzo viene el sueño\n· Los papás negocian y el niño se suelta\n· Programa la salida antes",
+     "emoji": "🥱"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Mañana, con el QR puesto desde casa.",
-     "b": "Los papás que celebran el Día del Niño con ComeHomeTag salen con un seguro silencioso: cualquier persona que encuentre a su hijo puede llamarlos en segundos."
+     "b": "Los papás que salen con ComeHomeTag llevan un seguro silencioso: quien lo encuentre los llama en segundos."
     },
     {
      "role": "cta",
@@ -570,8 +582,8 @@
     },
     {
      "role": "value",
-     "h": "La hora crítica: 1 a 3pm",
-     "b": "Máxima gente, máximo ruido, niños con azúcar. Si puedes elegir, celebra temprano. Si ya estás en el pico: la mano no se negocia."
+     "h": "Si ya estás en el pico, la mano",
+     "b": "Máxima gente, máximo ruido, niños con azúcar. La mano no se negocia."
     },
     {
      "role": "stat",
@@ -603,23 +615,24 @@
     {
      "role": "value",
      "h": "Por eso uno se queda anclado",
-     "b": "Si son dos adultos: uno se planta en ese último punto y NO se mueve, visible, aunque la ansiedad le grite que corra. Muchos reencuentros pasan exactamente ahí, en los primeros minutos."
+     "b": "Uno se planta ahí y no se mueve, visible, aunque la ansiedad le grite que corra.",
+     "emoji": "😰"
     },
     {
      "role": "value",
      "h": "Si estás solo, el punto va contigo",
-     "b": "Avisa a seguridad ANTES de moverte del punto («estoy en la pileta, mi hijo es este» + foto) para que el punto quede cubierto por ellos mientras tú buscas. Nunca dejes el punto huérfano sin avisar."
+     "b": "Avisa a seguridad antes de moverte: «estoy en la pileta, mi hijo es este» y la foto."
     },
     {
      "role": "value",
      "h": "Enséñale la mitad que le toca",
-     "b": "«Si no me ves: te quedas donde estás o vuelves al último lugar donde me viste. Nunca sales a la calle ni al estacionamiento.» Los límites del edificio son la frontera que un niño sí entiende."
+     "b": "«Si no me ves, te quedas donde estás. Nunca sales a la calle.»"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Y si lo encuentra otro primero, mejor.",
-     "b": "Con ComeHomeTag, el adulto que lo encuentre escanea el QR y te llama al instante, estés en el punto, en seguridad o a mitad del pasillo. Los papás que lo usan lo llaman su «segundo plan»."
+     "b": "Con ComeHomeTag, el adulto que lo encuentre escanea el QR y te llama al instante."
     },
     {
      "role": "cta",
@@ -646,23 +659,23 @@
     {
      "role": "value",
      "h": "La realidad es menos película",
-     "b": "La inmensa mayoría de niños que «se pierden» son separaciones accidentales: multitud, distracción de 30 segundos, cada uno caminó a un lado distinto. Y casi todas se resuelven en minutos... cuando hay plan."
+     "b": "· Casi todas son separaciones accidentales\n· Multitud y 30 segundos de distracción\n· Se resuelven en minutos, con plan"
     },
     {
      "role": "value",
      "h": "El miedo equivocado desprotege",
-     "b": "El papá que solo teme al secuestrador vigila extraños y no arma punto de reencuentro, ni foto del día, ni responsable por niño. Se prepara para la película y no para el domingo en el parque."
+     "b": "Vigilar extraños no arma punto de encuentro, ni foto del día, ni responsable por niño."
     },
     {
      "role": "value",
      "h": "Las 3 preparaciones silenciosas",
-     "b": "· Foto del día al salir\n· Punto de reencuentro al llegar\n· Identificación puesta en el niño\nNadie las nota. Hasta el día que valen oro."
+     "b": "· Foto del día al salir\n· Punto de reencuentro al llegar\n· Identificación puesta en el niño"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
      "h": "La tercera preparación silenciosa.",
-     "b": "ComeHomeTag es identificación que no se siente: una pulsera que el niño usa como adorno y que habla por él si algún día hace falta. Las familias precavidas ya la llevan."
+     "b": "ComeHomeTag es identificación que no se siente: una pulsera que el niño usa como adorno."
     },
     {
      "role": "cta",
@@ -689,22 +702,23 @@
      "role": "story",
      "plate": "cine-08-papa",
      "h": "Almuerzo familiar, 12 adultos, 6 niños",
-     "b": "Todos conversando, todos «viéndolos», ninguno viéndolos. Cuando preguntan por Mati, cada adulto jura que estaba con otro. El niño llevaba 15 minutos en la cochera. Escena repetida en todo el Perú, cada domingo."
+     "b": "Todos «viéndolos», ninguno viéndolos. Mati llevaba 15 minutos en la cochera.",
+     "emoji": "😬"
     },
     {
      "role": "value",
      "h": "La regla del responsable nombrado",
-     "b": "«Tú ves a Mati hasta las 3, después me toca.» Con NOMBRE y con HORA, en voz alta. La responsabilidad difusa («entre todos los vemos») es la causa número uno del susto familiar."
+     "b": "«Tú ves a Mati hasta las 3, después me toca.» Con nombre y con hora."
     },
     {
      "role": "value",
      "h": "El conteo al mover la manada",
-     "b": "Cada vez que el grupo cambia de ambiente, de la sala al patio o del restaurante al carro, alguien cuenta niños en voz alta. «¿Somos 6? Somos 6.» Tres segundos que evitan salir sin uno."
+     "b": "· Cada vez que cambian de ambiente\n· Alguien cuenta en voz alta\n· «¿Somos 6? Somos 6»"
     },
     {
      "role": "value",
      "h": "Los niños grandes también",
-     "b": "El de 9 años «que ya es grande» es justo el que se aleja más rápido y sin permiso. Responsable nombrado hasta los 12, aunque proteste. Que proteste con supervisión."
+     "b": "El de 9 «que ya es grande» se aleja más rápido. Responsable nombrado hasta los 12."
     },
     {
      "role": "recap"
@@ -713,7 +727,7 @@
      "role": "stat",
      "shot": "llavero.png",
      "h": "Para la cochera, el QR.",
-     "b": "En reuniones grandes, los papás que usan ComeHomeTag respiran distinto: si un niño termina donde nadie lo vio salir, cualquier adulto escanea su «pulsera» y llama. La tía puede seguir conversando."
+     "b": "En reuniones grandes, los papás con ComeHomeTag respiran distinto: cualquiera escanea y llama."
     },
     {
      "role": "cta",
@@ -739,17 +753,18 @@
     {
      "role": "value",
      "h": "El chip no lo lee tu vecino",
-     "b": "El microchip solo lo escanea el veterinario, si es que llega ahí. Y la placa grabada se gasta hasta quedar ilegible. El vecino que encuentra a tu perro necesita algo que pueda leer y usar en el momento."
+     "b": "· El microchip solo lo lee el veterinario\n· La placa grabada se gasta\n· El vecino necesita leerlo al momento"
     },
     {
      "role": "value",
      "h": "Qué debe decir la placa",
-     "b": "TU número, grande y primero. El nombre del perro es lo de menos (igual le va a decir «chiquito»). Si solo cabe una cosa: el número. La foto actualizada en tu celular hace el resto."
+     "b": "TU número, grande y primero. El nombre del perro es lo de menos."
     },
     {
      "role": "value",
      "h": "El doble seguro del paseo",
-     "b": "Collar + arnés, correa enganchada al arnés. Los perros asustados por pirotecnia o claxon se «sacan» el collar solo en dos segundos. Y agosto tiene procesiones y ensayos con banda a la vuelta de la esquina."
+     "b": "· Collar más arnés, correa al arnés\n· El perro asustado se saca el collar\n· Agosto trae bandas y pirotecnia",
+     "emoji": "😨"
     },
     {
      "role": "recap"
@@ -758,7 +773,7 @@
      "role": "stat",
      "shot": "llavero.png",
      "h": "El QR también es para ellos.",
-     "b": "El «llavero» ComeHomeTag va en el collar: cualquiera lo escanea con su celular y te llama, sin apps ni citas al veterinario. Las familias que ya lo usan en los niños lo pusieron en el perro a la semana."
+     "b": "El «llavero» ComeHomeTag va en el collar: cualquiera lo escanea y te llama, sin apps ni veterinario."
     },
     {
      "role": "cta",
@@ -804,7 +819,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "El contacto siempre encima",
-     "b": "Si un día los planes fallan y tu hijo queda esperando en la puerta, cualquier profesor escanea su ComeHomeTag y te llama a ti. Los papás organizados ya la usan de uniforme."
+     "b": "Si el plan falla y tu hijo queda esperando, cualquier profesor escanea su ComeHomeTag y te llama."
     },
     {
      "role": "cta",
@@ -832,17 +847,18 @@
     {
      "role": "value",
      "h": "Las 3 señales tempranas",
-     "b": "· Se pierde en rutas que conoce\n· Sale «a comprar» a horas raras\n· Confunde nombres y calles\nEl patrón repetido: consulta médica."
+     "b": "· Se pierde en rutas que conoce\n· Sale «a comprar» a horas raras\n· Confunde nombres y calles\n· Si se repite, consulta médica"
     },
     {
      "role": "value",
      "h": "La conversación sin drama",
-     "b": "No es «papá, estás mal». Es «papá, acompáñame al médico que YO quiero hacerte un chequeo». La dignidad primero: los abuelos aceptan cuidarse cuando no se sienten acusados de fallar."
+     "b": "No es «papá, estás mal». Es «acompáñame al médico, yo quiero tu chequeo».",
+     "emoji": "🫂"
     },
     {
      "role": "value",
      "h": "El mapa de su rutina",
-     "b": "Bodega, parque, iglesia, el kiosco del diario: anota los 4 lugares de su vida diaria. Si un día tarda, ahí se pregunta primero. Esas 4 personas deberían tener tu número desde antes."
+     "b": "· Bodega, parque, iglesia, kiosco\n· Ahí se pregunta primero\n· Esas 4 personas ya tienen tu número"
     },
     {
      "role": "recap"
@@ -851,7 +867,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Que buscarlo tome minutos, no años.",
-     "b": "Las familias con abuelos ya les pusieron ComeHomeTag: si alguien lo encuentra desorientado, escanea su «pulsera» y llama a la familia. Sin batería, sin apps, sin hacerlo sentir vigilado."
+     "b": "Las familias con abuelos ya les pusieron ComeHomeTag: quien lo encuentre desorientado escanea y llama."
     },
     {
      "role": "cta",
@@ -878,12 +894,13 @@
     {
      "role": "value",
      "h": "Deambular no es pasear",
-     "b": "Es salir con un propósito que solo existe en su memoria: ir al trabajo de hace 30 años, recoger a un hijo que ya es adulto. Por eso no «vuelven cuando se cansan»: están yendo a un lugar que ya no existe. (El dato es de alz.org.)"
+     "b": "· No es pasear: van a un lugar que ya no existe\n· El trabajo de hace 30 años\n· Por eso no vuelven al cansarse\n· Fuente: alz.org"
     },
     {
      "role": "value",
      "h": "La hora peligrosa: el atardecer",
-     "b": "Existe hasta un nombre para eso: el síndrome del atardecer. Al caer la tarde suelen crecer la confusión y la inquietud. Es la franja que más ojos pide."
+     "b": "Se llama síndrome del atardecer: al caer la tarde crecen la confusión y la inquietud.",
+     "emoji": "🌙"
     },
     {
      "role": "value",
@@ -897,7 +914,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "6 de cada 10. Por eso existe esto.",
-     "b": "ComeHomeTag nació también para ellos: pulsera cómoda, sin botones ni carga, que cualquier persona escanea para llamar a la familia. Las familias que cuidan abuelos la ponen ANTES del primer susto."
+     "b": "ComeHomeTag nació también para ellos: pulsera cómoda, sin botones ni carga, que cualquiera escanea."
     },
     {
      "role": "cta",
@@ -924,23 +941,23 @@
     {
      "role": "value",
      "h": "Y no está mintiendo: se siente bien",
-     "b": "Nadie acepta cuidados que se sienten como una degradación. La entrada correcta no es «necesitas ayuda» sino «es para MI tranquilidad»: le estás pidiendo un favor, no declarándolo incapaz."
+     "b": "No es «necesitas ayuda». Es «hazlo por MI tranquilidad»: un favor, no una degradación."
     },
     {
      "role": "value",
      "h": "Acuerdos, no órdenes",
-     "b": "Qué decide él (sus salidas, sus horarios, su plata), qué acuerdan juntos (avisar cuando sale lejos, contestar a una hora fija). Un abuelo con autonomía coopera; uno vigilado se rebela, y con razón."
+     "b": "· Él decide salidas, horarios y plata\n· Acuerdan avisar cuando sale lejos\n· Vigilado se rebela, y con razón"
     },
     {
      "role": "value",
      "h": "Tecnología invisible o no habrá tecnología",
-     "b": "Todo lo que hay que cargar, prender o configurar termina en un cajón. Lo que funciona es lo que no estorba: se pone una vez y se olvida. Si requiere que tu papá «aprenda a usarlo», ya perdiste."
+     "b": "Lo que hay que cargar, prender o configurar termina en un cajón."
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Invisible, sin carga, sin lecciones.",
-     "b": "Por eso las familias eligen ComeHomeTag para los abuelos: una pulsera y ya: nada que cargar, nada que aprender, nada que lo haga sentir vigilado. La ayuda que no parece ayuda es la que sí se usa."
+     "b": "Por eso las familias eligen ComeHomeTag para los abuelos: nada que cargar, nada que aprender."
     },
     {
      "role": "cta",
@@ -968,23 +985,24 @@
      "role": "story",
      "plate": "cine-09-ventana",
      "h": "El buen samaritano necesita permiso",
-     "b": "El que sospecha que algo anda mal no quiere «meterse en problemas»: no sabe si llamar a la policía es exagerar. Una identificación clara le da el permiso que necesita: ahora sí sabe exactamente qué hacer."
+     "b": "· No sabe si llamar es exagerar\n· Teme meterse en problemas\n· Ante la duda, sigue de largo"
     },
     {
      "role": "value",
      "h": "Identificación que se entiende en 5 segundos",
-     "b": "Nombre, una línea («tengo problemas de memoria») y un contacto que funcione. Eso convierte a cualquier transeúnte en tu aliado. Sin eso, hasta el más buena gente duda 20 minutos. Y en 20 minutos el abuelo cruzó tres avenidas."
+     "b": "· Nombre\n· «Tengo problemas de memoria»\n· Un contacto que conteste"
     },
     {
      "role": "value",
      "h": "Prepara al abuelo para aceptar ayuda",
-     "b": "Ensáyalo con él, sin drama: «si un día te sientes confundido, deja que lean tu «pulsera» y espera con la persona». Aceptar ayuda también se practica. Y practicado, pasa."
+     "b": "«Si te sientes confundido, deja que lean tu «pulsera» y espera con la persona.»",
+     "emoji": "🫂"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
-     "h": "El permiso que el extraño necesita.",
-     "b": "El QR de ComeHomeTag hace exactamente eso: el que lo encuentra escanea, ve a quién llamar y llama. De desconocido con dudas a aliado con instrucciones, en cinco segundos."
+     "h": "Cinco segundos y ya sabe a quién llamar.",
+     "b": "El que lo encuentra escanea el QR de ComeHomeTag, ve a quién llamar y llama."
     },
     {
      "role": "cta",
@@ -1031,7 +1049,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "La red invisible se llama QR",
-     "b": "Las familias que cuidan sin encerrar le ponen ComeHomeTag: él sale como siempre y cualquiera que lo vea desorientado escanea la «pulsera» y te llama. Sin botones, sin carga, sin lecciones."
+     "b": "Le ponen ComeHomeTag: sale como siempre, y quien lo vea desorientado escanea y te llama."
     },
     {
      "role": "cta",
@@ -1059,28 +1077,29 @@
     {
      "role": "value",
      "h": "El plan de cola",
-     "b": "Turnos: un adulto guarda el sitio, otro pasea a los niños cerca. Nunca «espérame aquí solito que ya vengo». Y los abuelos del brazo, no de la mano: del brazo se sueltan menos y se cansan menos."
+     "b": "· Un adulto guarda el sitio\n· Otro pasea a los niños cerca\n· Nunca «espérame aquí solito»"
     },
     {
      "role": "value",
      "h": "La carta se escribe EN CASA",
-     "b": "Que los niños escriban su carta a Santa Rosa antes de salir. Menos tiempo parados en el tumulto = menos aburrimiento = menos niños explorando por su cuenta mientras los adultos rezan."
+     "b": "Menos tiempo parados es menos niños explorando mientras los adultos rezan."
     },
     {
      "role": "value",
      "h": "Hora valle y salida clara",
-     "b": "Temprano en la mañana la cola es la mitad. Y antes de entrar al tumulto, el clásico que siempre vale: punto de reencuentro señalado con el dedo: «si nos separamos, acá»."
+     "b": "· Temprano la cola es la mitad\n· Antes de entrar, señala el punto\n· «Si nos separamos, acá»"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
      "h": "En la multitud lenta, el QR rápido.",
-     "b": "Las familias que van a Santa Rosa con ComeHomeTag llevan la tranquilidad puesta: niños y abuelos con su «pulsera», y cualquier persona del tumulto puede contactarlos si hace falta."
+     "b": "Niños y abuelos con su «pulsera» ComeHomeTag: cualquiera del tumulto puede contactarte."
     },
     {
      "role": "cta",
      "h": "Que tu único deseo en el pozo no sea encontrarlo.",
-     "b": "comehometag.com"
+     "b": "comehometag.com",
+     "emoji": "🙏"
     }
    ],
    "caption": {
@@ -1107,12 +1126,12 @@
     {
      "role": "value",
      "h": "Transporte público en manada",
-     "b": "· Un adulto sube primero\n· Niños al medio, otro adulto cierra\n· Al bajar: conteo en voz alta"
+     "b": "· Un adulto sube primero\n· Niños al medio, otro adulto cierra\n· Al bajar, nadie corre"
     },
     {
      "role": "value",
      "h": "El conteo en cada cambio",
-     "b": "«¿Somos 6? Somos 6.» En cada parada, cada restaurante, cada cambio de ambiente. Suena militar; es lo que separa a las familias que llegan completas de las que dan vueltas buscando a uno."
+     "b": "«¿Somos 6? Somos 6.» En cada parada y cada cambio de ambiente."
     },
     {
      "role": "recap"
@@ -1121,7 +1140,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Las familias grandes van con QR.",
-     "b": "Cuando la manada es grande, ComeHomeTag es el seguro de todos: niños y abuelos con su «pulsera», y cualquier extraño puede contactar a la familia en segundos. Salir en grupo, volver en grupo."
+     "b": "Cuando la manada es grande, ComeHomeTag es el seguro de todos: niños y abuelos con su «pulsera»."
     },
     {
      "role": "cta",
@@ -1149,23 +1168,24 @@
     {
      "role": "value",
      "h": "Ubicación compartida, activada ANTES",
-     "b": "No «si pasa algo la prendo»: activada desde que sale de casa. En la puerta del estadio la señal se satura y ya no hay cómo configurarla. Antes de salir, con wifi de casa."
+     "b": "· Actívala antes de salir de casa\n· En la puerta del estadio la señal se satura\n· «Si pasa algo la prendo» no funciona"
     },
     {
      "role": "value",
      "h": "Puerta exacta y hora exacta",
-     "b": "«Nos vemos en la salida» no existe con 40 mil personas. Puerta con número o letra + hora concreta + «si no hay señal, ahí mismo espero». Los SMS suelen pasar cuando los datos mueren: díselo."
+     "b": "· Puerta con número o letra\n· Hora concreta\n· Sin señal, ahí mismo espera\n· Los SMS pasan cuando los datos mueren"
     },
     {
      "role": "value",
      "h": "Batería es seguridad",
-     "b": "· Modo ahorro y brillo bajo desde la tarde\n· Power bank si tiene\n· Celular muerto a las 11pm: noche de terror en casa"
+     "b": "· Modo ahorro y brillo bajo desde la tarde\n· Power bank si tiene\n· Celular muerto a las 11pm: noche de terror",
+     "emoji": "🔋"
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
-     "h": "El plan B cuando el celular muere.",
-     "b": "Las familias precavidas mandan a los chicos al concierto con su ComeHomeTag: si el celular muere o se pierde, cualquier persona puede escanear y llamar a casa. Tecnología sin batería le gana a la batería."
+     "h": "El plan B no usa batería.",
+     "b": "Los chicos van al concierto con su ComeHomeTag: si el celular muere, cualquiera escanea y llama a casa."
     },
     {
      "role": "cta",
@@ -1198,13 +1218,13 @@
     {
      "role": "value",
      "h": "Los niños, con misión",
-     "b": "Niño aburrido explora; niño con misión se queda: «tú cuidas la carta y me avisas cuando lleguemos al pozo». Una tarea tonta es el mejor ancla en una cola de dos horas."
+     "b": "«Tú cuidas la carta y me avisas cuando lleguemos.» Una tarea tonta es el mejor ancla."
     },
     {
      "role": "stat",
      "shot": "pulsera.png",
      "h": "Feriado en multitud, QR puesto.",
-     "b": "Hoy más que nunca: niños y abuelos con su ComeHomeTag, y la familia disfruta la tradición con la tranquilidad puesta en la muñeca."
+     "b": "Hoy más que nunca: niños y abuelos con su ComeHomeTag puesto."
     },
     {
      "role": "cta",
@@ -1251,7 +1271,7 @@
      "role": "stat",
      "shot": "pulsera.png",
      "h": "El cuarto hábito se pone una vez",
-     "b": "Identificación siempre encima: eso resuelve ComeHomeTag. Pulsera QR sin batería que dice tu número cuando tu hijo no puede. Las familias que la usan cierran agosto tranquilas."
+     "b": "Identificación siempre encima: eso resuelve ComeHomeTag. Pulsera QR que dice tu número cuando tu hijo no puede."
     },
     {
      "role": "cta",

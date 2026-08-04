@@ -15,12 +15,12 @@
     {
      "role": "value",
      "h": "Acuerdos, no vigilancia",
-     "b": "Un padre mayor acepta acuerdos, no controles: avisa antes de salir, vuelve por la misma ruta, y el vecino de confianza tiene tu número. Tres pactos, cero pelea."
+     "b": "· Avisa antes de salir\n· Vuelve por la misma ruta\n· El vecino de confianza tiene tu número"
     },
     {
      "role": "value",
      "h": "La ruta fija es un regalo",
-     "b": "Caminar la misma ruta todos los días no es aburrido: es lo que permite que cualquiera lo ubique en minutos si un día no llega."
+     "b": "Caminar la misma ruta no es aburrido: es lo que permite ubicarlo en minutos."
     },
     {
      "role": "stat",
@@ -52,12 +52,12 @@
     {
      "role": "value",
      "h": "El juego de la semana",
-     "b": "Convierte el número en canción y cántenla camino al colegio. A los 6 años se lo aprenden en 3 días; el reto es que TÚ no se lo soples."
+     "b": "Conviértelo en canción y cántenla camino al colegio. El reto es que TÚ no se lo soples."
     },
     {
      "role": "value",
      "h": "La prueba sorpresa",
-     "b": "En la semana, en un momento cualquiera: \"¿y si me llamas del teléfono de la tía?\". Si duda en el tercer dígito, todavía no lo sabe."
+     "b": "«¿Y si me llamas del teléfono de la tía?» Si duda en el tercer dígito, todavía no lo sabe."
     },
     {
      "role": "stat",
@@ -89,12 +89,12 @@
     {
      "role": "value",
      "h": "La regla de la salida única",
-     "b": "Al entrar, muéstrale UNA salida: \"si nos perdemos, nadie sale del mall: nos vemos en esta puerta\". Un niño con destino no deambula por seis."
+     "b": "«Si nos perdemos, nadie sale del mall: nos vemos en esta puerta.» Un niño con destino no deambula."
     },
     {
      "role": "value",
      "h": "Seguridad primero, búsqueda después",
-     "b": "Avisa a cualquier trabajador con uniforme ANTES de buscar solo: ellos comunican todas las puertas por radio en un minuto. Tú solo cubres una."
+     "b": "Ellos comunican las seis puertas por radio en un minuto. Tú solo cubres una."
     },
     {
      "role": "stat",
@@ -127,17 +127,18 @@
     {
      "role": "value",
      "h": "La cola no es el peligro, es la noche",
-     "b": "Los campamentos de fans son organizados de día y vulnerables de madrugada. Regla: en la cola sí, dormir ahí solo con un adulto del grupo que TÚ conozcas."
+     "b": "Organizados de día, vulnerables de madrugada. Dormir ahí, solo con un adulto que TÚ conozcas.",
+     "emoji": "😰"
     },
     {
      "role": "value",
      "h": "El sistema de turnos",
-     "b": "Los grupos de ARMYs rotan turnos para guardar sitio. Pide el número de las 2 amigas del turno de tu hija, no el del grupo de 40, el de las 2 de su turno."
+     "b": "Pide el número de las 2 amigas de SU turno, no el del grupo de 40."
     },
     {
      "role": "value",
      "h": "Batería es seguridad",
-     "b": "Power bank cargado y la regla del 30%: si el celular baja de 30, se enchufa o se vuelve. Un celular muerto en una cola de miles es quedarse sorda y muda."
+     "b": "· Power bank cargado\n· Si baja de 30%, se enchufa o se vuelve\n· Celular muerto es quedarse sorda y muda"
     },
     {
      "role": "recap"
@@ -172,12 +173,12 @@
     {
      "role": "value",
      "h": "El acuerdo de entrega",
-     "b": "Con la señora de la movilidad se pacta UNA cosa: nunca se deja al niño sin un adulto de esta lista: mamá, papá, abuela. ¿No hay nadie? Vuelve al colegio, no se queda en la vereda."
+     "b": "· Nunca se le deja sin un adulto de la lista\n· Mamá, papá, abuela\n· Si no hay nadie, vuelve al colegio"
     },
     {
      "role": "value",
      "h": "El plan del timbre muerto",
-     "b": "Enséñale qué hacer si toca y nadie abre: se queda CON la movilidad. Los niños que se quedan esperando en la puerta son los que caminan a buscarte."
+     "b": "Si toca y nadie abre, se queda CON la movilidad. El que espera en la puerta camina a buscarte."
     },
     {
      "role": "stat",
@@ -210,12 +211,12 @@
     {
      "role": "value",
      "h": "El asiento es una dirección",
-     "b": "Bloque, fila, asiento: que se lo memorice como su casa. En un estadio nadie encuentra a nadie \"por la zona del medio\": se encuentran por el asiento."
+     "b": "Bloque, fila, asiento: que se lo memorice como su casa. Nadie encuentra a nadie «por la zona del medio»."
     },
     {
      "role": "value",
      "h": "El punto del pasillo",
-     "b": "Si se separan camino al baño o al puesto de comida: se vuelve AL ASIENTO, no se busca entre la gente. El asiento es el único lugar del estadio que no se mueve."
+     "b": "Si se separan camino al baño, se vuelve AL ASIENTO. Es el único lugar del estadio que no se mueve."
     },
     {
      "role": "stat",
@@ -248,12 +249,13 @@
     {
      "role": "value",
      "h": "El asiento pactado",
-     "b": "En el terminal cada uno sabe su asiento ANTES de bajar del taxi. El niño que conoce su asiento camina al bus; el que no, se queda mirando la multitud."
+     "b": "Cada uno sabe su asiento ANTES de bajar del taxi. El que lo conoce camina al bus."
     },
     {
      "role": "value",
      "h": "La regla de la parada",
-     "b": "En paradas de ruta: nadie baja solo, y si el bus arranca sin alguien, el niño sabe que se queda EN el bus con el copiloto avisado. El bus siempre espera en el siguiente paradero, el niño perdido no."
+     "b": "· Nadie baja solo en las paradas\n· Si el bus arranca sin alguien, se queda EN el bus\n· El bus espera; el niño perdido, no",
+     "emoji": "😨"
     },
     {
      "role": "stat",
@@ -286,12 +288,12 @@
     {
      "role": "value",
      "h": "Los 15 minutos de oro",
-     "b": "Quedarse sentados 15 minutos después del final convierte la estampida en una caminata. Nadie pierde nada: los buses igual van a estar ahí."
+     "b": "Quedarse sentados 15 minutos convierte la estampida en caminata. Los buses igual van a estar ahí."
     },
     {
      "role": "value",
      "h": "El punto es AFUERA, no en la puerta",
-     "b": "Las puertas del estadio son el peor punto de reencuentro del mundo: miles pasando por ahí. El punto se pacta a 2 cuadras, en algo fijo e iluminado."
+     "b": "Las puertas son el peor punto del mundo: miles pasando. Se pacta a 2 cuadras, en algo iluminado."
     },
     {
      "role": "stat",
@@ -324,12 +326,12 @@
     {
      "role": "value",
      "h": "El pacto de las dos",
-     "b": "Antes de salir, las dos aceptan lo mismo: la menor no va sola NI al baño, y la mayor contesta el check-in de las 10pm aunque esté en la mejor canción."
+     "b": "· La menor no va sola ni al baño\n· La mayor contesta el check-in de las 10\n· Aunque esté en la mejor canción"
     },
     {
      "role": "value",
      "h": "Si se separan, manda el plan, no el pánico",
-     "b": "Cada una sabe el punto (el asiento durante, las 2 cuadras después). La mayor busca 10 minutos máximo y luego avisa a seguridad, no una hora de pánico en silencio."
+     "b": "Busca 10 minutos como máximo y avisa a seguridad. No una hora de pánico en silencio."
     },
     {
      "role": "stat",
@@ -361,12 +363,12 @@
     {
      "role": "value",
      "h": "El guion de 3 líneas",
-     "b": "\"Me llamo [nombre completo]. Estoy perdido en [lo que ve: la tienda amarilla, la puerta 4]. El número de mi mamá es [número]\". Se ensaya como poesía de colegio."
+     "b": "«Me llamo [nombre completo]. Estoy perdido en la puerta 4. El número de mi mamá es [número].»"
     },
     {
      "role": "value",
      "h": "No cuelgues nunca",
-     "b": "La regla que nadie enseña: quedarse en la línea aunque no sepa responder. Un teléfono conectado se ubica; uno que colgó, no."
+     "b": "Quedarse en la línea aunque no sepa responder. Un teléfono conectado se ubica."
     },
     {
      "role": "stat",
@@ -399,12 +401,12 @@
     {
      "role": "value",
      "h": "De noche cambia todo",
-     "b": "El plan diurno de tu casa no sirve a oscuras: la linterna está donde nadie recuerda y los lentes de papá también. Esta semana: una linterna POR CUARTO, siempre en el mismo sitio."
+     "b": "La linterna está donde nadie recuerda, y los lentes de papá también. Una linterna POR CUARTO."
     },
     {
      "role": "value",
      "h": "Camina, no corras, y menos a oscuras",
-     "b": "De noche el peligro no es el techo: es el vidrio del portarretrato en el piso. Luz primero, zapatos segundo, salir tercero."
+     "b": "De noche el peligro no es el techo: es el vidrio en el piso. Luz, zapatos, salir."
     },
     {
      "role": "stat",
@@ -437,12 +439,13 @@
     {
      "role": "value",
      "h": "La rutina sismo-lista",
-     "b": "Desde hoy los niños duermen con zapatos junto a la cama, apuntando a la puerta. Suena exagerado hasta que recuerdas que el piso de un sismo nocturno está lleno de vidrio."
+     "b": "· Zapatos junto a la cama\n· Apuntando a la puerta\n· El piso de un sismo se llena de vidrio"
     },
     {
      "role": "value",
      "h": "El niño dormido no despierta como tú",
-     "b": "A un niño profundo un temblor no lo despierta: te toca cargarlo. Por eso su cuarto se cruza en 4 pasos sin obstáculos: el camino a su cama se deja libre TODAS las noches."
+     "b": "A un niño profundo el temblor no lo despierta: te toca cargarlo. Su cuarto se cruza en 4 pasos.",
+     "emoji": "😴"
     },
     {
      "role": "stat",
@@ -475,17 +478,17 @@
     {
      "role": "value",
      "h": "El juego de la linterna",
-     "b": "Hoy el simulacro lo dirigen los niños: cada uno con su linterna guía a la familia a la zona segura. El niño que dirige el ensayo no llora en el sismo real: sabe qué toca."
+     "b": "Cada niño con su linterna guía a la familia. El que dirige el ensayo no llora en el sismo real."
     },
     {
      "role": "value",
      "h": "El ensayo de separados",
-     "b": "Segunda ronda: papá en la cocina, niños en su cuarto. Cada uno llega SOLO a la zona segura. Es la ronda que nadie ensaya y la que más importa: los sismos no esperan a que estén juntos."
+     "b": "· Papá en la cocina, niños en su cuarto\n· Cada uno llega SOLO a la zona segura\n· Es la ronda que nadie ensaya"
     },
     {
      "role": "value",
      "h": "Cierre: la pregunta del millón",
-     "b": "Al terminar pregúntales: \"¿y si no me encuentras?\". La respuesta que deben dar solos: voy a la zona segura y espero. No te busco por la casa oscura."
+     "b": "«¿Y si no me encuentras?» La respuesta que deben dar solos: voy a la zona segura y espero."
     },
     {
      "role": "recap"
@@ -522,12 +525,12 @@
     {
      "role": "value",
      "h": "Temprano no es madrugada, es estrategia",
-     "b": "Las primeras dos horas del recorrido tienen espacio para caminar; después son un solo cuerpo de gente. Con niños y abuelos: se va temprano y se sale antes del cierre."
+     "b": "Las primeras dos horas tienen espacio para caminar; después son un solo cuerpo de gente."
     },
     {
      "role": "value",
      "h": "La esquina, no la cuadra",
-     "b": "El punto de reencuentro en procesión se pacta por ESQUINA con nombre (Tacna con Emancipación), nunca \"por la iglesia\": la iglesia la rodean cien mil personas."
+     "b": "Se pacta por ESQUINA con nombre: Tacna con Emancipación. Nunca «por la iglesia»."
     },
     {
      "role": "stat",
@@ -559,12 +562,12 @@
     {
      "role": "value",
      "h": "La cámara llega tarde por diseño",
-     "b": "Las cámaras sirven DESPUÉS: para reconstruir por dónde se fue. En los primeros minutos, los que importan, nadie está viendo ese monitor."
+     "b": "Sirven DESPUÉS, para reconstruir por dónde se fue. En los primeros minutos nadie mira ese monitor."
     },
     {
      "role": "value",
      "h": "Lo que sí funciona en minuto 1",
-     "b": "Tu foto del día en el celular, el aviso inmediato a un uniformado y quedarte donde el niño te vio por última vez. Eso resuelve en 10 minutos lo que la cámara documenta en 2 horas."
+     "b": "· La foto del día en tu celular\n· Aviso inmediato a un uniformado\n· Quedarte donde te vio por última vez"
     },
     {
      "role": "stat",
@@ -596,12 +599,12 @@
     {
      "role": "value",
      "h": "El imán tiene nombre",
-     "b": "Pregúntale AL LLEGAR qué juego quiere. Ese juego es su imán: si desaparece, ahí está. Un niño no se pierde al azar: camina hacia lo que quería."
+     "b": "Pregúntale AL LLEGAR qué juego quiere. Si desaparece, ahí está: camina hacia lo que quería."
     },
     {
      "role": "value",
-     "h": "El adulto del juego",
-     "b": "Cada operador de juego tiene parlante y altura: enséñale que el señor del juego es su \"policía de feria\" si no te ve. Es el único adulto fijo en un mar que camina."
+     "h": "Su policía de feria",
+     "b": "El señor del juego: parlante, altura y el único adulto fijo del lugar."
     },
     {
      "role": "stat",
@@ -649,7 +652,7 @@
     {
      "role": "stat",
      "h": "El QR no distingue barrios",
-     "b": "ComeHomeTag: la «pulsera» con tu contacto en la muñeca del niño y del abuelo. En la procesión chica o en la grande, quien lo encuentre te llama."
+     "b": "ComeHomeTag: la «pulsera» con tu contacto en la muñeca del niño y del abuelo. Quien lo encuentre te llama."
     },
     {
      "role": "cta",
@@ -678,12 +681,12 @@
     {
      "role": "value",
      "h": "La uniformidad te ciega",
-     "b": "Buscas \"un niño de morado\" entre cien mil personas de morado. En la procesión, la ropa no identifica: el DETALLE identifica."
+     "b": "Buscas «un niño de morado» entre cien mil de morado. La ropa no identifica: el DETALLE identifica."
     },
     {
      "role": "value",
      "h": "El distintivo sobre el hábito",
-     "b": "Una gorra amarilla, un globo amarrado a la muñeca, las zapatillas rojas: UN elemento que no sea morado ni blanco. Tu ojo lo encuentra a 50 metros."
+     "b": "· Una gorra amarilla\n· Un globo en la muñeca\n· Zapatillas rojas\n· Un elemento que no sea morado"
     },
     {
      "role": "stat",
@@ -717,12 +720,13 @@
     {
      "role": "value",
      "h": "El abuelo tiene su propia procesión",
-     "b": "Él conoce otro recorrido, otra época, otros amigos. Se aleja a saludar, a rezar donde siempre. No está perdido en su cabeza, pero sí en la tuya. Va en par con un adulto, como los niños."
+     "b": "Se aleja a saludar, a rezar donde siempre. No está perdido en su cabeza, pero sí en la tuya.",
+     "emoji": "🧓"
     },
     {
      "role": "value",
      "h": "La noche cansa distinto",
-     "b": "El anda avanza de noche y el cansancio del abuelo no avisa: banca ubicada cada hora, pastillas en el bolsillo de ÉL, y la salida decidida por hora, no \"cuando termine\"."
+     "b": "· Banca ubicada cada hora\n· Pastillas en el bolsillo de ÉL\n· La salida se decide por hora"
     },
     {
      "role": "stat",
@@ -754,12 +758,12 @@
     {
      "role": "value",
      "h": "El orden que ahorra una hora",
-     "b": "Si tu hijo no llegó donde debía: 1) llamas al punto donde estaba (colegio, casa del amigo), 2) al adulto que lo tenía, 3) recién ahí al grupo. El grupo especula; los dos primeros SABEN."
+     "b": "· Primero, al punto donde estaba\n· Después, al adulto que lo tenía\n· Recién ahí, al grupo"
     },
     {
      "role": "value",
      "h": "Pregunta datos, no opiniones",
-     "b": "Al grupo se entra con pregunta cerrada: \"¿alguien lo VIO salir? ¿con quién?\". Las 40 respuestas de \"ay no, ojalá aparezca\" no son información."
+     "b": "Pregunta cerrada: «¿alguien lo VIO salir? ¿con quién?». Los «ojalá aparezca» no son información."
     },
     {
      "role": "stat",
@@ -791,17 +795,17 @@
     {
      "role": "value",
      "h": "La edad no decide, la prueba sí",
-     "b": "No hay edad mágica para volver solo. Hay 4 pruebas: conoce 2 rutas (no 1), sabe qué hacer si no hay nadie en casa, cruza mirando sin que se lo recuerdes, y tiene el guion del teléfono."
+     "b": "· Conoce 2 rutas, no 1\n· Sabe qué hacer si no hay nadie en casa\n· Cruza mirando sin recordárselo\n· Tiene el guion del teléfono"
     },
     {
      "role": "value",
      "h": "El ensayo con sombra",
-     "b": "Las primeras 3 veces vuelve \"solo\"... contigo a media cuadra. No es espiarlo: es ver con tus ojos qué le falta antes de que lo descubra la calle."
+     "b": "Las primeras 3 veces vuelve «solo», contigo a media cuadra. Ves qué le falta antes que la calle."
     },
     {
      "role": "value",
      "h": "El acuerdo del cambio de plan",
-     "b": "La regla de oro del que ya vuelve solo: cualquier cambio (me voy donde Mateo) se avisa ANTES de moverse, no llegando. Sin excepciones ni para el hijo, ni para papá."
+     "b": "Cualquier cambio se avisa ANTES de moverse, no llegando. Ni para el hijo ni para papá."
     },
     {
      "role": "recap"
@@ -836,12 +840,13 @@
     {
      "role": "value",
      "h": "Perdido a los 15 se dice distinto",
-     "b": "Se le acabó la batería, se quedó sin pasaje, el plan cambió tres veces. No está \"perdido\": está incomunicado, que para ti es lo mismo a las 11pm."
+     "b": "Batería muerta, sin pasaje, el plan cambió tres veces. No está perdido: está incomunicado.",
+     "emoji": "😬"
     },
     {
      "role": "value",
      "h": "El pacto sin pelea",
-     "b": "No es control, es tráfico de información: él comparte ubicación las noches que sale, tú NO escribes si la ves moverse normal. Se rompe el pacto solo si desaparece la señal, de ambos lados."
+     "b": "· Él comparte ubicación las noches que sale\n· Tú no escribes si la ves moverse normal\n· Se rompe solo si desaparece la señal"
     },
     {
      "role": "stat",
@@ -873,12 +878,12 @@
     {
      "role": "value",
      "h": "Tu voz no viaja en multitud",
-     "b": "El nombre de tu hijo gritado en una feria compite con música, parlantes y mil conversaciones. Un silbato corta TODO eso: frecuencia distinta, cero esfuerzo, no se gasta."
+     "b": "El nombre gritado compite con música, parlantes y mil conversaciones. Un silbato corta todo eso."
     },
     {
      "role": "value",
      "h": "El código familiar",
-     "b": "Dos pitidos = \"¿dónde estás?\". Tres = \"ven ya\". El niño lleva el suyo en el cuello los días de multitud y contesta con el mismo código. Ensáyenlo en el parque como juego."
+     "b": "· Dos pitidos: «¿dónde estás?»\n· Tres: «ven ya»\n· Lo lleva al cuello los días de multitud"
     },
     {
      "role": "stat",
@@ -910,12 +915,13 @@
     {
      "role": "value",
      "h": "El silencio es la respuesta normal",
-     "b": "Buscas un niño llorando y tu hijo está callado, quieto, chiquito contra una pared. El miedo real no hace ruido. Por eso las búsquedas a gritos pasan de largo."
+     "b": "Está callado, quieto, chiquito contra una pared. El miedo real no hace ruido.",
+     "emoji": "😨"
     },
     {
      "role": "value",
      "h": "Enséñale a hacerse ver",
-     "b": "Contra el congelamiento, UNA instrucción física ensayada: párate en un lugar alto o abierto y levanta la mano. No le pidas que grite: pídele algo que el cuerpo asustado sí puede hacer."
+     "b": "Una instrucción física ensayada: párate en un lugar alto y levanta la mano. No le pidas que grite."
     },
     {
      "role": "stat",
@@ -948,12 +954,12 @@
     {
      "role": "value",
      "h": "La prueba nocturna del disfraz",
-     "b": "Esta semana: el disfraz completo, en la calle, de noche. ¿Ve por la máscara? ¿Camina sin pisarse la capa? Lo que falla el 31 a las 8pm se descubre HOY a las 8pm."
+     "b": "· El disfraz completo, en la calle, de noche\n· ¿Ve por la máscara?\n· ¿Camina sin pisarse la capa?"
     },
     {
      "role": "value",
      "h": "Brillar es sobrevivir",
-     "b": "Cinta reflectiva en zapatillas y bolsa de dulces: el disfraz más lindo es invisible para un chofer a las 9pm. Dos tiras y tu hijo aparece en los faros a una cuadra."
+     "b": "Cinta reflectiva en zapatillas y bolsa: dos tiras y aparece en los faros a una cuadra."
     },
     {
      "role": "stat",
@@ -986,12 +992,12 @@
     {
      "role": "value",
      "h": "El puesto es un imán con azúcar",
-     "b": "En octubre cada esquina tiene turronera, anticuchera o carrito de picarones, y tu hijo los detecta a dos cuadras. Regla simple: a los puestos se va ACOMPAÑADO, siempre, aunque sea \"ahí nomás\"."
+     "b": "Turroneras, anticucheras y picarones en cada esquina. A los puestos se va ACOMPAÑADO, siempre."
     },
     {
      "role": "value",
      "h": "\"Ahí nomás\" es la frase peligrosa",
-     "b": "Los niños no se pierden lejos: se pierden a 30 metros, en el \"ahí nomás\" que nadie acompañó. Si está a más de un brazo en calle llena, está lejos."
+     "b": "No se pierden lejos: se pierden a 30 metros. Si está a más de un brazo en calle llena, está lejos."
     },
     {
      "role": "stat",
@@ -1024,12 +1030,12 @@
     {
      "role": "value",
      "h": "El transporte decide tu día",
-     "b": "Mañana el centro se cierra por horas: se va en transporte público hasta donde llegue y se camina el resto. El carro estacionado \"cerquita\" queda atrapado hasta la noche."
+     "b": "Transporte público hasta donde llegue y el resto a pie. El carro «cerquita» queda atrapado hasta la noche."
     },
     {
      "role": "value",
      "h": "Entrar y salir por el mismo lado",
-     "b": "El recorrido parte Lima en dos: cruzar de un lado al otro con el anda en medio es imposible. La familia entra, se ubica y sale por el MISMO lado. Se decide antes de ir."
+     "b": "El recorrido parte Lima en dos. La familia entra, se ubica y sale por el MISMO lado."
     },
     {
      "role": "stat",
@@ -1063,12 +1069,12 @@
     {
      "role": "value",
      "h": "Las 3 reglas del día grande",
-     "b": "Esquina de reencuentro con nombre. El distintivo que no es morado. Los pares completos: cada niño y cada abuelo con su adulto. Todo lo demás es fe y disfrute."
+     "b": "· Esquina de reencuentro con nombre\n· El distintivo que no es morado\n· Cada niño y cada abuelo con su adulto"
     },
     {
      "role": "value",
      "h": "La hora de oro para volver",
-     "b": "La procesión no termina: se le abandona. Salir cuando el anda entra a descansar, no cuando la multitud entera decide irse al mismo tiempo que tú."
+     "b": "La procesión no termina: se le abandona. Salir cuando el anda entra a descansar."
     },
     {
      "role": "stat",
@@ -1100,12 +1106,13 @@
     {
      "role": "value",
      "h": "La puerta más abierta del año",
-     "b": "El 31 tu puerta se abre 30 veces para repartir dulces, y al perro asustado por ruidos le basta UNA. Esa noche: perro en un cuarto cerrado con su cama, lejos de la puerta."
+     "b": "Tu puerta se abre 30 veces esa noche y al perro asustado le basta UNA. Cuarto cerrado, lejos de ahí.",
+     "emoji": "😨"
     },
     {
      "role": "value",
      "h": "La foto de HOY, no la del año pasado",
-     "b": "Si igual se escapa, la búsqueda depende de una foto actual: tómala esta semana, de cuerpo entero y de cara. El pelaje cambia más de lo que crees."
+     "b": "Tómala esta semana, de cuerpo entero y de cara. El pelaje cambia más de lo que crees."
     },
     {
      "role": "stat",
@@ -1138,12 +1145,12 @@
     {
      "role": "value",
      "h": "Máscara arriba entre casa y casa",
-     "b": "La regla de la noche: máscara puesta SOLO al tocar puertas, arriba mientras caminan. No es capricho: es que tú lo reconozcas a 20 metros y él vea el sardinel."
+     "b": "Puesta SOLO al tocar puertas, arriba mientras caminan. Que lo reconozcas a 20 metros."
     },
     {
      "role": "value",
      "h": "El conteo en cada esquina",
-     "b": "Grupos de disfraces idénticos se mezclan entre grupos: el adulto cuenta SU grupo en cada esquina, por nombre y no por disfraz. \"¿Están los 5?\" cuesta 4 segundos."
+     "b": "El adulto cuenta SU grupo en cada esquina, por nombre y no por disfraz. «¿Están los 5?»"
     },
     {
      "role": "stat",
@@ -1177,17 +1184,17 @@
     {
      "role": "value",
      "h": "La ruta de 5 casas",
-     "b": "No es \"salir a pedir dulces\": es la ruta pactada de 5 casas CONOCIDAS, en orden, ida y vuelta. El niño que conoce su ruta no sigue al grupo equivocado."
+     "b": "Ruta pactada de 5 casas CONOCIDAS, en orden, ida y vuelta. El que la conoce no sigue al grupo equivocado."
     },
     {
      "role": "value",
      "h": "Un adulto cada 4 niños",
-     "b": "Más de 4 niños por adulto es un adulto decorativo. Grupos chicos, un mayor responsable por grupo, y el celular del adulto en el bolsillo, no grabando toda la noche."
+     "b": "· Más de 4 y el adulto es decorativo\n· Un mayor responsable por grupo\n· El celular en el bolsillo"
     },
     {
      "role": "value",
      "h": "La revisión de dulces es un conteo disfrazado",
-     "b": "\"A ver los dulces\" en cada cuadra: revisas caramelos y de paso cuentas cabezas y baterías. El truco de los papás expertos en Halloween."
+     "b": "«A ver los dulces» en cada cuadra: revisas caramelos y cuentas cabezas de paso."
     },
     {
      "role": "recap"

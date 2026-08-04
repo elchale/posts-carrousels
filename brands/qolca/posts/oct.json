@@ -15,7 +15,7 @@
     {
      "role": "value",
      "h": "Abre tu bandeja y cuenta",
-     "b": "· Cada chat sin respuesta final es una venta en el aire\n· Hoy toca triaje: se cierra, se retoma o se archiva\n· Nada se queda en visto"
+     "b": "· Cada chat sin respuesta final es una venta en el aire\n· Se cierra, se retoma o se archiva\n· Nada se queda en visto"
     },
     {
      "role": "value",
@@ -29,8 +29,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Hablas directo con quien lo construye, empezamos por algo chico y medible"
+     "h": "O que nada llegue a triaje.",
+     "b": "Qolca (qolca.org) construye CRMs y automatización de WhatsApp a medida. Hablas directo con quien lo construye."
     },
     {
      "role": "cta",
@@ -66,12 +66,12 @@
     {
      "role": "value",
      "h": "Funciona en todo lo que se entrega",
-     "b": "· El auto entregado → su primer service\n· El depa → los referidos de la mudanza\n· La boda → el aniversario\n· La posventa es seguimiento"
+     "b": "· El auto entregado: su primer service\n· El depa: los referidos\n· La boda: el aniversario"
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Cada cliente con su historia completa: qué pidió, qué pagó, cuándo volver a llamarlo"
+     "h": "Cada cliente con su historia completa.",
+     "b": "Qolca (qolca.org) guarda qué pidió, qué pagó y cuándo volver a llamarlo. Sin apuntar nada."
     },
     {
      "role": "cta",
@@ -99,17 +99,17 @@
     {
      "role": "value",
      "h": "Los findes de procesión cambian tu mapa",
-     "b": "· Calles cerradas: clientes que no llegan y delivery que se dispara\n· Publica horario y zonas de entrega ANTES del finde, y fija el mensaje"
+     "b": "· Calles cerradas: menos gente y más delivery\n· Publica horario y zonas ANTES del finde"
     },
     {
      "role": "value",
      "h": "El mensaje automático de temporada",
-     "b": "«Este finde la zona está cerrada por la procesión, entregamos por [ruta] hasta las [hora].» Se configura una vez y trabaja todo el mes."
+     "b": "«Este finde la zona está cerrada, entregamos por [ruta] hasta las [hora].» Se configura una vez."
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· De noche responde solo lo repetitivo; lo importante te espera etiquetado, y siempre hay un humano al final"
+     "h": "De noche responde lo repetitivo.",
+     "b": "Qolca (qolca.org): lo importante te espera etiquetado, y siempre hay un humano al final."
     },
     {
      "role": "cta",
@@ -135,7 +135,7 @@
     {
      "role": "value",
      "h": "Arma el catálogo de WhatsApp en una tarde",
-     "b": "· Foto + nombre + descripción de dos líneas por producto, en Herramientas para la empresa → Catálogo\n· Es gratis y casi nadie lo usa"
+     "b": "· Foto, nombre y dos líneas por producto\n· Herramientas para la empresa, Catálogo\n· Es gratis y casi nadie lo usa"
     },
     {
      "role": "value",
@@ -149,8 +149,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Los negocios que ya lo tienen no persiguen chats: los chats les llegan ordenados"
+     "h": "Los chats te llegan ordenados.",
+     "b": "Qolca (qolca.org) construye el CRM y el WhatsApp que responde solo, a la medida de tu negocio."
     },
     {
      "role": "cta",
@@ -192,8 +192,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Hablas directo con quien lo construye, empezamos por algo chico y medible"
+     "h": "La auditoría, hecha sola.",
+     "b": "Qolca (qolca.org) registra dónde se corta cada conversación y quién debe retomarla."
     },
     {
      "role": "cta",
@@ -219,7 +219,8 @@
     {
      "role": "value",
      "h": "La doble venta nace de dos cuadernos",
-     "b": "El vendedor A apuntó en su celular, el B en el suyo. Nadie vio al otro. El cliente sí vio el papelón."
+     "b": "El vendedor A apuntó en su celular, el B en el suyo. Nadie vio al otro. El cliente sí vio el papelón.",
+     "emoji": "😳"
     },
     {
      "role": "value",
@@ -233,8 +234,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Lo armamos para lotes de autos, bodas e inmobiliarias, y para negocios como el tuyo"
+     "h": "Un solo inventario, para todos.",
+     "b": "Qolca (qolca.org) lo arma para lotes de autos, bodas e inmobiliarias. Y para negocios como el tuyo."
     },
     {
      "role": "cta",
@@ -269,8 +270,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Citas, entregas y recordatorios que se confirman sin que los persigas"
+     "h": "Reposición avisada en orden.",
+     "b": "Qolca (qolca.org): citas, entregas y recordatorios que se confirman sin que los persigas."
     },
     {
      "role": "cta",
@@ -303,7 +304,7 @@
     {
      "role": "value",
      "h": "El mensaje de feriado que sí sirve",
-     "b": "No «estamos cerrados»: «Hoy atendemos hasta [hora]; tu pedido queda anotado y mañana a primera hora te confirmamos.» Y que mañana sí se confirme."
+     "b": "«Hoy atendemos hasta [hora]; tu pedido queda anotado y mañana te confirmamos.» Y se cumple."
     },
     {
      "role": "value",
@@ -312,8 +313,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Los negocios que ya lo tienen no persiguen chats: los chats les llegan ordenados"
+     "h": "El feriado atendido sin ti.",
+     "b": "Qolca (qolca.org) recibe, clasifica y deriva mientras tú descansas."
     },
     {
      "role": "cta",
@@ -355,8 +356,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Citas, entregas y recordatorios que se confirman sin que los persigas"
+     "h": "Acuse inmediato en plena ola.",
+     "b": "Qolca (qolca.org): orden visible, tiempo honesto y cada pedido registrado."
     },
     {
      "role": "cta",
@@ -392,8 +393,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· De noche responde solo lo repetitivo; lo importante te espera etiquetado, y siempre hay un humano al final"
+     "h": "El acuse no depende de nadie.",
+     "b": "Qolca (qolca.org) responde al instante y te deja lo importante etiquetado."
     },
     {
      "role": "cta",
@@ -433,8 +434,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Cada cliente con su historia completa: qué pidió, qué pagó, cuándo volver a llamarlo"
+     "h": "La fecha de regreso, guardada sola.",
+     "b": "Qolca (qolca.org) guarda qué compró y cuándo toca escribirle otra vez."
     },
     {
      "role": "cta",
@@ -474,8 +475,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\nCitas, entregas y recordatorios que se confirman sin que los persigas"
+     "h": "La revisión se agenda sola.",
+     "b": "Qolca (qolca.org): citas y recordatorios que se confirman sin que los persigas."
     },
     {
      "role": "cta",
@@ -516,8 +517,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Hablas directo con quien lo construye, empezamos por algo chico y medible"
+     "h": "El negocio sigue aunque tú no.",
+     "b": "Qolca (qolca.org) construye CRMs a medida: el historial es de la empresa, no de un celular."
     },
     {
      "role": "cta",
@@ -552,8 +553,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Los negocios que ya lo tienen no persiguen chats: los chats les llegan ordenados"
+     "h": "Tus cierres, listos en cada chat.",
+     "b": "Qolca (qolca.org): las plantillas viven en el sistema y los chats llegan ordenados."
     },
     {
      "role": "cta",
@@ -594,8 +595,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\nCada cliente con su historia completa: qué pidió, qué pagó, cuándo volver a llamarlo"
+     "h": "Nada cumple 15 días en silencio.",
+     "b": "Qolca (qolca.org) marca cada chat sin cierre y te lo pone al frente."
     },
     {
      "role": "cta",
@@ -621,7 +622,7 @@
     {
      "role": "value",
      "h": "«Sí hay» es media respuesta",
-     "b": "· Atender es guiar: «Sí hay, ¿para qué lo necesitas?\n· Así te digo cuál te conviene.» Una pregunta de vuelta y el chat cambia de dueño"
+     "b": "· «Sí hay, ¿para qué lo necesitas?»\n· Una pregunta de vuelta y el chat cambia de dueño"
     },
     {
      "role": "value",
@@ -630,8 +631,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Lo armamos para lotes de autos, bodas e inmobiliarias, y para negocios como el tuyo"
+     "h": "El guion, dentro del sistema.",
+     "b": "Qolca (qolca.org) lo arma para lotes de autos, bodas e inmobiliarias. Y para el tuyo."
     },
     {
      "role": "cta",
@@ -668,8 +669,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· De noche responde solo lo repetitivo; lo importante te espera etiquetado, y siempre hay un humano al final"
+     "h": "Un turno que no se cae en la ola.",
+     "b": "Qolca (qolca.org) responde lo repetitivo de noche; lo importante te espera etiquetado."
     },
     {
      "role": "cta",
@@ -711,8 +712,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Los negocios que ya lo tienen no persiguen chats: los chats les llegan ordenados"
+     "h": "El transeúnte queda registrado.",
+     "b": "Qolca (qolca.org): cada contacto entra con su etiqueta y su fecha de recontacto."
     },
     {
      "role": "cta",
@@ -747,8 +748,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Cada cliente con su historia completa: qué pidió, qué pagó, cuándo volver a llamarlo"
+     "h": "El padrino queda anotado.",
+     "b": "Qolca (qolca.org) guarda quién trajo a quién, y cuándo toca agradecerlo."
     },
     {
      "role": "cta",
@@ -792,8 +793,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Hablas directo con quien lo construye, empezamos por algo chico y medible"
+     "h": "El kit de campaña, construido.",
+     "b": "Qolca (qolca.org) monta el asistente y la regla de derivación antes de la ola."
     },
     {
      "role": "cta",
@@ -872,8 +873,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Los negocios que ya lo tienen no persiguen chats: los chats les llegan ordenados"
+     "h": "Los chats llegan ordenados por intención.",
+     "b": "Qolca (qolca.org) recibe, clasifica y te deja la cola lista."
     },
     {
      "role": "cta",
@@ -908,8 +909,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Cada cliente con su historia completa: qué pidió, qué pagó, cuándo volver a llamarlo"
+     "h": "La lista de campaña, guardada.",
+     "b": "Qolca (qolca.org) registra a cada interesado con su fecha de recontacto."
     },
     {
      "role": "cta",
@@ -949,8 +950,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Lo armamos para lotes de autos, bodas e inmobiliarias, y para negocios como el tuyo"
+     "h": "El catálogo y el chat, sincronizados.",
+     "b": "Qolca (qolca.org) lo arma a medida para negocios que venden conversando."
     },
     {
      "role": "cta",
@@ -985,8 +986,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· De noche responde solo lo repetitivo; lo importante te espera etiquetado, y siempre hay un humano al final"
+     "h": "El rescate se dispara solo.",
+     "b": "Qolca (qolca.org) marca el chat que se enfrió y manda el recordatorio con tu voz."
     },
     {
      "role": "cta",
@@ -1030,8 +1031,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Hablas directo con quien lo construye, empezamos por algo chico y medible"
+     "h": "El ritual, servido cada mañana.",
+     "b": "Qolca (qolca.org) te arma la lista del día: nuevos, fríos y antiguos que tocan."
     },
     {
      "role": "cta",
@@ -1071,8 +1072,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\nDe noche responde solo lo repetitivo; lo importante te espera etiquetado, y siempre hay un humano al final"
+     "h": "El guion se construye contigo.",
+     "b": "Qolca (qolca.org): tu tono, tu derivación a humano, tu negocio."
     },
     {
      "role": "cta",
@@ -1107,8 +1108,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Cada cliente con su historia completa: qué pidió, qué pagó, cuándo volver a llamarlo"
+     "h": "Una base que se limpia sola.",
+     "b": "Qolca (qolca.org) fusiona, etiqueta y guarda la historia de cada cliente."
     },
     {
      "role": "cta",
@@ -1149,8 +1150,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\nCitas, entregas y recordatorios que se confirman sin que los persigas"
+     "h": "El kit queda montado para diciembre.",
+     "b": "Qolca (qolca.org): citas, entregas y recordatorios que se confirman sin perseguir."
     },
     {
      "role": "cta",
@@ -1187,8 +1188,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Lo armamos para lotes de autos, bodas e inmobiliarias, y para negocios como el tuyo"
+     "h": "Nadie se pierde después del corte.",
+     "b": "Qolca (qolca.org) anota al que escribe fuera de hora y te lo deja para primera hora."
     },
     {
      "role": "cta",
@@ -1215,7 +1216,7 @@
     {
      "role": "value",
      "h": "El checklist de la víspera",
-     "b": "Kit probado. Catálogo al día. Stock cortado hoy. Cola definida. Turnos claros. Quince minutos de revisión valen la semana."
+     "b": "· Kit probado y catálogo al día\n· Stock cortado hoy\n· Cola definida y turnos claros"
     },
     {
      "role": "value",
@@ -1232,8 +1233,8 @@
     },
     {
      "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Los negocios que ya lo tienen no persiguen chats: los chats les llegan ordenados"
+     "h": "La semana rápida, sostenida sola.",
+     "b": "Qolca (qolca.org) responde, clasifica y registra mientras tu equipo despacha."
     },
     {
      "role": "cta",

@@ -95,7 +95,10 @@ def strip_emoji(text: str) -> str:
     # Same for a closing straight quote — but only when it IS closing, i.e. what
     # follows is a space, punctuation or the end. An opening one keeps its space.
     out = re.sub(r'\s+"(?=[\s.,;:!?)\]]|$)', '"', out)
-    return out.strip(" ·—-")
+    # OJO: el "·" solo se limpia por la DERECHA. A la izquierda es el bullet de
+    # la primera línea de una lista y borrarlo dejaba el primer ítem sin viñeta
+    # (bug visible desde que casi todo `b` es lista, 2026-08-04).
+    return out.strip().rstrip(" ·—-")
 
 
 def wrap(draw: ImageDraw.ImageDraw, text: str, fnt: ImageFont.FreeTypeFont, maxw: int) -> list[str]:
@@ -262,8 +265,8 @@ class Renderer:
             if b_text:
                 blines = wrap(draw, b_text, bf, 780)
                 bh = len(blines) * 56 + 40
-            em = emoji_img(slide["emoji"], 120) if (slide.get("emoji") and n == 0) else None
-            eh = 150 if em else 0
+            em = emoji_img(slide["emoji"], 120 if n == 0 else 104) if slide.get("emoji") else None
+            eh = (150 if n == 0 else 130) if em else 0
             top = CORE_Y0 + (CORE_Y1 - CORE_Y0 - hh - bh - eh) / 2
             if em:
                 im.paste(em, ((W - em.width) // 2, int(top)), em)
@@ -284,8 +287,16 @@ class Renderer:
             bf = font(body_f, 42, 500)
             blines = wrap(draw, b_text, bf, 800) if b_text else []
             num_h = 130 if slide.get("n") else 0
-            total_h = num_h + hh + (44 + len(blines) * 58 if blines else 0)
+            # emoji de emoción: va ARRIBA del titular, nunca dentro del texto
+            # (Pillow no tiene fallback de fuente — ver strip_emoji). Carlos
+            # 2026-08-04: las láminas con carga emocional llevan uno.
+            em = emoji_img(slide["emoji"], 104) if slide.get("emoji") else None
+            eh = 130 if em else 0
+            total_h = eh + num_h + hh + (44 + len(blines) * 58 if blines else 0)
             y = max(CORE_Y0 + 20, CORE_Y0 + (CORE_Y1 - CORE_Y0 - total_h) / 2)
+            if em:
+                im.paste(em, ((W - em.width) // 2, int(y)), em)
+                y += eh
             if slide.get("n"):
                 nf = font(disp, 84, dw)
                 s = str(slide["n"])
@@ -303,7 +314,13 @@ class Renderer:
             if lg is not None:
                 im.paste(lg, ((W - lg.width) // 2, CORE_Y0 + 4), lg)
                 top = CORE_Y0 + 4 + lg.height + 44
-            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (116, 60), 860, 430)
+            em = emoji_img(slide["emoji"], 104) if slide.get("emoji") else None
+            # el emoji come 130px del presupuesto del titular: el chip de la web
+            # vive en CORE_Y1-130 y no se mueve
+            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (116, 60), 860, 430 - (130 if em else 0))
+            if em:
+                im.paste(em, ((W - em.width) // 2, int(top)), em)
+                top += 130
             y = draw_block(draw, lines, fnt, lh, top, text_c)
             if b_text:
                 bf = font(body_f, 44, 500)

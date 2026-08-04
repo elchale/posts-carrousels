@@ -53,12 +53,13 @@
     {
      "role": "value",
      "h": "Así funciona la ejecución presupuestal",
-     "b": "Cada entidad recibe un presupuesto anual y su gestión se mide por cuánto ejecuta. El 31 de diciembre es su hora cero. La tuya es antes."
+     "b": "Cada entidad recibe un presupuesto anual y su gestión se mide por cuánto ejecuta."
     },
     {
      "role": "value",
      "h": "Por eso noviembre y diciembre llueven procesos",
-     "b": "Compras planeadas todo el año salen juntas al final, con plazos mínimos. Gana el que llega con la carpeta lista, no el que recién se entera."
+     "b": "Compras planeadas todo el año salen juntas al final, con plazos mínimos.",
+     "emoji": "🔥"
     },
     {
      "role": "stat",
@@ -90,12 +91,12 @@
     {
      "role": "value",
      "h": "Busca noviembre y diciembre del año pasado",
-     "b": "En SEACE filtra tu rubro con fechas de fin del año anterior. Esa lista es el borrador de lo que viene: mismas entidades, compras parecidas."
+     "b": "En el SEACE filtra tu rubro con fechas de fin del año anterior. Ese es el borrador de lo que viene."
     },
     {
      "role": "value",
      "h": "Apunta entidad, objeto y monto",
-     "b": "Tres columnas en tu Excel: entidad, objeto de contratación y el valor estimado o referencial que publicaron. Cuando la versión de este año salga, la reconoces en segundos."
+     "b": "· Entidad\n· Objeto de contratación\n· Valor estimado o referencial\n· Cuando salga la nueva, la reconoces"
     },
     {
      "role": "stat",
@@ -134,7 +135,7 @@
     {
      "role": "value",
      "h": "Haz el chequeo de 10 minutos hoy",
-     "b": "RNP: ¿activo y en el registro correcto? Banco: ¿tienes línea? Archivo: ¿conformidades a la mano? Lo que falle, arréglalo esta semana."
+     "b": "· RNP: ¿activo y en el registro correcto?\n· Banco: ¿tienes línea?\n· Archivo: ¿conformidades a la mano?"
     },
     {
      "role": "stat",
@@ -167,7 +168,7 @@
     {
      "role": "value",
      "h": "La inscripción es indefinida",
-     "b": "El RNP no se renueva cada año. Se mantiene mientras tu RUC esté activo y habido en SUNAT, y mientras la información de tu registro esté actualizada."
+     "b": "No se renueva cada año: se mantiene mientras tu RUC esté activo y habido y tus datos actualizados."
     },
     {
      "role": "value",
@@ -177,7 +178,7 @@
     {
      "role": "value",
      "h": "De paso, revisa qué dice de ti",
-     "b": "Tu ficha es pública: en qué registros estás inscrito y desde cuándo. Es lo primero que revisa un comité. Y tu competencia también la lee."
+     "b": "Tu ficha es pública: en qué registros estás y desde cuándo. Es lo primero que revisa un comité."
     },
     {
      "role": "stat",
@@ -209,12 +210,12 @@
     {
      "role": "value",
      "h": "Para MYPE existe la retención",
-     "b": "En vez de carta fianza, una MYPE puede dar como garantía de fiel cumplimiento la retención de parte del pago, sin límite de monto de contrato. Confírmalo siempre en las bases del proceso."
+     "b": "Una MYPE puede dar como garantía de fiel cumplimiento la retención de parte del pago. Confírmalo en las bases."
     },
     {
      "role": "value",
      "h": "El intercambio: cobras después, no pagas antes",
-     "b": "La fianza cuesta plata por adelantado y depende de tu banco; la retención descuenta del pago que te van a hacer. Para una caja chica, suele ser la diferencia entre postular o no."
+     "b": "La fianza cuesta plata por adelantado; la retención descuenta del pago que te van a hacer."
     },
     {
      "role": "stat",
@@ -247,23 +248,23 @@
     {
      "role": "value",
      "h": "Se llama Registro de Visitas en Línea",
-     "b": "Las entidades del Estado están obligadas a publicarlo: el visitante, a quién representa, el funcionario visitado, su cargo, el motivo de la reunión y las horas de entrada y salida."
+     "b": "Publican el visitante, a quién representa, el funcionario visitado, su cargo y el motivo."
     },
     {
      "role": "value",
      "h": "Sale solo, no hay que pedirlo",
-     "b": "No es un archivo que se solicita por transparencia: se publica a diario, en formato de datos abiertos y reutilizable. Cualquiera lo puede consultar."
+     "b": "No se pide por transparencia: se publica a diario, en datos abiertos y reutilizable."
     },
     {
      "role": "value",
      "h": "Léelo como contexto de tu entidad",
-     "b": "Te dice quién está a cargo de qué y qué tan movida está el área que compra lo tuyo. Es información de fondo: al proceso se entra por las bases, siempre."
+     "b": "Te dice quién está a cargo y qué tan movida está el área que compra lo tuyo."
     },
     {
      "role": "stat",
      "shot": "shot-datos.png",
-     "h": "Radar Estatal te avisa cuando aparece",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, competidores por RUC y avisos de designaciones y visitas en las entidades que sigues."
+     "h": "Sin entrar al portal cada día",
+     "b": "Radar Estatal (radarestatal.pe) te avisa cuando una entidad que sigues publica movimiento."
     },
     {
      "role": "cta",
@@ -333,7 +334,7 @@
     {
      "role": "value",
      "h": "Se llama PAC y es público",
-     "b": "El Plan Anual de Contrataciones dice qué piensa comprar cada entidad. El del próximo año se cocina en estas semanas y se publica en el SEACE."
+     "b": "El Plan Anual de Contrataciones dice qué piensa comprar cada entidad. Se publica en el SEACE."
     },
     {
      "role": "value",
@@ -343,7 +344,7 @@
     {
      "role": "value",
      "h": "Busca el PAC de tu entidad objetivo",
-     "b": "En la ficha de la entidad está su plan. Si tu rubro aparece, ya sabes a quién tocarle la puerta en enero. Antes que nadie."
+     "b": "En la ficha de la entidad está su plan. Si tu rubro aparece, ya sabes a quién buscar en enero."
     },
     {
      "role": "stat",
@@ -382,7 +383,8 @@
     {
      "role": "value",
      "h": "Postular apurado sale caro",
-     "b": "Un contrato que no puedes cumplir termina en penalidades, y en el peor caso en sanción. Todo eso queda en el mismo historial que los comités y tu competencia pueden leer."
+     "b": "Un contrato que no puedes cumplir termina en penalidades y, en el peor caso, en sanción.",
+     "emoji": "🚫"
     },
     {
      "role": "stat",
@@ -413,7 +415,7 @@
     {
      "role": "value",
      "h": "Se llama registro de inhabilitados",
-     "b": "Empresas y personas sancionadas para contratar con el Estado figuran ahí, con periodo y motivo. Está en el portal del OECE, abierto a todos."
+     "b": "Empresas y personas sancionadas para contratar con el Estado, con periodo y motivo. En el portal del OECE."
     },
     {
      "role": "value",
@@ -476,47 +478,50 @@
    "alt": "Portada: los pasos entre la buena pro y la orden de compra."
   },
   {
-   "slug": "13-proceso-en-vivo",
+   "slug": "13-sigue-entidades",
    "slides": [
     {
      "role": "cover",
-     "h": "Un proceso no se mira una sola vez",
-     "b": "se sigue en vivo",
-     "emoji": "👀"
+     "kicker": "MÉTODO",
+     "h": "Sigue entidades, no solo procesos",
+     "emoji": "🧭"
     },
     {
      "role": "value",
-     "h": "La ficha es el marcador",
-     "b": "Así no: leer la convocatoria y desaparecer\nAsí sí: el estado de la ficha en cada etapa"
+     "h": "Un proceso dura semanas; una entidad, años",
+     "b": "El que solo mira convocatorias empieza de cero cada vez. El que sigue entidades acumula contexto."
     },
     {
      "role": "value",
-     "h": "Las consultas son tu turno",
-     "b": "Así no: enterarte del pliego cuando ya cerró\nAsí sí: la ventana de consultas con alarma"
+     "h": "Elige tres y ponles seguimiento",
+     "b": "· Las que ya compraron tu rubro\n· Las de tu región\n· Las que tienen presupuesto por ejecutar"
     },
     {
      "role": "value",
-     "h": "La buena pro se ve venir",
-     "b": "Así no: saberla por terceros, tarde\nAsí sí: fechas de evaluación en tu calendario"
+     "h": "Qué se vigila de cada una",
+     "b": "· Sus convocatorias nuevas\n· Sus designaciones de funcionarios\n· Su registro de visitas"
+    },
+    {
+     "role": "recap"
     },
     {
      "role": "stat",
-     "shot": "shot-datos.png",
-     "h": "Cada cambio de etapa, avisado",
-     "b": "Radar Estatal (radarestatal.pe): el proceso completo vigilado, de la convocatoria a la buena pro."
+     "shot": "shot-feed.png",
+     "h": "Tres entidades, un solo tablero",
+     "b": "Radar Estatal (radarestatal.pe) vigila las entidades que elijas y te avisa de cada movimiento."
     },
     {
      "role": "cta",
-     "h": "Síguelo como un partido. En vivo.",
+     "h": "Tres entidades seguidas valen más que mil miradas.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "Un proceso del SEACE no se mira una sola vez, se sigue en vivo: el estado de la ficha en cada etapa, la ventana de consultas con alarma y las fechas de evaluación en tu calendario. Radar Estatal (radarestatal.pe) avisa cada cambio de etapa. #SEACE #licitaciones #mype #contratacionesdelestado #peru",
-    "tt": "Un proceso no se mira una sola vez 👀 se sigue en vivo #SEACE #licitaciones #mype #peru",
-    "fb": "Leer la convocatoria y desaparecer es perder el partido por no mirarlo: la ventana de consultas pasa, las bases se corrigen y la buena pro te la cuentan terceros. La ficha del proceso es el marcador en vivo. radarestatal.pe te avisa cada cambio de etapa."
+    "ig": "Cómo vender al Estado con método: sigue entidades, no solo procesos sueltos. Elige tres (las que ya compraron tu rubro, las de tu región y las que tienen presupuesto por ejecutar) y vigila de cada una sus convocatorias nuevas, sus designaciones de funcionarios y su registro de visitas. Un proceso dura semanas; una entidad, años. Radar Estatal (radarestatal.pe) vigila por ti las entidades que elijas. #contratacionespublicas #seace #mype #proveedordelestado #peru",
+    "tt": "Sigue entidades, no procesos 🧭 el método completo #seace #licitaciones #mype #peru",
+    "fb": "El proveedor que solo mira convocatorias empieza de cero cada vez. El que sigue tres entidades acumula contexto: sus compras, sus cambios de funcionario y su movimiento diario. ¿Cuáles serían tus tres entidades?"
    },
-   "alt": "Seguimiento en vivo de un proceso de licitación frente a mirarlo una sola vez."
+   "alt": "Método para seguir entidades del Estado: convocatorias, designaciones de funcionarios y registro de visitas."
   },
   {
    "slug": "14-desiertos-diciembre",
@@ -530,7 +535,7 @@
     {
      "role": "value",
      "h": "El mito muere con un dato",
-     "b": "Cada fin de año, procesos quedan desiertos: nadie postuló. Si todo estuviera arreglado, alguien habría ganado siempre. La verdad es más simple: nadie llegó."
+     "b": "Cada fin de año hay procesos que quedan desiertos: nadie postuló. La verdad es simple: nadie llegó."
     },
     {
      "role": "value",
@@ -614,7 +619,7 @@
     {
      "role": "value",
      "h": "Arma el archivo una vez, úsalo siempre",
-     "b": "Una carpeta por contrato cumplido: contrato + factura + conformidad, en físico y en nube. En noviembre copias y pegas en vez de rogar por documentos."
+     "b": "Una carpeta por contrato: contrato, factura y conformidad. En físico y en nube."
     },
     {
      "role": "stat",
@@ -644,13 +649,13 @@
     },
     {
      "role": "value",
-     "h": "No todas cierran el año igual",
-     "b": "Algunas ejecutan parejo todo el año; otras concentran al final. El historial de convocatorias de cada entidad es público en el SEACE y te dice cuál es cuál."
+     "h": "Cada una ejecuta a su ritmo",
+     "b": "Algunas ejecutan parejo todo el año; otras concentran al final. El historial es público en el SEACE."
     },
     {
      "role": "value",
      "h": "Arma tu lista de entidades de diciembre",
-     "b": "Busca cuáles de tu rubro convocaron en noviembre y diciembre pasados. Esas son las que con más probabilidad van a necesitar proveedores disponibles a fin de año."
+     "b": "Busca cuáles de tu rubro convocaron en noviembre y diciembre pasados."
     },
     {
      "role": "stat",
@@ -687,7 +692,7 @@
     {
      "role": "value",
      "h": "Gana puntos que no cuestan plata",
-     "b": "Mejorar plazo cuando tu logística lo aguanta o acreditar experiencia que ya tienes sube puntaje sin tocar margen. Bajar precio es el último recurso."
+     "b": "Mejorar plazo cuando tu logística aguanta, o acreditar experiencia que ya tienes, sube puntaje."
     },
     {
      "role": "stat",
@@ -783,42 +788,46 @@
    "alt": "Obra en construcción al amanecer: la historia del cierre de año bien jugado."
   },
   {
-   "slug": "21-consulta-amigable",
+   "slug": "21-designacion-mueve-cronograma",
    "slides": [
     {
      "role": "cover",
-     "kicker": "DATO ABIERTO",
-     "h": "El MEF publica cuánta plata queda por gastar",
-     "emoji": "💰"
+     "kicker": "TEMPORADA ALTA",
+     "h": "Una designación nueva puede mover tu cronograma",
+     "emoji": "🚦"
     },
     {
      "role": "value",
-     "h": "Se llama Consulta Amigable y es libre",
-     "b": "El portal del MEF muestra la ejecución presupuestal de cada entidad casi en tiempo real. Sin cuenta y sin permisos: entras y ves."
+     "h": "El cambio de titular toma tiempo",
+     "b": "Firmas, encargaturas y aprobaciones se reacomodan. En pleno cierre presupuestal, eso se nota."
     },
     {
      "role": "value",
-     "h": "Ejecución baja hoy, lluvia mañana",
-     "b": "Una entidad de tu rubro con mucho presupuesto sin ejecutar y pocos meses por delante tiene que comprar. Ya sabes a quién vigilar de cerca."
+     "h": "Qué revisar esa semana",
+     "b": "· Si tu proceso sigue en fecha\n· Si el cronograma se reprogramó\n· Si aparecieron avisos nuevos"
+    },
+    {
+     "role": "value",
+     "h": "No es motivo para retirarte",
+     "b": "El proceso sigue su norma. Lo único que cambia es cuánto necesitas mirarlo."
     },
     {
      "role": "stat",
-     "h": "Cruzamos data pública por ti",
-     "b": "Radar Estatal (radarestatal.pe): más de 200 mil procesos organizados.",
-     "shot": "shot-feed.png"
+     "h": "El aviso llega el día de la resolución",
+     "b": "Radar Estatal (radarestatal.pe) te avisa de designaciones y del movimiento de los procesos que sigues."
     },
     {
      "role": "cta",
-     "h": "La plata que queda tiene nombre de entidad.",
+     "h": "En noviembre, cada cambio importa.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "Herramienta gratis que casi nadie usa: la Consulta Amigable del MEF muestra cuánto presupuesto le queda por ejecutar a cada entidad. Ejecución baja en octubre y dos meses de año fiscal por delante: esa entidad tiene que comprar. #mef #licitaciones #seace #mype #peru",
-    "tt": "El MEF publica cuánta plata queda por gastar 💰 #licitaciones #mef #seace",
-    "fb": "La Consulta Amigable del MEF es pública: ejecución presupuestal de cada entidad, casi en tiempo real. Una entidad con mucho presupuesto sin ejecutar y dos meses por delante tiene que comprar. Ahí miras. Radar Estatal (radarestatal.pe) cruza esa data por ti."
+    "ig": "Designación de funcionarios y cronograma de un proceso: cuando cambia el titular de una entidad, firmas, encargaturas y aprobaciones se reacomodan, y en pleno cierre presupuestal eso se nota. Revisa esa semana si tu proceso sigue en fecha, si el cronograma se reprogramó y si aparecieron avisos nuevos. No es motivo para retirarte: el proceso sigue su norma. Radar Estatal (radarestatal.pe) te avisa de designaciones en las entidades que sigues. #contratacionespublicas #seace #cierrepresupuestal #mype #peru",
+    "tt": "Cambió el titular de la entidad 🚦 revisa tu cronograma esta semana #seace #licitaciones #peru",
+    "fb": "En el cierre del año, un cambio de titular en una entidad puede reacomodar firmas y aprobaciones, y eso se siente en los cronogramas. La designación es pública y sale por resolución. ¿Revisas los procesos que sigues cuando eso pasa?"
    },
-   "alt": "Portada: la Consulta Amigable del MEF muestra el presupuesto sin ejecutar."
+   "alt": "Efecto práctico de una designación de funcionario sobre el cronograma de un proceso de selección."
   },
   {
    "slug": "22-tu-region",
@@ -951,7 +960,7 @@
     {
      "role": "value",
      "h": "Los requisitos de verdad",
-     "b": "RUC activo y habido, RNP inscrito en el registro correcto y capacidad de cumplir el contrato. En la mayoría de bienes y servicios, nadie pregunta por el tamaño de tu oficina."
+     "b": "RUC activo y habido, RNP en el registro correcto y capacidad de cumplir. Nadie pregunta por tu oficina."
     },
     {
      "role": "value",
@@ -990,7 +999,7 @@
     {
      "role": "value",
      "h": "Ordena las adjudicaciones del año",
-     "b": "Busca las buenas pro de tu rubro en el año y agrúpalas por RUC ganador. Ese orden es tu mapa de rivales reales, no el que imaginas."
+     "b": "Busca las buenas pro del año en tu rubro y agrúpalas por RUC ganador. Ese es tu mapa real."
     },
     {
      "role": "value",
@@ -1000,7 +1009,7 @@
     {
      "role": "value",
      "h": "Ojo con los consorcios",
-     "b": "Una victoria en consorcio se reparte entre varias empresas, así que un ranking por ganador puede esconder socios. Ábrelos antes de sacar conclusiones."
+     "b": "Una victoria en consorcio se reparte: un ranking por ganador puede esconder socios."
     },
     {
      "role": "stat",
@@ -1067,40 +1076,50 @@
    "alt": "Checklist completa de preparación para el cierre presupuestal."
   },
   {
-   "slug": "28-dia-uno",
+   "slug": "28-antes-de-tocar-la-puerta",
    "slides": [
     {
      "role": "cover",
-     "h": "Entérate el día uno, no el día ocho",
-     "emoji": "⏱"
+     "kicker": "PREPARACIÓN",
+     "h": "Antes de presentarte, mira quién dirige hoy",
+     "emoji": "📇"
     },
     {
      "role": "value",
-     "h": "Llegar temprano abre puertas que después no",
-     "b": "Con días por delante alcanzas a hacer consultas, pedir la fianza y leer con calma. El que se entera tarde solo alcanza a apurarse."
+     "h": "Llegar con el nombre viejo resta",
+     "b": "Presentarte al funcionario que salió hace meses dice que no investigaste nada."
     },
     {
      "role": "value",
-     "h": "Tu fuente decide tu velocidad",
-     "b": "Boca a boca: días de retraso. Revisión semanal: hasta seis días. Revisión diaria o alerta: el día uno. En noviembre esa diferencia es la oferta entera."
+     "h": "El chequeo de cinco minutos",
+     "b": "· Quién está a cargo del área\n· Desde cuándo\n· Qué compró la entidad en tu rubro"
+    },
+    {
+     "role": "value",
+     "h": "Y todo eso es público",
+     "b": "Designaciones por resolución, visitas publicadas a diario y compras en datos abiertos."
+    },
+    {
+     "role": "recap"
     },
     {
      "role": "stat",
-     "h": "El «radar» es tu día uno permanente",
-     "b": "Radar Estatal (radarestatal.pe), feed gratis del SEACE."
+     "shot": "shot-herramientas.png",
+     "h": "El chequeo, hecho antes de que preguntes",
+     "b": "Radar Estatal (radarestatal.pe) reúne compras, designaciones y visitas de cada entidad que sigues."
     },
     {
      "role": "cta",
-     "h": "Ocho días de ventaja se notan.",
+     "h": "Toca la puerta sabiendo quién la abre.",
      "b": "radarestatal.pe"
     }
    ],
    "caption": {
-    "ig": "La diferencia entre enterarte el día 1 y el día 8 de una convocatoria: consultas hechas, fianza pedida y bases leídas con calma versus puro apuro. Tu fuente decide tu velocidad. #licitaciones #seace #mype #contratacionespublicas #peru",
-    "tt": "Entérate el día uno, no el día ocho ⏱ #licitaciones #seace #mype",
-    "fb": "Boca a boca: días de retraso. Revisión semanal: hasta 6 días perdidos. Alerta diaria: día uno. En temporada alta esa diferencia es la oferta entera. Radar Estatal (radarestatal.pe) es tu día uno permanente."
+    "ig": "Antes de presentarte como proveedor ante una entidad del Estado, haz el chequeo de cinco minutos: quién está a cargo del área, desde cuándo y qué compró la entidad en tu rubro. Todo es información pública: las designaciones se formalizan por resolución, el registro de visitas se publica a diario y las compras están en datos abiertos. Llegar con el nombre del funcionario que salió hace meses dice que no investigaste. Radar Estatal (radarestatal.pe) reúne compras, designaciones y visitas de las entidades que sigues. #proveedordelestado #contratacionespublicas #seace #mype #peru",
+    "tt": "Antes de tocar la puerta de una entidad 📇 el chequeo de 5 minutos #seace #licitaciones #mype #peru",
+    "fb": "Presentarte ante una entidad con el nombre del funcionario que salió hace meses cuesta credibilidad. El chequeo toma cinco minutos y es todo información pública: quién está a cargo, desde cuándo y qué ha comprado la entidad en tu rubro."
    },
-   "alt": "Portada: la ventaja de enterarse el primer día de cada convocatoria."
+   "alt": "Chequeo previo a presentarse ante una entidad estatal: responsables vigentes, designaciones y compras del rubro."
   },
   {
    "slug": "29-plan-noviembre",
@@ -1114,7 +1133,7 @@
     {
      "role": "value",
      "h": "La lógica del cierre en 4 líneas",
-     "b": "El presupuesto vence el 31 de diciembre, así que llueven procesos con plazos cortos, gana el que llega preparado, y los desiertos dan una segunda chance en enero."
+     "b": "· El presupuesto vence el 31 de diciembre\n· Llueven procesos con plazos cortos\n· Los desiertos dan segunda chance"
     },
     {
      "role": "value",
@@ -1160,7 +1179,7 @@
     {
      "role": "value",
      "h": "Tu primera semana ya está escrita",
-     "b": "Feed diario, filtro en mano, carpeta cerrada. Elige pocas y entra bien: en el cierre no gana el que corre más, sino el que llega listo."
+     "b": "Feed diario, filtro en mano, carpeta cerrada. No gana el que corre, sino el que llega listo."
     },
     {
      "role": "stat",
@@ -1203,7 +1222,7 @@
     {
      "role": "value",
      "h": "Cuestionar tiene fecha",
-     "b": "Una base solo se puede observar dentro de la etapa de consultas y observaciones del cronograma. Pasado ese plazo la cláusula queda, y tú decides si entras o no."
+     "b": "Solo se observa dentro de la etapa de consultas. Pasado el plazo, la cláusula queda."
     },
     {
      "role": "stat",

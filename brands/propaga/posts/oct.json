@@ -15,7 +15,7 @@
     {
      "role": "value",
      "h": "Elige hoy tus 2 fechas",
-     "b": "Cyber Wow (2 al 5 de noviembre) y Navidad. Dos campañas bien hechas le ganan a cinco a medias. Todo lo demás es ruido."
+     "b": "Cyber Wow (2 al 5 de noviembre) y Navidad. Dos campañas bien hechas ganan a cinco a medias."
     },
     {
      "role": "value",
@@ -33,7 +33,7 @@
     {
      "role": "stat",
      "shot": "shot-posts.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Dos campañas, cero corridas.",
      "b": "propaga.pe deja las dos campañas programadas desde octubre."
     },
     {
@@ -72,7 +72,7 @@
     {
      "role": "stat",
      "shot": "shot-contenido.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "El portero se elige con datos.",
      "b": "propaga.pe te muestra qué post convirtió. Ese se fija."
     },
     {
@@ -101,17 +101,17 @@
     {
      "role": "value",
      "h": "La temporada es de todos",
-     "b": "No necesitas vender turrón: combo morado, fondo morado en tus fotos, edición de temporada. El antojo de octubre aplica a tortas, ropa, uñas, lo tuyo."
+     "b": "No necesitas vender turrón: combo morado, fondo morado, edición de temporada."
     },
     {
      "role": "value",
      "h": "El calendario morado",
-     "b": "Procesiones el 18, 19 y 28. Si tu negocio está cerca de la ruta, publica horario y cómo llegar a pie: la búsqueda local se dispara esos días."
+     "b": "Procesiones el 18, 19 y 28. Si estás cerca de la ruta, publica horario y cómo llegar a pie."
     },
     {
      "role": "stat",
      "shot": "shot-ciudades.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "La temporada no se improvisa.",
      "b": "propaga.pe programa tu mes morado en una sentada."
     },
     {
@@ -145,12 +145,12 @@
     {
      "role": "value",
      "h": "El contenido lo hacen ellas",
-     "b": "Las fans crean más contenido del concierto que la propia producción. Pide a tus clientes fotos con lo tuyo y repostéalas: tu fandom chiquito existe."
+     "b": "Las fans crean más contenido que la propia producción. Pide fotos a tus clientes y repostéalas."
     },
     {
      "role": "stat",
      "shot": "shot-comentarios.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Tu fandom, en una sola pantalla.",
      "b": "propaga.pe junta lo que tus clientes publican de ti en un solo lugar."
     },
     {
@@ -188,7 +188,7 @@
     {
      "role": "stat",
      "shot": "shot-canales.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Dos negocios, un solo envío.",
      "b": "propaga.pe publica la colaboración en las redes de los dos."
     },
     {
@@ -227,7 +227,7 @@
     {
      "role": "stat",
      "shot": "shot-movil.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Sin volver a la computadora.",
      "b": "propaga.pe publica tus historias con ubicación desde el celular."
     },
     {
@@ -265,7 +265,7 @@
     {
      "role": "stat",
      "shot": "shot-respuestas.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "El feriado ya está resuelto.",
      "b": "propaga.pe deja el post de feriado programado con anticipación."
     },
     {
@@ -294,17 +294,17 @@
     {
      "role": "value",
      "h": "Elige tu ola",
-     "b": "Feriado = familias paseando. BTS = 60 mil fans más acompañantes. Antojo = todos. Tu post de hoy le habla a UNA ola, no a las tres."
+     "b": "· Feriado: familias paseando\n· BTS: 60 mil fans\n· Antojo: todos\n· Tu post le habla a UNA ola"
     },
     {
      "role": "value",
      "h": "El exprés de feriado",
-     "b": "Historia 9am con horario, post al mediodía con el producto del día, historia 6pm con lo que queda. Quince minutos en total."
+     "b": "· 9am: historia con horario\n· Mediodía: el producto del día\n· 6pm: lo que queda"
     },
     {
      "role": "stat",
      "shot": "shot-campana-chat.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Un solo envío para todo el día.",
      "b": "propaga.pe manda tu promo del día a toda tu lista de una vez."
     },
     {
@@ -343,7 +343,7 @@
     {
      "role": "stat",
      "shot": "shot-whatsapp.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Ningún pedido se pierde entre apps.",
      "b": "propaga.pe junta los pedidos de todas tus redes en una bandeja."
     },
     {
@@ -388,7 +388,7 @@
     {
      "role": "stat",
      "shot": "shot-leads-full.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Los números, en cristiano.",
      "b": "propaga.pe te enseña esos números sin abrir Excel."
     },
     {
@@ -416,17 +416,17 @@
     {
      "role": "value",
      "h": "Regala margen solo para volar inventario",
-     "b": "El 2x1 es para lo que no rota. Para lo que sí rota: combo con algo de bajo costo o regalo pequeño por compra."
+     "b": "El 2x1 es para lo que no rota. Para lo que sí rota: combo con algo de bajo costo."
     },
     {
      "role": "value",
      "h": "Toda promo con tope",
-     "b": "'Solo 20 unidades y hasta el domingo' no es marketing, es control de daños bien hecho. Sin fecha de fin y cantidad máxima, no salgas."
+     "b": "«Solo 20 unidades y hasta el domingo». Sin fecha de fin ni tope, no salgas."
     },
     {
      "role": "stat",
      "shot": "shot-campanas.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "La promo se apaga sola.",
      "b": "propaga.pe programa la promo con su inicio y su final."
     },
     {
@@ -455,17 +455,17 @@
     {
      "role": "value",
      "h": "Acompaña, no vendas encima",
-     "b": "Si estás en la ruta: horario especial, agua a la mano, trato amable. La gente recuerda al negocio que la trató bien en procesión."
+     "b": "Si estás en la ruta: horario especial, agua a la mano, trato amable."
     },
     {
      "role": "value",
      "h": "El post correcto de hoy",
-     "b": "Tu calle vestida de morado más un dato útil: desvíos, horarios, por dónde caminar. Cero ofertas montadas en la fe. Se nota y se castiga."
+     "b": "Tu calle vestida de morado más un dato útil: desvíos, horarios, por dónde caminar."
     },
     {
      "role": "stat",
      "shot": "shot-fuera.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Publicar una vez basta.",
      "b": "propaga.pe publica el aviso en todas tus redes a la vez."
     },
     {
@@ -503,7 +503,7 @@
     {
      "role": "stat",
      "shot": "shot-posts.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "El video no es un caso aparte.",
      "b": "propaga.pe programa tus videos igual que tus fotos."
     },
     {
@@ -542,7 +542,7 @@
     {
      "role": "stat",
      "shot": "shot-lista.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Nadie de la fila se pierde.",
      "b": "propaga.pe arma tu lista de espera desde los comentarios."
     },
     {
@@ -580,7 +580,7 @@
     {
      "role": "stat",
      "shot": "shot-chat.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Responder a tiempo, sin vigilar.",
      "b": "propaga.pe te avisa cada mención para responder a tiempo."
     },
     {
@@ -614,12 +614,12 @@
     {
      "role": "value",
      "h": "Tu versión del anticucho",
-     "b": "Vendas o no comida, el 'anticucho' es tu clásico de siempre. Preséntalo mañana con ese nombre y súmate a la búsqueda del día."
+     "b": "Vendas o no comida, tu «anticucho» es tu clásico de siempre. Preséntalo mañana con ese nombre."
     },
     {
      "role": "stat",
      "shot": "shot-bandeja.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "El antojo también se agenda.",
      "b": "propaga.pe deja el post de la víspera programado a las 5pm."
     },
     {
@@ -657,7 +657,7 @@
     {
      "role": "stat",
      "shot": "shot-leads.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Al rey lo eligen tus clientes.",
      "b": "propaga.pe te muestra qué producto pregunta más gente."
     },
     {
@@ -686,7 +686,7 @@
     {
      "role": "value",
      "h": "Cerrar temprano también es marca",
-     "b": "'Hoy cerramos 5pm por la procesión' suma respeto y seguidores. La caja de un día no vale más que la imagen del año."
+     "b": "«Hoy cerramos 5pm por la procesión» suma respeto. La caja de un día no vale la imagen del año."
     },
     {
      "role": "value",
@@ -696,7 +696,7 @@
     {
      "role": "stat",
      "shot": "shot-movil.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "El respeto también se programa.",
      "b": "propaga.pe publica tu aviso en todas las redes de una vez."
     },
     {
@@ -734,7 +734,7 @@
     {
      "role": "stat",
      "shot": "shot-comentarios.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Ninguna pregunta se queda sin dueño.",
      "b": "propaga.pe responde los comentarios de todas tus redes en un lugar."
     },
     {
@@ -762,7 +762,7 @@
     {
      "role": "value",
      "h": "La búsqueda es local",
-     "b": "'Tortas San Miguel' se busca más que 'tortas bonitas'. El distrito va en tu nombre de perfil, en captions y en la ubicación de cada post."
+     "b": "«Tortas San Miguel» se busca más que «tortas bonitas». El distrito va en tu perfil y en cada post."
     },
     {
      "role": "value",
@@ -772,7 +772,7 @@
     {
      "role": "stat",
      "shot": "shot-ciudades.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Aparecer cerca deja de ser suerte.",
      "b": "propaga.pe pone la ubicación en cada post sin que lo pienses."
     },
     {
@@ -801,7 +801,7 @@
     {
      "role": "value",
      "h": "Tercera fecha gratis del mes",
-     "b": "Lomo, anticucho y ahora chifa: octubre regala 3 días de antojo nacional. Hoy toca tu combo 'chifa style' o tu clásico con yapa."
+     "b": "Lomo, anticucho y ahora chifa: octubre regala 3 días de antojo nacional."
     },
     {
      "role": "value",
@@ -811,7 +811,7 @@
     {
      "role": "stat",
      "shot": "shot-whatsapp.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "El día pico, en una sola pantalla.",
      "b": "propaga.pe junta los pedidos del día en una sola bandeja."
     },
     {
@@ -839,7 +839,7 @@
     {
      "role": "value",
      "h": "No es solo de tiendas grandes",
-     "b": "Es la semana en que el Perú compra con la tarjeta en la mano. Tu negocio chico compite con UNA oferta clara, no con cien."
+     "b": "Es la semana en que el Perú compra con la tarjeta en la mano. Compites con UNA oferta clara."
     },
     {
      "role": "value",
@@ -849,7 +849,7 @@
     {
      "role": "stat",
      "shot": "shot-campanas.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "La campaña entra ordenada.",
      "b": "propaga.pe programa toda tu semana Cyber en una sentada."
     },
     {
@@ -892,7 +892,7 @@
     {
      "role": "stat",
      "shot": "shot-campana-chat.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Nadie de tu lista se entera tarde.",
      "b": "propaga.pe manda el aviso a toda tu lista el día exacto."
     },
     {
@@ -931,7 +931,7 @@
     {
      "role": "stat",
      "shot": "shot-contenido.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Disfrazar el feed toma minutos.",
      "b": "propaga.pe deja la semana de Halloween programada hoy."
     },
     {
@@ -969,7 +969,7 @@
     {
      "role": "stat",
      "shot": "shot-lista.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Tu diciembre ya está escrito.",
      "b": "propaga.pe deja diciembre programado antes de que llegue."
     },
     {
@@ -997,7 +997,7 @@
     {
      "role": "value",
      "h": "La racha le gana al viral",
-     "b": "Un post bueno por semana durante un año construye más que un viral solitario. Cada publicación es otra oportunidad de aparecer; el que publica una vez al año tiene una sola."
+     "b": "Un post bueno por semana durante un año construye más que un viral solitario."
     },
     {
      "role": "value",
@@ -1007,7 +1007,7 @@
     {
      "role": "stat",
      "shot": "shot-posts.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "La constancia deja de depender de ti.",
      "b": "propaga.pe sostiene tu racha aunque tú estés en mil cosas."
     },
     {
@@ -1045,7 +1045,7 @@
     {
      "role": "stat",
      "shot": "shot-movil.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "El antes y el después salen juntos.",
      "b": "propaga.pe programa el par de fotos como un solo post."
     },
     {
@@ -1073,7 +1073,8 @@
     {
      "role": "value",
      "h": "El truco que todos huelen",
-     "b": "Inflar antes de la oferta es la queja número uno de cada Cyber. Los precios se googlean; la confianza no vuelve."
+     "b": "Inflar antes de la oferta es la queja número uno de cada Cyber. Los precios se googlean; la confianza no vuelve.",
+     "emoji": "😤"
     },
     {
      "role": "value",
@@ -1083,7 +1084,7 @@
     {
      "role": "stat",
      "shot": "shot-respuestas.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "En campaña preguntan diez veces lo mismo.",
      "b": "propaga.pe responde las dudas de tu oferta al toque."
     },
     {
@@ -1121,7 +1122,7 @@
     {
      "role": "stat",
      "shot": "shot-posts.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Empezar tarde deja de doler.",
      "b": "propaga.pe deja los 3 días programados en 10 minutos."
     },
     {
@@ -1159,7 +1160,7 @@
     {
      "role": "stat",
      "shot": "shot-bandeja.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "El lunes solo atiendes.",
      "b": "propaga.pe publica por ti mientras tú despachas."
     },
     {
@@ -1187,7 +1188,7 @@
     {
      "role": "value",
      "h": "Elige tu fiesta",
-     "b": "¿Tu público lleva niños disfrazados o canta valses? Hablarle a los dos diluye. Elige una fiesta y comprométete."
+     "b": "¿Tu público lleva niños disfrazados o canta valses? Hablarle a los dos diluye."
     },
     {
      "role": "value",
@@ -1197,7 +1198,7 @@
     {
      "role": "stat",
      "shot": "shot-whatsapp.png",
-     "h": "Todo tu negocio publica desde un solo lugar.",
+     "h": "Sin saltar entre apps toda la noche.",
      "b": "propaga.pe junta los pedidos del jaleo en una sola bandeja."
     },
     {
