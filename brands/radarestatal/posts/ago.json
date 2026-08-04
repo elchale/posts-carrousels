@@ -3,6 +3,50 @@
  "brand": "radarestatal",
  "posts": [
   {
+   "slug": "03-presentacion",
+   "slides": [
+    {
+     "role": "story",
+     "plate": "cine-16-madrugada",
+     "h": "Desde hoy alguien vigila las compras del Estado por ti",
+     "b": "te presentamos Radar Estatal",
+     "emoji": "📡"
+    },
+    {
+     "role": "value",
+     "h": "Así se pierde una venta al Estado",
+     "b": "El proceso de tu rubro salió hace dos semanas, la ventana de consultas ya cerró y la buena pro se la llevó otro. Te enteraste tarde, otra vez."
+    },
+    {
+     "role": "value",
+     "shot": "shot-feed.png",
+     "h": "Esto es Radar Estatal",
+     "b": "El feed del SEACE filtrado a tu rubro, gratis y sin cuenta. Los procesos te llegan solos, el día uno."
+    },
+    {
+     "role": "value",
+     "h": "Lo que hace por tu empresa",
+     "b": "Feed gratis de procesos del SEACE\nIA que recomienda los que te convienen\nCompetidores investigados por RUC"
+    },
+    {
+     "role": "value",
+     "h": "Empieza con tu rubro, hoy",
+     "b": "Entra, escribe lo que vendes y mira lo que el Estado está comprando ahora mismo. Más de 200 mil procesos en datos abiertos, organizados."
+    },
+    {
+     "role": "cta",
+     "h": "El Estado publica todo. Ahora tú lo ves.",
+     "b": "radarestatal.pe"
+    }
+   ],
+   "caption": {
+    "ig": "Te presentamos Radar Estatal: la app peruana que vigila las compras del Estado por ti. Feed gratis del SEACE filtrado a tu rubro, IA que te recomienda procesos y competidores investigados por RUC. Más de 200 mil procesos en datos abiertos, organizados para tu MYPE. radarestatal.pe #licitaciones #SEACE #mype #contratacionesdelestado #peru #radarestatal",
+    "tt": "Desde hoy alguien vigila las compras del Estado por ti 📡 #licitaciones #SEACE #mype #peru",
+    "fb": "Hoy presentamos Radar Estatal: el radar de las compras del Estado peruano. El SEACE publica miles de procesos y casi nadie llega a tiempo. El radar te trae los de tu rubro gratis y sin cuenta, la IA te dice cuáles calzan con tu empresa y puedes investigar a cualquier competidor por su RUC. radarestatal.pe"
+   },
+   "alt": "Presentación de Radar Estatal: la app que vigila las compras del Estado peruano por ti."
+  },
+  {
    "slug": "04-matt-damon",
    "slides": [
     {
@@ -1155,50 +1199,6 @@
     "fb": "Hasta Iron Man volvió convertido en villano. En licitaciones pasa igual: el socio de consorcio de este proceso postula contra ti en el siguiente. No es drama. Es el juego. Se juega bien con historial por RUC y con tu experiencia documentada en tu propio file. radarestatal.pe"
    },
    "alt": "Consorcios y competencia: elegir socios con historial por RUC y documentar la experiencia propia."
-  },
-  {
-   "slug": "30-fin-trimestre",
-   "slides": [
-    {
-     "role": "story",
-     "plate": "cine-10-amanecer",
-     "h": "Septiembre cierra trimestre y las entidades lo saben",
-     "b": "Prepárate esta semana",
-     "emoji": "⏳"
-    },
-    {
-     "role": "value",
-     "h": "Fin de trimestre significa apuro",
-     "b": "La ejecución presupuestal tiene cortes. Y lo planificado se convoca antes del corte. Septiembre trae esa ola: más convocatorias, plazos más ajustados."
-    },
-    {
-     "role": "value",
-     "h": "La carpeta lista",
-     "b": "RNP habilitado. Experiencia escaneada y ordenada. Garantía ya conversada con tu banco. Búsqueda afinada por rubro, región y escala. Todo listo ANTES de la ola."
-    },
-    {
-     "role": "value",
-     "h": "Tu ventaja será la velocidad",
-     "b": "Cuando el proceso correcto salga con plazo corto, el proveedor con carpeta lista presenta consultas el día uno y oferta sin correr. El resto se entera tarde."
-    },
-    {
-     "role": "stat",
-     "h": "El radar surfea los cierres de trimestre",
-     "b": "Radar Estatal (radarestatal.pe): la app que vigila las compras del Estado por ti. Feed gratis del SEACE, IA que recomienda y competidores por RUC.",
-     "shot": "shot-herramientas.png"
-    },
-    {
-     "role": "cta",
-     "h": "La ola de septiembre ya se ve",
-     "b": "Tabla lista desde agosto: radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Septiembre cierra trimestre fiscal: las entidades convocan lo planificado antes del corte y los plazos se ajustan. Prepara la carpeta esta semana. RNP habilitado, experiencia escaneada, garantía conversada, búsqueda afinada. La ola premia velocidad. #licitaciones #SEACE #mype #contratacionesdelestado #peru",
-    "tt": "Septiembre = cierre de trimestre = ola de convocatorias 🌊 #licitaciones #SEACE #mype #peru",
-    "fb": "Las entidades también tienen fin de mes. Y fin de trimestre. En septiembre se convoca lo que debe ejecutarse antes del corte, muchas veces con plazos cortos. El proveedor que preparó su carpeta en agosto oferta sin correr; el resto mira. Checklist en el post. radarestatal.pe"
-   },
-   "alt": "Preparación para el cierre de trimestre fiscal: carpeta lista para la ola de convocatorias de septiembre."
   },
   {
    "slug": "31-cierre-agosto",
