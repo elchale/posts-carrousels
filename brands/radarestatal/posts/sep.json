@@ -156,7 +156,7 @@
     {
      "role": "value",
      "h": "Regístrate el primer día, no el último",
-     "b": "Registrar tu participación temprano te pone en el radar del proceso y te deja recibir cada aviso. El que se registra al final, corre todo con el tiempo en contra."
+     "b": "Registrar tu participación temprano te mete dentro del proceso y te deja recibir cada aviso. El que se registra al final, corre todo con el tiempo en contra."
     },
     {
      "role": "value",
@@ -1024,7 +1024,7 @@
     },
     {
      "role": "stat",
-     "h": "Anticiparse es el deporte del radar",
+     "h": "Anticiparse es el deporte del «radar»",
      "b": "Radar Estatal (radarestatal.pe) vigila las compras del Estado por ti: feed gratis de tu rubro hoy, y la inteligencia para ver venir lo de mañana.",
      "shot": "shot-herramientas.png"
     },
@@ -1069,7 +1069,7 @@
     },
     {
      "role": "stat",
-     "h": "El radar cruza esa data por ti",
+     "h": "El «radar» cruza esa data por ti",
      "b": "Radar Estatal (radarestatal.pe) te trae los procesos de tu rubro apenas aparecen, gratis. La IA filtra; tú decides con la carpeta lista."
     },
     {
@@ -1205,7 +1205,7 @@
     },
     {
      "role": "stat",
-     "h": "Kit listo + radar encendido",
+     "h": "Kit listo + «radar» encendido",
      "b": "Con la carpeta armada, solo falta enterarte a tiempo: Radar Estatal (radarestatal.pe) te trae gratis los procesos de tu rubro apenas salen.",
      "shot": "shot-feed.png"
     },
@@ -1346,7 +1346,7 @@
     },
     {
      "role": "stat",
-     "h": "Temporada alta con radar propio",
+     "h": "Temporada alta con «radar» propio",
      "b": "Radar Estatal (radarestatal.pe) vigila las compras del Estado por ti: feed gratis del SEACE, recomendaciones de la IA e inteligencia de competidores. Justo para esta temporada."
     },
     {

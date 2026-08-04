@@ -147,6 +147,23 @@ Registros de portada permitidos: utilidad directa ("Haz esto antes de…"),
 FOMO real y comprobable ("tu competencia ya puede leer tu historial"), mito vs
 data ("¿sin contactos no le vendes al Estado?"), dato de asombro citable.
 
+## El apodo del producto va SIEMPRE entre comillas
+
+Carlos, 2026-08-04: cada vez que un post dice **el «radar»** (o cualquier apodo
+corto del producto), la palabra va entre comillas angulares. El lector frío que
+llega por el FYP no sabe qué es "el radar": las comillas le avisan que es el
+nombre que le damos a la app, no un aparato genérico.
+
+- Comillas: **el «radar»**, tu «radar», un «radar», con «radar» — solo el
+  sustantivo; el artículo queda fuera.
+- SIN comillas: el nombre de marca **Radar Estatal** y el dominio
+  radarestatal.pe (esos ya se explican solos).
+- Tampoco se comilla el modismo genérico ("estar en el radar de alguien"): si
+  colisiona con el producto, se reescribe la frase.
+- Misma regla en las otras marcas para su apodo corto: la «pulsera», el
+  «llavero» de ComeHomeTag. No aplica cuando el sustantivo es descriptivo y no
+  apunta al producto ("una pulsera de tela", "una pulsera con QR que…").
+
 ## Reglas de afirmaciones (la ficha dura)
 
 - **Cifras SÍ — pero solo verificadas.** La marca se sostiene en datos abiertos
