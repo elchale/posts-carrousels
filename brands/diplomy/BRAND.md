@@ -85,21 +85,53 @@ diplomados, ponencias, horas de formación continua. Emite todo de golpe, una
 vez por evento, y después le llueven correos de asistentes pidiendo "el
 certificado otra vez".
 
-## Sus dolores (tal como los dicen ellos)
+## REGLA DE REGISTRO: siempre en positivo, nunca insinuar mala fe
 
-- "Anyone can change the name on that PDF in two minutes."
-- "Students lose the file and email us a year later asking for it again."
-- "We have no idea who actually finished the course, only who paid."
-- "Employers can't tell our certificate from a template someone downloaded."
-- "Making 200 certificates by hand takes a full day every intake."
-- "Our name is on the certificate, but nothing on it points back to us."
+**Regla dura de Carlos (2026-08-04), la más importante de esta marca.** Diplomy
+es una marca profesional y seria. El contenido **jamás** insinúa que alguien
+actúa de mala fe, ni el lector, ni sus alumnos, ni un tercero anónimo.
+
+Prohibido, en láminas y en captions:
+- Fraude, falsificación, adulteración: "anyone can fake it", "change the name",
+  "forge", "tamper with", "someone could pretend". Ni siquiera en hipotético.
+- Sospecha sobre los alumnos: "your students can't prove", "who actually
+  finished", "only who paid". El alumno es el protagonista positivo, siempre.
+- El lector como culpable o descuidado: "you're doing it wrong", "your
+  certificate proves nothing", "nobody can check what you send".
+- Miedo, alarma y urgencia negativa como gancho. Nada de 🚨.
+
+Se dice al revés, siempre. El mismo hecho, en positivo y en informativo:
+
+| ❌ Prohibido | ✅ Cómo se dice |
+|---|---|
+| "Anyone can change the name on your certificate" | "Give every certificate a link that confirms it" |
+| "Your students cannot prove they took your course" | "Give your students proof they can share anywhere" |
+| "A PDF proves nothing" | "What makes a certificate easy to check" |
+| "Nobody can verify what you send" | "Three things that make a certificate verifiable" |
+| "You'll need to revoke one eventually" | "Keep every certificate under your control after sending" |
+
+El producto se sostiene solo por lo que SUMA: un certificado que se puede
+comprobar vale más para quien se lo ganó, viaja mejor y deja el nombre de la
+institución en cada perfil donde aterriza. Ese es el argumento entero. No hace
+falta un villano, y esta marca no lo usa.
+
+## Lo que este cliente quiere lograr (en su voz, en positivo)
+
+- "I want the certificate to look like the course was worth it."
+- "I want students to share it, not file it away."
+- "I want one place where every certificate we ever issued lives."
+- "I want the whole intake issued in one go, not one by one."
+- "I want our name on it to mean something to whoever sees it."
+- "I want a graduate from three years ago to still open theirs."
 
 ## Lo que este cliente GUARDA y comparte (los pilares de contenido)
 
-1. **Confianza y fraude** (el filo de la marca): qué prueba realmente un PDF,
-   cómo se falsifica un certificado en dos minutos, qué mira un empleador,
-   qué es una verificación real vs un sello de imagen. Es el pilar que
-   convierte, porque nombra un problema que el dueño ya sospechaba.
+1. **Qué hace bueno a un certificado** (el filo de la marca, en positivo): qué
+   lleva un certificado que se puede comprobar, por qué el enlace de
+   verificación es lo que le da valor a quien lo recibe, qué mira un empleador
+   cuando lo abre, qué es un estándar abierto y por qué conviene emitir en uno.
+   Nunca "lo que tu certificado NO prueba": siempre "lo que un certificado
+   completo SÍ hace".
 2. **Cómo-hacer del emisor** (registro utilidad, el dominante): qué debe llevar
    un certificado para que sirva, cuándo poner expiración, cómo se revoca uno
    emitido por error, cómo emitir 200 de golpe, qué criterios escribir (el
@@ -118,15 +150,15 @@ certificado otra vez".
    desaparecen a mitad de curso, cómo se llena el siguiente grupo, qué pasa
    entre que el alumno termina y se olvida de ti.
 
-Ganchos de calibre galería (en inglés, pasan los 7 filtros duros):
-- "Anyone can change the name on the certificate you sent"
+Ganchos de calibre galería (en inglés, positivos, pasan los 7 filtros duros):
 - "Do this before you send your next batch of certificates"
-- "Your students can't prove they took your course"
-- "Your certificate should still work five years from now"
-- "Check if your certificates pass the ten second test"
-- "Every certificate you send should link back to you"
-- "What to do when a student loses their certificate"
-- "You gave 200 certificates last year and nobody can check one"
+- "Give your students proof they can share anywhere"
+- "Three things that make a certificate easy to check"
+- "Put your criteria on the certificate and watch what happens"
+- "Your certificate should still open five years from now"
+- "Every certificate you send can point back to your school"
+- "Add your course to a student's LinkedIn in one tap"
+- "Issue the whole intake in one go"
 
 ## Calendario de eventos propio (el peruano NO aplica)
 
@@ -159,13 +191,15 @@ académico y laboral**, y casi todas se repiten dos veces al año por hemisferio
   recognized" ni "accredited". Se dice: verifiable, tamper-evident,
   independently checkable.
 - **Nunca "blockchain"** (no lo usamos) ni "unhackable" / "impossible to
-  fake". Lo correcto: cualquiera puede detectar la falsificación, que es
-  distinto y es más fuerte.
-- **Cero cifras inventadas** (regla dura de las 5 marcas). Nada de "el X% de
-  los CV mienten" ni "los empleadores rechazan N candidatos" salvo cifra
-  verificada con fuente citable y enlace revisado ANTES de publicar. Si no se
-  puede verificar, se reescribe como algo que el lector comprueba solo
-  ("open the certificate you sent last month and try to check it").
+  fake" — además de impreciso, mete la idea de fraude en la cabeza del lector,
+  y eso está prohibido (ver la regla de registro). Se describe en positivo:
+  cualquiera puede confirmar que el certificado es el que la institución
+  emitió.
+- **Cero cifras inventadas** (regla dura de las 5 marcas). Y las cifras de
+  fraude de CV o de títulos falsos **no se usan aunque sean verificables**: esa
+  familia entera de datos vive de insinuar mala fe. El asombro de esta marca
+  sale del lado bueno (cuánta gente agrega credenciales a su perfil, cuántos
+  certificados emite un instituto al año), nunca del lado oscuro.
 - **Nunca nombrar competidores** (Credly, Accredible, Sertifier, Certifier y
   compañía) ni compararse con ellos. Tampoco burlarse de Canva o de Word: el
   lector los usa hoy, y burlarse es burlarse de él. El contraste va contra el
@@ -204,6 +238,15 @@ comillan.
 
 ## Identidad visual
 
+- **Display: Figtree a 900** (`shared/fonts/Figtree-Variable.ttf`). La marca
+  arrancó con un serif de alto contraste (Fraunces) y Carlos lo cortó el mismo
+  día: **ilegible en el celular**. En carruseles la legibilidad manda sobre el
+  carácter tipográfico; la personalidad la ponen las plates. No volver a un
+  serif fino por mucho que "diga diploma".
+- **Largo de post: el mínimo posible** (Carlos, 2026-08-04). 5 láminas por
+  defecto: portada, 2 de valor, producto, cierre. 6 solo si el método tiene 3
+  pasos reales. **Sin lámina de recap** en esta marca: repite lo ya dicho, y la
+  regla aquí es cero redundancia.
 - **El logo ES la paleta**: azul y blanco, nada más. Tokens: paper `#FBFCFE` ·
   ink `#0A1F45` · royal `#0058D8` (el azul exacto del logo) · royal-deep
   `#0043A8` · sky `#84B8F8` · mist `#DCEAFB` · line `#CBDCF3`.
