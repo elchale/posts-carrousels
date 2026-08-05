@@ -2,9 +2,9 @@
   "name": "Diplomy",
   "tag": "diplomy.org",
   "logo": "logo.png",
-  "display_font": "Figtree-Variable.ttf",
-  "display_weight": 900,
-  "roles_note": "el logo ES la paleta: solo azul y blanco. paper #FBFCFE, ink #0A1F45, royal #0058D8, royal-deep #0043A8, sky #84B8F8, mist #DCEAFB, line #CBDCF3. Marca LIGHT igual que Radar Estatal: la separacion visual la hacen la TIPOGRAFIA (serif Fraunces vs Chakra Petch) y el MOTIVO (sello/grabado/borde de certificado vs anillos de radar), nunca el color. Nada de dorado, verde ni ambar.",
+  "display_font": "Inter-Bold.ttf",
+  "display_weight": null,
+  "roles_note": "el logo ES la paleta: solo azul y blanco. paper #FBFCFE, ink #0A1F45, royal #0058D8, royal-deep #0043A8, sky #84B8F8, mist #DCEAFB, line #CBDCF3. Marca LIGHT igual que Radar Estatal: la separacion visual la hacen la TIPOGRAFIA (Inter Bold vs Chakra Petch) y el MOTIVO (sello/grabado/borde de certificado vs anillos de radar), nunca el color. Nada de dorado, verde ni ambar.",
   "lang": "en",
   "body_font": "Montserrat-Variable.ttf",
   "roles": {
@@ -50,5 +50,6 @@
       "accent": "#0058d8",
       "light": false
     }
-  }
+  },
+  "display_scale": 0.85
 }

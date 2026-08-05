@@ -185,6 +185,10 @@ class Renderer:
     def __init__(self, brand_dir: Path):
         self.dir = brand_dir
         self.cfg = json.loads((brand_dir / "brand.json").read_text(encoding="utf-8"))
+        # Escala del display por marca. Diplomy pidió titulares mas chicos
+        # (2026-08-05): con Inter a tamaño completo la portada gritaba. Las
+        # otras marcas no traen la clave y se quedan en 1.0, byte-identicas.
+        self.dsc = float(self.cfg.get("display_scale", 1.0))
         self._logo_src: Image.Image | None = None
         self.plates: dict[str, list[Path]] = {}
         for p in sorted((brand_dir / "plates_graded").glob("*.png")):
@@ -193,6 +197,11 @@ class Renderer:
             self.plates.setdefault(fam, []).append(p)
             if fam.startswith("value_"):
                 self.plates.setdefault("value", []).append(p)
+
+    def _ds(self, *sizes):
+        """Tamaños de titular escalados por `display_scale` de la marca."""
+        out = tuple(max(24, round(s * self.dsc)) for s in sizes)
+        return out[0] if len(out) == 1 else out
 
     def plate_for(self, role_cfg: dict, slide: dict, post_i: int, slide_i: int) -> Path:
         if "plate" in slide:  # explicit override, e.g. "cine-04-mama"
@@ -246,7 +255,7 @@ class Renderer:
             # el gap mínimo de 80 tras el kicker se DESCUENTA del presupuesto
             # (sumarlo después empujaba el titular sobre el sub: bug 2026-08-03)
             avail = max(220, sub_top - 40 - (y + 80) - eh)
-            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (176, 64), 860, avail)
+            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, self._ds(176, 64), 860, avail)
             top = y + 80 + (avail - hh) / 2
             if em:
                 im.paste(em, ((W - em.width) // 2, int(top)), em)
@@ -259,7 +268,7 @@ class Renderer:
         elif role in ("rehook", "stat", "story"):
             # first-slide stories are covers of their series → poster-size type
             max_sz = 150 if n == 0 else 112
-            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (max_sz, 56), 860, 620)
+            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, self._ds(max_sz, 56), 860, 620)
             bh = 0
             blines: list[str] = []
             bf = font(body_f, 42, 500)
@@ -284,7 +293,7 @@ class Renderer:
             self._recap_slide(im, draw, slide, post or {}, rc, disp, dw, body_f)
 
         elif role in ("value", "paper"):
-            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (88, 52), 860, 380)
+            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, self._ds(88, 52), 860, 380)
             bf = font(body_f, 42, 500)
             blines = wrap(draw, b_text, bf, 800) if b_text else []
             num_h = 130 if slide.get("n") else 0
@@ -299,7 +308,7 @@ class Renderer:
                 im.paste(em, ((W - em.width) // 2, int(y)), em)
                 y += eh
             if slide.get("n"):
-                nf = font(disp, 84, dw)
+                nf = font(disp, self._ds(84), dw)
                 s = str(slide["n"])
                 w = draw.textlength(s, font=nf)
                 draw.text(((W - w) / 2, y), s, font=nf, fill=acc)
@@ -318,7 +327,7 @@ class Renderer:
             em = emoji_img(slide["emoji"], 104) if slide.get("emoji") else None
             # el emoji come 130px del presupuesto del titular: el chip de la web
             # vive en CORE_Y1-130 y no se mueve
-            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, (116, 60), 860, 430 - (130 if em else 0))
+            fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, self._ds(116, 60), 860, 430 - (130 if em else 0))
             if em:
                 im.paste(em, ((W - em.width) // 2, int(top)), em)
                 top += 130
@@ -365,7 +374,7 @@ class Renderer:
         # marca; cualquier post puede pisarlo con su propio `kicker`.
         default_kicker = "save this" if self.cfg.get("lang") == "en" else "para guardar"
         y = draw_kicker(draw, strip_emoji(slide.get("kicker", default_kicker)), acc, CORE_Y0 + 26)
-        tf, tlines, tlh, th = block_height(draw, title, disp, dw, (88, 52), 860, 260)
+        tf, tlines, tlh, th = block_height(draw, title, disp, dw, self._ds(88, 52), 860, 260)
 
         # The items are fitted to whatever height is left under the title, then
         # title+list are centred as one block: fitting the list first and letting
@@ -380,7 +389,7 @@ class Renderer:
             hh = sum(len(l) * lh for _, l in rows) + gap_row * max(0, len(rows) - 1)
             if hh <= avail:
                 break
-        nf = font(disp, min(72, size + 20), dw)
+        nf = font(disp, self._ds(min(72, size + 20)), dw)
 
         block = th + 54 + hh
         y = y + max(0, ((CORE_Y1 - 30) - y - block) / 2)
@@ -415,7 +424,7 @@ class Renderer:
         # centring the image inside the leftover space instead leaves the caption
         # stranded mid-slide with a hole under it. The type is deliberately smaller
         # than on a text slide: here the screenshot is the argument.
-        hf, hlines, hlh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, (68, 44), 860, 170)
+        hf, hlines, hlh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, self._ds(68, 44), 860, 170)
 
         blines: list[str] = []
         bf = font(body_f, 36, 500)
@@ -479,7 +488,7 @@ class Renderer:
             cy0 = draw_kicker(draw, strip_emoji(slide["kicker"]), acc, CORE_Y0 - 4) + 14
         # measure the text FIRST; the card takes whatever height remains above
         # the footer lockup (same contract as _shot_slide) — no collisions ever
-        fnt, lines, lh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, (84, 52), 860, 260)
+        fnt, lines, lh, hh = block_height(draw, strip_emoji(slide.get("h", "")), disp, dw, self._ds(84, 52), 860, 260)
         bf = font(body_f, 40, 500)
         blines = wrap(draw, strip_emoji(slide.get("b", "")), bf, 800) if slide.get("b") else []
         bh = (34 + 54 * len(blines)) if blines else 0
