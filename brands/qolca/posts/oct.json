@@ -1,1253 +1,1253 @@
 {
- "series": "oct",
- "brand": "qolca",
- "posts": [
-  {
-   "slug": "01-noventa-dias",
-   "slides": [
+  "series": "oct",
+  "brand": "qolca",
+  "posts": [
     {
-     "role": "cover",
-     "h": "El año se te acaba en 90 días",
-     "kicker": "ÚLTIMO TRIMESTRE",
-     "b": "tus cotizaciones abiertas no llegan solas a diciembre",
-     "emoji": "🏁"
+      "slug": "01-noventa-dias",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El año se te acaba en 90 días",
+          "kicker": "ÚLTIMO TRIMESTRE",
+          "b": "tus cotizaciones abiertas no llegan solas a diciembre",
+          "emoji": "🏁"
+        },
+        {
+          "role": "value",
+          "h": "Abre tu bandeja y cuenta",
+          "b": "· Cada chat sin respuesta final es una venta en el aire\n· Se cierra, se retoma o se archiva\n· Nada se queda en visto"
+        },
+        {
+          "role": "value",
+          "h": "El mensaje de retome",
+          "b": "«Quedamos en que lo pensabas, ¿sigue en pie para esta semana? Tengo [dato nuevo].» Sin pedir perdón por escribir."
+        },
+        {
+          "role": "value",
+          "h": "El que no contesta, se archiva con fecha",
+          "b": "Etiqueta 'frío octubre'. En la campaña navideña esa lista vale oro: ya te conocen."
+        },
+        {
+          "role": "stat",
+          "h": "O que nada llegue a triaje.",
+          "b": "Qolca (qolca.org) construye CRMs y automatización de WhatsApp a medida. Hablas directo con quien lo construye."
+        },
+        {
+          "role": "cta",
+          "h": "90 días. Empieza por 10 chats hoy.",
+          "b": "El triaje toma una tarde: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "El año se acaba en 90 días y tus cotizaciones abiertas no llegan solas a diciembre: triaje de bandeja hoy, se cierra, se retoma o se archiva con etiqueta. El método completo en el carrusel. #negocios #peru #ventas #crm",
+        "tt": "90 días para cerrar el año y tu bandeja llena de 'en visto' 🏁 #negocios #peru #ventas",
+        "fb": "Empezó el último trimestre. ¿Cuántos chats tienes 'en visto' que eran ventas? Triaje de octubre: cerrar, retomar o archivar, y el mensaje exacto para retomar sin rogar. ¿Cuántos vas a rescatar hoy?"
+      },
+      "alt": "Triaje de cotizaciones abiertas para el último trimestre del año."
     },
     {
-     "role": "value",
-     "h": "Abre tu bandeja y cuenta",
-     "b": "· Cada chat sin respuesta final es una venta en el aire\n· Se cierra, se retoma o se archiva\n· Nada se queda en visto"
+      "slug": "02-llego-bien",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El «¿llegó bien?» vende más que tu publicidad",
+          "emoji": "📦"
+        },
+        {
+          "role": "value",
+          "h": "A las 24 horas de entregar, escribe",
+          "b": "«¿Llegó todo bien? ¿Alguna duda con lo tuyo?» El cliente atendido DESPUÉS de pagar es el que te recomienda."
+        },
+        {
+          "role": "value",
+          "h": "La respuesta te da la segunda venta",
+          "b": "· Si contesta feliz: pide la reseña o el referido ahí mismo\n· Si contesta con problema: lo salvas antes del reclamo público"
+        },
+        {
+          "role": "value",
+          "h": "Funciona en todo lo que se entrega",
+          "b": "· El auto entregado: su primer service\n· El depa: los referidos\n· La boda: el aniversario"
+        },
+        {
+          "role": "stat",
+          "h": "Cada cliente con su historia completa.",
+          "b": "Qolca (qolca.org) guarda qué pidió, qué pagó y cuándo volver a llamarlo. Sin apuntar nada."
+        },
+        {
+          "role": "cta",
+          "h": "Escribe el «¿llegó bien?» de ayer.",
+          "b": "Un mensaje, dos ventas: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "El mensaje de posventa a las 24 horas vende más que la publicidad: qué escribir, qué hacer con cada respuesta y por qué la segunda venta empieza después de cobrar. #posventa #negocios #peru #clientes",
+        "tt": "El mensaje que nadie manda y vende solo: «¿llegó bien?» 📦 #negocios #ventas #peru",
+        "fb": "¿Le escribes a tu cliente DESPUÉS de que pagó? El «¿llegó bien?» de las 24 horas es la publicidad más barata que existe: o te gana una reseña o te salva de un reclamo. ¿Lo mandas o cobras y desapareces?"
+      },
+      "alt": "El mensaje de posventa de las 24 horas y la segunda venta."
     },
     {
-     "role": "value",
-     "h": "El mensaje de retome",
-     "b": "«Quedamos en que lo pensabas, ¿sigue en pie para esta semana? Tengo [dato nuevo].» Sin pedir perdón por escribir."
+      "slug": "03-calles-cerradas",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Octubre cierra calles y abre pedidos",
+          "kicker": "MES MORADO",
+          "img": "evento-procesion.jpg",
+          "emoji": "🟣"
+        },
+        {
+          "role": "value",
+          "h": "Los findes de procesión cambian tu mapa",
+          "b": "· Calles cerradas: menos gente y más delivery\n· Publica horario y zonas ANTES del finde"
+        },
+        {
+          "role": "value",
+          "h": "El mensaje automático de temporada",
+          "b": "«Este finde la zona está cerrada, entregamos por [ruta] hasta las [hora].» Se configura una vez."
+        },
+        {
+          "role": "stat",
+          "h": "De noche responde lo repetitivo.",
+          "b": "Qolca (qolca.org): lo importante te espera etiquetado, y siempre hay un humano al final."
+        },
+        {
+          "role": "cta",
+          "h": "Octubre recién empieza.",
+          "b": "Deja el mensaje de temporada puesto: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Mes Morado: cada finde de procesión cierra calles y dispara el delivery. El mensaje automático de temporada que avisa horario y ruta de entrega, configurado una vez para todo octubre. #mesmorado #negocios #peru #delivery",
+        "tt": "Octubre cierra calles: tu WhatsApp tiene que avisarlo solo 🟣 #mesmorado #peru #negocios",
+        "fb": "El Señor de los Milagros mueve cientos de miles de personas cada finde de octubre. ¿Tu negocio avisa horarios y rutas de entrega, o deja que cada cliente pregunte? El mensaje de temporada se pone una vez."
+      },
+      "alt": "Auto-mensaje de temporada para los findes de procesión del Mes Morado."
     },
     {
-     "role": "value",
-     "h": "El que no contesta, se archiva con fecha",
-     "b": "Etiqueta 'frío octubre'. En la campaña navideña esa lista vale oro: ya te conocen."
+      "slug": "04-catalogo",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu catálogo contesta preguntas mientras duermes",
+          "emoji": "📖"
+        },
+        {
+          "role": "value",
+          "h": "Arma el catálogo de WhatsApp en una tarde",
+          "b": "· Foto, nombre y dos líneas por producto\n· Herramientas para la empresa, Catálogo\n· Es gratis y casi nadie lo usa"
+        },
+        {
+          "role": "value",
+          "h": "Engánchalo al saludo",
+          "b": "El mensaje de bienvenida manda directo al catálogo: la mitad de los «¿qué tienes?» se responden solos."
+        },
+        {
+          "role": "value",
+          "h": "El catálogo informa, tú cierras",
+          "b": "Cuando el cliente elige, entra la persona: confirmar stock, cobrar, coordinar entrega. La máquina nunca cierra sola."
+        },
+        {
+          "role": "stat",
+          "h": "Los chats te llegan ordenados.",
+          "b": "Qolca (qolca.org) construye el CRM y el WhatsApp que responde solo, a la medida de tu negocio."
+        },
+        {
+          "role": "cta",
+          "h": "Una tarde de fotos, meses de respuestas.",
+          "b": "Y lo que el catálogo no cierra, sí: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "El catálogo de WhatsApp Business se arma en una tarde y responde solo la mitad de las consultas: cómo armarlo, engancharlo al saludo y dónde debe entrar el humano. #whatsappbusiness #negocios #peru #catalogo",
+        "tt": "Tu catálogo puede contestar '¿qué tienes?' mientras duermes 📖 #whatsapp #negocios #peru",
+        "fb": "¿Cuántas veces al día respondes «¿qué tienes?»? El catálogo de WhatsApp Business es gratis, se arma en una tarde y contesta eso solo. Tú entras donde importa: al cierre. ¿Ya lo armaste?"
+      },
+      "alt": "Cómo armar el catálogo de WhatsApp Business y conectarlo al saludo."
     },
     {
-     "role": "stat",
-     "h": "O que nada llegue a triaje.",
-     "b": "Qolca (qolca.org) construye CRMs y automatización de WhatsApp a medida. Hablas directo con quien lo construye."
+      "slug": "05-expediente",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tus chats archivados son un expediente en tu contra",
+          "kicker": "THE SOCIAL RECKONING",
+          "img": "evento-zuckerberg.jpg",
+          "emoji": "🗂"
+        },
+        {
+          "role": "value",
+          "h": "Lee 20 chats viejos hoy",
+          "b": "Como los archivos de Facebook: el historial dice la verdad. Busca dónde se cortó cada conversación, ahí está tu fuga."
+        },
+        {
+          "role": "value",
+          "h": "Las 3 frases donde mueren tus ventas",
+          "b": "· «Ya te aviso» sin fecha\n· «Déjame consultar» sin retorno\n· El precio respondido sin pregunta de vuelta\n· Márcalas y prohíbelas"
+        },
+        {
+          "role": "value",
+          "h": "Del expediente al sistema",
+          "b": "Cada fuga que se repite pide una regla nueva: quién retoma, cuándo y con qué mensaje."
+        },
+        {
+          "role": "stat",
+          "h": "La auditoría, hecha sola.",
+          "b": "Qolca (qolca.org) registra dónde se corta cada conversación y quién debe retomarla."
+        },
+        {
+          "role": "cta",
+          "h": "Que tu historial hable bien de ti.",
+          "b": "La auditoría toma 30 minutos: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "La película de los archivos de Facebook, versión negocio: tus propios chats archivados revelan exactamente dónde pierdes ventas. La auditoría de 30 minutos y las 3 frases prohibidas. #ventas #negocios #peru #whatsapp",
+        "tt": "Tus chats viejos son un expediente en tu contra 🗂 #negocios #ventas #peru",
+        "fb": "En el cine: una empleada filtra los archivos de Facebook. En tu negocio: tus propios chats archivados cuentan dónde se te van las ventas. Lee 20 chats viejos hoy, las 3 frases asesinas están ahí. ¿Te atreves?"
+      },
+      "alt": "Auditoría de chats archivados para encontrar fugas de venta."
     },
     {
-     "role": "cta",
-     "h": "90 días. Empieza por 10 chats hoy.",
-     "b": "El triaje toma una tarde: qolca.org"
+      "slug": "06-doble-venta",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Vendiste el mismo carro dos veces",
+          "emoji": "😬"
+        },
+        {
+          "role": "value",
+          "h": "La doble venta nace de dos cuadernos",
+          "b": "El vendedor A apuntó en su celular, el B en el suyo. Nadie vio al otro. El cliente sí vio el papelón.",
+          "emoji": "😳"
+        },
+        {
+          "role": "value",
+          "h": "Un solo lugar para el estado de cada cosa",
+          "b": "Disponible → separado → vendido, con nombre de quien lo cambió. Vale igual para autos, fechas de boda y departamentos."
+        },
+        {
+          "role": "value",
+          "h": "El «separado» tiene reloj",
+          "b": "Sin confirmación en 48 horas vuelve a disponible, y el interesado anterior recibe el aviso primero."
+        },
+        {
+          "role": "stat",
+          "h": "Un solo inventario, para todos.",
+          "b": "Qolca (qolca.org) lo arma para lotes de autos, bodas e inmobiliarias. Y para negocios como el tuyo."
+        },
+        {
+          "role": "cta",
+          "h": "¿Cuántos cuadernos tiene tu inventario?",
+          "b": "Debería ser uno: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "La doble venta no es mala suerte: es inventario en dos cuadernos. El estado único (disponible/separado/vendido), el reloj del separado y quién avisa. #inventario #negocios #peru #crm",
+        "tt": "Vender lo mismo dos veces: el papelón que sí se puede evitar 😬 #negocios #peru",
+        "fb": "¿Te ha pasado? Dos vendedores, dos celulares, un solo carro… vendido dos veces. El arreglo no es regañar: es UN solo estado por producto, con nombre y reloj. ¿Cuántos cuadernos maneja tu equipo hoy?"
+      },
+      "alt": "Estado único de inventario para evitar la doble venta."
+    },
+    {
+      "slug": "07-lista-espera",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Se agotó y colgaste, el cliente seguía ahí",
+          "emoji": "🛎"
+        },
+        {
+          "role": "value",
+          "h": "El «no hay» es el inicio de la lista",
+          "b": "«Se agotó, ¿te aviso cuando llegue?» y etiqueta de espera. Diez segundos que guardan la venta."
+        },
+        {
+          "role": "value",
+          "h": "La reposición se avisa en orden",
+          "b": "Llegó stock: mensaje a la lista, primero al más antiguo. Se siente VIP y compra sin pensarlo."
+        },
+        {
+          "role": "stat",
+          "h": "Reposición avisada en orden.",
+          "b": "Qolca (qolca.org): citas, entregas y recordatorios que se confirman sin que los persigas."
+        },
+        {
+          "role": "cta",
+          "h": "Tu lista de espera empieza hoy.",
+          "b": "Con avisos que salen solos: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "«Se agotó» no es el final de la venta: es el inicio de la lista de espera. La etiqueta de 10 segundos y el aviso de reposición en orden de antigüedad. #ventas #negocios #peru #stock",
+        "tt": "Se agotó ≠ se perdió la venta 🛎 #negocios #ventas #peru",
+        "fb": "Cuando dices «se agotó» y el cliente cuelga… ¿lo apuntaste? La lista de espera cuesta 10 segundos por cliente y convierte reposición en ventas del día uno. ¿La llevas o confías en la memoria?"
+      },
+      "alt": "Lista de espera y aviso de reposición en orden."
+    },
+    {
+      "slug": "08-armys",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "60 mil ARMYs se organizan mejor que tu tienda",
+          "kicker": "SEMANA BTS",
+          "img": "evento-army.jpg",
+          "emoji": "💜"
+        },
+        {
+          "role": "value",
+          "h": "El feriado te llena la bandeja igual",
+          "b": "· Concierto más feriado: consultas que caen mientras descansas\n· El silencio de dos días mata más ventas que la competencia"
+        },
+        {
+          "role": "value",
+          "h": "El mensaje de feriado que sí sirve",
+          "b": "«Hoy atendemos hasta [hora]; tu pedido queda anotado y mañana te confirmamos.» Y se cumple."
+        },
+        {
+          "role": "value",
+          "h": "El lunes se paga la deuda",
+          "b": "Primera hora: responder por antigüedad, no por último mensaje. El que espera más revienta primero."
+        },
+        {
+          "role": "stat",
+          "h": "El feriado atendido sin ti.",
+          "b": "Qolca (qolca.org) recibe, clasifica y deriva mientras tú descansas."
+        },
+        {
+          "role": "cta",
+          "h": "Organízate como ARMY.",
+          "b": "Tu bandeja de feriado, ordenada sola: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "BTS en Lima y feriado largo: tu bandeja se llena mientras descansas. El mensaje de feriado que anota pedidos de verdad y el orden del día siguiente. #bts #feriado #negocios #peru",
+        "tt": "60 mil ARMYs coordinadas y tu tienda sin plan de feriado 💜 #bts #peru #negocios",
+        "fb": "Las ARMYs acampan organizadas por apps; tu negocio cierra el feriado y deja la bandeja al azar. El mensaje de feriado que sí funciona anota el pedido y promete confirmación con hora. ¿El tuyo qué dice?"
+      },
+      "alt": "Plan de atención de feriado con pedidos anotados."
+    },
+    {
+      "slug": "09-lomo-saltado",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Hoy tu ciudad almuerza lomo saltado",
+          "kicker": "DÍA DEL LOMO SALTADO",
+          "img": "evento-lomo.jpg",
+          "emoji": "🍛"
+        },
+        {
+          "role": "value",
+          "h": "Las fechas de comida traen olas",
+          "b": "Pedidos en manada de doce a dos. La ola se atiende con cola: acuse inmediato, orden visible, tiempo honesto."
+        },
+        {
+          "role": "value",
+          "h": "El pedido en formato",
+          "b": "«Para atenderte volando: 1) qué pides 2) dirección 3) hora.» Un mensaje fijado ahorra cuatro idas y vueltas por pedido."
+        },
+        {
+          "role": "value",
+          "h": "Pasada la ola, cosecha",
+          "b": "Todo el que pidió hoy entra a tu lista con etiqueta de fecha. El próximo día criollo ya sabes a quién avisarle."
+        },
+        {
+          "role": "stat",
+          "h": "Acuse inmediato en plena ola.",
+          "b": "Qolca (qolca.org): orden visible, tiempo honesto y cada pedido registrado."
+        },
+        {
+          "role": "cta",
+          "h": "Que la ola no te revuelque.",
+          "b": "La cola de pedidos se arma sola: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Día del Lomo Saltado: pedidos en manada entre 12 y 2. El formato de pedido fijado, el tiempo honesto y la cosecha de contactos para el próximo día criollo. #lomosaltado #restaurantes #peru #delivery",
+        "tt": "Hoy medio Perú pide lomo saltado a la vez 🍛 #lomosaltado #peru #food",
+        "fb": "Los días de comida no traen clientes sueltos: traen OLAS. ¿Tu WhatsApp tiene formato de pedido o cada uno es un interrogatorio de 6 mensajes? El formato fijado se copia en un minuto."
+      },
+      "alt": "Cola y formato de pedidos para fechas gastronómicas pico."
+    },
+    {
+      "slug": "10-desde-el-estadio",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu cliente te escribe desde el estadio",
+          "img": "evento-army2.jpg",
+          "emoji": "🎤"
+        },
+        {
+          "role": "value",
+          "h": "La gente compra en los tiempos muertos",
+          "b": "En la cola, en la espera, a mitad del concierto. El antojo dura minutos: si el acuse no llega, se va con otro."
+        },
+        {
+          "role": "value",
+          "h": "Acuse ya, respuesta después",
+          "b": "El acuse automático compra tiempo real: «Recibido, te confirmo en 20 min.» Lo que no se puede: dejar el visto desnudo."
+        },
+        {
+          "role": "stat",
+          "h": "El acuse no depende de nadie.",
+          "b": "Qolca (qolca.org) responde al instante y te deja lo importante etiquetado."
+        },
+        {
+          "role": "cta",
+          "h": "El antojo no espera al lunes.",
+          "b": "Acuse inmediato, siempre: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Tus clientes compran en tiempos muertos: colas, esperas, conciertos. El antojo dura minutos, el acuse automático lo sostiene hasta que llegues. #ventas #whatsapp #negocios #peru",
+        "tt": "Te escriben desde el estadio y tu visto los mata 🎤 #negocios #peru #ventas",
+        "fb": "El cliente de las 9pm no está en tu horario: está en SU tiempo muerto. Un acuse automático honesto sostiene el antojo; el visto desnudo lo entierra. ¿Cuál das tú?"
+      },
+      "alt": "Acuse automático para compras de impulso en tiempos muertos."
+    },
+    {
+      "slug": "11-clientes-anuales",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tienes clientes anuales y no lo sabes",
+          "emoji": "🗓"
+        },
+        {
+          "role": "value",
+          "h": "La recompra tiene calendario",
+          "b": "El service del auto es cada año. El aniversario de la boda, también. El contrato de alquiler vence. ¿Quién lo apunta?"
+        },
+        {
+          "role": "value",
+          "h": "La ficha con fecha de regreso",
+          "b": "A cada venta, una fecha futura: «volver a escribir en [mes]». Tres campos: qué compró, cuándo, cuándo tocaría de nuevo."
+        },
+        {
+          "role": "value",
+          "h": "El mensaje de aniversario",
+          "b": "«Hace un año te llevaste [X], ¿cómo va? Ya toca [servicio].» Nadie más se lo va a recordar por él."
+        },
+        {
+          "role": "stat",
+          "h": "La fecha de regreso, guardada sola.",
+          "b": "Qolca (qolca.org) guarda qué compró y cuándo toca escribirle otra vez."
+        },
+        {
+          "role": "cta",
+          "h": "Tu calendario de recompra empieza hoy.",
+          "b": "Con recordatorios que saltan solos: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Tienes clientes que vuelven cada año, si alguien se los recuerda. La ficha con fecha de regreso y el mensaje de aniversario que trae la recompra. #crm #ventas #peru #negocios",
+        "tt": "Tus clientes anuales existen, tu calendario no 🗓 #negocios #ventas #peru",
+        "fb": "El service del auto, el aniversario, el contrato que vence: la recompra tiene fecha exacta y nadie la apunta. Tres campos por cliente y el año que viene se vende solo. ¿Quién apunta esto en tu negocio?"
+      },
+      "alt": "Ficha con fecha de regreso y mensaje de aniversario para recompra."
+    },
+    {
+      "slug": "12-garantia",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Cobraste y desapareciste hasta el reclamo",
+          "emoji": "🔧"
+        },
+        {
+          "role": "value",
+          "h": "El mensaje de las 24 horas",
+          "b": "Así no: silencio hasta el reclamo\nAsí sí: «¿llegó todo bien? ¿alguna duda?»"
+        },
+        {
+          "role": "value",
+          "h": "La revisión se agenda al vender",
+          "b": "Así no: «cualquier cosa me escribes»\nAsí sí: «te escribo en un mes para la revisión»"
+        },
+        {
+          "role": "value",
+          "h": "La garantía como cita, no como papel",
+          "b": "Así no: garantía guardada en un cajón\nAsí sí: mantenimiento con fecha en la ficha"
+        },
+        {
+          "role": "stat",
+          "h": "La revisión se agenda sola.",
+          "b": "Qolca (qolca.org): citas y recordatorios que se confirman sin que los persigas."
+        },
+        {
+          "role": "cta",
+          "h": "La segunda venta empieza al cobrar la primera.",
+          "b": "qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Cobrar y desaparecer vs vender la segunda: el «¿llegó todo bien?» a las 24 horas, la revisión agendada en el momento del sí y la garantía convertida en cita con fecha. Qolca (qolca.org) deja esos mensajes programados en tu CRM. #postventa #clientes #ventas #negocios #peru #crm",
+        "tt": "Cobraste y desapareciste, como casi todos 🔧 #postventa #ventas #negocios #peru",
+        "fb": "Muchos negocios cobran y desaparecen hasta el reclamo. Los que venden dos veces escriben a las 24 horas, agendan la revisión al vender y convierten la garantía en cita. Qolca (qolca.org): CRMs donde la posventa se dispara sola."
+      },
+      "alt": "Posventa que desaparece frente a posventa que agenda: mensajes de 24 horas, revisiones y garantía con fecha."
+    },
+    {
+      "slug": "13-simulacro",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Esta noche tiembla de mentira, tus ventas de verdad",
+          "kicker": "SIMULACRO NOCTURNO",
+          "emoji": "🚨"
+        },
+        {
+          "role": "value",
+          "h": "¿Si mañana no puedes atender, qué pasa?",
+          "b": "Enfermedad, viaje, emergencia: si los chats viven solo en tu celular, el negocio se apaga contigo."
+        },
+        {
+          "role": "value",
+          "h": "El simulacro del negocio",
+          "b": "· Prueba hoy: ¿otra persona puede ver las conversaciones, saber qué se prometió y responder?\n· Si no, no tienes negocio: tienes un celular"
+        },
+        {
+          "role": "value",
+          "h": "Historial compartido, negocio que sigue",
+          "b": "Conversaciones y fichas donde entra más de uno. El conocimiento es de la empresa, ya viste cómo volvió Iron Man."
+        },
+        {
+          "role": "stat",
+          "h": "El negocio sigue aunque tú no.",
+          "b": "Qolca (qolca.org) construye CRMs a medida: el historial es de la empresa, no de un celular."
+        },
+        {
+          "role": "cta",
+          "h": "Haz tu simulacro esta semana.",
+          "b": "La continuidad se construye: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Hoy el Perú ensaya el sismo de noche. Tu negocio también necesita simulacro: ¿alguien más puede atender tus chats mañana? La prueba de continuidad en 3 pasos. #simulacro #negocios #peru #crm",
+        "tt": "Simulacro para tu negocio: ¿qué pasa si mañana no estás? 🚨 #negocios #peru",
+        "fb": "Esta noche tiembla de mentira. Aprovecha: si mañana no pudieras atender, ¿alguien vería tus chats, sabría qué prometiste y respondería? Si la respuesta es no, tu negocio es un celular. Haz el simulacro."
+      },
+      "alt": "Simulacro de continuidad: chats y fichas accesibles al equipo."
+    },
+    {
+      "slug": "14-mensaje-guardado",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu mejor vendedor es un mensaje guardado",
+          "emoji": "💬"
+        },
+        {
+          "role": "value",
+          "h": "Los cierres también tienen plantilla",
+          "b": "No solo respondes preguntas: cierras. «¿Lo separamos de una vez?» convierte más que esperar a que el cliente se anime."
+        },
+        {
+          "role": "value",
+          "h": "Las 3 que cierran",
+          "b": "· La de opciones: «tengo A y B, ¿cuál va contigo?»\n· La de agenda: «¿mañana o el jueves?»\n· La de última unidad, solo si es verdad"
+        },
+        {
+          "role": "stat",
+          "h": "Tus cierres, listos en cada chat.",
+          "b": "Qolca (qolca.org): las plantillas viven en tu WhatsApp y los chats llegan ordenados."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda las 3 hoy.",
+          "b": "Y que trabajen en cada chat: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Las respuestas guardadas no son solo para el precio: los CIERRES también tienen plantilla. Las 3 que convierten y cuándo dispararlas. #ventas #whatsapp #peru #negocios",
+        "tt": "El mensaje guardado que cierra ventas por ti 💬 #ventas #peru #negocios",
+        "fb": "¿Tienes guardadas las respuestas de precio pero cierras cada venta improvisando? Los cierres también tienen plantilla: opciones, agenda o última unidad. ¿Cuál usas más?"
+      },
+      "alt": "Plantillas de cierre para WhatsApp."
+    },
+    {
+      "slug": "15-repaso-quincena",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tus chats de hace 15 días siguen vivos",
+          "b": "retómalos bien",
+          "emoji": "🔍"
+        },
+        {
+          "role": "value",
+          "h": "Pendiente no es perdido",
+          "b": "Así no: darlos por muertos en silencio\nAsí sí: filtrar los sin cierre y retomarlos"
+        },
+        {
+          "role": "value",
+          "h": "Sin pedir disculpas",
+          "b": "Así no: «disculpa la molestia...»\nAsí sí: «¿seguimos con lo que hablamos?»"
+        },
+        {
+          "role": "value",
+          "h": "Con contexto y beneficio",
+          "b": "Así no: «¿ya decidiste?», pelado\nAsí sí: «esta semana puedo entregarlo instalado»"
+        },
+        {
+          "role": "stat",
+          "h": "Nada cumple 15 días en silencio.",
+          "b": "Qolca (qolca.org) marca cada chat sin cierre y te lo pone al frente."
+        },
+        {
+          "role": "cta",
+          "h": "Quince días no matan una venta. El silencio sí.",
+          "b": "qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Los chats de hace 15 días no están perdidos, están pendientes: filtra los sin cierre, retómalos sin pedir disculpas y con un beneficio concreto sobre la mesa. Qolca (qolca.org) arma la lista de retome sola en tu CRM. #ventas #whatsapp #seguimiento #negocios #peru #crm",
+        "tt": "Tus chats de hace 15 días siguen vivos 🔍 #ventas #whatsapp #negocios #peru",
+        "fb": "El que preguntó hace dos semanas y quedó en visto no dijo que no: se distrajo. Filtra los chats sin cierre, retómalos directo («¿seguimos con lo que hablamos?») y suma algo concreto. Qolca (qolca.org): el CRM que te entrega esa lista lista."
+      },
+      "alt": "Cómo retomar chats pendientes de quincena: sin disculpas, con contexto y con beneficio."
+    },
+    {
+      "slug": "16-contestar-no-es-atender",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Contestar no es atender",
+          "emoji": "💥"
+        },
+        {
+          "role": "value",
+          "h": "«Sí hay» es media respuesta",
+          "b": "· «Sí hay, ¿para qué lo necesitas?»\n· Una pregunta de vuelta y el chat cambia de dueño"
+        },
+        {
+          "role": "value",
+          "h": "El guion corto de 3 pasos",
+          "b": "· Responder lo preguntado, preguntar el uso, ofrecer máximo dos opciones con su siguiente paso\n· Más opciones, más parálisis"
+        },
+        {
+          "role": "stat",
+          "h": "El guion, dentro del sistema.",
+          "b": "Qolca (qolca.org) lo arma para lotes de autos, bodas e inmobiliarias. Y para el tuyo."
+        },
+        {
+          "role": "cta",
+          "h": "Atiende, no contestes.",
+          "b": "El guion se entrena: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "«Sí hay» es media respuesta. Atender es guiar la venta: el guion corto de 3 pasos que convierte consultas en cierres. #ventas #atencion #peru #negocios",
+        "tt": "Contestar ≠ atender: el guion de 3 pasos 💥 #ventas #peru #negocios",
+        "fb": "¿Tu equipo contesta o atiende? «Sí hay» deja al cliente solo con su duda; la pregunta de vuelta lo lleva de la mano. Tres pasos, dos opciones máximo. Pruébalo hoy."
+      },
+      "alt": "Mini-guion de atención en 3 pasos."
+    },
+    {
+      "slug": "17-anticuchos",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Hoy es noche de anticuchos y colas largas",
+          "kicker": "DÍA DEL ANTICUCHO",
+          "img": "evento-anticuchos.jpg",
+          "emoji": "🍢"
+        },
+        {
+          "role": "value",
+          "h": "El mostrador y el chat no son la misma mano",
+          "b": "· El que atiende la cola no responde WhatsApp\n· En noche pico: uno vende presencial, otro, o el asistente, sostiene el chat"
+        },
+        {
+          "role": "value",
+          "h": "Los roles se definen antes de las seis",
+          "b": "Quién cobra, quién chatea, quién corre el delivery. La ola no es el momento de averiguarlo."
+        },
+        {
+          "role": "stat",
+          "h": "Un turno que no se cae en la ola.",
+          "b": "Qolca (qolca.org) responde lo repetitivo de noche; lo importante te espera etiquetado."
+        },
+        {
+          "role": "cta",
+          "h": "Reparte los roles hoy temprano.",
+          "b": "El chat nunca se queda solo: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Día del Anticucho: cola en el mostrador y bandeja explotando a la vez. La división de roles antes de las 6, quién vende, quién chatea, quién reparte. #anticuchos #peru #negocios #restaurantes",
+        "tt": "Noche de anticuchos: la cola no puede atender el chat 🍢 #anticucho #peru",
+        "fb": "El error de las noches pico: la misma persona atiende la cola Y el WhatsApp, y pierde en los dos. Los roles se reparten antes de las 6, no durante la ola. ¿Ya sabes quién hace qué hoy?"
+      },
+      "alt": "División de roles entre mostrador y chat en noche pico."
+    },
+    {
+      "slug": "18-cien-mil",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Cien mil personas pasan frente a tu local",
+          "kicker": "MES MORADO",
+          "img": "evento-procesion-noche.jpg",
+          "emoji": "🟣"
+        },
+        {
+          "role": "value",
+          "h": "El tráfico no es venta si no lo capturas",
+          "b": "El que pasó, pasó, salvo que se lleve tu WhatsApp. QR grande en la puerta: «pide por aquí y evita la cola»."
+        },
+        {
+          "role": "value",
+          "h": "El saludo hace el resto",
+          "b": "El QR aterriza en tu bienvenida y tu catálogo. De transeúnte a contacto etiquetado en dos toques."
+        },
+        {
+          "role": "value",
+          "h": "Después de la procesión, la lista queda",
+          "b": "Los que escribieron ese finde son tu campaña de noviembre. El tráfico se fue; los contactos no."
+        },
+        {
+          "role": "stat",
+          "h": "El transeúnte queda registrado.",
+          "b": "Qolca (qolca.org): cada contacto entra con su etiqueta y su fecha de recontacto."
+        },
+        {
+          "role": "cta",
+          "h": "La procesión pasa una vez al año.",
+          "b": "Tu QR la espera en la puerta: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "La procesión pone cien mil personas frente a tu local. El QR de la puerta convierte tráfico en contactos etiquetados, y ese finde en tu campaña de noviembre. #mesmorado #peru #negocios #ventas",
+        "tt": "Cien mil pasan por tu puerta y no capturas ni uno 🟣 #mesmorado #peru",
+        "fb": "El Señor de los Milagros mueve multitudes por tu cuadra. ¿Tienes un QR en la puerta o solo miras pasar gente? Tráfico sin captura es tráfico regalado. El QR se imprime hoy."
+      },
+      "alt": "QR de captura de tráfico en la puerta durante la procesión."
+    },
+    {
+      "slug": "19-referidos",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El referido no llega solo, se pide",
+          "emoji": "🤝"
+        },
+        {
+          "role": "value",
+          "h": "El mejor momento dura 10 segundos",
+          "b": "Justo después del «gracias, todo perfecto»: «¿Conoces a alguien más buscando esto? Preséntamelo y lo atiendo igual.»"
+        },
+        {
+          "role": "value",
+          "h": "El referido se apunta con padrino",
+          "b": "Ficha nueva con quién lo trajo. Cuando compre, el padrino recibe un gracias de verdad, y refiere de nuevo."
+        },
+        {
+          "role": "stat",
+          "h": "El padrino queda anotado.",
+          "b": "Qolca (qolca.org) guarda quién trajo a quién, y cuándo toca agradecerlo."
+        },
+        {
+          "role": "cta",
+          "h": "Pide un referido esta semana.",
+          "b": "Y apúntalo con padrino: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Los referidos no caen del cielo: se piden en los 10 segundos después del «gracias». El mensaje que no incomoda y la ficha con padrino. #referidos #ventas #peru #negocios",
+        "tt": "El referido se pide, no se espera 🤝 #ventas #peru #negocios",
+        "fb": "¿Cuándo fue la última vez que PEDISTE un referido? El momento perfecto dura 10 segundos: justo después del «todo perfecto». Ni antes ni después. ¿Te animas esta semana?"
+      },
+      "alt": "Cómo pedir referidos y registrarlos con padrino."
+    },
+    {
+      "slug": "20-whatsapp-manual",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu tienda entra a Cyber Wow con el WhatsApp manual",
+          "kicker": "CYBER WOW",
+          "emoji": "🚨"
+        },
+        {
+          "role": "value",
+          "h": "En campaña las consultas se multiplican, tú no",
+          "b": "Lo que hoy contestas 10 veces serán 100: precio, stock, envío. Si cada una la tipeas, la campaña te atiende a ti."
+        },
+        {
+          "role": "value",
+          "h": "El kit de campaña en una tarde",
+          "b": "Saludo de campaña (qué hay y hasta cuándo), respuestas guardadas de precio, stock y envío, y una regla: qué pregunta pasa al humano."
+        },
+        {
+          "role": "value",
+          "h": "Pruébalo antes de la ola",
+          "b": "Mándate las respuestas a ti mismo. Lo que suene a robot se reescribe con tu voz."
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "h": "El kit de campaña, construido.",
+          "b": "Qolca (qolca.org) monta el asistente y la regla de derivación antes de la ola."
+        },
+        {
+          "role": "cta",
+          "h": "La campaña se gana antes de la campaña.",
+          "b": "El kit completo, construido contigo: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Cyber Wow se acerca y tu WhatsApp sigue manual: el kit de campaña que se arma en una tarde, saludo, respuestas guardadas y la regla de escalar al humano. #cyberwow #negocios #peru #whatsapp",
+        "tt": "Tu WhatsApp manual no sobrevive Cyber Wow 🚨 #cyberwow #peru #negocios",
+        "fb": "En campaña no te faltan clientes: te faltan manos. El kit de una tarde (saludo + respuestas + regla de escalado) es la diferencia entre atender la ola y ahogarte en ella. ¿Tu tienda entra lista?"
+      },
+      "alt": "Kit de respuestas de campaña para Cyber Wow."
+    },
+    {
+      "slug": "21-chifa",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Hoy el chifa se pide por WhatsApp",
+          "kicker": "DÍA DEL CHIFA",
+          "img": "evento-chifa.jpg",
+          "emoji": "🥡"
+        },
+        {
+          "role": "value",
+          "h": "El formato de pedido salva la noche",
+          "b": "· Mensaje fijado: «1) plato 2) dirección 3) hora»\n· El cliente lo llena, tú confirmas con tiempo real\n· Cuatro chats menos por pedido"
+        },
+        {
+          "role": "value",
+          "h": "El tiempo honesto fideliza",
+          "b": "«45 minutos» que son 45 vale más que «ya sale» que es una hora. El que confía repite en el próximo antojo."
+        },
+        {
+          "role": "stat",
+          "h": "La parte que se te escapa, construida.",
+          "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Citas, entregas y recordatorios que se confirman sin que los persigas"
+        },
+        {
+          "role": "cta",
+          "h": "Fija tu formato antes de las 7.",
+          "b": "La cola se ordena sola: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Día del Chifa: la noche se gana con formato de pedido fijado y tiempos honestos. Cuatro mensajes menos por pedido y clientes que repiten. #chifa #peru #delivery #negocios",
+        "tt": "Hoy el chaufa entra por WhatsApp 🥡 #chifa #peru #food",
+        "fb": "Noche de chifa: ¿cada pedido es un interrogatorio o un formato de 3 líneas? El mensaje fijado ahorra minutos por cliente, y el tiempo honesto es el que hace que vuelvan. Feliz día del chifa."
+      },
+      "alt": "Formato de pedido fijado para el Día del Chifa."
+    },
+    {
+      "slug": "22-primero-cobra",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "En Cyber Wow el que contesta primero cobra",
+          "kicker": "CYBER WOW",
+          "emoji": "⚡"
+        },
+        {
+          "role": "value",
+          "h": "Acuse en segundos, venta en minutos",
+          "b": "· Automático: «recibido, te confirmo en X»\n· Humano: la respuesta completa antes de que se enfríe\n· Dos tiempos, cada uno el suyo"
+        },
+        {
+          "role": "value",
+          "h": "La cola se ordena por intención",
+          "b": "· Primero el «¿cómo pago?», después el «¿hay stock?», al final el «¿qué tienes?»\n· No es orden de llegada: es orden de cierre"
+        },
+        {
+          "role": "value",
+          "h": "Lo que no cierres, etiquétalo",
+          "b": "CW-caliente o CW-frío. La campaña acaba; tus etiquetas siguen vendiendo."
+        },
+        {
+          "role": "stat",
+          "h": "Los chats llegan ordenados por intención.",
+          "b": "Qolca (qolca.org) recibe, clasifica y te deja la cola lista."
+        },
+        {
+          "role": "cta",
+          "h": "El primero cobra. Sé el primero.",
+          "b": "Velocidad con sistema: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "En Cyber Wow el que contesta primero cobra: el acuse en segundos, la cola ordenada por intención de compra y las etiquetas que siguen vendiendo después. #cyberwow #ventas #peru #negocios",
+        "tt": "En Cyber Wow no gana el más barato: gana el más rápido ⚡ #cyberwow #peru",
+        "fb": "Dato de campaña: la mayoría le compra al PRIMERO que responde bien. En Cyber Wow eso se multiplica. Acuse automático + cola por intención + etiquetas después de la campaña. ¿Qué tan rápido contestas hoy?"
+      },
+      "alt": "Sistema de velocidad de respuesta para Cyber Wow."
+    },
+    {
+      "slug": "23-compra-hasta-enero",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El que pregunta en campaña compra hasta enero",
+          "emoji": "📈"
+        },
+        {
+          "role": "value",
+          "h": "La campaña es una cosecha de contactos",
+          "b": "El «solo preguntaba» de Cyber Wow es demanda real con fecha flexible. Se pierde solo si nadie lo vuelve a tocar."
+        },
+        {
+          "role": "value",
+          "h": "El calendario después de la campaña",
+          "b": "A la semana: «llegó de nuevo lo que preguntaste». Al mes: la oferta navideña. Tu lista de campaña ES tu navidad."
+        },
+        {
+          "role": "stat",
+          "h": "La lista de campaña, guardada.",
+          "b": "Qolca (qolca.org) registra a cada interesado con su fecha de recontacto."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda cada «solo preguntaba».",
+          "b": "Esa lista es tu diciembre: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "El «solo preguntaba» de Cyber Wow es tu venta de navidad: cómo etiquetar la demanda de campaña y el calendario de retoque que la cosecha. #cyberwow #ventas #peru #crm",
+        "tt": "El que pregunta hoy te compra en diciembre 📈 #cyberwow #ventas #peru",
+        "fb": "En campaña, la mitad «solo pregunta». Error: descartarlos. Son demanda real con fecha flexible, etiquetados y re-tocados, son tu diciembre. ¿Guardas o botas a tus curiosos?"
+      },
+      "alt": "Cosecha de contactos de campaña para venta navideña."
+    },
+    {
+      "slug": "24-stock-chat",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu stock y tu chat no se conocen",
+          "emoji": "📦"
+        },
+        {
+          "role": "value",
+          "h": "Vender lo agotado cuesta doble",
+          "b": "El reclamo, la devolución y la confianza. En campaña es el error número uno, y nace de un catálogo viejo."
+        },
+        {
+          "role": "value",
+          "h": "El corte de stock diario",
+          "b": "Una persona, una hora fija: actualizar catálogo y avisar qué se acabó. En campaña, dos veces al día."
+        },
+        {
+          "role": "value",
+          "h": "El agotado con alternativa",
+          "b": "«Se acabó el A, pero el B hace lo mismo y hay.» La venta se pierde solo si no ofreces puerta."
+        },
+        {
+          "role": "stat",
+          "h": "El catálogo y el chat, sincronizados.",
+          "b": "Qolca (qolca.org) lo arma a medida para negocios que venden conversando."
+        },
+        {
+          "role": "cta",
+          "h": "Presenta tu stock a tu chat.",
+          "b": "Sincronizados venden más: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Vender lo agotado es el reclamo #1 de campaña: el corte de stock diario, quién actualiza y el «agotado con alternativa» que salva la venta. #stock #ventas #peru #negocios",
+        "tt": "Tu chat vende lo que tu stock ya no tiene 📦 #negocios #peru",
+        "fb": "¿Tu catálogo y tu almacén se hablan? Vender lo agotado cuesta el doble: reclamo + confianza. El corte diario de stock toma 15 minutos y en campaña se hace dos veces. ¿Quién lo hace en tu negocio?"
+      },
+      "alt": "Sincronización diaria de stock y catálogo."
+    },
+    {
+      "slug": "25-carrito",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El carrito abandonado también existe en WhatsApp",
+          "emoji": "🛒"
+        },
+        {
+          "role": "value",
+          "h": "Preguntó precio y calló: eso es un carrito",
+          "b": "No dijo no, se distrajo. En la tienda online lo rescata un correo; en WhatsApp lo rescatas tú."
+        },
+        {
+          "role": "value",
+          "h": "El rescate de las 24 horas",
+          "b": "· «¿Te quedó alguna duda con [producto]?\n· Sigue disponible hasta [fecha].» Recuerda el beneficio; no regales descuento por pánico"
+        },
+        {
+          "role": "stat",
+          "h": "El rescate se dispara solo.",
+          "b": "Qolca (qolca.org) marca el chat que se enfrió y manda el recordatorio con tu voz."
+        },
+        {
+          "role": "cta",
+          "h": "Rescata tus carritos de esta semana.",
+          "b": "Antes de que se enfríen del todo: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "El que preguntó precio y calló no dijo que no: es un carrito abandonado de WhatsApp. El mensaje de rescate a 24 horas sin regalar descuento. #ventas #whatsapp #peru #negocios",
+        "tt": "Tus carritos abandonados viven en tu bandeja 🛒 #ventas #peru #negocios",
+        "fb": "En e-commerce lo llaman carrito abandonado y le mandan 3 correos. En WhatsApp lo llamas «me dejó en visto» y lo abandonas TÚ. El rescate de 24h recuerda el beneficio, no ruega. ¿Cuántos tienes ahora mismo?"
+      },
+      "alt": "Rescate de consultas calladas a las 24 horas."
+    },
+    {
+      "slug": "26-balon-de-oro",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El Balón de Oro se gana entrenando martes",
+          "kicker": "BALÓN DE ORO",
+          "emoji": "🏆"
+        },
+        {
+          "role": "value",
+          "h": "La venta es constancia, no jugadas",
+          "b": "Nadie gana por un chat brillante: gana el que toca su cartera todos los días sin drama."
+        },
+        {
+          "role": "value",
+          "h": "El ritual 5·5·5",
+          "b": "· Quince minutos cada mañana: 5 nuevos respondidos a fondo, 5 fríos retomados, 5 antiguos saludados con motivo\n· Nada más, pero nada menos"
+        },
+        {
+          "role": "value",
+          "h": "Registra el ritual",
+          "b": "Un check diario. A fin de mes cuenta cuántos cierres salieron de esos 15 minutos. Más que de cualquier campañón."
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "h": "El ritual, servido cada mañana.",
+          "b": "Qolca (qolca.org) te arma la lista del día: nuevos, fríos y antiguos que tocan."
+        },
+        {
+          "role": "cta",
+          "h": "Hoy entrena tu 5·5·5.",
+          "b": "La constancia también se construye: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Hoy dan el Balón de Oro: se gana entrenando martes, no con una jugada. El ritual 5·5·5 de 15 minutos que cierra más que cualquier campaña. #balondeoro #ventas #peru #negocios",
+        "tt": "El Balón de Oro de las ventas: 15 min diarios 🏆 #balondeoro #ventas #peru",
+        "fb": "Mientras dan el Balón de Oro: en ventas también gana el que entrena a diario. 5 nuevos + 5 fríos + 5 antiguos = 15 minutos que valen más que cualquier campañón. ¿Aceptas el reto un mes?"
+      },
+      "alt": "Ritual diario 5·5·5 de seguimiento comercial."
+    },
+    {
+      "slug": "27-guion-asistente",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Lo que responde solo por ti necesita guion",
+          "emoji": "🎭"
+        },
+        {
+          "role": "value",
+          "h": "Suena a tu negocio o estorba",
+          "b": "Así no: «estimado usuario, mensaje procesado»\nAsí sí: tu nombre, tiempo honesto, salida a persona"
+        },
+        {
+          "role": "value",
+          "h": "Califica, no interroga",
+          "b": "Así no: diez preguntas de formulario\nAsí sí: ¿para cuándo, para qué uso, cómo pagas?"
+        },
+        {
+          "role": "value",
+          "h": "Lo que nunca responde solo",
+          "b": "Así no: reclamos contestados por máquina\nAsí sí: reclamo detectado, humano al instante"
+        },
+        {
+          "role": "stat",
+          "h": "El guion se construye contigo.",
+          "b": "Qolca (qolca.org): tu tono, tu derivación a humano, tu negocio."
+        },
+        {
+          "role": "cta",
+          "h": "Automático por fuera, tú por dentro.",
+          "b": "qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Un asistente automático sin guion espanta: debe sonar a tu negocio con tiempo honesto, calificar con tres preguntas en vez de interrogar y pasar los reclamos a un humano al instante. Qolca (qolca.org) escribe ese guion contigo. #automatizacion #whatsapp #atencionalcliente #negocios #peru #ia",
+        "tt": "Lo que responde solo por ti necesita guion 🎭 #whatsapp #automatizacion #negocios #peru",
+        "fb": "Automatizar sin guion es poner un robot antipático en tu puerta. El asistente que funciona suena a tu negocio, hace las tres preguntas que califican y deriva los reclamos a una persona de inmediato. Qolca (qolca.org) los construye con tu voz."
+      },
+      "alt": "Reglas de guion para asistentes automáticos: tono propio, preguntas que califican y reclamos siempre humanos."
+    },
+    {
+      "slug": "28-base-limpia",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu lista tiene más números muertos que clientes",
+          "emoji": "🧹"
+        },
+        {
+          "role": "value",
+          "h": "La limpieza antes de Navidad",
+          "b": "Último contacto hace más de un año y sin compra: archivar. Duplicados: fusionar. Sin nombre: bautizar o borrar."
+        },
+        {
+          "role": "value",
+          "h": "Etiquetas que sirvan en diciembre",
+          "b": "«Compró 2026», «preguntó y nada», «recurrente». Tres etiquetas bastan para que la campaña navideña no salga al voleo."
+        },
+        {
+          "role": "stat",
+          "h": "Una base que se limpia sola.",
+          "b": "Qolca (qolca.org) fusiona, etiqueta y guarda la historia de cada cliente."
+        },
+        {
+          "role": "cta",
+          "h": "Limpia 20 contactos hoy.",
+          "b": "Diciembre te lo agradece: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Antes de la campaña navideña: limpieza de base. Qué archivar, qué fusionar y las 3 etiquetas que hacen que diciembre no salga al voleo. #crm #navidad #peru #negocios",
+        "tt": "Tu lista está llena de fantasmas 🧹 #negocios #crm #peru",
+        "fb": "¿Cuántos de tus contactos son números muertos? La campaña de diciembre rinde según la base de noviembre: archivar, fusionar, etiquetar. Empieza con 20 hoy."
+      },
+      "alt": "Limpieza y etiquetado de base de clientes antes de Navidad."
+    },
+    {
+      "slug": "29-kit-navidad",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "La campaña navideña no se inventa de cero",
+          "b": "ya la tienes a medias",
+          "emoji": "🎄"
+        },
+        {
+          "role": "value",
+          "h": "Recicla el kit, no lo reinventes",
+          "b": "Así no: diciembre desde el papel en blanco\nAsí sí: el kit de Cyber Wow con fechas nuevas"
+        },
+        {
+          "role": "value",
+          "h": "Los tiempos se ajustan cada semana",
+          "b": "Así no: prometer en diciembre la entrega de noviembre\nAsí sí: tiempo honesto revisado cada lunes"
+        },
+        {
+          "role": "value",
+          "h": "Se prueba antes del pico",
+          "b": "Así no: estrenar respuestas el 15 de diciembre\nAsí sí: mándatelas a ti mismo esta semana"
+        },
+        {
+          "role": "stat",
+          "h": "El kit queda montado para diciembre.",
+          "b": "Qolca (qolca.org): citas, entregas y recordatorios que se confirman sin perseguir."
+        },
+        {
+          "role": "cta",
+          "h": "Diciembre se gana con lo ya probado.",
+          "b": "qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "La campaña navideña no se inventa de cero: recicla el kit de Cyber Wow con fechas nuevas, ajusta los tiempos de entrega cada lunes y prueba las respuestas antes del pico. Qolca (qolca.org) deja el sistema listo para diciembre. #navidad #campaña #whatsapp #negocios #peru #ventas",
+        "tt": "La campaña navideña no se inventa de cero 🎄 #navidad #negocios #ventas #peru",
+        "fb": "Diciembre no necesita un sistema nuevo: necesita el de Cyber Wow reciclado con fechas nuevas, tiempos de entrega honestos revisados cada semana y respuestas probadas antes del pico. Qolca (qolca.org) construye el kit que aguanta la campaña."
+      },
+      "alt": "Cómo reciclar el kit de campaña para Navidad en vez de improvisar diciembre desde cero."
+    },
+    {
+      "slug": "30-halloween",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Halloween vende más de noche que de día",
+          "kicker": "HALLOWEEN",
+          "img": "evento-halloween.jpg",
+          "emoji": "🎃"
+        },
+        {
+          "role": "value",
+          "h": "La última hora es la hora pico",
+          "b": "· Disfraz de emergencia, dulces agotados, delivery de las 7pm\n· Anuncia horario extendido desde temprano, con hora de corte real"
+        },
+        {
+          "role": "value",
+          "h": "El mensaje de corte",
+          "b": "«Pedidos hasta las 8:30 llegan hoy; después, mañana a primera hora.» El que llega tarde no se pierde: queda anotado."
+        },
+        {
+          "role": "stat",
+          "h": "Nadie se pierde después del corte.",
+          "b": "Qolca (qolca.org) anota al que escribe fuera de hora y te lo deja para primera hora."
+        },
+        {
+          "role": "cta",
+          "h": "Esta noche atiende hasta el corte.",
+          "b": "Y anota a los que lleguen tarde: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Halloween es de última hora: horario extendido anunciado, hora de corte real y el mensaje que anota a los tardones para mañana. #halloween #ventas #peru #negocios",
+        "tt": "Halloween vende a las 7pm, no a las 10am 🎃 #halloween #peru #negocios",
+        "fb": "El pico de Halloween es la última hora: disfraz de emergencia y dulces agotados. ¿Tu negocio anuncia hasta qué hora llega el delivery, o deja que adivinen? El mensaje de corte se fija hoy temprano."
+      },
+      "alt": "Atención de última hora y mensaje de corte en Halloween."
+    },
+    {
+      "slug": "31-vispera",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu negocio entra mañana a su semana más rápida",
+          "kicker": "CYBER WOW",
+          "emoji": "🚀"
+        },
+        {
+          "role": "value",
+          "h": "El checklist de la víspera",
+          "b": "· Kit probado y catálogo al día\n· Stock cortado hoy\n· Cola definida y turnos claros"
+        },
+        {
+          "role": "value",
+          "h": "Durante: solo dos métricas",
+          "b": "Tiempo de primera respuesta y chats sin cerrar al final del día. Si esas dos están sanas, la campaña está sana."
+        },
+        {
+          "role": "value",
+          "h": "Después: la cosecha",
+          "b": "Etiquetas de campaña, rescate de 24 horas y lista para navidad. Todo lo de este mes, mañana se usa."
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "h": "La semana rápida, sostenida sola.",
+          "b": "Qolca (qolca.org) responde, clasifica y registra mientras tu equipo despacha."
+        },
+        {
+          "role": "cta",
+          "h": "Nos vemos del otro lado de la ola.",
+          "b": "Checklist listo, campaña lista: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Víspera de Cyber Wow: el checklist final (kit, catálogo, stock, cola, turnos), las 2 métricas del durante y la cosecha del después. Guárdalo. #cyberwow #peru #negocios #ventas",
+        "tt": "Mañana empieza tu semana más rápida del año 🚀 #cyberwow #peru",
+        "fb": "Cyber Wow arranca mañana. Quince minutos hoy: kit probado, catálogo al día, stock cortado, cola y turnos claros. Durante: solo 2 métricas. Después: la cosecha. Todo el mes entrenamos para esto."
+      },
+      "alt": "Checklist de víspera de Cyber Wow."
     }
-   ],
-   "caption": {
-    "ig": "El año se acaba en 90 días y tus cotizaciones abiertas no llegan solas a diciembre: triaje de bandeja hoy, se cierra, se retoma o se archiva con etiqueta. El método completo en el carrusel. #negocios #peru #ventas #crm",
-    "tt": "90 días para cerrar el año y tu bandeja llena de 'en visto' 🏁 #negocios #peru #ventas",
-    "fb": "Empezó el último trimestre. ¿Cuántos chats tienes 'en visto' que eran ventas? Triaje de octubre: cerrar, retomar o archivar, y el mensaje exacto para retomar sin rogar. ¿Cuántos vas a rescatar hoy?"
-   },
-   "alt": "Triaje de cotizaciones abiertas para el último trimestre del año."
-  },
-  {
-   "slug": "02-llego-bien",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El «¿llegó bien?» vende más que tu publicidad",
-     "emoji": "📦"
-    },
-    {
-     "role": "value",
-     "h": "A las 24 horas de entregar, escribe",
-     "b": "«¿Llegó todo bien? ¿Alguna duda con lo tuyo?» El cliente atendido DESPUÉS de pagar es el que te recomienda."
-    },
-    {
-     "role": "value",
-     "h": "La respuesta te da la segunda venta",
-     "b": "· Si contesta feliz: pide la reseña o el referido ahí mismo\n· Si contesta con problema: lo salvas antes del reclamo público"
-    },
-    {
-     "role": "value",
-     "h": "Funciona en todo lo que se entrega",
-     "b": "· El auto entregado: su primer service\n· El depa: los referidos\n· La boda: el aniversario"
-    },
-    {
-     "role": "stat",
-     "h": "Cada cliente con su historia completa.",
-     "b": "Qolca (qolca.org) guarda qué pidió, qué pagó y cuándo volver a llamarlo. Sin apuntar nada."
-    },
-    {
-     "role": "cta",
-     "h": "Escribe el «¿llegó bien?» de ayer.",
-     "b": "Un mensaje, dos ventas: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "El mensaje de posventa a las 24 horas vende más que la publicidad: qué escribir, qué hacer con cada respuesta y por qué la segunda venta empieza después de cobrar. #posventa #negocios #peru #clientes",
-    "tt": "El mensaje que nadie manda y vende solo: «¿llegó bien?» 📦 #negocios #ventas #peru",
-    "fb": "¿Le escribes a tu cliente DESPUÉS de que pagó? El «¿llegó bien?» de las 24 horas es la publicidad más barata que existe: o te gana una reseña o te salva de un reclamo. ¿Lo mandas o cobras y desapareces?"
-   },
-   "alt": "El mensaje de posventa de las 24 horas y la segunda venta."
-  },
-  {
-   "slug": "03-calles-cerradas",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Octubre cierra calles y abre pedidos",
-     "kicker": "MES MORADO",
-     "img": "evento-procesion.jpg",
-     "emoji": "🟣"
-    },
-    {
-     "role": "value",
-     "h": "Los findes de procesión cambian tu mapa",
-     "b": "· Calles cerradas: menos gente y más delivery\n· Publica horario y zonas ANTES del finde"
-    },
-    {
-     "role": "value",
-     "h": "El mensaje automático de temporada",
-     "b": "«Este finde la zona está cerrada, entregamos por [ruta] hasta las [hora].» Se configura una vez."
-    },
-    {
-     "role": "stat",
-     "h": "De noche responde lo repetitivo.",
-     "b": "Qolca (qolca.org): lo importante te espera etiquetado, y siempre hay un humano al final."
-    },
-    {
-     "role": "cta",
-     "h": "Octubre recién empieza.",
-     "b": "Deja el mensaje de temporada puesto: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Mes Morado: cada finde de procesión cierra calles y dispara el delivery. El mensaje automático de temporada que avisa horario y ruta de entrega, configurado una vez para todo octubre. #mesmorado #negocios #peru #delivery",
-    "tt": "Octubre cierra calles: tu WhatsApp tiene que avisarlo solo 🟣 #mesmorado #peru #negocios",
-    "fb": "El Señor de los Milagros mueve cientos de miles de personas cada finde de octubre. ¿Tu negocio avisa horarios y rutas de entrega, o deja que cada cliente pregunte? El mensaje de temporada se pone una vez."
-   },
-   "alt": "Auto-mensaje de temporada para los findes de procesión del Mes Morado."
-  },
-  {
-   "slug": "04-catalogo",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tu catálogo contesta preguntas mientras duermes",
-     "emoji": "📖"
-    },
-    {
-     "role": "value",
-     "h": "Arma el catálogo de WhatsApp en una tarde",
-     "b": "· Foto, nombre y dos líneas por producto\n· Herramientas para la empresa, Catálogo\n· Es gratis y casi nadie lo usa"
-    },
-    {
-     "role": "value",
-     "h": "Engánchalo al saludo",
-     "b": "El mensaje de bienvenida manda directo al catálogo: la mitad de los «¿qué tienes?» se responden solos."
-    },
-    {
-     "role": "value",
-     "h": "El catálogo informa, tú cierras",
-     "b": "Cuando el cliente elige, entra la persona: confirmar stock, cobrar, coordinar entrega. La máquina nunca cierra sola."
-    },
-    {
-     "role": "stat",
-     "h": "Los chats te llegan ordenados.",
-     "b": "Qolca (qolca.org) construye el CRM y el WhatsApp que responde solo, a la medida de tu negocio."
-    },
-    {
-     "role": "cta",
-     "h": "Una tarde de fotos, meses de respuestas.",
-     "b": "Y lo que el catálogo no cierra, sí: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "El catálogo de WhatsApp Business se arma en una tarde y responde solo la mitad de las consultas: cómo armarlo, engancharlo al saludo y dónde debe entrar el humano. #whatsappbusiness #negocios #peru #catalogo",
-    "tt": "Tu catálogo puede contestar '¿qué tienes?' mientras duermes 📖 #whatsapp #negocios #peru",
-    "fb": "¿Cuántas veces al día respondes «¿qué tienes?»? El catálogo de WhatsApp Business es gratis, se arma en una tarde y contesta eso solo. Tú entras donde importa: al cierre. ¿Ya lo armaste?"
-   },
-   "alt": "Cómo armar el catálogo de WhatsApp Business y conectarlo al saludo."
-  },
-  {
-   "slug": "05-expediente",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tus chats archivados son un expediente en tu contra",
-     "kicker": "THE SOCIAL RECKONING",
-     "img": "evento-zuckerberg.jpg",
-     "emoji": "🗂"
-    },
-    {
-     "role": "value",
-     "h": "Lee 20 chats viejos hoy",
-     "b": "Como los archivos de Facebook: el historial dice la verdad. Busca dónde se cortó cada conversación, ahí está tu fuga."
-    },
-    {
-     "role": "value",
-     "h": "Las 3 frases donde mueren tus ventas",
-     "b": "· «Ya te aviso» sin fecha\n· «Déjame consultar» sin retorno\n· El precio respondido sin pregunta de vuelta\n· Márcalas y prohíbelas"
-    },
-    {
-     "role": "value",
-     "h": "Del expediente al sistema",
-     "b": "Cada fuga que se repite pide una regla nueva: quién retoma, cuándo y con qué mensaje."
-    },
-    {
-     "role": "stat",
-     "h": "La auditoría, hecha sola.",
-     "b": "Qolca (qolca.org) registra dónde se corta cada conversación y quién debe retomarla."
-    },
-    {
-     "role": "cta",
-     "h": "Que tu historial hable bien de ti.",
-     "b": "La auditoría toma 30 minutos: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "La película de los archivos de Facebook, versión negocio: tus propios chats archivados revelan exactamente dónde pierdes ventas. La auditoría de 30 minutos y las 3 frases prohibidas. #ventas #negocios #peru #whatsapp",
-    "tt": "Tus chats viejos son un expediente en tu contra 🗂 #negocios #ventas #peru",
-    "fb": "En el cine: una empleada filtra los archivos de Facebook. En tu negocio: tus propios chats archivados cuentan dónde se te van las ventas. Lee 20 chats viejos hoy, las 3 frases asesinas están ahí. ¿Te atreves?"
-   },
-   "alt": "Auditoría de chats archivados para encontrar fugas de venta."
-  },
-  {
-   "slug": "06-doble-venta",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Vendiste el mismo carro dos veces",
-     "emoji": "😬"
-    },
-    {
-     "role": "value",
-     "h": "La doble venta nace de dos cuadernos",
-     "b": "El vendedor A apuntó en su celular, el B en el suyo. Nadie vio al otro. El cliente sí vio el papelón.",
-     "emoji": "😳"
-    },
-    {
-     "role": "value",
-     "h": "Un solo lugar para el estado de cada cosa",
-     "b": "Disponible → separado → vendido, con nombre de quien lo cambió. Vale igual para autos, fechas de boda y departamentos."
-    },
-    {
-     "role": "value",
-     "h": "El «separado» tiene reloj",
-     "b": "Sin confirmación en 48 horas vuelve a disponible, y el interesado anterior recibe el aviso primero."
-    },
-    {
-     "role": "stat",
-     "h": "Un solo inventario, para todos.",
-     "b": "Qolca (qolca.org) lo arma para lotes de autos, bodas e inmobiliarias. Y para negocios como el tuyo."
-    },
-    {
-     "role": "cta",
-     "h": "¿Cuántos cuadernos tiene tu inventario?",
-     "b": "Debería ser uno: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "La doble venta no es mala suerte: es inventario en dos cuadernos. El estado único (disponible/separado/vendido), el reloj del separado y quién avisa. #inventario #negocios #peru #crm",
-    "tt": "Vender lo mismo dos veces: el papelón que sí se puede evitar 😬 #negocios #peru",
-    "fb": "¿Te ha pasado? Dos vendedores, dos celulares, un solo carro… vendido dos veces. El arreglo no es regañar: es UN solo estado por producto, con nombre y reloj. ¿Cuántos cuadernos maneja tu equipo hoy?"
-   },
-   "alt": "Estado único de inventario para evitar la doble venta."
-  },
-  {
-   "slug": "07-lista-espera",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Se agotó y colgaste, el cliente seguía ahí",
-     "emoji": "🛎"
-    },
-    {
-     "role": "value",
-     "h": "El «no hay» es el inicio de la lista",
-     "b": "«Se agotó, ¿te aviso cuando llegue?» y etiqueta de espera. Diez segundos que guardan la venta."
-    },
-    {
-     "role": "value",
-     "h": "La reposición se avisa en orden",
-     "b": "Llegó stock: mensaje a la lista, primero al más antiguo. Se siente VIP y compra sin pensarlo."
-    },
-    {
-     "role": "stat",
-     "h": "Reposición avisada en orden.",
-     "b": "Qolca (qolca.org): citas, entregas y recordatorios que se confirman sin que los persigas."
-    },
-    {
-     "role": "cta",
-     "h": "Tu lista de espera empieza hoy.",
-     "b": "Con avisos que salen solos: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "«Se agotó» no es el final de la venta: es el inicio de la lista de espera. La etiqueta de 10 segundos y el aviso de reposición en orden de antigüedad. #ventas #negocios #peru #stock",
-    "tt": "Se agotó ≠ se perdió la venta 🛎 #negocios #ventas #peru",
-    "fb": "Cuando dices «se agotó» y el cliente cuelga… ¿lo apuntaste? La lista de espera cuesta 10 segundos por cliente y convierte reposición en ventas del día uno. ¿La llevas o confías en la memoria?"
-   },
-   "alt": "Lista de espera y aviso de reposición en orden."
-  },
-  {
-   "slug": "08-armys",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "60 mil ARMYs se organizan mejor que tu tienda",
-     "kicker": "SEMANA BTS",
-     "img": "evento-army.jpg",
-     "emoji": "💜"
-    },
-    {
-     "role": "value",
-     "h": "El feriado te llena la bandeja igual",
-     "b": "· Concierto más feriado: consultas que caen mientras descansas\n· El silencio de dos días mata más ventas que la competencia"
-    },
-    {
-     "role": "value",
-     "h": "El mensaje de feriado que sí sirve",
-     "b": "«Hoy atendemos hasta [hora]; tu pedido queda anotado y mañana te confirmamos.» Y se cumple."
-    },
-    {
-     "role": "value",
-     "h": "El lunes se paga la deuda",
-     "b": "Primera hora: responder por antigüedad, no por último mensaje. El que espera más revienta primero."
-    },
-    {
-     "role": "stat",
-     "h": "El feriado atendido sin ti.",
-     "b": "Qolca (qolca.org) recibe, clasifica y deriva mientras tú descansas."
-    },
-    {
-     "role": "cta",
-     "h": "Organízate como ARMY.",
-     "b": "Tu bandeja de feriado, ordenada sola: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "BTS en Lima y feriado largo: tu bandeja se llena mientras descansas. El mensaje de feriado que anota pedidos de verdad y el orden del día siguiente. #bts #feriado #negocios #peru",
-    "tt": "60 mil ARMYs coordinadas y tu tienda sin plan de feriado 💜 #bts #peru #negocios",
-    "fb": "Las ARMYs acampan organizadas por apps; tu negocio cierra el feriado y deja la bandeja al azar. El mensaje de feriado que sí funciona anota el pedido y promete confirmación con hora. ¿El tuyo qué dice?"
-   },
-   "alt": "Plan de atención de feriado con pedidos anotados."
-  },
-  {
-   "slug": "09-lomo-saltado",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Hoy tu ciudad almuerza lomo saltado",
-     "kicker": "DÍA DEL LOMO SALTADO",
-     "img": "evento-lomo.jpg",
-     "emoji": "🍛"
-    },
-    {
-     "role": "value",
-     "h": "Las fechas de comida traen olas",
-     "b": "Pedidos en manada de doce a dos. La ola se atiende con cola: acuse inmediato, orden visible, tiempo honesto."
-    },
-    {
-     "role": "value",
-     "h": "El pedido en formato",
-     "b": "«Para atenderte volando: 1) qué pides 2) dirección 3) hora.» Un mensaje fijado ahorra cuatro idas y vueltas por pedido."
-    },
-    {
-     "role": "value",
-     "h": "Pasada la ola, cosecha",
-     "b": "Todo el que pidió hoy entra a tu lista con etiqueta de fecha. El próximo día criollo ya sabes a quién avisarle."
-    },
-    {
-     "role": "stat",
-     "h": "Acuse inmediato en plena ola.",
-     "b": "Qolca (qolca.org): orden visible, tiempo honesto y cada pedido registrado."
-    },
-    {
-     "role": "cta",
-     "h": "Que la ola no te revuelque.",
-     "b": "La cola de pedidos se arma sola: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Día del Lomo Saltado: pedidos en manada entre 12 y 2. El formato de pedido fijado, el tiempo honesto y la cosecha de contactos para el próximo día criollo. #lomosaltado #restaurantes #peru #delivery",
-    "tt": "Hoy medio Perú pide lomo saltado a la vez 🍛 #lomosaltado #peru #food",
-    "fb": "Los días de comida no traen clientes sueltos: traen OLAS. ¿Tu WhatsApp tiene formato de pedido o cada uno es un interrogatorio de 6 mensajes? El formato fijado se copia en un minuto."
-   },
-   "alt": "Cola y formato de pedidos para fechas gastronómicas pico."
-  },
-  {
-   "slug": "10-desde-el-estadio",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tu cliente te escribe desde el estadio",
-     "img": "evento-army2.jpg",
-     "emoji": "🎤"
-    },
-    {
-     "role": "value",
-     "h": "La gente compra en los tiempos muertos",
-     "b": "En la cola, en la espera, a mitad del concierto. El antojo dura minutos: si el acuse no llega, se va con otro."
-    },
-    {
-     "role": "value",
-     "h": "Acuse ya, respuesta después",
-     "b": "El acuse automático compra tiempo real: «Recibido, te confirmo en 20 min.» Lo que no se puede: dejar el visto desnudo."
-    },
-    {
-     "role": "stat",
-     "h": "El acuse no depende de nadie.",
-     "b": "Qolca (qolca.org) responde al instante y te deja lo importante etiquetado."
-    },
-    {
-     "role": "cta",
-     "h": "El antojo no espera al lunes.",
-     "b": "Acuse inmediato, siempre: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Tus clientes compran en tiempos muertos: colas, esperas, conciertos. El antojo dura minutos, el acuse automático lo sostiene hasta que llegues. #ventas #whatsapp #negocios #peru",
-    "tt": "Te escriben desde el estadio y tu visto los mata 🎤 #negocios #peru #ventas",
-    "fb": "El cliente de las 9pm no está en tu horario: está en SU tiempo muerto. Un acuse automático honesto sostiene el antojo; el visto desnudo lo entierra. ¿Cuál das tú?"
-   },
-   "alt": "Acuse automático para compras de impulso en tiempos muertos."
-  },
-  {
-   "slug": "11-clientes-anuales",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tienes clientes anuales y no lo sabes",
-     "emoji": "🗓"
-    },
-    {
-     "role": "value",
-     "h": "La recompra tiene calendario",
-     "b": "El service del auto es cada año. El aniversario de la boda, también. El contrato de alquiler vence. ¿Quién lo apunta?"
-    },
-    {
-     "role": "value",
-     "h": "La ficha con fecha de regreso",
-     "b": "A cada venta, una fecha futura: «volver a escribir en [mes]». Tres campos: qué compró, cuándo, cuándo tocaría de nuevo."
-    },
-    {
-     "role": "value",
-     "h": "El mensaje de aniversario",
-     "b": "«Hace un año te llevaste [X], ¿cómo va? Ya toca [servicio].» Nadie más se lo va a recordar por él."
-    },
-    {
-     "role": "stat",
-     "h": "La fecha de regreso, guardada sola.",
-     "b": "Qolca (qolca.org) guarda qué compró y cuándo toca escribirle otra vez."
-    },
-    {
-     "role": "cta",
-     "h": "Tu calendario de recompra empieza hoy.",
-     "b": "Con recordatorios que saltan solos: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Tienes clientes que vuelven cada año, si alguien se los recuerda. La ficha con fecha de regreso y el mensaje de aniversario que trae la recompra. #crm #ventas #peru #negocios",
-    "tt": "Tus clientes anuales existen, tu calendario no 🗓 #negocios #ventas #peru",
-    "fb": "El service del auto, el aniversario, el contrato que vence: la recompra tiene fecha exacta y nadie la apunta. Tres campos por cliente y el año que viene se vende solo. ¿Quién apunta esto en tu negocio?"
-   },
-   "alt": "Ficha con fecha de regreso y mensaje de aniversario para recompra."
-  },
-  {
-   "slug": "12-garantia",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Cobraste y desapareciste hasta el reclamo",
-     "emoji": "🔧"
-    },
-    {
-     "role": "value",
-     "h": "El mensaje de las 24 horas",
-     "b": "Así no: silencio hasta el reclamo\nAsí sí: «¿llegó todo bien? ¿alguna duda?»"
-    },
-    {
-     "role": "value",
-     "h": "La revisión se agenda al vender",
-     "b": "Así no: «cualquier cosa me escribes»\nAsí sí: «te escribo en un mes para la revisión»"
-    },
-    {
-     "role": "value",
-     "h": "La garantía como cita, no como papel",
-     "b": "Así no: garantía guardada en un cajón\nAsí sí: mantenimiento con fecha en la ficha"
-    },
-    {
-     "role": "stat",
-     "h": "La revisión se agenda sola.",
-     "b": "Qolca (qolca.org): citas y recordatorios que se confirman sin que los persigas."
-    },
-    {
-     "role": "cta",
-     "h": "La segunda venta empieza al cobrar la primera.",
-     "b": "qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Cobrar y desaparecer vs vender la segunda: el «¿llegó todo bien?» a las 24 horas, la revisión agendada en el momento del sí y la garantía convertida en cita con fecha. Qolca (qolca.org) deja esos mensajes programados en tu CRM. #postventa #clientes #ventas #negocios #peru #crm",
-    "tt": "Cobraste y desapareciste, como casi todos 🔧 #postventa #ventas #negocios #peru",
-    "fb": "Muchos negocios cobran y desaparecen hasta el reclamo. Los que venden dos veces escriben a las 24 horas, agendan la revisión al vender y convierten la garantía en cita. Qolca (qolca.org): CRMs donde la posventa se dispara sola."
-   },
-   "alt": "Posventa que desaparece frente a posventa que agenda: mensajes de 24 horas, revisiones y garantía con fecha."
-  },
-  {
-   "slug": "13-simulacro",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Esta noche tiembla de mentira, tus ventas de verdad",
-     "kicker": "SIMULACRO NOCTURNO",
-     "emoji": "🚨"
-    },
-    {
-     "role": "value",
-     "h": "¿Si mañana no puedes atender, qué pasa?",
-     "b": "Enfermedad, viaje, emergencia: si los chats viven solo en tu celular, el negocio se apaga contigo."
-    },
-    {
-     "role": "value",
-     "h": "El simulacro del negocio",
-     "b": "· Prueba hoy: ¿otra persona puede ver las conversaciones, saber qué se prometió y responder?\n· Si no, no tienes negocio: tienes un celular"
-    },
-    {
-     "role": "value",
-     "h": "Historial compartido, negocio que sigue",
-     "b": "Conversaciones y fichas donde entra más de uno. El conocimiento es de la empresa, ya viste cómo volvió Iron Man."
-    },
-    {
-     "role": "stat",
-     "h": "El negocio sigue aunque tú no.",
-     "b": "Qolca (qolca.org) construye CRMs a medida: el historial es de la empresa, no de un celular."
-    },
-    {
-     "role": "cta",
-     "h": "Haz tu simulacro esta semana.",
-     "b": "La continuidad se construye: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Hoy el Perú ensaya el sismo de noche. Tu negocio también necesita simulacro: ¿alguien más puede atender tus chats mañana? La prueba de continuidad en 3 pasos. #simulacro #negocios #peru #crm",
-    "tt": "Simulacro para tu negocio: ¿qué pasa si mañana no estás? 🚨 #negocios #peru",
-    "fb": "Esta noche tiembla de mentira. Aprovecha: si mañana no pudieras atender, ¿alguien vería tus chats, sabría qué prometiste y respondería? Si la respuesta es no, tu negocio es un celular. Haz el simulacro."
-   },
-   "alt": "Simulacro de continuidad: chats y fichas accesibles al equipo."
-  },
-  {
-   "slug": "14-mensaje-guardado",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tu mejor vendedor es un mensaje guardado",
-     "emoji": "💬"
-    },
-    {
-     "role": "value",
-     "h": "Los cierres también tienen plantilla",
-     "b": "No solo respondes preguntas: cierras. «¿Lo separamos de una vez?» convierte más que esperar a que el cliente se anime."
-    },
-    {
-     "role": "value",
-     "h": "Las 3 que cierran",
-     "b": "· La de opciones: «tengo A y B, ¿cuál va contigo?»\n· La de agenda: «¿mañana o el jueves?»\n· La de última unidad, solo si es verdad"
-    },
-    {
-     "role": "stat",
-     "h": "Tus cierres, listos en cada chat.",
-     "b": "Qolca (qolca.org): las plantillas viven en el sistema y los chats llegan ordenados."
-    },
-    {
-     "role": "cta",
-     "h": "Guarda las 3 hoy.",
-     "b": "Y que trabajen en cada chat: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Las respuestas guardadas no son solo para el precio: los CIERRES también tienen plantilla. Las 3 que convierten y cuándo dispararlas. #ventas #whatsapp #peru #negocios",
-    "tt": "El mensaje guardado que cierra ventas por ti 💬 #ventas #peru #negocios",
-    "fb": "¿Tienes guardadas las respuestas de precio pero cierras cada venta improvisando? Los cierres también tienen plantilla: opciones, agenda o última unidad. ¿Cuál usas más?"
-   },
-   "alt": "Plantillas de cierre para WhatsApp."
-  },
-  {
-   "slug": "15-repaso-quincena",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tus chats de hace 15 días siguen vivos",
-     "b": "retómalos bien",
-     "emoji": "🔍"
-    },
-    {
-     "role": "value",
-     "h": "Pendiente no es perdido",
-     "b": "Así no: darlos por muertos en silencio\nAsí sí: filtrar los sin cierre y retomarlos"
-    },
-    {
-     "role": "value",
-     "h": "Sin pedir disculpas",
-     "b": "Así no: «disculpa la molestia...»\nAsí sí: «¿seguimos con lo que hablamos?»"
-    },
-    {
-     "role": "value",
-     "h": "Con contexto y beneficio",
-     "b": "Así no: «¿ya decidiste?», pelado\nAsí sí: «esta semana puedo entregarlo instalado»"
-    },
-    {
-     "role": "stat",
-     "h": "Nada cumple 15 días en silencio.",
-     "b": "Qolca (qolca.org) marca cada chat sin cierre y te lo pone al frente."
-    },
-    {
-     "role": "cta",
-     "h": "Quince días no matan una venta. El silencio sí.",
-     "b": "qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Los chats de hace 15 días no están perdidos, están pendientes: filtra los sin cierre, retómalos sin pedir disculpas y con un beneficio concreto sobre la mesa. Qolca (qolca.org) arma la lista de retome sola en tu CRM. #ventas #whatsapp #seguimiento #negocios #peru #crm",
-    "tt": "Tus chats de hace 15 días siguen vivos 🔍 #ventas #whatsapp #negocios #peru",
-    "fb": "El que preguntó hace dos semanas y quedó en visto no dijo que no: se distrajo. Filtra los chats sin cierre, retómalos directo («¿seguimos con lo que hablamos?») y suma algo concreto. Qolca (qolca.org): el CRM que te entrega esa lista lista."
-   },
-   "alt": "Cómo retomar chats pendientes de quincena: sin disculpas, con contexto y con beneficio."
-  },
-  {
-   "slug": "16-contestar-no-es-atender",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Contestar no es atender",
-     "emoji": "💥"
-    },
-    {
-     "role": "value",
-     "h": "«Sí hay» es media respuesta",
-     "b": "· «Sí hay, ¿para qué lo necesitas?»\n· Una pregunta de vuelta y el chat cambia de dueño"
-    },
-    {
-     "role": "value",
-     "h": "El guion corto de 3 pasos",
-     "b": "· Responder lo preguntado, preguntar el uso, ofrecer máximo dos opciones con su siguiente paso\n· Más opciones, más parálisis"
-    },
-    {
-     "role": "stat",
-     "h": "El guion, dentro del sistema.",
-     "b": "Qolca (qolca.org) lo arma para lotes de autos, bodas e inmobiliarias. Y para el tuyo."
-    },
-    {
-     "role": "cta",
-     "h": "Atiende, no contestes.",
-     "b": "El guion se entrena: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "«Sí hay» es media respuesta. Atender es guiar la venta: el guion corto de 3 pasos que convierte consultas en cierres. #ventas #atencion #peru #negocios",
-    "tt": "Contestar ≠ atender: el guion de 3 pasos 💥 #ventas #peru #negocios",
-    "fb": "¿Tu equipo contesta o atiende? «Sí hay» deja al cliente solo con su duda; la pregunta de vuelta lo lleva de la mano. Tres pasos, dos opciones máximo. Pruébalo hoy."
-   },
-   "alt": "Mini-guion de atención en 3 pasos."
-  },
-  {
-   "slug": "17-anticuchos",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Hoy es noche de anticuchos y colas largas",
-     "kicker": "DÍA DEL ANTICUCHO",
-     "img": "evento-anticuchos.jpg",
-     "emoji": "🍢"
-    },
-    {
-     "role": "value",
-     "h": "El mostrador y el chat no son la misma mano",
-     "b": "· El que atiende la cola no responde WhatsApp\n· En noche pico: uno vende presencial, otro, o el asistente, sostiene el chat"
-    },
-    {
-     "role": "value",
-     "h": "Los roles se definen antes de las seis",
-     "b": "Quién cobra, quién chatea, quién corre el delivery. La ola no es el momento de averiguarlo."
-    },
-    {
-     "role": "stat",
-     "h": "Un turno que no se cae en la ola.",
-     "b": "Qolca (qolca.org) responde lo repetitivo de noche; lo importante te espera etiquetado."
-    },
-    {
-     "role": "cta",
-     "h": "Reparte los roles hoy temprano.",
-     "b": "El chat nunca se queda solo: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Día del Anticucho: cola en el mostrador y bandeja explotando a la vez. La división de roles antes de las 6, quién vende, quién chatea, quién reparte. #anticuchos #peru #negocios #restaurantes",
-    "tt": "Noche de anticuchos: la cola no puede atender el chat 🍢 #anticucho #peru",
-    "fb": "El error de las noches pico: la misma persona atiende la cola Y el WhatsApp, y pierde en los dos. Los roles se reparten antes de las 6, no durante la ola. ¿Ya sabes quién hace qué hoy?"
-   },
-   "alt": "División de roles entre mostrador y chat en noche pico."
-  },
-  {
-   "slug": "18-cien-mil",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Cien mil personas pasan frente a tu local",
-     "kicker": "MES MORADO",
-     "img": "evento-procesion-noche.jpg",
-     "emoji": "🟣"
-    },
-    {
-     "role": "value",
-     "h": "El tráfico no es venta si no lo capturas",
-     "b": "El que pasó, pasó, salvo que se lleve tu WhatsApp. QR grande en la puerta: «pide por aquí y evita la cola»."
-    },
-    {
-     "role": "value",
-     "h": "El saludo hace el resto",
-     "b": "El QR aterriza en tu bienvenida y tu catálogo. De transeúnte a contacto etiquetado en dos toques."
-    },
-    {
-     "role": "value",
-     "h": "Después de la procesión, la lista queda",
-     "b": "Los que escribieron ese finde son tu campaña de noviembre. El tráfico se fue; los contactos no."
-    },
-    {
-     "role": "stat",
-     "h": "El transeúnte queda registrado.",
-     "b": "Qolca (qolca.org): cada contacto entra con su etiqueta y su fecha de recontacto."
-    },
-    {
-     "role": "cta",
-     "h": "La procesión pasa una vez al año.",
-     "b": "Tu QR la espera en la puerta: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "La procesión pone cien mil personas frente a tu local. El QR de la puerta convierte tráfico en contactos etiquetados, y ese finde en tu campaña de noviembre. #mesmorado #peru #negocios #ventas",
-    "tt": "Cien mil pasan por tu puerta y no capturas ni uno 🟣 #mesmorado #peru",
-    "fb": "El Señor de los Milagros mueve multitudes por tu cuadra. ¿Tienes un QR en la puerta o solo miras pasar gente? Tráfico sin captura es tráfico regalado. El QR se imprime hoy."
-   },
-   "alt": "QR de captura de tráfico en la puerta durante la procesión."
-  },
-  {
-   "slug": "19-referidos",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El referido no llega solo, se pide",
-     "emoji": "🤝"
-    },
-    {
-     "role": "value",
-     "h": "El mejor momento dura 10 segundos",
-     "b": "Justo después del «gracias, todo perfecto»: «¿Conoces a alguien más buscando esto? Preséntamelo y lo atiendo igual.»"
-    },
-    {
-     "role": "value",
-     "h": "El referido se apunta con padrino",
-     "b": "Ficha nueva con quién lo trajo. Cuando compre, el padrino recibe un gracias de verdad, y refiere de nuevo."
-    },
-    {
-     "role": "stat",
-     "h": "El padrino queda anotado.",
-     "b": "Qolca (qolca.org) guarda quién trajo a quién, y cuándo toca agradecerlo."
-    },
-    {
-     "role": "cta",
-     "h": "Pide un referido esta semana.",
-     "b": "Y apúntalo con padrino: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Los referidos no caen del cielo: se piden en los 10 segundos después del «gracias». El mensaje que no incomoda y la ficha con padrino. #referidos #ventas #peru #negocios",
-    "tt": "El referido se pide, no se espera 🤝 #ventas #peru #negocios",
-    "fb": "¿Cuándo fue la última vez que PEDISTE un referido? El momento perfecto dura 10 segundos: justo después del «todo perfecto». Ni antes ni después. ¿Te animas esta semana?"
-   },
-   "alt": "Cómo pedir referidos y registrarlos con padrino."
-  },
-  {
-   "slug": "20-whatsapp-manual",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tu tienda entra a Cyber Wow con el WhatsApp manual",
-     "kicker": "CYBER WOW",
-     "emoji": "🚨"
-    },
-    {
-     "role": "value",
-     "h": "En campaña las consultas se multiplican, tú no",
-     "b": "Lo que hoy contestas 10 veces serán 100: precio, stock, envío. Si cada una la tipeas, la campaña te atiende a ti."
-    },
-    {
-     "role": "value",
-     "h": "El kit de campaña en una tarde",
-     "b": "Saludo de campaña (qué hay y hasta cuándo), respuestas guardadas de precio, stock y envío, y una regla: qué pregunta pasa al humano."
-    },
-    {
-     "role": "value",
-     "h": "Pruébalo antes de la ola",
-     "b": "Mándate las respuestas a ti mismo. Lo que suene a robot se reescribe con tu voz."
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "h": "El kit de campaña, construido.",
-     "b": "Qolca (qolca.org) monta el asistente y la regla de derivación antes de la ola."
-    },
-    {
-     "role": "cta",
-     "h": "La campaña se gana antes de la campaña.",
-     "b": "El kit completo, construido contigo: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Cyber Wow se acerca y tu WhatsApp sigue manual: el kit de campaña que se arma en una tarde, saludo, respuestas guardadas y la regla de escalar al humano. #cyberwow #negocios #peru #whatsapp",
-    "tt": "Tu WhatsApp manual no sobrevive Cyber Wow 🚨 #cyberwow #peru #negocios",
-    "fb": "En campaña no te faltan clientes: te faltan manos. El kit de una tarde (saludo + respuestas + regla de escalado) es la diferencia entre atender la ola y ahogarte en ella. ¿Tu tienda entra lista?"
-   },
-   "alt": "Kit de respuestas de campaña para Cyber Wow."
-  },
-  {
-   "slug": "21-chifa",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Hoy el chifa se pide por WhatsApp",
-     "kicker": "DÍA DEL CHIFA",
-     "img": "evento-chifa.jpg",
-     "emoji": "🥡"
-    },
-    {
-     "role": "value",
-     "h": "El formato de pedido salva la noche",
-     "b": "· Mensaje fijado: «1) plato 2) dirección 3) hora»\n· El cliente lo llena, tú confirmas con tiempo real\n· Cuatro chats menos por pedido"
-    },
-    {
-     "role": "value",
-     "h": "El tiempo honesto fideliza",
-     "b": "«45 minutos» que son 45 vale más que «ya sale» que es una hora. El que confía repite en el próximo antojo."
-    },
-    {
-     "role": "stat",
-     "h": "La parte que se te escapa, construida.",
-     "b": "· Qolca (qolca.org): CRMs y automatización de WhatsApp a medida, para negocios que venden conversando\n· Citas, entregas y recordatorios que se confirman sin que los persigas"
-    },
-    {
-     "role": "cta",
-     "h": "Fija tu formato antes de las 7.",
-     "b": "La cola se ordena sola: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Día del Chifa: la noche se gana con formato de pedido fijado y tiempos honestos. Cuatro mensajes menos por pedido y clientes que repiten. #chifa #peru #delivery #negocios",
-    "tt": "Hoy el chaufa entra por WhatsApp 🥡 #chifa #peru #food",
-    "fb": "Noche de chifa: ¿cada pedido es un interrogatorio o un formato de 3 líneas? El mensaje fijado ahorra minutos por cliente, y el tiempo honesto es el que hace que vuelvan. Feliz día del chifa."
-   },
-   "alt": "Formato de pedido fijado para el Día del Chifa."
-  },
-  {
-   "slug": "22-primero-cobra",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "En Cyber Wow el que contesta primero cobra",
-     "kicker": "CYBER WOW",
-     "emoji": "⚡"
-    },
-    {
-     "role": "value",
-     "h": "Acuse en segundos, venta en minutos",
-     "b": "· Automático: «recibido, te confirmo en X»\n· Humano: la respuesta completa antes de que se enfríe\n· Dos tiempos, cada uno el suyo"
-    },
-    {
-     "role": "value",
-     "h": "La cola se ordena por intención",
-     "b": "· Primero el «¿cómo pago?», después el «¿hay stock?», al final el «¿qué tienes?»\n· No es orden de llegada: es orden de cierre"
-    },
-    {
-     "role": "value",
-     "h": "Lo que no cierres, etiquétalo",
-     "b": "CW-caliente o CW-frío. La campaña acaba; tus etiquetas siguen vendiendo."
-    },
-    {
-     "role": "stat",
-     "h": "Los chats llegan ordenados por intención.",
-     "b": "Qolca (qolca.org) recibe, clasifica y te deja la cola lista."
-    },
-    {
-     "role": "cta",
-     "h": "El primero cobra. Sé el primero.",
-     "b": "Velocidad con sistema: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "En Cyber Wow el que contesta primero cobra: el acuse en segundos, la cola ordenada por intención de compra y las etiquetas que siguen vendiendo después. #cyberwow #ventas #peru #negocios",
-    "tt": "En Cyber Wow no gana el más barato: gana el más rápido ⚡ #cyberwow #peru",
-    "fb": "Dato de campaña: la mayoría le compra al PRIMERO que responde bien. En Cyber Wow eso se multiplica. Acuse automático + cola por intención + etiquetas después de la campaña. ¿Qué tan rápido contestas hoy?"
-   },
-   "alt": "Sistema de velocidad de respuesta para Cyber Wow."
-  },
-  {
-   "slug": "23-compra-hasta-enero",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El que pregunta en campaña compra hasta enero",
-     "emoji": "📈"
-    },
-    {
-     "role": "value",
-     "h": "La campaña es una cosecha de contactos",
-     "b": "El «solo preguntaba» de Cyber Wow es demanda real con fecha flexible. Se pierde solo si nadie lo vuelve a tocar."
-    },
-    {
-     "role": "value",
-     "h": "El calendario después de la campaña",
-     "b": "A la semana: «llegó de nuevo lo que preguntaste». Al mes: la oferta navideña. Tu lista de campaña ES tu navidad."
-    },
-    {
-     "role": "stat",
-     "h": "La lista de campaña, guardada.",
-     "b": "Qolca (qolca.org) registra a cada interesado con su fecha de recontacto."
-    },
-    {
-     "role": "cta",
-     "h": "Guarda cada «solo preguntaba».",
-     "b": "Esa lista es tu diciembre: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "El «solo preguntaba» de Cyber Wow es tu venta de navidad: cómo etiquetar la demanda de campaña y el calendario de retoque que la cosecha. #cyberwow #ventas #peru #crm",
-    "tt": "El que pregunta hoy te compra en diciembre 📈 #cyberwow #ventas #peru",
-    "fb": "En campaña, la mitad «solo pregunta». Error: descartarlos. Son demanda real con fecha flexible, etiquetados y re-tocados, son tu diciembre. ¿Guardas o botas a tus curiosos?"
-   },
-   "alt": "Cosecha de contactos de campaña para venta navideña."
-  },
-  {
-   "slug": "24-stock-chat",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tu stock y tu chat no se conocen",
-     "emoji": "📦"
-    },
-    {
-     "role": "value",
-     "h": "Vender lo agotado cuesta doble",
-     "b": "El reclamo, la devolución y la confianza. En campaña es el error número uno, y nace de un catálogo viejo."
-    },
-    {
-     "role": "value",
-     "h": "El corte de stock diario",
-     "b": "Una persona, una hora fija: actualizar catálogo y avisar qué se acabó. En campaña, dos veces al día."
-    },
-    {
-     "role": "value",
-     "h": "El agotado con alternativa",
-     "b": "«Se acabó el A, pero el B hace lo mismo y hay.» La venta se pierde solo si no ofreces puerta."
-    },
-    {
-     "role": "stat",
-     "h": "El catálogo y el chat, sincronizados.",
-     "b": "Qolca (qolca.org) lo arma a medida para negocios que venden conversando."
-    },
-    {
-     "role": "cta",
-     "h": "Presenta tu stock a tu chat.",
-     "b": "Sincronizados venden más: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Vender lo agotado es el reclamo #1 de campaña: el corte de stock diario, quién actualiza y el «agotado con alternativa» que salva la venta. #stock #ventas #peru #negocios",
-    "tt": "Tu chat vende lo que tu stock ya no tiene 📦 #negocios #peru",
-    "fb": "¿Tu catálogo y tu almacén se hablan? Vender lo agotado cuesta el doble: reclamo + confianza. El corte diario de stock toma 15 minutos y en campaña se hace dos veces. ¿Quién lo hace en tu negocio?"
-   },
-   "alt": "Sincronización diaria de stock y catálogo."
-  },
-  {
-   "slug": "25-carrito",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El carrito abandonado también existe en WhatsApp",
-     "emoji": "🛒"
-    },
-    {
-     "role": "value",
-     "h": "Preguntó precio y calló: eso es un carrito",
-     "b": "No dijo no, se distrajo. En la tienda online lo rescata un correo; en WhatsApp lo rescatas tú."
-    },
-    {
-     "role": "value",
-     "h": "El rescate de las 24 horas",
-     "b": "· «¿Te quedó alguna duda con [producto]?\n· Sigue disponible hasta [fecha].» Recuerda el beneficio; no regales descuento por pánico"
-    },
-    {
-     "role": "stat",
-     "h": "El rescate se dispara solo.",
-     "b": "Qolca (qolca.org) marca el chat que se enfrió y manda el recordatorio con tu voz."
-    },
-    {
-     "role": "cta",
-     "h": "Rescata tus carritos de esta semana.",
-     "b": "Antes de que se enfríen del todo: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "El que preguntó precio y calló no dijo que no: es un carrito abandonado de WhatsApp. El mensaje de rescate a 24 horas sin regalar descuento. #ventas #whatsapp #peru #negocios",
-    "tt": "Tus carritos abandonados viven en tu bandeja 🛒 #ventas #peru #negocios",
-    "fb": "En e-commerce lo llaman carrito abandonado y le mandan 3 correos. En WhatsApp lo llamas «me dejó en visto» y lo abandonas TÚ. El rescate de 24h recuerda el beneficio, no ruega. ¿Cuántos tienes ahora mismo?"
-   },
-   "alt": "Rescate de consultas calladas a las 24 horas."
-  },
-  {
-   "slug": "26-balon-de-oro",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El Balón de Oro se gana entrenando martes",
-     "kicker": "BALÓN DE ORO",
-     "emoji": "🏆"
-    },
-    {
-     "role": "value",
-     "h": "La venta es constancia, no jugadas",
-     "b": "Nadie gana por un chat brillante: gana el que toca su cartera todos los días sin drama."
-    },
-    {
-     "role": "value",
-     "h": "El ritual 5·5·5",
-     "b": "· Quince minutos cada mañana: 5 nuevos respondidos a fondo, 5 fríos retomados, 5 antiguos saludados con motivo\n· Nada más, pero nada menos"
-    },
-    {
-     "role": "value",
-     "h": "Registra el ritual",
-     "b": "Un check diario. A fin de mes cuenta cuántos cierres salieron de esos 15 minutos. Más que de cualquier campañón."
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "h": "El ritual, servido cada mañana.",
-     "b": "Qolca (qolca.org) te arma la lista del día: nuevos, fríos y antiguos que tocan."
-    },
-    {
-     "role": "cta",
-     "h": "Hoy entrena tu 5·5·5.",
-     "b": "La constancia también se construye: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Hoy dan el Balón de Oro: se gana entrenando martes, no con una jugada. El ritual 5·5·5 de 15 minutos que cierra más que cualquier campaña. #balondeoro #ventas #peru #negocios",
-    "tt": "El Balón de Oro de las ventas: 15 min diarios 🏆 #balondeoro #ventas #peru",
-    "fb": "Mientras dan el Balón de Oro: en ventas también gana el que entrena a diario. 5 nuevos + 5 fríos + 5 antiguos = 15 minutos que valen más que cualquier campañón. ¿Aceptas el reto un mes?"
-   },
-   "alt": "Ritual diario 5·5·5 de seguimiento comercial."
-  },
-  {
-   "slug": "27-guion-asistente",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Lo que responde solo por ti necesita guion",
-     "emoji": "🎭"
-    },
-    {
-     "role": "value",
-     "h": "Suena a tu negocio o estorba",
-     "b": "Así no: «estimado usuario, mensaje procesado»\nAsí sí: tu nombre, tiempo honesto, salida a persona"
-    },
-    {
-     "role": "value",
-     "h": "Califica, no interroga",
-     "b": "Así no: diez preguntas de formulario\nAsí sí: ¿para cuándo, para qué uso, cómo pagas?"
-    },
-    {
-     "role": "value",
-     "h": "Lo que nunca responde solo",
-     "b": "Así no: reclamos contestados por máquina\nAsí sí: reclamo detectado, humano al instante"
-    },
-    {
-     "role": "stat",
-     "h": "El guion se construye contigo.",
-     "b": "Qolca (qolca.org): tu tono, tu derivación a humano, tu negocio."
-    },
-    {
-     "role": "cta",
-     "h": "Automático por fuera, tú por dentro.",
-     "b": "qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Un asistente automático sin guion espanta: debe sonar a tu negocio con tiempo honesto, calificar con tres preguntas en vez de interrogar y pasar los reclamos a un humano al instante. Qolca (qolca.org) escribe ese guion contigo. #automatizacion #whatsapp #atencionalcliente #negocios #peru #ia",
-    "tt": "Lo que responde solo por ti necesita guion 🎭 #whatsapp #automatizacion #negocios #peru",
-    "fb": "Automatizar sin guion es poner un robot antipático en tu puerta. El asistente que funciona suena a tu negocio, hace las tres preguntas que califican y deriva los reclamos a una persona de inmediato. Qolca (qolca.org) los construye con tu voz."
-   },
-   "alt": "Reglas de guion para asistentes automáticos: tono propio, preguntas que califican y reclamos siempre humanos."
-  },
-  {
-   "slug": "28-base-limpia",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tu lista tiene más números muertos que clientes",
-     "emoji": "🧹"
-    },
-    {
-     "role": "value",
-     "h": "La limpieza antes de Navidad",
-     "b": "Último contacto hace más de un año y sin compra: archivar. Duplicados: fusionar. Sin nombre: bautizar o borrar."
-    },
-    {
-     "role": "value",
-     "h": "Etiquetas que sirvan en diciembre",
-     "b": "«Compró 2026», «preguntó y nada», «recurrente». Tres etiquetas bastan para que la campaña navideña no salga al voleo."
-    },
-    {
-     "role": "stat",
-     "h": "Una base que se limpia sola.",
-     "b": "Qolca (qolca.org) fusiona, etiqueta y guarda la historia de cada cliente."
-    },
-    {
-     "role": "cta",
-     "h": "Limpia 20 contactos hoy.",
-     "b": "Diciembre te lo agradece: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Antes de la campaña navideña: limpieza de base. Qué archivar, qué fusionar y las 3 etiquetas que hacen que diciembre no salga al voleo. #crm #navidad #peru #negocios",
-    "tt": "Tu lista está llena de fantasmas 🧹 #negocios #crm #peru",
-    "fb": "¿Cuántos de tus contactos son números muertos? La campaña de diciembre rinde según la base de noviembre: archivar, fusionar, etiquetar. Empieza con 20 hoy."
-   },
-   "alt": "Limpieza y etiquetado de base de clientes antes de Navidad."
-  },
-  {
-   "slug": "29-kit-navidad",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "La campaña navideña no se inventa de cero",
-     "b": "ya la tienes a medias",
-     "emoji": "🎄"
-    },
-    {
-     "role": "value",
-     "h": "Recicla el kit, no lo reinventes",
-     "b": "Así no: diciembre desde el papel en blanco\nAsí sí: el kit de Cyber Wow con fechas nuevas"
-    },
-    {
-     "role": "value",
-     "h": "Los tiempos se ajustan cada semana",
-     "b": "Así no: prometer en diciembre la entrega de noviembre\nAsí sí: tiempo honesto revisado cada lunes"
-    },
-    {
-     "role": "value",
-     "h": "Se prueba antes del pico",
-     "b": "Así no: estrenar respuestas el 15 de diciembre\nAsí sí: mándatelas a ti mismo esta semana"
-    },
-    {
-     "role": "stat",
-     "h": "El kit queda montado para diciembre.",
-     "b": "Qolca (qolca.org): citas, entregas y recordatorios que se confirman sin perseguir."
-    },
-    {
-     "role": "cta",
-     "h": "Diciembre se gana con lo ya probado.",
-     "b": "qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "La campaña navideña no se inventa de cero: recicla el kit de Cyber Wow con fechas nuevas, ajusta los tiempos de entrega cada lunes y prueba las respuestas antes del pico. Qolca (qolca.org) deja el sistema listo para diciembre. #navidad #campaña #whatsapp #negocios #peru #ventas",
-    "tt": "La campaña navideña no se inventa de cero 🎄 #navidad #negocios #ventas #peru",
-    "fb": "Diciembre no necesita un sistema nuevo: necesita el de Cyber Wow reciclado con fechas nuevas, tiempos de entrega honestos revisados cada semana y respuestas probadas antes del pico. Qolca (qolca.org) construye el kit que aguanta la campaña."
-   },
-   "alt": "Cómo reciclar el kit de campaña para Navidad en vez de improvisar diciembre desde cero."
-  },
-  {
-   "slug": "30-halloween",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Halloween vende más de noche que de día",
-     "kicker": "HALLOWEEN",
-     "img": "evento-halloween.jpg",
-     "emoji": "🎃"
-    },
-    {
-     "role": "value",
-     "h": "La última hora es la hora pico",
-     "b": "· Disfraz de emergencia, dulces agotados, delivery de las 7pm\n· Anuncia horario extendido desde temprano, con hora de corte real"
-    },
-    {
-     "role": "value",
-     "h": "El mensaje de corte",
-     "b": "«Pedidos hasta las 8:30 llegan hoy; después, mañana a primera hora.» El que llega tarde no se pierde: queda anotado."
-    },
-    {
-     "role": "stat",
-     "h": "Nadie se pierde después del corte.",
-     "b": "Qolca (qolca.org) anota al que escribe fuera de hora y te lo deja para primera hora."
-    },
-    {
-     "role": "cta",
-     "h": "Esta noche atiende hasta el corte.",
-     "b": "Y anota a los que lleguen tarde: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Halloween es de última hora: horario extendido anunciado, hora de corte real y el mensaje que anota a los tardones para mañana. #halloween #ventas #peru #negocios",
-    "tt": "Halloween vende a las 7pm, no a las 10am 🎃 #halloween #peru #negocios",
-    "fb": "El pico de Halloween es la última hora: disfraz de emergencia y dulces agotados. ¿Tu negocio anuncia hasta qué hora llega el delivery, o deja que adivinen? El mensaje de corte se fija hoy temprano."
-   },
-   "alt": "Atención de última hora y mensaje de corte en Halloween."
-  },
-  {
-   "slug": "31-vispera",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tu negocio entra mañana a su semana más rápida",
-     "kicker": "CYBER WOW",
-     "emoji": "🚀"
-    },
-    {
-     "role": "value",
-     "h": "El checklist de la víspera",
-     "b": "· Kit probado y catálogo al día\n· Stock cortado hoy\n· Cola definida y turnos claros"
-    },
-    {
-     "role": "value",
-     "h": "Durante: solo dos métricas",
-     "b": "Tiempo de primera respuesta y chats sin cerrar al final del día. Si esas dos están sanas, la campaña está sana."
-    },
-    {
-     "role": "value",
-     "h": "Después: la cosecha",
-     "b": "Etiquetas de campaña, rescate de 24 horas y lista para navidad. Todo lo de este mes, mañana se usa."
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "h": "La semana rápida, sostenida sola.",
-     "b": "Qolca (qolca.org) responde, clasifica y registra mientras tu equipo despacha."
-    },
-    {
-     "role": "cta",
-     "h": "Nos vemos del otro lado de la ola.",
-     "b": "Checklist listo, campaña lista: qolca.org"
-    }
-   ],
-   "caption": {
-    "ig": "Víspera de Cyber Wow: el checklist final (kit, catálogo, stock, cola, turnos), las 2 métricas del durante y la cosecha del después. Guárdalo. #cyberwow #peru #negocios #ventas",
-    "tt": "Mañana empieza tu semana más rápida del año 🚀 #cyberwow #peru",
-    "fb": "Cyber Wow arranca mañana. Quince minutos hoy: kit probado, catálogo al día, stock cortado, cola y turnos claros. Durante: solo 2 métricas. Después: la cosecha. Todo el mes entrenamos para esto."
-   },
-   "alt": "Checklist de víspera de Cyber Wow."
-  }
- ]
+  ]
 }

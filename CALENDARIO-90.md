@@ -27,6 +27,25 @@ qué hacemos y cómo podemos ayudarle — no hablarle como si ya fuera cliente.
 - Esta regla convive con la regla de Qolca-sin-clientes (ver memoria /
   PLAN-180): nada de resultados inventados ni cifras de dinero en Qolca.
 
+**Ampliación (Carlos, 2026-08-05): el artículo definido es la fuga, y aplica a
+TODAS las láminas, no solo a la portada.** "**El** certificado", "**el** QR",
+"**el** sistema", "**el** proceso", "**el** calendario" dan por sabido de qué
+estamos hablando. El lector no viene de la lámina anterior: cae en la 3 desde
+el FYP, o mira la 5 en un screenshot que le reenviaron.
+
+- Regla: la primera vez que el sustantivo aparece en CADA lámina va anclado con
+  dueño y ámbito. No "el QR" sino "el QR que lleva tu hijo"; no "el proceso"
+  sino "el proceso de selección del Estado"; no "el sistema" sino "un sistema
+  que responde tus chats"; no "el calendario" sino "tu calendario del mes".
+  Una vez anclado dentro de esa misma lámina, se puede repetir corto.
+- Vale igual para los bullets y para los titulares de método: "Los cuatro que
+  todos recuerdan" no dice cuatro QUÉ.
+- **Lint: `python tools/frio.py`** marca las láminas sospechosas de las 5
+  marcas y deja el detalle en `tools/_frio.json`. Es heurístico: un artículo
+  INDEFINIDO que presenta el sustantivo ("una pulsera con QR que…") es correcto
+  y sale marcado igual, así que la lista se revisa a ojo. Pasada del
+  2026-08-05: 122 láminas marcadas, 63 reescritas.
+
 ### R2 — Anclar a fechas ≠ hablar de la fecha
 La fecha es la percha del gancho, no el tema. "Feliz día del niño 🎈" es un
 post muerto. "Este domingo habrá X mil niños en parques llenos — 3 cosas que

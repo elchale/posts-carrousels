@@ -1,1247 +1,1247 @@
 {
- "series": "oct",
- "brand": "radarestatal",
- "posts": [
-  {
-   "slug": "01-temporada-alta",
-   "slides": [
+  "series": "oct",
+  "brand": "radarestatal",
+  "posts": [
     {
-     "role": "cover",
-     "kicker": "TEMPORADA ALTA",
-     "h": "Hoy arranca la temporada alta del Estado",
-     "b": "octubre prepara, noviembre llueve",
-     "emoji": "🚀"
+      "slug": "01-temporada-alta",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "TEMPORADA ALTA",
+          "h": "Hoy arranca la temporada alta del Estado",
+          "b": "octubre prepara, noviembre llueve",
+          "emoji": "🚀"
+        },
+        {
+          "role": "value",
+          "h": "El presupuesto público vence el 31 de diciembre",
+          "b": "Lo que una entidad no gasta este año, lo pierde. Por eso el último trimestre concentra convocatorias. Y las más apuradas."
+        },
+        {
+          "role": "value",
+          "h": "Octubre es para preparar, no para mirar",
+          "b": "· RNP activo y habilitado\n· Garantías cotizadas\n· Conformidades archivadas\nTodo eso toma semanas. En noviembre ya no hay semanas."
+        },
+        {
+          "role": "stat",
+          "h": "Un «radar» para la temporada alta",
+          "b": "Radar Estatal (radarestatal.pe) vigila las compras del Estado por ti. El feed del SEACE es gratis y sin cuenta.",
+          "shot": "shot-datos.png"
+        },
+        {
+          "role": "cta",
+          "h": "La temporada empezó.",
+          "b": "Prepárate este mes: radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Empezó el último trimestre del año fiscal: lo que las entidades no ejecutan, lo pierden. Y eso significa lluvia de convocatorias en noviembre y diciembre. Octubre es el mes de dejar listos el RNP, las garantías y el archivo. #licitaciones #seace #mype #contratacionespublicas #peru",
+        "tt": "Hoy arranca la temporada alta de compras del Estado 🚀 #licitaciones #seace #mype",
+        "fb": "El presupuesto público vence el 31 de diciembre: lo que no se gasta, se pierde. Por eso el último trimestre llueven convocatorias. El proveedor que usa octubre para preparar su carpeta juega otra liga en noviembre. Radar Estatal (radarestatal.pe) te muestra gratis los procesos de tu rubro."
+      },
+      "alt": "Portada: hoy arranca la temporada alta de compras del Estado peruano."
     },
     {
-     "role": "value",
-     "h": "El presupuesto público vence el 31 de diciembre",
-     "b": "Lo que una entidad no gasta este año, lo pierde. Por eso el último trimestre concentra convocatorias. Y las más apuradas."
+      "slug": "02-plata-que-vence",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "TEMPORADA ALTA",
+          "h": "La plata que el Estado no gasta, la pierde",
+          "emoji": "💸"
+        },
+        {
+          "role": "value",
+          "h": "Así funciona la ejecución presupuestal",
+          "b": "Cada entidad recibe un presupuesto anual y su gestión se mide por cuánto ejecuta."
+        },
+        {
+          "role": "value",
+          "h": "Por eso noviembre y diciembre llueven procesos",
+          "b": "Compras planeadas todo el año salen juntas al final, con plazos mínimos.",
+          "emoji": "🔥"
+        },
+        {
+          "role": "stat",
+          "h": "Más de 200 mil procesos en datos abiertos",
+          "b": "Radar Estatal (radarestatal.pe) los organiza y te muestra los de tu rubro."
+        },
+        {
+          "role": "cta",
+          "h": "Que la lluvia te agarre con paraguas.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "La regla que explica el fin de año del Estado: el presupuesto que no se ejecuta, se pierde. Resultado: noviembre y diciembre concentran convocatorias con plazos mínimos. #licitaciones #seace #presupuestopublico #mype #peru",
+        "tt": "La plata que el Estado no gasta, la pierde 💸 #licitaciones #seace #contratacionespublicas",
+        "fb": "¿Por qué el Estado compra tanto en noviembre y diciembre? Porque el presupuesto anual vence y la gestión se mide por ejecución. El proveedor preparado convierte esa regla en temporada alta. Radar Estatal (radarestatal.pe), tu feed gratis del SEACE."
+      },
+      "alt": "Portada: la plata que el Estado no gasta se pierde — ejecución presupuestal explicada."
     },
     {
-     "role": "value",
-     "h": "Octubre es para preparar, no para mirar",
-     "b": "· RNP activo y habilitado\n· Garantías cotizadas\n· Conformidades archivadas\nTodo eso toma semanas. En noviembre ya no hay semanas."
+      "slug": "03-diciembre-repite",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Lo que compraron en diciembre pasado se repite",
+          "b": "el Estado es más predecible de lo que crees",
+          "emoji": "📊"
+        },
+        {
+          "role": "value",
+          "h": "Busca noviembre y diciembre del año pasado",
+          "b": "En el SEACE filtra tu rubro con fechas de fin del año anterior. Ese es el borrador de lo que viene."
+        },
+        {
+          "role": "value",
+          "h": "Apunta entidad, objeto y monto",
+          "b": "· Entidad\n· Objeto de contratación\n· Valor estimado o referencial\n· Cuando salga la nueva, la reconoces"
+        },
+        {
+          "role": "stat",
+          "h": "O deja que el «radar» recuerde por ti",
+          "b": "Radar Estatal (radarestatal.pe): la IA te dice cuáles le convienen a tu empresa.",
+          "shot": "shot-feed.png"
+        },
+        {
+          "role": "cta",
+          "h": "Diciembre no te va a sorprender.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Método de 20 minutos: busca en SEACE lo que tu rubro vendió al Estado el noviembre y diciembre pasado. Esa lista es el borrador del cierre de este año. Mismas entidades, compras parecidas. #seace #licitaciones #mype #proveedoresdelestado #peru",
+        "tt": "Lo que el Estado compró en diciembre pasado se repite 📊 #seace #licitaciones #mype",
+        "fb": "El Estado es más predecible de lo que crees: las compras de fin de año se repiten entre años. Buscar el diciembre pasado de tu rubro en SEACE es leer el borrador del que viene. Radar Estatal (radarestatal.pe) lo hace por ti."
+      },
+      "alt": "Portada: las compras estatales de diciembre pasado anticipan las de este año."
     },
     {
-     "role": "stat",
-     "h": "Un «radar» para la temporada alta",
-     "b": "Radar Estatal (radarestatal.pe) vigila las compras del Estado por ti. El feed del SEACE es gratis y sin cuenta.",
-     "shot": "shot-datos.png"
+      "slug": "04-octubre-vacio",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-15-reparto",
+          "h": "En noviembre todos quieren, en octubre nadie",
+          "b": "la ventana sin competencia es ahora",
+          "emoji": "⏰"
+        },
+        {
+          "role": "value",
+          "h": "Tres cosas que en noviembre ya no llegan",
+          "b": "· Inscribir o ampliar tu registro RNP: días\n· Línea de fianza: más días\n· Experiencia documentada: semanas\nCualquiera pendiente en noviembre te deja mirando."
+        },
+        {
+          "role": "value",
+          "h": "Haz el chequeo de 10 minutos hoy",
+          "b": "· RNP: ¿activo y en el registro correcto?\n· Banco: ¿tienes línea?\n· Archivo: ¿conformidades a la mano?"
+        },
+        {
+          "role": "stat",
+          "h": "Los que usan Radar Estatal ya vieron venir esto",
+          "b": "radarestatal.pe: tu «radar» del cierre presupuestal."
+        },
+        {
+          "role": "cta",
+          "h": "Octubre vacío, noviembre lleno. Aprovecha el vacío.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "El chequeo de octubre que decide tu noviembre: RNP activo y en el registro correcto, línea de fianza y archivo de conformidades. Tres cosas que toman semanas. Y en noviembre no hay semanas. #licitaciones #rnp #mype #seace #peru",
+        "tt": "En noviembre todos quieren postular, en octubre nadie ⏰ #licitaciones #mype #seace",
+        "fb": "La ventana sin competencia es octubre: mientras nadie mira, tú dejas el RNP en orden, negocias línea de fianza y ordenas conformidades. Cuando llueva en noviembre, decides en horas. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Camioneta de reparto al amanecer: la ventana de preparación de octubre."
     },
     {
-     "role": "cta",
-     "h": "La temporada empezó.",
-     "b": "Prepárate este mes: radarestatal.pe"
+      "slug": "05-rnp-no-vence",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "CHEQUEO DE OCTUBRE",
+          "emoji": "🪪",
+          "h": "Tu RNP no vence, pero se te puede caer",
+          "b": "revísalo antes de la temporada alta"
+        },
+        {
+          "role": "value",
+          "h": "La inscripción es indefinida",
+          "b": "No se renueva cada año: se mantiene mientras tu RUC esté activo y habido y tus datos actualizados."
+        },
+        {
+          "role": "value",
+          "h": "Lo que sí te deja fuera",
+          "b": "· Quedar no habido en SUNAT\n· Dar de baja el RUC\n· Estar inhabilitado por sanción\nCualquiera de las tres y no presentas oferta."
+        },
+        {
+          "role": "value",
+          "h": "De paso, revisa qué dice de ti",
+          "b": "Tu ficha es pública: en qué registros estás y desde cuándo. Es lo primero que revisa un comité."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-herramientas.png",
+          "h": "Radar Estatal te muestra fichas sin buscarlas",
+          "b": "radarestatal.pe: investiga cualquier RUC, incluido el tuyo."
+        },
+        {
+          "role": "cta",
+          "h": "Un minuto hoy o una oferta perdida en noviembre.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Mito frecuente: que el RNP vence y hay que renovarlo cada año. No vence. Su vigencia es indefinida mientras tu RUC esté activo y habido en SUNAT. Lo que sí te deja fuera: quedar no habido, dar de baja el RUC o estar inhabilitado por sanción. Revísalo antes de la temporada alta. #rnp #licitaciones #seace #mype #peru",
+        "tt": "Tu RNP no vence, pero se te puede caer 🪪 #rnp #licitaciones #mype",
+        "fb": "Aclaración que ahorra sustos: el RNP no se renueva cada año, su vigencia es indefinida. Lo que sí te saca del juego es quedar no habido en SUNAT, dar de baja el RUC o estar inhabilitado por sanción. Un minuto de chequeo hoy vale una oferta en noviembre. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "El RNP tiene vigencia indefinida: qué situaciones sí impiden presentar ofertas."
+    },
+    {
+      "slug": "06-sin-carta-fianza",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El banco no es tu única puerta al Estado",
+          "emoji": "🚪"
+        },
+        {
+          "role": "value",
+          "h": "Para MYPE existe la retención",
+          "b": "Una MYPE puede dar como garantía de fiel cumplimiento la retención de parte del pago. Confírmalo en las bases."
+        },
+        {
+          "role": "value",
+          "h": "El intercambio: cobras después, no pagas antes",
+          "b": "La fianza cuesta plata por adelantado; la retención descuenta del pago que te van a hacer."
+        },
+        {
+          "role": "stat",
+          "h": "Filtra procesos a tu medida",
+          "b": "Radar Estatal (radarestatal.pe): la IA marca los que le convienen a tu empresa."
+        },
+        {
+          "role": "cta",
+          "h": "Sin banco también se llega.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Dato que abre puertas: una MYPE puede usar la retención del pago como garantía de fiel cumplimiento en lugar de la carta fianza, sin tope de monto. Cobras después en lugar de pagar antes. Revisa tus bases. #mype #licitaciones #cartafianza #seace #peru",
+        "tt": "El banco no es tu única puerta al Estado 🚪 #mype #licitaciones #seace",
+        "fb": "¿Sabías que una MYPE puede reemplazar la carta fianza por retención del pago, sin límite de monto de contrato? El intercambio: cobras después, no pagas antes. Para caja chica, es la diferencia entre postular o quedarse mirando. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Portada: la retención como alternativa a la carta fianza para MYPEs."
+    },
+    {
+      "slug": "07-registro-visitas",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "DATO PÚBLICO",
+          "emoji": "📋",
+          "h": "Las entidades publican quién las visita, todos los días",
+          "b": "y es dato abierto"
+        },
+        {
+          "role": "value",
+          "h": "Se llama Registro de Visitas en Línea",
+          "b": "Publican el visitante, a quién representa, el funcionario visitado, su cargo y el motivo."
+        },
+        {
+          "role": "value",
+          "h": "Sale solo, no hay que pedirlo",
+          "b": "No se pide por transparencia: se publica a diario, en datos abiertos y reutilizable."
+        },
+        {
+          "role": "value",
+          "h": "Léelo como contexto de tu entidad",
+          "b": "Te dice quién está a cargo y qué tan movida está el área que compra lo tuyo."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-datos.png",
+          "h": "Sin entrar al portal cada día",
+          "b": "Radar Estatal (radarestatal.pe) te avisa cuando una entidad que sigues publica movimiento."
+        },
+        {
+          "role": "cta",
+          "h": "Ya era público. Ahora te llega.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "El Registro de Visitas en Línea es obligatorio para las entidades del Estado peruano: publican a diario quién las visitó, a quién representa, qué funcionario lo recibió y con qué motivo. En datos abiertos y sin pedir permiso. Para un proveedor es contexto real de la entidad que compra lo suyo. Radar Estatal (radarestatal.pe) te avisa cuando se publica. #licitaciones #seace #transparencia #mype #peru",
+        "tt": "Las entidades publican quién las visita, todos los días 📋 #licitaciones #seace #peru",
+        "fb": "Poca gente sabe que el registro de visitas de las entidades del Estado es obligatorio, se publica a diario y es dato abierto: visitante, a quién representa, funcionario visitado, cargo y motivo. Es contexto útil para un proveedor, no un atajo: al proceso se sigue entrando por las bases. Radar Estatal (radarestatal.pe) te avisa cuando se publica en las entidades que sigues."
+      },
+      "alt": "El Registro de Visitas en Línea de las entidades del Estado peruano, público y de publicación diaria."
+    },
+    {
+      "slug": "08-feriado-plazos",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "FERIADO",
+          "h": "El feriado engaña a los que cuentan de memoria",
+          "b": "tus plazos pueden seguir corriendo",
+          "emoji": "📅"
+        },
+        {
+          "role": "value",
+          "h": "Manda el cronograma, no tu cálculo",
+          "b": "Así no: contar los días de memoria\nAsí sí: las fechas exactas que publicó la entidad"
+        },
+        {
+          "role": "value",
+          "h": "Hábiles y calendario no son lo mismo",
+          "b": "Así no: asumir que todo se congela\nAsí sí: cada etapa tiene su forma de contar"
+        },
+        {
+          "role": "value",
+          "h": "La oferta no espera al lunes",
+          "b": "Así no: «lo veo después del feriado»\nAsí sí: deadline con alarma un día antes"
+        },
+        {
+          "role": "stat",
+          "h": "El «radar» no toma feriados",
+          "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE y avisos antes de cada cierre."
+        },
+        {
+          "role": "cta",
+          "h": "Descansa tú. Tu cronograma no.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "El feriado engaña al que cuenta plazos de memoria: manda el cronograma publicado por la entidad, los días hábiles y calendario se cuentan distinto y la oferta no espera al lunes. Radar Estatal (radarestatal.pe) avisa antes de cada cierre. #licitaciones #SEACE #feriado #mype #peru #contratacionesdelestado",
+        "tt": "El feriado engaña a los que cuentan de memoria 📅 #licitaciones #SEACE #mype #peru",
+        "fb": "Feriado largo y proveedores relajados: combinación cara. Algunas etapas de un proceso corren de corrido aunque tú descanses. La regla es una: manda el cronograma publicado, no tu cálculo. Alarma un día antes de cada cierre. radarestatal.pe no toma feriados."
+      },
+      "alt": "Errores al contar plazos de licitación en feriados y la regla del cronograma publicado."
+    },
+    {
+      "slug": "09-pac-2027",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "PAC 2027",
+          "h": "El Estado ya escribe su lista de compras 2027",
+          "emoji": "🕵"
+        },
+        {
+          "role": "value",
+          "h": "Se llama PAC y es público",
+          "b": "El Plan Anual de Contrataciones dice qué piensa comprar cada entidad. Se publica en el SEACE."
+        },
+        {
+          "role": "value",
+          "h": "Léelo como borrador, no como promesa",
+          "b": "El PAC se modifica durante el año, pero te adelanta rubros, entidades y magnitudes. Para planear tu enero, es la mejor pista disponible."
+        },
+        {
+          "role": "value",
+          "h": "Busca el PAC de tu entidad objetivo",
+          "b": "En la ficha de la entidad está su plan. Si tu rubro aparece, ya sabes a quién buscar en enero."
+        },
+        {
+          "role": "stat",
+          "h": "Enero empieza en octubre",
+          "b": "Radar Estatal (radarestatal.pe): los que ya lo usan reciben su rubro sin buscarlo.",
+          "shot": "shot-feed.png"
+        },
+        {
+          "role": "cta",
+          "h": "El que lee el plan llega primero.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "El Plan Anual de Contrataciones 2027 se está escribiendo ahora. Y es público. Leer el PAC de tu entidad objetivo es saber qué comprará en enero antes que nadie. #pac #licitaciones #seace #mype #peru",
+        "tt": "El Estado ya escribe su lista de compras 2027 🕵 #licitaciones #seace #pac",
+        "fb": "El PAC (Plan Anual de Contrataciones) del próximo año se publica en el SEACE y cualquiera lo puede leer. Es un borrador, pero te adelanta rubros, entidades y magnitudes para planear tu enero. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Portada: el PAC 2027 ya se está escribiendo y es público."
+    },
+    {
+      "slug": "10-filtro-noviembre",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-13-bases",
+          "h": "En noviembre vas a querer postular a todo",
+          "b": "ese es exactamente el error",
+          "emoji": "🛑"
+        },
+        {
+          "role": "value",
+          "h": "El filtro de 10 minutos antes de decir sí",
+          "b": "· Objeto: ¿es lo tuyo de verdad?\n· Plazo: ¿llegas sin morir?\n· Garantía: ¿resuelta?\n· Experiencia: ¿la acreditas con papeles?"
+        },
+        {
+          "role": "value",
+          "h": "Postular apurado sale caro",
+          "b": "Un contrato que no puedes cumplir termina en penalidades y, en el peor caso, en sanción.",
+          "emoji": "🚫"
+        },
+        {
+          "role": "stat",
+          "h": "El «radar» filtra antes que tú",
+          "b": "Radar Estatal (radarestatal.pe): la IA descarta lo que no te conviene."
+        },
+        {
+          "role": "cta",
+          "h": "Di que no rápido para decir que sí bien.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "El error de noviembre no es postular poco: es postular a todo. El filtro de 10 minutos. Objeto, plazo, garantía, experiencia. Separa la oportunidad del problema con penalidades. #licitaciones #seace #mype #contratacionespublicas #peru",
+        "tt": "En noviembre vas a querer postular a todo. Error 🛑 #licitaciones #mype #seace",
+        "fb": "Cuando lluevan convocatorias vas a querer decir sí a todas. El filtro de 10 minutos (objeto, plazo, garantía, experiencia) te salva de contratos incumplibles y penalidades que manchan tu historial. Radar Estatal (radarestatal.pe) filtra contigo."
+      },
+      "alt": "Pila de bases de licitación: el filtro antes de postular."
+    },
+    {
+      "slug": "11-lista-negra",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El Estado tiene lista negra y es pública",
+          "emoji": "🚫"
+        },
+        {
+          "role": "value",
+          "h": "Se llama registro de inhabilitados",
+          "b": "Empresas y personas sancionadas para contratar con el Estado, con periodo y motivo. En el portal del OECE."
+        },
+        {
+          "role": "value",
+          "h": "Revísalo antes de asociarte",
+          "b": "¿Consorcio nuevo? ¿Proveedor que te subcontrata? Un socio inhabilitado puede tumbar tu oferta entera. Dos minutos de búsqueda te salvan."
+        },
+        {
+          "role": "stat",
+          "h": "Investiga cualquier RUC en segundos",
+          "b": "Radar Estatal (radarestatal.pe): historial y fichas en un solo lugar.",
+          "shot": "shot-herramientas.png"
+        },
+        {
+          "role": "cta",
+          "h": "Socio se investiga antes, no después.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Antes de firmar un consorcio, dos minutos de búsqueda: el registro de inhabilitados del OECE es público y un socio sancionado puede tumbar tu oferta entera. #licitaciones #consorcio #oece #mype #peru",
+        "tt": "El Estado tiene lista negra y es pública 🚫 #licitaciones #oece #mype",
+        "fb": "El registro de inhabilitados es público: empresas y personas sancionadas para contratar con el Estado, con periodo y motivo. Revísalo antes de asociarte en consorcio. No después. Radar Estatal (radarestatal.pe) te muestra historiales por RUC."
+      },
+      "alt": "Portada: el registro público de inhabilitados para contratar con el Estado."
+    },
+    {
+      "slug": "12-contrato-no-es-inicio",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Firmar el contrato no es empezar a trabajar",
+          "emoji": "✍"
+        },
+        {
+          "role": "value",
+          "h": "Después de la buena pro falta camino",
+          "b": "Consentimiento, presentación de documentos, firma y recién la orden de compra o de servicio. Cada paso tiene su plazo y sus papeles."
+        },
+        {
+          "role": "value",
+          "h": "El error clásico: comprar antes de la orden",
+          "b": "Invertir en mercadería apenas ganas es apostar. Espera la orden. Es la señal de que el reloj de entrega corre de verdad."
+        },
+        {
+          "role": "stat",
+          "h": "Todo el proceso de selección, vigilado",
+          "b": "Radar Estatal (radarestatal.pe) te acompaña de la convocatoria a la buena pro."
+        },
+        {
+          "role": "cta",
+          "h": "Gana, firma, y recién corre.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Ganar la buena pro no es el final: falta consentimiento, documentos, firma y la orden de compra. El error clásico es invertir en mercadería antes de la orden. #licitaciones #buenapro #seace #mype #peru",
+        "tt": "Firmar el contrato no es empezar a trabajar ✍ #licitaciones #buenapro #mype",
+        "fb": "Después de la buena pro viene un camino con plazos propios: consentimiento, documentos, firma, orden de compra. Comprar mercadería antes de la orden es apostar. Radar Estatal (radarestatal.pe) te acompaña en todo el proceso."
+      },
+      "alt": "Portada: los pasos entre la buena pro y la orden de compra."
+    },
+    {
+      "slug": "13-sigue-entidades",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "MÉTODO",
+          "h": "Sigue entidades, no solo procesos",
+          "emoji": "🧭"
+        },
+        {
+          "role": "value",
+          "h": "Un proceso de selección dura semanas; una entidad, años",
+          "b": "El que solo mira convocatorias empieza de cero cada vez. El que sigue entidades acumula contexto."
+        },
+        {
+          "role": "value",
+          "h": "Elige tres y ponles seguimiento",
+          "b": "· Las que ya compraron tu rubro\n· Las de tu región\n· Las que tienen presupuesto por ejecutar"
+        },
+        {
+          "role": "value",
+          "h": "Qué se vigila de cada una",
+          "b": "· Sus convocatorias nuevas\n· Sus designaciones de funcionarios\n· Su registro de visitas"
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "shot-feed.png",
+          "h": "Tres entidades, un solo tablero",
+          "b": "Radar Estatal (radarestatal.pe) vigila las entidades que elijas y te avisa de cada movimiento."
+        },
+        {
+          "role": "cta",
+          "h": "Tres entidades seguidas valen más que mil miradas.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo vender al Estado con método: sigue entidades, no solo procesos sueltos. Elige tres (las que ya compraron tu rubro, las de tu región y las que tienen presupuesto por ejecutar) y vigila de cada una sus convocatorias nuevas, sus designaciones de funcionarios y su registro de visitas. Un proceso dura semanas; una entidad, años. Radar Estatal (radarestatal.pe) vigila por ti las entidades que elijas. #contratacionespublicas #seace #mype #proveedordelestado #peru",
+        "tt": "Sigue entidades, no procesos 🧭 el método completo #seace #licitaciones #mype #peru",
+        "fb": "El proveedor que solo mira convocatorias empieza de cero cada vez. El que sigue tres entidades acumula contexto: sus compras, sus cambios de funcionario y su movimiento diario. ¿Cuáles serían tus tres entidades?"
+      },
+      "alt": "Método para seguir entidades del Estado: convocatorias, designaciones de funcionarios y registro de visitas."
+    },
+    {
+      "slug": "14-desiertos-diciembre",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "MITO",
+          "h": "En diciembre también sobran procesos sin postores",
+          "emoji": "🤨"
+        },
+        {
+          "role": "value",
+          "h": "El mito muere con un dato",
+          "b": "Cada fin de año hay procesos que quedan desiertos: nadie postuló. La verdad es simple: nadie llegó."
+        },
+        {
+          "role": "value",
+          "h": "El desierto navideño es tu enero",
+          "b": "Un desierto se reconvoca, muchas veces con requisitos ajustados y menos competencia. Lista los de tu rubro en diciembre y espera la segunda llamada."
+        },
+        {
+          "role": "stat",
+          "h": "Más de 200 mil procesos en la base",
+          "b": "Radar Estatal (radarestatal.pe): incluidos los que nadie miró."
+        },
+        {
+          "role": "cta",
+          "h": "Mientras otros sospechan, tú postulas.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "¿Fin de año arreglado? El dato dice otra cosa: cada diciembre quedan procesos desiertos porque nadie postuló. Y un desierto reconvocado es una segunda llamada con menos competencia. #licitaciones #seace #desiertos #mype #peru",
+        "tt": "En diciembre también sobran procesos sin postores 🤨 #licitaciones #seace #mype",
+        "fb": "El mito dice que diciembre ya está cocinado. El dato dice que cada fin de año quedan procesos desiertos: nadie llegó. La reconvocatoria trae requisitos ajustados y menos postores. Ahí entra el preparado. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Portada: los procesos desiertos de diciembre desmienten el mito del arreglo."
+    },
+    {
+      "slug": "15-fianza-antes",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Al banco se va antes de ganar",
+          "b": "después ya es tarde",
+          "emoji": "🏦"
+        },
+        {
+          "role": "value",
+          "h": "Línea hoy, carta cuando ganes",
+          "b": "Así no: pedir la carta con el plazo encima\nAsí sí: línea aprobada esperando su proceso"
+        },
+        {
+          "role": "value",
+          "h": "El banco también tiene cronograma",
+          "b": "Así no: asumir que emiten en un día\nAsí sí: evaluación y emisión toman días, cuéntalos"
+        },
+        {
+          "role": "value",
+          "h": "Cotiza más de una puerta",
+          "b": "Así no: casarte con tu único banco\nAsí sí: cajas y afianzadoras también compiten"
+        },
+        {
+          "role": "stat",
+          "shot": "shot-feed.png",
+          "h": "Sabrás para qué proceso emitirla",
+          "b": "Radar Estatal (radarestatal.pe): la IA te dice qué procesos valen tu garantía."
+        },
+        {
+          "role": "cta",
+          "h": "La fianza se gana en el banco, antes.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "La carta fianza se pierde por tiempos, no por montos: la línea se negocia hoy y la carta se emite cuando ganas, el banco tiene sus propios plazos y las cajas y afianzadoras también compiten. Radar Estatal (radarestatal.pe) te dice qué procesos valen tu garantía. #cartafianza #licitaciones #mype #SEACE #peru",
+        "tt": "Al banco se va antes de ganar 🏦 después ya es tarde #licitaciones #mype #SEACE #peru",
+        "fb": "Hay buenas pro que se caen después de ganadas: la fianza no llegó a tiempo. La conversación con el banco va antes de postular: línea aprobada esperando su proceso, plazos del banco contados y más de una puerta cotizada. radarestatal.pe"
+      },
+      "alt": "Cuándo gestionar la carta fianza: línea antes de postular frente a correr al banco tras ganar."
+    },
+    {
+      "slug": "16-factura-requisito",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu factura de hoy es tu requisito de mañana",
+          "emoji": "🧾"
+        },
+        {
+          "role": "value",
+          "h": "La experiencia se prueba con papeles",
+          "b": "Contratos, órdenes, facturas y la joya: conformidades. Sin el papel, tu experiencia no existe para un comité, por real que sea."
+        },
+        {
+          "role": "value",
+          "h": "Arma el archivo una vez, úsalo siempre",
+          "b": "Una carpeta por contrato: contrato, factura y conformidad. En físico y en nube."
+        },
+        {
+          "role": "stat",
+          "h": "Tu historial también es visible para otros",
+          "b": "Radar Estatal (radarestatal.pe): así como investigas, te investigan."
+        },
+        {
+          "role": "cta",
+          "h": "Guarda hoy, acredita mañana.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "La experiencia que no está en papeles no existe para un comité. La carpeta que salva ofertas: contrato + factura + conformidad por cada trabajo cumplido, en físico y en nube. #licitaciones #experiencia #mype #seace #peru",
+        "tt": "Tu factura de hoy es tu requisito de mañana 🧾 #licitaciones #mype #seace",
+        "fb": "¿Pediste tu conformidad? Contratos, facturas y conformidades son la moneda con la que se acredita experiencia ante el Estado. El archivo se arma una vez y se usa toda la vida. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Portada: archivar contratos, facturas y conformidades para acreditar experiencia."
+    },
+    {
+      "slug": "17-entidades-diciembre",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "No todas las entidades cierran el año igual",
+          "emoji": "🗓"
+        },
+        {
+          "role": "value",
+          "h": "Cada una ejecuta a su ritmo",
+          "b": "Algunas ejecutan parejo todo el año; otras concentran al final. El historial es público en el SEACE."
+        },
+        {
+          "role": "value",
+          "h": "Arma tu lista de entidades de diciembre",
+          "b": "Busca cuáles de tu rubro convocaron en noviembre y diciembre pasados."
+        },
+        {
+          "role": "stat",
+          "h": "El «radar» sigue trabajando en diciembre",
+          "b": "Radar Estatal (radarestatal.pe), tu feed del SEACE sin descanso.",
+          "shot": "shot-herramientas.png"
+        },
+        {
+          "role": "cta",
+          "h": "Disponible cuando otros brindan.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "No todas las entidades cierran el año igual: unas ejecutan parejo y otras concentran al final. El historial de convocatorias es público en el SEACE, así que puedes armar tu lista de las que compran tu rubro en diciembre. #licitaciones #seace #mype #contratacionespublicas #peru",
+        "tt": "No todas las entidades cierran el año igual 🗓 #licitaciones #seace #mype",
+        "fb": "No todas las entidades cierran igual: algunas ejecutan parejo y otras concentran las compras al final del año. El historial de convocatorias es público en el SEACE. Arma tu lista y sé el proveedor disponible cuando todos brindan. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Portada: cada entidad cierra su año fiscal a un ritmo distinto."
+    },
+    {
+      "slug": "18-precio-no-gana",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El precio más bajo no siempre gana",
+          "emoji": "⚖"
+        },
+        {
+          "role": "value",
+          "h": "Las bases traen un cuadro de puntajes",
+          "b": "Precio pesa, pero también plazo ofertado, garantía adicional y experiencia. El cuadro de evaluación de cada proceso dice cuánto vale cada punto."
+        },
+        {
+          "role": "value",
+          "h": "Gana puntos que no cuestan plata",
+          "b": "Mejorar plazo cuando tu logística aguanta, o acreditar experiencia que ya tienes, sube puntaje."
+        },
+        {
+          "role": "stat",
+          "h": "Estudia cómo ganó el último",
+          "b": "Radar Estatal (radarestatal.pe): mira las adjudicaciones de tu rubro por RUC."
+        },
+        {
+          "role": "cta",
+          "h": "Se gana en el cuadro, no solo en el precio.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Antes de bajar tu precio, abre el cuadro de evaluación: plazo, garantía y experiencia también puntúan. Y esos puntos no cuestan margen. #licitaciones #seace #mype #buenapro #peru",
+        "tt": "El precio más bajo no siempre gana ⚖ #licitaciones #seace #mype",
+        "fb": "El cuadro de evaluación de las bases dice exactamente cuánto vale cada punto: precio, plazo, garantía, experiencia. Los puntos gratis (plazo realista, experiencia ya acreditada) se toman antes de tocar el margen. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Portada: el cuadro de evaluación pesa más que solo el precio."
+    },
+    {
+      "slug": "19-decidir-en-horas",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Noviembre te va a pedir decidir en horas",
+          "emoji": "⚡"
+        },
+        {
+          "role": "value",
+          "h": "Los plazos del cierre son mínimos",
+          "b": "Las convocatorias de fin de año salen con los días contados. El que necesita una semana para decidir, decide tarde."
+        },
+        {
+          "role": "value",
+          "h": "Deja la decisión armada de antemano",
+          "b": "Tu filtro sí/no escrito, plantilla de oferta lista y claro quién firma qué. Decidir rápido es haberlo decidido antes."
+        },
+        {
+          "role": "stat",
+          "h": "El aviso llega el día uno",
+          "b": "Radar Estatal (radarestatal.pe) te muestra lo nuevo de tu rubro sin buscarlo.",
+          "shot": "shot-datos.png"
+        },
+        {
+          "role": "cta",
+          "h": "Horas para otros, minutos para ti.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "En la temporada alta las convocatorias salen con los días contados. Decidir rápido no es correr: es tener el filtro escrito, la plantilla lista y las firmas claras desde octubre. #licitaciones #seace #mype #contratacionespublicas #peru",
+        "tt": "Noviembre te va a pedir decidir en horas ⚡ #licitaciones #mype #seace",
+        "fb": "El que necesita una semana para decidir, decide tarde. La decisión se arma antes en octubre: filtro sí/no escrito, plantilla de oferta y responsables claros. Radar Estatal (radarestatal.pe) te avisa el día uno."
+      },
+      "alt": "Portada: preparar la decisión rápida para los plazos cortos de noviembre."
+    },
+    {
+      "slug": "20-constructora-diciembre",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-12-obra",
+          "h": "La constructora que ganó en pleno diciembre",
+          "b": "una historia de octubre bien usado",
+          "emoji": "🏗"
+        },
+        {
+          "role": "value",
+          "h": "Octubre: carpeta; noviembre: puntería",
+          "b": "· RNP renovado\n· Línea de fianza lista\n· Conformidades ordenadas\nCuando llovieron convocatorias aplicó su filtro y eligió dos."
+        },
+        {
+          "role": "value",
+          "h": "Diciembre: el desierto reconvocado",
+          "b": "Una quedó desierta en primera llamada. En la segunda, con requisitos ajustados y menos postores, su oferta ordenada se llevó la buena pro."
+        },
+        {
+          "role": "stat",
+          "h": "El método existe, el «radar» lo acelera",
+          "b": "Radar Estatal (radarestatal.pe): de la convocatoria a la buena pro."
+        },
+        {
+          "role": "cta",
+          "h": "Tu diciembre se construye este mes.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Historia tipo de la temporada alta: carpeta lista en octubre, filtro en noviembre, y en diciembre la reconvocatoria de un desierto con menos competencia. Así se gana fin de año. #licitaciones #seace #mype #obras #peru",
+        "tt": "La constructora que ganó su primera obra en pleno diciembre 🏗 #licitaciones #mype",
+        "fb": "Octubre: carpeta. Noviembre: puntería (dos procesos, no veinte). Diciembre: la segunda convocatoria de un desierto, con requisitos ajustados y menos postores. El método del cierre existe. Radar Estatal (radarestatal.pe) lo acelera."
+      },
+      "alt": "Obra en construcción al amanecer: la historia del cierre de año bien jugado."
+    },
+    {
+      "slug": "21-designacion-mueve-cronograma",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "TEMPORADA ALTA",
+          "h": "Una designación nueva puede mover tu cronograma",
+          "emoji": "🚦"
+        },
+        {
+          "role": "value",
+          "h": "El cambio de titular toma tiempo",
+          "b": "Firmas, encargaturas y aprobaciones se reacomodan. En pleno cierre presupuestal, eso se nota."
+        },
+        {
+          "role": "value",
+          "h": "Qué revisar esa semana",
+          "b": "· Si tu proceso sigue en fecha\n· Si el cronograma se reprogramó\n· Si aparecieron avisos nuevos"
+        },
+        {
+          "role": "value",
+          "h": "No es motivo para retirarte",
+          "b": "El proceso sigue su norma. Lo único que cambia es cuánto necesitas mirarlo."
+        },
+        {
+          "role": "stat",
+          "h": "El aviso llega el día de la resolución",
+          "b": "Radar Estatal (radarestatal.pe) te avisa de designaciones y del movimiento de los procesos que sigues."
+        },
+        {
+          "role": "cta",
+          "h": "En noviembre, cada cambio importa.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Designación de funcionarios y cronograma de un proceso: cuando cambia el titular de una entidad, firmas, encargaturas y aprobaciones se reacomodan, y en pleno cierre presupuestal eso se nota. Revisa esa semana si tu proceso sigue en fecha, si el cronograma se reprogramó y si aparecieron avisos nuevos. No es motivo para retirarte: el proceso sigue su norma. Radar Estatal (radarestatal.pe) te avisa de designaciones en las entidades que sigues. #contratacionespublicas #seace #cierrepresupuestal #mype #peru",
+        "tt": "Cambió el titular de la entidad 🚦 revisa tu cronograma esta semana #seace #licitaciones #peru",
+        "fb": "En el cierre del año, un cambio de titular en una entidad puede reacomodar firmas y aprobaciones, y eso se siente en los cronogramas. La designación es pública y sale por resolución. ¿Revisas los procesos que sigues cuando eso pasa?"
+      },
+      "alt": "Efecto práctico de una designación de funcionario sobre el cronograma de un proceso de selección."
+    },
+    {
+      "slug": "22-tu-region",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu región es la cancha donde tu logística gana",
+          "emoji": "📍"
+        },
+        {
+          "role": "value",
+          "h": "Filtra por tu departamento",
+          "b": "Así no: solo el ruido nacional\nAsí sí: municipios y gobiernos regionales de tu zona"
+        },
+        {
+          "role": "value",
+          "h": "Compite donde tu logística gana",
+          "b": "Así no: pelear procesos grandes en Lima\nAsí sí: lo chico local, donde entregar te sale natural"
+        },
+        {
+          "role": "value",
+          "h": "Apunta tus entidades vecinas",
+          "b": "Así no: venderle «al Estado» en abstracto\nAsí sí: tres entidades locales estudiadas"
+        },
+        {
+          "role": "stat",
+          "h": "El «radar» filtra por rubro y por zona",
+          "b": "Radar Estatal (radarestatal.pe), gratis y sin cuenta."
+        },
+        {
+          "role": "cta",
+          "h": "Tu cancha queda cerca de tu casa.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Tu ventaja real es la logística: filtra el SEACE por tu departamento, compite donde tu logística gana y estudia tres entidades vecinas en vez de venderle «al Estado» en abstracto. Radar Estatal (radarestatal.pe) filtra por rubro y zona. #licitaciones #SEACE #mype #regiones #peru #contratacionesdelestado",
+        "tt": "Tu región es la cancha donde tu logística gana 📍 #licitaciones #SEACE #mype #peru",
+        "fb": "Entregar cerca de casa te cuesta menos que a un postor de otra región: tu dirección y tu logística son ventaja real. Filtra por tu departamento, apunta a tus municipios y estudia tres entidades vecinas. radarestatal.pe, gratis y sin cuenta."
+      },
+      "alt": "Ventaja logística en licitaciones: filtrar por región y estudiar entidades vecinas."
+    },
+    {
+      "slug": "23-compra-inimaginable",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El Estado compra cosas que ni imaginas",
+          "emoji": "🎁"
+        },
+        {
+          "role": "value",
+          "h": "Talleres, catering, alquileres, mantenimiento",
+          "b": "No todo es obra y cemento: hay órdenes por impresión, capacitación, transporte, limpieza, hasta eventos. Si facturas, probablemente hay un proceso para lo tuyo."
+        },
+        {
+          "role": "value",
+          "h": "Búscate con palabra clave, no con prejuicio",
+          "b": "En SEACE busca lo que vendes con tus propias palabras y sus variantes. La primera sorpresa suele llegar en la primera página."
+        },
+        {
+          "role": "stat",
+          "h": "La IA te dice si tu rubro aparece",
+          "b": "Radar Estatal (radarestatal.pe): recomendaciones para tu empresa.",
+          "shot": "shot-herramientas.png"
+        },
+        {
+          "role": "cta",
+          "h": "Deja que te sorprenda.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "El Estado no solo compra cemento: talleres, catering, impresión, transporte, mantenimiento, eventos. Si facturas, probablemente hay un proceso para lo tuyo. Búscalo con tus propias palabras. #licitaciones #seace #mype #negocios #peru",
+        "tt": "El Estado compra cosas que ni imaginas 🎁 #licitaciones #seace #mype",
+        "fb": "¿Crees que lo tuyo no se licita? Busca en SEACE con tus propias palabras: capacitación, catering, impresión, alquileres, mantenimiento. La primera sorpresa llega en la primera página. Radar Estatal (radarestatal.pe) te lo dice solo."
+      },
+      "alt": "Portada: la variedad inesperada de compras del Estado."
+    },
+    {
+      "slug": "24-seace-no-descansa",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-01-ventana",
+          "h": "El SEACE no descansa y tú revisas cuando puedes",
+          "emoji": "🌙"
+        },
+        {
+          "role": "value",
+          "h": "Rutina fija, no voluntad",
+          "b": "Así no: revisar «cuando haya tiempo»\nAsí sí: lunes y jueves, 10 minutos con filtros"
+        },
+        {
+          "role": "value",
+          "h": "La fuente decide tu velocidad",
+          "b": "Así no: enterarte por boca a boca, días tarde\nAsí sí: alerta o revisión corta, el día uno"
+        },
+        {
+          "role": "value",
+          "h": "El feriado no pausa nada",
+          "b": "Así no: volver el martes a ver qué pasó\nAsí sí: los plazos corrieron, revísalos igual"
+        },
+        {
+          "role": "stat",
+          "h": "O duerme tranquilo con el «radar» prendido",
+          "b": "Radar Estatal (radarestatal.pe) vigila por ti, hasta en feriados."
+        },
+        {
+          "role": "cta",
+          "h": "Revisar poco está bien. Revisar fijo, mejor.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "El SEACE publica cualquier día y el que revisa «cuando puede» se entera tarde: rutina fija de lunes y jueves con filtros guardados, fuente rápida para enterarte el día uno y ojo con los plazos que corren en feriados. Radar Estatal (radarestatal.pe) vigila por ti. #SEACE #licitaciones #mype #contratacionesdelestado #peru",
+        "tt": "El SEACE no descansa y tú revisas cuando puedes 🌙 #SEACE #licitaciones #mype #peru",
+        "fb": "Las convocatorias no respetan tu finde: se publican cualquier día. La diferencia entre enterarse el día uno y el día ocho es la fuente y la rutina: lunes y jueves fijos con filtros guardados, o una alerta que trabaja sola. radarestatal.pe vigila hasta en feriados."
+      },
+      "alt": "Rutina fija para revisar el SEACE frente a revisarlo cuando se puede."
+    },
+    {
+      "slug": "25-sin-local",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El Estado no te pide local, te pide cumplir",
+          "emoji": "🏠"
+        },
+        {
+          "role": "value",
+          "h": "Los requisitos de verdad",
+          "b": "RUC activo y habido, RNP en el registro correcto y capacidad de cumplir. Nadie pregunta por tu oficina."
+        },
+        {
+          "role": "value",
+          "h": "Dónde sí pesa la infraestructura",
+          "b": "Obras y algunos servicios piden equipamiento o personal acreditado. Siempre está escrito en las bases. Si no lo piden, no lo inventes como excusa."
+        },
+        {
+          "role": "stat",
+          "h": "Postula desde donde estés",
+          "b": "Radar Estatal (radarestatal.pe) lleva el SEACE a tu celular.",
+          "shot": "shot-datos.png"
+        },
+        {
+          "role": "cta",
+          "h": "Cumplir pesa más que aparentar.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Mito de oficina: para venderle al Estado no necesitas local imponente. Necesitas RUC activo y habido, RNP en el registro correcto y capacidad de cumplir. Lo demás lo dicen las bases, no tu fachada. #licitaciones #mype #rnp #seace #peru",
+        "tt": "El Estado no te pide local, te pide cumplir 🏠 #licitaciones #mype #seace",
+        "fb": "¿Sin oficina grande no se puede? Falso: la mayoría de bienes y servicios piden RUC, RNP en el registro correcto y capacidad de cumplir. Donde sí pesa infraestructura (obras, ciertos servicios), las bases lo dicen por escrito. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Portada: los requisitos reales para venderle al Estado, sin mitos de local."
+    },
+    {
+      "slug": "26-ranking-rubro",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "INTELIGENCIA",
+          "emoji": "📊",
+          "h": "Arma el ranking de quién más gana en tu rubro",
+          "b": "sale de datos públicos"
+        },
+        {
+          "role": "value",
+          "h": "Ordena las adjudicaciones del año",
+          "b": "Busca las buenas pro del año en tu rubro y agrúpalas por RUC ganador. Ese es tu mapa real."
+        },
+        {
+          "role": "value",
+          "h": "Al líder se le estudia",
+          "b": "· ¿A qué entidades les vende?\n· ¿En qué procesos entra y en cuáles no?\n· ¿Solo o en consorcio?"
+        },
+        {
+          "role": "value",
+          "h": "Ojo con los consorcios",
+          "b": "Una victoria en consorcio se reparte: un ranking por ganador puede esconder socios."
+        },
+        {
+          "role": "stat",
+          "h": "El ranking sale en minutos, no en tardes",
+          "b": "Radar Estatal (radarestatal.pe): historial por RUC al instante."
+        },
+        {
+          "role": "cta",
+          "h": "Estudia al que gana, juega tu partido.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Las adjudicaciones del año en tu rubro son públicas: agrúpalas por RUC ganador y tendrás tu mapa de rivales reales. Un detalle que casi nadie considera: las victorias en consorcio se reparten, así que el ranking puede esconder socios. #licitaciones #seace #mype #peru",
+        "tt": "Arma el ranking de quién más gana en tu rubro 📊 #licitaciones #seace #mype",
+        "fb": "¿Quién ganó más procesos de tu rubro este año? ¿A qué entidades les vende? ¿Solo o en consorcio? El patrón del que más gana es una clase gratis. Ojo con los consorcios: una victoria compartida puede esconder a varios. Radar Estatal (radarestatal.pe) saca el ranking en minutos."
+      },
+      "alt": "Ranking de empresas que más ganan en un rubro y el matiz de las victorias en consorcio."
+    },
+    {
+      "slug": "27-carpeta-lista",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "CHECKLIST",
+          "h": "Deja tu carpeta lista antes del 1 de noviembre",
+          "emoji": "✅"
+        },
+        {
+          "role": "value",
+          "h": "Papeles: RNP y archivo de experiencia",
+          "b": "· RNP activo y en el registro correcto\n· Una carpeta por contrato: contrato, factura, conformidad\nEs la mitad de cualquier oferta."
+        },
+        {
+          "role": "value",
+          "h": "Plata: la garantía ya resuelta",
+          "b": "Línea de fianza aprobada o retención identificada como alternativa. Que el banco no sea tu cuello de botella de noviembre."
+        },
+        {
+          "role": "value",
+          "h": "Cabeza: filtro y plantillas",
+          "b": "Tu sí/no escrito y una plantilla de oferta con lo repetible ya lleno. Decidir y armar en horas, no en semanas."
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "h": "La carpeta es tuya, el «radar» es nuestro",
+          "b": "Radar Estatal (radarestatal.pe): tu rubro llega solo, gratis.",
+          "shot": "shot-feed.png"
+        },
+        {
+          "role": "cta",
+          "h": "1 de noviembre: tú ya estás listo.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "La checklist del cierre presupuestal: RNP activo + archivo de conformidades + garantía ya resuelta + filtro sí/no + plantilla de oferta. Guárdala: es tu 1 de noviembre. #licitaciones #seace #mype #checklist #peru",
+        "tt": "Deja tu carpeta lista antes del 1 de noviembre ✅ #licitaciones #mype #seace",
+        "fb": "Papeles (RNP + conformidades), plata (línea de fianza o retención) y cabeza (filtro escrito + plantilla). Esa es toda la preparación que separa a los que aprovechan noviembre de los que lo miran pasar. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Checklist completa de preparación para el cierre presupuestal."
+    },
+    {
+      "slug": "28-antes-de-tocar-la-puerta",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "PREPARACIÓN",
+          "h": "Antes de presentarte, mira quién dirige hoy",
+          "emoji": "📇"
+        },
+        {
+          "role": "value",
+          "h": "Llegar con el nombre viejo resta",
+          "b": "Presentarte al funcionario que salió hace meses dice que no investigaste nada."
+        },
+        {
+          "role": "value",
+          "h": "El chequeo de cinco minutos",
+          "b": "· Quién está a cargo del área\n· Desde cuándo\n· Qué compró la entidad en tu rubro"
+        },
+        {
+          "role": "value",
+          "h": "Y todo eso es público",
+          "b": "Designaciones por resolución, visitas publicadas a diario y compras en datos abiertos."
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "shot-herramientas.png",
+          "h": "El chequeo, hecho antes de que preguntes",
+          "b": "Radar Estatal (radarestatal.pe) reúne compras, designaciones y visitas de cada entidad que sigues."
+        },
+        {
+          "role": "cta",
+          "h": "Toca la puerta sabiendo quién la abre.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Antes de presentarte como proveedor ante una entidad del Estado, haz el chequeo de cinco minutos: quién está a cargo del área, desde cuándo y qué compró la entidad en tu rubro. Todo es información pública: las designaciones se formalizan por resolución, el registro de visitas se publica a diario y las compras están en datos abiertos. Llegar con el nombre del funcionario que salió hace meses dice que no investigaste. Radar Estatal (radarestatal.pe) reúne compras, designaciones y visitas de las entidades que sigues. #proveedordelestado #contratacionespublicas #seace #mype #peru",
+        "tt": "Antes de tocar la puerta de una entidad 📇 el chequeo de 5 minutos #seace #licitaciones #mype #peru",
+        "fb": "Presentarte ante una entidad con el nombre del funcionario que salió hace meses cuesta credibilidad. El chequeo toma cinco minutos y es todo información pública: quién está a cargo, desde cuándo y qué ha comprado la entidad en tu rubro."
+      },
+      "alt": "Chequeo previo a presentarse ante una entidad estatal: responsables vigentes, designaciones y compras del rubro."
+    },
+    {
+      "slug": "29-plan-noviembre",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "PARA GUARDAR",
+          "h": "El plan de noviembre cabe en una lámina",
+          "emoji": "📋"
+        },
+        {
+          "role": "value",
+          "h": "La lógica del cierre en 4 líneas",
+          "b": "· El presupuesto vence el 31 de diciembre\n· Llueven procesos con plazos cortos\n· Los desiertos dan segunda chance"
+        },
+        {
+          "role": "value",
+          "h": "Tu semana tipo de noviembre",
+          "b": "· Lunes y jueves: feed y consultas\n· Martes: seguimiento de fichas\n· Al ganar: espera la orden antes de gastar\n· Siempre: filtro antes de decir sí"
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "h": "Todo esto, con «radar» propio",
+          "b": "Radar Estatal (radarestatal.pe): la IA elige, tú decides.",
+          "shot": "shot-herramientas.png"
+        },
+        {
+          "role": "cta",
+          "h": "Guarda esta lámina y vuelve en noviembre.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "El plan completo de noviembre en un carrusel: la lógica del cierre presupuestal + tu semana tipo de proveedor. Guárdalo. Lo vas a abrir varias veces. #licitaciones #seace #mype #cierrepresupuestal #peru",
+        "tt": "El plan de noviembre cabe en una lámina 📋 #licitaciones #seace #mype",
+        "fb": "Presupuesto que vence → lluvia de procesos → gana el preparado → desiertos con segunda chance. Y tu semana tipo: feed lunes y jueves, fichas los martes, filtro siempre. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "El plan de noviembre resumido en una lámina guardable."
+    },
+    {
+      "slug": "30-black-friday",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "CIERRE PRESUPUESTAL",
+          "h": "Mañana empieza el cierre presupuestal",
+          "emoji": "🛒"
+        },
+        {
+          "role": "value",
+          "h": "Noviembre y diciembre concentran el gasto",
+          "b": "Las entidades ejecutan lo que les queda: convocatorias en cadena, plazos mínimos y menos ojos por proceso. Es la temporada del proveedor preparado."
+        },
+        {
+          "role": "value",
+          "h": "Tu primera semana ya está escrita",
+          "b": "Feed diario, filtro en mano, carpeta cerrada. No gana el que corre, sino el que llega listo."
+        },
+        {
+          "role": "stat",
+          "h": "El «radar» entra contigo",
+          "b": "Radar Estatal (radarestatal.pe): más de 200 mil procesos y los tuyos marcados."
+        },
+        {
+          "role": "cta",
+          "h": "Nos vemos adentro.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Mañana arranca el cierre presupuestal: noviembre y diciembre concentran el gasto público en convocatorias con plazos mínimos, porque lo no ejecutado se pierde el 31 de diciembre. Todo octubre fue para esto. #licitaciones #seace #cierrepresupuestal #mype #peru",
+        "tt": "Mañana empieza el cierre presupuestal del Estado 🛒 #licitaciones #seace #mype",
+        "fb": "Convocatorias en cadena, plazos mínimos, menos ojos por proceso: así es el cierre presupuestal. No gana el que corre más. Gana el que llega con la carpeta lista. Radar Estatal (radarestatal.pe) entra contigo."
+      },
+      "alt": "Portada: la víspera del cierre presupuestal del año fiscal."
+    },
+    {
+      "slug": "31-clausulas-duras",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "LEER BASES",
+          "emoji": "⚠",
+          "h": "Las bases traen cláusulas que te pueden hundir",
+          "b": "cuáles se cuestionan y cuáles son señal de irte"
+        },
+        {
+          "role": "value",
+          "h": "Las cuatro que más pesan",
+          "b": "· Penalidad diaria alta\n· Plazo de entrega imposible\n· Experiencia desproporcionada\n· Visita técnica muy lejos"
+        },
+        {
+          "role": "value",
+          "h": "Dos se cuestionan, dos se evitan",
+          "b": "· Por consultas: plazo y experiencia desproporcionada\n· Señal de pasar al siguiente: penalidad que no puedes absorber y visita imposible"
+        },
+        {
+          "role": "value",
+          "h": "Cuestionar tiene fecha",
+          "b": "Solo se observa dentro de la etapa de consultas. Pasado el plazo, la cláusula queda."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-datos.png",
+          "h": "El «radar» te muestra el proceso de selección completo",
+          "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE y una IA que resume requisitos y garantías."
+        },
+        {
+          "role": "cta",
+          "h": "Se leen a tiempo o se pagan después.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Las cuatro cláusulas que pueden hundir un contrato con el Estado: penalidad diaria alta, plazo imposible, experiencia desproporcionada y visita técnica lejos. Dos se cuestionan dentro de la etapa de consultas; dos son señal de pasar al siguiente proceso. #licitaciones #seace #mype #peru",
+        "tt": "Las bases traen cláusulas que te pueden hundir ⚠ #licitaciones #seace #mype",
+        "fb": "Penalidades que no puedes absorber, plazos imposibles, experiencia desproporcionada, visitas técnicas a mil kilómetros. Dos de esas se cuestionan por consultas dentro del plazo del cronograma; las otras dos son señal de pasar al siguiente proceso. Radar Estatal (radarestatal.pe)."
+      },
+      "alt": "Cláusulas duras en unas bases de licitación: cuáles se cuestionan por consultas y cuáles son señal de retirarse."
     }
-   ],
-   "caption": {
-    "ig": "Empezó el último trimestre del año fiscal: lo que las entidades no ejecutan, lo pierden. Y eso significa lluvia de convocatorias en noviembre y diciembre. Octubre es el mes de dejar listos el RNP, las garantías y el archivo. #licitaciones #seace #mype #contratacionespublicas #peru",
-    "tt": "Hoy arranca la temporada alta de compras del Estado 🚀 #licitaciones #seace #mype",
-    "fb": "El presupuesto público vence el 31 de diciembre: lo que no se gasta, se pierde. Por eso el último trimestre llueven convocatorias. El proveedor que usa octubre para preparar su carpeta juega otra liga en noviembre. Radar Estatal (radarestatal.pe) te muestra gratis los procesos de tu rubro."
-   },
-   "alt": "Portada: hoy arranca la temporada alta de compras del Estado peruano."
-  },
-  {
-   "slug": "02-plata-que-vence",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "TEMPORADA ALTA",
-     "h": "La plata que el Estado no gasta, la pierde",
-     "emoji": "💸"
-    },
-    {
-     "role": "value",
-     "h": "Así funciona la ejecución presupuestal",
-     "b": "Cada entidad recibe un presupuesto anual y su gestión se mide por cuánto ejecuta."
-    },
-    {
-     "role": "value",
-     "h": "Por eso noviembre y diciembre llueven procesos",
-     "b": "Compras planeadas todo el año salen juntas al final, con plazos mínimos.",
-     "emoji": "🔥"
-    },
-    {
-     "role": "stat",
-     "h": "Más de 200 mil procesos en datos abiertos",
-     "b": "Radar Estatal (radarestatal.pe) los organiza y te muestra los de tu rubro."
-    },
-    {
-     "role": "cta",
-     "h": "Que la lluvia te agarre con paraguas.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "La regla que explica el fin de año del Estado: el presupuesto que no se ejecuta, se pierde. Resultado: noviembre y diciembre concentran convocatorias con plazos mínimos. #licitaciones #seace #presupuestopublico #mype #peru",
-    "tt": "La plata que el Estado no gasta, la pierde 💸 #licitaciones #seace #contratacionespublicas",
-    "fb": "¿Por qué el Estado compra tanto en noviembre y diciembre? Porque el presupuesto anual vence y la gestión se mide por ejecución. El proveedor preparado convierte esa regla en temporada alta. Radar Estatal (radarestatal.pe), tu feed gratis del SEACE."
-   },
-   "alt": "Portada: la plata que el Estado no gasta se pierde — ejecución presupuestal explicada."
-  },
-  {
-   "slug": "03-diciembre-repite",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Lo que compraron en diciembre pasado se repite",
-     "b": "el Estado es más predecible de lo que crees",
-     "emoji": "📊"
-    },
-    {
-     "role": "value",
-     "h": "Busca noviembre y diciembre del año pasado",
-     "b": "En el SEACE filtra tu rubro con fechas de fin del año anterior. Ese es el borrador de lo que viene."
-    },
-    {
-     "role": "value",
-     "h": "Apunta entidad, objeto y monto",
-     "b": "· Entidad\n· Objeto de contratación\n· Valor estimado o referencial\n· Cuando salga la nueva, la reconoces"
-    },
-    {
-     "role": "stat",
-     "h": "O deja que el «radar» recuerde por ti",
-     "b": "Radar Estatal (radarestatal.pe): la IA te dice cuáles le convienen a tu empresa.",
-     "shot": "shot-feed.png"
-    },
-    {
-     "role": "cta",
-     "h": "Diciembre no te va a sorprender.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Método de 20 minutos: busca en SEACE lo que tu rubro vendió al Estado el noviembre y diciembre pasado. Esa lista es el borrador del cierre de este año. Mismas entidades, compras parecidas. #seace #licitaciones #mype #proveedoresdelestado #peru",
-    "tt": "Lo que el Estado compró en diciembre pasado se repite 📊 #seace #licitaciones #mype",
-    "fb": "El Estado es más predecible de lo que crees: las compras de fin de año se repiten entre años. Buscar el diciembre pasado de tu rubro en SEACE es leer el borrador del que viene. Radar Estatal (radarestatal.pe) lo hace por ti."
-   },
-   "alt": "Portada: las compras estatales de diciembre pasado anticipan las de este año."
-  },
-  {
-   "slug": "04-octubre-vacio",
-   "slides": [
-    {
-     "role": "story",
-     "plate": "cine-15-reparto",
-     "h": "En noviembre todos quieren, en octubre nadie",
-     "b": "la ventana sin competencia es ahora",
-     "emoji": "⏰"
-    },
-    {
-     "role": "value",
-     "h": "Tres cosas que en noviembre ya no llegan",
-     "b": "· Inscribir o ampliar tu registro RNP: días\n· Línea de fianza: más días\n· Experiencia documentada: semanas\nCualquiera pendiente en noviembre te deja mirando."
-    },
-    {
-     "role": "value",
-     "h": "Haz el chequeo de 10 minutos hoy",
-     "b": "· RNP: ¿activo y en el registro correcto?\n· Banco: ¿tienes línea?\n· Archivo: ¿conformidades a la mano?"
-    },
-    {
-     "role": "stat",
-     "h": "Los que usan Radar Estatal ya vieron venir esto",
-     "b": "radarestatal.pe: tu «radar» del cierre presupuestal."
-    },
-    {
-     "role": "cta",
-     "h": "Octubre vacío, noviembre lleno. Aprovecha el vacío.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "El chequeo de octubre que decide tu noviembre: RNP activo y en el registro correcto, línea de fianza y archivo de conformidades. Tres cosas que toman semanas. Y en noviembre no hay semanas. #licitaciones #rnp #mype #seace #peru",
-    "tt": "En noviembre todos quieren postular, en octubre nadie ⏰ #licitaciones #mype #seace",
-    "fb": "La ventana sin competencia es octubre: mientras nadie mira, tú dejas el RNP en orden, negocias línea de fianza y ordenas conformidades. Cuando llueva en noviembre, decides en horas. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Camioneta de reparto al amanecer: la ventana de preparación de octubre."
-  },
-  {
-   "slug": "05-rnp-no-vence",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "CHEQUEO DE OCTUBRE",
-     "emoji": "🪪",
-     "h": "Tu RNP no vence, pero se te puede caer",
-     "b": "revísalo antes de la temporada alta"
-    },
-    {
-     "role": "value",
-     "h": "La inscripción es indefinida",
-     "b": "No se renueva cada año: se mantiene mientras tu RUC esté activo y habido y tus datos actualizados."
-    },
-    {
-     "role": "value",
-     "h": "Lo que sí te deja fuera",
-     "b": "· Quedar no habido en SUNAT\n· Dar de baja el RUC\n· Estar inhabilitado por sanción\nCualquiera de las tres y no presentas oferta."
-    },
-    {
-     "role": "value",
-     "h": "De paso, revisa qué dice de ti",
-     "b": "Tu ficha es pública: en qué registros estás y desde cuándo. Es lo primero que revisa un comité."
-    },
-    {
-     "role": "stat",
-     "shot": "shot-herramientas.png",
-     "h": "Radar Estatal te muestra fichas sin buscarlas",
-     "b": "radarestatal.pe: investiga cualquier RUC, incluido el tuyo."
-    },
-    {
-     "role": "cta",
-     "h": "Un minuto hoy o una oferta perdida en noviembre.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Mito frecuente: que el RNP vence y hay que renovarlo cada año. No vence. Su vigencia es indefinida mientras tu RUC esté activo y habido en SUNAT. Lo que sí te deja fuera: quedar no habido, dar de baja el RUC o estar inhabilitado por sanción. Revísalo antes de la temporada alta. #rnp #licitaciones #seace #mype #peru",
-    "tt": "Tu RNP no vence, pero se te puede caer 🪪 #rnp #licitaciones #mype",
-    "fb": "Aclaración que ahorra sustos: el RNP no se renueva cada año, su vigencia es indefinida. Lo que sí te saca del juego es quedar no habido en SUNAT, dar de baja el RUC o estar inhabilitado por sanción. Un minuto de chequeo hoy vale una oferta en noviembre. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "El RNP tiene vigencia indefinida: qué situaciones sí impiden presentar ofertas."
-  },
-  {
-   "slug": "06-sin-carta-fianza",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El banco no es tu única puerta al Estado",
-     "emoji": "🚪"
-    },
-    {
-     "role": "value",
-     "h": "Para MYPE existe la retención",
-     "b": "Una MYPE puede dar como garantía de fiel cumplimiento la retención de parte del pago. Confírmalo en las bases."
-    },
-    {
-     "role": "value",
-     "h": "El intercambio: cobras después, no pagas antes",
-     "b": "La fianza cuesta plata por adelantado; la retención descuenta del pago que te van a hacer."
-    },
-    {
-     "role": "stat",
-     "h": "Filtra procesos a tu medida",
-     "b": "Radar Estatal (radarestatal.pe): la IA marca los que le convienen a tu empresa."
-    },
-    {
-     "role": "cta",
-     "h": "Sin banco también se llega.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Dato que abre puertas: una MYPE puede usar la retención del pago como garantía de fiel cumplimiento en lugar de la carta fianza, sin tope de monto. Cobras después en lugar de pagar antes. Revisa tus bases. #mype #licitaciones #cartafianza #seace #peru",
-    "tt": "El banco no es tu única puerta al Estado 🚪 #mype #licitaciones #seace",
-    "fb": "¿Sabías que una MYPE puede reemplazar la carta fianza por retención del pago, sin límite de monto de contrato? El intercambio: cobras después, no pagas antes. Para caja chica, es la diferencia entre postular o quedarse mirando. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Portada: la retención como alternativa a la carta fianza para MYPEs."
-  },
-  {
-   "slug": "07-registro-visitas",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "DATO PÚBLICO",
-     "emoji": "📋",
-     "h": "Las entidades publican quién las visita, todos los días",
-     "b": "y es dato abierto"
-    },
-    {
-     "role": "value",
-     "h": "Se llama Registro de Visitas en Línea",
-     "b": "Publican el visitante, a quién representa, el funcionario visitado, su cargo y el motivo."
-    },
-    {
-     "role": "value",
-     "h": "Sale solo, no hay que pedirlo",
-     "b": "No se pide por transparencia: se publica a diario, en datos abiertos y reutilizable."
-    },
-    {
-     "role": "value",
-     "h": "Léelo como contexto de tu entidad",
-     "b": "Te dice quién está a cargo y qué tan movida está el área que compra lo tuyo."
-    },
-    {
-     "role": "stat",
-     "shot": "shot-datos.png",
-     "h": "Sin entrar al portal cada día",
-     "b": "Radar Estatal (radarestatal.pe) te avisa cuando una entidad que sigues publica movimiento."
-    },
-    {
-     "role": "cta",
-     "h": "Ya era público. Ahora te llega.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "El Registro de Visitas en Línea es obligatorio para las entidades del Estado peruano: publican a diario quién las visitó, a quién representa, qué funcionario lo recibió y con qué motivo. En datos abiertos y sin pedir permiso. Para un proveedor es contexto real de la entidad que compra lo suyo. Radar Estatal (radarestatal.pe) te avisa cuando se publica. #licitaciones #seace #transparencia #mype #peru",
-    "tt": "Las entidades publican quién las visita, todos los días 📋 #licitaciones #seace #peru",
-    "fb": "Poca gente sabe que el registro de visitas de las entidades del Estado es obligatorio, se publica a diario y es dato abierto: visitante, a quién representa, funcionario visitado, cargo y motivo. Es contexto útil para un proveedor, no un atajo: al proceso se sigue entrando por las bases. Radar Estatal (radarestatal.pe) te avisa cuando se publica en las entidades que sigues."
-   },
-   "alt": "El Registro de Visitas en Línea de las entidades del Estado peruano, público y de publicación diaria."
-  },
-  {
-   "slug": "08-feriado-plazos",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "FERIADO",
-     "h": "El feriado engaña a los que cuentan de memoria",
-     "b": "tus plazos pueden seguir corriendo",
-     "emoji": "📅"
-    },
-    {
-     "role": "value",
-     "h": "Manda el cronograma, no tu cálculo",
-     "b": "Así no: contar los días de memoria\nAsí sí: las fechas exactas que publicó la entidad"
-    },
-    {
-     "role": "value",
-     "h": "Hábiles y calendario no son lo mismo",
-     "b": "Así no: asumir que todo se congela\nAsí sí: cada etapa tiene su forma de contar"
-    },
-    {
-     "role": "value",
-     "h": "La oferta no espera al lunes",
-     "b": "Así no: «lo veo después del feriado»\nAsí sí: deadline con alarma un día antes"
-    },
-    {
-     "role": "stat",
-     "h": "El «radar» no toma feriados",
-     "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE y avisos antes de cada cierre."
-    },
-    {
-     "role": "cta",
-     "h": "Descansa tú. Tu cronograma no.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "El feriado engaña al que cuenta plazos de memoria: manda el cronograma publicado por la entidad, los días hábiles y calendario se cuentan distinto y la oferta no espera al lunes. Radar Estatal (radarestatal.pe) avisa antes de cada cierre. #licitaciones #SEACE #feriado #mype #peru #contratacionesdelestado",
-    "tt": "El feriado engaña a los que cuentan de memoria 📅 #licitaciones #SEACE #mype #peru",
-    "fb": "Feriado largo y proveedores relajados: combinación cara. Algunas etapas de un proceso corren de corrido aunque tú descanses. La regla es una: manda el cronograma publicado, no tu cálculo. Alarma un día antes de cada cierre. radarestatal.pe no toma feriados."
-   },
-   "alt": "Errores al contar plazos de licitación en feriados y la regla del cronograma publicado."
-  },
-  {
-   "slug": "09-pac-2027",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "PAC 2027",
-     "h": "El Estado ya escribe su lista de compras 2027",
-     "emoji": "🕵"
-    },
-    {
-     "role": "value",
-     "h": "Se llama PAC y es público",
-     "b": "El Plan Anual de Contrataciones dice qué piensa comprar cada entidad. Se publica en el SEACE."
-    },
-    {
-     "role": "value",
-     "h": "Léelo como borrador, no como promesa",
-     "b": "El PAC se modifica durante el año, pero te adelanta rubros, entidades y magnitudes. Para planear tu enero, es la mejor pista disponible."
-    },
-    {
-     "role": "value",
-     "h": "Busca el PAC de tu entidad objetivo",
-     "b": "En la ficha de la entidad está su plan. Si tu rubro aparece, ya sabes a quién buscar en enero."
-    },
-    {
-     "role": "stat",
-     "h": "Enero empieza en octubre",
-     "b": "Radar Estatal (radarestatal.pe): los que ya lo usan reciben su rubro sin buscarlo.",
-     "shot": "shot-feed.png"
-    },
-    {
-     "role": "cta",
-     "h": "El que lee el plan llega primero.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "El Plan Anual de Contrataciones 2027 se está escribiendo ahora. Y es público. Leer el PAC de tu entidad objetivo es saber qué comprará en enero antes que nadie. #pac #licitaciones #seace #mype #peru",
-    "tt": "El Estado ya escribe su lista de compras 2027 🕵 #licitaciones #seace #pac",
-    "fb": "El PAC (Plan Anual de Contrataciones) del próximo año se publica en el SEACE y cualquiera lo puede leer. Es un borrador, pero te adelanta rubros, entidades y magnitudes para planear tu enero. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Portada: el PAC 2027 ya se está escribiendo y es público."
-  },
-  {
-   "slug": "10-filtro-noviembre",
-   "slides": [
-    {
-     "role": "story",
-     "plate": "cine-13-bases",
-     "h": "En noviembre vas a querer postular a todo",
-     "b": "ese es exactamente el error",
-     "emoji": "🛑"
-    },
-    {
-     "role": "value",
-     "h": "El filtro de 10 minutos antes de decir sí",
-     "b": "· Objeto: ¿es lo tuyo de verdad?\n· Plazo: ¿llegas sin morir?\n· Garantía: ¿resuelta?\n· Experiencia: ¿la acreditas con papeles?"
-    },
-    {
-     "role": "value",
-     "h": "Postular apurado sale caro",
-     "b": "Un contrato que no puedes cumplir termina en penalidades y, en el peor caso, en sanción.",
-     "emoji": "🚫"
-    },
-    {
-     "role": "stat",
-     "h": "El «radar» filtra antes que tú",
-     "b": "Radar Estatal (radarestatal.pe): la IA descarta lo que no te conviene."
-    },
-    {
-     "role": "cta",
-     "h": "Di que no rápido para decir que sí bien.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "El error de noviembre no es postular poco: es postular a todo. El filtro de 10 minutos. Objeto, plazo, garantía, experiencia. Separa la oportunidad del problema con penalidades. #licitaciones #seace #mype #contratacionespublicas #peru",
-    "tt": "En noviembre vas a querer postular a todo. Error 🛑 #licitaciones #mype #seace",
-    "fb": "Cuando lluevan convocatorias vas a querer decir sí a todas. El filtro de 10 minutos (objeto, plazo, garantía, experiencia) te salva de contratos incumplibles y penalidades que manchan tu historial. Radar Estatal (radarestatal.pe) filtra contigo."
-   },
-   "alt": "Pila de bases de licitación: el filtro antes de postular."
-  },
-  {
-   "slug": "11-lista-negra",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El Estado tiene lista negra y es pública",
-     "emoji": "🚫"
-    },
-    {
-     "role": "value",
-     "h": "Se llama registro de inhabilitados",
-     "b": "Empresas y personas sancionadas para contratar con el Estado, con periodo y motivo. En el portal del OECE."
-    },
-    {
-     "role": "value",
-     "h": "Revísalo antes de asociarte",
-     "b": "¿Consorcio nuevo? ¿Proveedor que te subcontrata? Un socio inhabilitado puede tumbar tu oferta entera. Dos minutos de búsqueda te salvan."
-    },
-    {
-     "role": "stat",
-     "h": "Investiga cualquier RUC en segundos",
-     "b": "Radar Estatal (radarestatal.pe): historial y fichas en un solo lugar.",
-     "shot": "shot-herramientas.png"
-    },
-    {
-     "role": "cta",
-     "h": "Socio se investiga antes, no después.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Antes de firmar un consorcio, dos minutos de búsqueda: el registro de inhabilitados del OECE es público y un socio sancionado puede tumbar tu oferta entera. #licitaciones #consorcio #oece #mype #peru",
-    "tt": "El Estado tiene lista negra y es pública 🚫 #licitaciones #oece #mype",
-    "fb": "El registro de inhabilitados es público: empresas y personas sancionadas para contratar con el Estado, con periodo y motivo. Revísalo antes de asociarte en consorcio. No después. Radar Estatal (radarestatal.pe) te muestra historiales por RUC."
-   },
-   "alt": "Portada: el registro público de inhabilitados para contratar con el Estado."
-  },
-  {
-   "slug": "12-contrato-no-es-inicio",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Firmar el contrato no es empezar a trabajar",
-     "emoji": "✍"
-    },
-    {
-     "role": "value",
-     "h": "Después de la buena pro falta camino",
-     "b": "Consentimiento, presentación de documentos, firma y recién la orden de compra o de servicio. Cada paso tiene su plazo y sus papeles."
-    },
-    {
-     "role": "value",
-     "h": "El error clásico: comprar antes de la orden",
-     "b": "Invertir en mercadería apenas ganas es apostar. Espera la orden. Es la señal de que el reloj de entrega corre de verdad."
-    },
-    {
-     "role": "stat",
-     "h": "El proceso completo, vigilado",
-     "b": "Radar Estatal (radarestatal.pe) te acompaña de la convocatoria a la buena pro."
-    },
-    {
-     "role": "cta",
-     "h": "Gana, firma, y recién corre.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Ganar la buena pro no es el final: falta consentimiento, documentos, firma y la orden de compra. El error clásico es invertir en mercadería antes de la orden. #licitaciones #buenapro #seace #mype #peru",
-    "tt": "Firmar el contrato no es empezar a trabajar ✍ #licitaciones #buenapro #mype",
-    "fb": "Después de la buena pro viene un camino con plazos propios: consentimiento, documentos, firma, orden de compra. Comprar mercadería antes de la orden es apostar. Radar Estatal (radarestatal.pe) te acompaña en todo el proceso."
-   },
-   "alt": "Portada: los pasos entre la buena pro y la orden de compra."
-  },
-  {
-   "slug": "13-sigue-entidades",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "MÉTODO",
-     "h": "Sigue entidades, no solo procesos",
-     "emoji": "🧭"
-    },
-    {
-     "role": "value",
-     "h": "Un proceso dura semanas; una entidad, años",
-     "b": "El que solo mira convocatorias empieza de cero cada vez. El que sigue entidades acumula contexto."
-    },
-    {
-     "role": "value",
-     "h": "Elige tres y ponles seguimiento",
-     "b": "· Las que ya compraron tu rubro\n· Las de tu región\n· Las que tienen presupuesto por ejecutar"
-    },
-    {
-     "role": "value",
-     "h": "Qué se vigila de cada una",
-     "b": "· Sus convocatorias nuevas\n· Sus designaciones de funcionarios\n· Su registro de visitas"
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "shot-feed.png",
-     "h": "Tres entidades, un solo tablero",
-     "b": "Radar Estatal (radarestatal.pe) vigila las entidades que elijas y te avisa de cada movimiento."
-    },
-    {
-     "role": "cta",
-     "h": "Tres entidades seguidas valen más que mil miradas.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Cómo vender al Estado con método: sigue entidades, no solo procesos sueltos. Elige tres (las que ya compraron tu rubro, las de tu región y las que tienen presupuesto por ejecutar) y vigila de cada una sus convocatorias nuevas, sus designaciones de funcionarios y su registro de visitas. Un proceso dura semanas; una entidad, años. Radar Estatal (radarestatal.pe) vigila por ti las entidades que elijas. #contratacionespublicas #seace #mype #proveedordelestado #peru",
-    "tt": "Sigue entidades, no procesos 🧭 el método completo #seace #licitaciones #mype #peru",
-    "fb": "El proveedor que solo mira convocatorias empieza de cero cada vez. El que sigue tres entidades acumula contexto: sus compras, sus cambios de funcionario y su movimiento diario. ¿Cuáles serían tus tres entidades?"
-   },
-   "alt": "Método para seguir entidades del Estado: convocatorias, designaciones de funcionarios y registro de visitas."
-  },
-  {
-   "slug": "14-desiertos-diciembre",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "MITO",
-     "h": "En diciembre también sobran procesos sin postores",
-     "emoji": "🤨"
-    },
-    {
-     "role": "value",
-     "h": "El mito muere con un dato",
-     "b": "Cada fin de año hay procesos que quedan desiertos: nadie postuló. La verdad es simple: nadie llegó."
-    },
-    {
-     "role": "value",
-     "h": "El desierto navideño es tu enero",
-     "b": "Un desierto se reconvoca, muchas veces con requisitos ajustados y menos competencia. Lista los de tu rubro en diciembre y espera la segunda llamada."
-    },
-    {
-     "role": "stat",
-     "h": "Más de 200 mil procesos en la base",
-     "b": "Radar Estatal (radarestatal.pe): incluidos los que nadie miró."
-    },
-    {
-     "role": "cta",
-     "h": "Mientras otros sospechan, tú postulas.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "¿Fin de año arreglado? El dato dice otra cosa: cada diciembre quedan procesos desiertos porque nadie postuló. Y un desierto reconvocado es una segunda llamada con menos competencia. #licitaciones #seace #desiertos #mype #peru",
-    "tt": "En diciembre también sobran procesos sin postores 🤨 #licitaciones #seace #mype",
-    "fb": "El mito dice que diciembre ya está cocinado. El dato dice que cada fin de año quedan procesos desiertos: nadie llegó. La reconvocatoria trae requisitos ajustados y menos postores. Ahí entra el preparado. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Portada: los procesos desiertos de diciembre desmienten el mito del arreglo."
-  },
-  {
-   "slug": "15-fianza-antes",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Al banco se va antes de ganar",
-     "b": "después ya es tarde",
-     "emoji": "🏦"
-    },
-    {
-     "role": "value",
-     "h": "Línea hoy, carta cuando ganes",
-     "b": "Así no: pedir la carta con el plazo encima\nAsí sí: línea aprobada esperando su proceso"
-    },
-    {
-     "role": "value",
-     "h": "El banco también tiene cronograma",
-     "b": "Así no: asumir que emiten en un día\nAsí sí: evaluación y emisión toman días, cuéntalos"
-    },
-    {
-     "role": "value",
-     "h": "Cotiza más de una puerta",
-     "b": "Así no: casarte con tu único banco\nAsí sí: cajas y afianzadoras también compiten"
-    },
-    {
-     "role": "stat",
-     "shot": "shot-feed.png",
-     "h": "Sabrás para qué proceso emitirla",
-     "b": "Radar Estatal (radarestatal.pe): la IA te dice qué procesos valen tu garantía."
-    },
-    {
-     "role": "cta",
-     "h": "La fianza se gana en el banco, antes.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "La carta fianza se pierde por tiempos, no por montos: la línea se negocia hoy y la carta se emite cuando ganas, el banco tiene sus propios plazos y las cajas y afianzadoras también compiten. Radar Estatal (radarestatal.pe) te dice qué procesos valen tu garantía. #cartafianza #licitaciones #mype #SEACE #peru",
-    "tt": "Al banco se va antes de ganar 🏦 después ya es tarde #licitaciones #mype #SEACE #peru",
-    "fb": "Hay buenas pro que se caen después de ganadas: la fianza no llegó a tiempo. La conversación con el banco va antes de postular: línea aprobada esperando su proceso, plazos del banco contados y más de una puerta cotizada. radarestatal.pe"
-   },
-   "alt": "Cuándo gestionar la carta fianza: línea antes de postular frente a correr al banco tras ganar."
-  },
-  {
-   "slug": "16-factura-requisito",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tu factura de hoy es tu requisito de mañana",
-     "emoji": "🧾"
-    },
-    {
-     "role": "value",
-     "h": "La experiencia se prueba con papeles",
-     "b": "Contratos, órdenes, facturas y la joya: conformidades. Sin el papel, tu experiencia no existe para un comité, por real que sea."
-    },
-    {
-     "role": "value",
-     "h": "Arma el archivo una vez, úsalo siempre",
-     "b": "Una carpeta por contrato: contrato, factura y conformidad. En físico y en nube."
-    },
-    {
-     "role": "stat",
-     "h": "Tu historial también es visible para otros",
-     "b": "Radar Estatal (radarestatal.pe): así como investigas, te investigan."
-    },
-    {
-     "role": "cta",
-     "h": "Guarda hoy, acredita mañana.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "La experiencia que no está en papeles no existe para un comité. La carpeta que salva ofertas: contrato + factura + conformidad por cada trabajo cumplido, en físico y en nube. #licitaciones #experiencia #mype #seace #peru",
-    "tt": "Tu factura de hoy es tu requisito de mañana 🧾 #licitaciones #mype #seace",
-    "fb": "¿Pediste tu conformidad? Contratos, facturas y conformidades son la moneda con la que se acredita experiencia ante el Estado. El archivo se arma una vez y se usa toda la vida. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Portada: archivar contratos, facturas y conformidades para acreditar experiencia."
-  },
-  {
-   "slug": "17-entidades-diciembre",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "No todas las entidades cierran el año igual",
-     "emoji": "🗓"
-    },
-    {
-     "role": "value",
-     "h": "Cada una ejecuta a su ritmo",
-     "b": "Algunas ejecutan parejo todo el año; otras concentran al final. El historial es público en el SEACE."
-    },
-    {
-     "role": "value",
-     "h": "Arma tu lista de entidades de diciembre",
-     "b": "Busca cuáles de tu rubro convocaron en noviembre y diciembre pasados."
-    },
-    {
-     "role": "stat",
-     "h": "El «radar» sigue trabajando en diciembre",
-     "b": "Radar Estatal (radarestatal.pe), tu feed del SEACE sin descanso.",
-     "shot": "shot-herramientas.png"
-    },
-    {
-     "role": "cta",
-     "h": "Disponible cuando otros brindan.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "No todas las entidades cierran el año igual: unas ejecutan parejo y otras concentran al final. El historial de convocatorias es público en el SEACE, así que puedes armar tu lista de las que compran tu rubro en diciembre. #licitaciones #seace #mype #contratacionespublicas #peru",
-    "tt": "No todas las entidades cierran el año igual 🗓 #licitaciones #seace #mype",
-    "fb": "No todas las entidades cierran igual: algunas ejecutan parejo y otras concentran las compras al final del año. El historial de convocatorias es público en el SEACE. Arma tu lista y sé el proveedor disponible cuando todos brindan. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Portada: cada entidad cierra su año fiscal a un ritmo distinto."
-  },
-  {
-   "slug": "18-precio-no-gana",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El precio más bajo no siempre gana",
-     "emoji": "⚖"
-    },
-    {
-     "role": "value",
-     "h": "Las bases traen un cuadro de puntajes",
-     "b": "Precio pesa, pero también plazo ofertado, garantía adicional y experiencia. El cuadro de evaluación de cada proceso dice cuánto vale cada punto."
-    },
-    {
-     "role": "value",
-     "h": "Gana puntos que no cuestan plata",
-     "b": "Mejorar plazo cuando tu logística aguanta, o acreditar experiencia que ya tienes, sube puntaje."
-    },
-    {
-     "role": "stat",
-     "h": "Estudia cómo ganó el último",
-     "b": "Radar Estatal (radarestatal.pe): mira las adjudicaciones de tu rubro por RUC."
-    },
-    {
-     "role": "cta",
-     "h": "Se gana en el cuadro, no solo en el precio.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Antes de bajar tu precio, abre el cuadro de evaluación: plazo, garantía y experiencia también puntúan. Y esos puntos no cuestan margen. #licitaciones #seace #mype #buenapro #peru",
-    "tt": "El precio más bajo no siempre gana ⚖ #licitaciones #seace #mype",
-    "fb": "El cuadro de evaluación de las bases dice exactamente cuánto vale cada punto: precio, plazo, garantía, experiencia. Los puntos gratis (plazo realista, experiencia ya acreditada) se toman antes de tocar el margen. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Portada: el cuadro de evaluación pesa más que solo el precio."
-  },
-  {
-   "slug": "19-decidir-en-horas",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Noviembre te va a pedir decidir en horas",
-     "emoji": "⚡"
-    },
-    {
-     "role": "value",
-     "h": "Los plazos del cierre son mínimos",
-     "b": "Las convocatorias de fin de año salen con los días contados. El que necesita una semana para decidir, decide tarde."
-    },
-    {
-     "role": "value",
-     "h": "Deja la decisión armada de antemano",
-     "b": "Tu filtro sí/no escrito, plantilla de oferta lista y claro quién firma qué. Decidir rápido es haberlo decidido antes."
-    },
-    {
-     "role": "stat",
-     "h": "El aviso llega el día uno",
-     "b": "Radar Estatal (radarestatal.pe) te muestra lo nuevo de tu rubro sin buscarlo.",
-     "shot": "shot-datos.png"
-    },
-    {
-     "role": "cta",
-     "h": "Horas para otros, minutos para ti.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "En la temporada alta las convocatorias salen con los días contados. Decidir rápido no es correr: es tener el filtro escrito, la plantilla lista y las firmas claras desde octubre. #licitaciones #seace #mype #contratacionespublicas #peru",
-    "tt": "Noviembre te va a pedir decidir en horas ⚡ #licitaciones #mype #seace",
-    "fb": "El que necesita una semana para decidir, decide tarde. La decisión se arma antes en octubre: filtro sí/no escrito, plantilla de oferta y responsables claros. Radar Estatal (radarestatal.pe) te avisa el día uno."
-   },
-   "alt": "Portada: preparar la decisión rápida para los plazos cortos de noviembre."
-  },
-  {
-   "slug": "20-constructora-diciembre",
-   "slides": [
-    {
-     "role": "story",
-     "plate": "cine-12-obra",
-     "h": "La constructora que ganó en pleno diciembre",
-     "b": "una historia de octubre bien usado",
-     "emoji": "🏗"
-    },
-    {
-     "role": "value",
-     "h": "Octubre: carpeta; noviembre: puntería",
-     "b": "· RNP renovado\n· Línea de fianza lista\n· Conformidades ordenadas\nCuando llovieron convocatorias aplicó su filtro y eligió dos."
-    },
-    {
-     "role": "value",
-     "h": "Diciembre: el desierto reconvocado",
-     "b": "Una quedó desierta en primera llamada. En la segunda, con requisitos ajustados y menos postores, su oferta ordenada se llevó la buena pro."
-    },
-    {
-     "role": "stat",
-     "h": "El método existe, el «radar» lo acelera",
-     "b": "Radar Estatal (radarestatal.pe): de la convocatoria a la buena pro."
-    },
-    {
-     "role": "cta",
-     "h": "Tu diciembre se construye este mes.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Historia tipo de la temporada alta: carpeta lista en octubre, filtro en noviembre, y en diciembre la reconvocatoria de un desierto con menos competencia. Así se gana fin de año. #licitaciones #seace #mype #obras #peru",
-    "tt": "La constructora que ganó su primera obra en pleno diciembre 🏗 #licitaciones #mype",
-    "fb": "Octubre: carpeta. Noviembre: puntería (dos procesos, no veinte). Diciembre: la segunda convocatoria de un desierto, con requisitos ajustados y menos postores. El método del cierre existe. Radar Estatal (radarestatal.pe) lo acelera."
-   },
-   "alt": "Obra en construcción al amanecer: la historia del cierre de año bien jugado."
-  },
-  {
-   "slug": "21-designacion-mueve-cronograma",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "TEMPORADA ALTA",
-     "h": "Una designación nueva puede mover tu cronograma",
-     "emoji": "🚦"
-    },
-    {
-     "role": "value",
-     "h": "El cambio de titular toma tiempo",
-     "b": "Firmas, encargaturas y aprobaciones se reacomodan. En pleno cierre presupuestal, eso se nota."
-    },
-    {
-     "role": "value",
-     "h": "Qué revisar esa semana",
-     "b": "· Si tu proceso sigue en fecha\n· Si el cronograma se reprogramó\n· Si aparecieron avisos nuevos"
-    },
-    {
-     "role": "value",
-     "h": "No es motivo para retirarte",
-     "b": "El proceso sigue su norma. Lo único que cambia es cuánto necesitas mirarlo."
-    },
-    {
-     "role": "stat",
-     "h": "El aviso llega el día de la resolución",
-     "b": "Radar Estatal (radarestatal.pe) te avisa de designaciones y del movimiento de los procesos que sigues."
-    },
-    {
-     "role": "cta",
-     "h": "En noviembre, cada cambio importa.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Designación de funcionarios y cronograma de un proceso: cuando cambia el titular de una entidad, firmas, encargaturas y aprobaciones se reacomodan, y en pleno cierre presupuestal eso se nota. Revisa esa semana si tu proceso sigue en fecha, si el cronograma se reprogramó y si aparecieron avisos nuevos. No es motivo para retirarte: el proceso sigue su norma. Radar Estatal (radarestatal.pe) te avisa de designaciones en las entidades que sigues. #contratacionespublicas #seace #cierrepresupuestal #mype #peru",
-    "tt": "Cambió el titular de la entidad 🚦 revisa tu cronograma esta semana #seace #licitaciones #peru",
-    "fb": "En el cierre del año, un cambio de titular en una entidad puede reacomodar firmas y aprobaciones, y eso se siente en los cronogramas. La designación es pública y sale por resolución. ¿Revisas los procesos que sigues cuando eso pasa?"
-   },
-   "alt": "Efecto práctico de una designación de funcionario sobre el cronograma de un proceso de selección."
-  },
-  {
-   "slug": "22-tu-region",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Tu región es la cancha donde tu logística gana",
-     "emoji": "📍"
-    },
-    {
-     "role": "value",
-     "h": "Filtra por tu departamento",
-     "b": "Así no: solo el ruido nacional\nAsí sí: municipios y gobiernos regionales de tu zona"
-    },
-    {
-     "role": "value",
-     "h": "Compite donde tu logística gana",
-     "b": "Así no: pelear procesos grandes en Lima\nAsí sí: lo chico local, donde entregar te sale natural"
-    },
-    {
-     "role": "value",
-     "h": "Apunta tus entidades vecinas",
-     "b": "Así no: venderle «al Estado» en abstracto\nAsí sí: tres entidades locales estudiadas"
-    },
-    {
-     "role": "stat",
-     "h": "El «radar» filtra por rubro y por zona",
-     "b": "Radar Estatal (radarestatal.pe), gratis y sin cuenta."
-    },
-    {
-     "role": "cta",
-     "h": "Tu cancha queda cerca de tu casa.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Tu ventaja real es la logística: filtra el SEACE por tu departamento, compite donde tu logística gana y estudia tres entidades vecinas en vez de venderle «al Estado» en abstracto. Radar Estatal (radarestatal.pe) filtra por rubro y zona. #licitaciones #SEACE #mype #regiones #peru #contratacionesdelestado",
-    "tt": "Tu región es la cancha donde tu logística gana 📍 #licitaciones #SEACE #mype #peru",
-    "fb": "Entregar cerca de casa te cuesta menos que a un postor de otra región: tu dirección y tu logística son ventaja real. Filtra por tu departamento, apunta a tus municipios y estudia tres entidades vecinas. radarestatal.pe, gratis y sin cuenta."
-   },
-   "alt": "Ventaja logística en licitaciones: filtrar por región y estudiar entidades vecinas."
-  },
-  {
-   "slug": "23-compra-inimaginable",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El Estado compra cosas que ni imaginas",
-     "emoji": "🎁"
-    },
-    {
-     "role": "value",
-     "h": "Talleres, catering, alquileres, mantenimiento",
-     "b": "No todo es obra y cemento: hay órdenes por impresión, capacitación, transporte, limpieza, hasta eventos. Si facturas, probablemente hay un proceso para lo tuyo."
-    },
-    {
-     "role": "value",
-     "h": "Búscate con palabra clave, no con prejuicio",
-     "b": "En SEACE busca lo que vendes con tus propias palabras y sus variantes. La primera sorpresa suele llegar en la primera página."
-    },
-    {
-     "role": "stat",
-     "h": "La IA te dice si tu rubro aparece",
-     "b": "Radar Estatal (radarestatal.pe): recomendaciones para tu empresa.",
-     "shot": "shot-herramientas.png"
-    },
-    {
-     "role": "cta",
-     "h": "Deja que te sorprenda.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "El Estado no solo compra cemento: talleres, catering, impresión, transporte, mantenimiento, eventos. Si facturas, probablemente hay un proceso para lo tuyo. Búscalo con tus propias palabras. #licitaciones #seace #mype #negocios #peru",
-    "tt": "El Estado compra cosas que ni imaginas 🎁 #licitaciones #seace #mype",
-    "fb": "¿Crees que lo tuyo no se licita? Busca en SEACE con tus propias palabras: capacitación, catering, impresión, alquileres, mantenimiento. La primera sorpresa llega en la primera página. Radar Estatal (radarestatal.pe) te lo dice solo."
-   },
-   "alt": "Portada: la variedad inesperada de compras del Estado."
-  },
-  {
-   "slug": "24-seace-no-descansa",
-   "slides": [
-    {
-     "role": "story",
-     "plate": "cine-01-ventana",
-     "h": "El SEACE no descansa y tú revisas cuando puedes",
-     "emoji": "🌙"
-    },
-    {
-     "role": "value",
-     "h": "Rutina fija, no voluntad",
-     "b": "Así no: revisar «cuando haya tiempo»\nAsí sí: lunes y jueves, 10 minutos con filtros"
-    },
-    {
-     "role": "value",
-     "h": "La fuente decide tu velocidad",
-     "b": "Así no: enterarte por boca a boca, días tarde\nAsí sí: alerta o revisión corta, el día uno"
-    },
-    {
-     "role": "value",
-     "h": "El feriado no pausa nada",
-     "b": "Así no: volver el martes a ver qué pasó\nAsí sí: los plazos corrieron, revísalos igual"
-    },
-    {
-     "role": "stat",
-     "h": "O duerme tranquilo con el «radar» prendido",
-     "b": "Radar Estatal (radarestatal.pe) vigila por ti, hasta en feriados."
-    },
-    {
-     "role": "cta",
-     "h": "Revisar poco está bien. Revisar fijo, mejor.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "El SEACE publica cualquier día y el que revisa «cuando puede» se entera tarde: rutina fija de lunes y jueves con filtros guardados, fuente rápida para enterarte el día uno y ojo con los plazos que corren en feriados. Radar Estatal (radarestatal.pe) vigila por ti. #SEACE #licitaciones #mype #contratacionesdelestado #peru",
-    "tt": "El SEACE no descansa y tú revisas cuando puedes 🌙 #SEACE #licitaciones #mype #peru",
-    "fb": "Las convocatorias no respetan tu finde: se publican cualquier día. La diferencia entre enterarse el día uno y el día ocho es la fuente y la rutina: lunes y jueves fijos con filtros guardados, o una alerta que trabaja sola. radarestatal.pe vigila hasta en feriados."
-   },
-   "alt": "Rutina fija para revisar el SEACE frente a revisarlo cuando se puede."
-  },
-  {
-   "slug": "25-sin-local",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "El Estado no te pide local, te pide cumplir",
-     "emoji": "🏠"
-    },
-    {
-     "role": "value",
-     "h": "Los requisitos de verdad",
-     "b": "RUC activo y habido, RNP en el registro correcto y capacidad de cumplir. Nadie pregunta por tu oficina."
-    },
-    {
-     "role": "value",
-     "h": "Dónde sí pesa la infraestructura",
-     "b": "Obras y algunos servicios piden equipamiento o personal acreditado. Siempre está escrito en las bases. Si no lo piden, no lo inventes como excusa."
-    },
-    {
-     "role": "stat",
-     "h": "Postula desde donde estés",
-     "b": "Radar Estatal (radarestatal.pe) lleva el SEACE a tu celular.",
-     "shot": "shot-datos.png"
-    },
-    {
-     "role": "cta",
-     "h": "Cumplir pesa más que aparentar.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Mito de oficina: para venderle al Estado no necesitas local imponente. Necesitas RUC activo y habido, RNP en el registro correcto y capacidad de cumplir. Lo demás lo dicen las bases, no tu fachada. #licitaciones #mype #rnp #seace #peru",
-    "tt": "El Estado no te pide local, te pide cumplir 🏠 #licitaciones #mype #seace",
-    "fb": "¿Sin oficina grande no se puede? Falso: la mayoría de bienes y servicios piden RUC, RNP en el registro correcto y capacidad de cumplir. Donde sí pesa infraestructura (obras, ciertos servicios), las bases lo dicen por escrito. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Portada: los requisitos reales para venderle al Estado, sin mitos de local."
-  },
-  {
-   "slug": "26-ranking-rubro",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "INTELIGENCIA",
-     "emoji": "📊",
-     "h": "Arma el ranking de quién más gana en tu rubro",
-     "b": "sale de datos públicos"
-    },
-    {
-     "role": "value",
-     "h": "Ordena las adjudicaciones del año",
-     "b": "Busca las buenas pro del año en tu rubro y agrúpalas por RUC ganador. Ese es tu mapa real."
-    },
-    {
-     "role": "value",
-     "h": "Al líder se le estudia",
-     "b": "· ¿A qué entidades les vende?\n· ¿En qué procesos entra y en cuáles no?\n· ¿Solo o en consorcio?"
-    },
-    {
-     "role": "value",
-     "h": "Ojo con los consorcios",
-     "b": "Una victoria en consorcio se reparte: un ranking por ganador puede esconder socios."
-    },
-    {
-     "role": "stat",
-     "h": "El ranking sale en minutos, no en tardes",
-     "b": "Radar Estatal (radarestatal.pe): historial por RUC al instante."
-    },
-    {
-     "role": "cta",
-     "h": "Estudia al que gana, juega tu partido.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Las adjudicaciones del año en tu rubro son públicas: agrúpalas por RUC ganador y tendrás tu mapa de rivales reales. Un detalle que casi nadie considera: las victorias en consorcio se reparten, así que el ranking puede esconder socios. #licitaciones #seace #mype #peru",
-    "tt": "Arma el ranking de quién más gana en tu rubro 📊 #licitaciones #seace #mype",
-    "fb": "¿Quién ganó más procesos de tu rubro este año? ¿A qué entidades les vende? ¿Solo o en consorcio? El patrón del que más gana es una clase gratis. Ojo con los consorcios: una victoria compartida puede esconder a varios. Radar Estatal (radarestatal.pe) saca el ranking en minutos."
-   },
-   "alt": "Ranking de empresas que más ganan en un rubro y el matiz de las victorias en consorcio."
-  },
-  {
-   "slug": "27-carpeta-lista",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "CHECKLIST",
-     "h": "Deja tu carpeta lista antes del 1 de noviembre",
-     "emoji": "✅"
-    },
-    {
-     "role": "value",
-     "h": "Papeles: RNP y archivo de experiencia",
-     "b": "· RNP activo y en el registro correcto\n· Una carpeta por contrato: contrato, factura, conformidad\nEs la mitad de cualquier oferta."
-    },
-    {
-     "role": "value",
-     "h": "Plata: la garantía ya resuelta",
-     "b": "Línea de fianza aprobada o retención identificada como alternativa. Que el banco no sea tu cuello de botella de noviembre."
-    },
-    {
-     "role": "value",
-     "h": "Cabeza: filtro y plantillas",
-     "b": "Tu sí/no escrito y una plantilla de oferta con lo repetible ya lleno. Decidir y armar en horas, no en semanas."
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "h": "La carpeta es tuya, el «radar» es nuestro",
-     "b": "Radar Estatal (radarestatal.pe): tu rubro llega solo, gratis.",
-     "shot": "shot-feed.png"
-    },
-    {
-     "role": "cta",
-     "h": "1 de noviembre: tú ya estás listo.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "La checklist del cierre presupuestal: RNP activo + archivo de conformidades + garantía ya resuelta + filtro sí/no + plantilla de oferta. Guárdala: es tu 1 de noviembre. #licitaciones #seace #mype #checklist #peru",
-    "tt": "Deja tu carpeta lista antes del 1 de noviembre ✅ #licitaciones #mype #seace",
-    "fb": "Papeles (RNP + conformidades), plata (línea de fianza o retención) y cabeza (filtro escrito + plantilla). Esa es toda la preparación que separa a los que aprovechan noviembre de los que lo miran pasar. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Checklist completa de preparación para el cierre presupuestal."
-  },
-  {
-   "slug": "28-antes-de-tocar-la-puerta",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "PREPARACIÓN",
-     "h": "Antes de presentarte, mira quién dirige hoy",
-     "emoji": "📇"
-    },
-    {
-     "role": "value",
-     "h": "Llegar con el nombre viejo resta",
-     "b": "Presentarte al funcionario que salió hace meses dice que no investigaste nada."
-    },
-    {
-     "role": "value",
-     "h": "El chequeo de cinco minutos",
-     "b": "· Quién está a cargo del área\n· Desde cuándo\n· Qué compró la entidad en tu rubro"
-    },
-    {
-     "role": "value",
-     "h": "Y todo eso es público",
-     "b": "Designaciones por resolución, visitas publicadas a diario y compras en datos abiertos."
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "shot-herramientas.png",
-     "h": "El chequeo, hecho antes de que preguntes",
-     "b": "Radar Estatal (radarestatal.pe) reúne compras, designaciones y visitas de cada entidad que sigues."
-    },
-    {
-     "role": "cta",
-     "h": "Toca la puerta sabiendo quién la abre.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Antes de presentarte como proveedor ante una entidad del Estado, haz el chequeo de cinco minutos: quién está a cargo del área, desde cuándo y qué compró la entidad en tu rubro. Todo es información pública: las designaciones se formalizan por resolución, el registro de visitas se publica a diario y las compras están en datos abiertos. Llegar con el nombre del funcionario que salió hace meses dice que no investigaste. Radar Estatal (radarestatal.pe) reúne compras, designaciones y visitas de las entidades que sigues. #proveedordelestado #contratacionespublicas #seace #mype #peru",
-    "tt": "Antes de tocar la puerta de una entidad 📇 el chequeo de 5 minutos #seace #licitaciones #mype #peru",
-    "fb": "Presentarte ante una entidad con el nombre del funcionario que salió hace meses cuesta credibilidad. El chequeo toma cinco minutos y es todo información pública: quién está a cargo, desde cuándo y qué ha comprado la entidad en tu rubro."
-   },
-   "alt": "Chequeo previo a presentarse ante una entidad estatal: responsables vigentes, designaciones y compras del rubro."
-  },
-  {
-   "slug": "29-plan-noviembre",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "PARA GUARDAR",
-     "h": "El plan de noviembre cabe en una lámina",
-     "emoji": "📋"
-    },
-    {
-     "role": "value",
-     "h": "La lógica del cierre en 4 líneas",
-     "b": "· El presupuesto vence el 31 de diciembre\n· Llueven procesos con plazos cortos\n· Los desiertos dan segunda chance"
-    },
-    {
-     "role": "value",
-     "h": "Tu semana tipo de noviembre",
-     "b": "· Lunes y jueves: feed y consultas\n· Martes: seguimiento de fichas\n· Al ganar: espera la orden antes de gastar\n· Siempre: filtro antes de decir sí"
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "h": "Todo esto, con «radar» propio",
-     "b": "Radar Estatal (radarestatal.pe): la IA elige, tú decides.",
-     "shot": "shot-herramientas.png"
-    },
-    {
-     "role": "cta",
-     "h": "Guarda esta lámina y vuelve en noviembre.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "El plan completo de noviembre en un carrusel: la lógica del cierre presupuestal + tu semana tipo de proveedor. Guárdalo. Lo vas a abrir varias veces. #licitaciones #seace #mype #cierrepresupuestal #peru",
-    "tt": "El plan de noviembre cabe en una lámina 📋 #licitaciones #seace #mype",
-    "fb": "Presupuesto que vence → lluvia de procesos → gana el preparado → desiertos con segunda chance. Y tu semana tipo: feed lunes y jueves, fichas los martes, filtro siempre. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "El plan de noviembre resumido en una lámina guardable."
-  },
-  {
-   "slug": "30-black-friday",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "CIERRE PRESUPUESTAL",
-     "h": "Mañana empieza el cierre presupuestal",
-     "emoji": "🛒"
-    },
-    {
-     "role": "value",
-     "h": "Noviembre y diciembre concentran el gasto",
-     "b": "Las entidades ejecutan lo que les queda: convocatorias en cadena, plazos mínimos y menos ojos por proceso. Es la temporada del proveedor preparado."
-    },
-    {
-     "role": "value",
-     "h": "Tu primera semana ya está escrita",
-     "b": "Feed diario, filtro en mano, carpeta cerrada. No gana el que corre, sino el que llega listo."
-    },
-    {
-     "role": "stat",
-     "h": "El «radar» entra contigo",
-     "b": "Radar Estatal (radarestatal.pe): más de 200 mil procesos y los tuyos marcados."
-    },
-    {
-     "role": "cta",
-     "h": "Nos vemos adentro.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Mañana arranca el cierre presupuestal: noviembre y diciembre concentran el gasto público en convocatorias con plazos mínimos, porque lo no ejecutado se pierde el 31 de diciembre. Todo octubre fue para esto. #licitaciones #seace #cierrepresupuestal #mype #peru",
-    "tt": "Mañana empieza el cierre presupuestal del Estado 🛒 #licitaciones #seace #mype",
-    "fb": "Convocatorias en cadena, plazos mínimos, menos ojos por proceso: así es el cierre presupuestal. No gana el que corre más. Gana el que llega con la carpeta lista. Radar Estatal (radarestatal.pe) entra contigo."
-   },
-   "alt": "Portada: la víspera del cierre presupuestal del año fiscal."
-  },
-  {
-   "slug": "31-clausulas-duras",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "LEER BASES",
-     "emoji": "⚠",
-     "h": "Las bases traen cláusulas que te pueden hundir",
-     "b": "cuáles se cuestionan y cuáles son señal de irte"
-    },
-    {
-     "role": "value",
-     "h": "Las cuatro que más pesan",
-     "b": "· Penalidad diaria alta\n· Plazo de entrega imposible\n· Experiencia desproporcionada\n· Visita técnica muy lejos"
-    },
-    {
-     "role": "value",
-     "h": "Dos se cuestionan, dos se evitan",
-     "b": "· Por consultas: plazo y experiencia desproporcionada\n· Señal de pasar al siguiente: penalidad que no puedes absorber y visita imposible"
-    },
-    {
-     "role": "value",
-     "h": "Cuestionar tiene fecha",
-     "b": "Solo se observa dentro de la etapa de consultas. Pasado el plazo, la cláusula queda."
-    },
-    {
-     "role": "stat",
-     "shot": "shot-datos.png",
-     "h": "El «radar» te muestra el proceso completo",
-     "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE y una IA que resume requisitos y garantías."
-    },
-    {
-     "role": "cta",
-     "h": "Se leen a tiempo o se pagan después.",
-     "b": "radarestatal.pe"
-    }
-   ],
-   "caption": {
-    "ig": "Las cuatro cláusulas que pueden hundir un contrato con el Estado: penalidad diaria alta, plazo imposible, experiencia desproporcionada y visita técnica lejos. Dos se cuestionan dentro de la etapa de consultas; dos son señal de pasar al siguiente proceso. #licitaciones #seace #mype #peru",
-    "tt": "Las bases traen cláusulas que te pueden hundir ⚠ #licitaciones #seace #mype",
-    "fb": "Penalidades que no puedes absorber, plazos imposibles, experiencia desproporcionada, visitas técnicas a mil kilómetros. Dos de esas se cuestionan por consultas dentro del plazo del cronograma; las otras dos son señal de pasar al siguiente proceso. Radar Estatal (radarestatal.pe)."
-   },
-   "alt": "Cláusulas duras en unas bases de licitación: cuáles se cuestionan por consultas y cuáles son señal de retirarse."
-  }
- ]
+  ]
 }

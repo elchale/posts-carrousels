@@ -1,1293 +1,1293 @@
 {
- "series": "sep",
- "brand": "comehometag",
- "posts": [
-  {
-   "slug": "01-mes-del-alzheimer",
-   "slides": [
+  "series": "sep",
+  "brand": "comehometag",
+  "posts": [
     {
-     "role": "cover",
-     "kicker": "MES DEL ALZHEIMER",
-     "emoji": "🧠",
-     "h": "El Alzheimer empieza años antes del primer olvido",
-     "b": "septiembre es su mes mundial"
+      "slug": "01-mes-del-alzheimer",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "MES DEL ALZHEIMER",
+          "emoji": "🧠",
+          "h": "El Alzheimer empieza años antes del primer olvido",
+          "b": "septiembre es su mes mundial"
+        },
+        {
+          "role": "value",
+          "h": "Olvidar dónde está la llave es normal",
+          "b": "Olvidar PARA QUÉ sirve la llave, no. La edad hace lento el recuerdo; la enfermedad lo borra."
+        },
+        {
+          "role": "value",
+          "h": "Las 3 señales que no son 'cosas de viejo'",
+          "b": "· Se pierde en la ruta de siempre\n· Pregunta lo mismo varias veces\n· Guarda el celular en la refri\n· Una sola ya amerita consulta",
+          "emoji": "😰"
+        },
+        {
+          "role": "value",
+          "h": "Qué hacer esta semana",
+          "b": "· Acompáñalo al chequeo\n· Cuéntale al médico lo que TÚ notaste\n· Apunta 3 episodios con fecha\n· Vecinos y bodeguero con tu número"
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Las familias que cuidan a un abuelo ya usan esto",
+          "b": "ComeHomeTag: una pulsera con QR que cualquier celular escanea y muestra tu contacto. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Septiembre es el mes. Empieza por las 3 señales.",
+          "b": "Guarda este post y compártelo con tus hermanos: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Mes Mundial del Alzheimer: las señales tempranas que no son 'cosas de la edad'. Perderse en rutas conocidas, repetir preguntas en una hora, guardar cosas en sitios absurdos. En el Perú hay más de 200 mil casos (MINSA) y la mayoría se detecta tarde. Qué hacer esta semana, paso a paso. 💜 #alzheimer #adultomayor #peru #familia #mesmundialdelalzheimer",
+        "tt": "3 señales de que NO es 'cosas de viejo' 🧠💜 #alzheimer #abuelos #peru #adultomayor",
+        "fb": "Septiembre es el Mes Mundial del Alzheimer. En el Perú más de 200 mil familias lo viven. Y casi todas empezaron igual: 'son cosas de la edad'. Estas son las 3 señales que no lo son, y lo que puedes hacer esta misma semana. ¿En tu familia ya hablaron de esto?"
+      },
+      "alt": "Señales tempranas de Alzheimer y plan familiar para actuar esta semana."
     },
     {
-     "role": "value",
-     "h": "Olvidar dónde está la llave es normal",
-     "b": "Olvidar PARA QUÉ sirve la llave, no. La edad hace lento el recuerdo; la enfermedad lo borra."
+      "slug": "02-combi",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🚌",
+          "h": "En la combi tu hijo se baja donde no era"
+        },
+        {
+          "role": "value",
+          "h": "La regla de oro: el que se baja mal, espera",
+          "b": "Si se baja mal, o el carro arranca contigo adentro, se baja en el SIGUIENTE y espera ahí.",
+          "emoji": "😨"
+        },
+        {
+          "role": "value",
+          "h": "El juego del paradero",
+          "b": "«¿Y si yo me bajo y tú te quedas?» Que él te diga la regla, no tú."
+        },
+        {
+          "role": "value",
+          "h": "¿Quién sube primero?",
+          "b": "· Él sube primero, tú detrás\n· Tú bajas primero, él te sigue\n· El carro nunca parte a la familia"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Los papás de combi ya lo resolvieron",
+          "b": "El cobrador no sabe tu número; la «pulsera» sí. ComeHomeTag: un QR que cualquier celular lee. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "El siguiente paradero. Ese es el trato.",
+          "b": "Ensáyenlo hoy camino a casa: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Transporte público con niños: la regla del siguiente paradero que toda familia debería ensayar. Si el carro los separa, él espera en el siguiente y tú regresas. Quién sube primero, quién baja primero, y el juego para practicarlo camino al colegio. #seguridadinfantil #transportepublico #lima #peru #papas",
+        "tt": "La regla del paradero que puede salvar a tu hijo 🚌 #lima #combi #seguridadinfantil #peru",
+        "fb": "¿Alguna vez la combi arrancó contigo adentro y tu hijo en la vereda? La regla del siguiente paradero existe para ese segundo de terror: él espera en el siguiente, tú regresas, nadie camina. Ensáyenla hoy. En pánico solo sale lo ensayado."
+      },
+      "alt": "Regla del siguiente paradero para no separarse en transporte público."
     },
     {
-     "role": "value",
-     "h": "Las 3 señales que no son 'cosas de viejo'",
-     "b": "· Se pierde en la ruta de siempre\n· Pregunta lo mismo varias veces\n· Guarda el celular en la refri\n· Una sola ya amerita consulta",
-     "emoji": "😰"
+      "slug": "03-donde-se-pierden",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "📍",
+          "h": "Los niños no se pierden donde tú crees"
+        },
+        {
+          "role": "value",
+          "h": "Los lugares donde tus ojos están ocupados",
+          "b": "· La caja y los probadores\n· Los puestos del mercado\n· Ferias y estacionamientos\n· El parque asusta más y ahí sí lo miras"
+        },
+        {
+          "role": "value",
+          "h": "Una regla por lugar",
+          "b": "· Caja: su mano en el coche o tu bolsillo\n· Mercado: él carga UNA bolsa\n· Feria: punto de reencuentro al llegar\n· Estacionamiento: baja último, sube primero"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Para el lugar donde mires otra cosa",
+          "b": "Si el niño se suelta, el QR de ComeHomeTag dice tu número. Cualquier celular lo lee. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "La caja, no el parque. Ahora ya sabes dónde mirar.",
+          "b": "Guarda la lista y aplícala este finde: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "¿Dónde se pierden los niños de verdad? No en el parque: en la caja del súper, los probadores, los puestos del mercado y el estacionamiento. Los lugares donde tus ojos están en otra cosa. Una regla concreta para cada uno, incluido el truco de la bolsa. #seguridadinfantil #ninosperdidos #mama #peru #crianza",
+        "tt": "Los niños NO se pierden donde crees 📍 la lista que importa #seguridadinfantil #mamaprimeriza #peru",
+        "fb": "El parque no es el lugar peligroso: ahí lo estás mirando. Los niños se pierden en la caja, en los probadores, en el mercado. Donde tus manos y tus ojos están ocupados. Aquí va la lista y una regla simple para cada lugar (la de la bolsa es oro)."
+      },
+      "alt": "Lugares donde la atención del adulto está ocupada y una regla por lugar."
     },
     {
-     "role": "value",
-     "h": "Qué hacer esta semana",
-     "b": "· Acompáñalo al chequeo\n· Cuéntale al médico lo que TÚ notaste\n· Apunta 3 episodios con fecha\n· Vecinos y bodeguero con tu número"
+      "slug": "04-fiesta-infantil",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🎂",
+          "h": "En la fiesta infantil nadie está mirando a nadie"
+        },
+        {
+          "role": "value",
+          "h": "El trato entre papás: turnos de 20",
+          "b": "· 20 minutos cada uno de portero\n· Un ojo en la puerta, otro en la piscina\n· Los demás conversan tranquilos"
+        },
+        {
+          "role": "value",
+          "h": "El conteo del anfitrión",
+          "b": "Cuenta a los niños en cada transición: torta, piñata, salida. En la piñata todos miran arriba."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El invitado mejor vestido lleva QR",
+          "b": "En una fiesta nadie sabe el número de la mamá de cada niño. La «pulsera» ComeHomeTag sí. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Tú toma tu gaseosa tranquilo: hay portero.",
+          "b": "Propón los turnos de 20 en la próxima fiesta: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Fiestas infantiles: 30 niños, 20 adultos y nadie de portero. El sistema de turnos de 20 minutos entre papás, el conteo del anfitrión en cada transición y por qué la piñata es el momento exacto en que un niño puede salir por la puerta. #fiestainfantil #seguridadinfantil #cumpleanos #peru #papas",
+        "tt": "En la piñata todos miran arriba… menos uno 🎂 #fiestainfantil #seguridadinfantil #peru",
+        "fb": "En las fiestas infantiles todos creen que 'alguien' está mirando a los niños. O sea nadie. El truco: turnos de portero de 20 minutos entre papás y el conteo en cada transición (torta, piñata, salida). Compártelo con el grupo del cumpleaños de este sábado."
+      },
+      "alt": "Sistema de turnos entre papás y conteo para fiestas infantiles."
     },
     {
-     "role": "recap"
+      "slug": "05-linea-recta",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🌀",
+          "h": "Un niño perdido no camina en línea recta"
+        },
+        {
+          "role": "value",
+          "h": "Tú barres en círculos y él también",
+          "b": "Busca «el camino de vuelta» y da vueltas. Dos personas girando pueden cruzarse sin verse."
+        },
+        {
+          "role": "value",
+          "h": "El fijo y el móvil",
+          "b": "· Uno se planta donde lo vieron\n· El otro barre en espiral, sin saltar zonas\n· Si son tres, uno va a seguridad"
+        },
+        {
+          "role": "value",
+          "h": "Seguridad primero, no al final",
+          "b": "El altavoz encuentra más rápido que diez tíos corriendo. Muchos buscan 20 minutos antes de avisar."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Y si lo encuentra un extraño primero",
+          "b": "Su «pulsera» ComeHomeTag dice a quién llamar sin que tu hijo recuerde nada. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Fijo, espiral, altavoz. En ese orden.",
+          "b": "Memorízalo hoy que no pasa nada: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo se busca a un niño perdido (de verdad): uno fijo en el último punto donde lo vieron, otro barriendo en espiral, y seguridad avisada en el minuto uno. No a los 20. Por qué dos personas buscando en círculos se cruzan sin verse. #ninoperdido #seguridadinfantil #mall #peru",
+        "tt": "Por eso no lo encuentras: los dos caminan en círculos 🌀 #seguridadinfantil #peru #papas",
+        "fb": "Dato que nadie te enseña: un niño perdido no se queda quieto ni camina recto. Da vueltas buscando el camino de vuelta. Por eso la búsqueda correcta tiene un FIJO (donde lo viste por última vez), un MÓVIL (en espiral) y al altavoz de seguridad desde el minuto uno."
+      },
+      "alt": "Método de búsqueda fijo-espiral-altavoz para un niño perdido."
     },
     {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Las familias que cuidan a un abuelo ya usan esto",
-     "b": "ComeHomeTag: una pulsera con QR que cualquier celular escanea y muestra tu contacto. comehometag.com"
+      "slug": "06-salio-por-pan",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-03-abuelo",
+          "emoji": "🍞",
+          "h": "La abuela salió por pan y caminó a su casa de niña",
+          "b": "el Alzheimer borra de atrás hacia adelante"
+        },
+        {
+          "role": "value",
+          "h": "A dónde van los que deambulan",
+          "b": "· La casa donde creció\n· El trabajo de antes\n· La iglesia de siempre\n· Esa lista es tu ruta de búsqueda",
+          "emoji": "💔"
+        },
+        {
+          "role": "value",
+          "h": "Los horarios también avisan",
+          "b": "Lo llaman sundowning: de 4 a 7pm sube la desorientación. Salidas solas, en la mañana."
+        },
+        {
+          "role": "value",
+          "h": "Avísale al barrio antes del susto",
+          "b": "«Si lo ve solo después de las 5, me llama.» Bodeguero, farmacia, vigilante."
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Su pasado no está en el mapa; su «pulsera» sí",
+          "b": "ComeHomeTag para abuelos: QR con tu contacto, legible desde cualquier celular. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Haz la lista de sus lugares de antes. Hoy.",
+          "b": "Y compártela con tu red familiar: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "El Alzheimer no borra al azar: borra de atrás hacia adelante. Por eso los abuelos que deambulan van a su casa antigua, su trabajo de antes, su iglesia de siempre. La lista de lugares del pasado es tu ruta de búsqueda. Y el atardecer, la hora de acompañarlos. #alzheimer #abuelos #adultomayor #peru #mesdelalzheimer",
+        "tt": "Salió por pan y caminó a su casa de hace 40 años 💜 #alzheimer #abuelos #peru",
+        "fb": "'Salió por pan y no volvió.' Cuando un abuelo con Alzheimer deambula, no camina al azar: va a los lugares de su pasado. La casa de la infancia, el trabajo de antes. Haz hoy esa lista con tus hermanos: es la ruta de búsqueda que ojalá nunca uses."
+      },
+      "alt": "Deambulación en Alzheimer: lugares del pasado, horario crítico y red vecinal."
     },
     {
-     "role": "cta",
-     "h": "Septiembre es el mes. Empieza por las 3 señales.",
-     "b": "Guarda este post y compártelo con tus hermanos: comehometag.com"
+      "slug": "07-perro-volver",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🐕",
+          "h": "Tu perro sí quiere volver, no sabe cómo"
+        },
+        {
+          "role": "value",
+          "h": "El collar dice 'Rocky' y nada más",
+          "b": "Un nombre no llama a nadie. Necesita UN dato: tu número, legible, que no se borre."
+        },
+        {
+          "role": "value",
+          "h": "La foto que sirve",
+          "b": "De pie, de costado, con buena luz. No la tierna durmiendo."
+        },
+        {
+          "role": "stat",
+          "shot": "llavero.png",
+          "h": "El «llavero» QR va en el collar y habla por él",
+          "b": "ComeHomeTag para mascotas: quien lo encuentre escanea y te llama al toque. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Rocky quiere volver. Ponle el cómo.",
+          "b": "El «llavero» va en el collar: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Tu perro no se escapa: se pierde sin camino de vuelta. El collar con puro nombre no llama a nadie. El dato que salva es tu número legible. Cuándo se pierden de verdad (pirotecnia, mudanzas, delivery) y cuál es LA foto que el barrio sí reconoce. #mascotas #perros #perroperdido #peru",
+        "tt": "El collar dice 'Rocky'… ¿y tu número? 🐕 #mascotas #perros #peru #perroperdido",
+        "fb": "'Se escapó' casi nunca es la historia real: la historia es que nadie le puso el camino de vuelta. Tu número legible en el collar vale más que cualquier placa bonita. Y la foto de pie, de costado y con luz es la que el barrio reconoce. ¿Tu engreído ya tiene su dato puesto?"
+      },
+      "alt": "Identificación de mascotas: número legible, momentos de riesgo y la foto útil."
+    },
+    {
+      "slug": "08-celular-igual-se-pierde",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "SEMANA APPLE",
+          "emoji": "📵",
+          "h": "Tu hijo tiene celular y igual se pierde"
+        },
+        {
+          "role": "value",
+          "h": "El celular muere a la peor hora",
+          "b": "· Batería al 3% tras el recreo\n· En silencio desde el cine\n· O en la mano del que se lo quitó",
+          "emoji": "🔋"
+        },
+        {
+          "role": "value",
+          "h": "En pánico no contesta",
+          "b": "Un niño asustado no atina a llamar: se mueve. Por eso el plan es físico."
+        },
+        {
+          "role": "value",
+          "h": "La prueba del número",
+          "b": "Pregúntale ahora tu número, sin mirar pantalla. Si duda, se lo aprende como canción."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Lo pasivo no se apaga",
+          "b": "Le pusieron ComeHomeTag al niño, no solo al celular: QR sin batería, sin apps. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Sale el iPhone nuevo. Tu plan sigue siendo análogo.",
+          "b": "Número memorizado + punto + pulsera: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Semana de lanzamiento de iPhone y una verdad incómoda: tu hijo con celular igual se pierde. La batería muere a la peor hora, en pánico no contesta, y el plan que sirve es físico. Número memorizado, punto de reencuentro, identificación que no se apaga. #iphone #seguridadinfantil #papas #peru #tecnologia",
+        "tt": "Tiene celular y IGUAL se pierde 📵 la prueba del número #seguridadinfantil #iphone #peru",
+        "fb": "Salió iPhone nuevo y es buen momento para decirlo: el celular de tu hijo es un buen extra y un pésimo plan único. Se queda sin batería a la peor hora y en pánico nadie contesta. Hazle hoy la prueba del número. Sin mirar pantalla. ¿La pasa?"
+      },
+      "alt": "Por qué el celular no reemplaza el plan físico de seguridad infantil."
+    },
+    {
+      "slug": "09-maldicion-owens",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "VUELVE PRACTICAL MAGIC",
+          "emoji": "🔮",
+          "img": "evento-bullock.jpg",
+          "h": "Hay una familia donde enamorarse mata",
+          "b": "las Owens vuelven después de 28 años"
+        },
+        {
+          "role": "value",
+          "h": "Toda familia carga una maldición",
+          "b": "La de las Owens mata novios. La de la mayoría es «nunca nos ha pasado nada»."
+        },
+        {
+          "role": "value",
+          "h": "Las maldiciones se rompen nombrándolas",
+          "b": "¿Quién mira la puerta en las reuniones? ¿Quién acompaña al abuelo en misa? Si es «todos», es NADIE."
+        },
+        {
+          "role": "value",
+          "h": "El hechizo de 5 minutos",
+          "b": "· Foto del día\n· Punto de reencuentro en voz alta\n· Un adulto ancla por cada niño o abuelo"
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El amuleto de la familia moderna",
+          "b": "Las familias que rompieron su maldición llevan ComeHomeTag: pulsera QR con tu contacto, sin batería. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Que en tu familia enamorarse sí, perderse no.",
+          "b": "Rompe la maldición del 'nunca pasa nada': comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Vuelve Practical Magic 28 años después: en la familia Owens, enamorarse mata. Tu familia también tiene su maldición. Se llama 'nunca nos ha pasado nada'. Cómo romperla en 5 minutos antes de cada salida. 🔮 #practicalmagic #sandrabullock #nicolekidman #familia #peru",
+        "tt": "Toda familia tiene una maldición. La tuya se llama 'nunca pasa nada' 🔮 #practicalmagic #peru #familia",
+        "fb": "Las brujas Owens vuelven al cine después de 28 años, con su maldición de siempre: quien las ama, muere. La maldición de las familias normales es menos dramática pero más común. 'nunca nos ha pasado nada'. Se rompe con un hechizo de 5 minutos antes de salir. Aquí va."
+      },
+      "alt": "Practical Magic 2 y el plan familiar de 5 minutos antes de cada salida."
+    },
+    {
+      "slug": "10-viernes-salen-papas",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🎶",
+          "h": "Este viernes salen los papás y los hijos lo saben",
+          "b": "Romeo Santos en Lima: noche de niños donde la tía"
+        },
+        {
+          "role": "value",
+          "h": "La casa ajena no tiene tus reglas",
+          "b": "Llama antes: seguro de la puerta, quién más estará en casa, a qué hora se acuestan."
+        },
+        {
+          "role": "value",
+          "h": "Los 4 datos pegados en la refri",
+          "b": "· Tu número y el del papá\n· El del pediatra\n· La dirección EXACTA de esa casa\n· En papel, no en un chat"
+        },
+        {
+          "role": "value",
+          "h": "El check de las 11",
+          "b": "Un mensaje a las 11. Y la hora real de regreso, dicha antes de salir."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "La «pulsera» no se queda en casa",
+          "b": "Con ComeHomeTag puesto, cualquier adulto que lo encuentre te llama en segundos. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Canten Propuesta Indecente en paz: el plan quedó en la refri.",
+          "b": "Los 4 datos, esta tarde: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Concierto de Romeo Santos en Lima = noche de niños donde la tía. El protocolo de la casa ajena: los 4 datos pegados en la refri (incluida la dirección exacta, que el niño no sabe), el check de las 11 y el plan B avisado antes. #romeosantos #lima #conciertos #papas #seguridadinfantil",
+        "tt": "Salen los papás 🎶 protocolo de noche donde la tía #romeosantos #lima #peru #papas",
+        "fb": "Este viernes medio Lima canta con Romeo Santos y los niños duermen donde la tía. Antes de salir: 4 datos en la refri (tu número, el del papá, el pediatra y la DIRECCIÓN de esa casa. El niño no la sabe), check de las 11 y hora real de regreso. Bailen tranquilos."
+      },
+      "alt": "Protocolo para dejar a los niños en casa de un familiar durante una salida nocturna."
+    },
+    {
+      "slug": "11-red-de-tres",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "VUELVEN LAS OWENS",
+          "emoji": "✨",
+          "img": "evento-kidman.jpg",
+          "h": "Tu hermana es tu primer plan de emergencia",
+          "b": "las Owens llevan 28 años demostrándolo"
+        },
+        {
+          "role": "value",
+          "h": "El segundo contacto decide",
+          "b": "Si encuentran a tu hijo y tú no contestas, ¿quién sí? La mayoría no tiene respuesta.",
+          "emoji": "📞"
+        },
+        {
+          "role": "value",
+          "h": "La red de 3",
+          "b": "· Tú más dos que SIEMPRE contestan\n· Los tres tienen las fotos\n· Los tres saben el punto de reencuentro"
+        },
+        {
+          "role": "value",
+          "h": "La red se mantiene con un mensaje",
+          "b": "Cambio de colegio, de casa, de rutina: un mensaje al grupo. Una red vieja da direcciones viejas."
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "La «pulsera» también llama a la red",
+          "b": "Con ComeHomeTag, quien lo encuentra ve el contacto de la familia al instante. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Las Owens tienen hechizos. Tú tienes hermanas.",
+          "b": "Arma tu red de 3 hoy: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Las hermanas Owens vuelven 28 años después y dejan la lección más práctica: tu hermana es tu plan de emergencia. La red de 3. Tú más dos personas que SIEMPRE contestan. Con fotos, punto de reencuentro y un mensaje al mes para mantenerla viva. #practicalmagic #familia #hermanas #peru #seguridadinfantil",
+        "tt": "Tu hermana ES tu plan de emergencia ✨ la red de 3 #familia #hermanas #peru",
+        "fb": "Si encuentran a tu hijo y tú no contestas el teléfono, ¿quién sí? Esa pregunta separa un susto de 10 minutos de una tarde de terror. La respuesta es la red de 3: tú y dos personas que siempre contestan, con las fotos y el plan. Las Owens aprobarían."
+      },
+      "alt": "La red familiar de tres contactos para emergencias con niños."
+    },
+    {
+      "slug": "12-contar-cabezas",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "DÍA DE LA FAMILIA",
+          "emoji": "🔢",
+          "h": "En tu familia nadie cuenta cabezas"
+        },
+        {
+          "role": "value",
+          "h": "Salir en familia grande es soltar de a dos",
+          "b": "· Cada uno cree que otro lo tiene\n· Un adulto responsable por niño\n· Dicho en voz alta al salir"
+        },
+        {
+          "role": "value",
+          "h": "El conteo en cada transición",
+          "b": "Al subir al carro, al bajar, al entrar: cuenta el MISMO adulto y lo dice: «cinco»."
+        },
+        {
+          "role": "value",
+          "h": "El abuelo también se cuenta",
+          "b": "El que «conoce Lima de memoria» es el que más se queda atrás. Del brazo en cruces, de cariño.",
+          "emoji": "🧓"
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Dos anclas: un adulto y una «pulsera»",
+          "b": "Las familias grandes con ComeHomeTag salen con doble seguro: un adulto por persona, un QR por muñeca. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Uno cuenta. Siempre el mismo. En cada puerta.",
+          "b": "Este domingo estrena el sistema: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Día de la Familia: salir en familia grande es soltar de a dos, porque cada adulto cree que 'otro' lo tiene. El sistema del ancla (un adulto por niño y por abuelo) y el conteo en cada puerta. Simple, gratis, salva paseos. #diadelafamilia #familia #peru #paseofamiliar #seguridadinfantil",
+        "tt": "8 adultos, 5 niños, nadie contando 🔢 #familia #peru #paseo #diadelafamilia",
+        "fb": "Verdad incómoda de los paseos familiares: mientras más adultos van, menos vigilan. Todos creen que 'alguien' lo tiene. Para este Día de la Familia: sistema del ancla (un adulto por niño/abuelo, dicho en voz alta) y conteo en cada transición. ¿Quién cuenta cabezas en tu familia?"
+      },
+      "alt": "Sistema del ancla y conteo de cabezas para salidas de familia grande."
+    },
+    {
+      "slug": "13-paseo-comisaria",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "DÍA DE LA FAMILIA",
+          "emoji": "😅",
+          "h": "Que el paseo familiar no termine en comisaría"
+        },
+        {
+          "role": "value",
+          "h": "El checklist de 4, en el carro",
+          "b": "· Foto de cada niño como salió\n· Punto de reencuentro apenas lleguen\n· Un ancla por niño\n· Regla dicha: si te pierdes, quédate"
+        },
+        {
+          "role": "value",
+          "h": "La sobremesa tiene turnos",
+          "b": "El riesgo no es la caminata: es cuando los adultos conversan. Vigía de 15 minutos."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El quinto seguro va en la muñeca",
+          "b": "Si igual se suelta, su ComeHomeTag dice tu número al primer escaneo. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Feliz Día de la Familia: completa, y de vuelta en casa.",
+          "b": "Checklist de 4 en el carro, hoy: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Feliz Día de la Familia. Que se celebre completo. El checklist de 4 para decir en el carro (foto del día, punto de reencuentro, anclas, la regla de quedarse quieto) y los turnos de vigía en la sobremesa, que es donde de verdad se sueltan. #diadelafamilia #peru #familia #domingofamiliar",
+        "tt": "Que el paseo no acabe en comisaría 😅 checklist de 4 #diadelafamilia #peru #familia",
+        "fb": "El Día de la Familia es el día de más familias por metro cuadrado del mes. Y la sobremesa larga es el momento exacto donde los niños 'desaparecen un segundo'. Checklist de 4 en el carro y turnos de vigía de 15 minutos. Feliz día, completo y sin sustos."
+      },
+      "alt": "Checklist de salida y turnos de vigía para el Día de la Familia."
+    },
+    {
+      "slug": "14-extranos-mal-ensenado",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🗣",
+          "h": "'No hables con extraños' está mal enseñado"
+        },
+        {
+          "role": "value",
+          "h": "Perdido, va a TENER que hablar con uno",
+          "b": "La regla absoluta lo congela: no pide ayuda, se esconde. Necesita saber a QUIÉN sí.",
+          "emoji": "😖"
+        },
+        {
+          "role": "value",
+          "h": "Los 3 seguros",
+          "b": "En ese orden:\n· Una mamá con niños\n· Personal con uniforme del local\n· La caja de cualquier tienda"
+        },
+        {
+          "role": "value",
+          "h": "El guion de 2 líneas",
+          "b": "«Estoy perdido. Mi mamá se llama [nombre] y su número es [número].» Practíquenlo como juego."
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Y si el susto no lo deja hablar, la «pulsera» habla",
+          "b": "ComeHomeTag dice el guion por él: tu contacto en pantalla al primer escaneo. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "No le enseñes a callar. Enséñale a quién sí.",
+          "b": "Los 3 seguros + el guion, esta semana: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "'No hables con extraños' congela a un niño perdido justo cuando necesita pedir ayuda. Lo correcto: enseñarle a QUIÉN sí. Una mamá con niños, personal con uniforme, la caja de una tienda. Y el guion de 2 líneas con tu nombre completo y número. #seguridadinfantil #crianza #peru #ninos",
+        "tt": "'No hables con extraños' está MAL enseñado 🗣 esto va en su lugar #crianza #seguridadinfantil #peru",
+        "fb": "Polémico pero cierto: 'no hables con extraños' es mala instrucción. Un niño perdido va a TENER que hablar con un extraño. Enséñale los 3 seguros (mamá con niños, uniforme, caja de tienda) y el guion de 2 líneas. Practicado como juego, sale solo cuando importa."
+      },
+      "alt": "Los tres adultos seguros y el guion que un niño perdido debe saber."
+    },
+    {
+      "slug": "15-esconde-que-se-pierde",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "MES DEL ALZHEIMER",
+          "emoji": "😶",
+          "h": "Tu papá esconde que se pierde"
+        },
+        {
+          "role": "value",
+          "h": "El primer extravío nunca te lo cuentan",
+          "b": "· Llegó tarde «por el tráfico»\n· Lo trajo un vecino «de casualidad»\n· Ya no va solo al banco"
+        },
+        {
+          "role": "value",
+          "h": "Pregunta sin examinar",
+          "b": "«¿Por dónde te viniste?» suena a control. «Te noto cansado, ¿te acompaño?» abre la puerta."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Una «pulsera» que no vigila a tu abuelo",
+          "b": "Una pulsera ComeHomeTag no lo vigila ni lo delata: solo habla si alguien la escanea. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Él no te lo va a contar. Tú sí puedes notarlo.",
+          "b": "Las señales están en este post. Guárdalo: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Los primeros extravíos por Alzheimer no te los cuentan: los tapa la vergüenza. 'Llegué tarde por el tráfico', 'me trajo un vecino de casualidad', 'ya no quiero salir, hace calor'. Cómo notarlo, cómo preguntarlo sin herir y qué hacer desde la primera señal. 💜 #alzheimer #adultomayor #peru #mesdelalzheimer #familia",
+        "tt": "Tu papá no te va a contar que se perdió 😶 #alzheimer #abuelos #peru",
+        "fb": "Nadie llama a decir 'papá se perdió hoy'. Los primeros episodios se esconden: excusas de tráfico, vecinos 'de casualidad', un señor que de pronto ya no quiere salir solo. Si algo de esto te suena, este post es para tu familia. Cómo hablarlo sin quitarle dignidad."
+      },
+      "alt": "Cómo detectar los primeros extravíos que un adulto mayor esconde."
+    },
+    {
+      "slug": "16-color-semaforo",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🚦",
+          "h": "Vístelo de color semáforo para la multitud"
+        },
+        {
+          "role": "value",
+          "h": "El negro es invisible en un mar de gente",
+          "b": "En ferias y estadios la mitad va de oscuro. Amarillo o verde limón se pesca a 50 metros."
+        },
+        {
+          "role": "value",
+          "h": "Zapatos: el dato que no cambia",
+          "b": "Los niños se quitan chompas y gorros; los zapatos no. Al describir, empieza por los pies."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El accesorio que combina con todo",
+          "b": "Sea del color que sea la ropa, la «pulsera» ComeHomeTag lleva tu contacto puesto. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Semáforo arriba, foto del día y pies primero.",
+          "b": "Tres trucos que valen un evento entero: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Truco de multitudes que nadie usa: vestir a los niños de colores semáforo (amarillo, naranja, verde limón). El ojo los pesca a 50 metros y la descripción es inconfundible. Más: la foto del día y por qué se describe empezando por los zapatos. #seguridadinfantil #ferias #eventos #peru #crianza",
+        "tt": "Vístelo de semáforo 🚦 el truco de multitudes #seguridadinfantil #peru #mamatips",
+        "fb": "En una feria, la mitad de los niños va de plomo y azul marino. Invisibles en la multitud. El amarillo o naranja se ve a 50 metros. Suma la foto del día y el truco de describir por los zapatos (lo único que no se quitan) y tienes un sistema. Pruébalo este finde."
+      },
+      "alt": "Ropa de alta visibilidad, foto del día y descripción por zapatos para multitudes."
+    },
+    {
+      "slug": "17-escondido",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🙈",
+          "h": "El niño no estaba perdido, estaba escondido"
+        },
+        {
+          "role": "value",
+          "h": "Se esconden del regaño, no de ti",
+          "b": "Escuchó su nombre en tu voz de furia y se metió bajo un perchero. Muchos «perdidos» están a diez metros."
+        },
+        {
+          "role": "value",
+          "h": "Dónde mirar primero",
+          "b": "· Bajo racks de ropa\n· Entre cajas y dentro de autos\n· Detrás de módulos\n· Agáchate: su mundo está a 90 cm"
+        },
+        {
+          "role": "value",
+          "h": "El pacto anti-escondite",
+          "b": "«Si te llamamos, contesta siempre. No hay lío por contestar.» Dicho en calma."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Para cuando lo encuentra otro primero",
+          "b": "El vigilante que lo halla escanea su ComeHomeTag y te llama, sin esperar a que hable. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Haz el pacto hoy: contestar no tiene castigo.",
+          "b": "Y agáchate a buscar: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Secreto de búsquedas: muchos niños 'perdidos' están escondidos a 10 metros. Se asustaron de tu voz de furia y se metieron bajo un perchero. Dónde mirar primero (a 90 cm del piso) y el pacto anti-escondite que acorta búsquedas: contestar nunca tiene castigo. #seguridadinfantil #crianza #peru #ninos",
+        "tt": "No estaba perdido: estaba ESCONDIDO 🙈 #crianza #seguridadinfantil #peru",
+        "fb": "Cuando gritas su nombre con voz de pánico, tu hijo escucha voz de regaño. Y se esconde mejor. El pacto que lo cambia: 'si te llamamos, contestas siempre, no hay lío por contestar'. Y al buscar: agáchate, su mundo está a 90 cm del piso. Racks, cajas, autos."
+      },
+      "alt": "Niños que se esconden durante búsquedas: dónde mirar y el pacto para que contesten."
+    },
+    {
+      "slug": "18-no-esperes-24-horas",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "MES DEL ALZHEIMER",
+          "emoji": "⏱",
+          "h": "No esperes 24 horas para denunciar",
+          "b": "eso es un mito de película"
+        },
+        {
+          "role": "value",
+          "h": "La ley no pide esperar nada",
+          "b": "Se pone DE INMEDIATO, a cualquier hora, en cualquier comisaría, y es gratuita."
+        },
+        {
+          "role": "value",
+          "h": "Con demencia, cada hora pesa",
+          "b": "La Asociación de Alzheimer advierte: pasadas 24 horas deambulando, hasta la mitad sufre daños serios.",
+          "emoji": "😰"
+        },
+        {
+          "role": "value",
+          "h": "El orden de la primera hora",
+          "b": "· Su ruta vieja y lugares del pasado\n· Vecinos y bodegas con su foto\n· Denuncia inmediata\n· Alguien SE QUEDA en casa"
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Antes de que notes que salió",
+          "b": "Con ComeHomeTag, el primer desconocido que lo vea desorientado puede llamarte. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Minuto uno: ruta vieja, vecinos, denuncia, casa.",
+          "b": "Guarda el orden. Ojalá nunca lo uses: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "MITO PELIGROSO: 'hay que esperar 24 horas para denunciar una desaparición'. Falso. La denuncia se pone de inmediato, en cualquier comisaría, gratis. Y con un adulto mayor con demencia cada hora pesa: el orden exacto de la primera hora de búsqueda, guárdalo. 💜 #alzheimer #desaparecidos #peru #adultomayor #mesdelalzheimer",
+        "tt": "NO tienes que esperar 24 horas ⏱ es un mito #alzheimer #peru #abuelos",
+        "fb": "El mito de 'esperar 24 horas para denunciar' viene de las películas y ha costado búsquedas enteras. En el Perú la denuncia se pone DE INMEDIATO, a cualquier hora, gratis. Si cuidas a un adulto mayor, guarda el orden de la primera hora. El punto 4 (alguien se queda en casa) casi nadie lo sabe."
+      },
+      "alt": "Mito de las 24 horas y el orden correcto de la primera hora de búsqueda."
+    },
+    {
+      "slug": "19-carro-equivocado",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🚕",
+          "h": "Tu hijo se sube al carro equivocado"
+        },
+        {
+          "role": "value",
+          "h": "El 'me mandó tu mamá' funciona",
+          "b": "Un niño educado obedece a un adulto que suena seguro. El filtro no es la amabilidad.",
+          "emoji": "😨"
+        },
+        {
+          "role": "value",
+          "h": "La palabra clave",
+          "b": "· Una palabra rara y fácil: «mango»\n· Sin palabra, no se sube\n· Aunque conozca al adulto"
+        },
+        {
+          "role": "value",
+          "h": "Para movilidad y apps",
+          "b": "· Placa y nombre del chofer al chat\n· Al de siempre lo presentas tú\n· Todo cambio viaja con la palabra"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El otro filtro va en su muñeca",
+          "b": "Si algo sale raro, cualquier adulto escanea su ComeHomeTag y te llama a TI, no al que «lo mandó». comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Elijan su palabra hoy en la cena.",
+          "b": "'Mango' puede valer más que mil advertencias: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "El 'me mandó tu mamá' funciona porque los niños obedecen a adultos que suenan seguros. El filtro que sí sirve: la palabra clave familiar. Sin palabra, no se sube, aunque conozca al adulto. Cómo elegirla y cómo usarla con movilidad escolar y apps. #seguridadinfantil #palabraclave #crianza #peru",
+        "tt": "'Me mandó tu mamá' 🚕 la palabra clave lo desarma #seguridadinfantil #peru #crianza",
+        "fb": "Tu hijo es educado: si un adulto seguro le dice 'me mandó tu mamá, sube', sube. El antídoto cuesta una cena: elegir la palabra clave de la familia. Sin palabra, no se sube. Ni con conocidos. Y para la movilidad escolar: placa en el chat y presentación en persona. ¿Ya tienen su palabra?"
+      },
+      "alt": "La palabra clave familiar contra el 'me mandó tu mamá'."
+    },
+    {
+      "slug": "20-chompa-roja",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-04-mama",
+          "emoji": "🧥",
+          "h": "Buscaban una chompa roja que ya estaba en la mochila",
+          "b": "la descripción envejece en minutos"
+        },
+        {
+          "role": "value",
+          "h": "Los niños mudan de ropa solos",
+          "b": "Hizo calor y la chompa fue a la mochila. Todos buscan un color que ya no está puesto."
+        },
+        {
+          "role": "value",
+          "h": "Describe lo que no se quita",
+          "b": "· Zapatos y pantalón\n· El corte de pelo\n· La mochila misma\n· La foto del día le gana a todo"
+        },
+        {
+          "role": "value",
+          "h": "Actualiza en cada parada",
+          "b": "¿Se sacó la casaca en el restaurante? Foto de nuevo: dos segundos."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Lo único que no se cambia de ropa",
+          "b": "La «pulsera» ComeHomeTag sigue puesta cuando la chompa ya no: tu contacto encima de tu hijo, siempre. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Foto del día, pies primero, y actualiza en cada parada.",
+          "b": "Tres hábitos de dos segundos: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Historia real de mil búsquedas: todos buscaban la chompa roja… que ya estaba dentro de la mochila. Los niños mudan de ropa solos y la descripción envejece en minutos. Qué describir en su lugar (zapatos, mochila, corte) y el hábito de refrescar la foto en cada parada. #seguridadinfantil #ninoperdido #peru #crianza",
+        "tt": "Buscaban la chompa que ya estaba en la mochila 🧥 #seguridadinfantil #peru",
+        "fb": "'¿Cómo estaba vestido?'. 'Polo rojo… creo'. La descripción de la mañana envejece en minutos porque los niños se quitan capas solos. Quien busca bien no describe por el color de la ropa: describe por los zapatos (no se los quitan) y la mochila. Y la foto del día mata cualquier relato. Hábito de 2 segundos."
+      },
+      "alt": "Por qué la descripción de ropa envejece y qué describir en su lugar."
+    },
+    {
+      "slug": "21-dia-mundial",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "DÍA MUNDIAL DEL ALZHEIMER",
+          "h": "A una persona con Alzheimer no se le habla así",
+          "b": "hoy es su día mundial",
+          "emoji": "💜"
+        },
+        {
+          "role": "value",
+          "h": "No lo examines",
+          "b": "Así no: «¿no te acuerdas quién soy?»\nAsí sí: «hola papá, soy Carlos, tu hijo»"
+        },
+        {
+          "role": "value",
+          "h": "No lo corrijas, acompáñalo",
+          "b": "Así no: «mamá murió hace años, entiende»\nAsí sí: «cuéntame de ella mientras tomamos té»"
+        },
+        {
+          "role": "value",
+          "h": "Háblale como a un adulto",
+          "b": "Así no: rápido, al aire y en plural\nAsí sí: de frente, despacio, una idea por vez"
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Cuando tú no estés cerca para hablar bien",
+          "b": "ComeHomeTag habla por él: una pulsera QR que cualquiera escanea y ve a quién llamar. No lo delata ni lo vigila."
+        },
+        {
+          "role": "cta",
+          "h": "Hoy el mundo habla de Alzheimer. Háblale bien tú.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Día Mundial del Alzheimer: cómo hablarle a una persona con Alzheimer y cómo no. No lo examines con «¿no te acuerdas?», no lo corrijas, preséntate tú y háblale de frente, despacio, una idea por vez. ComeHomeTag (comehometag.com): la «pulsera» QR que habla por él cuando no puede. #alzheimer #adultomayor #abuelos #familia #peru #cuidadores",
+        "tt": "A una persona con Alzheimer no se le habla así 💜 #alzheimer #abuelos #familia #peru",
+        "fb": "Hoy es el Día Mundial del Alzheimer. «¿No te acuerdas quién soy?» duele y no ayuda: preséntate tú. «Mamá murió hace años» rompe: acompaña la emoción. De frente, despacio, una idea por vez. ComeHomeTag (comehometag.com): la «pulsera» QR que habla por él cuando el recuerdo no llega."
+      },
+      "alt": "Frases que dañan y frases que cuidan al hablar con una persona con Alzheimer, por el día mundial."
+    },
+    {
+      "slug": "22-primavera-ninos",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "PRIMAVERA",
+          "emoji": "🌸",
+          "h": "Se acabó el frío y se soltaron los niños"
+        },
+        {
+          "role": "value",
+          "h": "Los 3 riesgos de la temporada",
+          "b": "· Bicis y scooters: llegan más lejos\n· Fuentes y pozas: imanes de niños\n· El «amigo del parque» y su familia"
+        },
+        {
+          "role": "value",
+          "h": "La regla del perímetro",
+          "b": "· Marca el borde: «del árbol a la reja»\n· «Si te invita otra familia, primero vienes a preguntar»"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El básico de la temporada",
+          "b": "Los papás que ya usan ComeHomeTag sueltan la mano con el contacto puesto. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Del árbol a la reja. Y primero se pregunta.",
+          "b": "Dos frases y a disfrutar el sol: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Llegó la primavera y con el primer sol salen TODAS las familias al mismo parque. Los 3 riesgos nuevos de la temporada (bicis estrenadas, pozas, el 'amigo del parque') y la regla del perímetro en una frase: del árbol a la reja. #primavera #parques #seguridadinfantil #peru #familia",
+        "tt": "Se acabó el frío y se soltaron los niños 🌸 #primavera #peru #parques #ninos",
+        "fb": "El primer domingo de sol es el Día del Niño no oficial: todos los parques llenos a la vez. Este año suma dos frases antes de soltar la mano: 'del árbol a la reja' (el perímetro) y 'si te invita otra familia, primero preguntas'. El resto es disfrutar la primavera."
+      },
+      "alt": "Riesgos de los parques en primavera y la regla del perímetro."
+    },
+    {
+      "slug": "23-bici-nueva",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "PRIMAVERA",
+          "emoji": "🚲",
+          "h": "La bici nueva llega más lejos que tu vista"
+        },
+        {
+          "role": "value",
+          "h": "El radio del niño se triplica",
+          "b": "A pie no cruza el parque; en bici da la vuelta a la manzana en dos minutos."
+        },
+        {
+          "role": "value",
+          "h": "El circuito acordado",
+          "b": "· «De aquí a la esquina y vuelves»\n· Cada vuelta pasa por tu banca\n· Cambiar de ruta se avisa antes"
+        },
+        {
+          "role": "value",
+          "h": "Casco con datos",
+          "b": "Nombre y tu número con plumón indeleble dentro del casco. En una caída, el casco sigue puesto.",
+          "emoji": "🩹"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "La muñeca también pedalea",
+          "b": "La «pulsera» ComeHomeTag va con él a cada vuelta: si el circuito se alarga, tu contacto viaja puesto. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Circuito, vuelta de chequeo y casco con datos.",
+          "b": "Estrenen la bici con las tres reglas: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "La bici nueva triplica el radio de tu hijo: a la tercera vuelta ya está probando una calle nueva. Las 3 reglas de estreno. El circuito acordado, la vuelta de chequeo por tu banca, y nombre + número con indeleble DENTRO del casco. #bicicleta #primavera #seguridadinfantil #peru #ninos",
+        "tt": "La bici llega más lejos que tu vista 🚲 3 reglas de estreno #bici #ninos #peru",
+        "fb": "Primavera = bicis y scooters estrenados. Dato: el radio de un niño en bici se triplica. Y la tercera vuelta siempre es 'exploración'. Antes del primer pedaleo: circuito acordado, vuelta de chequeo por tu banca y datos con plumón dentro del casco. Tres reglas y a rodar."
+      },
+      "alt": "Tres reglas para estrenar bicicleta: circuito, chequeo y casco con datos."
+    },
+    {
+      "slug": "24-iron-man-cine",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "ENDGAME EN CINES",
+          "emoji": "🦸",
+          "img": "evento-rdj.jpg",
+          "h": "Tus hijos van a conocer a Iron Man en el cine"
+        },
+        {
+          "role": "value",
+          "h": "La butaca es el punto de reencuentro",
+          "b": "«Si nos separamos, vuelves a ESTA butaca.» Y foto del número de fila."
+        },
+        {
+          "role": "value",
+          "h": "El baño, en pares y en calma",
+          "b": "· Todos al baño en el mismo momento\n· De la mano hasta la puerta\n· Tú esperas EN la puerta"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El traje del súper papá",
+          "b": "Iron Man tiene armadura; tu hijo tiene su ComeHomeTag: el QR que dice tu número si el cine oscuro los separa. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Tranquilo 3000: el plan quedó listo antes del tráiler.",
+          "b": "Butaca, baño en pares y pulsera puesta: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Endgame vuelve al cine y esta vez llevas a tus hijos: van a conocer a Iron Man en pantalla grande. El plan de cine con niños. La butaca como punto de reencuentro (con foto de la fila), el baño en pares y la salida en grupo. #endgame #avengers #ironman #cineconninos #peru",
+        "tt": "Tus hijos van a conocer a Iron Man en el cine 🦸 el plan familiar #endgame #avengers #peru",
+        "fb": "Los que lloramos Endgame en 2019 ahora volvemos al cine… con hijos. Antes de que se apaguen las luces, un solo acuerdo: 'si nos separamos, vuelves a ESTA butaca' (foto del número de fila incluida). El cine oscuro se gana con puntos fijos, no con carreras. Te amo 3000."
+      },
+      "alt": "Plan familiar para el re-estreno de Endgame: butaca como punto fijo y baño en pares."
+    },
+    {
+      "slug": "25-estampida-cine",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "ENDGAME EN CINES",
+          "emoji": "🍿",
+          "h": "La salida del cine es una estampida con niños"
+        },
+        {
+          "role": "value",
+          "h": "Quédense al post-crédito",
+          "b": "Cinco minutos sentados mientras la sala se vacía. Sales caminando, no cargando contra el río."
+        },
+        {
+          "role": "value",
+          "h": "Cruzar la puerta de la sala",
+          "b": "· El ancla lo lleva de la mano hasta la puerta\n· Ahí, conteo\n· El estacionamiento se cruza en grupo"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Para el río de gente",
+          "b": "Si la estampida los separa, su ComeHomeTag habla con el primer adulto que lo asista. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Post-crédito, conteo en la puerta, grupo al carro.",
+          "b": "La salida también se planea: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Nadie planea la SALIDA del cine. Y es el momento exacto donde las familias se separan: 200 personas, una puerta, oscuridad y niños dormidos. El truco del post-crédito (5 minutos sentados), el conteo en la puerta y el estacionamiento en grupo. #cineconninos #endgame #seguridadinfantil #peru",
+        "tt": "La salida del cine es una estampida 🍿 el truco del post-crédito #cine #ninos #peru",
+        "fb": "Todos planean la ida al cine; nadie planea la salida. Que es donde de verdad se separan las familias. El truco es gratis: quedarse al post-crédito 5 minutos (con Marvel hasta cuenta como fan service) y salir caminando con la sala vacía. Conteo en la puerta y al carro en grupo."
+      },
+      "alt": "Cómo salir del cine con niños sin separarse: post-crédito y conteo."
+    },
+    {
+      "slug": "26-cuidadora",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "MES DEL ALZHEIMER",
+          "emoji": "🫂",
+          "h": "Cuidar sola a tu papá también te enferma"
+        },
+        {
+          "role": "value",
+          "h": "La cuidadora casi siempre es una",
+          "b": "Casi siempre una hija: sin sueldo, sin relevo y sin permiso para cansarse.",
+          "emoji": "😢"
+        },
+        {
+          "role": "value",
+          "h": "Las señales de que ya te pasó",
+          "b": "· Duermes mal aunque él duerma bien\n· Te irritas por nada\n· Cancelaste tu vida «por mientras»"
+        },
+        {
+          "role": "value",
+          "h": "El relevo mínimo",
+          "b": "Media jornada fija a la semana en que otro familiar cuida. Se agenda como cita médica."
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Un peso menos en tu cabeza",
+          "b": "Con su ComeHomeTag puesto, la pregunta '¿y si sale y se pierde?' deja de vivir contigo las 24 horas. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Cuidar al que te cuidó empieza por cuidarte a ti.",
+          "b": "Reenvía esto al grupo de hermanos, hoy: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "En casi toda familia peruana cuida UNA persona. Casi siempre una hija, sin sueldo ni relevo. Mes del Alzheimer también es hablar de ella: las señales de sobrecarga del cuidador y el relevo mínimo semanal que se agenda como cita médica. 💜 #cuidadores #alzheimer #adultomayor #peru #saludmental",
+        "tt": "Cuidar sola también enferma 🫂 el relevo mínimo #cuidadoras #alzheimer #peru",
+        "fb": "Hablemos de la que cuida: casi siempre es una sola persona, casi siempre mujer, casi siempre 'por mientras' desde hace años. Si duermes mal, te irritas por nada y tu vida está en pausa. No es debilidad, es sobrecarga. El relevo mínimo semanal no se negocia. Reenvíalo al grupo de hermanos."
+      },
+      "alt": "Sobrecarga del cuidador: señales y el relevo semanal mínimo."
+    },
+    {
+      "slug": "27-reloj-gps",
+      "slides": [
+        {
+          "role": "cover",
+          "emoji": "🔋",
+          "h": "El reloj GPS de tu hijo muere a las 3pm"
+        },
+        {
+          "role": "value",
+          "h": "Los 3 huecos del GPS",
+          "b": "· Batería\n· Cobertura: sótanos, carretera\n· La muñeca: se lo quitan para jugar\nBuen extra. Mal plan único."
+        },
+        {
+          "role": "value",
+          "h": "Capas, no aparatos",
+          "b": "· Primero el plan físico\n· Luego identificación que no se apaga\n· Encima, si quieres, el GPS"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "La capa que no usa batería",
+          "b": "Los papás que ya pasaron el susto del reloj apagado usan ComeHomeTag: QR pasivo, imposible de descargar. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "A las 3pm el reloj muere. El plan no.",
+          "b": "Arma las capas en este orden: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "El reloj GPS sale de casa al 100% y llega a la salida del colegio en rojo. Sus 3 huecos: batería, cobertura y que se lo quitan para jugar. La seguridad se arma en capas. Plan físico, identificación pasiva y recién ahí el GPS. #relojgps #seguridadinfantil #tecnologia #peru #papas",
+        "tt": "El reloj GPS muere a las 3pm 🔋 arma capas #seguridadinfantil #gps #peru",
+        "fb": "Compraste el reloj GPS y dormiste tranquilo… hasta el día que llegó apagado a la salida del colegio. No es mal aparato: es mal plan ÚNICO. La seguridad se arma en capas. Número memorizado y punto de reencuentro primero, identificación que no se apaga después, y el GPS encima."
+      },
+      "alt": "Limitaciones del reloj GPS y el sistema de capas de seguridad."
+    },
+    {
+      "slug": "28-don-julio",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-03-abuelo",
+          "emoji": "🏘",
+          "h": "Don Julio saluda al vigilante hace 20 años",
+          "b": "ese saludo puede salvarlo"
+        },
+        {
+          "role": "value",
+          "h": "El barrio es tu primer buscador",
+          "b": "El bodeguero, la farmacia, el vigilante: lo ven pasar todos los días."
+        },
+        {
+          "role": "value",
+          "h": "La ronda de presentación",
+          "b": "Una tarde, del brazo: «si un día lo ve solo después de las 5, me llama». Cinco números en la cuadra."
+        },
+        {
+          "role": "value",
+          "h": "El grupo de la cuadra",
+          "b": "Preséntalo en el grupo de WhatsApp de la calle, con foto. Un mensaje mueve a cuarenta vecinos."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Y para fuera del barrio",
+          "b": "Donde nadie lo conoce, su ComeHomeTag lo presenta: tu contacto en pantalla para cualquiera que lo asista. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Cinco vecinos con tu número. Esa es la ronda.",
+          "b": "Hazla esta semana, del brazo: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Don Julio saluda al mismo vigilante hace 20 años. Y ese saludo puede salvarlo. La red vecinal del adulto mayor: la ronda de presentación (5 números repartidos en la cuadra), el grupo de WhatsApp de la calle y por qué el barrio encuentra más rápido que una patrulla. 💜 #adultomayor #alzheimer #barrio #peru #vecinos",
+        "tt": "El saludo de 20 años que puede salvarlo 🏘 #abuelos #barrio #peru",
+        "fb": "El bodeguero, la señora de la farmacia y el vigilante ven pasar a tu papá todos los días. Son tu primera red de búsqueda, si saben a quién llamar. La ronda cuesta una tarde: caminar del brazo, presentarlo y dejar tu número en 5 puntos de la cuadra. Hazla esta semana."
+      },
+      "alt": "Red vecinal para adultos mayores: la ronda de presentación por la cuadra."
+    },
+    {
+      "slug": "29-cuatro-habitos",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Hay papás modo susto y papás modo plan",
+          "b": "septiembre te enseñó a ser el segundo",
+          "emoji": "✅"
+        },
+        {
+          "role": "value",
+          "h": "Cuando no lo ves",
+          "b": "Modo susto: correr gritando su nombre\nModo plan: uno se planta en el punto, otro barre"
+        },
+        {
+          "role": "value",
+          "h": "Cuando te piden describirlo",
+          "b": "Modo susto: «polo azul... creo»\nModo plan: mostrar la foto de hoy"
+        },
+        {
+          "role": "value",
+          "h": "El número de mamá",
+          "b": "Modo susto: «él se lo sabe»\nModo plan: probado esta semana, sin mirar pantalla"
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El modo plan se lleva en la muñeca",
+          "b": "Los papás modo plan completan el sistema con ComeHomeTag: si todo falla, el QR dice tu número."
+        },
+        {
+          "role": "cta",
+          "h": "Octubre viene con multitudes. Entra en modo plan.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Papás modo susto vs papás modo plan: la diferencia en el momento que importa. Uno se planta en el punto y otro barre, la foto de hoy en vez de la memoria, y el número probado esta semana. ComeHomeTag (comehometag.com) completa el modo plan. #niñosseguros #papas #familia #peru #prevencion",
+        "tt": "Hay papás modo susto y papás modo plan ✅ ¿cuál eres? #papas #niños #familia #peru",
+        "fb": "Cuando un niño no aparece hay dos tipos de papás: el que corre gritando y el que ejecuta el plan. Plantarse en el punto, mostrar la foto de hoy, el número probado. Octubre viene con procesiones y multitudes: entra en modo plan. ComeHomeTag (comehometag.com), el QR que habla si todo lo demás falla."
+      },
+      "alt": "Comparación entre reaccionar con susto y reaccionar con plan cuando un niño se pierde."
+    },
+    {
+      "slug": "30-mes-morado",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-06-procesion",
+          "emoji": "🟣",
+          "h": "En octubre Lima entera camina hacia el mismo sitio",
+          "b": "la procesión más grande de Sudamérica"
+        },
+        {
+          "role": "value",
+          "h": "Cientos de miles en las mismas cuadras",
+          "b": "Los picos son el 18, 19 y 28 de octubre. Familias completas, abuelos devotos, niños en hombros."
+        },
+        {
+          "role": "value",
+          "h": "Los devotos más frágiles",
+          "b": "Una promesa de décadas no se negocia. Prohibirles ir no funciona; acompañarlos con plan, sí.",
+          "emoji": "🙏"
+        },
+        {
+          "role": "value",
+          "h": "Lo que dejamos listo esta semana",
+          "b": "· Un ancla por abuelo y por niño\n· El distintivo va fuera del morado\n· Número memorizado e identificación encima"
+        },
+        {
+          "role": "recap"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "La tradición también se cuida",
+          "b": "Las familias devotas salen con ComeHomeTag puesto: si la multitud los separa, el QR dice tu número. comehometag.com"
+        },
+        {
+          "role": "cta",
+          "h": "Octubre es morado. Que en tu familia sea tranquilo.",
+          "b": "Prepara el plan de procesión esta semana: comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Se viene el Mes Morado: la procesión del Señor de los Milagros es la más grande de Sudamérica y saca a Lima entera a las mismas cuadras (picos: 18, 19 y 28 de octubre). El plan de multitudes en versión fe. Anclas, ropa clara, número memorizado. Se prepara desde ya. 🟣 #senordelosmilagros #mesmorado #lima #peru #procesion",
+        "tt": "Octubre: Lima entera camina al mismo sitio 🟣 prepárate #mesmorado #senordelosmilagros #lima",
+        "fb": "En octubre la procesión del Señor de los Milagros reúne a cientos de miles. Y tus abuelos van a ir, porque una promesa de décadas no se negocia. La respuesta no es prohibir: es acompañar con plan. Anclas por persona, ropa con distintivo, número memorizado. Se prepara esta semana."
+      },
+      "alt": "Preparación familiar para las procesiones del Mes Morado en octubre."
     }
-   ],
-   "caption": {
-    "ig": "Mes Mundial del Alzheimer: las señales tempranas que no son 'cosas de la edad'. Perderse en rutas conocidas, repetir preguntas en una hora, guardar cosas en sitios absurdos. En el Perú hay más de 200 mil casos (MINSA) y la mayoría se detecta tarde. Qué hacer esta semana, paso a paso. 💜 #alzheimer #adultomayor #peru #familia #mesmundialdelalzheimer",
-    "tt": "3 señales de que NO es 'cosas de viejo' 🧠💜 #alzheimer #abuelos #peru #adultomayor",
-    "fb": "Septiembre es el Mes Mundial del Alzheimer. En el Perú más de 200 mil familias lo viven. Y casi todas empezaron igual: 'son cosas de la edad'. Estas son las 3 señales que no lo son, y lo que puedes hacer esta misma semana. ¿En tu familia ya hablaron de esto?"
-   },
-   "alt": "Señales tempranas de Alzheimer y plan familiar para actuar esta semana."
-  },
-  {
-   "slug": "02-combi",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🚌",
-     "h": "En la combi tu hijo se baja donde no era"
-    },
-    {
-     "role": "value",
-     "h": "La regla de oro: el que se baja mal, espera",
-     "b": "Si se baja mal, o el carro arranca contigo adentro, se baja en el SIGUIENTE y espera ahí.",
-     "emoji": "😨"
-    },
-    {
-     "role": "value",
-     "h": "El juego del paradero",
-     "b": "«¿Y si yo me bajo y tú te quedas?» Que él te diga la regla, no tú."
-    },
-    {
-     "role": "value",
-     "h": "¿Quién sube primero?",
-     "b": "· Él sube primero, tú detrás\n· Tú bajas primero, él te sigue\n· El carro nunca parte a la familia"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Los papás de combi ya lo resolvieron",
-     "b": "El cobrador no sabe tu número; la «pulsera» sí. ComeHomeTag: un QR que cualquier celular lee. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "El siguiente paradero. Ese es el trato.",
-     "b": "Ensáyenlo hoy camino a casa: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Transporte público con niños: la regla del siguiente paradero que toda familia debería ensayar. Si el carro los separa, él espera en el siguiente y tú regresas. Quién sube primero, quién baja primero, y el juego para practicarlo camino al colegio. #seguridadinfantil #transportepublico #lima #peru #papas",
-    "tt": "La regla del paradero que puede salvar a tu hijo 🚌 #lima #combi #seguridadinfantil #peru",
-    "fb": "¿Alguna vez la combi arrancó contigo adentro y tu hijo en la vereda? La regla del siguiente paradero existe para ese segundo de terror: él espera en el siguiente, tú regresas, nadie camina. Ensáyenla hoy. En pánico solo sale lo ensayado."
-   },
-   "alt": "Regla del siguiente paradero para no separarse en transporte público."
-  },
-  {
-   "slug": "03-donde-se-pierden",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "📍",
-     "h": "Los niños no se pierden donde tú crees"
-    },
-    {
-     "role": "value",
-     "h": "Los lugares donde tus ojos están ocupados",
-     "b": "· La caja y los probadores\n· Los puestos del mercado\n· Ferias y estacionamientos\n· El parque asusta más y ahí sí lo miras"
-    },
-    {
-     "role": "value",
-     "h": "Una regla por lugar",
-     "b": "· Caja: su mano en el coche o tu bolsillo\n· Mercado: él carga UNA bolsa\n· Feria: punto de reencuentro al llegar\n· Estacionamiento: baja último, sube primero"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Para el lugar donde mires otra cosa",
-     "b": "Si el niño se suelta, el QR de ComeHomeTag dice tu número. Cualquier celular lo lee. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "La caja, no el parque. Ahora ya sabes dónde mirar.",
-     "b": "Guarda la lista y aplícala este finde: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "¿Dónde se pierden los niños de verdad? No en el parque: en la caja del súper, los probadores, los puestos del mercado y el estacionamiento. Los lugares donde tus ojos están en otra cosa. Una regla concreta para cada uno, incluido el truco de la bolsa. #seguridadinfantil #ninosperdidos #mama #peru #crianza",
-    "tt": "Los niños NO se pierden donde crees 📍 la lista que importa #seguridadinfantil #mamaprimeriza #peru",
-    "fb": "El parque no es el lugar peligroso: ahí lo estás mirando. Los niños se pierden en la caja, en los probadores, en el mercado. Donde tus manos y tus ojos están ocupados. Aquí va la lista y una regla simple para cada lugar (la de la bolsa es oro)."
-   },
-   "alt": "Lugares donde la atención del adulto está ocupada y una regla por lugar."
-  },
-  {
-   "slug": "04-fiesta-infantil",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🎂",
-     "h": "En la fiesta infantil nadie está mirando a nadie"
-    },
-    {
-     "role": "value",
-     "h": "El trato entre papás: turnos de 20",
-     "b": "· 20 minutos cada uno de portero\n· Un ojo en la puerta, otro en la piscina\n· Los demás conversan tranquilos"
-    },
-    {
-     "role": "value",
-     "h": "El conteo del anfitrión",
-     "b": "Cuenta a los niños en cada transición: torta, piñata, salida. En la piñata todos miran arriba."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El invitado mejor vestido lleva QR",
-     "b": "En una fiesta nadie sabe el número de la mamá de cada niño. La «pulsera» ComeHomeTag sí. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Tú toma tu gaseosa tranquilo: hay portero.",
-     "b": "Propón los turnos de 20 en la próxima fiesta: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Fiestas infantiles: 30 niños, 20 adultos y nadie de portero. El sistema de turnos de 20 minutos entre papás, el conteo del anfitrión en cada transición y por qué la piñata es el momento exacto en que un niño puede salir por la puerta. #fiestainfantil #seguridadinfantil #cumpleanos #peru #papas",
-    "tt": "En la piñata todos miran arriba… menos uno 🎂 #fiestainfantil #seguridadinfantil #peru",
-    "fb": "En las fiestas infantiles todos creen que 'alguien' está mirando a los niños. O sea nadie. El truco: turnos de portero de 20 minutos entre papás y el conteo en cada transición (torta, piñata, salida). Compártelo con el grupo del cumpleaños de este sábado."
-   },
-   "alt": "Sistema de turnos entre papás y conteo para fiestas infantiles."
-  },
-  {
-   "slug": "05-linea-recta",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🌀",
-     "h": "Un niño perdido no camina en línea recta"
-    },
-    {
-     "role": "value",
-     "h": "Tú barres en círculos y él también",
-     "b": "Busca «el camino de vuelta» y da vueltas. Dos personas girando pueden cruzarse sin verse."
-    },
-    {
-     "role": "value",
-     "h": "El fijo y el móvil",
-     "b": "· Uno se planta donde lo vieron\n· El otro barre en espiral, sin saltar zonas\n· Si son tres, uno va a seguridad"
-    },
-    {
-     "role": "value",
-     "h": "Seguridad primero, no al final",
-     "b": "El altavoz encuentra más rápido que diez tíos corriendo. Muchos buscan 20 minutos antes de avisar."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Y si lo encuentra un extraño primero",
-     "b": "Su «pulsera» ComeHomeTag dice a quién llamar sin que tu hijo recuerde nada. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Fijo, espiral, altavoz. En ese orden.",
-     "b": "Memorízalo hoy que no pasa nada: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Cómo se busca a un niño perdido (de verdad): uno fijo en el último punto donde lo vieron, otro barriendo en espiral, y seguridad avisada en el minuto uno. No a los 20. Por qué dos personas buscando en círculos se cruzan sin verse. #ninoperdido #seguridadinfantil #mall #peru",
-    "tt": "Por eso no lo encuentras: los dos caminan en círculos 🌀 #seguridadinfantil #peru #papas",
-    "fb": "Dato que nadie te enseña: un niño perdido no se queda quieto ni camina recto. Da vueltas buscando el camino de vuelta. Por eso la búsqueda correcta tiene un FIJO (donde lo viste por última vez), un MÓVIL (en espiral) y al altavoz de seguridad desde el minuto uno."
-   },
-   "alt": "Método de búsqueda fijo-espiral-altavoz para un niño perdido."
-  },
-  {
-   "slug": "06-salio-por-pan",
-   "slides": [
-    {
-     "role": "story",
-     "plate": "cine-03-abuelo",
-     "emoji": "🍞",
-     "h": "La abuela salió por pan y caminó a su casa de niña",
-     "b": "el Alzheimer borra de atrás hacia adelante"
-    },
-    {
-     "role": "value",
-     "h": "A dónde van los que deambulan",
-     "b": "· La casa donde creció\n· El trabajo de antes\n· La iglesia de siempre\n· Esa lista es tu ruta de búsqueda",
-     "emoji": "💔"
-    },
-    {
-     "role": "value",
-     "h": "Los horarios también avisan",
-     "b": "Lo llaman sundowning: de 4 a 7pm sube la desorientación. Salidas solas, en la mañana."
-    },
-    {
-     "role": "value",
-     "h": "Avísale al barrio antes del susto",
-     "b": "«Si lo ve solo después de las 5, me llama.» Bodeguero, farmacia, vigilante."
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Su pasado no está en el mapa; su «pulsera» sí",
-     "b": "ComeHomeTag para abuelos: QR con tu contacto, legible desde cualquier celular. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Haz la lista de sus lugares de antes. Hoy.",
-     "b": "Y compártela con tu red familiar: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "El Alzheimer no borra al azar: borra de atrás hacia adelante. Por eso los abuelos que deambulan van a su casa antigua, su trabajo de antes, su iglesia de siempre. La lista de lugares del pasado es tu ruta de búsqueda. Y el atardecer, la hora de acompañarlos. #alzheimer #abuelos #adultomayor #peru #mesdelalzheimer",
-    "tt": "Salió por pan y caminó a su casa de hace 40 años 💜 #alzheimer #abuelos #peru",
-    "fb": "'Salió por pan y no volvió.' Cuando un abuelo con Alzheimer deambula, no camina al azar: va a los lugares de su pasado. La casa de la infancia, el trabajo de antes. Haz hoy esa lista con tus hermanos: es la ruta de búsqueda que ojalá nunca uses."
-   },
-   "alt": "Deambulación en Alzheimer: lugares del pasado, horario crítico y red vecinal."
-  },
-  {
-   "slug": "07-perro-volver",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🐕",
-     "h": "Tu perro sí quiere volver, no sabe cómo"
-    },
-    {
-     "role": "value",
-     "h": "El collar dice 'Rocky' y nada más",
-     "b": "Un nombre no llama a nadie. Necesita UN dato: tu número, legible, que no se borre."
-    },
-    {
-     "role": "value",
-     "h": "La foto que sirve",
-     "b": "De pie, de costado, con buena luz. No la tierna durmiendo."
-    },
-    {
-     "role": "stat",
-     "shot": "llavero.png",
-     "h": "El «llavero» QR va en el collar y habla por él",
-     "b": "ComeHomeTag para mascotas: quien lo encuentre escanea y te llama al toque. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Rocky quiere volver. Ponle el cómo.",
-     "b": "El «llavero» va en el collar: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Tu perro no se escapa: se pierde sin camino de vuelta. El collar con puro nombre no llama a nadie. El dato que salva es tu número legible. Cuándo se pierden de verdad (pirotecnia, mudanzas, delivery) y cuál es LA foto que el barrio sí reconoce. #mascotas #perros #perroperdido #peru",
-    "tt": "El collar dice 'Rocky'… ¿y tu número? 🐕 #mascotas #perros #peru #perroperdido",
-    "fb": "'Se escapó' casi nunca es la historia real: la historia es que nadie le puso el camino de vuelta. Tu número legible en el collar vale más que cualquier placa bonita. Y la foto de pie, de costado y con luz es la que el barrio reconoce. ¿Tu engreído ya tiene su dato puesto?"
-   },
-   "alt": "Identificación de mascotas: número legible, momentos de riesgo y la foto útil."
-  },
-  {
-   "slug": "08-celular-igual-se-pierde",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "SEMANA APPLE",
-     "emoji": "📵",
-     "h": "Tu hijo tiene celular y igual se pierde"
-    },
-    {
-     "role": "value",
-     "h": "El celular muere a la peor hora",
-     "b": "· Batería al 3% tras el recreo\n· En silencio desde el cine\n· O en la mano del que se lo quitó",
-     "emoji": "🔋"
-    },
-    {
-     "role": "value",
-     "h": "En pánico no contesta",
-     "b": "Un niño asustado no atina a llamar: se mueve. Por eso el plan es físico."
-    },
-    {
-     "role": "value",
-     "h": "La prueba del número",
-     "b": "Pregúntale ahora tu número, sin mirar pantalla. Si duda, se lo aprende como canción."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Lo pasivo no se apaga",
-     "b": "Le pusieron ComeHomeTag al niño, no solo al celular: QR sin batería, sin apps. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Sale el iPhone nuevo. Tu plan sigue siendo análogo.",
-     "b": "Número memorizado + punto + pulsera: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Semana de lanzamiento de iPhone y una verdad incómoda: tu hijo con celular igual se pierde. La batería muere a la peor hora, en pánico no contesta, y el plan que sirve es físico. Número memorizado, punto de reencuentro, identificación que no se apaga. #iphone #seguridadinfantil #papas #peru #tecnologia",
-    "tt": "Tiene celular y IGUAL se pierde 📵 la prueba del número #seguridadinfantil #iphone #peru",
-    "fb": "Salió iPhone nuevo y es buen momento para decirlo: el celular de tu hijo es un buen extra y un pésimo plan único. Se queda sin batería a la peor hora y en pánico nadie contesta. Hazle hoy la prueba del número. Sin mirar pantalla. ¿La pasa?"
-   },
-   "alt": "Por qué el celular no reemplaza el plan físico de seguridad infantil."
-  },
-  {
-   "slug": "09-maldicion-owens",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "VUELVE PRACTICAL MAGIC",
-     "emoji": "🔮",
-     "img": "evento-bullock.jpg",
-     "h": "Hay una familia donde enamorarse mata",
-     "b": "las Owens vuelven después de 28 años"
-    },
-    {
-     "role": "value",
-     "h": "Toda familia carga una maldición",
-     "b": "La de las Owens mata novios. La de la mayoría es «nunca nos ha pasado nada»."
-    },
-    {
-     "role": "value",
-     "h": "Las maldiciones se rompen nombrándolas",
-     "b": "¿Quién mira la puerta en las reuniones? ¿Quién acompaña al abuelo en misa? Si es «todos», es NADIE."
-    },
-    {
-     "role": "value",
-     "h": "El hechizo de 5 minutos",
-     "b": "· Foto del día\n· Punto de reencuentro en voz alta\n· Un adulto ancla por cada niño o abuelo"
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El amuleto de la familia moderna",
-     "b": "Las familias que rompieron su maldición llevan ComeHomeTag: pulsera QR con tu contacto, sin batería. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Que en tu familia enamorarse sí, perderse no.",
-     "b": "Rompe la maldición del 'nunca pasa nada': comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Vuelve Practical Magic 28 años después: en la familia Owens, enamorarse mata. Tu familia también tiene su maldición. Se llama 'nunca nos ha pasado nada'. Cómo romperla en 5 minutos antes de cada salida. 🔮 #practicalmagic #sandrabullock #nicolekidman #familia #peru",
-    "tt": "Toda familia tiene una maldición. La tuya se llama 'nunca pasa nada' 🔮 #practicalmagic #peru #familia",
-    "fb": "Las brujas Owens vuelven al cine después de 28 años, con su maldición de siempre: quien las ama, muere. La maldición de las familias normales es menos dramática pero más común. 'nunca nos ha pasado nada'. Se rompe con un hechizo de 5 minutos antes de salir. Aquí va."
-   },
-   "alt": "Practical Magic 2 y el plan familiar de 5 minutos antes de cada salida."
-  },
-  {
-   "slug": "10-viernes-salen-papas",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🎶",
-     "h": "Este viernes salen los papás y los hijos lo saben",
-     "b": "Romeo Santos en Lima: noche de niños donde la tía"
-    },
-    {
-     "role": "value",
-     "h": "La casa ajena no tiene tus reglas",
-     "b": "Llama antes: seguro de la puerta, quién más estará en casa, a qué hora se acuestan."
-    },
-    {
-     "role": "value",
-     "h": "Los 4 datos pegados en la refri",
-     "b": "· Tu número y el del papá\n· El del pediatra\n· La dirección EXACTA de esa casa\n· En papel, no en un chat"
-    },
-    {
-     "role": "value",
-     "h": "El check de las 11",
-     "b": "Un mensaje a las 11. Y la hora real de regreso, dicha antes de salir."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "La «pulsera» no se queda en casa",
-     "b": "Con ComeHomeTag puesto, cualquier adulto que lo encuentre te llama en segundos. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Canten Propuesta Indecente en paz: el plan quedó en la refri.",
-     "b": "Los 4 datos, esta tarde: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Concierto de Romeo Santos en Lima = noche de niños donde la tía. El protocolo de la casa ajena: los 4 datos pegados en la refri (incluida la dirección exacta, que el niño no sabe), el check de las 11 y el plan B avisado antes. #romeosantos #lima #conciertos #papas #seguridadinfantil",
-    "tt": "Salen los papás 🎶 protocolo de noche donde la tía #romeosantos #lima #peru #papas",
-    "fb": "Este viernes medio Lima canta con Romeo Santos y los niños duermen donde la tía. Antes de salir: 4 datos en la refri (tu número, el del papá, el pediatra y la DIRECCIÓN de esa casa. El niño no la sabe), check de las 11 y hora real de regreso. Bailen tranquilos."
-   },
-   "alt": "Protocolo para dejar a los niños en casa de un familiar durante una salida nocturna."
-  },
-  {
-   "slug": "11-red-de-tres",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "VUELVEN LAS OWENS",
-     "emoji": "✨",
-     "img": "evento-kidman.jpg",
-     "h": "Tu hermana es tu primer plan de emergencia",
-     "b": "las Owens llevan 28 años demostrándolo"
-    },
-    {
-     "role": "value",
-     "h": "El segundo contacto decide",
-     "b": "Si encuentran a tu hijo y tú no contestas, ¿quién sí? La mayoría no tiene respuesta.",
-     "emoji": "📞"
-    },
-    {
-     "role": "value",
-     "h": "La red de 3",
-     "b": "· Tú más dos que SIEMPRE contestan\n· Los tres tienen las fotos\n· Los tres saben el punto de reencuentro"
-    },
-    {
-     "role": "value",
-     "h": "La red se mantiene con un mensaje",
-     "b": "Cambio de colegio, de casa, de rutina: un mensaje al grupo. Una red vieja da direcciones viejas."
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El QR también llama a la red",
-     "b": "Con ComeHomeTag, quien lo encuentra ve el contacto de la familia al instante. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Las Owens tienen hechizos. Tú tienes hermanas.",
-     "b": "Arma tu red de 3 hoy: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Las hermanas Owens vuelven 28 años después y dejan la lección más práctica: tu hermana es tu plan de emergencia. La red de 3. Tú más dos personas que SIEMPRE contestan. Con fotos, punto de reencuentro y un mensaje al mes para mantenerla viva. #practicalmagic #familia #hermanas #peru #seguridadinfantil",
-    "tt": "Tu hermana ES tu plan de emergencia ✨ la red de 3 #familia #hermanas #peru",
-    "fb": "Si encuentran a tu hijo y tú no contestas el teléfono, ¿quién sí? Esa pregunta separa un susto de 10 minutos de una tarde de terror. La respuesta es la red de 3: tú y dos personas que siempre contestan, con las fotos y el plan. Las Owens aprobarían."
-   },
-   "alt": "La red familiar de tres contactos para emergencias con niños."
-  },
-  {
-   "slug": "12-contar-cabezas",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "DÍA DE LA FAMILIA",
-     "emoji": "🔢",
-     "h": "En tu familia nadie cuenta cabezas"
-    },
-    {
-     "role": "value",
-     "h": "Salir en familia grande es soltar de a dos",
-     "b": "· Cada uno cree que otro lo tiene\n· Un adulto responsable por niño\n· Dicho en voz alta al salir"
-    },
-    {
-     "role": "value",
-     "h": "El conteo en cada transición",
-     "b": "Al subir al carro, al bajar, al entrar: cuenta el MISMO adulto y lo dice: «cinco»."
-    },
-    {
-     "role": "value",
-     "h": "El abuelo también se cuenta",
-     "b": "El que «conoce Lima de memoria» es el que más se queda atrás. Del brazo en cruces, de cariño.",
-     "emoji": "🧓"
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El ancla humana + el ancla QR",
-     "b": "Las familias grandes con ComeHomeTag salen con doble seguro: un adulto por persona, un QR por muñeca. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Uno cuenta. Siempre el mismo. En cada puerta.",
-     "b": "Este domingo estrena el sistema: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Día de la Familia: salir en familia grande es soltar de a dos, porque cada adulto cree que 'otro' lo tiene. El sistema del ancla (un adulto por niño y por abuelo) y el conteo en cada puerta. Simple, gratis, salva paseos. #diadelafamilia #familia #peru #paseofamiliar #seguridadinfantil",
-    "tt": "8 adultos, 5 niños, nadie contando 🔢 #familia #peru #paseo #diadelafamilia",
-    "fb": "Verdad incómoda de los paseos familiares: mientras más adultos van, menos vigilan. Todos creen que 'alguien' lo tiene. Para este Día de la Familia: sistema del ancla (un adulto por niño/abuelo, dicho en voz alta) y conteo en cada transición. ¿Quién cuenta cabezas en tu familia?"
-   },
-   "alt": "Sistema del ancla y conteo de cabezas para salidas de familia grande."
-  },
-  {
-   "slug": "13-paseo-comisaria",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "DÍA DE LA FAMILIA",
-     "emoji": "😅",
-     "h": "Que el paseo familiar no termine en comisaría"
-    },
-    {
-     "role": "value",
-     "h": "El checklist de 4, en el carro",
-     "b": "· Foto de cada niño como salió\n· Punto de reencuentro apenas lleguen\n· Un ancla por niño\n· Regla dicha: si te pierdes, quédate"
-    },
-    {
-     "role": "value",
-     "h": "La sobremesa tiene turnos",
-     "b": "El riesgo no es la caminata: es cuando los adultos conversan. Vigía de 15 minutos."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El quinto seguro va en la muñeca",
-     "b": "Si igual se suelta, su ComeHomeTag dice tu número al primer escaneo. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Feliz Día de la Familia: completa, y de vuelta en casa.",
-     "b": "Checklist de 4 en el carro, hoy: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Feliz Día de la Familia. Que se celebre completo. El checklist de 4 para decir en el carro (foto del día, punto de reencuentro, anclas, la regla de quedarse quieto) y los turnos de vigía en la sobremesa, que es donde de verdad se sueltan. #diadelafamilia #peru #familia #domingofamiliar",
-    "tt": "Que el paseo no acabe en comisaría 😅 checklist de 4 #diadelafamilia #peru #familia",
-    "fb": "El Día de la Familia es el día de más familias por metro cuadrado del mes. Y la sobremesa larga es el momento exacto donde los niños 'desaparecen un segundo'. Checklist de 4 en el carro y turnos de vigía de 15 minutos. Feliz día, completo y sin sustos."
-   },
-   "alt": "Checklist de salida y turnos de vigía para el Día de la Familia."
-  },
-  {
-   "slug": "14-extranos-mal-ensenado",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🗣",
-     "h": "'No hables con extraños' está mal enseñado"
-    },
-    {
-     "role": "value",
-     "h": "Perdido, va a TENER que hablar con uno",
-     "b": "La regla absoluta lo congela: no pide ayuda, se esconde. Necesita saber a QUIÉN sí.",
-     "emoji": "😖"
-    },
-    {
-     "role": "value",
-     "h": "Los 3 seguros",
-     "b": "En ese orden:\n· Una mamá con niños\n· Personal con uniforme del local\n· La caja de cualquier tienda"
-    },
-    {
-     "role": "value",
-     "h": "El guion de 2 líneas",
-     "b": "«Estoy perdido. Mi mamá se llama [nombre] y su número es [número].» Practíquenlo como juego."
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Y si el susto no lo deja hablar, el QR habla",
-     "b": "ComeHomeTag dice el guion por él: tu contacto en pantalla al primer escaneo. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "No le enseñes a callar. Enséñale a quién sí.",
-     "b": "Los 3 seguros + el guion, esta semana: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "'No hables con extraños' congela a un niño perdido justo cuando necesita pedir ayuda. Lo correcto: enseñarle a QUIÉN sí. Una mamá con niños, personal con uniforme, la caja de una tienda. Y el guion de 2 líneas con tu nombre completo y número. #seguridadinfantil #crianza #peru #ninos",
-    "tt": "'No hables con extraños' está MAL enseñado 🗣 esto va en su lugar #crianza #seguridadinfantil #peru",
-    "fb": "Polémico pero cierto: 'no hables con extraños' es mala instrucción. Un niño perdido va a TENER que hablar con un extraño. Enséñale los 3 seguros (mamá con niños, uniforme, caja de tienda) y el guion de 2 líneas. Practicado como juego, sale solo cuando importa."
-   },
-   "alt": "Los tres adultos seguros y el guion que un niño perdido debe saber."
-  },
-  {
-   "slug": "15-esconde-que-se-pierde",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "MES DEL ALZHEIMER",
-     "emoji": "😶",
-     "h": "Tu papá esconde que se pierde"
-    },
-    {
-     "role": "value",
-     "h": "El primer extravío nunca te lo cuentan",
-     "b": "· Llegó tarde «por el tráfico»\n· Lo trajo un vecino «de casualidad»\n· Ya no va solo al banco"
-    },
-    {
-     "role": "value",
-     "h": "Pregunta sin examinar",
-     "b": "«¿Por dónde te viniste?» suena a control. «Te noto cansado, ¿te acompaño?» abre la puerta."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Dignidad también es esto",
-     "b": "Una pulsera ComeHomeTag no lo vigila ni lo delata: solo habla si alguien la escanea. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Él no te lo va a contar. Tú sí puedes notarlo.",
-     "b": "Las señales están en este post. Guárdalo: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Los primeros extravíos por Alzheimer no te los cuentan: los tapa la vergüenza. 'Llegué tarde por el tráfico', 'me trajo un vecino de casualidad', 'ya no quiero salir, hace calor'. Cómo notarlo, cómo preguntarlo sin herir y qué hacer desde la primera señal. 💜 #alzheimer #adultomayor #peru #mesdelalzheimer #familia",
-    "tt": "Tu papá no te va a contar que se perdió 😶 #alzheimer #abuelos #peru",
-    "fb": "Nadie llama a decir 'papá se perdió hoy'. Los primeros episodios se esconden: excusas de tráfico, vecinos 'de casualidad', un señor que de pronto ya no quiere salir solo. Si algo de esto te suena, este post es para tu familia. Cómo hablarlo sin quitarle dignidad."
-   },
-   "alt": "Cómo detectar los primeros extravíos que un adulto mayor esconde."
-  },
-  {
-   "slug": "16-color-semaforo",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🚦",
-     "h": "Vístelo de color semáforo para la multitud"
-    },
-    {
-     "role": "value",
-     "h": "El negro es invisible en un mar de gente",
-     "b": "En ferias y estadios la mitad va de oscuro. Amarillo o verde limón se pesca a 50 metros."
-    },
-    {
-     "role": "value",
-     "h": "Zapatos: el dato que no cambia",
-     "b": "Los niños se quitan chompas y gorros; los zapatos no. Al describir, empieza por los pies."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El accesorio que combina con todo",
-     "b": "Sea del color que sea la ropa, la «pulsera» ComeHomeTag lleva tu contacto puesto. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Semáforo arriba, foto del día y pies primero.",
-     "b": "Tres trucos que valen un evento entero: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Truco de multitudes que nadie usa: vestir a los niños de colores semáforo (amarillo, naranja, verde limón). El ojo los pesca a 50 metros y la descripción es inconfundible. Más: la foto del día y por qué se describe empezando por los zapatos. #seguridadinfantil #ferias #eventos #peru #crianza",
-    "tt": "Vístelo de semáforo 🚦 el truco de multitudes #seguridadinfantil #peru #mamatips",
-    "fb": "En una feria, la mitad de los niños va de plomo y azul marino. Invisibles en la multitud. El amarillo o naranja se ve a 50 metros. Suma la foto del día y el truco de describir por los zapatos (lo único que no se quitan) y tienes un sistema. Pruébalo este finde."
-   },
-   "alt": "Ropa de alta visibilidad, foto del día y descripción por zapatos para multitudes."
-  },
-  {
-   "slug": "17-escondido",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🙈",
-     "h": "El niño no estaba perdido, estaba escondido"
-    },
-    {
-     "role": "value",
-     "h": "Se esconden del regaño, no de ti",
-     "b": "Escuchó su nombre en tu voz de furia y se metió bajo un perchero. Muchos «perdidos» están a diez metros."
-    },
-    {
-     "role": "value",
-     "h": "Dónde mirar primero",
-     "b": "· Bajo racks de ropa\n· Entre cajas y dentro de autos\n· Detrás de módulos\n· Agáchate: su mundo está a 90 cm"
-    },
-    {
-     "role": "value",
-     "h": "El pacto anti-escondite",
-     "b": "«Si te llamamos, contesta siempre. No hay lío por contestar.» Dicho en calma."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Para cuando lo encuentra otro primero",
-     "b": "El vigilante que lo halla escanea su ComeHomeTag y te llama, sin esperar a que hable. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Haz el pacto hoy: contestar no tiene castigo.",
-     "b": "Y agáchate a buscar: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Secreto de búsquedas: muchos niños 'perdidos' están escondidos a 10 metros. Se asustaron de tu voz de furia y se metieron bajo un perchero. Dónde mirar primero (a 90 cm del piso) y el pacto anti-escondite que acorta búsquedas: contestar nunca tiene castigo. #seguridadinfantil #crianza #peru #ninos",
-    "tt": "No estaba perdido: estaba ESCONDIDO 🙈 #crianza #seguridadinfantil #peru",
-    "fb": "Cuando gritas su nombre con voz de pánico, tu hijo escucha voz de regaño. Y se esconde mejor. El pacto que lo cambia: 'si te llamamos, contestas siempre, no hay lío por contestar'. Y al buscar: agáchate, su mundo está a 90 cm del piso. Racks, cajas, autos."
-   },
-   "alt": "Niños que se esconden durante búsquedas: dónde mirar y el pacto para que contesten."
-  },
-  {
-   "slug": "18-no-esperes-24-horas",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "MES DEL ALZHEIMER",
-     "emoji": "⏱",
-     "h": "No esperes 24 horas para denunciar",
-     "b": "eso es un mito de película"
-    },
-    {
-     "role": "value",
-     "h": "La ley no pide esperar nada",
-     "b": "Se pone DE INMEDIATO, a cualquier hora, en cualquier comisaría, y es gratuita."
-    },
-    {
-     "role": "value",
-     "h": "Con demencia, cada hora pesa",
-     "b": "La Asociación de Alzheimer advierte: pasadas 24 horas deambulando, hasta la mitad sufre daños serios.",
-     "emoji": "😰"
-    },
-    {
-     "role": "value",
-     "h": "El orden de la primera hora",
-     "b": "· Su ruta vieja y lugares del pasado\n· Vecinos y bodegas con su foto\n· Denuncia inmediata\n· Alguien SE QUEDA en casa"
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Antes de que notes que salió",
-     "b": "Con ComeHomeTag, el primer desconocido que lo vea desorientado puede llamarte. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Minuto uno: ruta vieja, vecinos, denuncia, casa.",
-     "b": "Guarda el orden. Ojalá nunca lo uses: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "MITO PELIGROSO: 'hay que esperar 24 horas para denunciar una desaparición'. Falso. La denuncia se pone de inmediato, en cualquier comisaría, gratis. Y con un adulto mayor con demencia cada hora pesa: el orden exacto de la primera hora de búsqueda, guárdalo. 💜 #alzheimer #desaparecidos #peru #adultomayor #mesdelalzheimer",
-    "tt": "NO tienes que esperar 24 horas ⏱ es un mito #alzheimer #peru #abuelos",
-    "fb": "El mito de 'esperar 24 horas para denunciar' viene de las películas y ha costado búsquedas enteras. En el Perú la denuncia se pone DE INMEDIATO, a cualquier hora, gratis. Si cuidas a un adulto mayor, guarda el orden de la primera hora. El punto 4 (alguien se queda en casa) casi nadie lo sabe."
-   },
-   "alt": "Mito de las 24 horas y el orden correcto de la primera hora de búsqueda."
-  },
-  {
-   "slug": "19-carro-equivocado",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🚕",
-     "h": "Tu hijo se sube al carro equivocado"
-    },
-    {
-     "role": "value",
-     "h": "El 'me mandó tu mamá' funciona",
-     "b": "Un niño educado obedece a un adulto que suena seguro. El filtro no es la amabilidad.",
-     "emoji": "😨"
-    },
-    {
-     "role": "value",
-     "h": "La palabra clave",
-     "b": "· Una palabra rara y fácil: «mango»\n· Sin palabra, no se sube\n· Aunque conozca al adulto"
-    },
-    {
-     "role": "value",
-     "h": "Para movilidad y apps",
-     "b": "· Placa y nombre del chofer al chat\n· Al de siempre lo presentas tú\n· Todo cambio viaja con la palabra"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El otro filtro va en su muñeca",
-     "b": "Si algo sale raro, cualquier adulto escanea su ComeHomeTag y te llama a TI, no al que «lo mandó». comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Elijan su palabra hoy en la cena.",
-     "b": "'Mango' puede valer más que mil advertencias: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "El 'me mandó tu mamá' funciona porque los niños obedecen a adultos que suenan seguros. El filtro que sí sirve: la palabra clave familiar. Sin palabra, no se sube, aunque conozca al adulto. Cómo elegirla y cómo usarla con movilidad escolar y apps. #seguridadinfantil #palabraclave #crianza #peru",
-    "tt": "'Me mandó tu mamá' 🚕 la palabra clave lo desarma #seguridadinfantil #peru #crianza",
-    "fb": "Tu hijo es educado: si un adulto seguro le dice 'me mandó tu mamá, sube', sube. El antídoto cuesta una cena: elegir la palabra clave de la familia. Sin palabra, no se sube. Ni con conocidos. Y para la movilidad escolar: placa en el chat y presentación en persona. ¿Ya tienen su palabra?"
-   },
-   "alt": "La palabra clave familiar contra el 'me mandó tu mamá'."
-  },
-  {
-   "slug": "20-chompa-roja",
-   "slides": [
-    {
-     "role": "story",
-     "plate": "cine-04-mama",
-     "emoji": "🧥",
-     "h": "Buscaban una chompa roja que ya estaba en la mochila",
-     "b": "la descripción envejece en minutos"
-    },
-    {
-     "role": "value",
-     "h": "Los niños mudan de ropa solos",
-     "b": "Hizo calor y la chompa fue a la mochila. Todos buscan un color que ya no está puesto."
-    },
-    {
-     "role": "value",
-     "h": "Describe lo que no se quita",
-     "b": "· Zapatos y pantalón\n· El corte de pelo\n· La mochila misma\n· La foto del día le gana a todo"
-    },
-    {
-     "role": "value",
-     "h": "Actualiza en cada parada",
-     "b": "¿Se sacó la casaca en el restaurante? Foto de nuevo: dos segundos."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Lo único que no se cambia de ropa",
-     "b": "La «pulsera» ComeHomeTag sigue puesta cuando la chompa ya no: tu contacto encima de tu hijo, siempre. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Foto del día, pies primero, y actualiza en cada parada.",
-     "b": "Tres hábitos de dos segundos: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Historia real de mil búsquedas: todos buscaban la chompa roja… que ya estaba dentro de la mochila. Los niños mudan de ropa solos y la descripción envejece en minutos. Qué describir en su lugar (zapatos, mochila, corte) y el hábito de refrescar la foto en cada parada. #seguridadinfantil #ninoperdido #peru #crianza",
-    "tt": "Buscaban la chompa que ya estaba en la mochila 🧥 #seguridadinfantil #peru",
-    "fb": "'¿Cómo estaba vestido?'. 'Polo rojo… creo'. La descripción de la mañana envejece en minutos porque los niños se quitan capas solos. Quien busca bien no describe por el color de la ropa: describe por los zapatos (no se los quitan) y la mochila. Y la foto del día mata cualquier relato. Hábito de 2 segundos."
-   },
-   "alt": "Por qué la descripción de ropa envejece y qué describir en su lugar."
-  },
-  {
-   "slug": "21-dia-mundial",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "DÍA MUNDIAL DEL ALZHEIMER",
-     "h": "A una persona con Alzheimer no se le habla así",
-     "b": "hoy es su día mundial",
-     "emoji": "💜"
-    },
-    {
-     "role": "value",
-     "h": "No lo examines",
-     "b": "Así no: «¿no te acuerdas quién soy?»\nAsí sí: «hola papá, soy Carlos, tu hijo»"
-    },
-    {
-     "role": "value",
-     "h": "No lo corrijas, acompáñalo",
-     "b": "Así no: «mamá murió hace años, entiende»\nAsí sí: «cuéntame de ella mientras tomamos té»"
-    },
-    {
-     "role": "value",
-     "h": "Háblale como a un adulto",
-     "b": "Así no: rápido, al aire y en plural\nAsí sí: de frente, despacio, una idea por vez"
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Cuando tú no estés cerca para hablar bien",
-     "b": "ComeHomeTag habla por él: una pulsera QR que cualquiera escanea y ve a quién llamar. No lo delata ni lo vigila."
-    },
-    {
-     "role": "cta",
-     "h": "Hoy el mundo habla de Alzheimer. Háblale bien tú.",
-     "b": "comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Día Mundial del Alzheimer: cómo hablarle a una persona con Alzheimer y cómo no. No lo examines con «¿no te acuerdas?», no lo corrijas, preséntate tú y háblale de frente, despacio, una idea por vez. ComeHomeTag (comehometag.com): la «pulsera» QR que habla por él cuando no puede. #alzheimer #adultomayor #abuelos #familia #peru #cuidadores",
-    "tt": "A una persona con Alzheimer no se le habla así 💜 #alzheimer #abuelos #familia #peru",
-    "fb": "Hoy es el Día Mundial del Alzheimer. «¿No te acuerdas quién soy?» duele y no ayuda: preséntate tú. «Mamá murió hace años» rompe: acompaña la emoción. De frente, despacio, una idea por vez. ComeHomeTag (comehometag.com): la «pulsera» QR que habla por él cuando el recuerdo no llega."
-   },
-   "alt": "Frases que dañan y frases que cuidan al hablar con una persona con Alzheimer, por el día mundial."
-  },
-  {
-   "slug": "22-primavera-ninos",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "PRIMAVERA",
-     "emoji": "🌸",
-     "h": "Se acabó el frío y se soltaron los niños"
-    },
-    {
-     "role": "value",
-     "h": "Los 3 riesgos de la temporada",
-     "b": "· Bicis y scooters: llegan más lejos\n· Fuentes y pozas: imanes de niños\n· El «amigo del parque» y su familia"
-    },
-    {
-     "role": "value",
-     "h": "La regla del perímetro",
-     "b": "· Marca el borde: «del árbol a la reja»\n· «Si te invita otra familia, primero vienes a preguntar»"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El básico de la temporada",
-     "b": "Los papás que ya usan ComeHomeTag sueltan la mano con el contacto puesto. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Del árbol a la reja. Y primero se pregunta.",
-     "b": "Dos frases y a disfrutar el sol: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Llegó la primavera y con el primer sol salen TODAS las familias al mismo parque. Los 3 riesgos nuevos de la temporada (bicis estrenadas, pozas, el 'amigo del parque') y la regla del perímetro en una frase: del árbol a la reja. #primavera #parques #seguridadinfantil #peru #familia",
-    "tt": "Se acabó el frío y se soltaron los niños 🌸 #primavera #peru #parques #ninos",
-    "fb": "El primer domingo de sol es el Día del Niño no oficial: todos los parques llenos a la vez. Este año suma dos frases antes de soltar la mano: 'del árbol a la reja' (el perímetro) y 'si te invita otra familia, primero preguntas'. El resto es disfrutar la primavera."
-   },
-   "alt": "Riesgos de los parques en primavera y la regla del perímetro."
-  },
-  {
-   "slug": "23-bici-nueva",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "PRIMAVERA",
-     "emoji": "🚲",
-     "h": "La bici nueva llega más lejos que tu vista"
-    },
-    {
-     "role": "value",
-     "h": "El radio del niño se triplica",
-     "b": "A pie no cruza el parque; en bici da la vuelta a la manzana en dos minutos."
-    },
-    {
-     "role": "value",
-     "h": "El circuito acordado",
-     "b": "· «De aquí a la esquina y vuelves»\n· Cada vuelta pasa por tu banca\n· Cambiar de ruta se avisa antes"
-    },
-    {
-     "role": "value",
-     "h": "Casco con datos",
-     "b": "Nombre y tu número con plumón indeleble dentro del casco. En una caída, el casco sigue puesto.",
-     "emoji": "🩹"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "La muñeca también pedalea",
-     "b": "La «pulsera» ComeHomeTag va con él a cada vuelta: si el circuito se alarga, tu contacto viaja puesto. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Circuito, vuelta de chequeo y casco con datos.",
-     "b": "Estrenen la bici con las tres reglas: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "La bici nueva triplica el radio de tu hijo: a la tercera vuelta ya está probando una calle nueva. Las 3 reglas de estreno. El circuito acordado, la vuelta de chequeo por tu banca, y nombre + número con indeleble DENTRO del casco. #bicicleta #primavera #seguridadinfantil #peru #ninos",
-    "tt": "La bici llega más lejos que tu vista 🚲 3 reglas de estreno #bici #ninos #peru",
-    "fb": "Primavera = bicis y scooters estrenados. Dato: el radio de un niño en bici se triplica. Y la tercera vuelta siempre es 'exploración'. Antes del primer pedaleo: circuito acordado, vuelta de chequeo por tu banca y datos con plumón dentro del casco. Tres reglas y a rodar."
-   },
-   "alt": "Tres reglas para estrenar bicicleta: circuito, chequeo y casco con datos."
-  },
-  {
-   "slug": "24-iron-man-cine",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "ENDGAME EN CINES",
-     "emoji": "🦸",
-     "img": "evento-rdj.jpg",
-     "h": "Tus hijos van a conocer a Iron Man en el cine"
-    },
-    {
-     "role": "value",
-     "h": "La butaca es el punto de reencuentro",
-     "b": "«Si nos separamos, vuelves a ESTA butaca.» Y foto del número de fila."
-    },
-    {
-     "role": "value",
-     "h": "El baño, en pares y en calma",
-     "b": "· Todos al baño en el mismo momento\n· De la mano hasta la puerta\n· Tú esperas EN la puerta"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El traje del súper papá",
-     "b": "Iron Man tiene armadura; tu hijo tiene su ComeHomeTag: el QR que dice tu número si el cine oscuro los separa. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Tranquilo 3000: el plan quedó listo antes del tráiler.",
-     "b": "Butaca, baño en pares y pulsera puesta: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Endgame vuelve al cine y esta vez llevas a tus hijos: van a conocer a Iron Man en pantalla grande. El plan de cine con niños. La butaca como punto de reencuentro (con foto de la fila), el baño en pares y la salida en grupo. #endgame #avengers #ironman #cineconninos #peru",
-    "tt": "Tus hijos van a conocer a Iron Man en el cine 🦸 el plan familiar #endgame #avengers #peru",
-    "fb": "Los que lloramos Endgame en 2019 ahora volvemos al cine… con hijos. Antes de que se apaguen las luces, un solo acuerdo: 'si nos separamos, vuelves a ESTA butaca' (foto del número de fila incluida). El cine oscuro se gana con puntos fijos, no con carreras. Te amo 3000."
-   },
-   "alt": "Plan familiar para el re-estreno de Endgame: butaca como punto fijo y baño en pares."
-  },
-  {
-   "slug": "25-estampida-cine",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "ENDGAME EN CINES",
-     "emoji": "🍿",
-     "h": "La salida del cine es una estampida con niños"
-    },
-    {
-     "role": "value",
-     "h": "Quédense al post-crédito",
-     "b": "Cinco minutos sentados mientras la sala se vacía. Sales caminando, no cargando contra el río."
-    },
-    {
-     "role": "value",
-     "h": "Cruzar la puerta de la sala",
-     "b": "· El ancla lo lleva de la mano hasta la puerta\n· Ahí, conteo\n· El estacionamiento se cruza en grupo"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Para el río de gente",
-     "b": "Si la estampida los separa, su ComeHomeTag habla con el primer adulto que lo asista. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Post-crédito, conteo en la puerta, grupo al carro.",
-     "b": "La salida también se planea: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Nadie planea la SALIDA del cine. Y es el momento exacto donde las familias se separan: 200 personas, una puerta, oscuridad y niños dormidos. El truco del post-crédito (5 minutos sentados), el conteo en la puerta y el estacionamiento en grupo. #cineconninos #endgame #seguridadinfantil #peru",
-    "tt": "La salida del cine es una estampida 🍿 el truco del post-crédito #cine #ninos #peru",
-    "fb": "Todos planean la ida al cine; nadie planea la salida. Que es donde de verdad se separan las familias. El truco es gratis: quedarse al post-crédito 5 minutos (con Marvel hasta cuenta como fan service) y salir caminando con la sala vacía. Conteo en la puerta y al carro en grupo."
-   },
-   "alt": "Cómo salir del cine con niños sin separarse: post-crédito y conteo."
-  },
-  {
-   "slug": "26-cuidadora",
-   "slides": [
-    {
-     "role": "cover",
-     "kicker": "MES DEL ALZHEIMER",
-     "emoji": "🫂",
-     "h": "Cuidar sola a tu papá también te enferma"
-    },
-    {
-     "role": "value",
-     "h": "La cuidadora casi siempre es una",
-     "b": "Casi siempre una hija: sin sueldo, sin relevo y sin permiso para cansarse.",
-     "emoji": "😢"
-    },
-    {
-     "role": "value",
-     "h": "Las señales de que ya te pasó",
-     "b": "· Duermes mal aunque él duerma bien\n· Te irritas por nada\n· Cancelaste tu vida «por mientras»"
-    },
-    {
-     "role": "value",
-     "h": "El relevo mínimo",
-     "b": "Media jornada fija a la semana en que otro familiar cuida. Se agenda como cita médica."
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Un peso menos en tu cabeza",
-     "b": "Con su ComeHomeTag puesto, la pregunta '¿y si sale y se pierde?' deja de vivir contigo las 24 horas. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Cuidar al que te cuidó empieza por cuidarte a ti.",
-     "b": "Reenvía esto al grupo de hermanos, hoy: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "En casi toda familia peruana cuida UNA persona. Casi siempre una hija, sin sueldo ni relevo. Mes del Alzheimer también es hablar de ella: las señales de sobrecarga del cuidador y el relevo mínimo semanal que se agenda como cita médica. 💜 #cuidadores #alzheimer #adultomayor #peru #saludmental",
-    "tt": "Cuidar sola también enferma 🫂 el relevo mínimo #cuidadoras #alzheimer #peru",
-    "fb": "Hablemos de la que cuida: casi siempre es una sola persona, casi siempre mujer, casi siempre 'por mientras' desde hace años. Si duermes mal, te irritas por nada y tu vida está en pausa. No es debilidad, es sobrecarga. El relevo mínimo semanal no se negocia. Reenvíalo al grupo de hermanos."
-   },
-   "alt": "Sobrecarga del cuidador: señales y el relevo semanal mínimo."
-  },
-  {
-   "slug": "27-reloj-gps",
-   "slides": [
-    {
-     "role": "cover",
-     "emoji": "🔋",
-     "h": "El reloj GPS de tu hijo muere a las 3pm"
-    },
-    {
-     "role": "value",
-     "h": "Los 3 huecos del GPS",
-     "b": "· Batería\n· Cobertura: sótanos, carretera\n· La muñeca: se lo quitan para jugar\nBuen extra. Mal plan único."
-    },
-    {
-     "role": "value",
-     "h": "Capas, no aparatos",
-     "b": "· Primero el plan físico\n· Luego identificación que no se apaga\n· Encima, si quieres, el GPS"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "La capa que no usa batería",
-     "b": "Los papás que ya pasaron el susto del reloj apagado usan ComeHomeTag: QR pasivo, imposible de descargar. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "A las 3pm el reloj muere. El plan no.",
-     "b": "Arma las capas en este orden: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "El reloj GPS sale de casa al 100% y llega a la salida del colegio en rojo. Sus 3 huecos: batería, cobertura y que se lo quitan para jugar. La seguridad se arma en capas. Plan físico, identificación pasiva y recién ahí el GPS. #relojgps #seguridadinfantil #tecnologia #peru #papas",
-    "tt": "El reloj GPS muere a las 3pm 🔋 arma capas #seguridadinfantil #gps #peru",
-    "fb": "Compraste el reloj GPS y dormiste tranquilo… hasta el día que llegó apagado a la salida del colegio. No es mal aparato: es mal plan ÚNICO. La seguridad se arma en capas. Número memorizado y punto de reencuentro primero, identificación que no se apaga después, y el GPS encima."
-   },
-   "alt": "Limitaciones del reloj GPS y el sistema de capas de seguridad."
-  },
-  {
-   "slug": "28-don-julio",
-   "slides": [
-    {
-     "role": "story",
-     "plate": "cine-03-abuelo",
-     "emoji": "🏘",
-     "h": "Don Julio saluda al vigilante hace 20 años",
-     "b": "ese saludo puede salvarlo"
-    },
-    {
-     "role": "value",
-     "h": "El barrio es tu primer buscador",
-     "b": "El bodeguero, la farmacia, el vigilante: lo ven pasar todos los días."
-    },
-    {
-     "role": "value",
-     "h": "La ronda de presentación",
-     "b": "Una tarde, del brazo: «si un día lo ve solo después de las 5, me llama». Cinco números en la cuadra."
-    },
-    {
-     "role": "value",
-     "h": "El grupo de la cuadra",
-     "b": "Preséntalo en el grupo de WhatsApp de la calle, con foto. Un mensaje mueve a cuarenta vecinos."
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "Y para fuera del barrio",
-     "b": "Donde nadie lo conoce, su ComeHomeTag lo presenta: tu contacto en pantalla para cualquiera que lo asista. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Cinco vecinos con tu número. Esa es la ronda.",
-     "b": "Hazla esta semana, del brazo: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Don Julio saluda al mismo vigilante hace 20 años. Y ese saludo puede salvarlo. La red vecinal del adulto mayor: la ronda de presentación (5 números repartidos en la cuadra), el grupo de WhatsApp de la calle y por qué el barrio encuentra más rápido que una patrulla. 💜 #adultomayor #alzheimer #barrio #peru #vecinos",
-    "tt": "El saludo de 20 años que puede salvarlo 🏘 #abuelos #barrio #peru",
-    "fb": "El bodeguero, la señora de la farmacia y el vigilante ven pasar a tu papá todos los días. Son tu primera red de búsqueda, si saben a quién llamar. La ronda cuesta una tarde: caminar del brazo, presentarlo y dejar tu número en 5 puntos de la cuadra. Hazla esta semana."
-   },
-   "alt": "Red vecinal para adultos mayores: la ronda de presentación por la cuadra."
-  },
-  {
-   "slug": "29-cuatro-habitos",
-   "slides": [
-    {
-     "role": "cover",
-     "h": "Hay papás modo susto y papás modo plan",
-     "b": "septiembre te enseñó a ser el segundo",
-     "emoji": "✅"
-    },
-    {
-     "role": "value",
-     "h": "Cuando no lo ves",
-     "b": "Modo susto: correr gritando su nombre\nModo plan: uno se planta en el punto, otro barre"
-    },
-    {
-     "role": "value",
-     "h": "Cuando te piden describirlo",
-     "b": "Modo susto: «polo azul... creo»\nModo plan: mostrar la foto de hoy"
-    },
-    {
-     "role": "value",
-     "h": "El número de mamá",
-     "b": "Modo susto: «él se lo sabe»\nModo plan: probado esta semana, sin mirar pantalla"
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "El modo plan se lleva en la muñeca",
-     "b": "Los papás modo plan completan el sistema con ComeHomeTag: si todo falla, el QR dice tu número."
-    },
-    {
-     "role": "cta",
-     "h": "Octubre viene con multitudes. Entra en modo plan.",
-     "b": "comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Papás modo susto vs papás modo plan: la diferencia en el momento que importa. Uno se planta en el punto y otro barre, la foto de hoy en vez de la memoria, y el número probado esta semana. ComeHomeTag (comehometag.com) completa el modo plan. #niñosseguros #papas #familia #peru #prevencion",
-    "tt": "Hay papás modo susto y papás modo plan ✅ ¿cuál eres? #papas #niños #familia #peru",
-    "fb": "Cuando un niño no aparece hay dos tipos de papás: el que corre gritando y el que ejecuta el plan. Plantarse en el punto, mostrar la foto de hoy, el número probado. Octubre viene con procesiones y multitudes: entra en modo plan. ComeHomeTag (comehometag.com), el QR que habla si todo lo demás falla."
-   },
-   "alt": "Comparación entre reaccionar con susto y reaccionar con plan cuando un niño se pierde."
-  },
-  {
-   "slug": "30-mes-morado",
-   "slides": [
-    {
-     "role": "story",
-     "plate": "cine-06-procesion",
-     "emoji": "🟣",
-     "h": "En octubre Lima entera camina hacia el mismo sitio",
-     "b": "la procesión más grande de Sudamérica"
-    },
-    {
-     "role": "value",
-     "h": "Cientos de miles en las mismas cuadras",
-     "b": "Los picos son el 18, 19 y 28 de octubre. Familias completas, abuelos devotos, niños en hombros."
-    },
-    {
-     "role": "value",
-     "h": "Los devotos más frágiles",
-     "b": "Una promesa de décadas no se negocia. Prohibirles ir no funciona; acompañarlos con plan, sí.",
-     "emoji": "🙏"
-    },
-    {
-     "role": "value",
-     "h": "Lo que dejamos listo esta semana",
-     "b": "· Un ancla por abuelo y por niño\n· El distintivo va fuera del morado\n· Número memorizado e identificación encima"
-    },
-    {
-     "role": "recap"
-    },
-    {
-     "role": "stat",
-     "shot": "pulsera.png",
-     "h": "La tradición también se cuida",
-     "b": "Las familias devotas salen con ComeHomeTag puesto: si la multitud los separa, el QR dice tu número. comehometag.com"
-    },
-    {
-     "role": "cta",
-     "h": "Octubre es morado. Que en tu familia sea tranquilo.",
-     "b": "Prepara el plan de procesión esta semana: comehometag.com"
-    }
-   ],
-   "caption": {
-    "ig": "Se viene el Mes Morado: la procesión del Señor de los Milagros es la más grande de Sudamérica y saca a Lima entera a las mismas cuadras (picos: 18, 19 y 28 de octubre). El plan de multitudes en versión fe. Anclas, ropa clara, número memorizado. Se prepara desde ya. 🟣 #senordelosmilagros #mesmorado #lima #peru #procesion",
-    "tt": "Octubre: Lima entera camina al mismo sitio 🟣 prepárate #mesmorado #senordelosmilagros #lima",
-    "fb": "En octubre la procesión del Señor de los Milagros reúne a cientos de miles. Y tus abuelos van a ir, porque una promesa de décadas no se negocia. La respuesta no es prohibir: es acompañar con plan. Anclas por persona, ropa con distintivo, número memorizado. Se prepara esta semana."
-   },
-   "alt": "Preparación familiar para las procesiones del Mes Morado en octubre."
-  }
- ]
+  ]
 }

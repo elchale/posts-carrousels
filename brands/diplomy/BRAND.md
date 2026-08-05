@@ -230,6 +230,13 @@ vocabulario del dominio siempre correcto: issue, revoke, expire, recipient,
 issuer, criteria, verification page, credential. Cero emojis dentro del texto
 de la lámina (van en el campo `emoji`, regla global del renderizador).
 
+**Nunca "the certificate" a secas** (Carlos, 2026-08-05, regla de las 5 marcas
+— canónica en el skill y en CALENDARIO-90 §R1). El artículo definido da por
+sabido de qué hablamos, y el lector cae en la lámina 3 desde el FYP. En inglés
+el ancla natural es el posesivo y el ámbito: "the certificates **your academy**
+sends", "**your** students", "a **course** certificate". Cada lámina se sostiene
+sola: tapa las otras y tiene que decir de qué va. Lint: `python tools/frio.py`.
+
 **El apodo corto del producto va entre comillas la primera vez que aparece**
 (adaptación al inglés de la regla de Carlos, 2026-08-04): the "verify page",
 the "badge". La audiencia fría no sabe que es el nombre que le damos a algo
