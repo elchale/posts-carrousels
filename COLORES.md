@@ -45,6 +45,25 @@ Regla de uso: los acentos solo aparecen en tamaños grandes (kicker 34px+,
 números 84px, sub-líneas 40px+), donde el umbral WCAG es 3:1 — el par más
 bajo del sistema (4.3:1) lo supera con margen.
 
+## Las dos marcas azules (2026-08-04)
+
+Radar Estatal y Diplomy son las dos monocromáticas azules del sistema, las dos
+LIGHT, y las dos con la directiva "el logo ES la paleta". El color NO las
+separa y no se le va a pedir que lo haga:
+
+| | Radar Estatal | Diplomy |
+|---|---|---|
+| Papel | azul-neblina `#F6F9FC` | blanco frío `#FBFCFE` |
+| Tinta | `#0C2440` | `#0A1F45` |
+| Acento | radar `#2E7BE0` | azul rey `#0058D8` (más saturado) |
+| Display | Chakra Petch Bold (HUD techno) | **Fraunces Bold (serif de alto contraste)** |
+| Motivo de plates | anillos de radar, retícula blueprint | grabado guilloché, sello, borde de certificado |
+
+La separación real la hacen la **tipografía** y el **motivo**. Cruzar los
+motivos (una roseta en Radar, un anillo de radar en Diplomy) rompe lo único
+que distingue las dos cuentas en un feed. El serif es la señal más fuerte: se
+lee a distancia de scroll, antes que cualquier matiz de azul.
+
 ## Reglas de mantenimiento
 
 1. El acento nunca pasa del ~10% del área de una lámina (kicker + número +

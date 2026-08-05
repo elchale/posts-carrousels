@@ -32,6 +32,7 @@ EVENT_TONES = {
     "propaga": ("#3a1c14", "#fdf6ec", 0.25),
     "qolca": ("#0d162f", "#eaf2ff", 0.20),
     "radarestatal": ("#0c2440", "#f6f9fc", 0.18),
+    "diplomy": ("#0a1f45", "#fbfcfe", 0.18),
 }
 
 
@@ -359,7 +360,11 @@ class Renderer:
             items = recap_items(post)
         title = strip_emoji(slide.get("h") or post.get("slides", [{}])[0].get("h", ""))
 
-        y = draw_kicker(draw, strip_emoji(slide.get("kicker", "para guardar")), acc, CORE_Y0 + 26)
+        # El único texto que el renderizador pone de su cosecha. Diplomy publica
+        # en inglés (brand.json "lang"), así que el default sigue al idioma de la
+        # marca; cualquier post puede pisarlo con su propio `kicker`.
+        default_kicker = "save this" if self.cfg.get("lang") == "en" else "para guardar"
+        y = draw_kicker(draw, strip_emoji(slide.get("kicker", default_kicker)), acc, CORE_Y0 + 26)
         tf, tlines, tlh, th = block_height(draw, title, disp, dw, (88, 52), 860, 260)
 
         # The items are fitted to whatever height is left under the title, then

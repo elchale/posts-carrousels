@@ -1,7 +1,8 @@
 # posts-carrousels
 
 Carruseles listos para publicar en Instagram, TikTok, Facebook y LinkedIn
-para las tres marcas: **ComeHomeTag**, **Qolca** y **Propaga**.
+para las cinco marcas: **ComeHomeTag**, **Qolca**, **Propaga**, **Radar
+Estatal** y **Diplomy** (esta última en inglés, mercado global).
 
 ## Cómo publicar desde el celular
 
@@ -35,6 +36,8 @@ brands/
   comehometag/   💜 protección QR para niños, abuelos y mascotas
   qolca/         🔷 automatización e IA para empresas (incluye PDF LinkedIn)
   propaga/       🔥 marketing para negocios (SaaS)
+  radarestatal/  📡 compras del Estado peruano (SEACE) — sin humor ni cultura pop
+  diplomy/       🎓 certificados verificables (Open Badges) — EN INGLÉS
     posts/       las 6 series en JSON (el contenido fuente)
     plates/      fondos generados (originales)
     plates_graded/  fondos graduados a la paleta real de cada marca
@@ -44,7 +47,8 @@ tools/           grade.py (color) · render.py (láminas) · shots.py · caption
 app/ scripts/    la app web (Next.js) — ver WEB.md
 GUARDADOS.md     por qué se guarda un carrusel y cómo se escribe uno así
 ORDEN.md         orden de publicación sugerido (generado por guardados.py)
-COLORES.md       el sistema de color de las 3 marcas (teoría aplicada)
+COLORES.md       el sistema de color por marca (teoría aplicada) + cómo se
+                 separan las dos marcas azules (Radar Estatal y Diplomy)
 PLAN-180.md      la estrategia completa y el porqué de cada serie
 STRATEGY.md      la investigación base (algoritmos, formatos, virality)
 WEB.md           cómo correr y desplegar la app

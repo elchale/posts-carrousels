@@ -61,6 +61,21 @@ def duotone(a: np.ndarray, dark: str, light: str, keep: float) -> np.ndarray:
     return np.clip(ramp * (1 - keep) + a * keep, 0, 1)
 
 
+def punch(a: np.ndarray, k: float, white: float = 0.985) -> np.ndarray:
+    """Amplify how far each pixel sits below paper white.
+
+    Diplomy's abstracts are fine engraving (guilloche, seal rings) drawn at ~2%
+    contrast against white — the prompts asked for "6 percent opacity" and the
+    model went quieter than that. A duotone toward near-white ERASES it: the
+    graded cover was indistinguishable from blank paper, and that engraving is
+    the only thing separating this brand from Radar Estatal in the feed (same
+    blue, same light plates — see brands/diplomy/BRAND.md). This multiplies the
+    deviation from `white`, so the pattern reads while the paper stays paper.
+    Above k~5 the film grain amplifies with it and the sheet turns grey.
+    """
+    return np.clip((a - white) * k + white, 0, 1)
+
+
 def desat(a: np.ndarray, amount: float) -> np.ndarray:
     g = lum(a)[..., None]
     return np.clip(a * (1 - amount) + g * amount, 0, 1)
@@ -162,7 +177,31 @@ RAD = dict(
     cine=lambda a: scrim(top_scrim(splittone(desat(a, 0.10), "#081a33", "#8fbcec", 0.30), 0.18, 0.35), 0.42, 0.74),
 )
 
-RECIPES = {"comehometag": CHT, "qolca": QOL, "propaga": PRO, "radarestatal": RAD}
+DIP = dict(
+    # diplomy.org (2026-08-04): el logo es la paleta — solo azul y blanco.
+    # paper #FBFCFE, ink #0A1F45, royal #0058D8, sky #84B8F8, mist #DCEAFB.
+    # Marca LIGHT como Radar Estatal, y ESE es el riesgo: el color no las
+    # separa. Las separan el serif (Fraunces) y el motivo grabado/sello de las
+    # plates. Aquí el grade solo tiene que ser MÁS blanco y más contrastado que
+    # RAD (papel de imprenta fina vs papel azul-neblina), nunca otro matiz.
+    # Las plates claras pasan por punch() ANTES del duotono (2026-08-04): sin
+    # eso el grabado desaparece — medido sobre la ventana que ve Instagram
+    # (IG_CROP recorta y 285..1635, así que un motivo pegado al borde superior
+    # ni siquiera entra). keep alto porque la fuente YA está en paleta: el
+    # duotono aquí solo unifica, no tiene que reinventar el color.
+    cover=lambda a: add_glow(duotone(wb_to(punch(a, 2.8), "#fbfcfe", 97.0, 0.8), "#c3daf7", "#fbfcfe", keep=0.85), "#8fbef8", 0.5, 0.40, 0.55, 0.18),
+    # keep bajo en cta: cta-01 traía una dominante crema en las esquinas y esta
+    # marca es azul-y-blanco, sin excepciones.
+    cta=lambda a: add_glow(duotone(wb_to(punch(a, 2.0), "#fbfcfe", 97.0, 1.0), "#cde0fa", "#fbfcfe", keep=0.35), "#7fb4f8", 0.5, 0.62, 0.42, 0.26),
+    emph=lambda a: duotone(a, "#0a1f45", "#0058d8", keep=0.18),
+    value_paper=lambda a: duotone(wb_to(punch(a, 3.0), "#fdfdff", 97.0, 0.8), "#cbdcf3", "#fdfdff", keep=0.85),
+    # value_sky ya es un degradado azul visible: punch solo le sacaría grano.
+    value_sky=lambda a: duotone(a, "#b7d4f8", "#e8f1fd", keep=0.10),
+    cine=lambda a: scrim(top_scrim(splittone(desat(a, 0.08), "#07152f", "#a9c8f2", 0.30), 0.18, 0.35), 0.42, 0.74),
+)
+
+RECIPES = {"comehometag": CHT, "qolca": QOL, "propaga": PRO, "radarestatal": RAD,
+           "diplomy": DIP}
 
 # families that get mirrored variants to fill inventory (all abstracts)
 MIRROR_FAMILIES = ("cover", "cta", "emph", "value")

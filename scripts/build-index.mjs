@@ -35,6 +35,11 @@ const BRAND_CHROME = {
   comehometag: { accent: '#8b73ff', accent2: '#ec6aa6', label: 'Protección QR' },
   qolca: { accent: '#5aa7ff', accent2: '#7fd7c4', label: 'Automatización e IA' },
   propaga: { accent: '#ff7a1f', accent2: '#ffc266', label: 'Marketing para negocios' },
+  /* Las dos marcas azules comparten familia de color, así que en el chasis se
+   * distinguen por la etiqueta, no por el acento (en las láminas las separan el
+   * serif de Diplomy y el motivo de las plates — ver brands/diplomy/BRAND.md). */
+  radarestatal: { accent: '#5f9ff5', accent2: '#cfe3fa', label: 'Compras del Estado' },
+  diplomy: { accent: '#4d94f7', accent2: '#84b8f8', label: 'Certificados verificables' },
 }
 
 /* The best name for a series is the one already written on its covers: every post in
