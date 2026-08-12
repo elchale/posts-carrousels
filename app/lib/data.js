@@ -58,6 +58,7 @@ export function summarize(post) {
     series: post.series,
     seriesLabel: post.seriesLabel,
     slug: post.slug,
+    date: post.date || null,
     title: post.title,
     kicker: post.kicker,
     thumb: post.thumb,

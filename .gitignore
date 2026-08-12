@@ -30,3 +30,6 @@ __pycache__/
 Thumbs.db
 *.log
 /tools/_frio.json
+
+# --- perfil de Chrome del scanner de TikTok (cookies): NUNCA al repo ---
+/tools/.ttprofile/

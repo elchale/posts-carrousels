@@ -370,6 +370,36 @@ button { font: inherit; color: inherit; border: 0; background: none; cursor: poi
   background: rgba(10, 10, 13, 0.78);
   backdrop-filter: blur(6px);
 }
+.card__date {
+  position: absolute;
+  left: 7px;
+  top: 7px;
+  z-index: 2;
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 2px 6px;
+  border-radius: 5px;
+  background: rgba(10, 10, 13, 0.72);
+  backdrop-filter: blur(6px);
+  color: var(--text);
+}
+.card__date--hoy {
+  background: var(--accent);
+  color: #0a0a0d;
+}
+.post__date {
+  padding: 0 16px;
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
 .card__flag {
   position: absolute;
   z-index: 2;

@@ -3,530 +3,76 @@
   "brand": "radarestatal",
   "posts": [
     {
-      "slug": "03-presentacion",
-      "slides": [
-        {
-          "role": "story",
-          "plate": "cine-16-madrugada",
-          "h": "Desde hoy alguien vigila las compras del Estado por ti",
-          "b": "te presentamos Radar Estatal",
-          "emoji": "📡"
-        },
-        {
-          "role": "value",
-          "h": "Así se pierde una venta al Estado",
-          "b": "El proceso salió hace dos semanas, las consultas ya cerraron y la buena pro se la llevó otro."
-        },
-        {
-          "role": "value",
-          "shot": "shot-feed.png",
-          "h": "Esto es Radar Estatal",
-          "b": "El feed del SEACE filtrado a tu rubro, gratis y sin cuenta. Los procesos llegan solos."
-        },
-        {
-          "role": "value",
-          "h": "Lo que hace por tu empresa",
-          "b": "· Feed gratis de procesos del SEACE\n· IA que recomienda los que te convienen\n· Competidores investigados por RUC"
-        },
-        {
-          "role": "value",
-          "h": "Empieza con tu rubro, hoy",
-          "b": "Entra, escribe lo que vendes y mira lo que el Estado está comprando ahora mismo."
-        },
-        {
-          "role": "cta",
-          "h": "El Estado publica todo. Ahora tú lo ves.",
-          "b": "radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Te presentamos Radar Estatal: la app peruana que vigila las compras del Estado por ti. Feed gratis del SEACE filtrado a tu rubro, IA que te recomienda procesos y competidores investigados por RUC. Más de 200 mil procesos en datos abiertos, organizados para tu MYPE. radarestatal.pe #licitaciones #SEACE #mype #contratacionesdelestado #peru #radarestatal",
-        "tt": "Desde hoy alguien vigila las compras del Estado por ti 📡 #licitaciones #SEACE #mype #peru",
-        "fb": "Hoy presentamos Radar Estatal: el «radar» de las compras del Estado peruano. El SEACE publica miles de procesos y casi nadie llega a tiempo. El «radar» te trae los de tu rubro gratis y sin cuenta, la IA te dice cuáles calzan con tu empresa y puedes investigar a cualquier competidor por su RUC. radarestatal.pe"
-      },
-      "alt": "Presentación de Radar Estatal: la app que vigila las compras del Estado peruano por ti."
-    },
-    {
-      "slug": "04-buscar-seace",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SEACE PASO A PASO",
-          "emoji": "🧭",
-          "h": "Encuentra lo tuyo en el SEACE en tres pasos",
-          "b": "rubro, región y tamaño"
-        },
-        {
-          "role": "value",
-          "h": "Paso 1: busca por lo que vendes",
-          "b": "· Escribe la palabra de tu rubro\n· Filtra tu región\n· Ordena por fecha de convocatoria"
-        },
-        {
-          "role": "value",
-          "h": "Paso 2: mira solo dos campos",
-          "b": "· ¿El objeto de contratación es lo que vendes?\n· ¿El valor estimado está a tu escala?\n· En obras y consultoría, el referencial"
-        },
-        {
-          "role": "value",
-          "h": "Paso 3: repite la misma búsqueda",
-          "b": "Salen todos los días hábiles. Dos revisadas fijas por semana, con la búsqueda idéntica."
-        },
-        {
-          "role": "recap"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-feed.png",
-          "h": "O deja que un «radar» busque por ti",
-          "b": "Radar Estatal (radarestatal.pe) vigila el SEACE por ti: los procesos de tu rubro llegan solos."
-        },
-        {
-          "role": "cta",
-          "h": "Tres pasos, diez minutos por semana",
-          "b": "Guarda el método: radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo buscar licitaciones del Estado en el SEACE sin perderte: palabra de tu rubro más tu región, luego solo dos campos (objeto de contratación y valor estimado) y la misma búsqueda repetida dos veces por semana. El feed gratis de Radar Estatal (radarestatal.pe) te trae los procesos de tu rubro sin buscarlos. #licitaciones #SEACE #mype #contratacionesdelestado #peru",
-        "tt": "Encuentra lo tuyo en el SEACE en tres pasos 🧭 #licitaciones #SEACE #mype #peru",
-        "fb": "Todo está publicado. El problema es encontrar lo tuyo. La ruta corta: rubro más región en el buscador, mirar solo objeto y valor estimado, y repetir la misma búsqueda dos veces por semana. Radar Estatal (radarestatal.pe) hace esa búsqueda por ti, gratis."
-      },
-      "alt": "Guía para buscar procesos de selección en el SEACE: rubro, región, objeto de contratación y valor estimado."
-    },
-    {
-      "slug": "05-datos-abiertos",
-      "slides": [
-        {
-          "role": "story",
-          "plate": "cine-05-almacen",
-          "emoji": "📊",
-          "h": "El Estado publica su base de compras completa",
-          "b": "y se descarga gratis"
-        },
-        {
-          "role": "value",
-          "h": "Se llaman datos abiertos",
-          "b": "El OECE publica qué entidad convocó, qué compró, por cuánto y a quién se lo adjudicó."
-        },
-        {
-          "role": "value",
-          "h": "No se leen, se les pregunta",
-          "b": "· ¿Qué entidades compran mi rubro?\n· ¿Cada cuánto lo compran?\n· ¿Quién viene ganando?\nTres preguntas, tres filtros."
-        },
-        {
-          "role": "value",
-          "h": "Empieza chico: un rubro, un año",
-          "b": "Filtra tu palabra clave y el último año: ahí está tu mapa de entidades y de rivales."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-datos.png",
-          "h": "Nosotros vivimos de esa base",
-          "b": "Radar Estatal (radarestatal.pe): más de 200 mil procesos de datos abiertos OECE, organizados."
-        },
-        {
-          "role": "cta",
-          "h": "La información ya era tuya",
-          "b": "Solo faltaba ordenarla: radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Los datos abiertos del OECE tienen las contrataciones del Estado peruano completas: entidad, objeto, monto y proveedor adjudicado. Gratis y descargables. Empieza por una sola pregunta: qué entidades compran tu rubro. #licitaciones #datosabiertos #SEACE #mype #peru",
-        "tt": "El Estado publica su base de compras completa 📊 #licitaciones #SEACE #mype #peru",
-        "fb": "Las contrataciones del Estado peruano son datos abiertos: quién convocó, qué compró, por cuánto y a quién. La base no se lee de corrido, se le hacen preguntas: qué entidades compran tu rubro, cada cuánto y quién viene ganando. Radar Estatal (radarestatal.pe) organiza más de 200 mil procesos de esa base."
-      },
-      "alt": "Los datos abiertos del OECE con las contrataciones del Estado peruano y cómo consultarlos."
-    },
-    {
-      "slug": "06-tres-fuentes",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "INTELIGENCIA",
-          "emoji": "🔍",
-          "h": "Lo que tu competencia le vendió al Estado es público",
-          "b": "tres fuentes gratis"
-        },
-        {
-          "role": "value",
-          "h": "Fuente 1: sus adjudicaciones",
-          "b": "Busca por RUC: qué procesos ganó, con qué entidades y desde cuándo. Los montos también son públicos."
-        },
-        {
-          "role": "value",
-          "h": "Fuente 2: su ficha RNP",
-          "b": "El RNP muestra en qué registros está inscrito. Una inscripción nueva en tu rubro es competencia entrando."
-        },
-        {
-          "role": "value",
-          "h": "Fuente 3: el pliego absolutorio",
-          "b": "Solo los participantes registrados pueden consultar, y el pliego publica esas consultas con nombre."
-        },
-        {
-          "role": "recap"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-herramientas.png",
-          "h": "Las tres fuentes, sin abrir un PDF",
-          "b": "Radar Estatal (radarestatal.pe) reúne las tres: adjudicaciones, RNP y competidores por RUC."
-        },
-        {
-          "role": "cta",
-          "h": "Nunca fueron secretos",
-          "b": "Solo faltaba quien los leyera: radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Inteligencia de competidores en licitaciones del Estado: las 3 fuentes públicas que casi nadie revisa. Adjudicaciones por RUC en el SEACE, ficha del RNP y el pliego absolutorio de consultas (ahí ves quiénes se registraron en el proceso). Radar Estatal (radarestatal.pe) las junta por ti. #licitaciones #SEACE #mype #competencia #peru",
-        "tt": "Todo lo que tu competencia le vendió al Estado es público 👀 #licitaciones #SEACE #mype #peru",
-        "fb": "Cada contrato que tu competencia ganó con el Estado, su ficha de proveedor y hasta las consultas que hizo en un proceso abierto: todo es público. Ojo con la última, dice quién se registró, no quién presentará oferta. El post muestra dónde mirar. Radar Estatal (radarestatal.pe) lo pone en un solo lugar."
-      },
-      "alt": "Tres fuentes públicas para investigar competidores: SEACE por RUC, ficha RNP y pliego absolutorio de consultas."
-    },
-    {
-      "slug": "07-requisitos-descalifican",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "ANTES DE POSTULAR",
-          "emoji": "🚦",
-          "h": "Los cuatro requisitos que te sacan antes de empezar",
-          "b": "revísalos en cinco minutos"
-        },
-        {
-          "role": "value",
-          "h": "El error clásico: ilusionarse primero",
-          "b": "Una semana armando la oferta para descubrir que pedían experiencia que no tienes.",
-          "emoji": "😖"
-        },
-        {
-          "role": "value",
-          "h": "Los cuatro que te sacan del juego",
-          "b": "· RNP activo y en el registro correcto\n· Experiencia acreditable con conformidades\n· Garantía que puedas cubrir\n· Plazo de entrega que de verdad cumplas"
-        },
-        {
-          "role": "value",
-          "h": "El semáforo de cinco minutos",
-          "b": "· ¿Cumples los cuatro?\n· Todo verde, sigue\n· Un rojo, siguiente proceso"
-        },
-        {
-          "role": "recap"
-        },
-        {
-          "role": "stat",
-          "h": "El «radar» te muestra requisitos antes de ilusionarte",
-          "b": "Radar Estatal (radarestatal.pe): una IA que te dice qué procesos le convienen a tu empresa."
-        },
-        {
-          "role": "cta",
-          "h": "Primero lo que descalifica. Después lo bonito.",
-          "b": "Guarda el semáforo: radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Antes de postular a una licitación revisa los 4 requisitos que descalifican: RNP activo y en el registro correcto, experiencia acreditable con conformidades, garantía cubrible y plazo real. El semáforo de 5 minutos salva semanas de trabajo. #licitaciones #RNP #mype #SEACE #peru",
-        "tt": "Los 4 requisitos que te sacan de una licitación antes de empezar 🚦 #licitaciones #mype #RNP #peru",
-        "fb": "Los cuatro requisitos que deciden si un proceso es tuyo o no: RNP activo en el registro correcto, experiencia con papeles, garantía cubrible y plazo real. La regla de oro es leer las bases al revés: primero lo que descalifica, después lo bonito. Cinco minutos de semáforo salvan una semana de oferta perdida. radarestatal.pe"
-      },
-      "alt": "Semáforo de requisitos de calificación en licitaciones del Estado: RNP, experiencia, garantías y plazos."
-    },
-    {
-      "slug": "08-rnp",
-      "slides": [
-        {
-          "role": "story",
-          "plate": "cine-13-bases",
-          "h": "Sin RNP no existes para el Estado",
-          "b": "Sácalo esta semana, es en línea",
-          "emoji": "🪪"
-        },
-        {
-          "role": "value",
-          "h": "Elige bien tu registro",
-          "b": "Bienes, servicios u obras. Inscríbete en lo que de verdad vendes: el registro equivocado descalifica."
-        },
-        {
-          "role": "value",
-          "h": "El trámite, resumido",
-          "b": "· RUC activo y habido\n· Usuario en la plataforma del RNP\n· Solicitud del registro que te toca"
-        },
-        {
-          "role": "recap"
-        },
-        {
-          "role": "stat",
-          "h": "Ya inscrito, empieza la caza",
-          "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE apenas tu registro esté listo.",
-          "shot": "shot-datos.png"
-        },
-        {
-          "role": "cta",
-          "h": "Primero existes, después ganas",
-          "b": "Trámite esta semana, «radar» desde hoy: radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo sacar el RNP (Registro Nacional de Proveedores) para venderle al Estado: RUC activo y habido, usuario en la plataforma, solicitud del registro correcto (bienes, servicios u obras) y constancia. Sin RNP no puedes ni postular. #RNP #licitaciones #mype #SEACE #peru",
-        "tt": "Sin RNP no existes para el Estado. Así se saca 📋 #RNP #licitaciones #mype #peru",
-        "fb": "¿Quieres venderle al Estado? El paso cero no es buscar licitaciones: es el RNP. Se tramita en línea y eliges el registro según lo que vendes. No vence, pero se te cae si quedas no habido en SUNAT o si te inhabilitan. La ruta completa está en el post. radarestatal.pe"
-      },
-      "alt": "Pasos para tramitar el Registro Nacional de Proveedores (RNP) y habilitarse para contratar con el Estado."
-    },
-    {
-      "slug": "09-desiertos",
-      "slides": [
-        {
-          "role": "story",
-          "plate": "cine-05-almacen",
-          "h": "¿Si todo está arreglado, por qué sobran contratos?",
-          "b": "Hay procesos que se quedan sin postores",
-          "emoji": "🤨"
-        },
-        {
-          "role": "value",
-          "h": "Nadie levantó la mano",
-          "b": "Queda desierto cuando nadie postula o ninguna oferta califica. Y queda registrado en el OECE."
-        },
-        {
-          "role": "value",
-          "h": "¿Arreglado? Los datos dicen «desatendido»",
-          "b": "Un desierto no prueba una conspiración: prueba que nadie llegó. Casi siempre falta información."
-        },
-        {
-          "role": "value",
-          "h": "La segunda convocatoria es tu amiga",
-          "b": "Se reconvoca: misma necesidad, menos competencia. Ubica los desiertos de tu rubro y llega temprano."
-        },
-        {
-          "role": "stat",
-          "h": "La segunda llamada no se anuncia sola",
-          "b": "Radar Estatal (radarestatal.pe) te avisa cuando un proceso de tu rubro se reconvoca."
-        },
-        {
-          "role": "cta",
-          "h": "El cinismo no factura",
-          "b": "Los desiertos sí. Míralos en radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "«Todo está arreglado». ¿y entonces por qué hay licitaciones del Estado que quedan desiertas cada mes? Nadie postuló. La segunda convocatoria sale con menos competencia: ahí está la oportunidad para tu MYPE. #licitaciones #SEACE #mype #contratacionesdelestado #peru",
-        "tt": "Hay licitaciones del Estado que se quedan SIN postores 🤯 #licitaciones #SEACE #mype #peru",
-        "fb": "El mito favorito: «todo está arreglado». El dato incómodo: cada mes quedan procesos desiertos porque NADIE postuló. Eso no prueba argolla, prueba falta de información. Y la segunda convocatoria llega con menos rivales. El post explica cómo aprovecharla. radarestatal.pe"
-      },
-      "alt": "Procesos desiertos en licitaciones del Estado: qué son y por qué la segunda convocatoria tiene menos competencia."
-    },
-    {
-      "slug": "10-leer-bases",
-      "slides": [
-        {
-          "role": "story",
-          "plate": "cine-02-oficina",
-          "h": "Las bases no se leen de corrido",
-          "b": "el orden te ahorra semanas",
-          "emoji": "📄"
-        },
-        {
-          "role": "value",
-          "h": "Primero el cronograma",
-          "b": "Así no: soñar con el contrato en la página 1\nAsí sí: fechas primero, ¿llegas con calidad?"
-        },
-        {
-          "role": "value",
-          "h": "Requisitos antes que ilusión",
-          "b": "Así no: armar la oferta y recién ver requisitos\nAsí sí: calificación en semáforo, un rojo y siguiente"
-        },
-        {
-          "role": "value",
-          "h": "El precio se arma para la tabla",
-          "b": "Así no: cotizar y recién mirar los factores\nAsí sí: factores de evaluación antes de poner precio"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-feed.png",
-          "h": "El «radar» te resume lo importante primero",
-          "b": "Radar Estatal (radarestatal.pe): el feed del SEACE y una IA que lee lo pesado por ti."
-        },
-        {
-          "role": "cta",
-          "h": "Bases leídas en orden, semanas ganadas.",
-          "b": "radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo NO leer unas bases del SEACE: de corrido y soñando con el contrato. El orden correcto: cronograma primero, requisitos de calificación en semáforo y los factores de evaluación antes de cotizar. Radar Estatal (radarestatal.pe) resume lo importante. #licitaciones #SEACE #mype #contratacionesdelestado #peru #proveedoresdelestado",
-        "tt": "Las bases no se leen de corrido 📄 el orden te ahorra semanas #licitaciones #SEACE #mype #peru",
-        "fb": "El error clásico del proveedor nuevo: leer las bases de corrido, ilusionado, y descubrir al final un requisito que no cumple. El orden correcto ahorra semanas: cronograma, requisitos en semáforo, y los factores de evaluación antes de poner precio. radarestatal.pe"
-      },
-      "alt": "Orden correcto e incorrecto para leer unas bases de licitación del Estado."
-    },
-    {
-      "slug": "11-quien-consulto",
-      "slides": [
-        {
-          "role": "story",
-          "plate": "cine-09-acuerdo",
-          "emoji": "🕵",
-          "h": "Mira quiénes ya consultaron antes de armar tu oferta",
-          "b": "el pliego es público y lleva nombres"
-        },
-        {
-          "role": "value",
-          "h": "Solo los participantes pueden preguntar",
-          "b": "Antes de las ofertas hay una etapa de consultas, y solo los participantes registrados la usan."
-        },
-        {
-          "role": "value",
-          "h": "Son posibles rivales, no una lista de postores",
-          "b": "Registrarse no obliga a presentar oferta. Nadie sabe quién postulará: es la mejor pista, no una certeza."
-        },
-        {
-          "role": "value",
-          "h": "Qué te dice cada consulta",
-          "b": "· Pregunta por una marca: ya tiene ese producto\n· Pregunta cómo acreditar experiencia: le falta\n· Pide ampliar el plazo: anda justo"
-        },
-        {
-          "role": "value",
-          "h": "Dónde lo encuentras",
-          "b": "En el expediente del proceso en el SEACE: el pliego absolutorio. Se descarga gratis."
-        },
-        {
-          "role": "recap"
-        },
-        {
-          "role": "stat",
-          "h": "Con «radar», los posibles rivales se ven venir",
-          "b": "Radar Estatal (radarestatal.pe) investiga competidores por RUC y vigila el SEACE por ti."
-        },
-        {
-          "role": "cta",
-          "h": "Nadie sabe quién postulará. Sí quién está mirando.",
-          "b": "radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Quiénes están mirando una licitación antes de que cierre: el pliego absolutorio de consultas y observaciones es público y lleva el nombre de cada participante que preguntó. Ojo con el matiz: son competidores posibles, no confirmados, porque registrarse no obliga a presentar oferta. #licitaciones #SEACE #buenapro #mype #peru",
-        "tt": "Puedes ver quiénes ya consultaron una licitación 👁️ #licitaciones #SEACE #mype #peru",
-        "fb": "¿Se puede saber quién va a postular a una licitación? No, y quien te diga que sí te está vendiendo humo. Lo que sí puedes ver es quiénes se registraron como participantes y consultaron las bases: el pliego absolutorio es público y lleva nombres. Esa es tu competencia posible. Aprende a leerlo en el post. radarestatal.pe"
-      },
-      "alt": "Cómo leer el pliego absolutorio de consultas y observaciones para identificar posibles competidores."
-    },
-    {
-      "slug": "12-tu-rubro",
-      "slides": [
-        {
-          "role": "story",
-          "plate": "cine-11-ferreteria",
-          "h": "El Estado ya compró lo tuyo este mes",
-          "b": "Y va a volver a comprarlo",
-          "emoji": "📦"
-        },
-        {
-          "role": "value",
-          "h": "Tu rubro tiene historial público",
-          "b": "Busca por objeto de contratación y filtra por fechas: cuántos procesos salieron y qué entidades."
-        },
-        {
-          "role": "value",
-          "h": "Identifica a las que repiten",
-          "b": "Colegios, hospitales, municipios: hay entidades que compran tu rubro cada cierto tiempo. Apúntalas."
-        },
-        {
-          "role": "recap"
-        },
-        {
-          "role": "stat",
-          "h": "El «radar» conoce tu tajada",
-          "b": "Radar Estatal (radarestatal.pe) sigue a las entidades que compran lo tuyo y te avisa.",
-          "shot": "shot-herramientas.png"
-        },
-        {
-          "role": "cta",
-          "h": "Lo tuyo se compra todos los meses",
-          "b": "Empieza a verlo: radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "El Estado compra tu rubro todos los meses: búscalo por objeto de contratación en SEACE, filtra por fechas y apunta las entidades que repiten. Esa es tu cartera natural. Más de 200 mil procesos viven en los datos abiertos del OECE. #licitaciones #SEACE #mype #contratacionesdelestado #peru",
-        "tt": "El Estado ya compró lo que tú vendes. Este mes 🛒 #licitaciones #SEACE #mype #peru",
-        "fb": "¿Crees que el Estado no compra lo tuyo? Este mes probablemente ya lo compró. El método para comprobarlo: búsqueda por objeto, filtro de fechas y la lista de entidades que repiten compra. Son 10 minutos y cambia cómo ves tu propio negocio. radarestatal.pe"
-      },
-      "alt": "Cómo ver el historial de compras del Estado en tu rubro usando el SEACE y los datos abiertos del OECE."
-    },
-    {
       "slug": "13-consultas-arma",
       "slides": [
         {
           "role": "story",
           "plate": "cine-14-imprenta",
-          "h": "Puedes pedir que corrijan unas bases",
-          "b": "Gratis, por escrito y sin abogado",
-          "emoji": "⚔"
+          "emoji": "⚔",
+          "h": "¿Las bases de una licitación te piden algo imposible?",
+          "b": "puedes pedir que las corrijan, gratis y sin abogado"
         },
         {
           "role": "value",
-          "h": "Consulta u observación",
-          "b": "· La consulta aclara: «¿el plazo incluye instalación?»\n· La observación cuestiona lo que incumple la norma\n· Ambas, dentro del cronograma"
+          "h": "Toda licitación abre una etapa de consultas",
+          "b": "· La consulta aclara: «¿el plazo incluye instalación?»\n· La observación cuestiona lo que incumple la norma\n· Ambas van dentro del cronograma"
         },
         {
           "role": "value",
-          "h": "Redáctala concreta",
-          "b": "Cita el numeral exacto, plantea el problema y propone la corrección. La vaga recibe respuesta vaga."
+          "h": "Redacta tu consulta concreta",
+          "b": "Cita el numeral exacto de las bases, plantea el problema y propón la corrección. La consulta vaga recibe respuesta vaga."
         },
         {
           "role": "value",
-          "h": "Lo que pasa después",
-          "b": "La entidad responde a todos en el pliego absolutorio y las bases pueden integrarse corregidas."
-        },
-        {
-          "role": "recap"
+          "h": "La entidad responde por escrito",
+          "b": "Todas las respuestas salen en el pliego absolutorio y las bases pueden integrarse corregidas."
         },
         {
           "role": "stat",
           "h": "El «radar» te avisa cuándo abre la ventana",
-          "b": "Radar Estatal (radarestatal.pe) te avisa el día que se abre el plazo de consultas."
+          "b": "Radar Estatal (radarestatal.pe) sigue el cronograma de cada proceso de tu rubro, etapa por etapa."
         },
         {
           "role": "cta",
-          "h": "El arma era gratis",
-          "b": "Solo había que saber el plazo: radarestatal.pe"
+          "h": "Lo imposible se corrige por escrito",
+          "b": "radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "Consultas y observaciones en licitaciones: puedes pedir que aclaren o corrijan las bases, gratis y sin abogado. Dentro del plazo del cronograma. Cita el numeral, plantea el problema, propone la corrección. Y en el pliego absolutorio ves quién más preguntó: tus posibles competidores. #licitaciones #SEACE #bases #mype #peru",
-        "tt": "Puedes pedir que corrijan las bases de una licitación. Gratis ✍️ #licitaciones #SEACE #mype #peru",
-        "fb": "Pocos saben que unas bases se pueden cuestionar: la etapa de consultas y observaciones existe para eso, es gratuita y no necesitas abogado. La clave es redactar concreto: numeral, problema, corrección propuesta. El post trae la fórmula. radarestatal.pe"
+        "ig": "Consultas y observaciones en licitaciones: si las bases de un proceso te piden algo imposible, puedes pedir que lo aclaren o corrijan, gratis y sin abogado. La fórmula: numeral exacto, problema, corrección propuesta. Todo dentro del cronograma. Guárdalo para la próxima vez que unas bases te cierren la puerta. #licitaciones #SEACE #bases #mype #peru",
+        "tt": "¿Las bases te piden algo imposible? Puedes pedir que las corrijan ✍️ #licitaciones #SEACE #mype #peru",
+        "fb": "Pocos saben que unas bases se pueden cuestionar: la etapa de consultas y observaciones existe para eso, es gratuita y no necesitas abogado. Se redacta concreto: numeral, problema, corrección propuesta. La fórmula completa está en el post. radarestatal.pe"
       },
-      "alt": "Cómo presentar consultas y observaciones a las bases de un proceso de selección del Estado."
+      "alt": "Cómo presentar consultas y observaciones para que corrijan las bases de un proceso de selección del Estado."
     },
     {
-      "slug": "14-designaciones",
+      "slug": "14-cambio-funcionario",
       "slides": [
         {
           "role": "cover",
           "kicker": "DATO PÚBLICO",
           "emoji": "🏛",
-          "h": "Cuando cambia el funcionario, cambia la compra",
-          "b": "y la designación se publica"
+          "h": "Cambió el jefe del área que te compra",
+          "b": "y su designación ya se publicó"
         },
         {
           "role": "value",
-          "h": "Las designaciones salen publicadas",
-          "b": "Cada nombramiento se formaliza con una resolución publicada en El Peruano: quién entra y desde cuándo."
+          "h": "La designación de un funcionario se publica",
+          "b": "Sale por resolución en El Peruano: quién entra, a qué cargo y desde cuándo."
         },
         {
           "role": "value",
-          "h": "Por qué importa si le vendes a esa entidad",
-          "b": "Un cambio de titular puede venir con cambios de prioridades, de ritmo y de criterios en las bases."
+          "h": "Si le vendes a esa entidad, revisa esto",
+          "b": "· Las bases nuevas, no las de antes\n· El calendario de convocatorias\n· Las prioridades pueden cambiar"
         },
         {
           "role": "value",
-          "h": "Qué haces con el dato",
-          "b": "· Revisa si esa entidad convocó tu rubro antes\n· Ajusta cuándo esperas la próxima convocatoria\n· Lee las bases nuevas, no las del año pasado"
+          "h": "No copies tu oferta anterior",
+          "b": "Con nuevo titular, los requisitos y formatos de esa entidad pueden moverse. Compara antes de presentar."
         },
         {
           "role": "stat",
-          "h": "El dato te llega el mismo día",
+          "h": "El aviso te llega el mismo día",
           "b": "Radar Estatal (radarestatal.pe) te avisa cuando designan a un funcionario en las entidades que sigues."
         },
         {
@@ -536,11 +82,11 @@
         }
       ],
       "caption": {
-        "ig": "Las designaciones de funcionarios públicos se publican por resolución en El Peruano: quién entra, a qué cargo y desde cuándo. Si le vendes a una entidad, ese cambio te afecta: bases nuevas, criterios nuevos, otro ritmo de convocatoria. Radar Estatal (radarestatal.pe) te avisa cuando pasa en las entidades que sigues. #licitaciones #SEACE #mype #peru #estado",
-        "tt": "Cuando cambia el funcionario, cambia la compra 🏛 #licitaciones #SEACE #mype #peru",
-        "fb": "Las designaciones de funcionarios son públicas y se publican en El Peruano. Para un proveedor del Estado no es un dato de política: el área que convoca tus procesos tiene responsables con nombre, y un cambio de titular puede mover prioridades y criterios. Radar Estatal (radarestatal.pe) te avisa cuando designan en las entidades que sigues."
+        "ig": "Designaciones de funcionarios públicos: cada nombramiento se publica por resolución en El Peruano, y si le vendes a esa entidad el cambio te toca: bases nuevas, otro ritmo, otras prioridades. Checklist de qué revisar cuando cambia el jefe del área que te compra. Guárdalo para el próximo cambio de titular en tu entidad. #contratacionespublicas #SEACE #mype #proveedordelestado #peru",
+        "tt": "Cambió el jefe del área que te compra 🏛 esto revisas hoy #SEACE #licitaciones #mype #peru",
+        "fb": "Si le vendes a una entidad del Estado, un cambio de funcionario no es un detalle: puede mover prioridades, fechas y criterios de las bases. Las designaciones se publican por resolución en El Peruano. ¿Sabes quién dirige hoy el área que compra lo tuyo? radarestatal.pe"
       },
-      "alt": "Las designaciones de funcionarios se publican en El Peruano y afectan a los proveedores de esa entidad."
+      "alt": "Qué revisar cuando designan a un nuevo funcionario en la entidad del Estado a la que le vendes."
     },
     {
       "slug": "15-solo-grandes",
@@ -548,9 +94,9 @@
         {
           "role": "story",
           "plate": "cine-12-obra",
-          "h": "¿El Estado solo le compra a los grandes?",
-          "b": "Los datos dicen otra cosa",
-          "emoji": "🐜"
+          "emoji": "🐜",
+          "h": "¿Sin ser grande no le vendes al Estado?",
+          "b": "los datos abiertos dicen otra cosa"
         },
         {
           "role": "value",
@@ -560,28 +106,30 @@
         {
           "role": "value",
           "h": "Compite en tu categoría de peso",
-          "b": "Filtra por valor estimado a tu escala. El proceso gigante es una descalificación con pasos previos."
+          "b": "· Filtra por valor estimado a tu escala\n· Empieza por tu región\n· Mira quién ganó procesos de ese tamaño"
         },
         {
-          "role": "recap"
+          "role": "value",
+          "h": "Apuntar demasiado alto también descalifica",
+          "b": "Elige la pelea donde tus papeles compiten: tamaño y región a tu escala."
         },
         {
           "role": "stat",
-          "h": "El «radar» filtra por tu talla solo",
+          "h": "El «radar» filtra por tu talla",
           "b": "Radar Estatal (radarestatal.pe): una IA que recomienda procesos según lo que tu empresa puede cumplir."
         },
         {
           "role": "cta",
-          "h": "No era club de grandes",
-          "b": "Era falta de «radar»: radarestatal.pe"
+          "h": "El club siempre estuvo abierto",
+          "b": "Entra con tu «radar»: radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "¿El Estado solo le compra a empresas grandes? Compruébalo tú: filtra el SEACE por rubros cotidianos y mira el tamaño de los procesos y de quienes los ganan. Útiles, mantenimiento, catering, imprenta, transporte. La clave es competir en tu categoría de peso, filtrando por valor estimado. #mype #licitaciones #SEACE #contratacionesdelestado #peru",
-        "tt": "«El Estado solo le compra a los grandes». Mito ❌ #mype #licitaciones #SEACE #peru",
-        "fb": "El mito que más MYPEs deja fuera del juego: «eso es para grandes». Los datos abiertos están ahí para comprobarlo tú mismo: el Estado compra útiles, catering, imprenta y limpieza todos los días hábiles, en montos de todos los tamaños. El truco está en elegir procesos de tu talla. radarestatal.pe"
+        "ig": "Licitaciones del Estado para MYPE: no son un club de grandes. El Estado licita útiles, mantenimiento, catering, imprenta, transporte y limpieza, y el filtro que te acomoda es el valor estimado a tu escala. Compruébalo tú mismo en los datos abiertos. Guárdalo para cuando creas que licitar no es para ti. #mype #licitaciones #SEACE #contratacionesdelestado #peru",
+        "tt": "¿El Estado solo le compra a los grandes? ❌ #mype #licitaciones #SEACE #peru",
+        "fb": "El mito que más MYPE deja fuera del juego: «eso es para grandes». Los datos abiertos están ahí para comprobarlo tú mismo: el Estado compra útiles, catering, imprenta y limpieza todos los días hábiles, en montos de todos los tamaños. El truco está en elegir procesos de tu talla. radarestatal.pe"
       },
-      "alt": "Mito contra datos: las MYPEs sí ganan licitaciones del Estado en rubros cotidianos, filtrando por su escala."
+      "alt": "Mito contra datos: las MYPE sí ganan licitaciones del Estado en rubros cotidianos, filtrando por su escala."
     },
     {
       "slug": "16-historial-ruc",
@@ -589,27 +137,24 @@
         {
           "role": "story",
           "plate": "cine-01-ventana",
-          "h": "Así ves cuánto le vende tu competencia al Estado",
-          "b": "",
-          "emoji": "🔍"
+          "emoji": "🔍",
+          "h": "Tu competencia ya sabe qué licitaciones ganaste este año",
+          "b": "y tú puedes ver las suyas"
         },
         {
           "role": "value",
-          "h": "Busca su RUC",
-          "b": "La búsqueda por RUC muestra en qué procesos participó: cuáles ganó, cuáles perdió y con qué entidades."
+          "h": "Busca su RUC en el SEACE",
+          "b": "Aparece en qué procesos participó: cuáles ganó, cuáles perdió y ante qué entidades."
         },
         {
           "role": "value",
           "h": "Lee su cartera completa",
-          "b": "Qué rubros vende, desde cuándo y con qué frecuencia gana. Los montos adjudicados son públicos."
+          "b": "Qué rubros vende, con qué frecuencia gana y por qué montos. Todo lo adjudicado es público."
         },
         {
           "role": "value",
-          "h": "Conviértelo en decisiones",
-          "b": "· ¿Dónde postula él y tú no?\n· ¿Contra quién pierdes siempre?\n· Tu RUC también lo leen"
-        },
-        {
-          "role": "recap"
+          "h": "Úsalo para decidir",
+          "b": "· ¿Dónde postula él y tú no?\n· ¿Contra quién pierdes seguido?\n· ¿Qué entidad le compra cada año?"
         },
         {
           "role": "stat",
@@ -624,11 +169,11 @@
         }
       ],
       "caption": {
-        "ig": "Cómo ver cuánto le vende tu competencia al Estado: búsqueda por RUC en el SEACE. Procesos ganados y perdidos, entidades, frecuencia y montos adjudicados (todos públicos). Inteligencia de competidores gratis y legal. #licitaciones #SEACE #competencia #mype #peru",
-        "tt": "Cuánto le vende tu competencia al Estado. Es público 💼 #licitaciones #SEACE #mype #peru",
-        "fb": "Todo lo que tu competencia le vendió al Estado está publicado: búscala por RUC en el SEACE y lee su cartera. Qué gana, dónde y con quién. La parte incómoda: tu RUC también lo pueden leer. La parte útil: el post te enseña qué decisiones sacar de ahí. radarestatal.pe"
+        "ig": "Historial de licitaciones por RUC: cuánto le vende cualquier empresa al Estado es público. Procesos ganados y perdidos, entidades, frecuencia y montos adjudicados. Tu competencia puede leer el tuyo hoy mismo. ¿Investigar a tu competencia por RUC te parece viveza o juego limpio? #licitaciones #SEACE #competencia #mype #peru",
+        "tt": "Tu competencia ya sabe qué licitaciones ganaste este año 🔍 #licitaciones #SEACE #mype #peru",
+        "fb": "Todo lo que tu competencia le vendió al Estado está publicado: búscala por RUC en el SEACE y lee su cartera. Qué gana, dónde y ante quién. La parte incómoda: tu RUC también lo pueden leer. Las decisiones que se sacan de ahí están en el post. radarestatal.pe"
       },
-      "alt": "Búsqueda por RUC en SEACE para ver el historial de contratos de cualquier competidor con el Estado."
+      "alt": "Búsqueda por RUC en el SEACE para ver el historial de contratos de cualquier competidor con el Estado."
     },
     {
       "slug": "17-consorcios",
@@ -636,27 +181,24 @@
         {
           "role": "story",
           "plate": "cine-09-acuerdo",
-          "h": "Dos chicos juntos le ganan a un grande",
-          "b": "Se llama consorcio y es legal",
-          "emoji": "🤝"
+          "emoji": "🤝",
+          "h": "El proceso que te queda grande se gana entre dos",
+          "b": "se llama consorcio y es legal"
         },
         {
           "role": "value",
           "h": "Qué es un consorcio",
-          "b": "Dos o más empresas presentan una sola oferta con promesa formal de consorcio. Se formaliza si ganan."
+          "b": "Dos empresas presentan una sola oferta con promesa formal de consorcio. Se formaliza si ganan."
         },
         {
           "role": "value",
           "h": "Cuándo conviene",
-          "b": "Tú tienes la experiencia y el otro la capacidad de entrega. Juntos cumplen lo que separados no."
+          "b": "Tú pones la experiencia, tu socio la capacidad de entrega. Juntos cumplen lo que separados no."
         },
         {
           "role": "value",
           "h": "Los errores que lo arruinan",
-          "b": "· Armarlo el último día\n· No definir porcentajes\n· Asumir que la experiencia se suma\n· Léelo en las bases antes"
-        },
-        {
-          "role": "recap"
+          "b": "· Armarlo el último día\n· No definir porcentajes\n· Asumir que la experiencia se suma\n· No leerlo en las bases del proceso"
         },
         {
           "role": "stat",
@@ -666,13 +208,13 @@
         {
           "role": "cta",
           "h": "Solo no llegas, acompañado sí",
-          "b": "Encuentra tu próxima licitación y a tu socio con datos: radarestatal.pe"
+          "b": "radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "Consorcios en licitaciones del Estado: dos MYPEs presentan una sola oferta con promesa formal. Uno pone la experiencia, el otro la capacidad, y juntos cumplen lo que separados no. Los 3 errores que lo arruinan están en el post. #consorcio #licitaciones #mype #SEACE #peru",
-        "tt": "Dos MYPEs juntas le ganan a una grande. Así funciona el consorcio 🤝 #licitaciones #mype #consorcio #peru",
-        "fb": "¿Te falta experiencia o capacidad para un proceso que sí es de tu rubro? Para eso existe el consorcio: una sola oferta entre dos empresas, sin crear una nueva. Bien armado, mete a los chicos en procesos medianos. Mal armado (a última hora, sin porcentajes claros), descalifica. Guía en el post. radarestatal.pe"
+        "ig": "Consorcios en licitaciones del Estado: dos MYPE presentan una sola oferta con promesa formal, uno pone la experiencia y el otro la capacidad. Los 4 errores que descalifican están en el post. Guárdalo para antes de armar tu primer consorcio. ¿Consorciarías con tu competencia directa? #consorcio #licitaciones #mype #SEACE #peru",
+        "tt": "El proceso que te queda grande se gana entre dos 🤝 #consorcio #licitaciones #mype #peru",
+        "fb": "¿Te falta experiencia o capacidad para un proceso que sí es de tu rubro? Para eso existe el consorcio: una sola oferta entre dos empresas, sin crear una nueva. Bien armado, mete a los chicos en procesos medianos. Mal armado, a última hora y sin porcentajes claros, descalifica. Guía en el post. radarestatal.pe"
       },
       "alt": "Cómo funciona la promesa de consorcio en licitaciones y los errores comunes que descalifican."
     },
@@ -682,22 +224,19 @@
         {
           "role": "story",
           "plate": "cine-13-bases",
-          "h": "La ley de contrataciones cambió y casi nadie leyó",
-          "b": "Te toca aunque no leas leyes",
-          "emoji": "⚖"
+          "emoji": "⚖",
+          "h": "Sigues postulando con la ley antigua",
+          "b": "y las bases nuevas ya citan otras reglas"
         },
         {
           "role": "value",
           "h": "Lo que ya es un hecho",
-          "b": "La Ley 32069 es la nueva ley de contrataciones y el OSCE ahora es OECE. Los errores de forma descalifican."
+          "b": "· La Ley 32069 ya rige las compras del Estado\n· El OSCE ahora se llama OECE\n· El SEACE viene migrando a PLADICOP"
         },
         {
           "role": "value",
-          "h": "Cómo estar al día sin ser abogado",
-          "b": "· Mira qué norma citan las bases\n· Verifica en el portal del OECE\n· Usa la etapa de consultas"
-        },
-        {
-          "role": "recap"
+          "h": "Ponte al día sin ser abogado",
+          "b": "· Mira qué norma citan las bases del proceso\n· Verifica en el portal del OECE\n· Pregunta en la etapa de consultas"
         },
         {
           "role": "stat",
@@ -708,62 +247,59 @@
         {
           "role": "cta",
           "h": "La ley cambió, tu método también",
-          "b": "Ponte al día en 10 minutos: radarestatal.pe"
-        }
-      ],
-      "caption": {
-        "ig": "La Ley 32069 es la nueva ley de contrataciones públicas y el OSCE ahora es OECE: los procesos se rigen por el marco nuevo, y postular con reflejos de la ley antigua produce errores de forma que descalifican. Cómo mantenerte al día sin ser abogado, en el post. #ley32069 #OECE #licitaciones #mype #peru",
-        "tt": "La ley de contrataciones del Estado CAMBIÓ. Esto te toca ⚖️ #ley32069 #licitaciones #mype #peru",
-        "fb": "Cambió la ley de contrataciones (Ley 32069) y el OSCE ahora es OECE. ¿Necesitas ser abogado? No. Necesitas tres reflejos: mirar qué norma citan las bases, verificar en el portal del OECE, y preguntar en la etapa de consultas. El resto es el mismo juego de siempre: información. radarestatal.pe"
-      },
-      "alt": "Qué significa la Ley 32069 y el cambio de OSCE a OECE para una MYPE que vende al Estado."
-    },
-    {
-      "slug": "19-cambio-de-jefe",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "DATO PÚBLICO",
-          "h": "Cambió el jefe del área que te compra",
-          "b": "y tu venta cambia con él",
-          "emoji": "🔁"
-        },
-        {
-          "role": "value",
-          "h": "Lo primero: no asumas nada",
-          "b": "· Las prioridades pueden cambiar\n· El ritmo de convocatorias también\n· Quien te atendía ya no decide"
-        },
-        {
-          "role": "value",
-          "h": "Revisa las bases nuevas, no las viejas",
-          "b": "Los requisitos y formatos de esa entidad pueden moverse con el nuevo titular. Compara antes de copiar tu oferta anterior."
-        },
-        {
-          "role": "value",
-          "h": "Vuelve a mirar su calendario",
-          "b": "· ¿Retomó las convocatorias?\n· ¿Se reprogramaron fechas?\n· ¿Aparecieron procesos nuevos?"
-        },
-        {
-          "role": "recap"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-herramientas.png",
-          "h": "El aviso llega el mismo día",
-          "b": "Radar Estatal (radarestatal.pe) te avisa cuando designan a un funcionario en las entidades que sigues."
-        },
-        {
-          "role": "cta",
-          "h": "Cuando cambia quien decide, revisa todo.",
           "b": "radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "Cambio de funcionario en una entidad del Estado: qué revisar si le vendes a esa entidad. Las designaciones se formalizan por resolución pública, y un cambio de titular puede mover prioridades, ritmo de convocatorias y criterios de las bases. Revisa las bases nuevas, no las del año pasado, y vuelve a mirar su calendario de procesos. Radar Estatal (radarestatal.pe) te avisa cuando designan a un funcionario en las entidades que sigues. #contratacionespublicas #seace #mype #proveedordelestado #peru",
-        "tt": "Cambió el jefe del área que te compra 🔁 qué revisar esta semana #seace #licitaciones #mype #peru",
-        "fb": "Si le vendes a una entidad del Estado, un cambio de funcionario no es un detalle: puede mover prioridades, fechas y criterios de las bases. Las designaciones son públicas y se formalizan por resolución. ¿Sabes quién dirige hoy el área que compra lo tuyo?"
+        "ig": "Ley 32069 de contrataciones del Estado: ya rige, el OSCE ahora es OECE y el SEACE viene migrando a PLADICOP. Tres reflejos para estar al día sin ser abogado: qué norma citan las bases, el portal del OECE y la etapa de consultas. Guárdalo para tu próxima postulación. #ley32069 #OECE #licitaciones #mype #peru",
+        "tt": "Sigues postulando con la ley antigua ⚖️ #ley32069 #licitaciones #mype #peru",
+        "fb": "Cambió la ley de contrataciones (Ley 32069) y el OSCE ahora es OECE. ¿Necesitas ser abogado? No. Necesitas tres reflejos: mirar qué norma citan las bases, verificar en el portal del OECE y preguntar en la etapa de consultas. El resto es el mismo juego de siempre: información. radarestatal.pe"
       },
-      "alt": "Qué revisar cuando designan a un nuevo funcionario en la entidad a la que le vendes."
+      "alt": "Qué significa la Ley 32069 y el cambio de OSCE a OECE para una MYPE que vende al Estado."
+    },
+    {
+      "slug": "19-tu-rubro",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-11-ferreteria",
+          "emoji": "📦",
+          "h": "El Estado ya compró lo tuyo este mes",
+          "b": "y va a volver a comprarlo"
+        },
+        {
+          "role": "value",
+          "h": "El historial de tu rubro es público",
+          "b": "Busca lo que vendes por objeto de contratación en el SEACE y filtra los últimos meses."
+        },
+        {
+          "role": "value",
+          "h": "Identifica a las entidades que repiten",
+          "b": "Colegios, hospitales, municipios: hay entidades que compran tu rubro cada cierto tiempo."
+        },
+        {
+          "role": "value",
+          "h": "Arma tu lista de tres",
+          "b": "· Tres entidades que repiten compra\n· El mes en que suelen convocar\n· Revísalas cada semana"
+        },
+        {
+          "role": "stat",
+          "h": "El «radar» ya conoce tu rubro",
+          "b": "Radar Estatal (radarestatal.pe) sigue a las entidades que compran lo tuyo y te avisa.",
+          "shot": "shot-herramientas.png"
+        },
+        {
+          "role": "cta",
+          "h": "Lo tuyo se compra todos los meses",
+          "b": "Empieza a verlo: radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Compras del Estado en tu rubro: búscalas por objeto de contratación en el SEACE, filtra los últimos meses y apunta las entidades que repiten. Esa lista de tres es tu cartera natural. Guárdalo para armar tu lista esta semana. #licitaciones #SEACE #mype #contratacionesdelestado #peru",
+        "tt": "El Estado ya compró lo tuyo este mes 🛒 #licitaciones #SEACE #mype #peru",
+        "fb": "¿Crees que el Estado no compra lo tuyo? Este mes probablemente ya lo compró. El método para comprobarlo: búsqueda por objeto, filtro de fechas y la lista de entidades que repiten compra. Son 10 minutos y cambia cómo ves tu propio negocio. radarestatal.pe"
+      },
+      "alt": "Cómo ver el historial de compras del Estado en tu rubro usando el SEACE y armar una lista de entidades."
     },
     {
       "slug": "20-oferta-perdida",
@@ -771,22 +307,24 @@
         {
           "role": "story",
           "plate": "cine-16-madrugada",
-          "h": "No prepares una oferta que ya perdiste",
-          "b": "Cinco preguntas antes de empezar",
-          "emoji": "🛑"
+          "emoji": "🛑",
+          "h": "No prepares una oferta que ya está perdida",
+          "b": "cinco preguntas antes de empezar"
         },
         {
           "role": "value",
-          "h": "Las cinco preguntas",
-          "b": "· ¿Cumplo los requisitos de calificación?\n· ¿El plazo es real para mí?\n· ¿Tengo la experiencia documentada?\n· ¿Puedo cubrir la garantía?"
+          "h": "Cuatro preguntas antes de cualquier oferta",
+          "b": "· ¿Cumplo los requisitos de calificación?\n· ¿El plazo de entrega es real para mí?\n· ¿Tengo la experiencia documentada?\n· ¿Puedo cubrir la garantía?"
+        },
+        {
+          "role": "value",
+          "h": "La quinta: mira quiénes ya consultaron",
+          "b": "El pliego absolutorio del proceso los nombra. Son posibles rivales, no postores confirmados."
         },
         {
           "role": "value",
           "h": "Dos «no» y pasas al siguiente",
-          "b": "Con dos respuestas en contra, ese proceso no era el tuyo. Es elegir dónde sí puedes ganar."
-        },
-        {
-          "role": "recap"
+          "b": "Con dos respuestas en contra, ese proceso no era el tuyo. Esa semana úsala en el siguiente."
         },
         {
           "role": "stat",
@@ -797,12 +335,12 @@
         {
           "role": "cta",
           "h": "Cinco preguntas, cinco minutos",
-          "b": "Guárdalas y pásalas siempre: radarestatal.pe"
+          "b": "Pásalas antes de cada oferta: radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "Antes de invertir una semana en una oferta, cinco preguntas: ¿cumplo requisitos? ¿plazo real? ¿experiencia documentada? ¿garantía cubrible? ¿quiénes ya consultaron? Dos «no» y pasas al siguiente proceso. Elegir bien vale tanto como ofertar bien. #licitaciones #mype #SEACE #buenapro #peru",
-        "tt": "No prepares ofertas que ya perdiste. 5 preguntas primero ✋ #licitaciones #mype #SEACE #peru",
+        "ig": "Checklist antes de postular a una licitación: requisitos de calificación, plazo real, experiencia documentada, garantía y quiénes ya consultaron el proceso. Dos «no» y pasas al siguiente. Guárdalo para antes de tu próxima oferta. #licitaciones #mype #SEACE #buenapro #peru",
+        "tt": "No prepares ofertas que ya están perdidas ✋ 5 preguntas primero #licitaciones #mype #SEACE #peru",
         "fb": "El error más caro en licitaciones no es perder: es invertir una semana en una oferta que estaba perdida desde el día uno. Cinco preguntas de cinco minutos lo evitan. Y con dos respuestas en contra, siguiente proceso sin culpa. La lista completa está en el post. radarestatal.pe"
       },
       "alt": "Checklist de cinco preguntas antes de preparar una oferta para una licitación del Estado."
@@ -815,30 +353,27 @@
           "plate": "cine-09-acuerdo",
           "emoji": "📋",
           "h": "Regístrate aunque no estés seguro de postular",
-          "b": "es gratis y te abre la información"
+          "b": "es gratis y no te obliga a nada"
         },
         {
           "role": "value",
-          "h": "Qué te da el registro",
-          "b": "Te habilita a presentar consultas y te mete en la información: bases integradas, pliego y cronograma."
+          "h": "Qué te da registrarte como participante",
+          "b": "· Las bases integradas del proceso\n· El pliego de consultas y respuestas\n· Cada cambio de cronograma\n· El derecho a preguntar"
         },
         {
           "role": "value",
           "h": "Es gratis y electrónico",
-          "b": "En el SEACE, desde el día siguiente a la convocatoria hasta antes de las ofertas. No te obliga a nada."
+          "b": "En el SEACE, desde el día siguiente a la convocatoria hasta antes de presentar ofertas."
         },
         {
           "role": "value",
           "h": "Decide con el campo a la vista",
-          "b": "Quiénes más consultaron, qué pidieron corregir y cómo respondió la entidad."
-        },
-        {
-          "role": "recap"
+          "b": "Ves quiénes más consultaron el proceso y qué pidieron corregir. Recién ahí decides si ofertas."
         },
         {
           "role": "stat",
-          "h": "El «radar» te encuentra el proceso de selección el día uno",
-          "b": "Radar Estatal (radarestatal.pe): feed gratis del SEACE filtrado a tu rubro."
+          "h": "El «radar» te encuentra el proceso el día uno",
+          "b": "Radar Estatal (radarestatal.pe): un feed gratis de procesos del SEACE filtrado a tu rubro."
         },
         {
           "role": "cta",
@@ -847,8 +382,8 @@
         }
       ],
       "caption": {
-        "ig": "Registrarte como participante en un proceso del SEACE es gratis, electrónico y no te obliga a postular. Lo que te da: bases integradas, pliego absolutorio, cambios de cronograma y el derecho a presentar consultas. Después decides si ofertas. #licitaciones #SEACE #mype #buenapro #peru",
-        "tt": "Regístrate aunque no estés seguro de postular 📋 #licitaciones #SEACE #mype #peru",
+        "ig": "Registro de participantes en el SEACE: gratis, electrónico y no te obliga a postular. Te da las bases integradas, el pliego de consultas y cada cambio de cronograma del proceso. Guárdalo para el próximo proceso que te tiente. #licitaciones #SEACE #mype #buenapro #peru",
+        "tt": "Regístrate aunque no estés seguro de postular 📋 es gratis #licitaciones #SEACE #mype #peru",
         "fb": "El registro de participantes en el SEACE es gratuito, se hace en línea desde el día siguiente a la convocatoria y no te obliga a presentar oferta. A cambio te da todo lo que publica el proceso: bases integradas, pliego absolutorio y cada cambio de cronograma. Decidir con eso a la vista cambia el resultado. radarestatal.pe"
       },
       "alt": "Registrarse como participante en un proceso del SEACE para recibir bases integradas y pliegos antes de decidir."
@@ -861,31 +396,28 @@
           "plate": "cine-15-reparto",
           "emoji": "👀",
           "h": "El Estado hace compras que no pasan por licitación",
-          "b": "las de hasta 8 UIT"
+          "b": "y ahí también compran lo tuyo"
         },
         {
           "role": "value",
           "h": "Qué son las contrataciones menores",
-          "b": "· Quedan fuera del ámbito de la ley\n· No hay proceso de selección: la entidad cotiza y elige\n· Con la UIT 2026 en S/ 5,500, el tope es S/ 44,000"
+          "b": "· Compras de hasta 8 UIT: S/ 44,000 este año\n· No hay convocatoria ni proceso de selección\n· La entidad pide cotizaciones y elige"
         },
         {
           "role": "value",
-          "h": "Sí se publican, pero después",
-          "b": "Las entidades registran objeto, RUC del proveedor, monto y fecha. Es lo ya comprado, no una convocatoria."
+          "h": "Se publican, pero después",
+          "b": "Queda registrado qué compró cada entidad, a qué RUC y por cuánto. Es historia, no aviso."
         },
         {
           "role": "value",
-          "h": "Úsalo como mapa, no como bandeja",
-          "b": "· Qué entidades compran lo tuyo\n· Cada cuánto y por cuánto\n· A quién se lo compran hoy\n· Esa lista dice a quién cotizarle"
-        },
-        {
-          "role": "recap"
+          "h": "Úsalo como mapa de clientes",
+          "b": "· Qué entidades compran lo tuyo\n· Cada cuánto y por cuánto\n· A quién se lo compran hoy\n· A esa lista se cotiza directo"
         },
         {
           "role": "stat",
-          "shot": "shot-feed.png",
           "h": "El «radar» también vigila lo chico",
-          "b": "Radar Estatal (radarestatal.pe) organiza más de 200 mil procesos de datos abiertos OECE."
+          "b": "Radar Estatal (radarestatal.pe) organiza más de 200 mil procesos de los datos abiertos del OECE.",
+          "shot": "shot-feed.png"
         },
         {
           "role": "cta",
@@ -894,7 +426,7 @@
         }
       ],
       "caption": {
-        "ig": "Contrataciones menores a 8 UIT: la puerta de entrada de las MYPE al Estado, y casi nadie la entiende bien. No son procesos de selección (quedan fuera del ámbito de la ley) así que no se postula: la entidad cotiza y elige. Lo que se publica es el registro de lo ya comprado, y ese registro te dice a quién cotizarle. UIT 2026: S/ 5,500, tope S/ 44,000. #8uit #licitaciones #mype #SEACE #peru",
+        "ig": "Contrataciones menores a 8 UIT: compras del Estado sin licitación, hasta S/ 44,000 con la UIT 2026. No se postula: la entidad cotiza y elige, y el registro de lo ya comprado te dice a qué entidad cotizarle. Guárdalo para armar tu mapa de entidades. #8uit #licitaciones #mype #SEACE #peru",
         "tt": "Las compras del Estado que no pasan por licitación 🔍 #licitaciones #mype #SEACE #peru",
         "fb": "Aclaremos algo que casi todos cuentan mal: las contrataciones menores a 8 UIT no son licitaciones. Quedan fuera del ámbito de la ley, la entidad pide cotizaciones y elige. No hay convocatoria a la que postular. Lo que sí es público es el registro de lo que ya compraron: objeto, proveedor, monto y fecha. Ahí está tu mapa de a quién tocarle la puerta. radarestatal.pe"
       },
@@ -906,19 +438,19 @@
         {
           "role": "story",
           "plate": "cine-11-ferreteria",
+          "emoji": "📜",
           "h": "Le tienes miedo a la garantía equivocada",
-          "b": "el problema es el cuándo, no el cuánto",
-          "emoji": "📜"
+          "b": "el problema es el cuándo, no el cuánto"
         },
         {
           "role": "value",
           "h": "La línea se pide antes de ganar",
-          "b": "Así no: correr al banco con la buena pro en mano\nAsí sí: línea conversada al decidir postular"
+          "b": "Así no: correr al banco con la buena pro en mano\nAsí sí: línea de fianza conversada al decidir postular"
         },
         {
           "role": "value",
           "h": "La retención existe para MYPE",
-          "b": "Así no: descartar procesos «por la carta fianza»\nAsí sí: verificar en tus bases si aplica la retención del pago"
+          "b": "Así no: descartar procesos «por la carta fianza»\nAsí sí: verificar en las bases si aplica la retención del pago"
         },
         {
           "role": "value",
@@ -928,16 +460,16 @@
         {
           "role": "stat",
           "h": "Saber qué piden antes de abrir el PDF",
-          "b": "Radar Estatal (radarestatal.pe): una IA que resume requisitos y garantías de cada proceso."
+          "b": "Radar Estatal (radarestatal.pe): una IA que resume los requisitos y garantías de cada proceso."
         },
         {
           "role": "cta",
-          "h": "Miedo informado deja de ser miedo.",
+          "h": "El miedo se acaba cuando sabes qué piden.",
           "b": "radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "Las garantías del Estado asustan menos cuando se entienden: la línea de fianza se conversa con el banco al postular, no al ganar; muchas MYPE pueden pedir retención del pago en vez de carta fianza; y el monto lo fijan las bases de cada proceso. Radar Estatal (radarestatal.pe). #licitaciones #mype #cartafianza #SEACE #peru #contratacionesdelestado",
+        "ig": "Garantías en licitaciones del Estado: la línea de fianza se conversa con el banco al postular, no al ganar; muchas MYPE pueden pedir retención del pago en vez de carta fianza; y el monto lo fijan las bases de cada proceso. Guárdalo para el día que unas bases te asusten. #licitaciones #mype #cartafianza #SEACE #peru",
         "tt": "Le tienes miedo a la garantía equivocada 📜 #licitaciones #mype #SEACE #peru",
         "fb": "Muchos descartan las licitaciones «por la carta fianza» sin saber que la conversación con el banco va antes de ganar, que las bases fijan cuánto pide cada proceso, y que muchas MYPE pueden pedir retención del pago en su lugar. radarestatal.pe te dice qué pide cada proceso."
       },
@@ -948,42 +480,42 @@
       "slides": [
         {
           "role": "story",
-          "plate": "cine-11-ferreteria",
+          "plate": "cine-13-bases",
           "emoji": "😖",
-          "h": "Se pierde una buena pro por dos puntos",
-          "b": "y casi siempre por la misma página"
+          "h": "Tu mejor precio puede perder por dos puntos",
+          "b": "y esos puntos se anuncian desde el día uno"
         },
         {
           "role": "value",
           "h": "La página que decide el resultado",
-          "b": "Dicen cómo se reparte el puntaje: precio, plazo, garantía, experiencia. Publicados desde la convocatoria."
+          "b": "· Se llama factores de evaluación\n· Vive en las bases del proceso\n· Reparte puntos: precio, plazo, garantía, experiencia"
         },
         {
           "role": "value",
           "h": "El error típico",
-          "b": "Si el puntaje premia plazo mejorado y tú no lo ofreciste, el rival gana sin mejor precio.",
+          "b": "El puntaje premia plazo mejorado, tú no lo ofreciste, y el rival gana sin mejor precio.",
           "emoji": "😤"
         },
         {
           "role": "value",
           "h": "Arma la oferta para esa tabla",
-          "b": "Antes de poner precio, calcula dónde ganas puntos que ya puedes cumplir. El precio es un factor."
+          "b": "Antes de poner precio, calcula qué puntos ya puedes ganar. El precio es solo un factor."
         },
         {
           "role": "stat",
-          "shot": "shot-herramientas.png",
           "h": "Cómo se ganó el anterior, a la vista",
-          "b": "Radar Estatal (radarestatal.pe): una IA que te explica cada proceso y el historial de tus rivales."
+          "b": "Radar Estatal (radarestatal.pe): una IA que te explica cada proceso y el historial de tus rivales.",
+          "shot": "shot-herramientas.png"
         },
         {
           "role": "cta",
-          "h": "Que tus dos puntos no queden en la mesa",
+          "h": "Que no te ganen por dos puntos",
           "b": "Lee los factores antes de cotizar: radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "Los factores de evaluación son la página de las bases que dice CÓMO se gana un proceso: cuánto pesa el precio, el plazo, la garantía y la experiencia. Están publicados desde la convocatoria. Cotizar antes de leerlos es regalar puntos. #buenapro #licitaciones #mype #SEACE #peru",
-        "tt": "Se pierde una buena pro por 2 puntos que estaban en UNA página 📄 #licitaciones #mype #peru #SEACE",
+        "ig": "Factores de evaluación en licitaciones: la página de las bases que reparte el puntaje entre precio, plazo, garantía y experiencia. Se publica desde la convocatoria y se lee antes de cotizar, no después. Guárdalo para tu próxima oferta. #buenapro #licitaciones #mype #SEACE #peru",
+        "tt": "Tu mejor precio puede perder por 2 puntos 📄 #licitaciones #mype #SEACE #peru",
         "fb": "Oferta impecable, precios afilados, y la buena pro se va por dos puntos que estaban anunciados desde la convocatoria en los factores de evaluación. Esa página dice cómo se gana el proceso. Léela antes de cotizar, no después. radarestatal.pe"
       },
       "alt": "Los factores de evaluación de unas bases y por qué se leen antes de cotizar."
@@ -994,14 +526,14 @@
         {
           "role": "story",
           "plate": "cine-02-oficina",
+          "emoji": "📇",
           "h": "La hoja de vida de tu competencia es pública",
-          "b": "Y la tuya también",
-          "emoji": "📇"
+          "b": "se llama ficha RNP"
         },
         {
           "role": "value",
-          "h": "La ficha RNP de una empresa se puede consultar",
-          "b": "En qué registros está inscrito, desde cuándo y con qué estado. Se consulta gratis."
+          "h": "La ficha RNP se consulta gratis",
+          "b": "Muestra en qué registros está inscrita una empresa, desde cuándo y con qué estado."
         },
         {
           "role": "value",
@@ -1011,10 +543,7 @@
         {
           "role": "value",
           "h": "El espejo incómodo",
-          "b": "Tu ficha también la leen: tenla activa, en los registros correctos y actualizada."
-        },
-        {
-          "role": "recap"
+          "b": "Tu ficha también la leen. Tenla activa, en los registros correctos y al día."
         },
         {
           "role": "stat",
@@ -1028,8 +557,8 @@
         }
       ],
       "caption": {
-        "ig": "La ficha RNP de cualquier proveedor del Estado es pública: en qué registros está, desde cuándo y con qué estado. Una inscripción nueva en tu rubro es un rival entrando a tu cancha. Y recuerda: la tuya también la leen. #RNP #licitaciones #competencia #mype #peru",
-        "tt": "La hoja de vida de tu competencia es PÚBLICA 📋 #RNP #licitaciones #mype #peru",
+        "ig": "Ficha RNP de un proveedor del Estado: pública y gratis. En qué registros está, desde cuándo y con qué estado. Una inscripción nueva en tu rubro es un rival entrando a tu cancha, y tu ficha también la leen. Guárdalo para tu próxima revisión de competencia. #RNP #licitaciones #competencia #mype #peru",
+        "tt": "La hoja de vida de tu competencia es pública 📋 #RNP #licitaciones #mype #peru",
         "fb": "En el mercado estatal todos tienen hoja de vida pública: la ficha RNP. Bien leída te dice quién entra a tu rubro, quién se amplía y quién está inhabilitado para contratar. Y la tuya habla de ti todos los días. Tenla impecable. Cómo leerla, en el post. radarestatal.pe"
       },
       "alt": "Cómo leer la ficha RNP de un competidor: registros, rubros y señales de movimiento en el mercado estatal."
@@ -1040,27 +569,24 @@
         {
           "role": "story",
           "plate": "cine-10-amanecer",
+          "emoji": "🚀",
           "h": "Encuentra tu primera licitación esta semana",
-          "b": "La ruta completa del primerizo",
-          "emoji": "🚀"
+          "b": "la ruta completa del primerizo"
         },
         {
           "role": "value",
           "h": "Día 1 y 2: papeles",
-          "b": "RUC activo y habido. RNP inscrito en el registro de lo que vendes. Sin eso, lo demás es turismo."
+          "b": "· RUC activo y habido\n· RNP inscrito en lo que vendes\n· Sin eso, lo demás es turismo"
         },
         {
           "role": "value",
-          "h": "Día 3: la búsqueda",
+          "h": "Día 3: la búsqueda en el SEACE",
           "b": "· Palabra clave de tu rubro\n· Tu región\n· Valor estimado a tu escala\n· Guarda los 3 que mejor calcen"
         },
         {
           "role": "value",
           "h": "Día 4 y 5: filtra y entra",
           "b": "Regístrate como participante en el mejor y presenta tus consultas dentro del plazo."
-        },
-        {
-          "role": "recap"
         },
         {
           "role": "stat",
@@ -1071,13 +597,13 @@
         {
           "role": "cta",
           "h": "De cero a participante en cinco días",
-          "b": "Guarda la ruta y empieza el lunes: radarestatal.pe"
+          "b": "Empieza el lunes: radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "De cero a tu primera licitación en 5 días: RUC + RNP (días 1 y 2), búsqueda por rubro, región y escala (día 3), filtro de cronogramas y requisitos, registro como participante y consultas (días 4-5). La ruta completa del primerizo. #licitaciones #mype #SEACE #RNP #peru",
-        "tt": "Tu primera licitación del Estado en 5 días. La ruta 🗺️ #licitaciones #mype #SEACE #peru",
-        "fb": "¿Nunca has postulado al Estado? En cinco días hábiles puedes pasar de cero a participante registrado con consultas presentadas: papeles, búsqueda, filtro y entrada. La ruta día por día está en el post. Guárdala y empieza el lunes. radarestatal.pe"
+        "ig": "Primera licitación paso a paso: RUC y RNP los días 1 y 2, búsqueda por rubro, región y escala el día 3, registro como participante y consultas los días 4 y 5. La ruta completa del primerizo. Guárdalo para empezar el lunes. #licitaciones #mype #SEACE #RNP #peru",
+        "tt": "Tu primera licitación del Estado en 5 días 🗺️ #licitaciones #mype #SEACE #peru",
+        "fb": "¿Nunca has postulado al Estado? En cinco días hábiles puedes pasar de cero a participante registrado con consultas presentadas: papeles, búsqueda, filtro y entrada. La ruta día por día está en el post. radarestatal.pe"
       },
       "alt": "Ruta de cinco días para encontrar y entrar a una primera licitación del Estado siendo MYPE."
     },
@@ -1087,14 +613,14 @@
         {
           "role": "story",
           "plate": "cine-16-madrugada",
-          "h": "Perdiste la buena pro, ¿y ahora?",
-          "b": "El acta te dice exactamente por qué",
-          "emoji": "💪"
+          "emoji": "💪",
+          "h": "Perdiste la buena pro y no sabes por qué",
+          "b": "el acta del proceso te lo dice exacto"
         },
         {
           "role": "value",
           "h": "Lee el acta y el cuadro comparativo",
-          "b": "Están en el expediente, públicos: los puntajes de todos, quién ganó y con qué. Casi nadie los abre."
+          "b": "Publicados en el expediente del proceso: los puntajes de todos, quién ganó y con qué."
         },
         {
           "role": "value",
@@ -1105,9 +631,6 @@
           "role": "value",
           "h": "Sigue al que te ganó",
           "b": "Su historial por RUC muestra dónde compite y cómo gana. O lo evitas, o aprendes su juego."
-        },
-        {
-          "role": "recap"
         },
         {
           "role": "stat",
@@ -1121,9 +644,9 @@
         }
       ],
       "caption": {
-        "ig": "¿Perdiste una buena pro? El acta y el cuadro comparativo son públicos: puntajes de todos, quién ganó y con qué. Ubica tu causa exacta (precio, puntaje o forma) y estudia el historial del ganador por RUC. Perder con data es entrenar. #buenapro #licitaciones #mype #SEACE #peru",
-        "tt": "Perdiste la licitación. Esto es lo que haces AHORA 📊 #licitaciones #mype #buenapro #peru",
-        "fb": "Perder una buena pro duele; perderla sin saber por qué, arruina. El acta y el cuadro comparativo están publicados en el expediente: tu autopsia gratis. Con la causa exacta y el historial del ganador, la próxima oferta sale a ganar. radarestatal.pe"
+        "ig": "Perdiste una buena pro: el acta y el cuadro comparativo del proceso son públicos, con los puntajes de todos. Ubica tu causa exacta, precio, puntaje o forma, y estudia el historial del ganador por RUC. Guárdalo para leerlo después de cada resultado. #buenapro #licitaciones #mype #SEACE #peru",
+        "tt": "Perdiste la licitación. Esto haces AHORA 📊 #licitaciones #mype #buenapro #peru",
+        "fb": "Perder una buena pro duele; perderla sin saber por qué, arruina. El acta y el cuadro comparativo están publicados en el expediente: tu autopsia gratis. Con la causa exacta y el historial del ganador, la próxima oferta sale mejor armada. radarestatal.pe"
       },
       "alt": "Qué hacer tras perder una buena pro: leer el acta, el cuadro comparativo y el historial del ganador."
     },
@@ -1133,8 +656,9 @@
         {
           "role": "cover",
           "kicker": "CÓMO FUNCIONA",
-          "h": "Detrás de cada compra hay funcionarios con nombre",
-          "emoji": "🗣"
+          "emoji": "🗣",
+          "h": "La compra que persigues la deciden personas con nombre",
+          "b": "y sus designaciones son públicas"
         },
         {
           "role": "value",
@@ -1144,7 +668,7 @@
         {
           "role": "value",
           "h": "Por eso importa quién está a cargo",
-          "b": "El titular de la entidad y los jefes de esas áreas se designan por resolución pública. Saber quiénes son te ordena el mapa."
+          "b": "Se designan por resolución pública: el titular de la entidad y los jefes de esas áreas. Saberlo ordena tu mapa."
         },
         {
           "role": "value",
@@ -1158,14 +682,14 @@
         },
         {
           "role": "cta",
-          "h": "Sabe quién decide. Postula como siempre.",
+          "h": "Entérate de quién decide. Postula como siempre.",
           "b": "radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "Quién decide una compra del Estado: el área usuaria que necesita el bien o servicio, el órgano encargado de las contrataciones y el comité de selección cuando corresponde. Los titulares y jefes de esas áreas se designan por resolución pública, así que saber quién está a cargo es información abierta. Ojo: conocer nombres no adelanta ninguna buena pro, al proceso se entra por las bases. Radar Estatal (radarestatal.pe) vigila el SEACE y las designaciones de las entidades que sigues. #contratacionespublicas #seace #rnp #mype #peru",
-        "tt": "Detrás de cada compra del Estado hay funcionarios con nombre 🗣 y es dato público #seace #licitaciones #peru",
-        "fb": "En una compra del Estado intervienen el área usuaria, el órgano encargado de las contrataciones y, cuando corresponde, el comité de selección. Todos con responsables designados por resolución pública. Saber quién está a cargo ordena el mapa; ganar sigue dependiendo de tu oferta y tus papeles."
+        "ig": "Quién decide una compra del Estado: el área usuaria, el órgano encargado de las contrataciones y el comité de selección cuando corresponde. Sus designaciones se publican por resolución. Conocer nombres no adelanta nada: al proceso se entra por las bases. #contratacionespublicas #SEACE #mype #peru",
+        "tt": "Detrás de cada compra del Estado hay personas con nombre 🗣 y es dato público #SEACE #licitaciones #peru",
+        "fb": "En una compra del Estado intervienen el área usuaria, el órgano encargado de las contrataciones y, cuando corresponde, el comité de selección. Todos con responsables designados por resolución pública. Saber quién está a cargo ordena el mapa; el resultado sigue dependiendo de tu oferta y tus papeles. radarestatal.pe"
       },
       "alt": "Los roles que intervienen en una compra del Estado y por qué sus designaciones son públicas."
     },
@@ -1175,14 +699,14 @@
         {
           "role": "story",
           "plate": "cine-09-acuerdo",
-          "emoji": "🤝",
-          "h": "Tu socio de consorcio de hoy compite contra ti mañana",
+          "emoji": "🔁",
+          "h": "Tu socio de consorcio hoy compite contra ti mañana",
           "b": "no es traición, es el juego"
         },
         {
           "role": "value",
           "h": "En licitaciones no hay exclusividad",
-          "b": "El consorciado de hoy puede postular solo en el siguiente. Contra ti."
+          "b": "El consorciado de este proceso puede postular solo en el siguiente. Contra ti."
         },
         {
           "role": "value",
@@ -1192,7 +716,7 @@
         {
           "role": "value",
           "h": "Tu experiencia es tuya: documéntala",
-          "b": "Contratos, conformidades y actas, ordenados. Los consorcios se disuelven; tu file te acompaña."
+          "b": "Contratos, conformidades y actas, ordenados. Los consorcios se disuelven. Tu file te acompaña."
         },
         {
           "role": "stat",
@@ -1206,11 +730,54 @@
         }
       ],
       "caption": {
-        "ig": "Tu socio de consorcio de hoy puede ser tu competencia mañana, y es parte del juego. Por eso: elige socios leyendo su historial por RUC, confirma que no estén inhabilitados y documenta tu propia experiencia (contratos, conformidades, actas) para que te acompañe cuando el consorcio se disuelva. #consorcio #licitaciones #mype #SEACE #peru",
-        "tt": "Tu socio de consorcio de hoy compite contra ti mañana 🤝 #licitaciones #mype #consorcio #peru",
+        "ig": "Consorcios y competencia: tu socio de hoy puede postular contra ti mañana. Revisa su historial por RUC, confirma que no esté inhabilitado y documenta tu propia experiencia. Guárdalo para antes de firmar tu próxima promesa de consorcio. ¿Volverías a consorciar con alguien que después postuló contra ti? #consorcio #licitaciones #mype #SEACE #peru",
+        "tt": "Tu socio de consorcio hoy compite contra ti mañana 🔁 #licitaciones #mype #consorcio #peru",
         "fb": "En licitaciones no hay exclusividad: el socio de consorcio de este proceso puede postular contra ti en el siguiente. No es drama, es el juego. Se juega bien con historial por RUC, con el registro de inhabilitados revisado y con tu experiencia documentada en tu propio file. radarestatal.pe"
       },
       "alt": "Consorcios y competencia: elegir socios con historial por RUC y documentar la experiencia propia."
+    },
+    {
+      "slug": "30-quien-consulto",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-14-imprenta",
+          "emoji": "🕵",
+          "h": "Estás armando tu oferta sin saber quién más mira",
+          "b": "quiénes ya consultaron el proceso es información pública"
+        },
+        {
+          "role": "value",
+          "h": "Solo los participantes pueden preguntar",
+          "b": "· Antes de las ofertas hay etapa de consultas\n· Cada pregunta se publica con su autor\n· Está en el pliego absolutorio, gratis en el SEACE"
+        },
+        {
+          "role": "value",
+          "h": "Son posibles rivales, no una lista de postores",
+          "b": "Registrarse no obliga a presentar oferta. Nadie sabe quién postulará: es la mejor pista, no una certeza."
+        },
+        {
+          "role": "value",
+          "h": "Qué te dice cada consulta",
+          "b": "· Pregunta por una marca: ya tiene ese producto\n· Pregunta cómo acreditar experiencia: le falta\n· Pide ampliar el plazo: anda justo"
+        },
+        {
+          "role": "stat",
+          "h": "Con «radar», los posibles rivales se ven venir",
+          "b": "Radar Estatal (radarestatal.pe) investiga competidores por RUC y vigila el SEACE por ti."
+        },
+        {
+          "role": "cta",
+          "h": "Nadie sabe quién postulará. Sí quién está mirando.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Pliego absolutorio de consultas: quiénes ya consultaron una licitación es información pública, con nombres. Son posibles competidores, no confirmados: registrarse no obliga a ofertar. Qué revela cada tipo de consulta, en el post. Guárdalo para antes de armar tu próxima oferta. #licitaciones #SEACE #buenapro #mype #peru",
+        "tt": "Puedes ver quiénes ya consultaron una licitación 👁️ #licitaciones #SEACE #mype #peru",
+        "fb": "¿Se puede saber quién va a postular a una licitación? No, y quien te diga que sí te está vendiendo humo. Lo que sí puedes ver es quiénes se registraron como participantes y consultaron las bases: el pliego absolutorio es público y lleva nombres. Esa es tu competencia posible. Aprende a leerlo en el post. radarestatal.pe"
+      },
+      "alt": "Cómo leer el pliego absolutorio de consultas y observaciones para identificar posibles competidores."
     },
     {
       "slug": "31-cierre-agosto",
@@ -1218,19 +785,19 @@
         {
           "role": "story",
           "plate": "cine-05-almacen",
+          "emoji": "📡",
           "h": "Este mes salieron miles de procesos, ¿viste alguno?",
-          "b": "Los 4 hábitos para que no se repita",
-          "emoji": "📡"
+          "b": "los 4 hábitos para que no se repita"
         },
         {
           "role": "value",
-          "h": "Hábitos 1 y 2",
-          "b": "· Búsqueda guardada, revisada martes y jueves\n· Semáforo de requisitos ANTES de ilusionarte"
+          "h": "Hábitos 1 y 2: mirar a tiempo",
+          "b": "· Tu búsqueda del SEACE guardada, revisada martes y jueves\n· Semáforo de requisitos antes de ilusionarte"
         },
         {
           "role": "value",
-          "h": "Hábitos 3 y 4",
-          "b": "· Pliego absolutorio: ver quiénes consultaron\n· Carpeta lista: RNP, experiencia, garantía\nPara ofertar rápido cuando salga el correcto."
+          "h": "Hábitos 3 y 4: llegar preparado",
+          "b": "· Pliego de consultas leído antes de decidir\n· Carpeta lista: RNP, experiencia, garantía"
         },
         {
           "role": "value",
@@ -1238,25 +805,22 @@
           "b": "Quedan cuatro meses de año fiscal y lo no ejecutado se pierde el 31 de diciembre."
         },
         {
-          "role": "recap"
-        },
-        {
           "role": "stat",
           "h": "O deja que corran solos",
-          "b": "Radar Estatal (radarestatal.pe) automatiza los cuatro hábitos: feed, recomendación y rivales por RUC."
+          "b": "Radar Estatal (radarestatal.pe) automatiza los cuatro: feed, recomendación IA y rivales por RUC."
         },
         {
           "role": "cta",
           "h": "Que septiembre no te encuentre mirando",
-          "b": "Guarda los 4 hábitos y actívalos: radarestatal.pe"
+          "b": "radarestatal.pe"
         }
       ],
       "caption": {
-        "ig": "Agosto se fue con miles de procesos publicados. Para que septiembre no se repita: búsqueda guardada 2 veces por semana, semáforo de requisitos, pliego absolutorio leído y carpeta lista. Cuatro hábitos. O un «radar» que los hace por ti: radarestatal.pe #licitaciones #SEACE #mype #contratacionesdelestado #peru",
-        "tt": "Miles de licitaciones salieron este mes. ¿viste alguna? 👀 #licitaciones #SEACE #mype #peru",
-        "fb": "Cierre de mes honesto: este agosto se publicaron miles de procesos y la mayoría de MYPEs no vio ninguno. Los cuatro hábitos que lo cambian caben en 20 minutos semanales. Y septiembre abre los últimos cuatro meses del año fiscal, el mejor momento para estrenarlos. radarestatal.pe"
+        "ig": "Cierre de agosto en el SEACE: miles de procesos publicados. Los 4 hábitos para no perderte los de septiembre: búsqueda guardada, semáforo de requisitos, pliego de consultas leído y carpeta lista. Quedan cuatro meses de año fiscal. Guárdalo para arrancar septiembre. #licitaciones #SEACE #mype #contratacionesdelestado #peru",
+        "tt": "Miles de licitaciones salieron este mes. ¿Viste alguna? 👀 #licitaciones #SEACE #mype #peru",
+        "fb": "Cierre de mes honesto: este agosto se publicaron miles de procesos y la mayoría de MYPE no vio ninguno. Los cuatro hábitos que lo cambian caben en 20 minutos semanales. Y septiembre abre los últimos cuatro meses del año fiscal, el mejor momento para estrenarlos. radarestatal.pe"
       },
-      "alt": "Resumen de agosto: cuatro hábitos de monitoreo de licitaciones para empezar septiembre postulando."
+      "alt": "Cierre de agosto: cuatro hábitos de monitoreo de licitaciones para empezar septiembre postulando."
     }
   ]
 }

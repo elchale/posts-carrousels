@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { useMemo, useState } from 'react'
 import { Back } from './Icons'
+import { esHoy, fmtFecha } from '../lib/fecha'
 import { isPublished, isStarted, useMarks } from '../lib/store'
 
 /* Filters survive going into a post and coming back: the component unmounts on
@@ -104,6 +105,11 @@ export default function BrandScreen({ brand, posts }) {
               >
                 <div className="card__stack">
                   <img className="card__cover" src={p.thumb} alt="" loading="lazy" width={300} height={375} />
+                  {p.date && (
+                    <span className={`card__date mono${esHoy(p.date) ? ' card__date--hoy' : ''}`}>
+                      {esHoy(p.date) ? 'HOY' : fmtFecha(p.date)}
+                    </span>
+                  )}
                   <span className="card__n mono">{p.slides}</span>
                   {published && <span className="stamp card__stamp">Publicado</span>}
                   {started && (

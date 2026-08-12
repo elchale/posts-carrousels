@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { useMemo } from 'react'
 import { Forward } from './Icons'
+import { esHoy, fmtFecha } from '../lib/fecha'
 import { isPublished, useMarks } from '../lib/store'
 
 function postHref(p) {
@@ -70,6 +71,12 @@ export default function HomeScreen({ brands, total, slides }) {
               <div className="resume__body">
                 <div className="resume__title">{stats.behind.nextPost.title}</div>
                 <div className="resume__meta eyebrow">
+                  {stats.behind.nextPost.date && (
+                    <b style={{ color: 'var(--accent)' }}>
+                      {esHoy(stats.behind.nextPost.date) ? 'HOY' : fmtFecha(stats.behind.nextPost.date)}
+                      {' · '}
+                    </b>
+                  )}
                   {stats.behind.nextPost.seriesLabel} · {stats.behind.nextPost.slides} láminas
                 </div>
               </div>

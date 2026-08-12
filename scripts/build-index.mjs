@@ -212,6 +212,16 @@ for (const brandId of listDirs(BRANDS_DIR)) {
     copyBySeries[data.series || f.replace(/\.json$/, '')] = bySlug
   }
 
+  /* Fecha real de publicación: serie mensual + día del slug ("13-…"). El año no
+   * vive en ningún dato, así que es la constante de la ronda. Series no
+   * mensuales (s1-…) → null y la UI no muestra fecha. */
+  function postDate(seriesId, slug) {
+    const month = MONTH_ORDER.indexOf(seriesId) + 1
+    const m = slug.match(/^(\d{1,2})-/)
+    if (!month || !m) return null
+    return `2026-${String(month).padStart(2, '0')}-${m[1].padStart(2, '0')}`
+  }
+
   const brand = {
     id: brandId,
     name: conf.name || brandId,
@@ -271,6 +281,7 @@ for (const brandId of listDirs(BRANDS_DIR)) {
         series: seriesId,
         seriesLabel: label,
         slug,
+        date: postDate(seriesId, slug),
         order: copy.order ?? 999,
         title: cover.h || slug.replace(/-/g, ' '),
         sub: cover.b || '',

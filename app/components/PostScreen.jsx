@@ -5,6 +5,7 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import { Back, Check, Copy, Doc, Dots, Forward, Save } from './Icons'
 import Sheet from './Sheet'
 import { useToast } from './Toast'
+import { esHoy, fmtFecha } from '../lib/fecha'
 import { canShareFiles, copyText, isIOS, prefetch, saveSlides } from '../lib/save'
 import { isPublished, setPref, useActions, useMark, useMarks, usePrefs } from '../lib/store'
 
@@ -130,6 +131,11 @@ export default function PostScreen({ post, brand, siblings }) {
             </button>
           </div>
         </div>
+        {post.date && (
+          <div className="post__date">
+            {esHoy(post.date) ? 'Se publica HOY' : `Se publica el ${fmtFecha(post.date)}`}
+          </div>
+        )}
         <h1 className="post__title">{post.title}</h1>
 
         <div className="switch" role="tablist" aria-label="Formato">

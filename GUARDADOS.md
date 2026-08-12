@@ -82,7 +82,16 @@ alcance, no de guardado:
 Y la regla que ya estaba en `PLAN-180.md` sigue mandando: la **lámina 2** tiene
 que funcionar sola (Instagram vuelve a mostrar el carrusel empezando ahí).
 
-## La lámina "PARA GUARDAR" (`role: "recap"`)
+## La lámina "PARA GUARDAR" (`role: "recap"`) — RETIRADA 2026-08-12
+
+> **Veredicto de Carlos con los posts publicados en mano:** la lámina recap se
+> siente como repetición pura y la borró a mano de casi todos los posts de
+> agosto antes de subirlos. La causa raíz: desde la regla de bullets
+> (2026-08-04) cada lámina de valor YA es una lista, así que el carrusel entero
+> es el artefacto (el caso 3 de "cuándo NO ponerla", abajo, pasó a ser el 100%
+> de los posts). **No se escriben más recaps.** El pedido de guardar sigue en
+> el caption (sección siguiente, esa sí vigente). Lo que sigue queda como
+> historia de por qué existió.
 
 El hueco más grande que tenía la librería: **un carrusel que reparte 3 pasos en 3
 láminas no deja nada que guardar**. Para usar la lista el sábado había que volver
