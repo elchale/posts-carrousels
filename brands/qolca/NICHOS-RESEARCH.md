@@ -1,5 +1,43 @@
 # Qolca — Investigación de nichos high-ticket en Perú (v2, 2026-08-02)
 
+> ## ⚠️ LEE ESTO PRIMERO — actualización v3 (2026-08-13)
+>
+> **Este documento sigue vigente. No fue reemplazado.** Los 3 ganadores (autos
+> seminuevos, bodas y eventos, inmobiliarias) y la DOCTRINA DE TARGETING de abajo
+> siguen siendo la base. Lo que cambió en agosto:
+>
+> **1. El código es un commodity en Perú, y eso reescribe la oferta.**
+> Programador junior S/1,188–1,672/mes; proyecto web freelance S/500–3,000. La
+> comparación real del comprador no es contra una agencia: es contra *"conozco a
+> un chico que me lo hace por S/1,500"*. **Qolca no puede vender capacidad de
+> construir.** Vende **operación con número mensual** — el 60% de las
+> implementaciones tecnológicas en pymes fracasa por falta de adopción, no por
+> fallas del software. Enemigo nuevo: **"el chico que te hizo el sistema ya no
+> contesta."** Nunca anclar en un sueldo (ni el del practicante ni el del dev).
+>
+> **2. El eje que une a todos los nichos: el precio "depende".**
+> Auto/km, boda/invitados, depa/piso, lote/ubicación, casa/m², cocina/medidas.
+> El primer DM siempre es "¿cuánto cuesta?" y la respuesta honesta obliga a un
+> ida y vuelta manual que se hace a las 11pm o no se hace. **Ahí está la fuga y
+> ahí está el producto: el cotizador conversacional que pre-califica.**
+>
+> **3. Tres hermanos nuevos** (para rotar en la lámina de mención, no para
+> reemplazar a los 3 de arriba): **venta de lotes y terrenos por TikTok** ·
+> **constructoras chicas y arquitectos que diseñan + construyen** · **muebles a
+> medida / melamina**. Tier 2 condicional: motos (solo el que financia),
+> medicina estética (solo el embudo pre-cita), agencias de marketing como CANAL.
+>
+> **Dónde está todo:**
+> - Informe completo v3 → `qolca-final/research/NICHOS_IG_TIKTOK_2026.md`
+> - Banco de 22 ganchos abiertos + estructura de carrusel → `HOOKS-ABIERTOS.md`
+>   (misma carpeta). **Regla nueva: el gancho nombra el MOMENTO, no el rubro.**
+> - La landing ya se realineó con esto (hero, manifiesto, contacto) y el
+>   manifiesto de qolca.org es hoy la lámina de mención en HTML.
+>
+> **Próximo paso: no es más investigación, es un experimento.** La cuenta lleva
+> 0 comentarios en 11 posts de agosto. Rotar la lámina de mención A/B con el
+> mismo gancho y medir **comentarios y DMs, no views**. Ver `HOOKS-ABIERTOS.md`.
+
 Dos rondas de investigación (~170 búsquedas web ES/EN en 5 barridos paralelos).
 **Ronda 1:** gasto por industria + competencia + alcanzabilidad social.
 **Ronda 2 (correctiva, por crítica de Carlos):** la ronda 1 sobrevaloró "ya pagan

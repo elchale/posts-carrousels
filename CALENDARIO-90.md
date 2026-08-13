@@ -98,6 +98,34 @@ aviso de error / personaje misterioso / humor por probar), evita los quemados
 estrecho), cero olor a venta antes de la lámina 6, lámina 2 DIRECTO AL GRANO
 (el regancho está eliminado — decisión 2026-08-02), CTA con callback.
 
+### R6 — Carril reactivo (nuevo, 2026-08-13, del breakout de 16.9K)
+El único post que rompió la banda (`cht/11-tiembla-sin-ti`, 16,900 vs 121–199)
+salió el 10 de agosto, con sismos reales del IGP los días 8, 9 y 10 y el
+Simulacro Nacional a 4 días. **La noticia compra la audiencia; el gancho decide
+si te la quedas** — los otros 3 posts de sismo de esa misma semana hicieron 284
+y 478 (1.7–2.9× la banda: la noticia SÍ sube el piso, pero sola no revienta).
+
+Qué separó al ganador de sus 3 hermanos: los otros hablan **del simulacro**
+(su fecha, su mochila, cómo ensayarlo) — administrativo, hay que ya interesarse
+por el evento. El ganador habla **del terremoto pasándole a tu hijo sin ti**:
+funciona en frío, funciona en alguien que acaba de sentir el sismo de la 1:19am,
+y es una pregunta que no puede responder sin deslizar. Fue además el único post
+del mes con comentarios (8) y con 142 guardados.
+
+Reglas operativas:
+- **Ancla al SENTIMIENTO que dejó la noticia, nunca al titular.** El evento
+  programado ("el viernes a las 3") es información que la plataforma ya le dio.
+- **2 slots vacíos por semana por marca**, se llenan solo si algo revienta.
+- **Esqueletos pre-escritos con la portada en blanco** por categoría noticiable
+  de cada marca: CHT → sismo · desaparición mediática · apagón · ola de frío.
+  Radar Estatal → cambio normativo OSCE · escándalo de contrataciones.
+  Propaga → caída de IG/WhatsApp · cambio de algoritmo. Renderizar es un
+  comando, así que noticia→publicado puede ser ~30 min.
+- **Publicar EL DÍA, no la víspera.** Los pre-anuncios se quedaron en la banda.
+- Los sismos en Perú son casi semanales: `11-tiembla-sin-ti` **es una plantilla
+  para reciclar con otra escena**, no un post de una sola vez (GUARDADOS.md:
+  el que se guarda, se clona con otro momento).
+
 ---
 
 ## Lectura rápida de la ronda 1 (5 días, contexto para esta ronda)

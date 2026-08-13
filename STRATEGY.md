@@ -387,6 +387,22 @@ correct, and not a sales ask.
 
 ### 7.2 Qolca — LinkedIn carousels are the highest-leverage asset we have
 
+> **⚠️ SUPERSEDED IN PART — 2026-08-13.** The channel priority below was reversed
+> by a decision Carlos made in August: **Qolca now plays IG/TikTok first**, and
+> when the channel is IG/TikTok, *the channel decides the niche*. The pillars
+> further down are still usable, but the targeting and the offer changed. Read
+> `brands/qolca/NICHOS-RESEARCH.md` (v3 header) and `brands/qolca/HOOKS-ABIERTOS.md`
+> before planning any Qolca post. Three things that matter most:
+> **(a)** software labour is a commodity in Peru (junior dev S/1,188–1,672/mo,
+> freelance web project S/500–3,000) — so never sell capacity-to-build, sell the
+> operated outcome; **(b)** every target niche shares one axis — its price is
+> *"depende"*; **(c)** the hook names the **moment**, never the rubro, and the
+> niches appear only on a mention slide. The observation below that organic
+> IG/TikTok shows no B2B leads at zero followers is still the risk being taken
+> on deliberately — first-party data says 350–620 views and **zero comments on
+> eleven August posts**, which is why the next move is an A/B of the mention
+> slide measured on comments and DMs, not more research.
+
 **Channel priority: LinkedIn (Carlos's personal profile) → Instagram → nothing
 else.** Two verified reasons: LinkedIn carousels are the highest-engagement
 format measured on any platform (21.77%), and personal profiles beat company

@@ -1,3 +1,19 @@
+# Qolca — carpeta de marca
+
+## Antes de planear un post, lee en este orden
+
+| Documento | Qué te da |
+|---|---|
+| `NICHOS-RESEARCH.md` | A quién le apuntamos y por qué. **Empieza por el bloque v3 del inicio** — el código es commodity en Perú, la oferta es operación y no construcción, y el eje común de todos los nichos es el precio *"depende"*. Abajo: los 3 ganadores, la DOCTRINA (post abierto + nichos como mención) y los rubros matados. |
+| `HOOKS-ABIERTOS.md` | Los 22 ganchos, la regla de que el gancho nombra el **momento** y no el rubro, la estructura de 7 láminas y qué probar primero. |
+| `../../STRATEGY.md` §7.2 | Formato y pilares de Qolca. Ojo: su prioridad de canal (LinkedIn primero) quedó revertida en agosto — ver el aviso en esa sección. |
+| `../../data/TIKTOK-STATS-*.md` | Cómo va rindiendo la cuenta de verdad. Se lee en comentarios y guardados, no en views. |
+
+Informe de investigación completo (fuera de CLIPPING):
+`Apps/Works/qolca-final/research/NICHOS_IG_TIKTOK_2026.md`.
+
+---
+
 # GUÍA DE SUBIDA — Qolca
 
 Cada post vive en `out/<serie>/<post>/` y contiene:
