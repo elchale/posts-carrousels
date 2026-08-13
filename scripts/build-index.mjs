@@ -209,7 +209,15 @@ for (const brandId of listDirs(BRANDS_DIR)) {
     if (!data?.posts) continue
     const bySlug = {}
     data.posts.forEach((p, order) => { bySlug[p.slug] = { ...p, order } })
-    copyBySeries[data.series || f.replace(/\.json$/, '')] = bySlug
+    /* `posted-ago.json` (el archivo de lo ya publicado) declara `series: "ago"`
+     * igual que `ago.json`, así que ASIGNAR aquí lo pisaba entero: agosto se
+     * quedaba sin copy y la app respondía "este post no tiene ese texto" al
+     * copiar el caption. Se fusiona, y la cola viva siempre gana. */
+    const key = data.series || f.replace(/\.json$/, '')
+    const prev = copyBySeries[key] || {}
+    copyBySeries[key] = f.startsWith('posted-')
+      ? { ...bySlug, ...prev }
+      : { ...prev, ...bySlug }
   }
 
   /* Fecha real de publicación: serie mensual + día del slug ("13-…"). El año no
