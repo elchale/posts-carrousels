@@ -1,7 +1,7 @@
 {
   "series": "ago",
   "brand": "diplomy",
-  "archivedAt": "2026-08-12",
+  "archivedAt": "2026-08-13",
   "reason": "publicados IG+TT (estado app)",
   "posts": [
     {
@@ -299,6 +299,44 @@
         "fb": "Name, email, course, completion date. That list is all it takes to certify an entire intake at once, each student with their own certificate link, delivered the same day. Diplomy (diplomy.org) runs it in one pass."
       },
       "alt": "Issuing an entire course intake of certificates in one batch."
+    },
+    {
+      "slug": "13-send-them-the-night-it-ends",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "CLOSING DAY",
+          "emoji": "📱",
+          "h": "Send your certificates the night your course ends",
+          "b": "that is when they travel"
+        },
+        {
+          "role": "value",
+          "h": "Your students are still together that night",
+          "b": "· Group chat still active\n· Still telling people\n· Nobody has moved on yet"
+        },
+        {
+          "role": "value",
+          "h": "A course certificate travels furthest on closing day",
+          "b": "The same certificate a week later reaches a fraction of the same people."
+        },
+        {
+          "role": "stat",
+          "h": "Issued and delivered the same night",
+          "b": "Diplomy (diplomy.org) sends every certificate the moment you close a course."
+        },
+        {
+          "role": "cta",
+          "h": "Close the course, send the certificates",
+          "b": "diplomy.org"
+        }
+      ],
+      "caption": {
+        "ig": "Course certificates travel furthest on the night the course ends, while the group chat is alive and your students are still telling people what they finished. The same certificate a week later reaches a fraction of those people. Save this for your next closing day. Diplomy (diplomy.org) issues and delivers in one step. Same night or the week after, when do your certificates actually go out? #certificates #training #academy #edtech",
+        "tt": "Send your certificates the night the course ends 📱 #certificates #training #academy",
+        "fb": "A course certificate reaches furthest on closing night, while everyone is still talking about the course. The same document a week later travels far less. Diplomy (diplomy.org) issues and delivers the same night."
+      },
+      "alt": "Why course certificates should go out the night the course finishes."
     }
   ]
 }

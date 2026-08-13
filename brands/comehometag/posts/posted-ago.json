@@ -1,7 +1,7 @@
 {
   "series": "ago",
   "brand": "comehometag",
-  "archivedAt": "2026-08-12",
+  "archivedAt": "2026-08-13",
   "reason": "publicados IG+TT (estado app)",
   "posts": [
     {
@@ -478,6 +478,49 @@
         "fb": "Mañana es el Simulacro Nacional y la mayoría lo ensaya mal: todos juntos en la sala, el papá recita y nadie se agacha. Ensayen una ronda separados, dejen que el niño diga el plan él solo y háganlo físico una vez. ComeHomeTag (comehometag.com): el QR que junta a la familia si un sismo real la separa."
       },
       "alt": "Así no y así sí: los errores más comunes al ensayar el simulacro nacional en familia y su corrección."
+    },
+    {
+      "slug": "17-donde-te-vio",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu hijo perdido te busca donde te vio por última vez",
+          "emoji": "🔍"
+        },
+        {
+          "role": "value",
+          "h": "Por eso uno se queda anclado",
+          "b": "Uno se planta ahí, visible, aunque la ansiedad le grite que corra.",
+          "emoji": "😰"
+        },
+        {
+          "role": "value",
+          "h": "Si estás solo, el punto va contigo",
+          "b": "Avisa a seguridad antes de moverte: «estoy en la pileta, mi hijo es este» y muestras la foto."
+        },
+        {
+          "role": "value",
+          "h": "Enséñale la mitad que le toca",
+          "b": "«Si no me ves, te quedas donde estás. Nunca sales a la calle.» Ensáyenlo camino al parque."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Y si lo encuentra otro primero, mejor.",
+          "b": "Con ComeHomeTag, el adulto que lo encuentre escanea el QR de su «pulsera» y te llama al instante."
+        },
+        {
+          "role": "cta",
+          "h": "Él vuelve a donde te vio. Tú, espéralo ahí.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Niño perdido: dónde buscarlo. Su instinto es volver al último lugar donde estaban juntos, así que ahí se queda un adulto, anclado y visible. Si estás solo, avisas a seguridad ANTES de moverte. Y la mitad del niño se ensaya: quedarse quieto, nunca salir a la calle. Guárdalo para la próxima salida. Tu instinto grita «corre a buscarlo» y el método dice «quédate anclado»: ¿tú podrías quedarte? #niñosperdidos #seguridadinfantil #papas #peru",
+        "tt": "Tu hijo perdido te busca donde te vio por última vez 📍 #papas #niños #peru #seguridad",
+        "fb": "Dato que cambia búsquedas: un niño perdido vuelve al último lugar donde te vio. Tu instinto dice «corre a buscarlo»; el método dice «uno se queda anclado en ese punto». ¿Tus hijos saben cuál es su mitad del plan? Está en el post."
+      },
+      "alt": "El principio del último punto visto: dónde esperan y buscan las familias con método."
     }
   ]
 }

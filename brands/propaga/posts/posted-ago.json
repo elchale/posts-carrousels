@@ -1,7 +1,7 @@
 {
   "series": "ago",
   "brand": "propaga",
-  "archivedAt": "2026-08-12",
+  "archivedAt": "2026-08-13",
   "reason": "publicados IG+TT (estado app)",
   "posts": [
     {
@@ -513,6 +513,50 @@
         "fb": "Este finde tu bandeja se va a llenar de \"¿precio?\", \"¿hay delivery?\" y \"¿hasta qué hora atienden?\". El sistema para no perder ninguna: respuestas escritas desde hoy, acuse honesto cuando no llegas (\"te paso el detalle en unos minutos\"), y prioridad para los que ya quieren comprar. ¿Cuántos chats se te quedaron en visto el finde pasado?"
       },
       "alt": "Carrusel: sistema de respuestas rápidas para el fin de semana pico del Día del Niño."
+    },
+    {
+      "slug": "18-caption-que-se-busca",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "TIKTOK",
+          "h": "Tu cliente te busca ahora mismo y no te encuentra",
+          "b": "Te encuentran por lo que escribes, no por el audio",
+          "emoji": "🔎"
+        },
+        {
+          "role": "value",
+          "h": "TikTok e Instagram son buscadores",
+          "b": "Tu cliente escribe «torta para niño Lima» como en Google. Sin esas palabras, no apareces."
+        },
+        {
+          "role": "value",
+          "h": "La palabra de tu cliente, no la tuya",
+          "b": "Tú dices «repostería personalizada». Él escribe «torta de dinosaurio»."
+        },
+        {
+          "role": "value",
+          "h": "La fórmula del caption que trabaja",
+          "b": "· Primera línea: qué, para quién, dónde\n· Después el detalle\n· De 3 a 5 hashtags del rubro"
+        },
+        {
+          "role": "stat",
+          "shot": "shot-posts.png",
+          "h": "Captions pensados, no apurados.",
+          "b": "En propaga.pe escribes tus captions con calma el domingo, no en la caja con una mano."
+        },
+        {
+          "role": "cta",
+          "h": "Escribe como busca tu cliente y deja que te encuentre.",
+          "b": "Captions que trabajan solos: propaga.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Caption buscable para TikTok e Instagram: primera línea con qué es, para quién y dónde, palabras del cliente («torta de dinosaurio», no «repostería personalizada») y de 3 a 5 hashtags del rubro. Guárdalo para tu próximo post. #seo #tiktok #negociosperu #contenido",
+        "tt": "Tu cliente te está buscando AHORA y no te encuentra 🔎 #tiktokperu #negociosperu #marketing",
+        "fb": "La gente ya busca en TikTok e Instagram como en Google: «torta para niño Lima», «barbería cerca», «tortas de dinosaurio». Tu caption hace esa chamba: qué es, para quién y dónde en la primera línea, con las palabras de tu cliente, no las tuyas."
+      },
+      "alt": "Carrusel: cómo escribir captions buscables en TikTok e Instagram para negocios."
     }
   ]
 }

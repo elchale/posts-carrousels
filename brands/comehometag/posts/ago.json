@@ -3,6 +3,52 @@
   "brand": "comehometag",
   "posts": [
     {
+      "slug": "13-cine-a-oscuras",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "SALIDA AL CINE",
+          "h": "Haz esto antes de entrar al cine con tus hijos",
+          "b": "la sala a oscuras cambia todo",
+          "img": "evento-sala-llena.png",
+          "emoji": "🍿"
+        },
+        {
+          "role": "value",
+          "h": "Elijan su punto de encuentro antes de entrar",
+          "b": "· La puerta de su sala\n· No el hall ni el baño\n· Se dice en voz alta"
+        },
+        {
+          "role": "value",
+          "h": "Al baño se va antes de los tráilers",
+          "b": "· Con la luz todavía prendida\n· A oscuras nadie ubica a nadie\n· Y siempre acompañado"
+        },
+        {
+          "role": "value",
+          "h": "Se sueltan cuando termina la película",
+          "b": "Prenden las luces y salen 200 personas juntas. Tus hijos van delante de ti, nunca detrás.",
+          "emoji": "🚪"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Hay papás que entran a la sala tranquilos",
+          "b": "Llevan la «pulsera» de ComeHomeTag: un QR con tu contacto que cualquiera escanea con su celular."
+        },
+        {
+          "role": "cta",
+          "h": "Que lo único a oscuras sea la película.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Cine con niños este fin de semana: el punto de encuentro se elige antes de entrar y es la puerta de su sala, el baño se usa antes de los tráilers con la luz prendida, y a la salida ellos caminan delante de ti mientras salen 200 personas juntas. Guárdalo para el próximo estreno. #cine #papas #niños #familia #peru",
+        "tt": "Antes de entrar al cine con tus hijos 🍿 tres reglas para la sala a oscuras #cine #papas #peru",
+        "fb": "Una sala de cine llena es de los pocos lugares donde un niño se pierde con sus papás al lado: está oscuro, hay 200 personas y todos se paran al mismo tiempo. Tres reglas que cambian el paseo: el punto de encuentro es la puerta de su sala y se dice antes de entrar, el baño se usa antes de los tráilers, y a la salida los niños van delante de ti."
+      },
+      "alt": "Carrusel: tres reglas para ir al cine con niños, punto de encuentro, baño antes de los tráilers y la salida."
+    },
+    {
       "slug": "14-hoy-tiembla-a-las-3",
       "slides": [
         {
@@ -128,49 +174,6 @@
         "fb": "¡Feliz Día del Niño! Hoy solo tres reglas: mano en las multitudes, un responsable por niño (con nombre y en voz alta) y punto de reencuentro acordado al llegar. La hora crítica es de 1 a 3pm. Que sea un día de fotos lindas y cero sustos."
       },
       "alt": "Día del Niño: las tres reglas esenciales para celebrar sin sustos."
-    },
-    {
-      "slug": "17-donde-te-vio",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Tu hijo perdido te busca donde te vio por última vez",
-          "emoji": "🔍"
-        },
-        {
-          "role": "value",
-          "h": "Por eso uno se queda anclado",
-          "b": "Uno se planta ahí, visible, aunque la ansiedad le grite que corra.",
-          "emoji": "😰"
-        },
-        {
-          "role": "value",
-          "h": "Si estás solo, el punto va contigo",
-          "b": "Avisa a seguridad antes de moverte: «estoy en la pileta, mi hijo es este» y muestras la foto."
-        },
-        {
-          "role": "value",
-          "h": "Enséñale la mitad que le toca",
-          "b": "«Si no me ves, te quedas donde estás. Nunca sales a la calle.» Ensáyenlo camino al parque."
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Y si lo encuentra otro primero, mejor.",
-          "b": "Con ComeHomeTag, el adulto que lo encuentre escanea el QR de su «pulsera» y te llama al instante."
-        },
-        {
-          "role": "cta",
-          "h": "Él vuelve a donde te vio. Tú, espéralo ahí.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Niño perdido: dónde buscarlo. Su instinto es volver al último lugar donde estaban juntos, así que ahí se queda un adulto, anclado y visible. Si estás solo, avisas a seguridad ANTES de moverte. Y la mitad del niño se ensaya: quedarse quieto, nunca salir a la calle. Guárdalo para la próxima salida. Tu instinto grita «corre a buscarlo» y el método dice «quédate anclado»: ¿tú podrías quedarte? #niñosperdidos #seguridadinfantil #papas #peru",
-        "tt": "Tu hijo perdido te busca donde te vio por última vez 📍 #papas #niños #peru #seguridad",
-        "fb": "Dato que cambia búsquedas: un niño perdido vuelve al último lugar donde te vio. Tu instinto dice «corre a buscarlo»; el método dice «uno se queda anclado en ese punto». ¿Tus hijos saben cuál es su mitad del plan? Está en el post."
-      },
-      "alt": "El principio del último punto visto: dónde esperan y buscan las familias con método."
     },
     {
       "slug": "18-secuestro-mito",

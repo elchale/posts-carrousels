@@ -1,7 +1,7 @@
 {
   "series": "ago",
   "brand": "qolca",
-  "archivedAt": "2026-08-12",
+  "archivedAt": "2026-08-13",
   "reason": "publicados IG+TT (estado app)",
   "posts": [
     {
@@ -419,6 +419,49 @@
         "fb": "Semana del Día del Niño = las mismas 3 preguntas cien veces: ¿cuánto cuesta? ¿tienen? ¿hacen delivery? La diferencia entre responder y VENDER está en cómo terminas cada respuesta: siempre con una pregunta que avanza. Cómo dejarlas guardadas en WhatsApp Business en 5 minutos."
       },
       "alt": "Portada: las 3 preguntas que te harán 100 veces esta semana, escríbelas una vez, respóndelas siempre."
+    },
+    {
+      "slug": "15-manana-explota",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "VÍSPERA",
+          "h": "Mañana explota tu bandeja",
+          "b": "hoy cayó la quincena: el plan se arma en 20 minutos",
+          "emoji": "💥"
+        },
+        {
+          "role": "value",
+          "h": "1. Turnos escritos, no sobreentendidos",
+          "b": "· ¿Quién tiene el celular de 9 a 1?\n· ¿Quién de 1 a cierre?\n· «Todos estamos pendientes» es nadie"
+        },
+        {
+          "role": "value",
+          "h": "2. Plantillas que se abren al toque",
+          "b": "· ¿Se abren con /atajo?\n· ¿Responden lo que siempre te preguntan?\n· Verifícalo hoy, no mañana"
+        },
+        {
+          "role": "value",
+          "h": "3. Lo grande, con nombre propio",
+          "b": "· Un pedido al por mayor no espera cola\n· Decide hoy quién lo atiende\n· Los demás siguen con plantilla"
+        },
+        {
+          "role": "stat",
+          "h": "O llega al pico con el proceso ya automatizado.",
+          "b": "Con Qolca no hay plan de guerra: el proceso ya está armado y cada pedido entra con su turno y su responsable."
+        },
+        {
+          "role": "cta",
+          "h": "20 minutos hoy, ventas mañana.",
+          "b": "Que explote nomás: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Quincena hoy y Día del Niño mañana: tu bandeja va a explotar 💥 El plan de guerra en 20 minutos: turnos escritos, plantillas a un toque y un responsable con nombre para lo grande. Guárdalo y ármalo hoy. #dianino #quincena #ventas #whatsapp #negociosperu",
+        "tt": "Mañana explota tu WhatsApp 💥 el plan de guerra en 20 minutos #dianino #ventas #negociosperu",
+        "fb": "Quincena hoy, Día del Niño mañana: tu bandeja va a explotar. El plan de guerra se arma hoy en 20 minutos: turnos escritos (nunca «todos vemos el celular»), plantillas verificadas y un responsable con nombre para los pedidos grandes."
+      },
+      "alt": "Portada: mañana explota tu bandeja, hoy cayó la quincena y el plan se arma en 20 minutos."
     }
   ]
 }

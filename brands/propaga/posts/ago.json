@@ -3,6 +3,50 @@
   "brand": "propaga",
   "posts": [
     {
+      "slug": "13-se-decide-hoy",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "DÍA DEL NIÑO",
+          "h": "Lo que se compra el domingo se decide hoy",
+          "b": "publica estas tres cosas antes de la noche",
+          "emoji": "🛍"
+        },
+        {
+          "role": "value",
+          "h": "1. Tu guía de regalos por edad",
+          "b": "· Tres opciones por edad\n· Foto real de cada una\n· Y cómo se pide"
+        },
+        {
+          "role": "value",
+          "h": "2. Diez segundos del producto en la mano",
+          "b": "Quien decide un regalo quiere ver el tamaño y el empaque, no un banner con globos."
+        },
+        {
+          "role": "value",
+          "h": "3. La encuesta de historias que te da nombres",
+          "b": "Pregunta «¿de 6 años o de 10?». Cada voto es alguien que ya te dijo qué busca."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-contenido.png",
+          "h": "Tres publicaciones, todas tus redes, una sola vez",
+          "b": "propaga.pe es la app peruana para programar y publicar el contenido de tu negocio desde un solo lugar."
+        },
+        {
+          "role": "cta",
+          "h": "Que el domingo solo tengas que despachar.",
+          "b": "Déjalo programado hoy: propaga.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Día del Niño: el regalo del domingo se decide entre hoy y mañana, así que hoy se publica. Tu guía de regalos por edad con foto real y cómo se pide, un video de diez segundos con el producto en la mano, y la encuesta de historias «¿de 6 años o de 10?» que te deja nombres para escribirles. Guárdalo para tu próxima fecha pico. #diadelnino #negociosperu #ventas #contenido",
+        "tt": "Lo que se compra el domingo se decide HOY 🛍 tres cosas que publicas hoy #diadelnino #negociosperu #ventas",
+        "fb": "Para el Día del Niño casi nadie decide el domingo por la mañana: decide ahora, mirando cuentas. Hoy publica tu guía de regalos por edad con foto real, un video de diez segundos con el producto en la mano y la encuesta de historias que te dice si buscan para un niño de 6 o de 10. El domingo se despacha, no se improvisa."
+      },
+      "alt": "Carrusel: tres publicaciones para hacer el jueves previo al Día del Niño, guía por edad, video corto y encuesta."
+    },
+    {
       "slug": "15-checklist-vispera",
       "slides": [
         {
@@ -133,50 +177,6 @@
         "fb": "El día más movido del mes pasó y nadie tomó una foto. El bloqueo de contenido casi nunca es de ideas: es de fotos. La solución: 10 minutos cada viernes, 3 fotos por categoría (proceso, producto, personas, lugar), todo a un álbum llamado NEGOCIO. En un mes tienes material para semanas."
       },
       "alt": "Carrusel: sistema de banco de fotos propio para negocios en 10 minutos semanales."
-    },
-    {
-      "slug": "18-caption-que-se-busca",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "TIKTOK",
-          "h": "Tu cliente te busca ahora mismo y no te encuentra",
-          "b": "Te encuentran por lo que escribes, no por el audio",
-          "emoji": "🔎"
-        },
-        {
-          "role": "value",
-          "h": "TikTok e Instagram son buscadores",
-          "b": "Tu cliente escribe «torta para niño Lima» como en Google. Sin esas palabras, no apareces."
-        },
-        {
-          "role": "value",
-          "h": "La palabra de tu cliente, no la tuya",
-          "b": "Tú dices «repostería personalizada». Él escribe «torta de dinosaurio»."
-        },
-        {
-          "role": "value",
-          "h": "La fórmula del caption que trabaja",
-          "b": "· Primera línea: qué, para quién, dónde\n· Después el detalle\n· De 3 a 5 hashtags del rubro"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-posts.png",
-          "h": "Captions pensados, no apurados.",
-          "b": "En propaga.pe escribes tus captions con calma el domingo, no en la caja con una mano."
-        },
-        {
-          "role": "cta",
-          "h": "Escribe como busca tu cliente y deja que te encuentre.",
-          "b": "Captions que trabajan solos: propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Caption buscable para TikTok e Instagram: primera línea con qué es, para quién y dónde, palabras del cliente («torta de dinosaurio», no «repostería personalizada») y de 3 a 5 hashtags del rubro. Guárdalo para tu próximo post. #seo #tiktok #negociosperu #contenido",
-        "tt": "Tu cliente te está buscando AHORA y no te encuentra 🔎 #tiktokperu #negociosperu #marketing",
-        "fb": "La gente ya busca en TikTok e Instagram como en Google: «torta para niño Lima», «barbería cerca», «tortas de dinosaurio». Tu caption hace esa chamba: qué es, para quién y dónde en la primera línea, con las palabras de tu cliente, no las tuyas."
-      },
-      "alt": "Carrusel: cómo escribir captions buscables en TikTok e Instagram para negocios."
     },
     {
       "slug": "19-post-de-horario",
