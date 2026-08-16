@@ -63,10 +63,11 @@ de Qolca ya publicados suman 0 comentarios entre todos.
 - **Fuera el cebo «Comenta DEPENDE»** de los 61 posts de Qolca.
 - **10 portadas reescritas al marco de separación / revelación**
   (`tools/fix_worst.mjs`), y el post del Día del Niño de ComeHomeTag rehecho
-  entero: «¿Y si hoy lo lleva otro adulto al parque?» + las tres preguntas para
-  el adulto que se lo lleva + el mensaje de WhatsApp para copiar.
-- **Qolca desanclado de las fiestas de consumo**: `16-dia-pico` y
-  `28-competencia-descansa` vuelven a su dolor de siempre.
+  entero: «¿Y si hoy tu hijo va al parque sin ti?» + las tres preguntas para el
+  adulto que se lo lleva + el mensaje de WhatsApp para copiar.
+- **Qolca desanclado de la fiesta de consumo** en `16-dia-pico`. El post del
+  feriado se quedó como estaba: para una marca de procesos, el día que el
+  negocio cierra y nadie avisa SÍ es su dolor; el Día del Niño no.
 
 ## Lo siguiente que hay que probar
 
