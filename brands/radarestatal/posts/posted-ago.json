@@ -1,8 +1,8 @@
 {
   "series": "ago",
   "brand": "radarestatal",
-  "archivedAt": "2026-08-12",
-  "reason": "publicados IG+TT (estado app)",
+  "archivedAt": "2026-08-16",
+  "reason": "publicado (carousel_state en Neon)",
   "posts": [
     {
       "slug": "03-presentacion",
@@ -361,6 +361,135 @@
         "fb": "El error clásico del proveedor nuevo: leer las bases de corrido, ilusionado, y descubrir al final un requisito que no cumple. El orden correcto ahorra semanas: cronograma, requisitos en semáforo, y los factores de evaluación antes de poner precio. radarestatal.pe"
       },
       "alt": "Orden correcto e incorrecto para leer unas bases de licitación del Estado."
+    },
+    {
+      "slug": "13-consultas-arma",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-14-imprenta",
+          "emoji": "⚔",
+          "h": "¿Las bases de una licitación te piden algo imposible?",
+          "b": "puedes pedir que las corrijan, gratis y sin abogado"
+        },
+        {
+          "role": "value",
+          "h": "Toda licitación abre una etapa de consultas",
+          "b": "· La consulta aclara: «¿el plazo incluye instalación?»\n· La observación cuestiona lo que incumple la norma\n· Ambas van dentro del cronograma"
+        },
+        {
+          "role": "value",
+          "h": "Redacta tu consulta concreta",
+          "b": "Cita el numeral exacto de las bases, plantea el problema y propón la corrección. La consulta vaga recibe respuesta vaga."
+        },
+        {
+          "role": "value",
+          "h": "La entidad responde por escrito",
+          "b": "Todas las respuestas salen en el pliego absolutorio y las bases pueden integrarse corregidas."
+        },
+        {
+          "role": "stat",
+          "h": "El «radar» te avisa cuándo abre la ventana",
+          "b": "Radar Estatal (radarestatal.pe) sigue el cronograma de cada proceso de tu rubro, etapa por etapa."
+        },
+        {
+          "role": "cta",
+          "h": "Lo imposible se corrige por escrito",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Consultas y observaciones en licitaciones: si las bases de un proceso te piden algo imposible, puedes pedir que lo aclaren o corrijan, gratis y sin abogado. La fórmula: numeral exacto, problema, corrección propuesta. Todo dentro del cronograma. Guárdalo para la próxima vez que unas bases te cierren la puerta. #licitaciones #SEACE #bases #mype #peru",
+        "tt": "¿Las bases te piden algo imposible? Puedes pedir que las corrijan ✍️ #licitaciones #SEACE #mype #peru",
+        "fb": "Pocos saben que unas bases se pueden cuestionar: la etapa de consultas y observaciones existe para eso, es gratuita y no necesitas abogado. Se redacta concreto: numeral, problema, corrección propuesta. La fórmula completa está en el post. radarestatal.pe"
+      },
+      "alt": "Cómo presentar consultas y observaciones para que corrijan las bases de un proceso de selección del Estado."
+    },
+    {
+      "slug": "14-cambio-funcionario",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "DATO PÚBLICO",
+          "emoji": "🏛",
+          "h": "Cambió el jefe del área que te compra",
+          "b": "y su designación ya se publicó"
+        },
+        {
+          "role": "value",
+          "h": "La designación de un funcionario se publica",
+          "b": "Sale por resolución en El Peruano: quién entra, a qué cargo y desde cuándo."
+        },
+        {
+          "role": "value",
+          "h": "Si le vendes a esa entidad, revisa esto",
+          "b": "· Las bases nuevas, no las de antes\n· El calendario de convocatorias\n· Las prioridades pueden cambiar"
+        },
+        {
+          "role": "value",
+          "h": "No copies tu oferta anterior",
+          "b": "Con nuevo titular, los requisitos y formatos de esa entidad pueden moverse. Compara antes de presentar."
+        },
+        {
+          "role": "stat",
+          "h": "El aviso te llega el mismo día",
+          "b": "Radar Estatal (radarestatal.pe) te avisa cuando designan a un funcionario en las entidades que sigues."
+        },
+        {
+          "role": "cta",
+          "h": "El dato ya era público. Ahora te llega solo.",
+          "b": "radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Designaciones de funcionarios públicos: cada nombramiento se publica por resolución en El Peruano, y si le vendes a esa entidad el cambio te toca: bases nuevas, otro ritmo, otras prioridades. Checklist de qué revisar cuando cambia el jefe del área que te compra. Guárdalo para el próximo cambio de titular en tu entidad. #contratacionespublicas #SEACE #mype #proveedordelestado #peru",
+        "tt": "Cambió el jefe del área que te compra 🏛 esto revisas hoy #SEACE #licitaciones #mype #peru",
+        "fb": "Si le vendes a una entidad del Estado, un cambio de funcionario no es un detalle: puede mover prioridades, fechas y criterios de las bases. Las designaciones se publican por resolución en El Peruano. ¿Sabes quién dirige hoy el área que compra lo tuyo? radarestatal.pe"
+      },
+      "alt": "Qué revisar cuando designan a un nuevo funcionario en la entidad del Estado a la que le vendes."
+    },
+    {
+      "slug": "15-solo-grandes",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-12-obra",
+          "emoji": "🐜",
+          "h": "¿Sin ser grande no le vendes al Estado?",
+          "b": "los datos abiertos dicen otra cosa"
+        },
+        {
+          "role": "value",
+          "h": "Lo cotidiano también se licita",
+          "b": "Útiles, mantenimiento, catering, imprenta, transporte, limpieza. El Estado compra lo que las MYPE venden."
+        },
+        {
+          "role": "value",
+          "h": "Compite en tu categoría de peso",
+          "b": "· Filtra por valor estimado a tu escala\n· Empieza por tu región\n· Mira quién ganó procesos de ese tamaño"
+        },
+        {
+          "role": "value",
+          "h": "Apuntar demasiado alto también descalifica",
+          "b": "Elige la pelea donde tus papeles compiten: tamaño y región a tu escala."
+        },
+        {
+          "role": "stat",
+          "h": "El «radar» filtra por tu talla",
+          "b": "Radar Estatal (radarestatal.pe): una IA que recomienda procesos según lo que tu empresa puede cumplir."
+        },
+        {
+          "role": "cta",
+          "h": "El club siempre estuvo abierto",
+          "b": "Entra con tu «radar»: radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Licitaciones del Estado para MYPE: no son un club de grandes. El Estado licita útiles, mantenimiento, catering, imprenta, transporte y limpieza, y el filtro que te acomoda es el valor estimado a tu escala. Compruébalo tú mismo en los datos abiertos. Guárdalo para cuando creas que licitar no es para ti. #mype #licitaciones #SEACE #contratacionesdelestado #peru",
+        "tt": "¿El Estado solo le compra a los grandes? ❌ #mype #licitaciones #SEACE #peru",
+        "fb": "El mito que más MYPE deja fuera del juego: «eso es para grandes». Los datos abiertos están ahí para comprobarlo tú mismo: el Estado compra útiles, catering, imprenta y limpieza todos los días hábiles, en montos de todos los tamaños. El truco está en elegir procesos de tu talla. radarestatal.pe"
+      },
+      "alt": "Mito contra datos: las MYPE sí ganan licitaciones del Estado en rubros cotidianos, filtrando por su escala."
     }
   ]
 }

@@ -589,6 +589,9 @@ class Renderer:
 def main() -> None:
     brand_filter = sys.argv[1] if len(sys.argv) > 1 else None
     series_filter = sys.argv[2] if len(sys.argv) > 2 else None
+    # 3er argumento opcional: lista de slugs separados por coma. Sin él se
+    # reescriben los ~200 jpg de la serie aunque no haya cambiado una palabra.
+    slug_filter = set(sys.argv[3].split(",")) if len(sys.argv) > 3 else None
     total = 0
     for bdir in sorted(BRANDS.iterdir()):
         if not (bdir / "brand.json").exists():
@@ -601,11 +604,16 @@ def main() -> None:
             if series_filter and not sfile.stem.startswith(series_filter):
                 continue
             data = json.loads(sfile.read_text(encoding="utf-8"))
+            done = 0
             for i, post in enumerate(data["posts"]):
+                if slug_filter and post["slug"] not in slug_filter:
+                    continue
                 out = bdir / "out" / sfile.stem / post["slug"]
                 r.render_post(post, i, out, pdf)
                 total += 1
-            print(f"{bdir.name}/{sfile.stem}: {len(data['posts'])} posts")
+                done += 1
+            if done:
+                print(f"{bdir.name}/{sfile.stem}: {done} posts")
     print(f"TOTAL: {total} carousels")
 
 

@@ -1,8 +1,8 @@
 {
   "series": "ago",
   "brand": "comehometag",
-  "archivedAt": "2026-08-13",
-  "reason": "publicados IG+TT (estado app)",
+  "archivedAt": "2026-08-16",
+  "reason": "publicado (carousel_state en Neon)",
   "posts": [
     {
       "slug": "04-mil-spidermans",
@@ -521,6 +521,141 @@
         "fb": "Dato que cambia búsquedas: un niño perdido vuelve al último lugar donde te vio. Tu instinto dice «corre a buscarlo»; el método dice «uno se queda anclado en ese punto». ¿Tus hijos saben cuál es su mitad del plan? Está en el post."
       },
       "alt": "El principio del último punto visto: dónde esperan y buscan las familias con método."
+    },
+    {
+      "slug": "13-cine-a-oscuras",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "SALIDA AL CINE",
+          "h": "Haz esto antes de entrar al cine con tus hijos",
+          "b": "la sala a oscuras cambia todo",
+          "img": "evento-sala-llena.png",
+          "emoji": "🍿"
+        },
+        {
+          "role": "value",
+          "h": "Elijan su punto de encuentro antes de entrar",
+          "b": "· La puerta de su sala\n· No el hall ni el baño\n· Se dice en voz alta"
+        },
+        {
+          "role": "value",
+          "h": "Al baño se va antes de los tráilers",
+          "b": "· Con la luz todavía prendida\n· A oscuras nadie ubica a nadie\n· Y siempre acompañado"
+        },
+        {
+          "role": "value",
+          "h": "Se sueltan cuando termina la película",
+          "b": "Prenden las luces y salen 200 personas juntas. Tus hijos van delante de ti, nunca detrás.",
+          "emoji": "🚪"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Hay papás que entran a la sala tranquilos",
+          "b": "Llevan la «pulsera» de ComeHomeTag: un QR con tu contacto que cualquiera escanea con su celular."
+        },
+        {
+          "role": "cta",
+          "h": "Que lo único a oscuras sea la película.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Cine con niños este fin de semana: el punto de encuentro se elige antes de entrar y es la puerta de su sala, el baño se usa antes de los tráilers con la luz prendida, y a la salida ellos caminan delante de ti mientras salen 200 personas juntas. Guárdalo para el próximo estreno. #cine #papas #niños #familia #peru",
+        "tt": "Antes de entrar al cine con tus hijos 🍿 tres reglas para la sala a oscuras #cine #papas #peru",
+        "fb": "Una sala de cine llena es de los pocos lugares donde un niño se pierde con sus papás al lado: está oscuro, hay 200 personas y todos se paran al mismo tiempo. Tres reglas que cambian el paseo: el punto de encuentro es la puerta de su sala y se dice antes de entrar, el baño se usa antes de los tráilers, y a la salida los niños van delante de ti."
+      },
+      "alt": "Carrusel: tres reglas para ir al cine con niños, punto de encuentro, baño antes de los tráilers y la salida."
+    },
+    {
+      "slug": "14-hoy-tiembla-a-las-3",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "SIMULACRO NACIONAL",
+          "h": "Hoy tiembla a las 3 y tus hijos no están contigo",
+          "img": "evento-simulacro.jpg",
+          "emoji": "🚨"
+        },
+        {
+          "role": "value",
+          "h": "Donde te agarre, participa",
+          "b": "· Oficina: zona segura y sales con tu grupo\n· Calle: lejos de vidrios y cables\n· Casa: cumple el plan de anoche"
+        },
+        {
+          "role": "value",
+          "h": "El orden de llamadas de las 3:10",
+          "b": "· Primero al colegio, no al celular del niño\n· Después, quien está con el abuelo\n· Un familiar de otra ciudad centraliza los avisos"
+        },
+        {
+          "role": "value",
+          "h": "El olvidado de todos los simulacros",
+          "b": "El abuelo. ¿Quién lo asiste hoy a las 3? ¿Su medicina está a la mano?",
+          "emoji": "🧓"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Hoy también se ensaya la «pulsera»",
+          "b": "Prueben escanear la «pulsera» ComeHomeTag del niño y del abuelo: 5 segundos y confirman tu contacto."
+        },
+        {
+          "role": "cta",
+          "h": "A las 3, en serio. Como si fuera real.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Simulacro Nacional hoy 3pm: participa donde te agarre (oficina, calle o casa), define el orden de llamadas para después (primero el colegio, luego quien está con el abuelo, un familiar de otra ciudad centraliza los avisos) y no te olvides del abuelo: quién lo asiste, su medicina a la mano. Guárdalo para las 3. ¿Tu familia ensaya en serio o posa para la foto? #simulacronacional #indeci #sismo #peru #familia",
+        "tt": "HOY 3pm tiembla todo el Perú 🚨 y tus hijos no están contigo #simulacronacional #sismo #peru",
+        "fb": "Hoy a las 3pm es el Simulacro Nacional, y a la mayoría un sismo real la agarraría separada: tú en el trabajo, ellos en el colegio, el abuelo en casa. Por eso hoy se ensaya el reencuentro: quién llama a quién y quién asiste al abuelo. Y en la cena, la pregunta que convierte el teatro en entrenamiento: ¿qué salió mal hoy?"
+      },
+      "alt": "Simulacro Nacional a las 3pm: participar donde estés, el orden de llamadas y el abuelo asistido."
+    },
+    {
+      "slug": "15-manana-mil-ninos",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "DÍA DEL NIÑO",
+          "h": "¿Y si tu hijo se pierde entre mil niños mañana?",
+          "emoji": "😰"
+        },
+        {
+          "role": "value",
+          "h": "El juego del punto de encuentro",
+          "b": "«¿Dónde nos juntamos si nos perdemos? El primero que responde gana.» Se juega al llegar."
+        },
+        {
+          "role": "value",
+          "h": "Sal temprano, vuelve temprano",
+          "b": "· El pico es de 1 a 3pm\n· A las 11 hay los mismos juegos\n· Y la mitad de gente"
+        },
+        {
+          "role": "value",
+          "h": "Ojo con la hora del bajón",
+          "b": "· Después del almuerzo viene el sueño\n· Los papás negocian y el niño se suelta\n· Regla de oro: niño cansado se pierde más",
+          "emoji": "🥱"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Mañana, con la «pulsera» puesta desde casa.",
+          "b": "Los papás que salen con ComeHomeTag llevan un seguro silencioso: quien encuentre al niño los llama en segundos."
+        },
+        {
+          "role": "cta",
+          "h": "Mañana: temprano, jugando y con plan.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Día del Niño mañana: el plan anti niño perdido. Punto de encuentro convertido en juego al llegar (el primero que responde gana), salir a las 11 (el pico es de 1 a 3pm) y programar la vuelta antes del bajón: niño cansado se pierde más. Guárdalo para mañana antes de salir. #diadelniño #parques #papas #niñosseguros #peru",
+        "tt": "Mañana los parques revientan 🎈 el plan anti niño perdido #diadelniño #papas #peru",
+        "fb": "Mañana es el Día del Niño y los parques revientan de 1 a 3pm. El plan: llegar a las 11, convertir el punto de encuentro en concurso (el primero que responde gana) y salir antes del bajón post-algodón de azúcar. ¿A qué hora salen ustedes?"
+      },
+      "alt": "Víspera del Día del Niño: punto de encuentro como juego, horarios y salida antes del bajón."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "series": "ago",
   "brand": "diplomy",
-  "archivedAt": "2026-08-13",
-  "reason": "publicados IG+TT (estado app)",
+  "archivedAt": "2026-08-16",
+  "reason": "publicado (carousel_state en Neon)",
   "posts": [
     {
       "slug": "05-what-goes-on-a-certificate",
@@ -337,6 +337,118 @@
         "fb": "A course certificate reaches furthest on closing night, while everyone is still talking about the course. The same document a week later travels far less. Diplomy (diplomy.org) issues and delivers the same night."
       },
       "alt": "Why course certificates should go out the night the course finishes."
+    },
+    {
+      "slug": "13-training-they-can-show",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "COMPANY TRAINING",
+          "h": "Give your staff training a certificate they can show",
+          "b": "the same way an academy does",
+          "emoji": "📄"
+        },
+        {
+          "role": "value",
+          "h": "The courses your company runs are real training",
+          "b": "· Safety, onboarding, compliance\n· Real hours on the clock\n· Real skills at the end"
+        },
+        {
+          "role": "value",
+          "h": "One link anyone can open",
+          "b": "A client, an auditor or a new manager sees what your employee completed, without asking you."
+        },
+        {
+          "role": "stat",
+          "h": "Certificates that carry your company's name",
+          "b": "Diplomy (diplomy.org) gives each one its own verification page, a PDF and a badge, in your brand."
+        },
+        {
+          "role": "cta",
+          "h": "Training done, certificate sent.",
+          "b": "diplomy.org"
+        }
+      ],
+      "caption": {
+        "ig": "The training a company runs in house is real training: real hours, real skills, and usually nothing the employee can show afterwards. A certificate with its own verification page fixes that in one step, and a client, an auditor or a new manager can open it without writing to you. Save this for your next internal course. Diplomy (diplomy.org) issues certificates under your own brand. #training #ldevelopment #compliance #certificates",
+        "tt": "Your staff training deserves a certificate they can show 📄 #training #compliance #certificates",
+        "fb": "Safety, onboarding and compliance courses take real hours and teach real skills, and most of them end with nothing the employee can show. A certificate with its own verification page changes that: one link a client, an auditor or a new manager can open. Diplomy (diplomy.org) issues them under your company's brand."
+      },
+      "alt": "Carousel: why internal company training deserves a certificate with its own verification link."
+    },
+    {
+      "slug": "14-found-without-asking",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "ALWAYS FINDABLE",
+          "h": "Graduates from three years ago still open their certificates",
+          "b": "without writing to your team"
+        },
+        {
+          "role": "value",
+          "h": "Your graduate's certificate link outlives any inbox",
+          "b": "· Same address for years\n· Opens on any phone\n· Nothing to resend"
+        },
+        {
+          "role": "value",
+          "h": "The only reply your team ever needs",
+          "b": "Your certificate is at the same link, always. One line, request closed."
+        },
+        {
+          "role": "stat",
+          "h": "Every certificate you issue stays reachable",
+          "b": "Diplomy (diplomy.org) keeps each one at its own permanent link."
+        },
+        {
+          "role": "cta",
+          "h": "Graduates who find it themselves",
+          "b": "diplomy.org"
+        }
+      ],
+      "caption": {
+        "ig": "Certificate requests from old graduates never stop: phones change, inboxes fill up, and someone from three intakes ago needs their course certificate today. When it lives at its own permanent link, they open it themselves and your reply is one line. Save this for the next graduate who writes in. Diplomy (diplomy.org) keeps every certificate you issued reachable. #certificates #alumni #academy #training",
+        "tt": "Graduates from years ago can still open their certificates 🔗 #certificates #alumni",
+        "fb": "Years later, a graduate needs their course certificate again. If it lives at its own permanent link, they open it themselves and your reply is one line. Diplomy (diplomy.org) keeps every certificate reachable."
+      },
+      "alt": "How a permanent certificate link lets graduates retrieve their own certificate years later."
+    },
+    {
+      "slug": "15-name-change",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "UPDATES",
+          "h": "Update a graduate's certificate when her name changes",
+          "b": "the link your graduate shared keeps working"
+        },
+        {
+          "role": "value",
+          "h": "Names change after graduation",
+          "b": "· Marriage\n· A legal change\n· A spelling caught late"
+        },
+        {
+          "role": "value",
+          "h": "Correct the record, never the address",
+          "b": "Everything your graduate already shared keeps pointing at the corrected certificate."
+        },
+        {
+          "role": "stat",
+          "h": "One correction, corrected everywhere",
+          "b": "Diplomy (diplomy.org) updates your graduate's certificate and its page without moving the link."
+        },
+        {
+          "role": "cta",
+          "h": "New name, same certificate",
+          "b": "diplomy.org"
+        }
+      ],
+      "caption": {
+        "ig": "Name changes reach every school sooner or later: marriage, a legal change, a spelling caught late. A course certificate that lives at a stable address can be corrected without breaking anything the graduate already shared, same link, updated record. Save this for the next name change request. Diplomy (diplomy.org) handles the correction in one place. #certificates #alumni #credentials #academy",
+        "tt": "Update a graduate's certificate when their name changes #certificates #credentials",
+        "fb": "A graduate changes their name. Their course certificate gets corrected without breaking the link they already shared on their profile. Diplomy (diplomy.org) updates the record and keeps the address."
+      },
+      "alt": "Updating a certificate after a name change without breaking its link."
     }
   ]
 }

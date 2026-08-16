@@ -1,8 +1,8 @@
 {
   "series": "ago",
   "brand": "propaga",
-  "archivedAt": "2026-08-13",
-  "reason": "publicados IG+TT (estado app)",
+  "archivedAt": "2026-08-16",
+  "reason": "publicado (carousel_state en Neon)",
   "posts": [
     {
       "slug": "04-zendaya-dos-peliculas",
@@ -557,6 +557,94 @@
         "fb": "La gente ya busca en TikTok e Instagram como en Google: «torta para niño Lima», «barbería cerca», «tortas de dinosaurio». Tu caption hace esa chamba: qué es, para quién y dónde en la primera línea, con las palabras de tu cliente, no las tuyas."
       },
       "alt": "Carrusel: cómo escribir captions buscables en TikTok e Instagram para negocios."
+    },
+    {
+      "slug": "13-se-decide-hoy",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "DÍA DEL NIÑO",
+          "h": "Lo que se compra el domingo se decide hoy",
+          "b": "publica estas tres cosas antes de la noche",
+          "emoji": "🛍"
+        },
+        {
+          "role": "value",
+          "h": "1. Tu guía de regalos por edad",
+          "b": "· Tres opciones por edad\n· Foto real de cada una\n· Y cómo se pide"
+        },
+        {
+          "role": "value",
+          "h": "2. Diez segundos del producto en la mano",
+          "b": "Quien decide un regalo quiere ver el tamaño y el empaque, no un banner con globos."
+        },
+        {
+          "role": "value",
+          "h": "3. La encuesta de historias que te da nombres",
+          "b": "Pregunta «¿de 6 años o de 10?». Cada voto es alguien que ya te dijo qué busca."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-contenido.png",
+          "h": "Tres publicaciones, todas tus redes, una sola vez",
+          "b": "propaga.pe es la app peruana para programar y publicar el contenido de tu negocio desde un solo lugar."
+        },
+        {
+          "role": "cta",
+          "h": "Que el domingo solo tengas que despachar.",
+          "b": "Déjalo programado hoy: propaga.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Día del Niño: el regalo del domingo se decide entre hoy y mañana, así que hoy se publica. Tu guía de regalos por edad con foto real y cómo se pide, un video de diez segundos con el producto en la mano, y la encuesta de historias «¿de 6 años o de 10?» que te deja nombres para escribirles. Guárdalo para tu próxima fecha pico. #diadelnino #negociosperu #ventas #contenido",
+        "tt": "Lo que se compra el domingo se decide HOY 🛍 tres cosas que publicas hoy #diadelnino #negociosperu #ventas",
+        "fb": "Para el Día del Niño casi nadie decide el domingo por la mañana: decide ahora, mirando cuentas. Hoy publica tu guía de regalos por edad con foto real, un video de diez segundos con el producto en la mano y la encuesta de historias que te dice si buscan para un niño de 6 o de 10. El domingo se despacha, no se improvisa."
+      },
+      "alt": "Carrusel: tres publicaciones para hacer el jueves previo al Día del Niño, guía por edad, video corto y encuesta."
+    },
+    {
+      "slug": "15-checklist-vispera",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "QUINCENA",
+          "h": "Tu cliente cobró hoy y está viendo dónde gastar",
+          "b": "La checklist de la víspera del Día del Niño",
+          "emoji": "💸"
+        },
+        {
+          "role": "value",
+          "h": "1. Tu post de «todavía llegas»",
+          "b": "Qué queda, cómo pedir, hasta qué hora entregas hoy. Directo, sin poesía."
+        },
+        {
+          "role": "value",
+          "h": "2. Historias cada 3 horas",
+          "b": "Lo que sale, lo que queda, el empaque listo. El movimiento apura al que duda."
+        },
+        {
+          "role": "value",
+          "h": "3. Tu corte de las 6pm",
+          "b": "«Últimos pedidos con entrega hoy hasta las 7». Sin hora límite, tu cliente lo deja para nunca."
+        },
+        {
+          "role": "stat",
+          "shot": "shot-whatsapp.png",
+          "h": "El sábado pico, una sola bandeja.",
+          "b": "Los negocios con propaga.pe responden Instagram, Facebook y WhatsApp desde un solo lugar mientras despachan."
+        },
+        {
+          "role": "cta",
+          "h": "Su quincena puede terminar en tu caja.",
+          "b": "Víspera bajo control: propaga.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Checklist de víspera para negocios: hoy es quincena y mañana es el Día del Niño. El post «todavía llegas» en la mañana, historias cada 3 horas con movimiento real y el corte de las 6pm para últimos pedidos. Guárdalo para cada víspera de fecha grande. #quincena #diadelnino #negociosperu #ventas",
+        "tt": "Tu cliente cobró HOY y mañana es el Día del Niño 💸 checklist de víspera #diadelnino #negociosperu #ventas",
+        "fb": "Hoy se juntan dos fechas: quincena y víspera del Día del Niño. Tu cliente tiene plata fresca y un regalo pendiente. Tres toques: el post «todavía llegas» (qué queda, cómo pedir, hasta qué hora), historias cada 3 horas mostrando movimiento, y el corte de las 6pm para pedidos con entrega hoy. Mañana solo se celebra."
+      },
+      "alt": "Carrusel: checklist de publicaciones para la víspera del Día del Niño en día de quincena."
     }
   ]
 }

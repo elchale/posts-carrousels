@@ -3,158 +3,30 @@
   "brand": "comehometag",
   "posts": [
     {
-      "slug": "13-cine-a-oscuras",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SALIDA AL CINE",
-          "h": "Haz esto antes de entrar al cine con tus hijos",
-          "b": "la sala a oscuras cambia todo",
-          "img": "evento-sala-llena.png",
-          "emoji": "🍿"
-        },
-        {
-          "role": "value",
-          "h": "Elijan su punto de encuentro antes de entrar",
-          "b": "· La puerta de su sala\n· No el hall ni el baño\n· Se dice en voz alta"
-        },
-        {
-          "role": "value",
-          "h": "Al baño se va antes de los tráilers",
-          "b": "· Con la luz todavía prendida\n· A oscuras nadie ubica a nadie\n· Y siempre acompañado"
-        },
-        {
-          "role": "value",
-          "h": "Se sueltan cuando termina la película",
-          "b": "Prenden las luces y salen 200 personas juntas. Tus hijos van delante de ti, nunca detrás.",
-          "emoji": "🚪"
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Hay papás que entran a la sala tranquilos",
-          "b": "Llevan la «pulsera» de ComeHomeTag: un QR con tu contacto que cualquiera escanea con su celular."
-        },
-        {
-          "role": "cta",
-          "h": "Que lo único a oscuras sea la película.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Cine con niños este fin de semana: el punto de encuentro se elige antes de entrar y es la puerta de su sala, el baño se usa antes de los tráilers con la luz prendida, y a la salida ellos caminan delante de ti mientras salen 200 personas juntas. Guárdalo para el próximo estreno. #cine #papas #niños #familia #peru",
-        "tt": "Antes de entrar al cine con tus hijos 🍿 tres reglas para la sala a oscuras #cine #papas #peru",
-        "fb": "Una sala de cine llena es de los pocos lugares donde un niño se pierde con sus papás al lado: está oscuro, hay 200 personas y todos se paran al mismo tiempo. Tres reglas que cambian el paseo: el punto de encuentro es la puerta de su sala y se dice antes de entrar, el baño se usa antes de los tráilers, y a la salida los niños van delante de ti."
-      },
-      "alt": "Carrusel: tres reglas para ir al cine con niños, punto de encuentro, baño antes de los tráilers y la salida."
-    },
-    {
-      "slug": "14-hoy-tiembla-a-las-3",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SIMULACRO NACIONAL",
-          "h": "Hoy tiembla a las 3 y tus hijos no están contigo",
-          "img": "evento-simulacro.jpg",
-          "emoji": "🚨"
-        },
-        {
-          "role": "value",
-          "h": "Donde te agarre, participa",
-          "b": "· Oficina: zona segura y sales con tu grupo\n· Calle: lejos de vidrios y cables\n· Casa: cumple el plan de anoche"
-        },
-        {
-          "role": "value",
-          "h": "El orden de llamadas de las 3:10",
-          "b": "· Primero al colegio, no al celular del niño\n· Después, quien está con el abuelo\n· Un familiar de otra ciudad centraliza los avisos"
-        },
-        {
-          "role": "value",
-          "h": "El olvidado de todos los simulacros",
-          "b": "El abuelo. ¿Quién lo asiste hoy a las 3? ¿Su medicina está a la mano?",
-          "emoji": "🧓"
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Hoy también se ensaya la «pulsera»",
-          "b": "Prueben escanear la «pulsera» ComeHomeTag del niño y del abuelo: 5 segundos y confirman tu contacto."
-        },
-        {
-          "role": "cta",
-          "h": "A las 3, en serio. Como si fuera real.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Simulacro Nacional hoy 3pm: participa donde te agarre (oficina, calle o casa), define el orden de llamadas para después (primero el colegio, luego quien está con el abuelo, un familiar de otra ciudad centraliza los avisos) y no te olvides del abuelo: quién lo asiste, su medicina a la mano. Guárdalo para las 3. ¿Tu familia ensaya en serio o posa para la foto? #simulacronacional #indeci #sismo #peru #familia",
-        "tt": "HOY 3pm tiembla todo el Perú 🚨 y tus hijos no están contigo #simulacronacional #sismo #peru",
-        "fb": "Hoy a las 3pm es el Simulacro Nacional, y a la mayoría un sismo real la agarraría separada: tú en el trabajo, ellos en el colegio, el abuelo en casa. Por eso hoy se ensaya el reencuentro: quién llama a quién y quién asiste al abuelo. Y en la cena, la pregunta que convierte el teatro en entrenamiento: ¿qué salió mal hoy?"
-      },
-      "alt": "Simulacro Nacional a las 3pm: participar donde estés, el orden de llamadas y el abuelo asistido."
-    },
-    {
-      "slug": "15-manana-mil-ninos",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "DÍA DEL NIÑO",
-          "h": "¿Y si tu hijo se pierde entre mil niños mañana?",
-          "emoji": "😰"
-        },
-        {
-          "role": "value",
-          "h": "El juego del punto de encuentro",
-          "b": "«¿Dónde nos juntamos si nos perdemos? El primero que responde gana.» Se juega al llegar."
-        },
-        {
-          "role": "value",
-          "h": "Sal temprano, vuelve temprano",
-          "b": "· El pico es de 1 a 3pm\n· A las 11 hay los mismos juegos\n· Y la mitad de gente"
-        },
-        {
-          "role": "value",
-          "h": "Ojo con la hora del bajón",
-          "b": "· Después del almuerzo viene el sueño\n· Los papás negocian y el niño se suelta\n· Regla de oro: niño cansado se pierde más",
-          "emoji": "🥱"
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Mañana, con la «pulsera» puesta desde casa.",
-          "b": "Los papás que salen con ComeHomeTag llevan un seguro silencioso: quien encuentre al niño los llama en segundos."
-        },
-        {
-          "role": "cta",
-          "h": "Mañana: temprano, jugando y con plan.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Día del Niño mañana: el plan anti niño perdido. Punto de encuentro convertido en juego al llegar (el primero que responde gana), salir a las 11 (el pico es de 1 a 3pm) y programar la vuelta antes del bajón: niño cansado se pierde más. Guárdalo para mañana antes de salir. #diadelniño #parques #papas #niñosseguros #peru",
-        "tt": "Mañana los parques revientan 🎈 el plan anti niño perdido #diadelniño #papas #peru",
-        "fb": "Mañana es el Día del Niño y los parques revientan de 1 a 3pm. El plan: llegar a las 11, convertir el punto de encuentro en concurso (el primero que responde gana) y salir antes del bajón post-algodón de azúcar. ¿A qué hora salen ustedes?"
-      },
-      "alt": "Víspera del Día del Niño: punto de encuentro como juego, horarios y salida antes del bajón."
-    },
-    {
       "slug": "16-feliz-dia",
       "slides": [
         {
           "role": "cover",
           "kicker": "DÍA DEL NIÑO",
-          "h": "No pierdas a tu niño en el Día del Niño",
-          "emoji": "🥳"
+          "h": "¿Y si hoy lo lleva otro adulto al parque?",
+          "emoji": "😰",
+          "b": "lo que se acuerda antes de que salgan"
         },
         {
           "role": "value",
-          "h": "Hoy no hay tiempo de leer, solo 3 reglas",
-          "b": "· Mano en las multitudes\n· Un responsable por niño, en voz alta\n· Punto de reencuentro al llegar"
+          "h": "Tres preguntas antes de que se lo lleven",
+          "b": "· ¿A qué hora exacta lo traes?\n· ¿Quién lo tiene de la mano en la multitud?\n· ¿Tienes batería y el sonido activado?"
         },
         {
           "role": "value",
-          "h": "Si ya estás en el pico, la mano",
-          "b": "Máxima gente, máximo ruido, niños con azúcar. La mano no se negocia."
+          "h": "El mensaje que le mandas, cópialo",
+          "b": "«Va con polo rojo y zapatillas blancas. Si se sueltan, quédate donde estás y llámame: no lo busques caminando.»",
+          "emoji": "📱"
+        },
+        {
+          "role": "value",
+          "h": "Y si hoy vas tú, la mano no se negocia",
+          "b": "Máxima gente, máximo ruido y niños con azúcar. En el pico del día, de la mano."
         },
         {
           "role": "stat",
@@ -169,8 +41,8 @@
         }
       ],
       "caption": {
-        "ig": "Día del Niño hoy: 3 reglas y a disfrutar. Mano en las multitudes, un responsable por niño dicho en voz alta y punto de reencuentro acordado al llegar. Hora crítica: 1 a 3pm. Guárdalo para leerlo camino al parque. #diadelniño #familia #papas #peru",
-        "tt": "Feliz día, que no se te pierda 🎈 3 reglas #diadelniño #papas #peru",
+        "ig": "Día del Niño hoy: 3 reglas y a disfrutar. Mano en las multitudes, un responsable por niño dicho en voz alta y punto de reencuentro acordado al llegar. Hora crítica: 1 a 3pm. Guárdalo para leerlo camino al parque. Mándaselo a la persona que los cuida cuando tú no estás. #diadelniño #familia #papas #peru",
+        "tt": "¿Y si hoy lo lleva otro adulto al parque? 😰 las 3 preguntas antes de que salgan · mándaselo a quien se lo lleva #diadelniño #papas #peru",
         "fb": "¡Feliz Día del Niño! Hoy solo tres reglas: mano en las multitudes, un responsable por niño (con nombre y en voz alta) y punto de reencuentro acordado al llegar. La hora crítica es de 1 a 3pm. Que sea un día de fotos lindas y cero sustos."
       },
       "alt": "Día del Niño: las tres reglas esenciales para celebrar sin sustos."
@@ -212,8 +84,8 @@
         }
       ],
       "caption": {
-        "ig": "Seguridad infantil, mito vs realidad: el riesgo real no es la película de secuestro, son las separaciones accidentales de 30 segundos en lugares llenos, y con plan se resuelven en minutos. Las 3 preparaciones silenciosas: foto del día, punto de reencuentro, identificación puesta. Guárdalo para tu próxima salida en familia. #seguridadinfantil #mitos #papas #niños #peru",
-        "tt": "El secuestro NO es tu mayor riesgo (esto sí) #papas #seguridadinfantil #peru",
+        "ig": "Seguridad infantil, mito vs realidad: el riesgo real no es la película de secuestro, son las separaciones accidentales de 30 segundos en lugares llenos, y con plan se resuelven en minutos. Las 3 preparaciones silenciosas: foto del día, punto de reencuentro, identificación puesta. Guárdalo para tu próxima salida en familia. Mándaselo a tus hermanos, esto no se decide solo. #seguridadinfantil #mitos #papas #niños #peru",
+        "tt": "El secuestro NO es tu mayor riesgo (esto sí) · mándaselo a tus hermanos, esto no se decide solo #papas #seguridadinfantil #peru",
         "fb": "Hablemos claro: la película de secuestro te quita el sueño, y lo que pasa de verdad es una separación accidental de 30 segundos en un lugar lleno. Eso se resuelve con 3 preparaciones silenciosas que nadie nota. ¿Las conoces?"
       },
       "alt": "Mito contra realidad: separaciones accidentales y las tres preparaciones silenciosas."
@@ -261,8 +133,8 @@
         }
       ],
       "caption": {
-        "ig": "Reuniones familiares: 12 adultos «viéndolos» es nadie viéndolos. La regla del responsable nombrado (con nombre y hora, en voz alta), el conteo al cambiar de ambiente y responsable hasta los 12 aunque protesten. Guárdalo para el próximo almuerzo familiar. ¿Hasta qué edad se cuenta a los niños en voz alta: 8 o 12? #familia #papas #niñosseguros #peru",
-        "tt": "Todos lo ven y nadie lo está viendo 💀 #familia #papas #peru",
+        "ig": "Reuniones familiares: 12 adultos «viéndolos» es nadie viéndolos. La regla del responsable nombrado (con nombre y hora, en voz alta), el conteo al cambiar de ambiente y responsable hasta los 12 aunque protesten. Guárdalo para el próximo almuerzo familiar. ¿Hasta qué edad se cuenta a los niños en voz alta: 8 o 12? Mándaselo al grupo del salón. #familia #papas #niñosseguros #peru",
+        "tt": "Todos lo ven y nadie lo está viendo 💀 · mándaselo al grupo del salón #familia #papas #peru",
         "fb": "Clásico del almuerzo familiar: 12 adultos, 6 niños, y cuando preguntan por Mati todos juran que estaba con otro. La solución tiene nombre y hora: «tú ves a Mati hasta las 3». Y el conteo en voz alta al cambiar de ambiente. ¿En tu familia quién cuenta a los niños?"
       },
       "alt": "Reunión familiar; la regla del responsable nombrado y el conteo de niños."
@@ -304,8 +176,8 @@
         }
       ],
       "caption": {
-        "ig": "Mascotas perdidas: el chip solo lo lee el veterinario y la placa grabada se borra. El vecino que encuentra a tu perro necesita algo legible AL MOMENTO: tu número primero, doble seguro collar más arnés, y el «llavero» QR de ComeHomeTag en el collar. Guárdalo para el próximo paseo. #mascotas #perros #perroperdido #peru #mascotasperdidas",
-        "tt": "Tu perro no sabe tu número 🐶 (su collar debería) #perros #mascotas #peru",
+        "ig": "Mascotas perdidas: el chip solo lo lee el veterinario y la placa grabada se borra. El vecino que encuentra a tu perro necesita algo legible AL MOMENTO: tu número primero, doble seguro collar más arnés, y el «llavero» QR de ComeHomeTag en el collar. Guárdalo para el próximo paseo. Mándaselo a quien se queda con ellos este fin de semana. #mascotas #perros #perroperdido #peru #mascotasperdidas",
+        "tt": "Tu perro no sabe tu número 🐶 (su collar debería) · mándaselo a quien se queda con ellos este fin de semana #perros #mascotas #peru",
         "fb": "Dato: el microchip de tu perro solo lo lee un veterinario, y la placa grabada se gasta hasta quedar ilegible. El vecino que lo encuentre necesita algo que pueda usar en el momento. Por eso el QR en el collar sí funciona: el que lo encuentra escanea y te llama. ¿Tu perro tiene placa legible ahora mismo?"
       },
       "alt": "Perro en la puerta de casa; identificación escaneable y doble seguro para paseos."
@@ -347,8 +219,8 @@
         }
       ],
       "caption": {
-        "ig": "Recojo del colegio: el plan para el día que no llegas a tiempo. Lista escrita con nombres y DNI entregada al colegio, todo cambio de plan confirmado por el colegio contigo y la contraseña familiar ensayada. Guárdalo para ordenar el recojo hoy. #colegio #niñosseguros #papas #recojo #peru #seguridadinfantil",
-        "tt": "¿Y si hoy no llegas a la salida del colegio? 🎒 #colegio #papas #niños #peru",
+        "ig": "Recojo del colegio: el plan para el día que no llegas a tiempo. Lista escrita con nombres y DNI entregada al colegio, todo cambio de plan confirmado por el colegio contigo y la contraseña familiar ensayada. Guárdalo para ordenar el recojo hoy. Mándaselo a la abuela que los recoge del colegio. #colegio #niñosseguros #papas #recojo #peru #seguridadinfantil",
+        "tt": "¿Y si hoy no llegas a la salida del colegio? 🎒 · mándaselo a la abuela que los recoge del colegio #colegio #papas #niños #peru",
         "fb": "¿Qué pasa el día que el tráfico te gana y no llegas a la salida del colegio? Así no: «lo recoge su tía» dicho al aire, avisarle solo al niño, «te recoge un amigo de papá». Así sí: lista escrita con DNI, el colegio confirma contigo y la contraseña familiar. ¿Tu colegio pide la lista o entrega al primero que llega?"
       },
       "alt": "El plan de recojo del colegio: lista escrita, confirmación con el colegio y contraseña familiar."
@@ -359,7 +231,7 @@
         {
           "role": "cover",
           "kicker": "ADULTO MAYOR",
-          "h": "No hagas que tu hijo te busque por 10 años",
+          "h": "¿Y si a tu hijo le toca buscarte a ti?",
           "img": "evento-still-telemaco.jpg",
           "emoji": "💔"
         },
@@ -392,8 +264,8 @@
         }
       ],
       "caption": {
-        "ig": "Señales tempranas de desorientación en adultos mayores: perderse en rutas conocidas, salir a comprar a deshoras, confundir nombres y calles. La conversación sin drama («acompáñame, yo quiero tu chequeo») y el mapa de sus 4 lugares de siempre con tu número repartido. Guárdalo para la próxima visita a tus papás. #adultomayor #abuelos #alzheimer #familia #peru",
-        "tt": "No hagas que tu hijo te busque por 10 años 🏛️ Las 3 señales #abuelos #familia #peru",
+        "ig": "Señales tempranas de desorientación en adultos mayores: perderse en rutas conocidas, salir a comprar a deshoras, confundir nombres y calles. La conversación sin drama («acompáñame, yo quiero tu chequeo») y el mapa de sus 4 lugares de siempre con tu número repartido. Guárdalo para la próxima visita a tus papás. Mándaselo al papá que lo va a leer de noche. #adultomayor #abuelos #alzheimer #familia #peru",
+        "tt": "No hagas que tu hijo te busque por 10 años 🏛️ Las 3 señales · mándaselo al papá que lo va a leer de noche #abuelos #familia #peru",
         "fb": "En La Odisea, el hijo busca a su padre por 10 años. En la vida real las búsquedas empiezan con señales chicas: el abuelo que se pierde en su ruta de siempre, que sale a deshoras, que confunde nombres. El post trae las 3 señales y cómo abrir la conversación sin quitarle dignidad. ¿Has notado alguna?"
       },
       "alt": "Tom Holland (Telémaco en La Odisea); señales tempranas de desorientación en abuelos."
@@ -436,8 +308,8 @@
         }
       ],
       "caption": {
-        "ig": "Deambulación y demencia: 6 de cada 10 personas con demencia van a deambular (alz.org), rumbo a un lugar que solo existe en su memoria. Hora crítica: el atardecer. Se prepara hoy: rutina fija, vecinos y bodeguero con tu número, identificación siempre encima. Guárdalo para compartirlo con quien cuida a un abuelo. #alzheimer #demencia #adultomayor #abuelos #peru #cuidadores",
-        "tt": "Tu papá puede salir hacia un lugar que ya no existe 💔 #alzheimer #abuelos #peru",
+        "ig": "Deambulación y demencia: 6 de cada 10 personas con demencia van a deambular (alz.org), rumbo a un lugar que solo existe en su memoria. Hora crítica: el atardecer. Se prepara hoy: rutina fija, vecinos y bodeguero con tu número, identificación siempre encima. Guárdalo para compartirlo con quien cuida a un abuelo. Mándaselo a quien maneja el carro de la familia. #alzheimer #demencia #adultomayor #abuelos #peru #cuidadores",
+        "tt": "Tu papá puede salir hacia un lugar que ya no existe 💔 · mándaselo a quien maneja el carro de la familia #alzheimer #abuelos #peru",
         "fb": "El dato que toda familia con un abuelo con demencia debe conocer: 6 de cada 10 personas con demencia van a deambular (alz.org). Van hacia un lugar que solo existe en su memoria, por eso no vuelven al cansarse. La hora crítica es el atardecer. Lo que se prepara hoy está en el post. Compártelo con quien cuida a un abuelo."
       },
       "alt": "Abuelo al atardecer; la deambulación en demencia y lo que una familia prepara hoy."
@@ -479,8 +351,8 @@
         }
       ],
       "caption": {
-        "ig": "Cómo cuidar a un papá que «no necesita ayuda»: pedir el favor («es para MI tranquilidad»), acuerdos en vez de órdenes y tecnología invisible: lo que hay que cargar o configurar termina en un cajón. Guárdalo para la conversación con tu papá. ¿Pedirle «el favor» es cuidarlo o es manipularlo? #adultomayor #abuelos #familia #cuidadores #peru",
-        "tt": "Tu papá dice que no necesita ayuda 🙄 (la jugada correcta) #abuelos #familia #peru",
+        "ig": "Cómo cuidar a un papá que «no necesita ayuda»: pedir el favor («es para MI tranquilidad»), acuerdos en vez de órdenes y tecnología invisible: lo que hay que cargar o configurar termina en un cajón. Guárdalo para la conversación con tu papá. ¿Pedirle «el favor» es cuidarlo o es manipularlo? Mándaselo a quien recoge a tus hijos. #adultomayor #abuelos #familia #cuidadores #peru",
+        "tt": "Tu papá dice que no necesita ayuda 🙄 (la jugada correcta) · mándaselo a quien recoge a tus hijos #abuelos #familia #peru",
         "fb": "«Yo estoy bien, no necesito nada». Todo hijo de un papá mayor conoce esa frase. La jugada no es discutirla: es cambiar el marco. Ya no le ofreces ayuda: le pides un favor, por tu tranquilidad. Acuerdos en vez de órdenes, y tecnología que no estorbe. ¿Cómo lo manejas tú?"
       },
       "alt": "Cuidar sin quitar dignidad: el favor, acuerdos en vez de órdenes y tecnología invisible."
@@ -524,8 +396,8 @@
         }
       ],
       "caption": {
-        "ig": "Adulto mayor desorientado en la calle: el extraño que lo encuentra no sabe si intervenir, y ante la duda sigue de largo. La identificación clara (nombre, una línea, un contacto que conteste) le da el permiso y las instrucciones. Y al abuelo se le ensaya aceptar ayuda, sin drama. Guárdalo para armar la identificación de tu papá. #adultomayor #alzheimer #abuelos #peru #cuidadores",
-        "tt": "El que encuentra a tu papá no sabe quién es 🧓 #abuelos #adultomayor #peru",
+        "ig": "Adulto mayor desorientado en la calle: el extraño que lo encuentra no sabe si intervenir, y ante la duda sigue de largo. La identificación clara (nombre, una línea, un contacto que conteste) le da el permiso y las instrucciones. Y al abuelo se le ensaya aceptar ayuda, sin drama. Guárdalo para armar la identificación de tu papá. Mándaselo a la persona que los cuida cuando tú no estás. #adultomayor #alzheimer #abuelos #peru #cuidadores",
+        "tt": "El que encuentra a tu papá no sabe quién es 🧓 · mándaselo a la persona que los cuida cuando tú no estás #abuelos #adultomayor #peru",
         "fb": "El extraño que encuentre a tu papá desorientado va a ver a un señor que insiste en que está bien. ¿Llama a la policía? ¿Exagera? La mayoría duda. Y pasa de largo. Una identificación clara convierte esa duda en ayuda inmediata. El post explica cómo. ¿Tu papá lleva algo que hable por él?"
       },
       "alt": "Abuela junto a la ventana; cómo un extraño se convierte en aliado con identificación clara."
@@ -568,8 +440,8 @@
         }
       ],
       "caption": {
-        "ig": "Día Nacional del Adulto Mayor hoy: cuidar sin humillar. Qué decir y qué no («espérame y vamos juntos» en vez de «¿a dónde vas tú solo?»), la visita que no parece inspección y libertad con red: sus rutas de siempre con el barrio avisado. En el Perú más de 200 mil personas viven con Alzheimer (MINSA): la red importa. Guárdalo para tu próxima visita. #adultomayor #abuelos #alzheimer #familia #peru #cuidadores",
-        "tt": "Hay dos formas de cuidar a tu papá y una lo aleja 🕰 #adultomayor #abuelos #peru",
+        "ig": "Día Nacional del Adulto Mayor hoy: cuidar sin humillar. Qué decir y qué no («espérame y vamos juntos» en vez de «¿a dónde vas tú solo?»), la visita que no parece inspección y libertad con red: sus rutas de siempre con el barrio avisado. En el Perú más de 200 mil personas viven con Alzheimer (MINSA): la red importa. Guárdalo para tu próxima visita. Mándaselo a tus hermanos, esto no se decide solo. #adultomayor #abuelos #alzheimer #familia #peru #cuidadores",
+        "tt": "Hay dos formas de cuidar a tu papá y una lo aleja 🕰 · mándaselo a tus hermanos, esto no se decide solo #adultomayor #abuelos #peru",
         "fb": "Hoy es el Día Nacional del Adulto Mayor. «¿A dónde vas a ir tú solo?» aleja. «Espérame y vamos juntos» cuida. Hay dos formas de cuidar a tu papá: la que lo encierra y la que le da libertad con red. El post trae las tres correcciones completas."
       },
       "alt": "Dos formas de cuidar a un padre mayor: frases, visitas y libertad con red, en formato así no y así sí."
@@ -613,8 +485,8 @@
         }
       ],
       "caption": {
-        "ig": "Santa Rosa este domingo: el plan para la cola del pozo de los deseos con niños y abuelos. Turnos de cola (nunca «espérame aquí solito»), la carta escrita EN CASA y hora valle temprano con el punto de reencuentro señalado antes de entrar. Guárdalo para el domingo. #santarosadelima #feriado #familia #peru #pozodelosdeseos",
-        "tt": "¿Y si se suelta en la cola del pozo? 🙏 el plan familiar #santarosa #feriado #peru",
+        "ig": "Santa Rosa este domingo: el plan para la cola del pozo de los deseos con niños y abuelos. Turnos de cola (nunca «espérame aquí solito»), la carta escrita EN CASA y hora valle temprano con el punto de reencuentro señalado antes de entrar. Guárdalo para el domingo. Mándaselo al grupo del salón. #santarosadelima #feriado #familia #peru #pozodelosdeseos",
+        "tt": "¿Y si se suelta en la cola del pozo? 🙏 el plan familiar · mándaselo al grupo del salón #santarosa #feriado #peru",
         "fb": "Este domingo es Santa Rosa y el pozo de los deseos junta miles de personas en una cola lenta y apretada, con niños aburridos y abuelos de pie. El plan de cola completo está en el post (spoiler: la carta se escribe en casa). Que tu único deseo no sea encontrar a alguien."
       },
       "alt": "El pozo de los deseos de Santa Rosa de Lima; plan familiar para la cola del feriado."
@@ -625,7 +497,7 @@
         {
           "role": "cover",
           "kicker": "FERIADO",
-          "h": "Esto hacen las familias grandes antes de salir en feriado",
+          "h": "¿Y si cada uno cree que lo tiene el otro?",
           "emoji": "🚸"
         },
         {
@@ -656,8 +528,8 @@
         }
       ],
       "caption": {
-        "ig": "Feriado de Santa Rosa: lo que hacen las familias grandes antes de salir. La reunión de 2 minutos en la puerta (quién ve a quién, punto de reencuentro, hora de vuelta), el orden del transporte (adulto, niños, adulto) y el papelito con tu número en el bolsillo de cada niño. Guárdalo para leerlo en la puerta antes de salir. #feriado #santarosa #familia #papas #peru",
-        "tt": "Esto hacen las familias grandes antes de salir 👨‍👩‍👧‍👦 #feriado #familia #peru",
+        "ig": "Feriado de Santa Rosa: lo que hacen las familias grandes antes de salir. La reunión de 2 minutos en la puerta (quién ve a quién, punto de reencuentro, hora de vuelta), el orden del transporte (adulto, niños, adulto) y el papelito con tu número en el bolsillo de cada niño. Guárdalo para leerlo en la puerta antes de salir. Mándaselo a quien se queda con ellos este fin de semana. #feriado #santarosa #familia #papas #peru",
+        "tt": "Esto hacen las familias grandes antes de salir 👨‍👩‍👧‍👦 · mándaselo a quien se queda con ellos este fin de semana #feriado #familia #peru",
         "fb": "Las familias grandes que salen en feriado y vuelven completas no tienen suerte: tienen una reunión de 2 minutos en la puerta, un orden para subir al transporte y un papelito con el número en el bolsillo de cada niño. El protocolo completo está en el post. ¿Tu familia lo hace o confía en la suerte?"
       },
       "alt": "Protocolo de salida para familias grandes en feriado: reunión en la puerta, transporte y papelito."
@@ -701,8 +573,8 @@
         }
       ],
       "caption": {
-        "ig": "Hijos en conciertos (hoy: Paulo Londra en el Nacional): ubicación compartida activada ANTES de salir de casa, puerta con letra y hora exacta de recojo («la salida» del estadio no existe), SMS cuando los datos mueren y batería cuidada desde la tarde. Guárdalo para esta noche. ¿A qué edad la dejarías ir sola a un concierto? #concierto #paulolondra #papas #adolescentes #peru",
-        "tt": "Tu hija va al concierto y tú no duermes 🎤 el plan de 4 puntos #paulolondra #papas #peru",
+        "ig": "Hijos en conciertos (hoy: Paulo Londra en el Nacional): ubicación compartida activada ANTES de salir de casa, puerta con letra y hora exacta de recojo («la salida» del estadio no existe), SMS cuando los datos mueren y batería cuidada desde la tarde. Guárdalo para esta noche. ¿A qué edad la dejarías ir sola a un concierto? Mándaselo a la abuela que los recoge del colegio. #concierto #paulolondra #papas #adolescentes #peru",
+        "tt": "Tu hija va al concierto y tú no duermes 🎤 el plan de 4 puntos · mándaselo a la abuela que los recoge del colegio #paulolondra #papas #peru",
         "fb": "Hoy toca Paulo Londra y miles de papás van a estar despiertos «por las puras». El plan de 4 puntos que sí funciona: ubicación activada antes de salir, puerta y hora exactas, SMS como canal de emergencia y batería cuidada. Dale el plan, no el sermón. ¿Qué le dices tú antes de un concierto?"
       },
       "alt": "Multitud en concierto de estadio; el plan de 4 puntos para hijos en conciertos."
@@ -740,8 +612,8 @@
         }
       ],
       "caption": {
-        "ig": "Santa Rosa hoy con niños y abuelos: del brazo, no de la mano (los mareos separan más que los tumultos), sombra y agua, esperar en el BORDE si se separan y cada niño con una misión: niño con tarea es niño anclado. Guárdalo para la salida de hoy. #santarosadelima #feriado #familia #peru",
-        "tt": "Feliz Santa Rosa 🌹 3 reglas para la cola con abuelos #santarosa #peru #familia",
+        "ig": "Santa Rosa hoy con niños y abuelos: del brazo, no de la mano (los mareos separan más que los tumultos), sombra y agua, esperar en el BORDE si se separan y cada niño con una misión: niño con tarea es niño anclado. Guárdalo para la salida de hoy. Mándaselo al papá que lo va a leer de noche. #santarosadelima #feriado #familia #peru",
+        "tt": "Feliz Santa Rosa 🌹 3 reglas para la cola con abuelos · mándaselo al papá que lo va a leer de noche #santarosa #peru #familia",
         "fb": "Feliz Santa Rosa 🌹 Hoy el pozo de los deseos junta una multitud lenta y apretada. Tres reglas para ir con niños y abuelos: del brazo (no de la mano), sombra y agua, y darle una misión a cada niño. La explicación de cada una está en el post."
       },
       "alt": "Multitud en Santa Rosa de Lima; reglas para la cola con niños y abuelos."
@@ -784,8 +656,8 @@
         }
       ],
       "caption": {
-        "ig": "Errores al salir con niños y su corrección, para arrancar septiembre: foto del día antes de salir (no una foto vieja tras el susto), punto de reencuentro con nombre dicho al llegar y responsable nombrado en voz alta. Guárdalo para cada salida de septiembre. #niñosseguros #papas #familia #peru #paraguardar",
-        "tt": "No entres a septiembre con los errores de agosto 📋 #papas #niños #familia #peru",
+        "ig": "Errores al salir con niños y su corrección, para arrancar septiembre: foto del día antes de salir (no una foto vieja tras el susto), punto de reencuentro con nombre dicho al llegar y responsable nombrado en voz alta. Guárdalo para cada salida de septiembre. Mándaselo a quien maneja el carro de la familia. #niñosseguros #papas #familia #peru #paraguardar",
+        "tt": "No entres a septiembre con los errores de agosto 📋 · mándaselo a quien maneja el carro de la familia #papas #niños #familia #peru",
         "fb": "Un mes entero de salidas familiares deja un patrón: foto vieja en vez de foto del día, «nos buscamos» en vez de un punto con nombre, «todos lo estaban viendo» en vez de un responsable nombrado. Guárdate las tres correcciones y empieza septiembre con los hábitos corregidos."
       },
       "alt": "Correcciones de fin de mes al salir con niños: foto del día, punto con nombre y responsable nombrado."

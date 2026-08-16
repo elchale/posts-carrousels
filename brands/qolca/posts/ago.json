@@ -3,98 +3,13 @@
   "brand": "qolca",
   "posts": [
     {
-      "slug": "13-preguntan-hoy",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SEMANA DEL NIÑO",
-          "h": "Te preguntan hoy y te compran el domingo",
-          "b": "si el sábado les escribes tú",
-          "emoji": "🛍"
-        },
-        {
-          "role": "value",
-          "h": "El que pregunta el jueves está comparando",
-          "b": "Miró 4 tiendas, escribió a 3, le respondieron 2. El domingo le compra al que hizo seguimiento."
-        },
-        {
-          "role": "value",
-          "h": "Etiqueta hoy a cada interesado",
-          "b": "· Crea la etiqueta «Día del Niño»\n· Márcala en cada chat que preguntó\n· El viernes tu lista está lista"
-        },
-        {
-          "role": "value",
-          "h": "El sábado mandas este mensaje",
-          "b": "«¿Al final te decidiste por [X]? Mañana es el día, si confirmas hoy te lo dejo listo.»"
-        },
-        {
-          "role": "stat",
-          "h": "El seguimiento de fecha pico, en piloto automático.",
-          "b": "Qolca registra a cada interesado de tu chat y dispara el recordatorio del sábado por ti, con su nombre."
-        },
-        {
-          "role": "cta",
-          "h": "Empieza a etiquetar hoy.",
-          "b": "El domingo se gana el jueves: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Día del Niño: los que te preguntan hoy te compran el domingo, si alguien les recuerda que existes 🛍 El plan: la etiqueta «Día del Niño» desde hoy y el mensaje del sábado que cierra, palabra por palabra. Guárdalo para el sábado. #dianino #ventas #whatsapp #negociosperu #seguimiento",
-        "tt": "Te preguntan hoy, te compran el domingo 🛍 el mensaje del sábado está adentro #dianino #ventas #negociosperu",
-        "fb": "El comprador del Día del Niño pregunta el jueves, compara el viernes y decide el sábado. ¿A quién le compra el domingo? Al que se quedó en su cabeza. Adentro: la etiqueta que arma tu lista desde hoy y el mensaje del sábado que cierra."
-      },
-      "alt": "Portada: te preguntan hoy y te compran el domingo, si el sábado les escribes tú."
-    },
-    {
-      "slug": "14-media-hora",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "El que te escribió hace media hora ya se enfrió",
-          "b": "mañana cae la quincena: el reloj corre más rápido",
-          "emoji": "🧊"
-        },
-        {
-          "role": "value",
-          "h": "El interés es un helado al sol",
-          "b": "Tiene el celular en la mano y varias pestañas abiertas: está comparando ahora mismo."
-        },
-        {
-          "role": "value",
-          "h": "Toca el chat en el primer minuto",
-          "b": "«¡Recibido! Ya te confirmo precio y stock. ¿Para cuándo lo necesitas?»"
-        },
-        {
-          "role": "value",
-          "h": "No respondas todo al instante: toca todo al instante",
-          "b": "· Acuse de 1 minuto a todo lo que entra\n· Resolver por tandas, en tus repasos\n· Tocar rápido gana a resolver lento"
-        },
-        {
-          "role": "stat",
-          "h": "Ese primer toque puede salir sin ti.",
-          "b": "Qolca automatiza el proceso completo: la consulta queda registrada al entrar y su seguimiento arranca solo, con tu horario real."
-        },
-        {
-          "role": "cta",
-          "h": "Activa tu acuse de 1 minuto.",
-          "b": "El helado no espera: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Ventas por WhatsApp: el que te escribió hace media hora ya está comparando en otra tienda 🧊 Mañana cae la quincena y el reloj corre más rápido. El acuse del primer minuto está adentro, listo para copiar. Guárdalo para este finde de quincena. ¿Cuánto esperas tú una respuesta antes de pasar a otra tienda: 10 minutos o media hora? #ventas #whatsapp #negociosperu #atencionalcliente",
-        "tt": "Media hora sin respuesta y tu cliente ya está en otra tienda 🧊 #ventas #whatsapp #negociosperu",
-        "fb": "Media hora sin respuesta y esa venta ya está en otra tienda. Mañana cae la quincena y todo se acelera. La solución no es velocidad sobrehumana: es el acuse de 1 minuto (el texto exacto está adentro) y resolver por tandas. ¿Cuánto esperas tú una respuesta antes de pasar a la siguiente tienda: 10 minutos o media hora?"
-      },
-      "alt": "Portada: el que te escribió hace media hora ya se enfrió, mañana cae la quincena y el reloj corre más rápido."
-    },
-    {
       "slug": "16-dia-pico",
       "slides": [
         {
           "role": "cover",
-          "kicker": "DÍA DEL NIÑO",
-          "h": "Hoy te escriben todos a la vez",
-          "b": "el día pico se gana chat por chat",
+          "kicker": "DÍA PICO",
+          "h": "El día que te escriben todos a la vez",
+          "b": "no se improvisa, se gana chat por chat",
           "emoji": "🚨"
         },
         {
@@ -120,8 +35,8 @@
         }
       ],
       "caption": {
-        "ig": "Día del Niño: hoy te escriben todos a la vez 🚨 Hoy no se inventa nada: plantillas, turnos y la cita más rentable del día, el corte de las 9pm que etiqueta a los que preguntaron y no compraron. Guárdalo para las 9pm. #dianino #ventas #whatsapp #negociosperu",
-        "tt": "Hoy te escriben todos a la vez 🚨 la cita de las 9pm decide tu lunes #dianino #negociosperu",
+        "ig": "Día del Niño: hoy te escriben todos a la vez 🚨 Hoy no se inventa nada: plantillas, turnos y la cita más rentable del día, el corte de las 9pm que etiqueta a los que preguntaron y no compraron. Guárdalo para las 9pm. Mándaselo a tu equipo, no a tu bandeja. #dianino #ventas #whatsapp #negociosperu",
+        "tt": "El día que te escriben todos a la vez 🚨 el corte de las 9pm decide tu lunes · mándaselo a tu equipo, no a tu bandeja #negociosperu #ventas #whatsapp",
         "fb": "Llegó el día pico. Hoy no se inventa nada: plantillas para lo repetitivo, turnos como quedaron escritos, un humano para lo grande. Y a las 9pm la cita más rentable del día: etiquetar a los que preguntaron y no compraron. Mañana esa lista trabaja por ti."
       },
       "alt": "Portada: hoy te escriben todos a la vez, el día pico se gana chat por chat."
@@ -163,8 +78,8 @@
         }
       ],
       "caption": {
-        "ig": "Seguimiento de ventas: el que ayer no te compró, hoy te compra 🛒 El mensaje del lunes, palabra por palabra, está adentro, y la ventana dura solo 48 horas. Guárdalo para el día después de cada fecha pico. #ventas #seguimiento #whatsapp #negociosperu",
-        "tt": "Ayer no te compró, hoy sí 🛒 el mensaje del lunes está adentro #ventas #negociosperu",
+        "ig": "Seguimiento de ventas: el que ayer no te compró, hoy te compra 🛒 El mensaje del lunes, palabra por palabra, está adentro, y la ventana dura solo 48 horas. Guárdalo para el día después de cada fecha pico. Mándaselo al que contesta tu WhatsApp. #ventas #seguimiento #whatsapp #negociosperu",
+        "tt": "Ayer no te compró, hoy sí 🛒 el mensaje del lunes está adentro · mándaselo al que contesta tu WhatsApp #ventas #negociosperu",
         "fb": "El que ayer preguntó y no compró sigue queriendo comprar: se le hizo tarde, nadie le respondió, lo dejó para después. Hoy un solo mensaje natural lo recupera, y el texto exacto está adentro. La ventana dura 48 horas."
       },
       "alt": "Portada: el que ayer no te compró hoy te compra, si le mandas el mensaje del lunes."
@@ -205,8 +120,8 @@
         }
       ],
       "caption": {
-        "ig": "¿Los clientes son del vendedor o del negocio? La respuesta está en el número al que escriben. La regla del número único y la mudanza sin drama, paso a paso. Guárdalo para ordenar tus números esta semana. #crm #ventas #negociosperu #clientes",
-        "tt": "¿A qué número te escriben tus clientes? 😱 ahí está el problema #ventas #crm #negociosperu",
+        "ig": "¿Los clientes son del vendedor o del negocio? La respuesta está en el número al que escriben. La regla del número único y la mudanza sin drama, paso a paso. Guárdalo para ordenar tus números esta semana. Mándaselo a tu socio antes del lunes. #crm #ventas #negociosperu #clientes",
+        "tt": "¿A qué número te escriben tus clientes? 😱 ahí está el problema · mándaselo a tu socio antes del lunes #ventas #crm #negociosperu",
         "fb": "Cuando los clientes escriben al celular personal del vendedor, la cartera tiene dueño equivocado. La regla del número único: todo entra por el número del negocio, WhatsApp Business se conecta en varios equipos y el historial se queda en casa."
       },
       "alt": "Portada: ¿los clientes son del vendedor o del negocio?, la regla del número único."
@@ -247,8 +162,8 @@
         }
       ],
       "caption": {
-        "ig": "Orden en WhatsApp: abres tu bandeja y no sabes por dónde empezar 🙉 Tres estados y nada más: NUEVO, COTIZADO con fecha, CERRADO con motivo. Se monta con etiquetas en 15 minutos. Guárdalo para tu limpieza de bandeja. #whatsapp #ventas #organizacion #negociosperu #crm",
-        "tt": "Tu bandeja no necesita memoria, necesita 3 estados 🙉 #whatsapp #ventas #negociosperu",
+        "ig": "Orden en WhatsApp: abres tu bandeja y no sabes por dónde empezar 🙉 Tres estados y nada más: NUEVO, COTIZADO con fecha, CERRADO con motivo. Se monta con etiquetas en 15 minutos. Guárdalo para tu limpieza de bandeja. Mándaselo a tu vendedor y que te diga qué haría. #whatsapp #ventas #organizacion #negociosperu #crm",
+        "tt": "Tu bandeja no necesita memoria, necesita 3 estados 🙉 · mándaselo a tu vendedor y que te diga qué haría #whatsapp #ventas #negociosperu",
         "fb": "Abres tu WhatsApp y no sabes por dónde empezar. A tu bandeja no le falta memoria: le faltan estados. NUEVO, COTIZADO con fecha, CERRADO con motivo. Se monta en 15 minutos con etiquetas y desde mañana abres sabiendo por dónde."
       },
       "alt": "Portada: abres tu WhatsApp y no sabes por dónde empezar, a tu bandeja le faltan estados."
@@ -289,8 +204,8 @@
         }
       ],
       "caption": {
-        "ig": "Clientes antiguos: escríbele hoy al que te compró en mayo 📞 Ya está en el punto dulce de los 90 días. Excusa real, sin pedir perdón, directo: los «así no, así sí» están adentro. Guárdalo para tu próxima reactivación. #clientes #ventas #whatsapp #negociosperu",
-        "tt": "Escríbele al que te compró en mayo 📞 sin dar roche #ventas #clientes #negociosperu",
+        "ig": "Clientes antiguos: escríbele hoy al que te compró en mayo 📞 Ya está en el punto dulce de los 90 días. Excusa real, sin pedir perdón, directo: los «así no, así sí» están adentro. Guárdalo para tu próxima reactivación. Mándaselo a quien atiende cuando tú no estás. #clientes #ventas #whatsapp #negociosperu",
+        "tt": "Escríbele al que te compró en mayo 📞 sin dar roche · mándaselo a quien atiende cuando tú no estás #ventas #clientes #negociosperu",
         "fb": "«Hola, ¿cómo estás?» de la nada da roche. «Llegó algo que combina con lo que te llevaste» abre conversación. El que te compró en mayo está en el punto dulce de los 90 días: escríbele hoy, con excusa real y sin pedir perdón."
       },
       "alt": "Portada: escríbele hoy al cliente que te compró en mayo, hay una forma que da roche y una que vende."
@@ -332,8 +247,8 @@
         }
       ],
       "caption": {
-        "ig": "Coordinación por WhatsApp: ¿organizarías la boda de Taylor Swift por un chat? 💍 Mil invitados, un solo hilo. Las 3 reglas para que ningún acuerdo se pierda: un chat por cliente, todo por escrito, pendientes con fecha. Guárdalo para tu próxima coordinación grande. #whatsapp #organizacion #eventos #negociosperu",
-        "tt": "¿Organizarías la boda del año por WhatsApp? 💍 las 3 reglas del caos cero #negociosperu #whatsapp #bodas",
+        "ig": "Coordinación por WhatsApp: ¿organizarías la boda de Taylor Swift por un chat? 💍 Mil invitados, un solo hilo. Las 3 reglas para que ningún acuerdo se pierda: un chat por cliente, todo por escrito, pendientes con fecha. Guárdalo para tu próxima coordinación grande. Mándaselo al que se queda a cargo el fin de semana. #whatsapp #organizacion #eventos #negociosperu",
+        "tt": "¿Organizarías la boda del año por WhatsApp? 💍 las 3 reglas del caos cero · mándaselo al que se queda a cargo el fin de semana #negociosperu #whatsapp #bodas",
         "fb": "La boda del año tuvo mil invitados y se coordinó por chat. La tuya de cada sábado tiene 80 y el mismo riesgo: un dato perdido y se cae todo. Las 3 reglas: un hilo por cliente, todo acuerdo por escrito, pendientes con fecha. Sirven para bodas, entregas y visitas."
       },
       "alt": "Portada: ¿organizarías la boda de Taylor Swift por WhatsApp?, mil invitados, un chat."
@@ -374,8 +289,8 @@
         }
       ],
       "caption": {
-        "ig": "Mensaje de ausencia de WhatsApp: el tuyo miente 🌙 «Tu mensaje es importante para nosotros» no vende. El que sí vende está adentro, para copiar tal cual: horario real, lo esencial servido y una promesa que se cumple al abrir. Guárdalo para esta noche. #whatsapp #negocios #ventas #atencionalcliente #peru",
-        "tt": "Tu mensaje de ausencia miente 🌙 el que sí vende está adentro #whatsapp #negocios #peru",
+        "ig": "Mensaje de ausencia de WhatsApp: el tuyo miente 🌙 «Tu mensaje es importante para nosotros» no vende. El que sí vende está adentro, para copiar tal cual: horario real, lo esencial servido y una promesa que se cumple al abrir. Guárdalo para esta noche. Mándaselo al del negocio de al lado, le pasa igual. #whatsapp #negocios #ventas #atencionalcliente #peru",
+        "tt": "Tu mensaje de ausencia miente 🌙 el que sí vende está adentro · mándaselo al del negocio de al lado, le pasa igual #whatsapp #negocios #peru",
         "fb": "«Tu mensaje es importante para nosotros» es la mentira más repetida del WhatsApp peruano. El mensaje de ausencia que sí vende dice la verdad: horario real, lo esencial servido y respuesta a primera hora. El texto completo, listo para copiar, está adentro."
       },
       "alt": "Portada: tu mensaje de ausencia miente, «tu mensaje es importante para nosotros»."
@@ -418,9 +333,9 @@
         }
       ],
       "caption": {
-        "ig": "Leads nocturnos: ¿y si tu cliente te escribe hoy a las 11pm? ⏰ De noche escriben los decididos: ya compararon, ya sacaron cuentas. La respuesta nocturna que agenda tu mañana está adentro, tal cual se manda. Guárdalo para el chat de esta noche. #ventas #whatsapp #leads #negociosperu",
-        "tt": "El que te escribe a las 11pm ya decidió comprar ⏰ ¿quién le contesta? #ventas #negociosperu",
-        "fb": "El mensaje de las 11pm es de alguien que comparó todo el día y está eligiendo a quién comprarle mañana. Pasa con camionetas, con bodas, con departamentos. Si esta noche recibe una respuesta con hora concreta, amaneces ganando."
+        "ig": "Leads nocturnos: ¿y si tu cliente te escribe hoy a las 11pm? ⏰ De noche escriben los decididos: ya compararon, ya sacaron cuentas. La respuesta nocturna que agenda tu mañana está adentro, tal cual se manda. Guárdalo para el chat de esta noche. Mándaselo a quien atiende cuando tú no estás. #ventas #whatsapp #leads #negociosperu",
+        "tt": "El que te escribe a las 11pm ya decidió comprar ⏰ ¿quién le contesta? · mándaselo a quien atiende cuando tú no estás #ventas #negociosperu",
+        "fb": "El mensaje de las 11pm es de alguien que comparó todo el día y está eligiendo a quién comprarle mañana. Pasa con camionetas, con bodas, con departamentos. Si esta noche recibe una respuesta con hora concreta, amaneces ganando. Mándaselo a quien atiende cuando tú no estás."
       },
       "alt": "Portada nocturna: ¿y si tu cliente te escribe hoy a las 11pm?, de noche escriben los decididos."
     },
@@ -455,8 +370,8 @@
         }
       ],
       "caption": {
-        "ig": "Chats del fin de semana: tu bandeja del lunes es un cementerio de findes ⚰️ Las 3 pasadas de 20 minutos que la resucitan, y por qué archivar con motivo también es vender. Guárdalo para cada lunes. #ventas #whatsapp #organizacion #negociosperu",
-        "tt": "Lunes: cementerio de chats del finde ⚰️ 20 minutos lo arreglan #negociosperu #ventas",
+        "ig": "Chats del fin de semana: tu bandeja del lunes es un cementerio de findes ⚰️ Las 3 pasadas de 20 minutos que la resucitan, y por qué archivar con motivo también es vender. Guárdalo para cada lunes. Mándaselo al que contesta tu WhatsApp. #ventas #whatsapp #organizacion #negociosperu",
+        "tt": "Lunes: cementerio de chats del finde ⚰️ 20 minutos lo arreglan · mándaselo al que contesta tu WhatsApp #negociosperu #ventas",
         "fb": "Cada lunes tu bandeja amanece llena de consultas del finde que nadie tocó. No están muertas: se están enfriando. Las 3 pasadas de 20 minutos: tocar lo nuevo, atender los vencidos, cerrar o archivar con motivo."
       },
       "alt": "Portada: tu bandeja del lunes es un cementerio de findes, 20 minutos la resucitan."
@@ -497,8 +412,8 @@
         }
       ],
       "caption": {
-        "ig": "Cotizaciones: una sin seguimiento es plata regalada a tu competencia 💸 Toda cotización nace con fecha, el mensaje de las 24 horas va con razón nueva, y a la tercera sin respuesta se archiva con dignidad. Los textos exactos están adentro. Guárdalo para tu próxima cotización. #ventas #cotizaciones #seguimiento #negociosperu #crm",
-        "tt": "Cotizas y no persigues: trabajas gratis 💸 el mensaje de las 24 horas #ventas #negociosperu",
+        "ig": "Cotizaciones: una sin seguimiento es plata regalada a tu competencia 💸 Toda cotización nace con fecha, el mensaje de las 24 horas va con razón nueva, y a la tercera sin respuesta se archiva con dignidad. Los textos exactos están adentro. Guárdalo para tu próxima cotización. Mándaselo a tu socio antes del lunes. #ventas #cotizaciones #seguimiento #negociosperu #crm",
+        "tt": "Cotizas y no persigues: trabajas gratis 💸 el mensaje de las 24 horas · mándaselo a tu socio antes del lunes #ventas #negociosperu",
         "fb": "Armaste el precio, respondiste dudas, mandaste la cotización… y ahí quedó. Toda cotización nace con fecha de seguimiento, se persigue con una razón nueva y a la tercera sin respuesta se archiva con dignidad. Los mensajes exactos están adentro."
       },
       "alt": "Portada: una cotización sin seguimiento es plata regalada, regalada a tu competencia."
@@ -534,8 +449,8 @@
         }
       ],
       "caption": {
-        "ig": "Citas y plantones: esta semana te vuelven a dejar plantado 🪑 Salvo que mandes 2 mensajes: el de 24 horas con pregunta que obliga respuesta y el de 2 horas con la ubicación. Sirve para visitas, test drives y degustaciones. Guárdalo para tus citas de mañana. #citas #ventas #negociosperu #atencionalcliente",
-        "tt": "¿Otra vez te dejaron plantado? 🪑 los 2 mensajes que lo evitan #ventas #negociosperu",
+        "ig": "Citas y plantones: esta semana te vuelven a dejar plantado 🪑 Salvo que mandes 2 mensajes: el de 24 horas con pregunta que obliga respuesta y el de 2 horas con la ubicación. Sirve para visitas, test drives y degustaciones. Guárdalo para tus citas de mañana. Mándaselo a tu vendedor y que te diga qué haría. #citas #ventas #negociosperu #atencionalcliente",
+        "tt": "¿Otra vez te dejaron plantado? 🪑 los 2 mensajes que lo evitan · mándaselo a tu vendedor y que te diga qué haría #ventas #negociosperu",
         "fb": "El plantón casi nunca es mala fe: agendó el lunes para el sábado y la vida se le cruzó. Dos mensajes lo evitan: el de 24 horas con pregunta que obliga respuesta y el de 2 horas solo con la ubicación. Sirve para visitas, test drives y degustaciones."
       },
       "alt": "Portada: esta semana te vuelven a dejar plantado, salvo que mandes estos 2 mensajes."
@@ -577,8 +492,8 @@
         }
       ],
       "caption": {
-        "ig": "Feriado de Santa Rosa: el domingo tu WhatsApp también decide 🚫 Cerrar está bien, callarlo no. El mensaje de feriado listo para copiar y dónde avisar si abres, todo adentro. Guárdalo para el domingo. #santarosa #feriado #whatsapp #negociosperu",
-        "tt": "El domingo es feriado y tu WhatsApp no lo sabe 🚫 el mensaje está adentro #feriado #santarosa #negociosperu",
+        "ig": "Feriado de Santa Rosa: el domingo tu WhatsApp también decide 🚫 Cerrar está bien, callarlo no. El mensaje de feriado listo para copiar y dónde avisar si abres, todo adentro. Guárdalo para el domingo. Mándaselo a quien atiende cuando tú no estás. #santarosa #feriado #whatsapp #negociosperu",
+        "tt": "El domingo es feriado y tu WhatsApp no lo sabe 🚫 el mensaje está adentro · mándaselo a quien atiende cuando tú no estás #feriado #santarosa #negociosperu",
         "fb": "El domingo es Santa Rosa y hay dos formas dignas de pasarlo: cerrado y avisado, o abierto y anunciado. La única prohibida es el limbo: nadie responde y nada lo dice. El mensaje de feriado completo está adentro."
       },
       "alt": "Portada: el domingo es feriado y tu WhatsApp no lo sabe, cerrar está bien, callarlo no."
@@ -588,9 +503,10 @@
       "slides": [
         {
           "role": "cover",
-          "h": "Tu competencia descansa el feriado, tu WhatsApp no",
-          "b": "la ventaja injusta del domingo",
-          "emoji": "😴"
+          "h": "Escríbele a 3 negocios de tu rubro y cuenta cuántos responden",
+          "b": "la cancha está más vacía de lo que crees",
+          "emoji": "😴",
+          "kicker": "LA PRUEBA"
         },
         {
           "role": "value",
@@ -615,8 +531,8 @@
         }
       ],
       "caption": {
-        "ig": "Ventas en feriado: tu competencia descansa el domingo, tu WhatsApp no 😴 La prueba: escríbele a 3 negocios de tu rubro y cuenta cuántos responden. El que da señal juega en cancha vacía. Guárdalo para el feriado. ¿Un negocio debe responder en feriado o el descanso es sagrado? #feriado #santarosa #ventas #whatsapp #negociosperu",
-        "tt": "Feriado: tu competencia duerme 😴 ¿responder o descansar? #ventas #feriado #negociosperu",
+        "ig": "Ventas en feriado: tu competencia descansa el domingo, tu WhatsApp no 😴 La prueba: escríbele a 3 negocios de tu rubro y cuenta cuántos responden. El que da señal juega en cancha vacía. Guárdalo para el feriado. ¿Un negocio debe responder en feriado o el descanso es sagrado? Mándaselo al que se queda a cargo el fin de semana. #feriado #santarosa #ventas #whatsapp #negociosperu",
+        "tt": "Escríbele a 3 negocios de tu rubro y cuenta cuántos responden 😴 · mándaselo al que se queda a cargo el fin de semana #ventas #negociosperu #whatsapp",
         "fb": "Prueba del feriado: escríbele el domingo a tres negocios de tu rubro y cuenta cuántos responden. El que da señal de vida juega en cancha vacía. ¿Tú de qué lado estás: un negocio debe responder en feriado o el descanso es sagrado?"
       },
       "alt": "Portada: tu competencia descansa el feriado, tu WhatsApp no, la ventaja injusta del domingo."
@@ -658,8 +574,8 @@
         }
       ],
       "caption": {
-        "ig": "Inventario y ventas por chat: estás vendiendo lo que ya no tienes 📦 Sábado movido: el corte de stock de 10 minutos, la plantilla que dice lo que sí queda y la regla del apartado con hora de vencimiento. Guárdalo para el corte del sábado. #inventario #ventas #whatsapp #negociosperu #tiendas",
-        "tt": "Vendiste por chat lo que ya se vendió en tienda 📦 #ventas #inventario #negociosperu",
+        "ig": "Inventario y ventas por chat: estás vendiendo lo que ya no tienes 📦 Sábado movido: el corte de stock de 10 minutos, la plantilla que dice lo que sí queda y la regla del apartado con hora de vencimiento. Guárdalo para el corte del sábado. Mándaselo al del negocio de al lado, le pasa igual. #inventario #ventas #whatsapp #negociosperu #tiendas",
+        "tt": "Vendiste por chat lo que ya se vendió en tienda 📦 · mándaselo al del negocio de al lado, le pasa igual #ventas #inventario #negociosperu",
         "fb": "Sábado movido: en la tienda se vendió el último y el chat lo sigue ofreciendo. El corte de stock de 10 minutos, la plantilla que dice lo que sí queda y la regla de oro: todo apartado tiene nombre y hora de vencimiento."
       },
       "alt": "Portada: estás vendiendo por chat lo que ya no tienes, el inventario descuadrado cobra en sábado."
@@ -697,8 +613,8 @@
         }
       ],
       "caption": {
-        "ig": "Feriado por Santa Rosa: hoy es feriado, ¿quién contesta tu WhatsApp? 🙏 La gente cotiza desde el sillón: camionetas, matrimonios, delivery. El plan honesto: 2 repasos de 10 minutos con acuses de hora real, y a descansar. Guárdalo para los feriados que vienen. #santarosa #feriado #whatsapp #negociosperu",
-        "tt": "Hoy es feriado 🙏 ¿quién contesta tu WhatsApp? #santarosa #feriado #negociosperu",
+        "ig": "Feriado por Santa Rosa: hoy es feriado, ¿quién contesta tu WhatsApp? 🙏 La gente cotiza desde el sillón: camionetas, matrimonios, delivery. El plan honesto: 2 repasos de 10 minutos con acuses de hora real, y a descansar. Guárdalo para los feriados que vienen. Mándaselo a tu equipo, no a tu bandeja. #santarosa #feriado #whatsapp #negociosperu",
+        "tt": "Hoy es feriado 🙏 ¿quién contesta tu WhatsApp? · mándaselo a tu equipo, no a tu bandeja #santarosa #feriado #negociosperu",
         "fb": "Feliz Santa Rosa. Hoy la gente también cotiza: camionetas desde el almuerzo, matrimonios desde el sillón, delivery ahora mismo. El plan honesto: dos repasos de 10 minutos con acuses de hora real, y el resto del día para ti."
       },
       "alt": "Portada con foto del pozo de los deseos de Santa Rosa: hoy es feriado, ¿quién contesta tu WhatsApp?"
@@ -740,8 +656,8 @@
         }
       ],
       "caption": {
-        "ig": "Cierre de mes: ¿cuántas conversaciones dejaste a medias en agosto? 🧾 La cuenta se hace en 10 minutos y septiembre empieza con 3 hábitos, no con 30. Guárdalo para el 1 de septiembre. #cierredemes #ventas #whatsapp #negociosperu #crm",
-        "tt": "La cuenta que duele: tus chats a medias de agosto 🧾 #ventas #negociosperu",
+        "ig": "Cierre de mes: ¿cuántas conversaciones dejaste a medias en agosto? 🧾 La cuenta se hace en 10 minutos y septiembre empieza con 3 hábitos, no con 30. Guárdalo para el 1 de septiembre. Mándaselo al que contesta tu WhatsApp. #cierredemes #ventas #whatsapp #negociosperu #crm",
+        "tt": "La cuenta que duele: tus chats a medias de agosto 🧾 · mándaselo al que contesta tu WhatsApp #ventas #negociosperu",
         "fb": "Último día de agosto. Ejercicio de 10 minutos: cuenta los chats del mes que murieron sin un sí, un no o un seguimiento. Ese número duele, pero es tu diagnóstico. Septiembre empieza con 3 hábitos: el acuse de 1 minuto, las 3 etiquetas y el repaso del lunes."
       },
       "alt": "Portada: ¿cuántas conversaciones dejaste a medias este mes?, haz la cuenta, duele pero paga."

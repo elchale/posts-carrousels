@@ -1,8 +1,8 @@
 {
   "series": "ago",
   "brand": "qolca",
-  "archivedAt": "2026-08-13",
-  "reason": "publicados IG+TT (estado app)",
+  "archivedAt": "2026-08-16",
+  "reason": "publicado (carousel_state en Neon)",
   "posts": [
     {
       "slug": "04-zendaya-no-se-acuerda",
@@ -462,6 +462,91 @@
         "fb": "Quincena hoy, Día del Niño mañana: tu bandeja va a explotar. El plan de guerra se arma hoy en 20 minutos: turnos escritos (nunca «todos vemos el celular»), plantillas verificadas y un responsable con nombre para los pedidos grandes."
       },
       "alt": "Portada: mañana explota tu bandeja, hoy cayó la quincena y el plan se arma en 20 minutos."
+    },
+    {
+      "slug": "13-preguntan-hoy",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "SEMANA DEL NIÑO",
+          "h": "Te preguntan hoy y te compran el domingo",
+          "b": "si el sábado les escribes tú",
+          "emoji": "🛍"
+        },
+        {
+          "role": "value",
+          "h": "El que pregunta el jueves está comparando",
+          "b": "Miró 4 tiendas, escribió a 3, le respondieron 2. El domingo le compra al que hizo seguimiento."
+        },
+        {
+          "role": "value",
+          "h": "Etiqueta hoy a cada interesado",
+          "b": "· Crea la etiqueta «Día del Niño»\n· Márcala en cada chat que preguntó\n· El viernes tu lista está lista"
+        },
+        {
+          "role": "value",
+          "h": "El sábado mandas este mensaje",
+          "b": "«¿Al final te decidiste por [X]? Mañana es el día, si confirmas hoy te lo dejo listo.»"
+        },
+        {
+          "role": "stat",
+          "h": "El seguimiento de fecha pico, en piloto automático.",
+          "b": "Qolca registra a cada interesado de tu chat y dispara el recordatorio del sábado por ti, con su nombre."
+        },
+        {
+          "role": "cta",
+          "h": "Empieza a etiquetar hoy.",
+          "b": "El domingo se gana el jueves: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Día del Niño: los que te preguntan hoy te compran el domingo, si alguien les recuerda que existes 🛍 El plan: la etiqueta «Día del Niño» desde hoy y el mensaje del sábado que cierra, palabra por palabra. Guárdalo para el sábado. #dianino #ventas #whatsapp #negociosperu #seguimiento",
+        "tt": "Te preguntan hoy, te compran el domingo 🛍 el mensaje del sábado está adentro #dianino #ventas #negociosperu",
+        "fb": "El comprador del Día del Niño pregunta el jueves, compara el viernes y decide el sábado. ¿A quién le compra el domingo? Al que se quedó en su cabeza. Adentro: la etiqueta que arma tu lista desde hoy y el mensaje del sábado que cierra."
+      },
+      "alt": "Portada: te preguntan hoy y te compran el domingo, si el sábado les escribes tú."
+    },
+    {
+      "slug": "14-media-hora",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "El que te escribió hace media hora ya se enfrió",
+          "b": "mañana cae la quincena: el reloj corre más rápido",
+          "emoji": "🧊"
+        },
+        {
+          "role": "value",
+          "h": "El interés es un helado al sol",
+          "b": "Tiene el celular en la mano y varias pestañas abiertas: está comparando ahora mismo."
+        },
+        {
+          "role": "value",
+          "h": "Toca el chat en el primer minuto",
+          "b": "«¡Recibido! Ya te confirmo precio y stock. ¿Para cuándo lo necesitas?»"
+        },
+        {
+          "role": "value",
+          "h": "No respondas todo al instante: toca todo al instante",
+          "b": "· Acuse de 1 minuto a todo lo que entra\n· Resolver por tandas, en tus repasos\n· Tocar rápido gana a resolver lento"
+        },
+        {
+          "role": "stat",
+          "h": "Ese primer toque puede salir sin ti.",
+          "b": "Qolca automatiza el proceso completo: la consulta queda registrada al entrar y su seguimiento arranca solo, con tu horario real."
+        },
+        {
+          "role": "cta",
+          "h": "Activa tu acuse de 1 minuto.",
+          "b": "El helado no espera: qolca.org"
+        }
+      ],
+      "caption": {
+        "ig": "Ventas por WhatsApp: el que te escribió hace media hora ya está comparando en otra tienda 🧊 Mañana cae la quincena y el reloj corre más rápido. El acuse del primer minuto está adentro, listo para copiar. Guárdalo para este finde de quincena. ¿Cuánto esperas tú una respuesta antes de pasar a otra tienda: 10 minutos o media hora? #ventas #whatsapp #negociosperu #atencionalcliente",
+        "tt": "Media hora sin respuesta y tu cliente ya está en otra tienda 🧊 #ventas #whatsapp #negociosperu",
+        "fb": "Media hora sin respuesta y esa venta ya está en otra tienda. Mañana cae la quincena y todo se acelera. La solución no es velocidad sobrehumana: es el acuse de 1 minuto (el texto exacto está adentro) y resolver por tandas. ¿Cuánto esperas tú una respuesta antes de pasar a la siguiente tienda: 10 minutos o media hora?"
+      },
+      "alt": "Portada: el que te escribió hace media hora ya se enfrió, mañana cae la quincena y el reloj corre más rápido."
     }
   ]
 }
