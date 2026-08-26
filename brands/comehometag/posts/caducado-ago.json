@@ -1,0 +1,408 @@
+{
+  "series": "ago",
+  "brand": "comehometag",
+  "archivedAt": "2026-08-25",
+  "reason": "no publicado (las fechas 16-25 ago pasaron; se retoma el 26)",
+  "posts": [
+    {
+      "slug": "16-feliz-dia",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "DÍA DEL NIÑO",
+          "h": "¿Y si hoy tu hijo va al parque sin ti?",
+          "emoji": "😰",
+          "b": "lo que se acuerda antes de que salgan"
+        },
+        {
+          "role": "value",
+          "h": "Tres preguntas al adulto que se lleva a tu hijo",
+          "b": "· ¿A qué hora exacta lo traes?\n· ¿Quién lo tiene de la mano en la multitud?\n· ¿Tienes batería y el sonido activado?"
+        },
+        {
+          "role": "value",
+          "h": "El mensaje que le mandas a ese adulto, cópialo",
+          "b": "«Va con polo rojo y zapatillas blancas. Si se sueltan, quédate donde estás y llámame: no lo busques caminando.»",
+          "emoji": "📱"
+        },
+        {
+          "role": "value",
+          "h": "Si el que va eres tú, la mano no se negocia",
+          "b": "Máxima gente, máximo ruido y niños con azúcar. En el pico del día, de la mano."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Hoy sale con su ComeHomeTag, obviamente.",
+          "b": "Como todos los papás que ya lo usan: la «pulsera» puesta y a disfrutar el día, que de eso se trata."
+        },
+        {
+          "role": "cta",
+          "h": "Feliz Día del Niño. Disfruta sin soltar.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Día del Niño hoy: 3 reglas y a disfrutar. Mano en las multitudes, un responsable por niño dicho en voz alta y punto de reencuentro acordado al llegar. Hora crítica: 1 a 3pm. Guárdalo para leerlo camino al parque. Mándaselo a la persona que los cuida cuando tú no estás. #diadelniño #familia #papas #peru",
+        "tt": "¿Y si hoy tu hijo va al parque sin ti? 😰 las 3 preguntas para el adulto que se lo lleva · mándaselo a quien se lo lleva #diadelniño #papas #peru",
+        "fb": "¡Feliz Día del Niño! Hoy solo tres reglas: mano en las multitudes, un responsable por niño (con nombre y en voz alta) y punto de reencuentro acordado al llegar. La hora crítica es de 1 a 3pm. Que sea un día de fotos lindas y cero sustos."
+      },
+      "alt": "Día del Niño: las tres reglas esenciales para celebrar sin sustos."
+    },
+    {
+      "slug": "18-secuestro-mito",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "MITO VS REALIDAD",
+          "h": "El secuestro no es tu mayor riesgo",
+          "emoji": "😳"
+        },
+        {
+          "role": "value",
+          "h": "La realidad es menos película",
+          "b": "· Casi todas son separaciones accidentales\n· Multitud y 30 segundos de distracción\n· Se resuelven en minutos, con plan"
+        },
+        {
+          "role": "value",
+          "h": "El miedo equivocado te desprotege",
+          "b": "Vigilar extraños no arma punto de encuentro, ni foto del día, ni responsable por niño."
+        },
+        {
+          "role": "value",
+          "h": "Las 3 preparaciones silenciosas",
+          "b": "· Foto del día al salir\n· Punto de reencuentro al llegar\n· Identificación puesta en el niño"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "La tercera preparación silenciosa.",
+          "b": "ComeHomeTag es identificación que no se siente: una «pulsera» que el niño usa como adorno."
+        },
+        {
+          "role": "cta",
+          "h": "Menos película, más plan de domingo.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Seguridad infantil, mito vs realidad: el riesgo real no es la película de secuestro, son las separaciones accidentales de 30 segundos en lugares llenos, y con plan se resuelven en minutos. Las 3 preparaciones silenciosas: foto del día, punto de reencuentro, identificación puesta. Guárdalo para tu próxima salida en familia. Mándaselo a tus hermanos, esto no se decide solo. #seguridadinfantil #mitos #papas #niños #peru",
+        "tt": "El secuestro NO es tu mayor riesgo (esto sí) · mándaselo a tus hermanos, esto no se decide solo #papas #seguridadinfantil #peru",
+        "fb": "Hablemos claro: la película de secuestro te quita el sueño, y lo que pasa de verdad es una separación accidental de 30 segundos en un lugar lleno. Eso se resuelve con 3 preparaciones silenciosas que nadie nota. ¿Las conoces?"
+      },
+      "alt": "Mito contra realidad: separaciones accidentales y las tres preparaciones silenciosas."
+    },
+    {
+      "slug": "19-todos-lo-veian",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Todos ven a tu hijo y nadie lo está viendo",
+          "emoji": "👀"
+        },
+        {
+          "role": "story",
+          "plate": "cine-08-papa",
+          "h": "Almuerzo familiar, 12 adultos, 6 niños",
+          "b": "Todos «viéndolos», ninguno viéndolos. Mati llevaba 15 minutos en la cochera.",
+          "emoji": "😬"
+        },
+        {
+          "role": "value",
+          "h": "La regla del responsable nombrado",
+          "b": "«Tú ves a Mati hasta las 3, después me toca.» Con nombre y con hora."
+        },
+        {
+          "role": "value",
+          "h": "El conteo al mover la manada",
+          "b": "· Cada vez que cambian de ambiente\n· Alguien cuenta en voz alta\n· «¿Somos 6? Somos 6»"
+        },
+        {
+          "role": "value",
+          "h": "Los niños grandes también",
+          "b": "El de 9 «que ya es grande» se aleja más rápido. Responsable nombrado hasta los 12."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Para la cochera, una «pulsera» con QR.",
+          "b": "En reuniones grandes, los papás con ComeHomeTag respiran distinto: cualquiera escanea y llama."
+        },
+        {
+          "role": "cta",
+          "h": "Nombra al responsable. Cuenta la manada.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Reuniones familiares: 12 adultos «viéndolos» es nadie viéndolos. La regla del responsable nombrado (con nombre y hora, en voz alta), el conteo al cambiar de ambiente y responsable hasta los 12 aunque protesten. Guárdalo para el próximo almuerzo familiar. ¿Hasta qué edad se cuenta a los niños en voz alta: 8 o 12? Mándaselo al grupo del salón. #familia #papas #niñosseguros #peru",
+        "tt": "Todos lo ven y nadie lo está viendo 💀 · mándaselo al grupo del salón #familia #papas #peru",
+        "fb": "Clásico del almuerzo familiar: 12 adultos, 6 niños, y cuando preguntan por Mati todos juran que estaba con otro. La solución tiene nombre y hora: «tú ves a Mati hasta las 3». Y el conteo en voz alta al cambiar de ambiente. ¿En tu familia quién cuenta a los niños?"
+      },
+      "alt": "Reunión familiar; la regla del responsable nombrado y el conteo de niños."
+    },
+    {
+      "slug": "20-perro-numero",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tu perro no sabe tu número",
+          "emoji": "🐶"
+        },
+        {
+          "role": "value",
+          "h": "El microchip no lo lee tu vecino",
+          "b": "· El microchip solo lo lee el veterinario\n· La placa grabada se gasta\n· El vecino necesita leerlo al momento"
+        },
+        {
+          "role": "value",
+          "h": "Qué debe decir la placa del collar",
+          "b": "TU número, grande y primero. El nombre del perro es lo de menos."
+        },
+        {
+          "role": "value",
+          "h": "El doble seguro del paseo",
+          "b": "· Collar más arnés, correa al arnés\n· El perro asustado se saca el collar\n· Agosto trae bandas y pirotecnia",
+          "emoji": "😨"
+        },
+        {
+          "role": "stat",
+          "shot": "llavero.png",
+          "h": "El «llavero» con QR también es para ellos.",
+          "b": "El «llavero» ComeHomeTag va en el collar: cualquiera lo escanea y te llama, sin apps ni veterinario."
+        },
+        {
+          "role": "cta",
+          "h": "Él no sabe tu número. Su collar sí.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Mascotas perdidas: el chip solo lo lee el veterinario y la placa grabada se borra. El vecino que encuentra a tu perro necesita algo legible AL MOMENTO: tu número primero, doble seguro collar más arnés, y el «llavero» QR de ComeHomeTag en el collar. Guárdalo para el próximo paseo. Mándaselo a quien se queda con ellos este fin de semana. #mascotas #perros #perroperdido #peru #mascotasperdidas",
+        "tt": "Tu perro no sabe tu número 🐶 (su collar debería) · mándaselo a quien se queda con ellos este fin de semana #perros #mascotas #peru",
+        "fb": "Dato: el microchip de tu perro solo lo lee un veterinario, y la placa grabada se gasta hasta quedar ilegible. El vecino que lo encuentre necesita algo que pueda usar en el momento. Por eso el QR en el collar sí funciona: el que lo encuentra escanea y te llama. ¿Tu perro tiene placa legible ahora mismo?"
+      },
+      "alt": "Perro en la puerta de casa; identificación escaneable y doble seguro para paseos."
+    },
+    {
+      "slug": "21-salida-colegio",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "RECOJO DEL COLEGIO",
+          "h": "¿Y si hoy no llegas a la salida del colegio?",
+          "emoji": "🎒"
+        },
+        {
+          "role": "value",
+          "h": "La lista es escrita, no sobreentendida",
+          "b": "Así no: «lo recoge su tía», dicho al aire\nAsí sí: nombres y DNI entregados al colegio"
+        },
+        {
+          "role": "value",
+          "h": "El cambio de plan pasa por el colegio",
+          "b": "Así no: avisarle solo al niño en la mañana\nAsí sí: el colegio confirma contigo antes de entregarlo"
+        },
+        {
+          "role": "value",
+          "h": "La contraseña familiar",
+          "b": "Así no: «te recoge un amigo de papá»\nAsí sí: pregunta la palabra secreta o no se va"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El contacto siempre encima",
+          "b": "Si el plan falla y tu hijo queda esperando, cualquier profesor escanea su ComeHomeTag y te llama."
+        },
+        {
+          "role": "cta",
+          "h": "Que el recojo nunca sea una sorpresa.",
+          "b": "Ordénalo hoy. comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Recojo del colegio: el plan para el día que no llegas a tiempo. Lista escrita con nombres y DNI entregada al colegio, todo cambio de plan confirmado por el colegio contigo y la contraseña familiar ensayada. Guárdalo para ordenar el recojo hoy. Mándaselo a la abuela que los recoge del colegio. #colegio #niñosseguros #papas #recojo #peru #seguridadinfantil",
+        "tt": "¿Y si hoy no llegas a la salida del colegio? 🎒 · mándaselo a la abuela que los recoge del colegio #colegio #papas #niños #peru",
+        "fb": "¿Qué pasa el día que el tráfico te gana y no llegas a la salida del colegio? Así no: «lo recoge su tía» dicho al aire, avisarle solo al niño, «te recoge un amigo de papá». Así sí: lista escrita con DNI, el colegio confirma contigo y la contraseña familiar. ¿Tu colegio pide la lista o entrega al primero que llega?"
+      },
+      "alt": "El plan de recojo del colegio: lista escrita, confirmación con el colegio y contraseña familiar."
+    },
+    {
+      "slug": "22-telemaco",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "ADULTO MAYOR",
+          "h": "¿Y si a tu hijo le toca buscarte a ti?",
+          "img": "evento-still-telemaco.jpg",
+          "emoji": "💔"
+        },
+        {
+          "role": "value",
+          "h": "Las 3 señales tempranas",
+          "b": "· Se pierde en rutas que conoce\n· Sale «a comprar» a horas raras\n· Confunde nombres y calles\n· Si se repite, consulta médica"
+        },
+        {
+          "role": "value",
+          "h": "La conversación sin drama",
+          "b": "Nada de «papá, estás mal». Pídele: «acompáñame al médico, yo quiero tu chequeo».",
+          "emoji": "🫂"
+        },
+        {
+          "role": "value",
+          "h": "El mapa de su rutina",
+          "b": "· Bodega, parque, iglesia, kiosco\n· Ahí se pregunta primero\n· Esas 4 personas ya tienen tu número"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Que buscarlo tome minutos, no años.",
+          "b": "Las familias con abuelos ya les pusieron ComeHomeTag: quien lo encuentre desorientado escanea y llama."
+        },
+        {
+          "role": "cta",
+          "h": "Telémaco no tenía QR. Tu familia sí.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Señales tempranas de desorientación en adultos mayores: perderse en rutas conocidas, salir a comprar a deshoras, confundir nombres y calles. La conversación sin drama («acompáñame, yo quiero tu chequeo») y el mapa de sus 4 lugares de siempre con tu número repartido. Guárdalo para la próxima visita a tus papás. Mándaselo al papá que lo va a leer de noche. #adultomayor #abuelos #alzheimer #familia #peru",
+        "tt": "No hagas que tu hijo te busque por 10 años 🏛️ Las 3 señales · mándaselo al papá que lo va a leer de noche #abuelos #familia #peru",
+        "fb": "En La Odisea, el hijo busca a su padre por 10 años. En la vida real las búsquedas empiezan con señales chicas: el abuelo que se pierde en su ruta de siempre, que sale a deshoras, que confunde nombres. El post trae las 3 señales y cómo abrir la conversación sin quitarle dignidad. ¿Has notado alguna?"
+      },
+      "alt": "Tom Holland (Telémaco en La Odisea); señales tempranas de desorientación en abuelos."
+    },
+    {
+      "slug": "23-lugar-que-no-existe",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "ADULTO MAYOR",
+          "h": "Tu papá puede salir hacia un lugar que ya no existe",
+          "emoji": "🧓"
+        },
+        {
+          "role": "value",
+          "h": "6 de cada 10 con demencia van a deambular",
+          "b": "· No es pasear: van al trabajo de hace 30 años\n· Por eso no vuelven al cansarse\n· Fuente: alz.org"
+        },
+        {
+          "role": "value",
+          "h": "La hora peligrosa: el atardecer",
+          "b": "Se llama síndrome del atardecer: al caer la tarde crecen la confusión y la inquietud.",
+          "emoji": "🌙"
+        },
+        {
+          "role": "value",
+          "h": "Lo que se prepara HOY",
+          "b": "· Rutina fija de salidas acompañadas\n· Vecinos y bodeguero con tu número\n· Identificación SIEMPRE encima"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "La tercera de la lista es la más fácil.",
+          "b": "ComeHomeTag para los abuelos: una «pulsera» cómoda, sin botones ni carga, que cualquiera escanea."
+        },
+        {
+          "role": "cta",
+          "h": "El lugar ya no existe. Tu número sí.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Deambulación y demencia: 6 de cada 10 personas con demencia van a deambular (alz.org), rumbo a un lugar que solo existe en su memoria. Hora crítica: el atardecer. Se prepara hoy: rutina fija, vecinos y bodeguero con tu número, identificación siempre encima. Guárdalo para compartirlo con quien cuida a un abuelo. Mándaselo a quien maneja el carro de la familia. #alzheimer #demencia #adultomayor #abuelos #peru #cuidadores",
+        "tt": "Tu papá puede salir hacia un lugar que ya no existe 💔 · mándaselo a quien maneja el carro de la familia #alzheimer #abuelos #peru",
+        "fb": "El dato que toda familia con un abuelo con demencia debe conocer: 6 de cada 10 personas con demencia van a deambular (alz.org). Van hacia un lugar que solo existe en su memoria, por eso no vuelven al cansarse. La hora crítica es el atardecer. Lo que se prepara hoy está en el post. Compártelo con quien cuida a un abuelo."
+      },
+      "alt": "Abuelo al atardecer; la deambulación en demencia y lo que una familia prepara hoy."
+    },
+    {
+      "slug": "24-papa-no-necesita",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "ADULTO MAYOR",
+          "h": "Tu papá dice que no necesita ayuda",
+          "emoji": "🧓"
+        },
+        {
+          "role": "value",
+          "h": "Y no está mintiendo: se siente bien",
+          "b": "Cambia «necesitas ayuda» por «hazlo por MI tranquilidad»: se lo pides como favor."
+        },
+        {
+          "role": "value",
+          "h": "Acuerdos, no órdenes",
+          "b": "· Él decide salidas, horarios y plata\n· Acuerdan avisar cuando sale lejos\n· Vigilado se rebela, y con razón"
+        },
+        {
+          "role": "value",
+          "h": "Tecnología invisible o no habrá tecnología",
+          "b": "Lo que hay que cargar, prender o configurar termina en un cajón."
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "Invisible, sin carga, sin lecciones.",
+          "b": "Por eso las familias eligen ComeHomeTag para los abuelos: nada que cargar, nada que aprender."
+        },
+        {
+          "role": "cta",
+          "h": "Pídele el favor. Es para tu tranquilidad.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo cuidar a un papá que «no necesita ayuda»: pedir el favor («es para MI tranquilidad»), acuerdos en vez de órdenes y tecnología invisible: lo que hay que cargar o configurar termina en un cajón. Guárdalo para la conversación con tu papá. ¿Pedirle «el favor» es cuidarlo o es manipularlo? Mándaselo a quien recoge a tus hijos. #adultomayor #abuelos #familia #cuidadores #peru",
+        "tt": "Tu papá dice que no necesita ayuda 🙄 (la jugada correcta) · mándaselo a quien recoge a tus hijos #abuelos #familia #peru",
+        "fb": "«Yo estoy bien, no necesito nada». Todo hijo de un papá mayor conoce esa frase. La jugada no es discutirla: es cambiar el marco. Ya no le ofreces ayuda: le pides un favor, por tu tranquilidad. Acuerdos en vez de órdenes, y tecnología que no estorbe. ¿Cómo lo manejas tú?"
+      },
+      "alt": "Cuidar sin quitar dignidad: el favor, acuerdos en vez de órdenes y tecnología invisible."
+    },
+    {
+      "slug": "25-el-que-lo-encuentra",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "ADULTO MAYOR",
+          "h": "El que encuentra a tu papá no sabe quién es",
+          "emoji": "😢"
+        },
+        {
+          "role": "story",
+          "plate": "cine-09-ventana",
+          "h": "El buen samaritano necesita permiso",
+          "b": "· No sabe si llamar es exagerar\n· Teme meterse en problemas\n· Ante la duda, sigue de largo"
+        },
+        {
+          "role": "value",
+          "h": "Identificación que se entiende en 5 segundos",
+          "b": "· Nombre\n· «Tengo problemas de memoria»\n· Un contacto que conteste"
+        },
+        {
+          "role": "value",
+          "h": "Prepara al abuelo para aceptar ayuda",
+          "b": "Ensáyenlo: si se siente confundido, deja que le lean la «pulsera» y espera con la persona.",
+          "emoji": "🫂"
+        },
+        {
+          "role": "stat",
+          "shot": "pulsera.png",
+          "h": "El escaneo convierte la duda en llamada.",
+          "b": "Quien lo encuentre escanea el QR de ComeHomeTag y marca tu número."
+        },
+        {
+          "role": "cta",
+          "h": "Dale al mundo la forma de ayudarte.",
+          "b": "comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Adulto mayor desorientado en la calle: el extraño que lo encuentra no sabe si intervenir, y ante la duda sigue de largo. La identificación clara (nombre, una línea, un contacto que conteste) le da el permiso y las instrucciones. Y al abuelo se le ensaya aceptar ayuda, sin drama. Guárdalo para armar la identificación de tu papá. Mándaselo a la persona que los cuida cuando tú no estás. #adultomayor #alzheimer #abuelos #peru #cuidadores",
+        "tt": "El que encuentra a tu papá no sabe quién es 🧓 · mándaselo a la persona que los cuida cuando tú no estás #abuelos #adultomayor #peru",
+        "fb": "El extraño que encuentre a tu papá desorientado va a ver a un señor que insiste en que está bien. ¿Llama a la policía? ¿Exagera? La mayoría duda. Y pasa de largo. Una identificación clara convierte esa duda en ayuda inmediata. El post explica cómo. ¿Tu papá lleva algo que hable por él?"
+      },
+      "alt": "Abuela junto a la ventana; cómo un extraño se convierte en aliado con identificación clara."
+    }
+  ]
+}

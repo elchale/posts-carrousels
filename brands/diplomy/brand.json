@@ -1,0 +1,55 @@
+{
+  "name": "Diplomy",
+  "tag": "diplomy.org",
+  "logo": "logo.png",
+  "display_font": "Inter-Bold.ttf",
+  "display_weight": null,
+  "roles_note": "el logo ES la paleta: solo azul y blanco. paper #FBFCFE, ink #0A1F45, royal #0058D8, royal-deep #0043A8, sky #84B8F8, mist #DCEAFB, line #CBDCF3. Marca LIGHT igual que Radar Estatal: la separacion visual la hacen la TIPOGRAFIA (Inter Bold vs Chakra Petch) y el MOTIVO (sello/grabado/borde de certificado vs anillos de radar), nunca el color. Nada de dorado, verde ni ambar.",
+  "lang": "en",
+  "body_font": "Montserrat-Variable.ttf",
+  "roles": {
+    "cover": {
+      "family": "cover",
+      "text": "#0a1f45",
+      "sub": "#4a6285",
+      "accent": "#0058d8",
+      "light": false
+    },
+    "rehook": {
+      "family": "emph",
+      "text": "#f4f8fe",
+      "sub": "#a8c8f2",
+      "accent": "#84b8f8",
+      "light": true
+    },
+    "value": {
+      "family": "value",
+      "text": "#0a1f45",
+      "sub": "#4a6285",
+      "accent": "#0058d8",
+      "light": false
+    },
+    "stat": {
+      "family": "emph",
+      "text": "#f4f8fe",
+      "sub": "#a8c8f2",
+      "accent": "#84b8f8",
+      "light": true
+    },
+    "story": {
+      "family": "cine",
+      "text": "#f4f8fe",
+      "sub": "#c4dbf5",
+      "accent": "#84b8f8",
+      "light": true
+    },
+    "cta": {
+      "family": "cta",
+      "text": "#0a1f45",
+      "sub": "#4a6285",
+      "accent": "#0058d8",
+      "light": false
+    }
+  },
+  "display_scale": 0.85
+}
