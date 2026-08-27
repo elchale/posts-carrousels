@@ -1,19 +1,22 @@
 'use client'
 
 import Link from 'next/link'
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
+import HoyScreen from './HoyScreen'
 import { Forward } from './Icons'
+import { armarAgenda } from '../lib/agenda'
 import { esHoy, fmtFecha, useHoy } from '../lib/fecha'
+import { getTabInicio, setTabInicio } from '../lib/nav'
 import { isPublished, useMarks } from '../lib/store'
 
 function postHref(p) {
   return `/${p.brand}/${p.series}/${p.slug}`
 }
 
-export default function HomeScreen({ brands, total, slides }) {
-  const marks = useMarks()
-  const hoy = useHoy()
-
+/* La vista de siempre: cuánto llevas en total y cómo va cada cuenta. Sirve para
+ * mirar el avance y para pescar un post fuera de su fecha; la del día a día es
+ * «Posts de hoy», que por eso es la que abre. */
+function PorCuenta({ brands, total, slides, marks, hoy }) {
   const stats = useMemo(() => {
     const per = brands.map((b) => {
       const done = b.posts.filter((p) => isPublished(marks.posts[p.id])).length
@@ -21,7 +24,7 @@ export default function HomeScreen({ brands, total, slides }) {
       return { brand: b, done, nextPost }
     })
     const done = per.reduce((n, s) => n + s.done, 0)
-    // Suggest the brand that has fallen behind, so the three feeds stay in step
+    // Suggest the brand that has fallen behind, so the feeds stay in step
     // instead of one racing ahead.
     const behind = per
       .filter((s) => s.nextPost)
@@ -32,6 +35,92 @@ export default function HomeScreen({ brands, total, slides }) {
   const pct = total ? Math.round((stats.done / total) * 100) : 0
 
   return (
+    <main className="wrap list" role="tabpanel" id="panel-marcas" aria-labelledby="tab-marcas">
+      <section className="hero">
+        <div className="eyebrow">Avance total</div>
+        <div className="hero__count" style={{ marginTop: 8 }}>
+          <span className="hero__n">{stats.done}</span>
+          <span className="hero__of">
+            publicados de <b>{total}</b> · {pct}%
+          </span>
+        </div>
+        <div className="rail" aria-hidden="true"><i style={{ width: `${pct}%` }} /></div>
+      </section>
+
+      {stats.behind && (
+        <section className="section" data-brand={stats.behind.brand.id}>
+          <div className="section__head">
+            <span className="eyebrow">Sigue con esto</span>
+            <span className="eyebrow">{stats.behind.brand.name}</span>
+          </div>
+          <Link className="resume" href={postHref(stats.behind.nextPost)}>
+            <img
+              className="resume__thumb"
+              src={stats.behind.nextPost.thumb}
+              alt=""
+              width={60}
+              height={75}
+              loading="eager"
+            />
+            <div className="resume__body">
+              <div className="resume__title">{stats.behind.nextPost.title}</div>
+              <div className="resume__meta eyebrow">
+                {stats.behind.nextPost.date && (
+                  <b style={{ color: 'var(--accent)' }}>
+                    {esHoy(stats.behind.nextPost.date, hoy) ? 'HOY' : fmtFecha(stats.behind.nextPost.date)}
+                    {' · '}
+                  </b>
+                )}
+                {stats.behind.nextPost.seriesLabel} · {stats.behind.nextPost.slides} láminas
+              </div>
+            </div>
+            <span className="resume__go" aria-hidden="true"><Forward /></span>
+          </Link>
+        </section>
+      )}
+
+      <section className="section">
+        <div className="section__head">
+          <span className="eyebrow">Marcas</span>
+        </div>
+        {stats.per.map(({ brand, done }) => (
+          <Link key={brand.id} className="brandrow" href={`/${brand.id}`} data-brand={brand.id}>
+            <div className="brandrow__top">
+              <span className="brandrow__name">{brand.name}</span>
+              <span className="brandrow__n"><b>{done}</b>/{brand.posts.length}</span>
+            </div>
+            <div className="brandrow__label">{brand.label || brand.tag}</div>
+            <div className="rail" aria-hidden="true">
+              <i style={{ width: `${brand.posts.length ? (done / brand.posts.length) * 100 : 0}%` }} />
+            </div>
+          </Link>
+        ))}
+      </section>
+
+      <p className="eyebrow" style={{ textAlign: 'center', padding: '22px 0 4px', lineHeight: 1.8 }}>
+        {total} carruseles · {slides} láminas
+        <br />
+        El avance se guarda en este navegador · <Link href="/respaldo" style={{ borderBottom: '1px solid currentColor' }}>respaldo</Link>
+      </p>
+    </main>
+  )
+}
+
+export default function HomeScreen({ brands, total, slides }) {
+  const marks = useMarks()
+  const hoy = useHoy()
+  /* El módulo recuerda la pestaña entre idas y vueltas a un post (ver lib/nav.js).
+   * En el servidor y al abrir de cero vale 'hoy', así que el HTML prerenderizado
+   * y el primer render del cliente coinciden. */
+  const [tab, setTab] = useState(getTabInicio)
+  const agenda = useMemo(() => armarAgenda(brands, marks, hoy), [brands, marks, hoy])
+
+  const cambiar = (valor) => {
+    setTab(valor)
+    setTabInicio(valor)
+  }
+
+  return (
     <>
       <header className="topbar">
         <div className="topbar__row">
@@ -40,76 +129,37 @@ export default function HomeScreen({ brands, total, slides }) {
             <span className="mono" style={{ fontSize: 12, fontWeight: 700 }}>⇄</span>
           </Link>
         </div>
+        <div className="tabs" role="tablist" aria-label="Vista">
+          <button
+            type="button"
+            role="tab"
+            id="tab-hoy"
+            aria-controls="panel-hoy"
+            className="tabs__btn"
+            aria-selected={tab === 'hoy'}
+            onClick={() => cambiar('hoy')}
+          >
+            Posts de hoy
+            {/* Sin fecha del teléfono todavía no hay número honesto que enseñar. */}
+            {agenda && agenda.pendientes > 0 && <span className="tabs__n">{agenda.pendientes}</span>}
+          </button>
+          <button
+            type="button"
+            role="tab"
+            id="tab-marcas"
+            aria-controls="panel-marcas"
+            className="tabs__btn"
+            aria-selected={tab === 'marcas'}
+            onClick={() => cambiar('marcas')}
+          >
+            Por cuenta
+          </button>
+        </div>
       </header>
 
-      <main className="wrap list">
-        <section className="hero">
-          <div className="eyebrow">Avance total</div>
-          <div className="hero__count" style={{ marginTop: 8 }}>
-            <span className="hero__n">{stats.done}</span>
-            <span className="hero__of">
-              publicados de <b>{total}</b> · {pct}%
-            </span>
-          </div>
-          <div className="rail" aria-hidden="true"><i style={{ width: `${pct}%` }} /></div>
-        </section>
-
-        {stats.behind && (
-          <section className="section" data-brand={stats.behind.brand.id}>
-            <div className="section__head">
-              <span className="eyebrow">Sigue con esto</span>
-              <span className="eyebrow">{stats.behind.brand.name}</span>
-            </div>
-            <Link className="resume" href={postHref(stats.behind.nextPost)}>
-              <img
-                className="resume__thumb"
-                src={stats.behind.nextPost.thumb}
-                alt=""
-                width={60}
-                height={75}
-                loading="eager"
-              />
-              <div className="resume__body">
-                <div className="resume__title">{stats.behind.nextPost.title}</div>
-                <div className="resume__meta eyebrow">
-                  {stats.behind.nextPost.date && (
-                    <b style={{ color: 'var(--accent)' }}>
-                      {esHoy(stats.behind.nextPost.date, hoy) ? 'HOY' : fmtFecha(stats.behind.nextPost.date)}
-                      {' · '}
-                    </b>
-                  )}
-                  {stats.behind.nextPost.seriesLabel} · {stats.behind.nextPost.slides} láminas
-                </div>
-              </div>
-              <span className="resume__go" aria-hidden="true"><Forward /></span>
-            </Link>
-          </section>
-        )}
-
-        <section className="section">
-          <div className="section__head">
-            <span className="eyebrow">Marcas</span>
-          </div>
-          {stats.per.map(({ brand, done }) => (
-            <Link key={brand.id} className="brandrow" href={`/${brand.id}`} data-brand={brand.id}>
-              <div className="brandrow__top">
-                <span className="brandrow__name">{brand.name}</span>
-                <span className="brandrow__n"><b>{done}</b>/{brand.posts.length}</span>
-              </div>
-              <div className="brandrow__label">{brand.label || brand.tag}</div>
-              <div className="rail" aria-hidden="true">
-                <i style={{ width: `${brand.posts.length ? (done / brand.posts.length) * 100 : 0}%` }} />
-              </div>
-            </Link>
-          ))}
-        </section>
-
-        <p className="eyebrow" style={{ textAlign: 'center', padding: '22px 0 4px', lineHeight: 1.8 }}>
-          {total} carruseles · {slides} láminas
-          <br />
-          El avance se guarda en este navegador · <Link href="/respaldo" style={{ borderBottom: '1px solid currentColor' }}>respaldo</Link>
-        </p>
-      </main>
+      {tab === 'hoy'
+        ? <HoyScreen agenda={agenda} marks={marks} />
+        : <PorCuenta brands={brands} total={total} slides={slides} marks={marks} hoy={hoy} />}
     </>
   )
 }

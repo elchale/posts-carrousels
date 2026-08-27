@@ -1,6 +1,6 @@
 # La app — publicar desde el celular
 
-Una web en Next.js que sirve los mismos 335 carruseles de `brands/<marca>/out/`.
+Una web en Next.js que sirve los mismos 330 carruseles de `brands/<marca>/out/`.
 Pensada para el pulgar: eliges un post, guardas las fotos en **Fotos** del iPhone,
 copias el caption, y lo marcas como publicado para no repetirlo.
 
@@ -307,8 +307,29 @@ que funciona igual en `algo.vercel.app`, en `carruseles.tudominio.com` o en
 
 ## Cómo se usa
 
-**Inicio** — cuántos llevas de 335, y un acceso directo al siguiente post de la
-marca más atrasada, para que las tres cuentas avancen parejas.
+**Inicio** — dos pestañas sobre el mismo material.
+
+*Posts de hoy* (la que abre) es la tanda del día: un post por cuenta que publique
+hoy, con su miniatura y si ya está en IG y en TikTok. Tocas uno, guardas las
+fotos, lo marcas, y **Siguiente** te lleva al que sigue sin volver a la lista; la
+flecha de atrás sí vuelve a ella. Cuando cierras el día lo dice y te ofrece el
+siguiente día programado, por si quieres adelantar.
+
+Lo que decide qué sale ahí es la **fecha** de cada post, que sale del mes de la
+serie y del día del slug (`27-cola-del-pozo` → 27 de agosto), leída con el reloj
+de ESTE teléfono. Tres casos que no son un error y por eso se dicen con todas sus
+letras:
+
+- **Una cuenta sin post hoy** — no todas publican a diario. Aparece abajo:
+  «Hoy no toca en Diplomy».
+- **Un día sin nada** — «Hoy no toca publicar nada», y debajo el siguiente día
+  con tanda.
+- **Se pasó la fecha** — sección aparte, con la fecha de cada uno. Se pintan ocho
+  y el resto se cuenta: la mayoría van pegados a una fecha concreta y ya no
+  sirven fuera de ella, así que la lista larga sería ruido.
+
+*Por cuenta* es la vista de siempre: cuántos llevas de 330 y un acceso directo al
+siguiente post de la marca más atrasada, para que las cuentas avancen parejas.
 
 **Marca** — la grilla de portadas. Por defecto muestra **solo pendientes**, así
 que lo publicado desaparece y no lo vuelves a descargar por error. Los chips de
@@ -321,8 +342,10 @@ arriba filtran por serie; el número del chip es lo que falta de esa serie.
 | **Guardar N fotos** | abre el menú de iOS → *Guardar N imágenes* → van a Fotos | igual, con las láminas 9:16 |
 | **Copiar caption** | el texto de IG (Facebook usa las mismas fotos, ver `⋯`) | el texto de TikTok |
 
-Y la fila **Publicado**, con un botón por red: márcalas cuando subas. Cuando las
-dos están marcadas el post queda sellado y aparece **Siguiente pendiente**.
+Y la fila **Publicado**, con un botón por red más **Las 2** para cerrar las dos
+de un toque, que es lo normal. Cuando las dos están marcadas el post queda
+sellado y aparece **Siguiente pendiente** (o **Siguiente** de la tanda, si
+llegaste desde *Posts de hoy*).
 
 El botón `⋯` guarda el resto: leer los captions completos, copiar el de Facebook,
 copiar el texto ALT, abrir el PDF de LinkedIn (Qolca), invertir el orden de
@@ -413,8 +436,12 @@ app/
   [brand]/page.jsx                grilla de la marca
   [brand]/[series]/[slug]/page.jsx  el post
   respaldo/page.jsx               copiar / restaurar el avance
-  components/                     HomeScreen · BrandScreen · PostScreen · Sheet · Toast
+  components/                     HomeScreen (pestañas) · HoyScreen · BrandScreen
+                                  PostScreen · Sheet · Toast
   lib/data.js                     lee data/index.json (solo en el servidor)
+  lib/agenda.js                   qué toca hoy, qué se pasó de fecha, qué viene
+  lib/fecha.js                    el día según el reloj del aparato
+  lib/nav.js                      pestaña abierta + «vengo de la lista de hoy»
   lib/store.js                    localStorage: descargado / publicado
   lib/save.js                     compartir a Fotos, copiar al portapapeles
   globals.css                     todo el diseño, sin framework

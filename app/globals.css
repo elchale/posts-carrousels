@@ -41,6 +41,10 @@
 [data-brand="comehometag"] { --accent: #8b73ff; --accent-2: #ec6aa6; }
 [data-brand="qolca"]       { --accent: #5aa7ff; --accent-2: #7fd7c4; }
 [data-brand="propaga"]     { --accent: #ff7a1f; --accent-2: #ffc266; }
+/* Las dos azules comparten familia: en el chasis las separa la etiqueta, no el
+   acento (ver BRAND_CHROME en scripts/build-index.mjs, de donde salen estos). */
+[data-brand="radarestatal"] { --accent: #5f9ff5; --accent-2: #cfe3fa; }
+[data-brand="diplomy"]      { --accent: #4d94f7; --accent-2: #84b8f8; }
 
 * { box-sizing: border-box; }
 
@@ -304,6 +308,164 @@ button { font: inherit; color: inherit; border: 0; background: none; cursor: poi
   opacity: 0.65;
   margin-left: 5px;
 }
+
+/* --------------------------------------------------------------- pestañas */
+/* Dos formas de mirar lo mismo: la tanda del día (lo que abres para publicar) y
+   el avance por cuenta (lo que abres para saber cómo vas). La primera es la que
+   arranca porque es la que se usa a diario. */
+
+.tabs {
+  display: flex;
+  gap: 4px;
+  margin: 0 12px 8px;
+  padding: 3px;
+  border-radius: 12px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+}
+.tabs__btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 9px 6px;
+  border-radius: 9px;
+  color: var(--dim);
+  font-size: 13.5px;
+  font-weight: 620;
+  letter-spacing: -0.005em;
+  transition: background 0.18s, color 0.18s;
+}
+.tabs__btn[aria-selected="true"] { background: var(--panel-3); color: var(--text); }
+.tabs__n {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 10.5px;
+  font-weight: 700;
+  line-height: 1.5;
+  padding: 1px 6px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+/* ------------------------------------------------------------ lista de hoy */
+
+.hero__none {
+  margin-top: 10px;
+  font-size: 19px;
+  font-weight: 660;
+  letter-spacing: -0.02em;
+}
+
+.aviso {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 11px 13px;
+  border-radius: var(--r-md);
+  font-size: 13.5px;
+  font-weight: 560;
+  background: var(--panel);
+  border: 1px solid var(--line);
+}
+.aviso--ok {
+  color: var(--done);
+  background: color-mix(in srgb, var(--done) 12%, var(--panel));
+  border-color: color-mix(in srgb, var(--done) 40%, transparent);
+}
+.aviso svg { flex: 0 0 auto; }
+
+.nota {
+  margin: 10px 2px 0;
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--faint);
+}
+.nota b { color: var(--dim); font-weight: 600; }
+
+/* Una fila = un post que toca subir. Es una lista y no la grilla de la marca
+   porque aquí lo que importa no es la portada sino de QUÉ cuenta es y si ya
+   está subido: la miniatura solo sirve para reconocerlo. */
+.hrow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  padding: 10px 12px 10px 14px;
+  border-radius: var(--r-lg);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  overflow: hidden;
+}
+.hrow::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 3px;
+  background: var(--accent);
+}
+.hrow:active { background: var(--panel-2); }
+.hrow--done { opacity: 0.62; }
+.hrow__thumb {
+  flex: 0 0 auto;
+  width: 52px;
+  height: 65px;
+  border-radius: 7px;
+  object-fit: cover;
+  background: var(--panel-3);
+}
+.hrow--done .hrow__thumb { opacity: 0.5; }
+.hrow__body { flex: 1; min-width: 0; }
+.hrow__brand { color: var(--accent); }
+.hrow__late { color: var(--accent-2); }
+.hrow__title {
+  margin: 3px 0 6px;
+  font-size: 14.5px;
+  font-weight: 610;
+  line-height: 1.28;
+  letter-spacing: -0.01em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.hrow__tags { display: flex; flex-wrap: wrap; gap: 5px; }
+.hrow__go {
+  flex: 0 0 auto;
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  color: var(--dim);
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+}
+.hrow--done .hrow__go { color: var(--done); }
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  padding: 2px 6px;
+  border-radius: 5px;
+  font-family: var(--mono);
+  font-size: 9.5px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--faint);
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+}
+.tag[data-on="true"] {
+  color: var(--done);
+  background: color-mix(in srgb, var(--done) 14%, transparent);
+  border-color: color-mix(in srgb, var(--done) 45%, transparent);
+}
+.tag--soft { text-transform: none; letter-spacing: 0.04em; }
 
 /* ------------------------------------------------------------------- grid */
 
@@ -618,6 +780,14 @@ button { font: inherit; color: inherit; border: 0; background: none; cursor: poi
 }
 .btn:active { transform: scale(0.975); }
 .btn[disabled] { opacity: 0.55; }
+/* La flecha de continuar la tanda: del color de la marca pero sin rellenar, para
+   que no compita con «Guardar», que es el botón que de verdad hace algo. */
+.btn--next {
+  margin-top: 6px;
+  background: transparent;
+  color: var(--accent);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--accent) 45%, transparent);
+}
 /* Only the format you are previewing gets the filled button. Two solid accent
    buttons side by side would make the choice look ambiguous — and the whole point
    of the switch above is that you already made it. */
@@ -662,6 +832,7 @@ button { font: inherit; color: inherit; border: 0; background: none; cursor: poi
   gap: 6px;
   transition: background 0.18s, color 0.18s, border-color 0.18s;
 }
+.marks__btn--both { flex: 0 0 auto; padding: 9px 11px; }
 .marks__btn[aria-pressed="true"] {
   background: color-mix(in srgb, var(--done) 16%, transparent);
   border-color: color-mix(in srgb, var(--done) 55%, transparent);

@@ -6,10 +6,13 @@ Estatal** y **Diplomy** (esta última en inglés, mercado global).
 
 ## Cómo publicar desde el celular
 
-Con **la app** — es la forma rápida. Elige el post, toca *Guardar N fotos* y el
-menú de iOS las manda a Fotos; copia el caption de al lado, y márcalo como
-publicado para que no te lo vuelva a ofrecer. Guía completa e instrucciones de
-despliegue en **[`WEB.md`](WEB.md)**.
+Con **la app** — es la forma rápida. Abre en **Posts de hoy**: la tanda del día,
+un post por cuenta que publique hoy. Tocas uno, *Guardar N fotos* y el menú de
+iOS las manda a Fotos; copias el caption, marcas *Las 2* y **Siguiente** te lleva
+al que sigue. Las cuentas que no publican todos los días simplemente no salen —
+y la app lo dice, para que no parezca que falta algo. La otra pestaña, *Por
+cuenta*, es el avance de siempre. Guía completa e instrucciones de despliegue en
+**[`WEB.md`](WEB.md)**.
 
 **Qué publicar primero:** el orden está en **[`ORDEN.md`](ORDEN.md)**, de más a
 menos forma-de-guardado. El porqué —la autopsia del primer carrusel que la gente

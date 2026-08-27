@@ -89,6 +89,14 @@ export function useActions() {
     patch(id, { [fmt]: on ? Date.now() : 0 })
   }, [])
 
+  /* Las dos redes en un solo `patch`: dos llamadas seguidas serían dos escrituras
+   * en localStorage, dos renders y dos subidas al servidor para lo que es un solo
+   * gesto — «ya lo subí a las dos». */
+  const setBothPublished = useCallback((id, on) => {
+    const t = on ? Date.now() : 0
+    patch(id, { ig: t, tt: t })
+  }, [])
+
   const markDownloaded = useCallback((id, fmt) => {
     patch(id, { [fmt === 'ig' ? 'dlIg' : 'dlTt']: Date.now() })
   }, [])
@@ -99,7 +107,7 @@ export function useActions() {
     commit({ v: 1, posts })
   }, [])
 
-  return { togglePublished, setPublished, markDownloaded, resetPost }
+  return { togglePublished, setPublished, setBothPublished, markDownloaded, resetPost }
 }
 
 export function isPublished(mark) {

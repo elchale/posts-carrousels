@@ -1,11 +1,12 @@
 'use client'
 
 import Link from 'next/link'
-import { useCallback, useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Back, Check, Copy, Doc, Dots, Forward, Save } from './Icons'
 import Sheet from './Sheet'
 import { useToast } from './Toast'
 import { esHoy, fmtFecha, useHoy } from '../lib/fecha'
+import { marcarSalidaDesdeHoy, origenDe, setTabInicio } from '../lib/nav'
 import { canShareFiles, copyText, isIOS, prefetch, saveSlides } from '../lib/save'
 import { isPublished, setPref, useActions, useMark, useMarks, usePrefs } from '../lib/store'
 
@@ -14,13 +15,25 @@ const FORMATS = [
   { key: 'tt', name: 'TikTok', ratio: '9:16', also: null },
 ]
 
-export default function PostScreen({ post, brand, siblings }) {
+export default function PostScreen({ post, brand, siblings, sameDay = [] }) {
   const [fmt, setFmt] = useState(post.ig.length ? 'ig' : 'tt')
   const [index, setIndex] = useState(0)
   const [busy, setBusy] = useState(null)      // 'ig' | 'tt' while a save is in flight
   const [retry, setRetry] = useState(null)    // format whose files are ready but needs a second tap
   const [sheetOpen, setSheetOpen] = useState(false)
+  /* 'hoy' si llegaste desde la lista de hoy: entonces la flecha de atrás vuelve
+   * ahí y abajo aparece «siguiente de hoy» en vez del siguiente de la marca.
+   *
+   * El módulo lo sabe de forma síncrona cuando la navegación fue dentro de la
+   * app (no hay hidratación que cuadrar en ese caso). Al recargar o al abrir el
+   * enlace pegado, el módulo está vacío y manda `?d=hoy`, que solo se puede leer
+   * ya montados: el HTML es estático y se prerenderiza sin la query. */
+  const [desde, setDesde] = useState(() => origenDe(post.id))
   const hoy = useHoy()
+
+  useEffect(() => {
+    if (new URLSearchParams(window.location.search).get('d') === 'hoy') setDesde('hoy')
+  }, [post.id])
   const [toast, showToast] = useToast()
 
   const deckRef = useRef(null)
@@ -29,12 +42,28 @@ export default function PostScreen({ post, brand, siblings }) {
   const mark = useMark(post.id)
   const marks = useMarks()
   const prefs = usePrefs()
-  const { togglePublished, markDownloaded, resetPost } = useActions()
+  const { togglePublished, setBothPublished, markDownloaded, resetPost } = useActions()
 
   const slides = post[fmt] || []
   const published = isPublished(mark)
 
   const nextPending = siblings.find((s) => s.id !== post.id && !isPublished(marks.posts[s.id])) || null
+
+  const enHoy = desde === 'hoy'
+  /* La cola del día, empezando por el que sigue a este y dando la vuelta: si
+   * entraste por el tercero, «siguiente» es el cuarto, y al llegar al final
+   * vuelve a por los que te saltaste antes de darte el día por cerrado. */
+  const cola = useMemo(() => {
+    const i = sameDay.findIndex((s) => s.id === post.id)
+    return i < 0 ? sameDay : [...sameDay.slice(i + 1), ...sameDay.slice(0, i)]
+  }, [sameDay, post.id])
+  const siguienteHoy = cola.find((s) => !isPublished(marks.posts[s.id])) || null
+  const diaListo = sameDay.length > 0 && sameDay.every((s) => isPublished(marks.posts[s.id]))
+  const posicionHoy = sameDay.findIndex((s) => s.id === post.id) + 1
+
+  /* Volver a la lista de hoy tiene que ABRIR la lista de hoy, aunque en el
+   * inicio te hubieras quedado en «Por cuenta». */
+  const volverAHoy = () => setTabInicio('hoy')
 
   /* Pull the full-size files into memory before the tap: navigator.share() has to be
    * reached without an await in front of it or Safari drops the gesture.
@@ -142,14 +171,26 @@ export default function PostScreen({ post, brand, siblings }) {
 
   const activeFmt = FORMATS.find((f) => f.key === fmt)
   const showHint = !mark?.[fmt === 'ig' ? 'dlIg' : 'dlTt']
+  const pista = showHint ? (
+    <p className="hint">
+      {canShareFiles()
+        ? <>Se abre el menú de {isIOS() ? 'iOS' : 'compartir'} → elige <b>Guardar {slides.length} imágenes</b> para que vayan a Fotos.</>
+        : <>Este navegador no puede guardar en Fotos: las {slides.length} fotos se descargan una por una.</>}
+    </p>
+  ) : null
 
   return (
     <div className="post" data-brand={brand.id}>
       <header className="post__head">
         <div className="topbar" style={{ position: 'static', backdropFilter: 'none', background: 'transparent', borderBottom: 0 }}>
           <div className="topbar__row">
-            <Link href={`/${brand.id}`} className="iconbtn" aria-label={`Volver a ${brand.name}`}><Back /></Link>
+            {enHoy ? (
+              <Link href="/" className="iconbtn" aria-label="Volver a los posts de hoy" onClick={volverAHoy}><Back /></Link>
+            ) : (
+              <Link href={`/${brand.id}`} className="iconbtn" aria-label={`Volver a ${brand.name}`}><Back /></Link>
+            )}
             <div className="topbar__title eyebrow" style={{ fontSize: 10.5 }}>
+              {enHoy && posicionHoy > 0 && <b style={{ color: 'var(--accent)' }}>{posicionHoy}/{sameDay.length} · </b>}
               {brand.name} · {post.seriesLabel}
             </div>
             {published && <span className="stamp">Publicado</span>}
@@ -261,19 +302,46 @@ export default function PostScreen({ post, brand, siblings }) {
               {f.name}
             </button>
           ))}
+          {/* Subir el mismo carrusel a las dos redes es lo normal, así que
+            * cerrarlo cuesta un toque y no dos. */}
+          <button
+            className="marks__btn marks__btn--both"
+            aria-pressed={published}
+            aria-label={published ? 'Quitar la marca de las dos redes' : 'Marcar publicado en las dos redes'}
+            onClick={() => setBothPublished(post.id, !published)}
+          >
+            {published ? <Check size={14} /> : null}
+            Las 2
+          </button>
         </div>
 
-        {published && nextPending ? (
+        {/* En la tanda de hoy la flecha de continuar tiene que estar SIEMPRE: es
+          * la mitad del recorrido (atrás arriba, siguiente abajo) y saltarse un
+          * post es una decisión válida, no un error. Fuera de la tanda se queda
+          * como estaba: el siguiente pendiente de la marca, ya publicado este. */}
+        {enHoy ? (
+          <>
+            {pista}
+            {siguienteHoy ? (
+              <Link
+                className="btn btn--next"
+                href={`/${siguienteHoy.brand}/${siguienteHoy.series}/${siguienteHoy.slug}?d=hoy`}
+                onClick={() => marcarSalidaDesdeHoy(siguienteHoy.id)}
+              >
+                Siguiente: {siguienteHoy.brandName} <Forward size={16} />
+              </Link>
+            ) : (
+              <Link className={`btn ${diaListo ? 'btn--ok' : 'btn--ghost'}`} href="/" onClick={volverAHoy}>
+                {diaListo ? <Check size={16} /> : <Back size={16} />}
+                {diaListo ? 'Listo por hoy' : 'Volver a hoy'}
+              </Link>
+            )}
+          </>
+        ) : published && nextPending ? (
           <Link className="btn btn--ghost" href={`/${nextPending.brand}/${nextPending.series}/${nextPending.slug}`}>
             Siguiente pendiente <Forward size={16} />
           </Link>
-        ) : showHint ? (
-          <p className="hint">
-            {canShareFiles()
-              ? <>Se abre el menú de {isIOS() ? 'iOS' : 'compartir'} → elige <b>Guardar {slides.length} imágenes</b> para que vayan a Fotos.</>
-              : <>Este navegador no puede guardar en Fotos: las {slides.length} fotos se descargan una por una.</>}
-          </p>
-        ) : null}
+        ) : pista}
       </div>
 
       <Sheet open={sheetOpen} onClose={() => setSheetOpen(false)} labelledBy="sheet-title">
