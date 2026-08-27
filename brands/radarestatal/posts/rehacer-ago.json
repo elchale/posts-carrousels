@@ -1,0 +1,52 @@
+{
+  "series": "ago",
+  "brand": "radarestatal",
+  "archivedAt": "2026-08-26",
+  "reason": "retirado para rehacer (el 26 ago cambia de contenido)",
+  "posts": [
+    {
+      "slug": "26-primera-semana",
+      "slides": [
+        {
+          "role": "story",
+          "plate": "cine-10-amanecer",
+          "emoji": "🚀",
+          "h": "Tu primera licitación ya está publicada",
+          "b": "la ruta completa del primerizo"
+        },
+        {
+          "role": "value",
+          "h": "Día 1 y 2: papeles",
+          "b": "· RUC activo y habido\n· RNP inscrito en lo que vendes\n· Sin eso, lo demás es turismo"
+        },
+        {
+          "role": "value",
+          "h": "Día 3: la búsqueda en el SEACE",
+          "b": "· Palabra clave de tu rubro\n· Tu región\n· Valor estimado a tu escala\n· Guarda los 3 que mejor calcen"
+        },
+        {
+          "role": "value",
+          "h": "Día 4 y 5: filtra y entra",
+          "b": "Regístrate como participante en el mejor y presenta tus consultas dentro del plazo."
+        },
+        {
+          "role": "stat",
+          "h": "La primera semana, con «radar», rinde doble",
+          "b": "Radar Estatal (radarestatal.pe) te entrega esos 3 procesos sin que los busques.",
+          "shot": "shot-datos.png"
+        },
+        {
+          "role": "cta",
+          "h": "De cero a participante en cinco días",
+          "b": "Empieza el lunes: radarestatal.pe"
+        }
+      ],
+      "caption": {
+        "ig": "Primera licitación paso a paso: RUC y RNP los días 1 y 2, búsqueda por rubro, región y escala el día 3, registro como participante y consultas los días 4 y 5. La ruta completa del primerizo. Guárdalo para empezar el lunes. Mándaselo a tu proveedor, también le sirve. #licitaciones #mype #SEACE #RNP #peru",
+        "tt": "Tu primera licitación del Estado en 5 días 🗺️ · mándaselo a tu proveedor, también le sirve #licitaciones #mype #SEACE #peru",
+        "fb": "¿Nunca has postulado al Estado? En cinco días hábiles puedes pasar de cero a participante registrado con consultas presentadas: papeles, búsqueda, filtro y entrada. La ruta día por día está en el post. radarestatal.pe"
+      },
+      "alt": "Ruta de cinco días para encontrar y entrar a una primera licitación del Estado siendo MYPE."
+    }
+  ]
+}
