@@ -1,7 +1,7 @@
 {
   "series": "ago",
   "brand": "comehometag",
-  "archivedAt": "2026-08-16",
+  "archivedAt": "2026-08-27",
   "reason": "publicado (carousel_state en Neon)",
   "posts": [
     {
@@ -656,6 +656,45 @@
         "fb": "Mañana es el Día del Niño y los parques revientan de 1 a 3pm. El plan: llegar a las 11, convertir el punto de encuentro en concurso (el primero que responde gana) y salir antes del bajón post-algodón de azúcar. ¿A qué hora salen ustedes?"
       },
       "alt": "Víspera del Día del Niño: punto de encuentro como juego, horarios y salida antes del bajón."
+    },
+    {
+      "slug": "26-cuidar-no-vigilar",
+      "slides": [
+        {
+          "role": "cover",
+          "ugc": "abuelo-puerta.png",
+          "kicker": "DÍA DEL ADULTO MAYOR",
+          "h": "Hay dos formas de cuidar a tu papá",
+          "b": "una lo aleja"
+        },
+        {
+          "role": "value",
+          "h": "Las palabras que cuidan",
+          "b": "Así no: «¿a dónde vas a ir tú solo?»\nAsí sí: «espérame y vamos juntos»"
+        },
+        {
+          "role": "value",
+          "h": "La visita que no es inspección",
+          "b": "Así no: llegar a revisar y corregir\nAsí sí: medicinas y números chequeados en la conversación"
+        },
+        {
+          "role": "value",
+          "h": "Libertad con red, no encierro",
+          "b": "Así no: quitarle la calle «por su bien»\nAsí sí: sus rutas de siempre, con el barrio avisado"
+        },
+        {
+          "role": "stat",
+          "emoji": "💜",
+          "h": "La red invisible se llama QR",
+          "b": "Le ponen ComeHomeTag: tu papá sale como siempre, y quien lo vea desorientado escanea y te llama. comehometag.com"
+        }
+      ],
+      "caption": {
+        "ig": "Día del adulto mayor: hay dos formas de cuidar a tu papá, y una lo aleja. Las palabras que cuidan, la visita que no es inspección, y la libertad con red en vez del encierro. La red invisible es una pulsera con QR de ComeHomeTag (comehometag.com): él sale como siempre, y quien lo vea desorientado escanea y te llama al toque. Guárdalo para la próxima conversación de hermanos, y mándaselo a tus hermanos: esto no se decide solo. #adultomayor #abuelos #alzheimer #familia #peru",
+        "tt": "Hay dos formas de cuidar a tu papá y una lo aleja 🕰 · mándaselo a tus hermanos, esto no se decide solo #adultomayor #abuelos #peru",
+        "fb": "Cuidar no es vigilar: las palabras que acercan, la visita que no es inspección y la libertad con red. La red invisible es una pulsera con QR de ComeHomeTag (comehometag.com): tu papá sale como siempre y quien lo vea desorientado escanea y te llama."
+      },
+      "alt": "Un padre mayor saliendo solo de su casa, y las dos formas de cuidarlo: la que lo aleja y la que lo acerca."
     }
   ]
 }

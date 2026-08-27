@@ -1,424 +1,499 @@
 {
-  "series": "ago",
-  "brand": "qolca",
-  "archivedAt": "2026-08-25",
-  "reason": "no publicado (las fechas 16-25 ago pasaron; se retoma el 26)",
-  "posts": [
+ "series": "ago",
+ "brand": "qolca",
+ "archivedAt": "2026-08-27",
+ "reason": "caducado: no se publico (decision 2026-08-27)",
+ "posts": [
+  {
+   "slug": "16-dia-pico",
+   "slides": [
     {
-      "slug": "16-dia-pico",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "DÍA PICO",
-          "h": "El día que te escriben todos a la vez",
-          "b": "no se improvisa, se gana chat por chat",
-          "emoji": "🚨"
-        },
-        {
-          "role": "value",
-          "h": "Hoy no se inventa nada",
-          "b": "· Plantillas para lo de siempre\n· Turnos como quedaron escritos ayer\n· Lo grande lo atiende una persona, con nombre"
-        },
-        {
-          "role": "value",
-          "h": "El corte de las 9pm decide tu lunes",
-          "b": "· Todo chat con respuesta o acuse\n· Etiqueta al que preguntó y no compró\n· Muchos regalos se compran el lunes",
-          "emoji": "⏰"
-        },
-        {
-          "role": "stat",
-          "h": "Hoy es exactamente el día para el que existe Qolca.",
-          "b": "Automatiza el proceso del día pico: cada interesado queda registrado, lo repetitivo corre solo y lo serio te llega a ti."
-        },
-        {
-          "role": "cta",
-          "h": "Feliz día pico.",
-          "b": "A las 9pm, el corte: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Día del Niño: hoy te escriben todos a la vez 🚨 Hoy no se inventa nada: plantillas, turnos y la cita más rentable del día, el corte de las 9pm que etiqueta a los que preguntaron y no compraron. Guárdalo para las 9pm. Mándaselo a tu equipo, no a tu bandeja. #dianino #ventas #whatsapp #negociosperu",
-        "tt": "El día que te escriben todos a la vez 🚨 el corte de las 9pm decide tu lunes · mándaselo a tu equipo, no a tu bandeja #negociosperu #ventas #whatsapp",
-        "fb": "Llegó el día pico. Hoy no se inventa nada: plantillas para lo repetitivo, turnos como quedaron escritos, un humano para lo grande. Y a las 9pm la cita más rentable del día: etiquetar a los que preguntaron y no compraron. Mañana esa lista trabaja por ti."
-      },
-      "alt": "Portada: hoy te escriben todos a la vez, el día pico se gana chat por chat."
+     "role": "cover",
+     "kicker": "DÍA PICO",
+     "h": "El día que te escriben todos a la vez",
+     "b": "no se improvisa, se gana chat por chat",
+     "emoji": "🚨"
     },
     {
-      "slug": "17-mensaje-del-lunes",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "El que ayer no te compró, hoy te compra",
-          "b": "si le mandas el mensaje del lunes",
-          "emoji": "🛒"
-        },
-        {
-          "role": "value",
-          "h": "Ayer no te compró por mil razones, casi ninguna es «no quiero»",
-          "b": "· Se le hizo tarde\n· Nadie le respondió\n· Lo dejó para después",
-          "emoji": "🥶"
-        },
-        {
-          "role": "value",
-          "h": "El mensaje del lunes, palabra por palabra",
-          "b": "«¿Te quedaste con ganas de [lo que preguntó]? Sigue disponible y hoy sí te atiendo con calma.»"
-        },
-        {
-          "role": "value",
-          "h": "La ventana dura 48 horas",
-          "b": "· Hoy es natural: «ayer fue el día»\n· El jueves ya es spam\n· Manda antes del almuerzo"
-        },
-        {
-          "role": "stat",
-          "h": "Con un CRM, esa lista se arma sola.",
-          "b": "Qolca registra a cada interesado de tu pico y hoy te entrega la lista, o manda el mensaje por ti."
-        },
-        {
-          "role": "cta",
-          "h": "Manda el mensaje del lunes ahora.",
-          "b": "La ventana se cierra mañana: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Seguimiento de ventas: el que ayer no te compró, hoy te compra 🛒 El mensaje del lunes, palabra por palabra, está adentro, y la ventana dura solo 48 horas. Guárdalo para el día después de cada fecha pico. Mándaselo al que contesta tu WhatsApp. #ventas #seguimiento #whatsapp #negociosperu",
-        "tt": "Ayer no te compró, hoy sí 🛒 el mensaje del lunes está adentro · mándaselo al que contesta tu WhatsApp #ventas #negociosperu",
-        "fb": "El que ayer preguntó y no compró sigue queriendo comprar: se le hizo tarde, nadie le respondió, lo dejó para después. Hoy un solo mensaje natural lo recupera, y el texto exacto está adentro. La ventana dura 48 horas."
-      },
-      "alt": "Portada: el que ayer no te compró hoy te compra, si le mandas el mensaje del lunes."
+     "role": "value",
+     "h": "Hoy no se inventa nada",
+     "b": "· Plantillas para lo de siempre\n· Turnos como quedaron escritos ayer\n· Lo grande lo atiende una persona, con nombre"
     },
     {
-      "slug": "18-vendedor-se-va",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "¿Los clientes son del vendedor o del negocio?",
-          "b": "mira a qué celular te escriben",
-          "emoji": "😱"
-        },
-        {
-          "role": "value",
-          "h": "Si escriben al personal, ya sabes la respuesta",
-          "b": "· El cliente guardó ese número, no tu marca\n· El día que el vendedor se va, la relación se muda con él"
-        },
-        {
-          "role": "value",
-          "h": "La regla del número único",
-          "b": "· Toda venta entra por el número del negocio\n· WhatsApp Business se conecta en varios equipos a la vez\n· El personal queda para la familia"
-        },
-        {
-          "role": "value",
-          "h": "La mudanza, sin drama",
-          "b": "· Lo nuevo, solo al número del negocio\n· A los antiguos: «guárdanos aquí, te atendemos mejor»\n· La cartera vuelve a casa sola"
-        },
-        {
-          "role": "stat",
-          "h": "Con un CRM, ninguna renuncia se lleva un chat.",
-          "b": "Qolca construye CRMs a la medida: cada chat, acuerdo y cliente queda a nombre del negocio."
-        },
-        {
-          "role": "cta",
-          "h": "Instala el número único esta semana.",
-          "b": "La cartera es del negocio: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "¿Los clientes son del vendedor o del negocio? La respuesta está en el número al que escriben. La regla del número único y la mudanza sin drama, paso a paso. Guárdalo para ordenar tus números esta semana. Mándaselo a tu socio antes del lunes. #crm #ventas #negociosperu #clientes",
-        "tt": "¿A qué número te escriben tus clientes? 😱 ahí está el problema · mándaselo a tu socio antes del lunes #ventas #crm #negociosperu",
-        "fb": "Cuando los clientes escriben al celular personal del vendedor, la cartera tiene dueño equivocado. La regla del número único: todo entra por el número del negocio, WhatsApp Business se conecta en varios equipos y el historial se queda en casa."
-      },
-      "alt": "Portada: ¿los clientes son del vendedor o del negocio?, la regla del número único."
+     "role": "value",
+     "h": "El corte de las 9pm decide tu lunes",
+     "b": "· Todo chat con respuesta o acuse\n· Etiqueta al que preguntó y no compró\n· Muchos regalos se compran el lunes",
+     "emoji": "⏰"
     },
     {
-      "slug": "19-tres-estados",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Abres tu WhatsApp y no sabes por dónde empezar",
-          "b": "a tu bandeja no le falta memoria, le faltan estados",
-          "emoji": "🙉"
-        },
-        {
-          "role": "value",
-          "h": "Solo existen tres estados",
-          "b": "· NUEVO: nadie lo tocó\n· COTIZADO: espera respuesta, con fecha\n· CERRADO: ganado o archivado con motivo"
-        },
-        {
-          "role": "value",
-          "h": "Se monta con etiquetas de WhatsApp en 15 minutos",
-          "b": "· Crea las 3 etiquetas\n· Recorre tu bandeja una sola vez\n· Duele media hora, y ya"
-        },
-        {
-          "role": "value",
-          "h": "Un chat sin estado es un chat perdido",
-          "b": "En cada repaso, COTIZADO se mira primero: ahí viven las ventas a medio cerrar."
-        },
-        {
-          "role": "stat",
-          "h": "Un embudo que se ordena solo.",
-          "b": "Qolca convierte esas etiquetas en un embudo de verdad: cada conversación de tu chat entra, se clasifica y avanza sola."
-        },
-        {
-          "role": "cta",
-          "h": "Crea las 3 etiquetas hoy.",
-          "b": "Y mañana abres sabiendo por dónde: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Orden en WhatsApp: abres tu bandeja y no sabes por dónde empezar 🙉 Tres estados y nada más: NUEVO, COTIZADO con fecha, CERRADO con motivo. Se monta con etiquetas en 15 minutos. Guárdalo para tu limpieza de bandeja. Mándaselo a tu vendedor y que te diga qué haría. #whatsapp #ventas #organizacion #negociosperu #crm",
-        "tt": "Tu bandeja no necesita memoria, necesita 3 estados 🙉 · mándaselo a tu vendedor y que te diga qué haría #whatsapp #ventas #negociosperu",
-        "fb": "Abres tu WhatsApp y no sabes por dónde empezar. A tu bandeja no le falta memoria: le faltan estados. NUEVO, COTIZADO con fecha, CERRADO con motivo. Se monta en 15 minutos con etiquetas y desde mañana abres sabiendo por dónde."
-      },
-      "alt": "Portada: abres tu WhatsApp y no sabes por dónde empezar, a tu bandeja le faltan estados."
+     "role": "stat",
+     "h": "Hoy es exactamente el día para el que existe Qolca.",
+     "b": "Automatiza el proceso del día pico: cada interesado queda registrado, lo repetitivo corre solo y lo serio te llega a ti."
     },
     {
-      "slug": "20-cliente-de-mayo",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Escríbele hoy al cliente que te compró en mayo",
-          "b": "hay una forma que da roche y una que vende",
-          "emoji": "📞"
-        },
-        {
-          "role": "value",
-          "h": "La excusa real, no el saludo vacío",
-          "b": "Así no: «hola, ¿cómo estás?» de la nada\nAsí sí: «llegó algo que combina con lo que te llevaste»"
-        },
-        {
-          "role": "value",
-          "h": "Sin pedir perdón por existir",
-          "b": "Así no: «disculpa que te moleste...»\nAsí sí: directo, corto y con motivo"
-        },
-        {
-          "role": "value",
-          "h": "El punto dulce: 90 días",
-          "b": "Así no: reaparecer al medio año, ya te olvidó\nAsí sí: a los 3 meses todavía eres buen recuerdo"
-        },
-        {
-          "role": "stat",
-          "h": "Un CRM convierte los 90 días en una alarma.",
-          "b": "Qolca arma tu base de clientes con ciclos y fechas: cuando a alguien le toca, el sistema te avisa."
-        },
-        {
-          "role": "cta",
-          "h": "Mándale ese mensaje al de mayo.",
-          "b": "Con excusa real: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Clientes antiguos: escríbele hoy al que te compró en mayo 📞 Ya está en el punto dulce de los 90 días. Excusa real, sin pedir perdón, directo: los «así no, así sí» están adentro. Guárdalo para tu próxima reactivación. Mándaselo a quien atiende cuando tú no estás. #clientes #ventas #whatsapp #negociosperu",
-        "tt": "Escríbele al que te compró en mayo 📞 sin dar roche · mándaselo a quien atiende cuando tú no estás #ventas #clientes #negociosperu",
-        "fb": "«Hola, ¿cómo estás?» de la nada da roche. «Llegó algo que combina con lo que te llevaste» abre conversación. El que te compró en mayo está en el punto dulce de los 90 días: escríbele hoy, con excusa real y sin pedir perdón."
-      },
-      "alt": "Portada: escríbele hoy al cliente que te compró en mayo, hay una forma que da roche y una que vende."
-    },
-    {
-      "slug": "21-boda-taylor",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "¿Organizarías la boda de Taylor Swift por WhatsApp?",
-          "b": "Mil invitados, un chat",
-          "emoji": "💍",
-          "img": "evento-taylor.jpg"
-        },
-        {
-          "role": "value",
-          "h": "Regla 1: un chat por cliente, no por conversación",
-          "b": "· Todo del mismo cliente, en un solo hilo\n· Fecha, monto y dirección fijados en el chat"
-        },
-        {
-          "role": "value",
-          "h": "Regla 2: lo acordado se confirma por escrito al toque",
-          "b": "«Quedamos: sábado 20, 4pm, 80 personas. ¿Correcto?» Si no está escrito, no existe."
-        },
-        {
-          "role": "value",
-          "h": "Regla 3: los pendientes viven en una lista, no en tu cabeza",
-          "b": "· ¿Quedó algo por hacer?\n· Va a la ficha del cliente, con fecha\n· La cabeza es para atender, no para almacenar"
-        },
-        {
-          "role": "stat",
-          "h": "Coordinar sin perder nada: eso construimos.",
-          "b": "Qolca arma sistemas donde cada cliente tiene su ficha, sus acuerdos y sus pendientes con fecha. Bodas, entregas, visitas."
-        },
-        {
-          "role": "cta",
-          "h": "Fija los datos importantes de tus 5 chats de hoy.",
-          "b": "Ni Taylor perdería un detalle así: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Coordinación por WhatsApp: ¿organizarías la boda de Taylor Swift por un chat? 💍 Mil invitados, un solo hilo. Las 3 reglas para que ningún acuerdo se pierda: un chat por cliente, todo por escrito, pendientes con fecha. Guárdalo para tu próxima coordinación grande. Mándaselo al que se queda a cargo el fin de semana. #whatsapp #organizacion #eventos #negociosperu",
-        "tt": "¿Organizarías la boda del año por WhatsApp? 💍 las 3 reglas del caos cero · mándaselo al que se queda a cargo el fin de semana #negociosperu #whatsapp #bodas",
-        "fb": "La boda del año tuvo mil invitados y se coordinó por chat. La tuya de cada sábado tiene 80 y el mismo riesgo: un dato perdido y se cae todo. Las 3 reglas: un hilo por cliente, todo acuerdo por escrito, pendientes con fecha. Sirven para bodas, entregas y visitas."
-      },
-      "alt": "Portada: ¿organizarías la boda de Taylor Swift por WhatsApp?, mil invitados, un chat."
-    },
-    {
-      "slug": "22-mensaje-ausencia",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Tu mensaje de ausencia miente",
-          "b": "«tu mensaje es importante para nosotros»",
-          "emoji": "🌙"
-        },
-        {
-          "role": "value",
-          "h": "La verdad vende más que la promesa",
-          "b": "Así no: «tu mensaje es importante para nosotros»\nAsí sí: horario real y una promesa que sí cumples"
-        },
-        {
-          "role": "value",
-          "h": "El mensaje que sí vende",
-          "b": "«Atendemos de 9 a 7. Deja tu pedido y mañana te respondo primero. Estamos en [dirección], catálogo en [link].»"
-        },
-        {
-          "role": "value",
-          "h": "La promesa se cumple al abrir",
-          "b": "Así no: responder «cuando se pueda»\nAsí sí: los de anoche, primeros en la mañana"
-        },
-        {
-          "role": "stat",
-          "h": "Y de noche, el pedido se registra solo.",
-          "b": "Qolca automatiza lo que entra de madrugada: queda anotado, con su detalle completo y su turno para primera hora."
-        },
-        {
-          "role": "cta",
-          "h": "Que tu WhatsApp diga la verdad esta noche.",
-          "b": "qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Mensaje de ausencia de WhatsApp: el tuyo miente 🌙 «Tu mensaje es importante para nosotros» no vende. El que sí vende está adentro, para copiar tal cual: horario real, lo esencial servido y una promesa que se cumple al abrir. Guárdalo para esta noche. Mándaselo al del negocio de al lado, le pasa igual. #whatsapp #negocios #ventas #atencionalcliente #peru",
-        "tt": "Tu mensaje de ausencia miente 🌙 el que sí vende está adentro · mándaselo al del negocio de al lado, le pasa igual #whatsapp #negocios #peru",
-        "fb": "«Tu mensaje es importante para nosotros» es la mentira más repetida del WhatsApp peruano. El mensaje de ausencia que sí vende dice la verdad: horario real, lo esencial servido y respuesta a primera hora. El texto completo, listo para copiar, está adentro."
-      },
-      "alt": "Portada: tu mensaje de ausencia miente, «tu mensaje es importante para nosotros»."
-    },
-    {
-      "slug": "23-cliente-11pm",
-      "slides": [
-        {
-          "role": "story",
-          "h": "¿Y si tu cliente te escribe hoy a las 11pm?",
-          "b": "de noche escriben los decididos",
-          "plate": "cine-01-ventana",
-          "emoji": "⏰"
-        },
-        {
-          "role": "value",
-          "h": "El chat de las 11pm no es curiosidad",
-          "b": "· Ya comparó todo el día\n· Ya convenció a la esposa\n· Está eligiendo a quién comprarle mañana"
-        },
-        {
-          "role": "value",
-          "h": "Pasa en todos los rubros a la vez",
-          "b": "· El papá que vio la camioneta\n· La pareja que arma su boda el domingo\n· La familia que encontró el depa a las 10"
-        },
-        {
-          "role": "value",
-          "h": "La respuesta nocturna que te hace ganar la mañana",
-          "b": "«¡Gracias por escribir! Mañana temprano te llama Renzo con todo listo.» A las 7am, tú eres el plan.",
-          "emoji": "🙌"
-        },
-        {
-          "role": "stat",
-          "h": "La llamada de mañana se agenda sola.",
-          "b": "Qolca automatiza el proceso nocturno: el dato de las 11pm queda guardado y la llamada amanece puesta en tu agenda."
-        },
-        {
-          "role": "cta",
-          "h": "Revisa qué recibió anoche el de las 11pm.",
-          "b": "La noche también vende: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Leads nocturnos: ¿y si tu cliente te escribe hoy a las 11pm? ⏰ De noche escriben los decididos: ya compararon, ya sacaron cuentas. La respuesta nocturna que agenda tu mañana está adentro, tal cual se manda. Guárdalo para el chat de esta noche. Mándaselo a quien atiende cuando tú no estás. #ventas #whatsapp #leads #negociosperu",
-        "tt": "El que te escribe a las 11pm ya decidió comprar ⏰ ¿quién le contesta? · mándaselo a quien atiende cuando tú no estás #ventas #negociosperu",
-        "fb": "El mensaje de las 11pm es de alguien que comparó todo el día y está eligiendo a quién comprarle mañana. Pasa con camionetas, con bodas, con departamentos. Si esta noche recibe una respuesta con hora concreta, amaneces ganando. Mándaselo a quien atiende cuando tú no estás."
-      },
-      "alt": "Portada nocturna: ¿y si tu cliente te escribe hoy a las 11pm?, de noche escriben los decididos."
-    },
-    {
-      "slug": "24-cementerio-findes",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Tu bandeja del lunes es un cementerio de findes",
-          "b": "20 minutos la resucitan",
-          "emoji": "🪦"
-        },
-        {
-          "role": "value",
-          "h": "El repaso del lunes: 3 pasadas, 20 minutos",
-          "b": "· Pasada 1: responde todo lo nuevo\n· Pasada 2: los cotizados vencidos\n· Pasada 3: cierra o archiva lo muerto"
-        },
-        {
-          "role": "value",
-          "h": "Archivar también es vender",
-          "b": "· «Cerrado: compró en otro lado»\n· «Recontactar en octubre»\n· La bandeja infinita es donde todo se pierde"
-        },
-        {
-          "role": "stat",
-          "h": "O un lunes donde no quedó nada del finde.",
-          "b": "Los negocios con Qolca llegan al lunes con el finde ya procesado: cada pedido registrado y cada seguimiento agendado."
-        },
-        {
-          "role": "cta",
-          "h": "Haz las 3 pasadas ahora.",
-          "b": "Resucita tu finde: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Chats del fin de semana: tu bandeja del lunes es un cementerio de findes ⚰️ Las 3 pasadas de 20 minutos que la resucitan, y por qué archivar con motivo también es vender. Guárdalo para cada lunes. Mándaselo al que contesta tu WhatsApp. #ventas #whatsapp #organizacion #negociosperu",
-        "tt": "Lunes: cementerio de chats del finde ⚰️ 20 minutos lo arreglan · mándaselo al que contesta tu WhatsApp #negociosperu #ventas",
-        "fb": "Cada lunes tu bandeja amanece llena de consultas del finde que nadie tocó. No están muertas: se están enfriando. Las 3 pasadas de 20 minutos: tocar lo nuevo, atender los vencidos, cerrar o archivar con motivo."
-      },
-      "alt": "Portada: tu bandeja del lunes es un cementerio de findes, 20 minutos la resucitan."
-    },
-    {
-      "slug": "25-cotizacion-regalada",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Una cotización sin seguimiento es plata regalada",
-          "b": "regalada a tu competencia",
-          "emoji": "💸"
-        },
-        {
-          "role": "value",
-          "h": "Toda cotización nace con su fecha de seguimiento",
-          "b": "· 24 a 48 horas para compras chicas\n· Una semana para decisiones grandes\n· Nunca «cuando me acuerde»"
-        },
-        {
-          "role": "value",
-          "h": "A las 24 horas, con una razón nueva",
-          "b": "«¿Pudiste revisarlo? Te aviso porque queda uno y llega otro color.» El precio repetido no cuenta."
-        },
-        {
-          "role": "value",
-          "h": "A la tercera sin respuesta, se archiva con dignidad",
-          "b": "«Te dejo de escribir para no molestar, cualquier cosa aquí estoy.» Cerrada con motivo y fecha de reintento."
-        },
-        {
-          "role": "stat",
-          "h": "Que ninguna cotización muera sin pelear.",
-          "b": "Qolca registra cada cotización tuya con su fecha y dispara los seguimientos, con tu voz."
-        },
-        {
-          "role": "cta",
-          "h": "Ponle fecha a tus cotizaciones abiertas hoy.",
-          "b": "Deja de regalar cierres: qolca.org"
-        }
-      ],
-      "caption": {
-        "ig": "Cotizaciones: una sin seguimiento es plata regalada a tu competencia 💸 Toda cotización nace con fecha, el mensaje de las 24 horas va con razón nueva, y a la tercera sin respuesta se archiva con dignidad. Los textos exactos están adentro. Guárdalo para tu próxima cotización. Mándaselo a tu socio antes del lunes. #ventas #cotizaciones #seguimiento #negociosperu #crm",
-        "tt": "Cotizas y no persigues: trabajas gratis 💸 el mensaje de las 24 horas · mándaselo a tu socio antes del lunes #ventas #negociosperu",
-        "fb": "Armaste el precio, respondiste dudas, mandaste la cotización… y ahí quedó. Toda cotización nace con fecha de seguimiento, se persigue con una razón nueva y a la tercera sin respuesta se archiva con dignidad. Los mensajes exactos están adentro."
-      },
-      "alt": "Portada: una cotización sin seguimiento es plata regalada, regalada a tu competencia."
+     "role": "cta",
+     "h": "Feliz día pico.",
+     "b": "A las 9pm, el corte: qolca.org"
     }
-  ]
+   ],
+   "caption": {
+    "ig": "Día del Niño: hoy te escriben todos a la vez 🚨 Hoy no se inventa nada: plantillas, turnos y la cita más rentable del día, el corte de las 9pm que etiqueta a los que preguntaron y no compraron. Guárdalo para las 9pm. Mándaselo a tu equipo, no a tu bandeja. #dianino #ventas #whatsapp #negociosperu",
+    "tt": "El día que te escriben todos a la vez 🚨 el corte de las 9pm decide tu lunes · mándaselo a tu equipo, no a tu bandeja #negociosperu #ventas #whatsapp",
+    "fb": "Llegó el día pico. Hoy no se inventa nada: plantillas para lo repetitivo, turnos como quedaron escritos, un humano para lo grande. Y a las 9pm la cita más rentable del día: etiquetar a los que preguntaron y no compraron. Mañana esa lista trabaja por ti."
+   },
+   "alt": "Portada: hoy te escriben todos a la vez, el día pico se gana chat por chat."
+  },
+  {
+   "slug": "17-mensaje-del-lunes",
+   "slides": [
+    {
+     "role": "cover",
+     "h": "El que ayer no te compró, hoy te compra",
+     "b": "si le mandas el mensaje del lunes",
+     "emoji": "🛒"
+    },
+    {
+     "role": "value",
+     "h": "Ayer no te compró por mil razones, casi ninguna es «no quiero»",
+     "b": "· Se le hizo tarde\n· Nadie le respondió\n· Lo dejó para después",
+     "emoji": "🥶"
+    },
+    {
+     "role": "value",
+     "h": "El mensaje del lunes, palabra por palabra",
+     "b": "«¿Te quedaste con ganas de [lo que preguntó]? Sigue disponible y hoy sí te atiendo con calma.»"
+    },
+    {
+     "role": "value",
+     "h": "La ventana dura 48 horas",
+     "b": "· Hoy es natural: «ayer fue el día»\n· El jueves ya es spam\n· Manda antes del almuerzo"
+    },
+    {
+     "role": "stat",
+     "h": "Con un CRM, esa lista se arma sola.",
+     "b": "Qolca registra a cada interesado de tu pico y hoy te entrega la lista, o manda el mensaje por ti."
+    },
+    {
+     "role": "cta",
+     "h": "Manda el mensaje del lunes ahora.",
+     "b": "La ventana se cierra mañana: qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "Seguimiento de ventas: el que ayer no te compró, hoy te compra 🛒 El mensaje del lunes, palabra por palabra, está adentro, y la ventana dura solo 48 horas. Guárdalo para el día después de cada fecha pico. Mándaselo al que contesta tu WhatsApp. #ventas #seguimiento #whatsapp #negociosperu",
+    "tt": "Ayer no te compró, hoy sí 🛒 el mensaje del lunes está adentro · mándaselo al que contesta tu WhatsApp #ventas #negociosperu",
+    "fb": "El que ayer preguntó y no compró sigue queriendo comprar: se le hizo tarde, nadie le respondió, lo dejó para después. Hoy un solo mensaje natural lo recupera, y el texto exacto está adentro. La ventana dura 48 horas."
+   },
+   "alt": "Portada: el que ayer no te compró hoy te compra, si le mandas el mensaje del lunes."
+  },
+  {
+   "slug": "18-vendedor-se-va",
+   "slides": [
+    {
+     "role": "cover",
+     "h": "¿Los clientes son del vendedor o del negocio?",
+     "b": "mira a qué celular te escriben",
+     "emoji": "😱"
+    },
+    {
+     "role": "value",
+     "h": "Si escriben al personal, ya sabes la respuesta",
+     "b": "· El cliente guardó ese número, no tu marca\n· El día que el vendedor se va, la relación se muda con él"
+    },
+    {
+     "role": "value",
+     "h": "La regla del número único",
+     "b": "· Toda venta entra por el número del negocio\n· WhatsApp Business se conecta en varios equipos a la vez\n· El personal queda para la familia"
+    },
+    {
+     "role": "value",
+     "h": "La mudanza, sin drama",
+     "b": "· Lo nuevo, solo al número del negocio\n· A los antiguos: «guárdanos aquí, te atendemos mejor»\n· La cartera vuelve a casa sola"
+    },
+    {
+     "role": "stat",
+     "h": "Con un CRM, ninguna renuncia se lleva un chat.",
+     "b": "Qolca construye CRMs a la medida: cada chat, acuerdo y cliente queda a nombre del negocio."
+    },
+    {
+     "role": "cta",
+     "h": "Instala el número único esta semana.",
+     "b": "La cartera es del negocio: qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "¿Los clientes son del vendedor o del negocio? La respuesta está en el número al que escriben. La regla del número único y la mudanza sin drama, paso a paso. Guárdalo para ordenar tus números esta semana. Mándaselo a tu socio antes del lunes. #crm #ventas #negociosperu #clientes",
+    "tt": "¿A qué número te escriben tus clientes? 😱 ahí está el problema · mándaselo a tu socio antes del lunes #ventas #crm #negociosperu",
+    "fb": "Cuando los clientes escriben al celular personal del vendedor, la cartera tiene dueño equivocado. La regla del número único: todo entra por el número del negocio, WhatsApp Business se conecta en varios equipos y el historial se queda en casa."
+   },
+   "alt": "Portada: ¿los clientes son del vendedor o del negocio?, la regla del número único."
+  },
+  {
+   "slug": "19-tres-estados",
+   "slides": [
+    {
+     "role": "cover",
+     "h": "Abres tu WhatsApp y no sabes por dónde empezar",
+     "b": "a tu bandeja no le falta memoria, le faltan estados",
+     "emoji": "🙉"
+    },
+    {
+     "role": "value",
+     "h": "Solo existen tres estados",
+     "b": "· NUEVO: nadie lo tocó\n· COTIZADO: espera respuesta, con fecha\n· CERRADO: ganado o archivado con motivo"
+    },
+    {
+     "role": "value",
+     "h": "Se monta con etiquetas de WhatsApp en 15 minutos",
+     "b": "· Crea las 3 etiquetas\n· Recorre tu bandeja una sola vez\n· Duele media hora, y ya"
+    },
+    {
+     "role": "value",
+     "h": "Un chat sin estado es un chat perdido",
+     "b": "En cada repaso, COTIZADO se mira primero: ahí viven las ventas a medio cerrar."
+    },
+    {
+     "role": "stat",
+     "h": "Un embudo que se ordena solo.",
+     "b": "Qolca convierte esas etiquetas en un embudo de verdad: cada conversación de tu chat entra, se clasifica y avanza sola."
+    },
+    {
+     "role": "cta",
+     "h": "Crea las 3 etiquetas hoy.",
+     "b": "Y mañana abres sabiendo por dónde: qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "Orden en WhatsApp: abres tu bandeja y no sabes por dónde empezar 🙉 Tres estados y nada más: NUEVO, COTIZADO con fecha, CERRADO con motivo. Se monta con etiquetas en 15 minutos. Guárdalo para tu limpieza de bandeja. Mándaselo a tu vendedor y que te diga qué haría. #whatsapp #ventas #organizacion #negociosperu #crm",
+    "tt": "Tu bandeja no necesita memoria, necesita 3 estados 🙉 · mándaselo a tu vendedor y que te diga qué haría #whatsapp #ventas #negociosperu",
+    "fb": "Abres tu WhatsApp y no sabes por dónde empezar. A tu bandeja no le falta memoria: le faltan estados. NUEVO, COTIZADO con fecha, CERRADO con motivo. Se monta en 15 minutos con etiquetas y desde mañana abres sabiendo por dónde."
+   },
+   "alt": "Portada: abres tu WhatsApp y no sabes por dónde empezar, a tu bandeja le faltan estados."
+  },
+  {
+   "slug": "20-cliente-de-mayo",
+   "slides": [
+    {
+     "role": "cover",
+     "h": "Escríbele hoy al cliente que te compró en mayo",
+     "b": "hay una forma que da roche y una que vende",
+     "emoji": "📞"
+    },
+    {
+     "role": "value",
+     "h": "La excusa real, no el saludo vacío",
+     "b": "Así no: «hola, ¿cómo estás?» de la nada\nAsí sí: «llegó algo que combina con lo que te llevaste»"
+    },
+    {
+     "role": "value",
+     "h": "Sin pedir perdón por existir",
+     "b": "Así no: «disculpa que te moleste...»\nAsí sí: directo, corto y con motivo"
+    },
+    {
+     "role": "value",
+     "h": "El punto dulce: 90 días",
+     "b": "Así no: reaparecer al medio año, ya te olvidó\nAsí sí: a los 3 meses todavía eres buen recuerdo"
+    },
+    {
+     "role": "stat",
+     "h": "Un CRM convierte los 90 días en una alarma.",
+     "b": "Qolca arma tu base de clientes con ciclos y fechas: cuando a alguien le toca, el sistema te avisa."
+    },
+    {
+     "role": "cta",
+     "h": "Mándale ese mensaje al de mayo.",
+     "b": "Con excusa real: qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "Clientes antiguos: escríbele hoy al que te compró en mayo 📞 Ya está en el punto dulce de los 90 días. Excusa real, sin pedir perdón, directo: los «así no, así sí» están adentro. Guárdalo para tu próxima reactivación. Mándaselo a quien atiende cuando tú no estás. #clientes #ventas #whatsapp #negociosperu",
+    "tt": "Escríbele al que te compró en mayo 📞 sin dar roche · mándaselo a quien atiende cuando tú no estás #ventas #clientes #negociosperu",
+    "fb": "«Hola, ¿cómo estás?» de la nada da roche. «Llegó algo que combina con lo que te llevaste» abre conversación. El que te compró en mayo está en el punto dulce de los 90 días: escríbele hoy, con excusa real y sin pedir perdón."
+   },
+   "alt": "Portada: escríbele hoy al cliente que te compró en mayo, hay una forma que da roche y una que vende."
+  },
+  {
+   "slug": "21-boda-taylor",
+   "slides": [
+    {
+     "role": "cover",
+     "h": "¿Organizarías la boda de Taylor Swift por WhatsApp?",
+     "b": "Mil invitados, un chat",
+     "emoji": "💍",
+     "img": "evento-taylor.jpg"
+    },
+    {
+     "role": "value",
+     "h": "Regla 1: un chat por cliente, no por conversación",
+     "b": "· Todo del mismo cliente, en un solo hilo\n· Fecha, monto y dirección fijados en el chat"
+    },
+    {
+     "role": "value",
+     "h": "Regla 2: lo acordado se confirma por escrito al toque",
+     "b": "«Quedamos: sábado 20, 4pm, 80 personas. ¿Correcto?» Si no está escrito, no existe."
+    },
+    {
+     "role": "value",
+     "h": "Regla 3: los pendientes viven en una lista, no en tu cabeza",
+     "b": "· ¿Quedó algo por hacer?\n· Va a la ficha del cliente, con fecha\n· La cabeza es para atender, no para almacenar"
+    },
+    {
+     "role": "stat",
+     "h": "Coordinar sin perder nada: eso construimos.",
+     "b": "Qolca arma sistemas donde cada cliente tiene su ficha, sus acuerdos y sus pendientes con fecha. Bodas, entregas, visitas."
+    },
+    {
+     "role": "cta",
+     "h": "Fija los datos importantes de tus 5 chats de hoy.",
+     "b": "Ni Taylor perdería un detalle así: qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "Coordinación por WhatsApp: ¿organizarías la boda de Taylor Swift por un chat? 💍 Mil invitados, un solo hilo. Las 3 reglas para que ningún acuerdo se pierda: un chat por cliente, todo por escrito, pendientes con fecha. Guárdalo para tu próxima coordinación grande. Mándaselo al que se queda a cargo el fin de semana. #whatsapp #organizacion #eventos #negociosperu",
+    "tt": "¿Organizarías la boda del año por WhatsApp? 💍 las 3 reglas del caos cero · mándaselo al que se queda a cargo el fin de semana #negociosperu #whatsapp #bodas",
+    "fb": "La boda del año tuvo mil invitados y se coordinó por chat. La tuya de cada sábado tiene 80 y el mismo riesgo: un dato perdido y se cae todo. Las 3 reglas: un hilo por cliente, todo acuerdo por escrito, pendientes con fecha. Sirven para bodas, entregas y visitas."
+   },
+   "alt": "Portada: ¿organizarías la boda de Taylor Swift por WhatsApp?, mil invitados, un chat."
+  },
+  {
+   "slug": "22-mensaje-ausencia",
+   "slides": [
+    {
+     "role": "cover",
+     "h": "Tu mensaje de ausencia miente",
+     "b": "«tu mensaje es importante para nosotros»",
+     "emoji": "🌙"
+    },
+    {
+     "role": "value",
+     "h": "La verdad vende más que la promesa",
+     "b": "Así no: «tu mensaje es importante para nosotros»\nAsí sí: horario real y una promesa que sí cumples"
+    },
+    {
+     "role": "value",
+     "h": "El mensaje que sí vende",
+     "b": "«Atendemos de 9 a 7. Deja tu pedido y mañana te respondo primero. Estamos en [dirección], catálogo en [link].»"
+    },
+    {
+     "role": "value",
+     "h": "La promesa se cumple al abrir",
+     "b": "Así no: responder «cuando se pueda»\nAsí sí: los de anoche, primeros en la mañana"
+    },
+    {
+     "role": "stat",
+     "h": "Y de noche, el pedido se registra solo.",
+     "b": "Qolca automatiza lo que entra de madrugada: queda anotado, con su detalle completo y su turno para primera hora."
+    },
+    {
+     "role": "cta",
+     "h": "Que tu WhatsApp diga la verdad esta noche.",
+     "b": "qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "Mensaje de ausencia de WhatsApp: el tuyo miente 🌙 «Tu mensaje es importante para nosotros» no vende. El que sí vende está adentro, para copiar tal cual: horario real, lo esencial servido y una promesa que se cumple al abrir. Guárdalo para esta noche. Mándaselo al del negocio de al lado, le pasa igual. #whatsapp #negocios #ventas #atencionalcliente #peru",
+    "tt": "Tu mensaje de ausencia miente 🌙 el que sí vende está adentro · mándaselo al del negocio de al lado, le pasa igual #whatsapp #negocios #peru",
+    "fb": "«Tu mensaje es importante para nosotros» es la mentira más repetida del WhatsApp peruano. El mensaje de ausencia que sí vende dice la verdad: horario real, lo esencial servido y respuesta a primera hora. El texto completo, listo para copiar, está adentro."
+   },
+   "alt": "Portada: tu mensaje de ausencia miente, «tu mensaje es importante para nosotros»."
+  },
+  {
+   "slug": "23-cliente-11pm",
+   "slides": [
+    {
+     "role": "story",
+     "h": "¿Y si tu cliente te escribe hoy a las 11pm?",
+     "b": "de noche escriben los decididos",
+     "plate": "cine-01-ventana",
+     "emoji": "⏰"
+    },
+    {
+     "role": "value",
+     "h": "El chat de las 11pm no es curiosidad",
+     "b": "· Ya comparó todo el día\n· Ya convenció a la esposa\n· Está eligiendo a quién comprarle mañana"
+    },
+    {
+     "role": "value",
+     "h": "Pasa en todos los rubros a la vez",
+     "b": "· El papá que vio la camioneta\n· La pareja que arma su boda el domingo\n· La familia que encontró el depa a las 10"
+    },
+    {
+     "role": "value",
+     "h": "La respuesta nocturna que te hace ganar la mañana",
+     "b": "«¡Gracias por escribir! Mañana temprano te llama Renzo con todo listo.» A las 7am, tú eres el plan.",
+     "emoji": "🙌"
+    },
+    {
+     "role": "stat",
+     "h": "La llamada de mañana se agenda sola.",
+     "b": "Qolca automatiza el proceso nocturno: el dato de las 11pm queda guardado y la llamada amanece puesta en tu agenda."
+    },
+    {
+     "role": "cta",
+     "h": "Revisa qué recibió anoche el de las 11pm.",
+     "b": "La noche también vende: qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "Leads nocturnos: ¿y si tu cliente te escribe hoy a las 11pm? ⏰ De noche escriben los decididos: ya compararon, ya sacaron cuentas. La respuesta nocturna que agenda tu mañana está adentro, tal cual se manda. Guárdalo para el chat de esta noche. Mándaselo a quien atiende cuando tú no estás. #ventas #whatsapp #leads #negociosperu",
+    "tt": "El que te escribe a las 11pm ya decidió comprar ⏰ ¿quién le contesta? · mándaselo a quien atiende cuando tú no estás #ventas #negociosperu",
+    "fb": "El mensaje de las 11pm es de alguien que comparó todo el día y está eligiendo a quién comprarle mañana. Pasa con camionetas, con bodas, con departamentos. Si esta noche recibe una respuesta con hora concreta, amaneces ganando. Mándaselo a quien atiende cuando tú no estás."
+   },
+   "alt": "Portada nocturna: ¿y si tu cliente te escribe hoy a las 11pm?, de noche escriben los decididos."
+  },
+  {
+   "slug": "24-cementerio-findes",
+   "slides": [
+    {
+     "role": "cover",
+     "h": "Tu bandeja del lunes es un cementerio de findes",
+     "b": "20 minutos la resucitan",
+     "emoji": "🪦"
+    },
+    {
+     "role": "value",
+     "h": "El repaso del lunes: 3 pasadas, 20 minutos",
+     "b": "· Pasada 1: responde todo lo nuevo\n· Pasada 2: los cotizados vencidos\n· Pasada 3: cierra o archiva lo muerto"
+    },
+    {
+     "role": "value",
+     "h": "Archivar también es vender",
+     "b": "· «Cerrado: compró en otro lado»\n· «Recontactar en octubre»\n· La bandeja infinita es donde todo se pierde"
+    },
+    {
+     "role": "stat",
+     "h": "O un lunes donde no quedó nada del finde.",
+     "b": "Los negocios con Qolca llegan al lunes con el finde ya procesado: cada pedido registrado y cada seguimiento agendado."
+    },
+    {
+     "role": "cta",
+     "h": "Haz las 3 pasadas ahora.",
+     "b": "Resucita tu finde: qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "Chats del fin de semana: tu bandeja del lunes es un cementerio de findes ⚰️ Las 3 pasadas de 20 minutos que la resucitan, y por qué archivar con motivo también es vender. Guárdalo para cada lunes. Mándaselo al que contesta tu WhatsApp. #ventas #whatsapp #organizacion #negociosperu",
+    "tt": "Lunes: cementerio de chats del finde ⚰️ 20 minutos lo arreglan · mándaselo al que contesta tu WhatsApp #negociosperu #ventas",
+    "fb": "Cada lunes tu bandeja amanece llena de consultas del finde que nadie tocó. No están muertas: se están enfriando. Las 3 pasadas de 20 minutos: tocar lo nuevo, atender los vencidos, cerrar o archivar con motivo."
+   },
+   "alt": "Portada: tu bandeja del lunes es un cementerio de findes, 20 minutos la resucitan."
+  },
+  {
+   "slug": "25-cotizacion-regalada",
+   "slides": [
+    {
+     "role": "cover",
+     "h": "Una cotización sin seguimiento es plata regalada",
+     "b": "regalada a tu competencia",
+     "emoji": "💸"
+    },
+    {
+     "role": "value",
+     "h": "Toda cotización nace con su fecha de seguimiento",
+     "b": "· 24 a 48 horas para compras chicas\n· Una semana para decisiones grandes\n· Nunca «cuando me acuerde»"
+    },
+    {
+     "role": "value",
+     "h": "A las 24 horas, con una razón nueva",
+     "b": "«¿Pudiste revisarlo? Te aviso porque queda uno y llega otro color.» El precio repetido no cuenta."
+    },
+    {
+     "role": "value",
+     "h": "A la tercera sin respuesta, se archiva con dignidad",
+     "b": "«Te dejo de escribir para no molestar, cualquier cosa aquí estoy.» Cerrada con motivo y fecha de reintento."
+    },
+    {
+     "role": "stat",
+     "h": "Que ninguna cotización muera sin pelear.",
+     "b": "Qolca registra cada cotización tuya con su fecha y dispara los seguimientos, con tu voz."
+    },
+    {
+     "role": "cta",
+     "h": "Ponle fecha a tus cotizaciones abiertas hoy.",
+     "b": "Deja de regalar cierres: qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "Cotizaciones: una sin seguimiento es plata regalada a tu competencia 💸 Toda cotización nace con fecha, el mensaje de las 24 horas va con razón nueva, y a la tercera sin respuesta se archiva con dignidad. Los textos exactos están adentro. Guárdalo para tu próxima cotización. Mándaselo a tu socio antes del lunes. #ventas #cotizaciones #seguimiento #negociosperu #crm",
+    "tt": "Cotizas y no persigues: trabajas gratis 💸 el mensaje de las 24 horas · mándaselo a tu socio antes del lunes #ventas #negociosperu",
+    "fb": "Armaste el precio, respondiste dudas, mandaste la cotización… y ahí quedó. Toda cotización nace con fecha de seguimiento, se persigue con una razón nueva y a la tercera sin respuesta se archiva con dignidad. Los mensajes exactos están adentro."
+   },
+   "alt": "Portada: una cotización sin seguimiento es plata regalada, regalada a tu competencia."
+  },
+  {
+   "slug": "26-plantones",
+   "slides": [
+    {
+     "role": "cover",
+     "ugc": "cliente-4-teconfirmo.png",
+     "h": "Esta semana te vuelven a dejar plantado",
+     "b": "salvo que mandes estos 2 mensajes"
+    },
+    {
+     "role": "value",
+     "h": "El recordatorio de 24 horas, con pregunta",
+     "b": "«Mañana 4pm te esperamos. ¿Confirmamos?» La pregunta obliga respuesta: el que duda, reagenda hoy."
+    },
+    {
+     "role": "value",
+     "h": "El de 2 horas, solo logística",
+     "b": "«¡Nos vemos a las 4! Te dejo la ubicación: [pin].» Dos mensajes en total, ni uno más."
+    },
+    {
+     "role": "stat",
+     "h": "Recordatorios que se mandan solos",
+     "b": "Qolca agenda cada cita de tu negocio con sus 2 recordatorios y te avisa quién confirmó. qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "¿Otra vez te dejaron plantado? Los 2 mensajes que lo evitan: el recordatorio de 24 horas con pregunta («¿Confirmamos?») y el de 2 horas solo con la logística. Cópialos tal cual. Qolca (qolca.org) agenda cada cita de tu negocio, manda los 2 recordatorios solos y te avisa quién confirmó: visitas, test drives, reuniones. Guárdalo para tus citas de mañana, y mándaselo a tu vendedor y que te diga qué haría. #ventas #negociosperu #citas #automatizacion",
+    "tt": "¿Otra vez te dejaron plantado? 🪑 los 2 mensajes que lo evitan, cópialos · mándaselo a tu vendedor y que te diga qué haría #ventas #negociosperu #automatizacion",
+    "fb": "Los plantones no se arreglan rogando: se arreglan con 2 mensajes. El de 24 horas pregunta «¿Confirmamos?» y obliga respuesta; el de 2 horas solo lleva la logística. Qolca (qolca.org) los manda solos y te avisa quién confirmó."
+   },
+   "alt": "Un cliente que confirma con el pulgar arriba mientras se va, y los 2 mensajes que evitan el plantón."
+  },
+  {
+   "slug": "27-mensaje-feriado",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "PRE-FERIADO",
+     "h": "El domingo es feriado y tu WhatsApp no lo sabe",
+     "b": "cerrar está bien, callarlo no",
+     "emoji": "🚫"
+    },
+    {
+     "role": "value",
+     "h": "El limbo es lo único prohibido",
+     "b": "Así no: nadie responde y nada lo avisa\nAsí sí: descansas, y un mensaje lo dice"
+    },
+    {
+     "role": "value",
+     "h": "El mensaje de feriado, cópialo entero",
+     "b": "«Este domingo descansamos por Santa Rosa. Deja tu pedido: el lunes atendemos primero a los de hoy. Catálogo: [link].»"
+    },
+    {
+     "role": "value",
+     "h": "Si abres, que se sepa",
+     "b": "Así no: atender «por si alguien escribe»\nAsí sí: horario de feriado en bio, post e historia"
+    },
+    {
+     "role": "stat",
+     "h": "O que el domingo corra en automático.",
+     "b": "Qolca automatiza el feriado: cada pedido del domingo queda anotado, confirmado y con su entrega programada."
+    },
+    {
+     "role": "cta",
+     "h": "Deja el mensaje listo desde hoy.",
+     "b": "El domingo, descansa avisado: qolca.org"
+    }
+   ],
+   "caption": {
+    "ig": "Feriado de Santa Rosa: el domingo tu WhatsApp también decide 🚫 Cerrar está bien, callarlo no. El mensaje de feriado listo para copiar y dónde avisar si abres, todo adentro. Guárdalo para el domingo. Mándaselo a quien atiende cuando tú no estás. #santarosa #feriado #whatsapp #negociosperu",
+    "tt": "El domingo es feriado y tu WhatsApp no lo sabe 🚫 el mensaje está adentro · mándaselo a quien atiende cuando tú no estás #feriado #santarosa #negociosperu",
+    "fb": "El domingo es Santa Rosa y hay dos formas dignas de pasarlo: cerrado y avisado, o abierto y anunciado. La única prohibida es el limbo: nadie responde y nada lo dice. El mensaje de feriado completo está adentro."
+   },
+   "alt": "Portada: el domingo es feriado y tu WhatsApp no lo sabe, cerrar está bien, callarlo no."
+  }
+ ]
 }
