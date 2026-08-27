@@ -8,6 +8,7 @@ Deterministic; safe to re-run (full overwrite of plates_graded).
 """
 from __future__ import annotations
 
+import sys
 from pathlib import Path
 
 import numpy as np
@@ -200,8 +201,64 @@ DIP = dict(
     cine=lambda a: scrim(top_scrim(splittone(desat(a, 0.08), "#07152f", "#a9c8f2", 0.30), 0.18, 0.35), 0.42, 0.74),
 )
 
+CHF = dict(
+    # Cuenta afiliada A (affiliate/ACCOUNT-A-FINDS.md). Marca LIGHT y CALIDA:
+    # paper #F7F3EA, ink #17181C, ambar #F5A400, sub #5A5648. Es la paleta del
+    # valor barato honesto — papel de bolsa, no de imprenta fina — y por eso el
+    # blanco va sucio (crema) y no azulado: contra Propaga la separa que aqui no
+    # hay rojo, y contra Diplomy que aqui no hay azul en ninguna lamina.
+    # Las plates crudas son las de Diplomy (grabado a ~2% de contraste), asi que
+    # las claras pasan por punch() ANTES del duotono igual que en DIP: sin eso
+    # el motivo se borra y quedan sabanas planas.
+    cover=lambda a: add_glow(duotone(wb_to(punch(a, 2.6), "#f7f3ea", 97.0, 0.9), "#e0c58c", "#f9f5ed", keep=0.35), "#f5c86a", 0.5, 0.42, 0.55, 0.20),
+    cta=lambda a: add_glow(duotone(wb_to(punch(a, 2.0), "#f7f3ea", 97.0, 1.0), "#e8d2a6", "#faf7f0", keep=0.30), "#f5a400", 0.5, 0.80, 0.50, 0.24),
+    # emph: las plates crudas ya son OSCURAS (med lum 0.04) — el duotono aqui
+    # solo elige el matiz. Rampa carbon -> ambar quemado: el texto va claro.
+    emph=lambda a: duotone(a, "#141519", "#a87c12", keep=0.15),
+    value_paper=lambda a: duotone(wb_to(punch(a, 3.0), "#f8f4eb", 97.0, 0.9), "#e3dac6", "#f8f4eb", keep=0.80),
+    value_sky=lambda a: duotone(a, "#efd6a2", "#fdf7ea", keep=0.10),
+    cine=lambda a: scrim(top_scrim(splittone(exposure(a, 1.08, 0.97), "#1a1206", "#f0c07a", 0.32), 0.16, 0.32), 0.44, 0.70),
+)
+
+
+def to_dark(a: np.ndarray, base: str, top: str, k: float = 10.0, gamma: float = 0.70) -> np.ndarray:
+    """Light engraved plate -> near-black field that KEEPS its texture.
+
+    Every function above assumes a light target: duotone maps luminance onto a
+    ramp, so pointing that ramp at two near-blacks collapses 97% of the sheet
+    onto the same value and the engraving vanishes — which is exactly what a
+    "dark brand" naively graded looks like (a flat grey rectangle) and why the
+    first attempt at Servicestack came out washed instead of deep.
+
+    Here the INK drives the ramp instead of the luminance: t = how far below
+    paper white a pixel sits, amplified by `k` so a 2% mark becomes a visible
+    ~25% lift off `base`. Paper -> `base` (near-black), engraving -> `top`.
+    """
+    ink = np.clip(1.0 - lum(a), 0, 1)[..., None]
+    t = np.clip(ink * k, 0, 1) ** gamma
+    b, tp = hex2rgb(base) / 255.0, hex2rgb(top) / 255.0
+    return np.clip(b + (tp - b) * t, 0, 1)
+
+
+SVC = dict(
+    # Cuenta afiliada B (affiliate/ACCOUNT-B-STACK.md). PRIMERA marca OSCURA del
+    # repo: paper #0B0D10, ink #F2F4F7, menta #5BE0A5, sub #8A93A0. Lee como
+    # terminal, se sienta enfrente del azul de Diplomy y no se parece en nada a
+    # la cuenta A — que es lo que hay que defender: las dos cuentas caen en el
+    # mismo feed.
+    # Todo lo claro pasa por to_dark() (ver arriba); lo que ya era oscuro (emph,
+    # cine) solo se tinta. El acento menta entra como glow, nunca como campo:
+    # una lamina menta entera se ve como una pantalla de error.
+    cover=lambda a: add_glow(to_dark(a, "#090b0e", "#26303a", k=8.0), "#5be0a5", 0.5, 0.44, 0.52, 0.17),
+    cta=lambda a: add_glow(to_dark(a, "#090b0e", "#232c35", k=6.0), "#5be0a5", 0.5, 0.78, 0.48, 0.20),
+    emph=lambda a: add_glow(duotone(a, "#07090c", "#2b3a36", keep=0.10), "#5be0a5", 0.5, 0.30, 0.60, 0.10),
+    value_paper=lambda a: to_dark(a, "#0a0c10", "#212a33", k=10.0),
+    value_sky=lambda a: to_dark(a, "#0a0e12", "#1d3630", k=7.0),
+    cine=lambda a: scrim(top_scrim(splittone(desat(exposure(a, 0.82, 1.10), 0.30), "#05090b", "#7fd7b4", 0.34), 0.18, 0.40), 0.38, 0.80),
+)
+
 RECIPES = {"comehometag": CHT, "qolca": QOL, "propaga": PRO, "radarestatal": RAD,
-           "diplomy": DIP}
+           "diplomy": DIP, "cheapfix": CHF, "servicestack": SVC}
 
 # families that get mirrored variants to fill inventory (all abstracts)
 MIRROR_FAMILIES = ("cover", "cta", "emph", "value")
@@ -219,7 +276,13 @@ def family_of(name: str) -> str:
 
 
 def main() -> None:
+    # Optional brand filter: `python tools/grade.py servicestack`. Without it the
+    # whole library is re-graded (deterministic, so byte-identical), which is a
+    # lot of I/O to pay for one new brand.
+    only = sys.argv[1] if len(sys.argv) > 1 else None
     for brand, recipes in RECIPES.items():
+        if only and brand != only:
+            continue
         src = ROOT / brand / "plates"
         dst = ROOT / brand / "plates_graded"
         dst.mkdir(exist_ok=True)

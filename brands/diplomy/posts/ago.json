@@ -1,193 +1,226 @@
 {
-  "series": "ago",
-  "brand": "diplomy",
-  "posts": [
+ "series": "ago",
+ "brand": "diplomy",
+ "posts": [
+  {
+   "slug": "26-the-thirty-second-read",
+   "slides": [
     {
-      "slug": "27-one-search-away",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "ALUMNI",
-          "h": "Answer any question about a past graduate in seconds",
-          "b": "every certificate in one place"
-        },
-        {
-          "role": "value",
-          "h": "One archive, every intake you ran",
-          "b": "· Search by name\n· Search by course\n· Search by year"
-        },
-        {
-          "role": "value",
-          "h": "A company writes, you answer today",
-          "b": "\"Confirmed. Here is the certificate our school issued, with course and dates.\" One search, paste the link, sent."
-        },
-        {
-          "role": "stat",
-          "h": "An alumni archive that builds itself",
-          "b": "Diplomy (diplomy.org) keeps every certificate you issue searchable from day one."
-        },
-        {
-          "role": "cta",
-          "h": "Every intake, one search away",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Alumni records already exist at every school, just scattered across drives, inboxes and spreadsheets from different years. When certificates are issued from one place, that record builds itself: search by name, course or year and answer a graduate or a company in seconds. Save this for the next records question. Diplomy (diplomy.org) keeps it searchable from the first certificate. Send it to whoever issues your certificates. #alumni #academy #certificates #training",
-        "tt": "Answer any question about a past graduate in seconds · send it to whoever issues your certificates #alumni #academy",
-        "fb": "Your alumni record already exists, spread over drives and inboxes. Issue certificates from one place and it builds itself: search by name, course or year. Diplomy (diplomy.org) keeps every one searchable."
-      },
-      "alt": "Keeping every issued certificate searchable in a single alumni archive."
+     "role": "cover",
+     "ugc": "certificate-hands.png",
+     "kicker": "THE OTHER SIDE",
+     "h": "An employer opens your certificate and gives it thirty seconds",
+     "b": "make those seconds easy"
     },
     {
-      "slug": "28-design-they-screenshot",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "DESIGN",
-          "h": "Design a certificate your graduates want to screenshot",
-          "b": "three lines decide it"
-        },
-        {
-          "role": "value",
-          "h": "Three lines make it shareable",
-          "b": "· Their name, large\n· The course, at a glance\n· Your school, unmistakable"
-        },
-        {
-          "role": "value",
-          "h": "Keep everything else quiet",
-          "b": "Borders and seals are decoration. Those three lines are your certificate."
-        },
-        {
-          "role": "stat",
-          "h": "Designs that already read well",
-          "b": "Diplomy (diplomy.org) ships certificate templates you brand as your school in minutes."
-        },
-        {
-          "role": "cta",
-          "h": "Your certificate, worth a screenshot",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Certificate design decides whether a graduate posts it or files it away. It gets shared when it reads well as an image: their name large, the course readable at a glance, the school unmistakable. Everything else is decoration around those three lines. Diplomy (diplomy.org) ships designs built that way, branded as your school in minutes. Clean and modern or classic with a seal, which do your graduates share more? Send it to your program coordinator. #design #certificates #academy #training",
-        "tt": "Design a certificate your graduates want to screenshot · send it to your program coordinator #certificates #design",
-        "fb": "Name large, course readable, school unmistakable. Those three lines are the certificate, everything else is decoration. Diplomy (diplomy.org) ships templates built that way."
-      },
-      "alt": "The three lines that make a certificate design worth sharing as an image."
+     "role": "value",
+     "h": "What they check in those seconds",
+     "b": "· The name matches\n· The course is clear\n· The school is obvious"
     },
     {
-      "slug": "29-verifiable-in-plain-words",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "PLAIN WORDS",
-          "h": "What verifiable really means on a course certificate",
-          "b": "no jargon, promise"
-        },
-        {
-          "role": "value",
-          "h": "Every certificate gets its own \"verify page\"",
-          "b": "Open it and see who issued it, to whom, and when."
-        },
-        {
-          "role": "value",
-          "h": "People and software read the same address",
-          "b": "· A page for people\n· A signed record for systems\n· Your certificate link serves both"
-        },
-        {
-          "role": "stat",
-          "h": "Verifiable out of the box",
-          "b": "Diplomy (diplomy.org) issues certificates that people and systems can both confirm."
-        },
-        {
-          "role": "cta",
-          "h": "One word, one link behind it",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Verifiable sounds technical and means something simple: whoever holds a course certificate can confirm on their own that your school issued it, on its \"verify page\", without phoning anyone. The same address also serves the signed record to software, which is how a credential travels between platforms. Save this for the next time someone asks what it means. Diplomy (diplomy.org) issues that way by default. Send it to the person who signs them. #credentials #openbadges #certificates #edtech",
-        "tt": "What verifiable really means on a certificate · send it to the person who signs them #credentials #openbadges",
-        "fb": "Verifiable means the holder can confirm your school issued the certificate without calling you, and software can read the same record at the same address. Diplomy (diplomy.org) issues certificates that do both."
-      },
-      "alt": "A plain language explanation of what a verifiable course certificate is."
+     "role": "value",
+     "h": "Make it a link they tap",
+     "b": "The certificate page your academy sends opens on any phone with nothing to download first."
     },
     {
-      "slug": "30-a-colleague-just-asked",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "ENROLLMENT SEASON",
-          "emoji": "🚀",
-          "h": "A colleague just asked your graduate about your course",
-          "b": "her certificate link answers for you"
-        },
-        {
-          "role": "value",
-          "h": "How your course gets talked about",
-          "b": "· A graduate posts her certificate\n· A colleague gets curious\n· The link explains the course"
-        },
-        {
-          "role": "value",
-          "h": "Make sharing one step for your graduates",
-          "b": "\"Post it on LinkedIn under Licenses and certifications. The link does the explaining.\" Send that line with every certificate."
-        },
-        {
-          "role": "stat",
-          "h": "Sharing built into every certificate",
-          "b": "Diplomy (diplomy.org) hands each graduate a link made to be passed around."
-        },
-        {
-          "role": "cta",
-          "h": "This cohort certified, the next one curious",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Enrollment season conversations start where you cannot see them: a graduate posts her course certificate, a colleague gets curious, and the link explains the course, the school and what passing took, without anyone from your team writing a word. All it needs is a ready link and one line telling graduates where to post it. Save this for enrollment season. Diplomy (diplomy.org) issues exactly that. Send it to your director before the next intake. #academy #enrollment #certificates #marketing",
-        "tt": "A colleague just asked your graduate about your course 🚀 · send it to your director before the next intake #academy #certificates",
-        "fb": "A graduate posts her certificate, a colleague asks about it, the link explains the course. Have a ready link and one line telling graduates where to post it. Diplomy (diplomy.org) issues it that way."
-      },
-      "alt": "How a shared certificate link answers questions about a course during enrollment season."
-    },
-    {
-      "slug": "31-first-batch-before-september",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "GETTING STARTED",
-          "emoji": "✅",
-          "h": "Issue your first verifiable certificates before September",
-          "b": "start with one finished course"
-        },
-        {
-          "role": "value",
-          "h": "Start with your smallest finished course",
-          "b": "· Pick one closed intake\n· Write the criteria line\n· Issue the batch"
-        },
-        {
-          "role": "value",
-          "h": "The second batch takes minutes",
-          "b": "Your design, criteria and issuer profile are saved after the first pass."
-        },
-        {
-          "role": "stat",
-          "h": "From class list to issued certificates",
-          "b": "Diplomy (diplomy.org) walks you from a student list to a sent batch."
-        },
-        {
-          "role": "cta",
-          "h": "One course, one batch, this week",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "First verifiable certificates do not require migrating every course. Pick the smallest intake that already finished, write the criteria line, issue the batch. Your design, criteria and issuer profile are saved after that first pass, so every intake afterwards is a single step. Save this for the week you start. Diplomy (diplomy.org) starts there. Send it to whoever answers the verification emails. #certificates #academy #training #openbadges",
-        "tt": "Issue your first verifiable certificates before September ✅ · send it to whoever answers the verification emails #certificates #academy",
-        "fb": "Start with one finished course and its smallest intake. Write the criteria, issue the certificates. Everything is saved for next time, so the second batch takes minutes. Diplomy (diplomy.org) starts there."
-      },
-      "alt": "How a school issues its first batch of verifiable course certificates."
+     "role": "stat",
+     "h": "Made for the person opening it",
+     "b": "Diplomy (diplomy.org) gives each certificate you issue a page that answers all three in a tap."
     }
-  ]
+   ],
+   "caption": {
+    "ig": "An employer opens a certificate and gives it thirty seconds. What they check: the name matches, the course is clear, the school is obvious. The easiest version is a link that opens on any phone with nothing to download first. Diplomy (diplomy.org) gives each certificate your institution issues a page that answers all three in a tap. Save this for your next batch, and send it to the academy owner you know. #certificates #credentials #edtech #openbadges",
+    "tt": "An employer gives your certificate thirty seconds · send it to the academy owner you know #certificates #credentials #edtech",
+    "fb": "Thirty seconds is what a certificate gets. The name, the course, the school: a certificate page from Diplomy (diplomy.org) answers all three in a tap, on any phone."
+   },
+   "alt": "Hands framing a printed certificate, and the thirty-second check an employer gives it."
+  },
+  {
+   "slug": "27-one-search-away",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "ALUMNI",
+     "h": "Answer any question about a past graduate in seconds",
+     "b": "every certificate in one place"
+    },
+    {
+     "role": "value",
+     "h": "One archive, every intake you ran",
+     "b": "· Search by name\n· Search by course\n· Search by year"
+    },
+    {
+     "role": "value",
+     "h": "A company writes, you answer today",
+     "b": "\"Confirmed. Here is the certificate our school issued, with course and dates.\" One search, paste the link, sent."
+    },
+    {
+     "role": "stat",
+     "h": "An alumni archive that builds itself",
+     "b": "Diplomy (diplomy.org) keeps every certificate you issue searchable from day one."
+    },
+    {
+     "role": "cta",
+     "h": "Every intake, one search away",
+     "b": "diplomy.org"
+    }
+   ],
+   "caption": {
+    "ig": "Alumni records already exist at every school, just scattered across drives, inboxes and spreadsheets from different years. When certificates are issued from one place, that record builds itself: search by name, course or year and answer a graduate or a company in seconds. Save this for the next records question. Diplomy (diplomy.org) keeps it searchable from the first certificate. Send it to whoever issues your certificates. #alumni #academy #certificates #training",
+    "tt": "Answer any question about a past graduate in seconds · send it to whoever issues your certificates #alumni #academy",
+    "fb": "Your alumni record already exists, spread over drives and inboxes. Issue certificates from one place and it builds itself: search by name, course or year. Diplomy (diplomy.org) keeps every one searchable."
+   },
+   "alt": "Keeping every issued certificate searchable in a single alumni archive."
+  },
+  {
+   "slug": "28-design-they-screenshot",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "DESIGN",
+     "h": "Design a certificate your graduates want to screenshot",
+     "b": "three lines decide it"
+    },
+    {
+     "role": "value",
+     "h": "Three lines make it shareable",
+     "b": "· Their name, large\n· The course, at a glance\n· Your school, unmistakable"
+    },
+    {
+     "role": "value",
+     "h": "Keep everything else quiet",
+     "b": "Borders and seals are decoration. Those three lines are your certificate."
+    },
+    {
+     "role": "stat",
+     "h": "Designs that already read well",
+     "b": "Diplomy (diplomy.org) ships certificate templates you brand as your school in minutes."
+    },
+    {
+     "role": "cta",
+     "h": "Your certificate, worth a screenshot",
+     "b": "diplomy.org"
+    }
+   ],
+   "caption": {
+    "ig": "Certificate design decides whether a graduate posts it or files it away. It gets shared when it reads well as an image: their name large, the course readable at a glance, the school unmistakable. Everything else is decoration around those three lines. Diplomy (diplomy.org) ships designs built that way, branded as your school in minutes. Clean and modern or classic with a seal, which do your graduates share more? Send it to your program coordinator. #design #certificates #academy #training",
+    "tt": "Design a certificate your graduates want to screenshot · send it to your program coordinator #certificates #design",
+    "fb": "Name large, course readable, school unmistakable. Those three lines are the certificate, everything else is decoration. Diplomy (diplomy.org) ships templates built that way."
+   },
+   "alt": "The three lines that make a certificate design worth sharing as an image."
+  },
+  {
+   "slug": "29-verifiable-in-plain-words",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "PLAIN WORDS",
+     "h": "What verifiable really means on a course certificate",
+     "b": "no jargon, promise"
+    },
+    {
+     "role": "value",
+     "h": "Every certificate gets its own \"verify page\"",
+     "b": "Open it and see who issued it, to whom, and when."
+    },
+    {
+     "role": "value",
+     "h": "People and software read the same address",
+     "b": "· A page for people\n· A signed record for systems\n· Your certificate link serves both"
+    },
+    {
+     "role": "stat",
+     "h": "Verifiable out of the box",
+     "b": "Diplomy (diplomy.org) issues certificates that people and systems can both confirm."
+    },
+    {
+     "role": "cta",
+     "h": "One word, one link behind it",
+     "b": "diplomy.org"
+    }
+   ],
+   "caption": {
+    "ig": "Verifiable sounds technical and means something simple: whoever holds a course certificate can confirm on their own that your school issued it, on its \"verify page\", without phoning anyone. The same address also serves the signed record to software, which is how a credential travels between platforms. Save this for the next time someone asks what it means. Diplomy (diplomy.org) issues that way by default. Send it to the person who signs them. #credentials #openbadges #certificates #edtech",
+    "tt": "What verifiable really means on a certificate · send it to the person who signs them #credentials #openbadges",
+    "fb": "Verifiable means the holder can confirm your school issued the certificate without calling you, and software can read the same record at the same address. Diplomy (diplomy.org) issues certificates that do both."
+   },
+   "alt": "A plain language explanation of what a verifiable course certificate is."
+  },
+  {
+   "slug": "30-a-colleague-just-asked",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "ENROLLMENT SEASON",
+     "emoji": "🚀",
+     "h": "A colleague just asked your graduate about your course",
+     "b": "her certificate link answers for you"
+    },
+    {
+     "role": "value",
+     "h": "How your course gets talked about",
+     "b": "· A graduate posts her certificate\n· A colleague gets curious\n· The link explains the course"
+    },
+    {
+     "role": "value",
+     "h": "Make sharing one step for your graduates",
+     "b": "\"Post it on LinkedIn under Licenses and certifications. The link does the explaining.\" Send that line with every certificate."
+    },
+    {
+     "role": "stat",
+     "h": "Sharing built into every certificate",
+     "b": "Diplomy (diplomy.org) hands each graduate a link made to be passed around."
+    },
+    {
+     "role": "cta",
+     "h": "This cohort certified, the next one curious",
+     "b": "diplomy.org"
+    }
+   ],
+   "caption": {
+    "ig": "Enrollment season conversations start where you cannot see them: a graduate posts her course certificate, a colleague gets curious, and the link explains the course, the school and what passing took, without anyone from your team writing a word. All it needs is a ready link and one line telling graduates where to post it. Save this for enrollment season. Diplomy (diplomy.org) issues exactly that. Send it to your director before the next intake. #academy #enrollment #certificates #marketing",
+    "tt": "A colleague just asked your graduate about your course 🚀 · send it to your director before the next intake #academy #certificates",
+    "fb": "A graduate posts her certificate, a colleague asks about it, the link explains the course. Have a ready link and one line telling graduates where to post it. Diplomy (diplomy.org) issues it that way."
+   },
+   "alt": "How a shared certificate link answers questions about a course during enrollment season."
+  },
+  {
+   "slug": "31-first-batch-before-september",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "GETTING STARTED",
+     "emoji": "✅",
+     "h": "Issue your first verifiable certificates before September",
+     "b": "start with one finished course"
+    },
+    {
+     "role": "value",
+     "h": "Start with your smallest finished course",
+     "b": "· Pick one closed intake\n· Write the criteria line\n· Issue the batch"
+    },
+    {
+     "role": "value",
+     "h": "The second batch takes minutes",
+     "b": "Your design, criteria and issuer profile are saved after the first pass."
+    },
+    {
+     "role": "stat",
+     "h": "From class list to issued certificates",
+     "b": "Diplomy (diplomy.org) walks you from a student list to a sent batch."
+    },
+    {
+     "role": "cta",
+     "h": "One course, one batch, this week",
+     "b": "diplomy.org"
+    }
+   ],
+   "caption": {
+    "ig": "First verifiable certificates do not require migrating every course. Pick the smallest intake that already finished, write the criteria line, issue the batch. Your design, criteria and issuer profile are saved after that first pass, so every intake afterwards is a single step. Save this for the week you start. Diplomy (diplomy.org) starts there. Send it to whoever answers the verification emails. #certificates #academy #training #openbadges",
+    "tt": "Issue your first verifiable certificates before September ✅ · send it to whoever answers the verification emails #certificates #academy",
+    "fb": "Start with one finished course and its smallest intake. Write the criteria, issue the certificates. Everything is saved for next time, so the second batch takes minutes. Diplomy (diplomy.org) starts there."
+   },
+   "alt": "How a school issues its first batch of verifiable course certificates."
+  }
+ ]
 }

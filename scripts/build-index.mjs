@@ -93,6 +93,10 @@ const BRAND_CHROME = {
    * serif de Diplomy y el motivo de las plates — ver brands/diplomy/BRAND.md). */
   radarestatal: { accent: '#5f9ff5', accent2: '#cfe3fa', label: 'Compras del Estado' },
   diplomy: { accent: '#4d94f7', accent2: '#84b8f8', label: 'Certificados verificables' },
+  /* Las dos cuentas afiliadas de EE.UU. (affiliate/) — en inglés, y por eso su
+   * etiqueta también: es lo único del chasis que dice en qué idioma se publica. */
+  cheapfix: { accent: '#f5a400', accent2: '#e8d2a6', label: 'Cheap household fixes' },
+  servicestack: { accent: '#5be0a5', accent2: '#8a93a0', label: 'AI stack for solos' },
 }
 
 /* The best name for a series is the one already written on its covers: every post in

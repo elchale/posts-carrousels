@@ -56,6 +56,7 @@ def brand_tone(img: Image.Image, brand: str) -> Image.Image:
 
 ROOT = Path(__file__).resolve().parents[1]
 BRANDS = ROOT / "brands"
+UGC = ROOT / "ugc"
 FONTS = ROOT.parents[0] / "shared" / "fonts"
 W, H = 1080, 1920
 CORE_X0, CORE_X1 = 96, 984
@@ -100,6 +101,69 @@ def strip_emoji(text: str) -> str:
     # la primera línea de una lista y borrarlo dejaba el primer ítem sin viñeta
     # (bug visible desde que casi todo `b` es lista, 2026-08-04).
     return out.strip().rstrip(" ·—-")
+
+
+def rel_lum(hexc: str) -> float:
+    """WCAG relative luminance of '#rrggbb'."""
+    ch = [int(hexc[i:i + 2], 16) / 255 for i in (1, 3, 5)]
+    ch = [c / 12.92 if c <= 0.03928 else ((c + 0.055) / 1.055) ** 2.4 for c in ch]
+    return 0.2126 * ch[0] + 0.7152 * ch[1] + 0.0722 * ch[2]
+
+
+def on_accent(accent: str) -> str:
+    """Text colour for the cta chip, which is filled with the brand accent.
+
+    Was hardcoded white, which is right for every accent the repo had (all of
+    them saturated blues/violets/reds under L=0.37). Servicestack's mint
+    #5BE0A5 sits at L=0.58 and white on it is unreadable, so the chip picks by
+    luminance. Threshold 0.45 leaves the five original brands untouched.
+    """
+    return "#0b0d10" if rel_lum(accent) > 0.45 else "#ffffff"
+
+
+def cover_crop(p: Path) -> Image.Image:
+    """Fill the 1080x1920 master with a photo: resize to height, center-crop
+    width. Same geometry as grade.load_master, so a UGC photo and a plate line
+    up pixel for pixel. The UGC sources are 941x1672, so they upscale ~15%."""
+    im = Image.open(p).convert("RGB")
+    w, h = im.size
+    nw = max(W, round(w * H / h))
+    im = im.resize((nw, H), Image.LANCZOS)
+    x0 = (nw - W) // 2
+    return im.crop((x0, 0, x0 + W, H))
+
+
+def scrim_below(im: Image.Image, top: int, alpha: float = 0.55, feather: int = 300) -> None:
+    """Darken the photo UNDER `top` only, ramping in over `feather` px.
+
+    A full-frame overlay is what makes a photo look like a graphic; the point of
+    a UGC slide is that it reads as something someone took with their phone. So
+    the scrim exists purely to make the text zone legible: transparent across
+    the whole upper photo, easing to ~55% black behind the copy.
+    """
+    ramp = Image.new("L", (1, H), 0)
+    px = ramp.load()
+    y0 = top - feather
+    for y in range(H):
+        t = 0.0 if y <= y0 else min(1.0, (y - y0) / max(1, feather))
+        px[0, y] = int(round(255 * alpha * (t ** 1.5)))
+    im.paste(Image.new("RGB", (W, H), (0, 0, 0)), (0, 0), ramp.resize((W, H)))
+
+
+def soft_shadow(im: Image.Image, lines, fnt, lh, y, dy=5, blur=9, alpha=140) -> None:
+    """Blurred black copy of a text block, for white type over a photo.
+
+    draw_block's `shadow=True` is a hard 3px offset — fine on a graded plate,
+    crunchy over a photograph. This is the same idea with a gaussian.
+    """
+    mask = Image.new("L", (W, H), 0)
+    md = ImageDraw.Draw(mask)
+    yy = y + dy
+    for line in lines:
+        md.text(((W - md.textlength(line, font=fnt)) / 2, yy), line, font=fnt, fill=alpha)
+        yy += lh
+    im.paste(Image.new("RGB", (W, H), (0, 0, 0)), (0, 0),
+             mask.filter(ImageFilter.GaussianBlur(blur)))
 
 
 def wrap(draw: ImageDraw.ImageDraw, text: str, fnt: ImageFont.FreeTypeFont, maxw: int) -> list[str]:
@@ -215,6 +279,9 @@ class Renderer:
         # `recap` is derived from the rest of the post, so a brand that never
         # configured the role still renders it — on its value plates.
         rc = self.cfg["roles"].get(role) or self.cfg["roles"]["value"]
+        # A UGC photo REPLACES the plate (and the whole brand chrome with it).
+        if slide.get("ugc"):
+            return self._ugc_slide(slide)
         im = Image.open(self.plate_for(rc, slide, post_i, n)).convert("RGB")
         draw = ImageDraw.Draw(im)
         disp = self.cfg["display_font"]
@@ -342,9 +409,64 @@ class Renderer:
             tw = draw.textlength(tag, font=cf)
             cx0, cy0 = (W - tw) / 2 - 36, CORE_Y1 - 130
             draw.rounded_rectangle((cx0, cy0, cx0 + tw + 72, cy0 + 84), 42, fill=acc)
-            draw.text(((W - tw) / 2, cy0 + 20), tag, font=cf, fill="#ffffff")
+            draw.text(((W - tw) / 2, cy0 + 20), tag, font=cf, fill=on_accent(acc))
         else:
             raise ValueError(f"unknown role {role}")
+        return im
+
+    def _ugc_slide(self, slide: dict) -> Image.Image:
+        """A phone photo, full-bleed, with the copy burned into the bottom third.
+
+        The point of this slide is that it does NOT look like the rest of the
+        carousel: no duotone, no brand_tone, no grade — the photo ships exactly
+        as shot — and no logo and no `@handle` footer, on the cover included.
+        Every one of those is brand smell, and brand smell is what a cold feed
+        scrolls past. The only thing drawn on top is what makes the words
+        readable: a gradient scrim behind the text zone and a soft shadow.
+
+        `ugc` is the file name inside ugc/<brand.json ugc_dir>/. Any role can
+        carry one; in practice it is the cover.
+        """
+        d = self.cfg.get("ugc_dir")
+        if not d:
+            raise ValueError(f"{self.dir.name}: slide has \"ugc\" but brand.json has no \"ugc_dir\"")
+        src = UGC / d / slide["ugc"]
+        if not src.exists():
+            raise FileNotFoundError(f"{self.dir.name}: ugc photo not found: {src}")
+        im = cover_crop(src)
+        draw = ImageDraw.Draw(im)
+        disp, dw, body_f = self.cfg["display_font"], self.cfg["display_weight"], self.cfg["body_font"]
+
+        h_text = strip_emoji(slide.get("h", ""))
+        b_text = strip_emoji(slide.get("b", ""))
+
+        # Measured bottom-up: the block is pinned to the foot of the safe core
+        # (CORE_Y1) so the top of the photo — the part that has to look like a
+        # photo — stays clean. The whole budget is capped so a long headline
+        # can never climb past the 4:5 crop's ceiling.
+        bf = font(body_f, 40, 500)
+        blines = wrap(draw, b_text, bf, 800) if b_text else []
+        b_lh = 52
+        bh = (34 + b_lh * len(blines)) if blines else 0
+        em = emoji_img(slide["emoji"], 104) if slide.get("emoji") else None
+        eh = 130 if em else 0
+        kh = 56 if slide.get("kicker") else 0
+        avail = max(150, 560 - kh - eh - bh)
+        fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, self._ds(104, 52), 860, avail)
+
+        total = kh + eh + hh + bh
+        y = max(CORE_Y0 + 20, CORE_Y1 - total)
+        scrim_below(im, int(y) - 40)
+
+        if slide.get("kicker"):
+            y = draw_kicker(draw, strip_emoji(slide["kicker"]), "#e8e8e8", y)
+        if em:
+            im.paste(em, ((W - em.width) // 2, int(y)), em)
+            y += eh
+        soft_shadow(im, lines, fnt, lh, y)
+        y = draw_block(draw, lines, fnt, lh, y, "#ffffff")
+        if blines:
+            draw_block(draw, blines, bf, b_lh, y + 34, "#dcdcdc")
         return im
 
     def _recap_slide(self, im, draw, slide, post, rc, disp, dw, body_f):

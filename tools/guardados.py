@@ -128,6 +128,11 @@ def main() -> None:
             for post in data["posts"]:
                 pts, hit, flags = score(post)
                 rows.append((pts, sfile.stem, post["slug"], post["slides"][0].get("h", ""), hit, flags))
+        # Una marca recién montada tiene brand.json y plates pero todavía ningún
+        # post: sin esto la media (sum/len) dividía entre cero y el script moría
+        # antes de escribir ORDEN.md para las marcas que sí tienen contenido.
+        if not rows:
+            continue
         rows.sort(key=lambda r: (-r[0], r[1], r[2]))
         print(f"\n=== {bdir.name}  ({len(rows)} posts, media {sum(r[0] for r in rows)/len(rows):.1f})")
         md += [f"## {bdir.name}", "", "| pts | serie | post | portada | rasgos | pendientes |",

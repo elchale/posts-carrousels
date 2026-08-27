@@ -45,6 +45,10 @@
    acento (ver BRAND_CHROME en scripts/build-index.mjs, de donde salen estos). */
 [data-brand="radarestatal"] { --accent: #5f9ff5; --accent-2: #cfe3fa; }
 [data-brand="diplomy"]      { --accent: #4d94f7; --accent-2: #84b8f8; }
+/* Las dos cuentas afiliadas en inglés (affiliate/): ámbar y menta, dos huecos
+   que ninguna de las cinco marcas ocupa — en la grilla se distinguen solas. */
+[data-brand="cheapfix"]     { --accent: #f5a400; --accent-2: #e8d2a6; }
+[data-brand="servicestack"] { --accent: #5be0a5; --accent-2: #8a93a0; }
 
 * { box-sizing: border-box; }
 

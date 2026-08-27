@@ -1,222 +1,261 @@
 {
-  "series": "ago",
-  "brand": "comehometag",
-  "posts": [
+ "series": "ago",
+ "brand": "comehometag",
+ "posts": [
+  {
+   "slug": "26-cuidar-no-vigilar",
+   "slides": [
     {
-      "slug": "27-cola-del-pozo",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SANTA ROSA",
-          "h": "¿Y si tu hijo se suelta en la cola del pozo?",
-          "img": "evento-pozo.jpg",
-          "emoji": "😰"
-        },
-        {
-          "role": "value",
-          "h": "El plan de cola",
-          "b": "· Un adulto guarda el sitio\n· Otro pasea a los niños cerca\n· Nunca «espérame aquí solito»"
-        },
-        {
-          "role": "value",
-          "h": "La carta se escribe EN CASA",
-          "b": "Menos tiempo parados es menos niños explorando mientras los adultos rezan."
-        },
-        {
-          "role": "value",
-          "h": "Hora valle y salida clara",
-          "b": "· Temprano la cola es la mitad\n· Antes de entrar, señala el punto\n· «Si nos separamos, acá»"
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "En la multitud lenta, la «pulsera» rápida.",
-          "b": "Niños y abuelos con su «pulsera» ComeHomeTag: cualquiera del tumulto escanea y te llama."
-        },
-        {
-          "role": "cta",
-          "h": "Que tu único deseo en el pozo no sea encontrarlo.",
-          "b": "comehometag.com",
-          "emoji": "🙏"
-        }
-      ],
-      "caption": {
-        "ig": "Santa Rosa este domingo: el plan para la cola del pozo de los deseos con niños y abuelos. Turnos de cola (nunca «espérame aquí solito»), la carta escrita EN CASA y hora valle temprano con el punto de reencuentro señalado antes de entrar. Guárdalo para el domingo. Mándaselo al grupo del salón. #santarosadelima #feriado #familia #peru #pozodelosdeseos",
-        "tt": "¿Y si se suelta en la cola del pozo? 🙏 el plan familiar · mándaselo al grupo del salón #santarosa #feriado #peru",
-        "fb": "Este domingo es Santa Rosa y el pozo de los deseos junta miles de personas en una cola lenta y apretada, con niños aburridos y abuelos de pie. El plan de cola completo está en el post (spoiler: la carta se escribe en casa). Que tu único deseo no sea encontrar a alguien."
-      },
-      "alt": "El pozo de los deseos de Santa Rosa de Lima; plan familiar para la cola del feriado."
+     "role": "cover",
+     "ugc": "abuelo-puerta.png",
+     "kicker": "DÍA DEL ADULTO MAYOR",
+     "h": "Hay dos formas de cuidar a tu papá",
+     "b": "una lo aleja"
     },
     {
-      "slug": "28-familias-grandes",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "FERIADO",
-          "h": "Esto hacen las familias grandes antes de salir",
-          "emoji": "🚸"
-        },
-        {
-          "role": "value",
-          "h": "La reunión de 2 minutos en la puerta",
-          "b": "· Quién ve a quién, con nombres\n· Punto de reencuentro del lugar\n· Hora de vuelta"
-        },
-        {
-          "role": "value",
-          "h": "Transporte público en manada",
-          "b": "· Un adulto sube primero\n· Niños al medio, otro adulto cierra\n· Al bajar, nadie corre"
-        },
-        {
-          "role": "value",
-          "h": "El papelito en el bolsillo",
-          "b": "· Tu número, escrito, en cada niño\n· No usa batería ni señal\n· Él lo muestra si se pierde"
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "La versión del papelito que no se rompe.",
-          "b": "Las familias grandes ya salen con ComeHomeTag: la «pulsera» que cualquiera escanea para llamarte."
-        },
-        {
-          "role": "cta",
-          "h": "Dos minutos en la puerta. Feriado en paz.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Feriado de Santa Rosa: lo que hacen las familias grandes antes de salir. La reunión de 2 minutos en la puerta (quién ve a quién, punto de reencuentro, hora de vuelta), el orden del transporte (adulto, niños, adulto) y el papelito con tu número en el bolsillo de cada niño. Guárdalo para leerlo en la puerta antes de salir. Mándaselo a quien se queda con ellos este fin de semana. #feriado #santarosa #familia #papas #peru",
-        "tt": "Esto hacen las familias grandes antes de salir 👨‍👩‍👧‍👦 · mándaselo a quien se queda con ellos este fin de semana #feriado #familia #peru",
-        "fb": "Las familias grandes que salen en feriado y vuelven completas no tienen suerte: tienen una reunión de 2 minutos en la puerta, un orden para subir al transporte y un papelito con el número en el bolsillo de cada niño. El protocolo completo está en el post. ¿Tu familia lo hace o confía en la suerte?"
-      },
-      "alt": "Protocolo de salida para familias grandes en feriado: reunión en la puerta, transporte y papelito."
+     "role": "value",
+     "h": "Las palabras que cuidan",
+     "b": "Así no: «¿a dónde vas a ir tú solo?»\nAsí sí: «espérame y vamos juntos»"
     },
     {
-      "slug": "29-concierto-hija",
-      "slides": [
-        {
-          "role": "story",
-          "kicker": "PAULO LONDRA",
-          "h": "Tu hija va al concierto y tú no duermes",
-          "plate": "cine-15-concierto",
-          "emoji": "🎤"
-        },
-        {
-          "role": "value",
-          "h": "Ubicación compartida, activada ANTES",
-          "b": "· Actívala antes de salir de casa\n· En la puerta del estadio la señal se satura\n· «Si pasa algo la prendo» no funciona"
-        },
-        {
-          "role": "value",
-          "h": "El mensaje para tu hija, cópialo",
-          "b": "«Nos vemos en la puerta 5 a las 11:30. Si no hay señal, espérame AHÍ. Si los datos mueren, mándame un SMS.»"
-        },
-        {
-          "role": "value",
-          "h": "Batería es seguridad",
-          "b": "· Modo ahorro y brillo bajo desde la tarde\n· Power bank si tiene\n· Celular muerto a las 11pm: noche de terror",
-          "emoji": "🔋"
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "El plan B no usa batería.",
-          "b": "Los chicos van al concierto con su ComeHomeTag: si el celular muere, cualquiera escanea y llama a casa."
-        },
-        {
-          "role": "cta",
-          "h": "Dale el plan, no el sermón. Y duerme.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Hijos en conciertos (hoy: Paulo Londra en el Nacional): ubicación compartida activada ANTES de salir de casa, puerta con letra y hora exacta de recojo («la salida» del estadio no existe), SMS cuando los datos mueren y batería cuidada desde la tarde. Guárdalo para esta noche. ¿A qué edad la dejarías ir sola a un concierto? Mándaselo a la abuela que los recoge del colegio. #concierto #paulolondra #papas #adolescentes #peru",
-        "tt": "Tu hija va al concierto y tú no duermes 🎤 el plan de 4 puntos · mándaselo a la abuela que los recoge del colegio #paulolondra #papas #peru",
-        "fb": "Hoy toca Paulo Londra y miles de papás van a estar despiertos «por las puras». El plan de 4 puntos que sí funciona: ubicación activada antes de salir, puerta y hora exactas, SMS como canal de emergencia y batería cuidada. Dale el plan, no el sermón. ¿Qué le dices tú antes de un concierto?"
-      },
-      "alt": "Multitud en concierto de estadio; el plan de 4 puntos para hijos en conciertos."
+     "role": "value",
+     "h": "La visita que no es inspección",
+     "b": "Así no: llegar a revisar y corregir\nAsí sí: medicinas y números chequeados en la conversación"
     },
     {
-      "slug": "30-santa-rosa-abuelos",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SANTA ROSA",
-          "h": "Haz esto si llevas abuelos al pozo hoy",
-          "img": "evento-pozo.jpg",
-          "emoji": "🧓"
-        },
-        {
-          "role": "value",
-          "h": "Tres reglas de multitud con abuelos",
-          "b": "· Del brazo, no de la mano\n· Sombra y agua contra los mareos\n· Separados: esperar en el BORDE de la cola"
-        },
-        {
-          "role": "value",
-          "h": "Los niños, con misión",
-          "b": "«Tú cuidas la carta y me avisas cuando lleguemos.» Una tarea tonta es la mejor ancla."
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Feriado en multitud, QR puesto.",
-          "b": "Hoy, ComeHomeTag puesto en niños y abuelos: quien ayude escanea la «pulsera» y te ubica al toque."
-        },
-        {
-          "role": "cta",
-          "h": "Feliz Santa Rosa. Del brazo y con misión.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Santa Rosa hoy con niños y abuelos: del brazo, no de la mano (los mareos separan más que los tumultos), sombra y agua, esperar en el BORDE si se separan y cada niño con una misión: niño con tarea es niño anclado. Guárdalo para la salida de hoy. Mándaselo al papá que lo va a leer de noche. #santarosadelima #feriado #familia #peru",
-        "tt": "Feliz Santa Rosa 🌹 3 reglas para la cola con abuelos · mándaselo al papá que lo va a leer de noche #santarosa #peru #familia",
-        "fb": "Feliz Santa Rosa 🌹 Hoy el pozo de los deseos junta una multitud lenta y apretada. Tres reglas para ir con niños y abuelos: del brazo (no de la mano), sombra y agua, y darle una misión a cada niño. La explicación de cada una está en el post."
-      },
-      "alt": "Multitud en Santa Rosa de Lima; reglas para la cola con niños y abuelos."
+     "role": "value",
+     "h": "Libertad con red, no encierro",
+     "b": "Así no: quitarle la calle «por su bien»\nAsí sí: sus rutas de siempre, con el barrio avisado"
     },
     {
-      "slug": "31-errores-de-agosto",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "FIN DE MES",
-          "h": "No entres a septiembre con los errores de agosto",
-          "b": "guárdate las 3 correcciones",
-          "emoji": "📋"
-        },
-        {
-          "role": "value",
-          "h": "La foto del día",
-          "b": "Así no: buscar una foto vieja tras el susto\nAsí sí: foto al salir, con la ropa de hoy"
-        },
-        {
-          "role": "value",
-          "h": "El punto de reencuentro",
-          "b": "Así no: «si algo pasa, nos buscamos»\nAsí sí: lugar con nombre, dicho al llegar"
-        },
-        {
-          "role": "value",
-          "h": "El responsable con nombre",
-          "b": "Así no: «todos los estamos viendo»\nAsí sí: «tú ves a Mati hasta las 3»"
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "El cuarto hábito se pone una vez",
-          "b": "Identificación siempre encima: eso resuelve ComeHomeTag, la «pulsera» QR que dice tu número cuando tu hijo no puede."
-        },
-        {
-          "role": "cta",
-          "h": "Septiembre empieza con los hábitos corregidos.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Errores al salir con niños y su corrección, para arrancar septiembre: foto del día antes de salir (no una foto vieja tras el susto), punto de reencuentro con nombre dicho al llegar y responsable nombrado en voz alta. Guárdalo para cada salida de septiembre. Mándaselo a quien maneja el carro de la familia. #niñosseguros #papas #familia #peru #paraguardar",
-        "tt": "No entres a septiembre con los errores de agosto 📋 · mándaselo a quien maneja el carro de la familia #papas #niños #familia #peru",
-        "fb": "Un mes entero de salidas familiares deja un patrón: foto vieja en vez de foto del día, «nos buscamos» en vez de un punto con nombre, «todos lo estaban viendo» en vez de un responsable nombrado. Guárdate las tres correcciones y empieza septiembre con los hábitos corregidos."
-      },
-      "alt": "Correcciones de fin de mes al salir con niños: foto del día, punto con nombre y responsable nombrado."
+     "role": "stat",
+     "emoji": "💜",
+     "h": "La red invisible se llama QR",
+     "b": "Le ponen ComeHomeTag: tu papá sale como siempre, y quien lo vea desorientado escanea y te llama. comehometag.com"
     }
-  ]
+   ],
+   "caption": {
+    "ig": "Día del adulto mayor: hay dos formas de cuidar a tu papá, y una lo aleja. Las palabras que cuidan, la visita que no es inspección, y la libertad con red en vez del encierro. La red invisible es una pulsera con QR de ComeHomeTag (comehometag.com): él sale como siempre, y quien lo vea desorientado escanea y te llama al toque. Guárdalo para la próxima conversación de hermanos, y mándaselo a tus hermanos: esto no se decide solo. #adultomayor #abuelos #alzheimer #familia #peru",
+    "tt": "Hay dos formas de cuidar a tu papá y una lo aleja 🕰 · mándaselo a tus hermanos, esto no se decide solo #adultomayor #abuelos #peru",
+    "fb": "Cuidar no es vigilar: las palabras que acercan, la visita que no es inspección y la libertad con red. La red invisible es una pulsera con QR de ComeHomeTag (comehometag.com): tu papá sale como siempre y quien lo vea desorientado escanea y te llama."
+   },
+   "alt": "Un padre mayor saliendo solo de su casa, y las dos formas de cuidarlo: la que lo aleja y la que lo acerca."
+  },
+  {
+   "slug": "27-cola-del-pozo",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "SANTA ROSA",
+     "h": "¿Y si tu hijo se suelta en la cola del pozo?",
+     "img": "evento-pozo.jpg",
+     "emoji": "😰"
+    },
+    {
+     "role": "value",
+     "h": "El plan de cola",
+     "b": "· Un adulto guarda el sitio\n· Otro pasea a los niños cerca\n· Nunca «espérame aquí solito»"
+    },
+    {
+     "role": "value",
+     "h": "La carta se escribe EN CASA",
+     "b": "Menos tiempo parados es menos niños explorando mientras los adultos rezan."
+    },
+    {
+     "role": "value",
+     "h": "Hora valle y salida clara",
+     "b": "· Temprano la cola es la mitad\n· Antes de entrar, señala el punto\n· «Si nos separamos, acá»"
+    },
+    {
+     "role": "stat",
+     "shot": "pulsera.png",
+     "h": "En la multitud lenta, la «pulsera» rápida.",
+     "b": "Niños y abuelos con su «pulsera» ComeHomeTag: cualquiera del tumulto escanea y te llama."
+    },
+    {
+     "role": "cta",
+     "h": "Que tu único deseo en el pozo no sea encontrarlo.",
+     "b": "comehometag.com",
+     "emoji": "🙏"
+    }
+   ],
+   "caption": {
+    "ig": "Santa Rosa este domingo: el plan para la cola del pozo de los deseos con niños y abuelos. Turnos de cola (nunca «espérame aquí solito»), la carta escrita EN CASA y hora valle temprano con el punto de reencuentro señalado antes de entrar. Guárdalo para el domingo. Mándaselo al grupo del salón. #santarosadelima #feriado #familia #peru #pozodelosdeseos",
+    "tt": "¿Y si se suelta en la cola del pozo? 🙏 el plan familiar · mándaselo al grupo del salón #santarosa #feriado #peru",
+    "fb": "Este domingo es Santa Rosa y el pozo de los deseos junta miles de personas en una cola lenta y apretada, con niños aburridos y abuelos de pie. El plan de cola completo está en el post (spoiler: la carta se escribe en casa). Que tu único deseo no sea encontrar a alguien."
+   },
+   "alt": "El pozo de los deseos de Santa Rosa de Lima; plan familiar para la cola del feriado."
+  },
+  {
+   "slug": "28-familias-grandes",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "FERIADO",
+     "h": "Esto hacen las familias grandes antes de salir",
+     "emoji": "🚸"
+    },
+    {
+     "role": "value",
+     "h": "La reunión de 2 minutos en la puerta",
+     "b": "· Quién ve a quién, con nombres\n· Punto de reencuentro del lugar\n· Hora de vuelta"
+    },
+    {
+     "role": "value",
+     "h": "Transporte público en manada",
+     "b": "· Un adulto sube primero\n· Niños al medio, otro adulto cierra\n· Al bajar, nadie corre"
+    },
+    {
+     "role": "value",
+     "h": "El papelito en el bolsillo",
+     "b": "· Tu número, escrito, en cada niño\n· No usa batería ni señal\n· Él lo muestra si se pierde"
+    },
+    {
+     "role": "stat",
+     "shot": "pulsera.png",
+     "h": "La versión del papelito que no se rompe.",
+     "b": "Las familias grandes ya salen con ComeHomeTag: la «pulsera» que cualquiera escanea para llamarte."
+    },
+    {
+     "role": "cta",
+     "h": "Dos minutos en la puerta. Feriado en paz.",
+     "b": "comehometag.com"
+    }
+   ],
+   "caption": {
+    "ig": "Feriado de Santa Rosa: lo que hacen las familias grandes antes de salir. La reunión de 2 minutos en la puerta (quién ve a quién, punto de reencuentro, hora de vuelta), el orden del transporte (adulto, niños, adulto) y el papelito con tu número en el bolsillo de cada niño. Guárdalo para leerlo en la puerta antes de salir. Mándaselo a quien se queda con ellos este fin de semana. #feriado #santarosa #familia #papas #peru",
+    "tt": "Esto hacen las familias grandes antes de salir 👨‍👩‍👧‍👦 · mándaselo a quien se queda con ellos este fin de semana #feriado #familia #peru",
+    "fb": "Las familias grandes que salen en feriado y vuelven completas no tienen suerte: tienen una reunión de 2 minutos en la puerta, un orden para subir al transporte y un papelito con el número en el bolsillo de cada niño. El protocolo completo está en el post. ¿Tu familia lo hace o confía en la suerte?"
+   },
+   "alt": "Protocolo de salida para familias grandes en feriado: reunión en la puerta, transporte y papelito."
+  },
+  {
+   "slug": "29-concierto-hija",
+   "slides": [
+    {
+     "role": "story",
+     "kicker": "PAULO LONDRA",
+     "h": "Tu hija va al concierto y tú no duermes",
+     "plate": "cine-15-concierto",
+     "emoji": "🎤"
+    },
+    {
+     "role": "value",
+     "h": "Ubicación compartida, activada ANTES",
+     "b": "· Actívala antes de salir de casa\n· En la puerta del estadio la señal se satura\n· «Si pasa algo la prendo» no funciona"
+    },
+    {
+     "role": "value",
+     "h": "El mensaje para tu hija, cópialo",
+     "b": "«Nos vemos en la puerta 5 a las 11:30. Si no hay señal, espérame AHÍ. Si los datos mueren, mándame un SMS.»"
+    },
+    {
+     "role": "value",
+     "h": "Batería es seguridad",
+     "b": "· Modo ahorro y brillo bajo desde la tarde\n· Power bank si tiene\n· Celular muerto a las 11pm: noche de terror",
+     "emoji": "🔋"
+    },
+    {
+     "role": "stat",
+     "shot": "pulsera.png",
+     "h": "El plan B no usa batería.",
+     "b": "Los chicos van al concierto con su ComeHomeTag: si el celular muere, cualquiera escanea y llama a casa."
+    },
+    {
+     "role": "cta",
+     "h": "Dale el plan, no el sermón. Y duerme.",
+     "b": "comehometag.com"
+    }
+   ],
+   "caption": {
+    "ig": "Hijos en conciertos (hoy: Paulo Londra en el Nacional): ubicación compartida activada ANTES de salir de casa, puerta con letra y hora exacta de recojo («la salida» del estadio no existe), SMS cuando los datos mueren y batería cuidada desde la tarde. Guárdalo para esta noche. ¿A qué edad la dejarías ir sola a un concierto? Mándaselo a la abuela que los recoge del colegio. #concierto #paulolondra #papas #adolescentes #peru",
+    "tt": "Tu hija va al concierto y tú no duermes 🎤 el plan de 4 puntos · mándaselo a la abuela que los recoge del colegio #paulolondra #papas #peru",
+    "fb": "Hoy toca Paulo Londra y miles de papás van a estar despiertos «por las puras». El plan de 4 puntos que sí funciona: ubicación activada antes de salir, puerta y hora exactas, SMS como canal de emergencia y batería cuidada. Dale el plan, no el sermón. ¿Qué le dices tú antes de un concierto?"
+   },
+   "alt": "Multitud en concierto de estadio; el plan de 4 puntos para hijos en conciertos."
+  },
+  {
+   "slug": "30-santa-rosa-abuelos",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "SANTA ROSA",
+     "h": "Haz esto si llevas abuelos al pozo hoy",
+     "img": "evento-pozo.jpg",
+     "emoji": "🧓"
+    },
+    {
+     "role": "value",
+     "h": "Tres reglas de multitud con abuelos",
+     "b": "· Del brazo, no de la mano\n· Sombra y agua contra los mareos\n· Separados: esperar en el BORDE de la cola"
+    },
+    {
+     "role": "value",
+     "h": "Los niños, con misión",
+     "b": "«Tú cuidas la carta y me avisas cuando lleguemos.» Una tarea tonta es la mejor ancla."
+    },
+    {
+     "role": "stat",
+     "shot": "pulsera.png",
+     "h": "Feriado en multitud, QR puesto.",
+     "b": "Hoy, ComeHomeTag puesto en niños y abuelos: quien ayude escanea la «pulsera» y te ubica al toque."
+    },
+    {
+     "role": "cta",
+     "h": "Feliz Santa Rosa. Del brazo y con misión.",
+     "b": "comehometag.com"
+    }
+   ],
+   "caption": {
+    "ig": "Santa Rosa hoy con niños y abuelos: del brazo, no de la mano (los mareos separan más que los tumultos), sombra y agua, esperar en el BORDE si se separan y cada niño con una misión: niño con tarea es niño anclado. Guárdalo para la salida de hoy. Mándaselo al papá que lo va a leer de noche. #santarosadelima #feriado #familia #peru",
+    "tt": "Feliz Santa Rosa 🌹 3 reglas para la cola con abuelos · mándaselo al papá que lo va a leer de noche #santarosa #peru #familia",
+    "fb": "Feliz Santa Rosa 🌹 Hoy el pozo de los deseos junta una multitud lenta y apretada. Tres reglas para ir con niños y abuelos: del brazo (no de la mano), sombra y agua, y darle una misión a cada niño. La explicación de cada una está en el post."
+   },
+   "alt": "Multitud en Santa Rosa de Lima; reglas para la cola con niños y abuelos."
+  },
+  {
+   "slug": "31-errores-de-agosto",
+   "slides": [
+    {
+     "role": "cover",
+     "kicker": "FIN DE MES",
+     "h": "No entres a septiembre con los errores de agosto",
+     "b": "guárdate las 3 correcciones",
+     "emoji": "📋"
+    },
+    {
+     "role": "value",
+     "h": "La foto del día",
+     "b": "Así no: buscar una foto vieja tras el susto\nAsí sí: foto al salir, con la ropa de hoy"
+    },
+    {
+     "role": "value",
+     "h": "El punto de reencuentro",
+     "b": "Así no: «si algo pasa, nos buscamos»\nAsí sí: lugar con nombre, dicho al llegar"
+    },
+    {
+     "role": "value",
+     "h": "El responsable con nombre",
+     "b": "Así no: «todos los estamos viendo»\nAsí sí: «tú ves a Mati hasta las 3»"
+    },
+    {
+     "role": "stat",
+     "shot": "pulsera.png",
+     "h": "El cuarto hábito se pone una vez",
+     "b": "Identificación siempre encima: eso resuelve ComeHomeTag, la «pulsera» QR que dice tu número cuando tu hijo no puede."
+    },
+    {
+     "role": "cta",
+     "h": "Septiembre empieza con los hábitos corregidos.",
+     "b": "comehometag.com"
+    }
+   ],
+   "caption": {
+    "ig": "Errores al salir con niños y su corrección, para arrancar septiembre: foto del día antes de salir (no una foto vieja tras el susto), punto de reencuentro con nombre dicho al llegar y responsable nombrado en voz alta. Guárdalo para cada salida de septiembre. Mándaselo a quien maneja el carro de la familia. #niñosseguros #papas #familia #peru #paraguardar",
+    "tt": "No entres a septiembre con los errores de agosto 📋 · mándaselo a quien maneja el carro de la familia #papas #niños #familia #peru",
+    "fb": "Un mes entero de salidas familiares deja un patrón: foto vieja en vez de foto del día, «nos buscamos» en vez de un punto con nombre, «todos lo estaban viendo» en vez de un responsable nombrado. Guárdate las tres correcciones y empieza septiembre con los hábitos corregidos."
+   },
+   "alt": "Correcciones de fin de mes al salir con niños: foto del día, punto con nombre y responsable nombrado."
+  }
+ ]
 }
