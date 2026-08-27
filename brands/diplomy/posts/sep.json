@@ -19,8 +19,8 @@
         },
         {
           "role": "value",
-          "h": "Someone asks about certificates every intake",
-          "b": "A syllabus section answers the whole room at once, and students plan the course around it."
+          "h": "The syllabus line, copy it",
+          "b": "\"This course ends with a certificate at its own link, hours stated, delivered on closing day.\" Paste it under Evaluation."
         },
         {
           "role": "stat",
@@ -52,7 +52,7 @@
         },
         {
           "role": "value",
-          "h": "State the work your intern actually did",
+          "h": "Ask your intern's supervisor for three lines",
           "b": "· What they built or ran\n· Weeks and hours\n· Skills they practised"
         },
         {
@@ -207,6 +207,11 @@
           "role": "value",
           "h": "Two signatures at most",
           "b": "· The instructor who taught it\n· Your school's director\n· A third is decoration"
+        },
+        {
+          "role": "value",
+          "h": "Three questions for whoever signs your certificates",
+          "b": "· Print this exact name and role?\n· Behind every course in the batch?\n· Who signs when you travel?"
         },
         {
           "role": "stat",
@@ -504,7 +509,7 @@
         {
           "role": "value",
           "h": "Give the credential a slide in your closing talk",
-          "b": "One line saying a certificate with hours is on its way, and where it will arrive."
+          "b": "\"Your certificate for this conference, with the hours, arrives by email this week.\" One slide, that line, nothing else."
         },
         {
           "role": "stat",
@@ -836,8 +841,8 @@
         },
         {
           "role": "value",
-          "h": "The page states all three, dated",
-          "b": "Send the link first. Write a letter only when something specific is truly missing."
+          "h": "The reply your office sends, copy it",
+          "b": "\"Here is the certificate page, with course and dates. Write back if anything is missing.\" The link goes with it."
         },
         {
           "role": "stat",

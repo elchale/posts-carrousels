@@ -1,4 +1,4 @@
-# GUÍA DE SUBIDA — Qolca
+# GUÍA DE SUBIDA — diplomy
 
 Cada post vive en `out/<serie>/<post>/` y contiene:
 
@@ -7,7 +7,6 @@ Cada post vive en `out/<serie>/<post>/` y contiene:
 | `ig/01..08.jpg` | Instagram y Facebook (4:5) |
 | `tt/01..08.jpg` | TikTok, publicación de fotos (9:16) |
 | `captions.md` | Los textos listos — cada uno en un bloque con botón COPIAR |
-| `li.pdf` | LinkedIn (documento) |
 
 ## Reglas rápidas
 

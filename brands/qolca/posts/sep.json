@@ -293,7 +293,8 @@
       "slides": [
         {
           "role": "cover",
-          "h": "¿Y si mañana tu cliente llega y no hay nadie?",
+          "h": "Mañana tienes una visita y nadie confirmó la hora",
+          "b": "lo que se amarra la víspera",
           "emoji": "📍"
         },
         {
@@ -308,9 +309,8 @@
         },
         {
           "role": "value",
-          "h": "Un recordatorio evita el plantón",
-          "b": "Un mensaje la noche anterior reduce las visitas perdidas y te salva el día de trabajo.",
-          "emoji": "🫱"
+          "h": "El mensaje de la víspera, cópialo",
+          "b": "«Mañana 10am en [dirección exacta]. Te atiende [nombre]. ¿Confirmado?»\nUn minuto que te salva el día de trabajo."
         },
         {
           "role": "value",
@@ -330,11 +330,11 @@
         }
       ],
       "caption": {
-        "ig": "Visitas y citas que se caen: alguien dijo 10am, otro dijo 11am y nadie confirmó la dirección. Qué se confirma la víspera y por qué un mensaje la noche anterior te salva el día. Guárdalo para tus citas de esta semana. Mándaselo a tu vendedor y que te diga qué haría. #citas #ventas #negociosperu",
-        "tt": "¿Y si mañana tu cliente llega y no hay nadie? 📍 · mándaselo a tu vendedor y que te diga qué haría #negociosperu #ventas",
+        "ig": "Visitas y citas que se caen: alguien dijo 10am, otro dijo 11am y nadie confirmó la dirección. Qué se confirma la víspera y el mensaje exacto para copiar. Guárdalo para tus citas de esta semana. Mándaselo a tu vendedor y que te diga qué haría. #citas #ventas #negociosperu",
+        "tt": "Mañana tienes una visita y nadie confirmó la hora 📍 el mensaje de la víspera, cópialo · mándaselo a tu vendedor y que te diga qué haría #negociosperu #ventas",
         "fb": "Una visita que se cae te cuesta el día entero. Casi siempre es lo mismo: dos horas distintas, una dirección incompleta y nadie que confirmara la víspera."
       },
-      "alt": "Portada: ¿y si mañana tu cliente llega y no hay nadie?; la visita confirmada por dos personas distintas."
+      "alt": "Portada: mañana tienes una visita y nadie confirmó la hora; el mensaje de la víspera para copiar."
     },
     {
       "slug": "08-iphone-cuaderno",
@@ -405,9 +405,8 @@
         },
         {
           "role": "value",
-          "h": "Se avisa de vuelta, siempre",
-          "b": "«Yo lo tomo» en el grupo vale más que cinco mensajes preguntando quién lo vio.",
-          "emoji": "🙋"
+          "h": "El mensaje para tu grupo, cópialo",
+          "b": "«Desde hoy, cliente que cae aquí sale con dueño: el que lo toma escribe \"yo lo tomo\".»"
         },
         {
           "role": "value",
@@ -428,7 +427,7 @@
       ],
       "caption": {
         "ig": "El cliente que cae en el grupo del equipo se queda ahí: lo de todos no es de nadie. Cómo repartir consultas con dueño, hora y siguiente paso. Guárdalo para tu próxima reunión de equipo. Mándaselo a tu vendedor y que te diga qué haría. #equipo #ventas #negociosperu",
-        "tt": "Lo mandaste al grupo del equipo y nadie lo tomó 👥 · mándaselo a tu vendedor y que te diga qué haría #negociosperu #ventas",
+        "tt": "Lo mandaste al grupo del equipo y nadie lo tomó 👥 el mensaje que lo arregla está adentro · mándaselo a tu vendedor y que te diga qué haría #negociosperu #ventas",
         "fb": "Cuando un cliente cae en el grupo del equipo, se queda ahí. Lo de todos no es de nadie. Cada consulta necesita un nombre, una hora y un siguiente paso. Mándaselo a tu vendedor y que te diga qué haría."
       },
       "alt": "Portada: lo mandaste al grupo del equipo y nadie lo tomó; lo de todos no es de nadie."
@@ -867,13 +866,14 @@
       "slides": [
         {
           "role": "cover",
-          "h": "¿Y si la venta del mes está en tus llamadas perdidas?",
+          "h": "El que llama está más apurado que el que escribe",
+          "b": "tus llamadas perdidas son ventas todavía vivas",
           "emoji": "📞"
         },
         {
           "role": "value",
-          "h": "El que llama está más apurado que el que escribe",
-          "b": "Quería resolverlo ya. Si no contestaste, está marcando al siguiente de la lista."
+          "h": "Si no contestas, marca al siguiente",
+          "b": "Quería resolverlo en el momento. La llamada perdida es un comprador apurado que sigue esperando."
         },
         {
           "role": "value",
@@ -904,10 +904,10 @@
       ],
       "caption": {
         "ig": "Llamadas perdidas del negocio: el que llama está más apurado que el que escribe, y casi nadie las devuelve. La regla de los 10 minutos con el mensaje exacto. Guárdalo y revisa tu registro hoy. Mándaselo al que contesta tu WhatsApp. #ventas #atencionalcliente #negociosperu #llamadas",
-        "tt": "La venta del mes puede estar en tus perdidas 📞 · mándaselo al que contesta tu WhatsApp #negociosperu #ventas",
+        "tt": "El que llama está más apurado que el que escribe 📞 la regla de los 10 minutos · mándaselo al que contesta tu WhatsApp #negociosperu #ventas",
         "fb": "El que te llama quería resolverlo en ese momento; si nadie contestó, marcó al siguiente. La regla de los 10 minutos rescata esas ventas con un solo mensaje. ¿Tú devuelves las llamadas perdidas o esperas que insistan?"
       },
-      "alt": "Portada: ¿y si la venta del mes está en tus llamadas perdidas?, la regla de los 10 minutos."
+      "alt": "Portada: el que llama está más apurado que el que escribe, la regla de los 10 minutos."
     },
     {
       "slug": "20-chat-a-cita",
@@ -1215,7 +1215,7 @@
         {
           "role": "value",
           "h": "El trato se tiene que notar",
-          "b": "· Sus chats se responden primero\n· Se enteran de lo nuevo antes que nadie\n· Un gracias con su nombre, de vez en cuando"
+          "b": "· Sus chats se responden primero\n· Se enteran de lo nuevo antes que nadie\n· Un gracias con nombre: «[Nombre], gracias por seguir confiando»"
         },
         {
           "role": "value",

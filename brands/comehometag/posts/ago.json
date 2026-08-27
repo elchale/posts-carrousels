@@ -97,7 +97,7 @@
         {
           "role": "cover",
           "kicker": "FERIADO",
-          "h": "¿Y si todos creen que el niño va con otro?",
+          "h": "Esto hacen las familias grandes antes de salir",
           "emoji": "🚸"
         },
         {
@@ -151,8 +151,8 @@
         },
         {
           "role": "value",
-          "h": "Puerta exacta y hora exacta",
-          "b": "· Puerta con número o letra\n· Hora concreta\n· Sin señal, ahí mismo espera\n· Los SMS pasan cuando los datos mueren"
+          "h": "El mensaje para tu hija, cópialo",
+          "b": "«Nos vemos en la puerta 5 a las 11:30. Si no hay señal, espérame AHÍ. Si los datos mueren, mándame un SMS.»"
         },
         {
           "role": "value",
@@ -185,9 +185,9 @@
         {
           "role": "cover",
           "kicker": "SANTA ROSA",
-          "h": "¿Y si el abuelo se marea en plena cola?",
+          "h": "Haz esto si llevas abuelos al pozo hoy",
           "img": "evento-pozo.jpg",
-          "emoji": "😨"
+          "emoji": "🧓"
         },
         {
           "role": "value",

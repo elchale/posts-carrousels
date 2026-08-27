@@ -163,18 +163,19 @@
         {
           "role": "cover",
           "emoji": "🚌",
-          "h": "¿Y si la movilidad lo deja y no hay nadie en casa?",
-          "b": ""
+          "h": "Dos acuerdos con la movilidad que casi nadie pacta",
+          "b": "el segundo evita el peor susto del año"
         },
         {
           "role": "value",
-          "h": "El acuerdo raro que salva",
-          "b": "Si toca y nadie abre, el niño se queda EN la movilidad y termina la ruta. La vereda nunca es opción."
+          "h": "La vereda nunca es opción",
+          "b": "Un niño esperando solo en la puerta es el peor plan. Mejor ruta completa o de vuelta al colegio."
         },
         {
           "role": "value",
-          "h": "La entrega se ve, no se supone",
-          "b": "· El chofer arranca cuando el niño ENTRÓ\n· Sin adulto en casa, vuelve al colegio\n· Los dos acuerdos se hablan esta semana"
+          "h": "El mensaje para el chofer, cópialo",
+          "b": "«Si un día nadie abre, Mati se queda en la movilidad y vuelve al colegio. Y arranque recién cuando lo vea entrar.»",
+          "emoji": "📱"
         },
         {
           "role": "stat",
@@ -190,7 +191,7 @@
       ],
       "caption": {
         "ig": "Movilidad escolar: ¿qué pasa si toca el timbre y en casa no hay nadie? El acuerdo correcto: el niño se queda EN la movilidad y termina la ruta o vuelve al colegio. Nunca la vereda. Y el chofer arranca recién cuando lo vio entrar. Guárdalo para llamar a tu movilidad esta semana. Mándaselo al grupo del salón. #movilidadescolar #colegio #peru #niños",
-        "tt": "¿Y si la movilidad lo deja y no hay nadie? 🚌 · mándaselo al grupo del salón #colegio #peru #niños",
+        "tt": "Los dos acuerdos que se pactan con la movilidad 🚌 · mándaselo al grupo del salón #colegio #peru #niños",
         "fb": "La movilidad escolar también se equivoca: de puerta, de cuadra, de hora. Dos acuerdos que evitan el susto: el chofer arranca cuando vio al niño ENTRAR a casa, y si nadie abre, el niño se queda en la movilidad. Jamás en la vereda. ¿Tu movilidad tiene estas dos reglas?"
       },
       "alt": "Acuerdos con la movilidad escolar para el día en que nadie abre la puerta."
@@ -410,8 +411,8 @@
           "role": "cover",
           "kicker": "SIMULACRO NOCTURNO",
           "emoji": "🥿",
-          "h": "¿Qué hay al lado de tu cama ahora mismo?",
-          "b": "en un sismo a oscuras, eso es todo lo que tienes"
+          "h": "Entre tú y tus hijos hay un pasillo a oscuras",
+          "b": "lo que dejes al lado de tu cama decide si lo cruzas"
         },
         {
           "role": "value",
@@ -437,7 +438,7 @@
       ],
       "caption": {
         "ig": "Sismo nocturno: la pregunta que vale oro es qué hay al lado de cada cama. El trío que no se negocia: zapatos cerrados apuntando a la puerta, linterna en el mismo sitio siempre y los lentes del que no ve sin ellos. El celular no cuenta: a esa hora carga en otro cuarto. Guárdalo para revisar cada cama esta noche. Mándaselo a la persona que los cuida cuando tú no estás. #simulacro #sismo #peru #familia",
-        "tt": "¿Qué hay al lado de tu cama ahora? 🥿 el trío del sismo nocturno · mándaselo a la persona que los cuida cuando tú no estás #sismo #peru",
+        "tt": "Entre tú y tus hijos hay un pasillo a oscuras 🥿 el trío de cada cama · mándaselo a la persona que los cuida cuando tú no estás #sismo #peru",
         "fb": "Si esta noche tiembla, lo único que tienes es lo que está al alcance de tu cama. El trío por cuarto: zapatos cerrados (el piso se llena de vidrio), linterna en sitio fijo y los lentes de quien no ve sin ellos. El celular no cuenta como linterna: a esa hora está al 6% o en otro cuarto. ¿Tu cama pasa la prueba?"
       },
       "alt": "El trío de cada cama para un sismo de noche: zapatos, linterna y lentes."
@@ -449,8 +450,8 @@
           "role": "cover",
           "kicker": "SIMULACRO NOCTURNO",
           "emoji": "🔦",
-          "h": "Mañana tiembla de noche: ensaya hoy a oscuras",
-          "b": ""
+          "h": "¿Y si tiembla y no ves ni tus propias manos?",
+          "b": "mañana el Perú ensaya de noche, hoy ensaya tu casa"
         },
         {
           "role": "value",
@@ -476,7 +477,7 @@
       ],
       "caption": {
         "ig": "Víspera del simulacro nocturno: el ensayo que sí prepara se hace a ojos cerrados. Cada uno desde su cama, luz apagada, contando los pasos hasta la puerta. Y el plan de apagón: nada de fuego hasta revisar el gas, y todos saben quién cierra la llave. Guárdalo para el ensayo de esta noche. Mándaselo a tus hermanos, esto no se decide solo. #simulacronocturno #sismo #indeci #peru",
-        "tt": "Mañana tiembla de noche 🔦 ensaya hoy a ojos cerrados · mándaselo a tus hermanos, esto no se decide solo #simulacro #peru",
+        "tt": "¿Y si tiembla y no ves ni tus manos? 🔦 ensaya hoy a ojos cerrados · mándaselo a tus hermanos, esto no se decide solo #simulacro #peru",
         "fb": "Mañana 8pm el Perú ensaya el simulacro nocturno. El truco de esta noche: recorrer la casa a ojos cerrados contando pasos, porque los pasos contados vuelven solos en el apagón. Y una pregunta que casi nadie puede responder: ¿quién cierra la llave del gas en tu casa y dónde está?"
       },
       "alt": "El ensayo a ojos cerrados y el plan de apagón para la víspera del simulacro nocturno."
@@ -488,8 +489,8 @@
           "role": "cover",
           "kicker": "SIMULACRO NOCTURNO",
           "emoji": "🚨",
-          "h": "Hoy a las 8pm apaga la luz de verdad",
-          "b": "un simulacro nocturno con luz prendida no ensaya nada"
+          "h": "Hoy 8pm tiembla el Perú y no estarán juntos",
+          "b": "cada uno arranca desde donde esté, con la luz apagada"
         },
         {
           "role": "value",
@@ -515,7 +516,7 @@
       ],
       "caption": {
         "ig": "HOY 8pm: simulacro nacional nocturno. Hazlo valer: luz apagada de verdad, cada uno arranca desde su posición real (pijama, ducha, audífonos) y se cronometra cuántos segundos toma llegar de las camas a la zona segura. Ese número se apunta en la refri. Guárdalo para esta noche. Mándaselo al grupo del salón. #simulacronocturno #indeci #sismo #peru #familia",
-        "tt": "Hoy 8pm: luz apagada de verdad 🚨 y cronómetro · mándaselo al grupo del salón #simulacro #peru",
+        "tt": "HOY 8pm tiembla el Perú y no estarán juntos 🚨 luz apagada y cronómetro · mándaselo al grupo del salón #simulacro #peru",
         "fb": "Hoy a las 8pm es el simulacro nocturno. Solo vale si lo hacen con la luz APAGADA, desde las posiciones reales de un martes por la noche. Y cronometrar: cuántos segundos tarda tu familia de las camas a la zona segura. Ese número dice más que cualquier charla. ¿Participan esta noche?"
       },
       "alt": "Cómo ejecutar el simulacro nocturno: luz apagada, posiciones reales y cronómetro."

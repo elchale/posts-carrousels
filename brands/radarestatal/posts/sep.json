@@ -771,8 +771,8 @@
         },
         {
           "role": "value",
-          "h": "Toca la puerta con el dato",
-          "b": "Escribe sabiendo qué contrato ganó y qué puedes resolverle. Una propuesta con contexto abre más que un catálogo."
+          "h": "El mensaje, cópialo y complétalo",
+          "b": "«Vi que ganaron la buena pro de [objeto] con [entidad]. Vendemos [lo tuyo] en su zona: ¿les cotizamos?»"
         },
         {
           "role": "stat",

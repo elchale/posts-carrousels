@@ -355,23 +355,28 @@
         {
           "role": "cover",
           "emoji": "✨",
-          "h": "Deja de vender el producto, vende el después",
-          "b": "la línea que falta bajo tu foto"
+          "h": "10 líneas que venden bajo tu foto (cópialas)",
+          "b": "el producto informa, el después vende"
         },
         {
           "role": "value",
-          "h": "Dato contra venta",
-          "b": "«Torta de un kilo» informa. «Alcanza para los 12 del cumple» vende."
+          "h": "Para los que venden comida",
+          "b": "· «Alcanza para los 12 del cumple»\n· «Llega caliente, no tibio»\n· «El lonche de mañana, resuelto»\n· «Para el antojo de las 4»"
         },
         {
           "role": "value",
-          "h": "La foto del después",
-          "b": "· la torta partida\n· la polera puesta\n· el mueble ya en la sala"
+          "h": "Para ropa y productos",
+          "b": "· «Aguanta el recreo y la lavadora»\n· «Del trabajo a la fiesta sin cambiarte»\n· «Se arma en cinco minutos»"
         },
         {
           "role": "value",
-          "h": "Una línea de resultado bajo cada foto",
-          "b": "«Llega hoy», «aguanta el recreo», «para los que odian planchar». Escríbela pensando en un cliente con nombre."
+          "h": "Para servicios",
+          "b": "· «Tu sábado libre, nosotros planchamos»\n· «Sales manejando el mismo día»\n· «Listo esta semana, no este mes»"
+        },
+        {
+          "role": "value",
+          "h": "La fórmula para escribir la tuya",
+          "b": "Qué le pasa a tu cliente después de comprar. Escríbela pensando en uno con nombre."
         },
         {
           "role": "stat",
@@ -381,16 +386,16 @@
         },
         {
           "role": "cta",
-          "h": "Hoy reescribe una sola descripción. El después vende.",
+          "h": "Pega la tuya bajo tu próxima foto.",
           "b": "propaga.pe"
         }
       ],
       "caption": {
-        "ig": "Copywriting de resultado para negocios: el cliente no compra la torta de un kilo, compra que alcance para los 12 del cumple. Foto del después y una línea de resultado bajo cada publicación. Guárdalo para reescribir tus descripciones. Mándaselo a quien responde tus mensajes. #copywriting #negociosperu #ventas #marketing",
-        "tt": "No vendas el producto, vende el después ✨ · mándaselo a quien responde tus mensajes #ventas #negociosperu #copywriting",
-        "fb": "«Torta de un kilo» no emociona a nadie. «Alcanza para los 12 del cumple y sobra para el desayuno», eso sí. El producto es el medio; lo que el cliente compra es lo que le pasa con él. ¿Tus descripciones qué venden?"
+        "ig": "10 líneas de resultado listas para copiar bajo tus fotos: para comida, para productos y para servicios, más la fórmula para escribir la tuya. El cliente no compra la torta de un kilo, compra que alcance para los 12 del cumple. Guárdalo para tu próxima publicación. Mándaselo a quien responde tus mensajes. #copywriting #negociosperu #ventas #marketing",
+        "tt": "10 líneas que venden más que tu foto ✨ cópialas · mándaselo a quien responde tus mensajes #copywriting #negociosperu #ventas",
+        "fb": "«Torta de un kilo» no emociona a nadie. «Alcanza para los 12 del cumple», eso sí. Diez líneas de resultado listas para copiar, por rubro, y la fórmula para escribir la tuya: qué le pasa al cliente después de comprar."
       },
-      "alt": "Vender el resultado y no la característica: la foto del después y una línea de resultado bajo cada foto."
+      "alt": "Banco de diez líneas de resultado listas para copiar bajo las fotos de un negocio, por rubro."
     },
     {
       "slug": "10-reclamo-publico",
@@ -1051,24 +1056,29 @@
       "slides": [
         {
           "role": "cover",
-          "emoji": "😳",
-          "h": "Llevas años vendiendo y tu cliente no sabe quién eres",
-          "b": "tu video de 15 segundos lo arregla"
+          "emoji": "🎬",
+          "h": "3 guiones de 15 segundos para tu negocio (cópialos)",
+          "b": "prende la cámara, el texto ya está"
         },
         {
           "role": "value",
-          "h": "El guion de tu presentación",
+          "h": "El de presentación",
           "b": "«Soy Carmen, hago tortas en Comas hace ocho años. Esta es la de hoy.» Nombre, oficio, prueba."
+        },
+        {
+          "role": "value",
+          "h": "El del estreno",
+          "b": "«Esto llegó hoy y se va rápido. Escríbeme y te separo el tuyo.» Novedad y un solo paso."
+        },
+        {
+          "role": "value",
+          "h": "El del gracias",
+          "b": "«Esta semana se llevaron todo. Gracias, caseros: el lunes repongo.» Agradece y avisa."
         },
         {
           "role": "value",
           "h": "Graba diez tomas si hace falta",
           "b": "La primera sale tiesa y la quinta también. Publicas la sexta. Nadie vio las otras nueve."
-        },
-        {
-          "role": "value",
-          "h": "Un video tuyo al mes basta",
-          "b": "Cuando estrenas, cuando agradeces, cuando vuelves de un viaje. El resto del mes vende tu producto."
         },
         {
           "role": "stat",
@@ -1083,11 +1093,11 @@
         }
       ],
       "caption": {
-        "ig": "Video de presentación para tu negocio: quince segundos, un guion de dos frases (quién eres, qué haces, qué hay hoy) y diez tomas si hace falta. Con cara se vende distinto. Guárdalo para el día que prendas la cámara. Mándaselo a quien toma las fotos. #videomarketing #negociosperu #emprendedores #marcapersonal",
-        "tt": "Años vendiendo y nadie sabe quién eres 😳 preséntate en 15 segundos · mándaselo a quien toma las fotos #negociosperu #video #emprendedores",
-        "fb": "Detrás de cada negocio chico hay una persona que el cliente nunca ha visto. Un video de quince segundos lo cambia: «Soy Carmen, hago tortas en Comas hace ocho años, esta es la de hoy». Graba diez tomas, publica una. Nadie vio las otras nueve."
+        "ig": "Tres guiones de video de 15 segundos listos para copiar: el de presentación (nombre, oficio, prueba), el del estreno y el del gracias. Graba diez tomas y publica una. Guárdalo para el día que prendas la cámara. Mándaselo a quien toma las fotos. #videomarketing #negociosperu #emprendedores #marcapersonal",
+        "tt": "3 guiones de 15 segundos, cópialos 🎬 tu video ya está escrito · mándaselo a quien toma las fotos #negociosperu #video #emprendedores",
+        "fb": "Detrás de cada negocio chico hay una persona que el cliente nunca ha visto. Tres guiones de quince segundos lo arreglan: el de presentación, el del estreno y el del gracias. Graba diez tomas, publica una. Nadie vio las otras nueve."
       },
-      "alt": "El video de presentación de quince segundos con guion para el dueño del negocio."
+      "alt": "Tres guiones de video de quince segundos listos para copiar: presentación, estreno y agradecimiento."
     },
     {
       "slug": "26-los-de-siempre",

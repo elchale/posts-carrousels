@@ -415,6 +415,11 @@
         },
         {
           "role": "value",
+          "h": "Las 3 preguntas para tu reemplazo",
+          "b": "· ¿Sabes los precios de memoria?\n· ¿Cómo se pide y se entrega?\n· ¿Qué NUNCA se promete?\nSi duda en una, falta el documento."
+        },
+        {
+          "role": "value",
           "h": "Lo que se escribe una vez",
           "b": "· tu lista de precios\n· cómo se pide y se entrega\n· zonas y horarios\n· en un documento que otro pueda abrir"
         },
@@ -627,23 +632,28 @@
           "role": "cover",
           "kicker": "CAPTIONS",
           "emoji": "💬",
-          "h": "Tu caption termina y nadie hace nada",
-          "b": "los dos cierres que sí mueven"
+          "h": "10 cierres de caption que sí mueven (cópialos)",
+          "b": "el «contáctanos» se jubila hoy"
         },
         {
           "role": "value",
-          "h": "Cierre uno: la pregunta con opciones",
-          "b": "«¿Cuál llevas: el de fresa o el de lúcuma?» La pregunta con opciones se contesta; el «¿qué opinan?» no."
+          "h": "Con opciones: se contestan solas",
+          "b": "· «¿Cuál llevas: fresa o lúcuma?»\n· «¿Para hoy o para mañana?»\n· «¿Equipo dulce o equipo salado?»\n· «¿Te lo envuelvo para regalo?»"
         },
         {
           "role": "value",
-          "h": "Cierre dos: la palabra clave",
-          "b": "«Comenta LISTA y te lo separamos.» El comentario es público, la fila queda ordenada y todos ven que se vende."
+          "h": "Con palabra clave: ordenan la fila",
+          "b": "· «Comenta LISTA y te lo separo»\n· «Comenta PRECIO y te escribo»\n· «Comenta MÍO y es tuyo»"
+        },
+        {
+          "role": "value",
+          "h": "Con urgencia honesta",
+          "b": "· «Quedan 4, el primero que escriba»\n· «Hoy es el último día del combo»\n· «Los de mañana ya no alcanzan»"
         },
         {
           "role": "value",
           "h": "«Contáctanos» no mueve a nadie",
-          "b": "Es un bostezo. Cada caption sale con uno de los dos cierres o no sale."
+          "b": "Es un bostezo. Cada caption sale con uno de estos diez o no sale."
         },
         {
           "role": "stat",
@@ -658,11 +668,11 @@
         }
       ],
       "caption": {
-        "ig": "Cierres de caption que mueven: pregunta con opciones («¿fresa o lúcuma?») o palabra clave («comenta LISTA y te lo separamos»). «Contáctanos» es un bostezo. Guárdalo para tu próximo post. Mándaselo a quien toma las fotos. #copywriting #captions #negociosperu #ventas",
-        "tt": "Tu caption termina y nadie hace nada 💬 · mándaselo a quien toma las fotos #copywriting #negociosperu #tips",
-        "fb": "El final del caption decide si pasa algo. Dos cierres que funcionan: la pregunta con opciones, que sí se contesta, y la palabra clave que ordena la fila («comenta LISTA y te lo separamos»). ¿Fresa o lúcuma? Pruébalo hoy."
+        "ig": "Diez cierres de caption listos para copiar: con opciones que se contestan solas («¿fresa o lúcuma?»), con palabra clave que ordena la fila («comenta LISTA») y con urgencia honesta. «Contáctanos» es un bostezo. Guárdalo para tu próximo post. Mándaselo a quien toma las fotos. #copywriting #captions #negociosperu #ventas",
+        "tt": "10 cierres de caption que sí mueven 💬 cópialos · mándaselo a quien toma las fotos #copywriting #negociosperu #tips",
+        "fb": "El final del caption decide si pasa algo. Diez cierres listos para copiar: la pregunta con opciones, la palabra clave que ordena la fila y la urgencia honesta. ¿Fresa o lúcuma? Pruébalo hoy."
       },
-      "alt": "Carrusel: los dos cierres de caption que generan comentarios y pedidos."
+      "alt": "Banco de diez cierres de caption listos para copiar: opciones, palabra clave y urgencia honesta."
     },
     {
       "slug": "16-reservas-anticucho",
@@ -977,18 +987,18 @@
           "role": "cover",
           "kicker": "EQUIPO",
           "emoji": "📄",
-          "h": "Le diste tus redes a tu sobrino sin instrucciones",
-          "b": "el brief de una página lo arregla"
+          "h": "El brief para el que publica por ti (cópialo)",
+          "b": "una página y habla como tú"
         },
         {
           "role": "value",
-          "h": "Lo que tu brief dice",
-          "b": "· qué vendemos y a quién\n· cómo hablamos: tú, usted, jerga\n· qué NUNCA se promete\n· precios y datos fijos"
+          "h": "La página, tal cual",
+          "b": "«Vendemos [qué] a [quién]. Hablamos de tú, sin jerga. NUNCA prometemos [x]. Precios y datos fijos: [lista].»"
         },
         {
           "role": "value",
-          "h": "Los ejemplos mandan más que las reglas",
-          "b": "Pega tres posts tuyos que funcionaron y uno que no. Quien publique por ti aprende con esos cuatro en cinco minutos."
+          "h": "Pégale cuatro ejemplos",
+          "b": "· 3 posts tuyos que funcionaron\n· 1 que murió\n· con esos cuatro aprende en cinco minutos"
         },
         {
           "role": "value",
@@ -1008,11 +1018,11 @@
         }
       ],
       "caption": {
-        "ig": "Brief de redes para tu negocio: qué vendemos y a quién, cómo hablamos, qué nunca se promete, precios fijos y ejemplos de posts buenos y malos. Una página y quien te ayude publica con tu voz. Guárdalo para escribirlo hoy. Mándaselo a quien maneja tus redes. #negociosperu #equipo #redessociales #emprendedores",
-        "tt": "Le diste tus redes a tu sobrino sin instrucciones 📄 · mándaselo a quien maneja tus redes #negociosperu #emprendedores #tips",
-        "fb": "Tarde o temprano alguien más publica por tu negocio: el sobrino, un ayudante, una agencia. Sin brief, tu marca habla como otra persona. Una página basta: qué vendemos, cómo hablamos, qué nunca se promete y tres ejemplos de posts que sí. ¿Quién maneja hoy tus redes?"
+        "ig": "El brief de redes listo para copiar y llenar: qué vendemos y a quién, cómo hablamos, qué nunca se promete, datos fijos y cuatro posts de ejemplo. Una página y quien te ayude publica con tu voz. Guárdalo para llenarlo hoy. Mándaselo a quien maneja tus redes: la página es para esa persona. #negociosperu #equipo #redessociales #emprendedores",
+        "tt": "Le diste tus redes a tu sobrino sin instrucciones 📄 este brief lo arregla, cópialo · mándaselo a quien maneja tus redes #negociosperu #emprendedores #tips",
+        "fb": "Tarde o temprano alguien más publica por tu negocio: el sobrino, un ayudante, una agencia. Sin brief, tu marca habla como otra persona. La página lista para copiar está en el post: qué vendemos, cómo hablamos, qué nunca se promete y cuatro ejemplos. ¿Quién maneja hoy tus redes?"
       },
-      "alt": "Carrusel: el brief de una página para que otra persona publique con la voz del negocio."
+      "alt": "El brief de una página listo para copiar para que otra persona publique con la voz del negocio."
     },
     {
       "slug": "24-checklist-perfil-cyber",

@@ -1071,6 +1071,11 @@
         },
         {
           "role": "value",
+          "h": "Tres preguntas para el socio que entra",
+          "b": "· ¿Tienes parientes con cargo público?\n· ¿Participas en otras empresas?\n· ¿Tienes sanciones del OECE?"
+        },
+        {
+          "role": "value",
           "h": "Cuándo revisarlo",
           "b": "· Antes de tu primera oferta\n· Al cambiar socios o accionistas\n· Antes de armar un consorcio"
         },
