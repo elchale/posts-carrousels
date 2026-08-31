@@ -15,10 +15,19 @@
  *   5. los encabezados de caché son los correctos: revalidar el HTML,
  *      inmutable las láminas.
  */
+import fs from 'node:fs'
 import { chromium } from 'playwright'
 
 const BASE = (process.argv[2] || 'http://127.0.0.1:3000').replace(/\/$/, '')
-const POST = '/comehometag/ago/27-cola-del-pozo'
+/* El post de prueba sale del índice, no de una constante: cada tanda de
+ * caducados se lleva slugs por delante, y un slug muerto aquí hace fallar el
+ * smoke con «0 imágenes en el post», que se lee como un bug de la app y no lo
+ * es (pasó con 27-cola-del-pozo). Se prefiere ComeHomeTag por ser la marca que
+ * el resto de la prueba nombra al comprobar el título. */
+const _idx = JSON.parse(fs.readFileSync(new URL('../data/index.json', import.meta.url), 'utf8'))
+const _marca = _idx.brands.find((b) => b.id === 'comehometag' && b.posts.length) || _idx.brands.find((b) => b.posts.length)
+const _post = _marca.posts[0]
+const POST = `/${_marca.id}/${_post.series}/${_post.slug}`
 const fails = []
 const ok = (cond, msg) => { console.log(`  ${cond ? '✓' : '✗'} ${msg}`); if (!cond) fails.push(msg) }
 
