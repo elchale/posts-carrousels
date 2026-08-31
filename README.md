@@ -91,6 +91,21 @@ declaran con el campo `logo` de `brand.json`. Los tres tienen contraste
 suficiente sobre su propia paleta, así que no hay versión clara y versión
 oscura que elegir.
 
+### Marca sin dominio impreso (`"tag": ""`)
+
+El campo `tag` de `brand.json` es lo que `render.py` imprime junto al símbolo
+(pie de portada) y dentro de la pastilla del cierre. Con `"tag": ""` las dos
+cosas desaparecen: el símbolo queda solo y centrado, y el cierre se recompone
+para no dejar el hueco de la pastilla.
+
+**Qolca lo tiene vacío a propósito** (2026-08-31): el nombre va a cambiar, así
+que ninguna lámina ni ningún caption lo imprime — ni el nombre ni el dominio,
+que lo lleva dentro. Sus láminas de producto hablan en primera persona («te
+construimos el CRM…») y el CTA pide el DM, no la web. El símbolo no envejece
+con el nombre, por eso ese sí se queda. **No repongas `qolca.org` en el `tag`
+ni el nombre en el copy** hasta que haya nombre nuevo; ese día se cambia
+`brand.json` y se re-renderiza, sin tocar los posts.
+
 ### Capturas de producto (Propaga)
 
 Los 60 carruseles de Propaga llevan una lámina con una **captura real del

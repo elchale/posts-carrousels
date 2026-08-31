@@ -386,30 +386,39 @@ class Renderer:
 
         elif role == "cta":
             # The mark opens the closing slide; the cover carries the other one.
-            top = CORE_Y0 + 90
+            tag = self.cfg["tag"]
             lg = self._logo(102)
-            if lg is not None:
-                im.paste(lg, ((W - lg.width) // 2, CORE_Y0 + 4), lg)
-                top = CORE_Y0 + 4 + lg.height + 44
             em = emoji_img(slide["emoji"], 104) if slide.get("emoji") else None
             # el emoji come 130px del presupuesto del titular: el chip de la web
             # vive en CORE_Y1-130 y no se mueve
             fnt, lines, lh, hh = block_height(draw, h_text, disp, dw, self._ds(116, 60), 860, 430 - (130 if em else 0))
+            bf = font(body_f, 44, 500)
+            blines = wrap(draw, b_text, bf, 780) if b_text else []
+            head = (lg.height + 44) if lg is not None else 86
+            base = CORE_Y0 + 4
+            if not tag:
+                # sin la pastilla que anclaba el pie, el bloque se quedaba
+                # flotando en el tercio alto y el cierre salía hueco: se centra
+                # en la banda entera
+                group = head + (130 if em else 0) + hh + (50 + 60 * len(blines) if blines else 0)
+                base += max(0, ((CORE_Y1 - CORE_Y0) - group) / 2 - 4)
+            if lg is not None:
+                im.paste(lg, ((W - lg.width) // 2, round(base)), lg)
+            top = base + head
             if em:
                 im.paste(em, ((W - em.width) // 2, int(top)), em)
                 top += 130
             y = draw_block(draw, lines, fnt, lh, top, text_c)
-            if b_text:
-                bf = font(body_f, 44, 500)
-                blines = wrap(draw, b_text, bf, 780)
+            if blines:
                 y = draw_block(draw, blines, bf, 60, y + 50, sub_c)
-            # website chip
-            tag = self.cfg["tag"]
-            cf = font(body_f, 40, 700)
-            tw = draw.textlength(tag, font=cf)
-            cx0, cy0 = (W - tw) / 2 - 36, CORE_Y1 - 130
-            draw.rounded_rectangle((cx0, cy0, cx0 + tw + 72, cy0 + 84), 42, fill=acc)
-            draw.text(((W - tw) / 2, cy0 + 20), tag, font=cf, fill=on_accent(acc))
+            # website chip — sin `tag` no hay pastilla (ver _tag): una pastilla
+            # vacía es peor que ninguna, y el CTA ya pide el DM en el cuerpo
+            if tag:
+                cf = font(body_f, 40, 700)
+                tw = draw.textlength(tag, font=cf)
+                cx0, cy0 = (W - tw) / 2 - 36, CORE_Y1 - 130
+                draw.rounded_rectangle((cx0, cy0, cx0 + tw + 72, cy0 + 84), 42, fill=acc)
+                draw.text(((W - tw) / 2, cy0 + 20), tag, font=cf, fill=on_accent(acc))
         else:
             raise ValueError(f"unknown role {role}")
         return im
@@ -665,13 +674,22 @@ class Renderer:
         return src.resize((max(1, round(src.width * height / src.height)), height), Image.LANCZOS)
 
     def _tag(self, im, draw, color):
-        """Cover footer: the mark and the domain side by side, centred as one lockup."""
-        fnt = font(self.cfg["body_font"], 32, 600)
+        """Cover footer: the mark and the domain side by side, centred as one lockup.
+
+        With `"tag": ""` in brand.json the domain drops out and the mark stands
+        alone, centred. That is how a brand whose name is about to change ships:
+        el símbolo no envejece, el dominio sí.
+        """
+        cy = 1566
         tag = self.cfg["tag"]
+        lg = self._logo(46)
+        if not tag:
+            if lg is not None:
+                im.paste(lg, ((W - lg.width) // 2, round(cy - lg.height / 2)), lg)
+            return
+        fnt = font(self.cfg["body_font"], 32, 600)
         tw = draw.textlength(tag, font=fnt)
         bbox = draw.textbbox((0, 0), tag, font=fnt)
-        cy = 1566
-        lg = self._logo(46)
         if lg is None:
             draw.text(((W - tw) / 2, cy - (bbox[3] + bbox[1]) / 2), tag, font=fnt, fill=color)
             return
