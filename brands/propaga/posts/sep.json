@@ -9,32 +9,32 @@
     {
      "role": "cover",
      "photo": "manos-celular",
-     "h": "4 reglas para responder al *«¿precio?»*",
-     "b": "sin perder al que pregunta"
+     "h": "4 pasos para *vender* cuando preguntan «¿precio?»",
+     "b": "el número solo no vende"
     },
     {
      "role": "value",
-     "label": "EL NÚMERO",
-     "h": "Pon *el precio* en el primer mensaje",
-     "b": "callarlo rompe la confianza"
-    },
-    {
-     "role": "value",
-     "label": "SI DEPENDE",
-     "h": "Da un *rango* y di qué lo sube",
-     "b": "«de tanto a tanto, según el tamaño»"
-    },
-    {
-     "role": "value",
-     "label": "EL RELOJ",
+     "label": "RESPONDE YA",
      "h": "Contesta en *5 minutos*",
-     "b": "a la media hora ya casi no responde"
+     "b": "a la media hora ya compró en otro lado"
+    },
+    {
+     "role": "value",
+     "label": "LA PREGUNTA",
+     "h": "Devuelve una pregunta que *vende*",
+     "b": "«¿para cuándo lo necesitas?»"
+    },
+    {
+     "role": "value",
+     "label": "LA OPCIÓN",
+     "h": "Recomienda *para su caso*",
+     "b": "«para eso te conviene este»"
     },
     {
      "role": "value",
      "label": "EL CIERRE",
-     "h": "Cierra con una *pregunta*",
-     "b": "«¿para cuándo lo necesitas?»"
+     "h": "El precio va con *siguiente paso*",
+     "b": "«sale tanto, ¿te lo separo?»"
     },
     {
      "role": "closer",
@@ -44,11 +44,11 @@
     }
    ],
    "caption": {
-    "ig": "Cómo responder cuando te preguntan el precio por WhatsApp o Instagram. Pon el número en el primer mensaje, y si de verdad depende, da un rango y di qué lo sube o lo baja. Contesta dentro de los primeros minutos y cierra con una pregunta abierta. Guárdalo para el próximo «cuánto está». #negociosperu #emprendedoresperu",
-    "tt": "Cómo responder «cuánto está» sin perder al cliente. Mándaselo a quien contesta los mensajes de tu negocio. #negociosperu #ventas",
+    "ig": "Cómo responder cuando te preguntan el precio por WhatsApp: el número pelado no vende. Contesta en 5 minutos, devuelve una pregunta que muestre interés, recomienda para su caso y recién ahí el precio con un siguiente paso. Guárdalo para tu próxima venta por chat.",
+    "tt": "Te preguntan «precio» y se desaparecen: el número solo no vende. Mándaselo a quien contesta los chats de tu negocio. #ventasporwhatsapp",
     "fb": "Cuando alguien pregunta el precio y le contestas «te escribo al interno», la venta se enfría ahí mismo. El número va en el primer mensaje, y si depende del tamaño, va el rango con lo que lo sube o lo baja."
    },
-   "alt": "Cuatro reglas para responder cuando un cliente pregunta el precio por chat."
+   "alt": "Cuatro pasos para vender cuando preguntan el precio por chat: responder rápido, devolver una pregunta, recomendar y cerrar con siguiente paso."
   },
   {
    "slug": "02-primeras-lineas",
@@ -581,7 +581,7 @@
      "photo": "celular-cafe",
      "label": "ASÍ NO",
      "h": "«Disponible, *consultar* precio»",
-     "b": "el precio callado rompe confianza"
+     "b": "no da un motivo para escribirte"
     },
     {
      "role": "value",
@@ -635,8 +635,8 @@
     {
      "role": "value",
      "label": "ASÍ SÍ",
-     "h": "El *precio* en el comentario",
-     "b": "y ahí mismo lo invitas al chat"
+     "h": "Responde *ahí mismo* con una pregunta",
+     "b": "«¿para cuántos?» y al chat"
     },
     {
      "role": "value",

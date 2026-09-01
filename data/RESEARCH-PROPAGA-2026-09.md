@@ -413,3 +413,18 @@ unidades", y sumar algo en vez de rebajar.
 | Luz lateral, papel blanco, rebotador, varios ángulos | Shopify | CONFIRMADO |
 | Prueba social, escasez, reciprocidad, autoridad | Cialdini | CONFIRMADO (nombres) |
 | Tres toques (aviso, víspera, cierre) | Krugman 1965, tres exposiciones | CONFIRMADO (con su límite) |
+
+## CORRECCIÓN 2026-09-01 (doctrina de Carlos, manda sobre §1)
+
+El §1 aplicó "They Ask, You Answer" (Sheridan) a la RESPUESTA de venta en el
+DM. Error de contexto: Sheridan es estrategia de CONTENIDO (publicar precios
+y factores en tu web/posts); en el CHAT de venta la escuela operante es la
+contraria: **el número pelado no vende**. Doctrina fija para toda respuesta
+de precio en DM/comentario (regla de marca, Carlos 2026-09-01):
+1. Velocidad sí (LRM/HBR §1 sigue vigente).
+2. Devolver una pregunta de calificación que muestre interés.
+3. Recomendar para SU caso (vender el ajuste, no la lista de precios).
+4. Recién ahí el precio, anclado y con siguiente paso («¿te lo separo?»).
+Marco practicante: NEPQ (Jeremy Miner) y el value-gap de Hormozi —
+PLAUSIBLE (libro/curso, sin estudio N grande); la regla aquí es doctrina
+del dueño. Sheridan queda SOLO para contenido (post 03).
