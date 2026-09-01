@@ -1,1127 +1,1288 @@
 {
-  "series": "sep",
-  "brand": "diplomy",
-  "posts": [
+ "series": "sep",
+ "brand": "diplomy",
+ "format": "f1",
+ "posts": [
+  {
+   "slug": "01-what-a-recruiter-checks",
+   "slides": [
     {
-      "slug": "01-certificate-on-the-syllabus",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "FIRST DAY OF CLASS",
-          "emoji": "🎒",
-          "h": "Show your new cohort the certificate they are working toward",
-          "b": "on day one, in the syllabus"
-        },
-        {
-          "role": "value",
-          "h": "Give your course syllabus a certificate section",
-          "b": "· The exact title it will carry\n· What earning it takes\n· Where it will live online"
-        },
-        {
-          "role": "value",
-          "h": "The syllabus line, copy it",
-          "b": "\"This course ends with a certificate at its own link, hours stated, delivered on closing day.\" Paste it under Evaluation."
-        },
-        {
-          "role": "stat",
-          "h": "A certificate worth announcing on day one",
-          "b": "Diplomy (diplomy.org) is where your school designs and issues the certificate you promise in week one."
-        },
-        {
-          "role": "cta",
-          "h": "Promised in the syllabus, delivered at the end",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Syllabus season is here, and one section is missing from most course outlines: the certificate. Name the exact title it will carry, what earning it takes, and where it will live online. Your new cohort reads that on day one and plans the whole course around it. Save this for your first class of the fall intake. Diplomy (diplomy.org) issues what you announce. Send it to your program coordinator. #syllabus #certificates #academy #fallintake",
-        "tt": "Put a certificate section in your course syllabus 🎒 · send it to your program coordinator #syllabus #certificates #academy",
-        "fb": "A course syllabus with a certificate section tells the new cohort on day one what they are working toward: the title, the requirements, the page it will live on. Diplomy (diplomy.org) issues it when the course ends."
-      },
-      "alt": "Adding a certificate section to a course syllabus on the first day of class."
+     "role": "cover",
+     "photo": "laptop-curso",
+     "h": "4 things a recruiter checks on a *course certificate*",
+     "b": "when it lands in an application"
     },
     {
-      "slug": "02-your-interns-leave-this-month",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "INTERNSHIPS",
-          "emoji": "✨",
-          "h": "Send your summer interns off with a real record",
-          "b": "before their last Friday"
-        },
-        {
-          "role": "value",
-          "h": "Ask your intern's supervisor for three lines",
-          "b": "· What they built or ran\n· Weeks and hours\n· Skills they practised"
-        },
-        {
-          "role": "value",
-          "h": "On a first CV, it stands out",
-          "b": "Most first CVs list coursework and little else. A record from a real workplace reads differently."
-        },
-        {
-          "role": "stat",
-          "h": "An internship certified like any course",
-          "b": "Diplomy (diplomy.org) issues internship certificates with their own page, under your company's name."
-        },
-        {
-          "role": "cta",
-          "h": "Their summer with you, on the record",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Internship certificates are the send off most companies skip. State what your intern built, the weeks and hours, and the skills they practised, then issue it before their last Friday. On a first CV, proof from a real workplace stands out. Save this for your interns' last week. Diplomy (diplomy.org) issues it like any course certificate. Send it to the person who signs them. #internships #certificates #hr #firstjob",
-        "tt": "Send your summer interns off with a real record ✨ · send it to the person who signs them #internships #certificates",
-        "fb": "Summer interns leave this month. A certificate naming what they worked on, for how long, and which skills they practised is one issue for you and a first proof of work for them. Diplomy (diplomy.org) handles it."
-      },
-      "alt": "Issuing a certificate to a summer intern before their internship ends."
+     "role": "value",
+     "label": "CHECK 1",
+     "h": "*Who* issued it",
+     "b": "Your academy's name, spelled in full"
     },
     {
-      "slug": "03-one-course-one-name",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "NAMING",
-          "h": "Write your course name the same way every time",
-          "b": "recruiters search for it"
-        },
-        {
-          "role": "value",
-          "h": "Pick one name per course and keep it",
-          "b": "· Same words every intake\n· Same capitalisation\n· No version numbers in the title"
-        },
-        {
-          "role": "value",
-          "h": "Ten graduates, three spellings, three different schools",
-          "b": "That is how a recruiter's search reads it. One spelling keeps your graduates findable together."
-        },
-        {
-          "role": "stat",
-          "h": "The name saved once, reused every intake",
-          "b": "Diplomy (diplomy.org) locks each course name and repeats it on every certificate your school issues."
-        },
-        {
-          "role": "cta",
-          "h": "One course, one name, every certificate",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Course names travel on every certificate your graduates share, and they are what a recruiter types into a search box. Ten graduates carrying three spellings of the same course read as three different schools. Pick one name, keep the capitalisation, leave version numbers out of the title. Save this for your next course setup. Diplomy (diplomy.org) locks it across intakes. Send it to your director before the next intake. #academy #certificates #training #branding",
-        "tt": "Write your course name the same way every time 🔎 · send it to your director before the next intake #academy #certificates",
-        "fb": "One name per course, same words and capitalisation on every intake. Three spellings of the same course read as three different schools in a search. Diplomy (diplomy.org) keeps the name fixed."
-      },
-      "alt": "Why a course name should be written identically on every certificate."
+     "role": "value",
+     "photo": "profesor",
+     "label": "CHECK 2",
+     "h": "What it *took*",
+     "b": "The work the student finished"
     },
     {
-      "slug": "04-attended-or-completed",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "WHAT IT SAYS",
-          "h": "Say whether your student attended or completed",
-          "b": "two different certificates"
-        },
-        {
-          "role": "value",
-          "h": "An attendance certificate claims presence",
-          "b": "Your student was there for the stated hours. A real claim, made plainly."
-        },
-        {
-          "role": "value",
-          "h": "A completion certificate claims a result",
-          "b": "· An exam passed\n· A project delivered\n· A standard met"
-        },
-        {
-          "role": "stat",
-          "h": "The exact wording, printed your way",
-          "b": "Diplomy (diplomy.org) prints the claim you choose on each certificate and its page."
-        },
-        {
-          "role": "cta",
-          "h": "One word, chosen on purpose",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Attended and completed are different claims, and the people who read your certificates notice which one you make. Attendance certifies presence for the stated hours. Completion certifies a result: an exam passed, a project delivered, a standard met. Say which one it is, every time. Save this for your next batch. Diplomy (diplomy.org) prints either. Send it to whoever answers the verification emails. #certificates #training #academy",
-        "tt": "Attended or completed, say which one it is ✍️ · send it to whoever answers the verification emails #certificates #training",
-        "fb": "Attendance certifies presence for the hours stated. Completion certifies a result. Different claims, different certificates, and readers notice. Diplomy (diplomy.org) prints the wording you choose."
-      },
-      "alt": "The difference between an attendance certificate and a completion certificate."
+     "role": "value",
+     "label": "CHECK 3",
+     "h": "*Hours* and dates",
+     "b": "Start, end and total hours of the course"
     },
     {
-      "slug": "05-the-wall-and-the-world",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "TWO COPIES",
-          "h": "Give your graduates a copy to frame and a link",
-          "b": "the wall copy and the working copy"
-        },
-        {
-          "role": "value",
-          "h": "The printed certificate is for the wall",
-          "b": "Your graduate frames it, photographs it, shows the family. That is its whole job."
-        },
-        {
-          "role": "value",
-          "h": "The certificate link is for everything else",
-          "b": "· Job applications\n· Profiles\n· Anyone who wants to check it"
-        },
-        {
-          "role": "stat",
-          "h": "Both copies from a single issue",
-          "b": "Diplomy (diplomy.org) produces a printable certificate and its own web page together."
-        },
-        {
-          "role": "cta",
-          "h": "One for the wall, one for the world",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Course certificates lead two lives and need two formats. The printed copy is what your graduate frames and photographs for the family. The link is what goes on applications and profiles, where whoever receives it can open and check it. Issue both at once and neither gets requested later. Diplomy (diplomy.org) produces both. Frame or link, which one do your graduates actually use more? Send it to the academy owner you know. #certificates #academy #training #credentials",
-        "tt": "A copy to frame and a link to share 🖼️ · send it to the academy owner you know #certificates #academy",
-        "fb": "The printed certificate is for the wall. The link is for applications and profiles. Two jobs, two formats, one issue. Diplomy (diplomy.org) produces both."
-      },
-      "alt": "Why a course certificate needs a printable copy and a web link."
+     "role": "value",
+     "photo": "estudiando",
+     "label": "CHECK 4",
+     "h": "A *link* that opens",
+     "b": "One page confirming what your school issued"
     },
     {
-      "slug": "06-who-signs-yours",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SIGNATURES",
-          "h": "Decide who signs your certificates before the next batch",
-          "b": "one name, one role"
-        },
-        {
-          "role": "value",
-          "h": "A signature needs a printed name and role",
-          "b": "It tells whoever reads the certificate who stands behind the course."
-        },
-        {
-          "role": "value",
-          "h": "Two signatures at most",
-          "b": "· The instructor who taught it\n· Your school's director\n· A third is decoration"
-        },
-        {
-          "role": "value",
-          "h": "Three questions for whoever signs your certificates",
-          "b": "· Print this exact name and role?\n· Behind every course in the batch?\n· Who signs when you travel?"
-        },
-        {
-          "role": "stat",
-          "h": "Signed once, applied to every certificate",
-          "b": "Diplomy (diplomy.org) stores signatures with your school's profile and places them on each issue."
-        },
-        {
-          "role": "cta",
-          "h": "Every certificate, signed and answered for",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Signatures on a course certificate mean something when the reader can tell whose they are. Print the name and the role under each one. Two work when the instructor and the school director both stand behind the course, and a third is decoration. Save this for your next batch. Diplomy (diplomy.org) stores them with your issuer profile. Send it to whoever issues your certificates. #certificates #academy #training",
-        "tt": "Decide who signs your certificates ✍️ · send it to whoever issues your certificates #certificates #academy",
-        "fb": "Signature, printed name, role. Two at most, the instructor and the director. Diplomy (diplomy.org) applies them to every certificate automatically."
-      },
-      "alt": "How to decide who signs a school's course certificates."
-    },
-    {
-      "slug": "07-two-proofs-per-course",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "CORPORATE TRAINING",
-          "h": "When a company books your training, certify twice",
-          "b": "the employee and the employer"
-        },
-        {
-          "role": "value",
-          "h": "Each employee gets a portable certificate",
-          "b": "It belongs to them and travels with them through every job change."
-        },
-        {
-          "role": "value",
-          "h": "The company gets the completion list",
-          "b": "· Who finished\n· On what date\n· How many hours each"
-        },
-        {
-          "role": "stat",
-          "h": "One batch, both proofs out",
-          "b": "Diplomy (diplomy.org) issues every employee their own certificate and keeps the course batch together."
-        },
-        {
-          "role": "cta",
-          "h": "The employee covered, the employer covered",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Corporate training has two customers. The employee needs a certificate that belongs to them and survives a job change. The employer needs the list of who finished, on what date, and for how many hours, for their own records. One batch should produce both. Save this for your next company course. Diplomy (diplomy.org) issues both from the same list. Send it to your program coordinator. #corporatetraining #certificates #lnd #training",
-        "tt": "One company course, two kinds of proof 💼 · send it to your program coordinator #corporatetraining #certificates",
-        "fb": "The employee needs a portable certificate. The employer needs the completion list. Same batch, two outputs. Diplomy (diplomy.org) produces both."
-      },
-      "alt": "Certifying corporate training for the employee and the employer at once."
-    },
-    {
-      "slug": "08-put-the-level-on-it",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "LEVELS",
-          "h": "Put the level on your certificates, not just the course",
-          "b": "B1 says more than English"
-        },
-        {
-          "role": "value",
-          "h": "Use the scale your field already speaks",
-          "b": "· Language levels like A2, B1\n· Beginner to advanced\n· Module one, two, three"
-        },
-        {
-          "role": "value",
-          "h": "Levels let your graduates stack certificates",
-          "b": "Three finished levels become three certificates that visibly build on each other."
-        },
-        {
-          "role": "stat",
-          "h": "One certificate per level, automatically",
-          "b": "Diplomy (diplomy.org) issues each level of your programme as its own certificate."
-        },
-        {
-          "role": "cta",
-          "h": "Every level, worth its own line",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Certificate levels do the explaining for you. English Course tells a reader almost nothing, English Course level B1 tells them exactly where your student stands, on a scale their field already understands. It also lets graduates stack certificates as they progress. Save this for your next programme setup. Diplomy (diplomy.org) issues one per level. Send it to the person who signs them. #certificates #languages #training #academy",
-        "tt": "Put the level on the certificate, not just the course 📶 · send it to the person who signs them #certificates #training",
-        "fb": "A2, B1, beginner, advanced, module two. A level makes the certificate readable on its own and lets graduates stack them. Diplomy (diplomy.org) issues one per level."
-      },
-      "alt": "Why course certificates should state the level achieved."
-    },
-    {
-      "slug": "09-hours-are-the-field",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "HOURS",
-          "h": "Hours are the field strangers can compare",
-          "b": "print them on your certificates"
-        },
-        {
-          "role": "value",
-          "h": "Forty hours means the same everywhere",
-          "b": "A reader who has never heard of your school still understands a count of hours."
-        },
-        {
-          "role": "value",
-          "h": "Count what your student actually did",
-          "b": "· Class hours\n· Guided practice\n· Assessment time"
-        },
-        {
-          "role": "stat",
-          "h": "Hours carried onto paper and page",
-          "b": "Diplomy (diplomy.org) prints the hours on each certificate and shows them on its page."
-        },
-        {
-          "role": "cta",
-          "h": "One number that travels on its own",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Hours are the one field on a course certificate that a stranger can weigh without knowing your school. Forty hours of training reads the same to an employer anywhere in the world. Count class time, guided practice and assessment, and print the total. Save this for your next course setup. Diplomy (diplomy.org) carries it onto the certificate and its page. Send it to your director before the next intake. #certificates #training #cpd #academy",
-        "tt": "Print the hours on your certificates ⏱️ · send it to your director before the next intake #certificates #training",
-        "fb": "Hours are comparable across schools in a way course names are not. Count class time, practice and assessment, and print the number. Diplomy (diplomy.org) shows it on the certificate and its page."
-      },
-      "alt": "Why the number of hours belongs on every course certificate."
-    },
-    {
-      "slug": "10-the-year-on-the-course",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "EDITIONS",
-          "h": "Your course changed this year, let its certificate say so",
-          "b": "the year does the work"
-        },
-        {
-          "role": "value",
-          "h": "Some subjects date fast",
-          "b": "· Software tools\n· Regulation\n· Safety procedures"
-        },
-        {
-          "role": "value",
-          "h": "Old certificates stay true to their year",
-          "b": "They certify what your school taught then. Graduates can retake the current edition."
-        },
-        {
-          "role": "stat",
-          "h": "Each edition, its own certificate",
-          "b": "Diplomy (diplomy.org) keeps every year of your course as a separate record."
-        },
-        {
-          "role": "cta",
-          "h": "Same course, honest about its year",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Course editions matter on subjects that move: software, regulation, safety. Putting the year on the certificate keeps every past one true, it certifies what was taught then, and gives graduates a clear reason to come back for the current edition. Save this for your next course update. Diplomy (diplomy.org) keeps each edition separate. Send it to whoever answers the verification emails. #certificates #training #academy",
-        "tt": "Put the year on courses that change 🗓️ · send it to whoever answers the verification emails #certificates #training",
-        "fb": "Software, regulation and safety courses age. The year on the certificate keeps old ones honest and current ones current. Diplomy (diplomy.org) keeps each edition as its own record."
-      },
-      "alt": "Putting the year on certificates for courses that get updated."
-    },
-    {
-      "slug": "11-four-of-six-modules",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "LIFE HAPPENS",
-          "h": "Certify the modules your student did finish",
-          "b": "four of six is real work"
-        },
-        {
-          "role": "value",
-          "h": "Students step away for real reasons",
-          "b": "· A job change\n· A move\n· A new baby"
-        },
-        {
-          "role": "value",
-          "h": "A module certificate states exactly that",
-          "b": "Modules completed and hours attended, with no claim about the full programme."
-        },
-        {
-          "role": "stat",
-          "h": "Modules certified like courses",
-          "b": "Diplomy (diplomy.org) issues one for the modules completed, hours and all."
-        },
-        {
-          "role": "cta",
-          "h": "Four modules done, four modules proven",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Module certificates cover the students who step away mid programme, for reasons that have nothing to do with your course: a job change, a move, a new baby. The modules they finished are real work, and a certificate can say exactly that while claiming nothing about the rest. It also leaves the door open to come back. Diplomy (diplomy.org) certifies modules like courses. Send it to the academy owner you know. #certificates #training #academy",
-        "tt": "Certify the modules they did finish 📗 · send it to the academy owner you know #certificates #training",
-        "fb": "Four of six modules is four modules of real work. Certify those, state them plainly, claim nothing about the rest. Diplomy (diplomy.org) issues module certificates."
-      },
-      "alt": "Issuing module certificates when a student completes part of a programme."
-    },
-    {
-      "slug": "12-a-number-on-every-one",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "NUMBERING",
-          "h": "Number every certificate your school issues",
-          "b": "future you says thanks"
-        },
-        {
-          "role": "value",
-          "h": "A boring format works best",
-          "b": "· The year\n· A course code\n· A running number"
-        },
-        {
-          "role": "value",
-          "h": "One number finds the record in seconds",
-          "b": "A graduate writes in with it years later and your answer takes one search."
-        },
-        {
-          "role": "stat",
-          "h": "Numbered automatically on issue",
-          "b": "Diplomy (diplomy.org) gives each certificate a unique identifier your team can search by."
-        },
-        {
-          "role": "cta",
-          "h": "One number, one certificate, forever",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Certificate numbers look bureaucratic until a graduate writes in about theirs from three years ago. Year, course code, running number: boring on purpose, unique forever, findable in one search. Save this for your next course setup. Diplomy (diplomy.org) assigns one to every certificate it issues. Send it to whoever issues your certificates. #certificates #academy #training #admin",
-        "tt": "Number every certificate you issue 🔢 · send it to whoever issues your certificates #certificates #academy",
-        "fb": "Year, course code, running number. A boring format that makes any certificate findable years later. Diplomy (diplomy.org) assigns one on issue."
-      },
-      "alt": "Why every issued certificate should carry its own number."
-    },
-    {
-      "slug": "13-the-day-they-finish",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SELF PACED",
-          "emoji": "⚡",
-          "h": "Certify a self paced student the day they finish",
-          "b": "the same day, every student"
-        },
-        {
-          "role": "value",
-          "h": "Every student finishes on a different date",
-          "b": "That is the point of self paced. A monthly batch makes everyone wait."
-        },
-        {
-          "role": "value",
-          "h": "Trigger the certificate on completion",
-          "b": "· Last lesson marked done\n· Final quiz passed\n· Certificate on its way"
-        },
-        {
-          "role": "stat",
-          "h": "Issued one at a time, on demand",
-          "b": "Diplomy (diplomy.org) issues a single certificate as easily as a batch of two hundred."
-        },
-        {
-          "role": "cta",
-          "h": "They finish, it arrives",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Self paced students all finish on different days, which is the point of self paced. Batching their certificates for the end of the month means the proof lands weeks after the effort, when the moment has passed. Issue on completion, one at a time. Diplomy (diplomy.org) does it on demand. Do you issue on completion or in a monthly batch? Send it to your program coordinator. #onlinecourses #certificates #edtech #training",
-        "tt": "Certify self paced students the day they finish ⚡ · send it to your program coordinator #onlinecourses #certificates",
-        "fb": "Self paced students finish on their own dates. Batching certificates monthly means the proof lands weeks late. Issue on completion. Diplomy (diplomy.org) issues one at a time."
-      },
-      "alt": "Issuing certificates for self paced courses the day each student finishes."
-    },
-    {
-      "slug": "14-more-than-a-lanyard",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "CONFERENCE SEASON",
-          "emoji": "🏅",
-          "h": "Send your attendees home with more than a lanyard",
-          "b": "conference season is opening"
-        },
-        {
-          "role": "value",
-          "h": "Paper badges retire the night your event ends",
-          "b": "Lanyards land in drawers. What lasts is a record of having been there."
-        },
-        {
-          "role": "value",
-          "h": "Give the credential a slide in your closing talk",
-          "b": "\"Your certificate for this conference, with the hours, arrives by email this week.\" One slide, that line, nothing else."
-        },
-        {
-          "role": "stat",
-          "h": "Credentials that outlast the venue",
-          "b": "Diplomy (diplomy.org) issues event credentials each attendee keeps at a permanent page."
-        },
-        {
-          "role": "cta",
-          "h": "The badge wall empties, the record stays",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Conference season is opening, and the lanyard is the only thing most attendees take home. A credential with the event, the dates and the hours is the part that keeps existing after the badge wall empties. Announce it in one slide of the closing talk, then deliver it. Save this for your fall event. Diplomy (diplomy.org) issues credentials each attendee keeps at a permanent page. Send it to the person who signs them. #events #conferences #certificates #eventprofs",
-        "tt": "Send attendees home with more than a lanyard 🏅 · send it to the person who signs them #events #conferences",
-        "fb": "Lanyards land in drawers the same week. A credential with the event, dates and hours is what attendees keep. Diplomy (diplomy.org) issues it at a permanent page per attendee."
-      },
-      "alt": "Why event attendees should leave with a lasting credential, not just a badge."
-    },
-    {
-      "slug": "15-the-language-it-is-read-in",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "LANGUAGES",
-          "h": "Issue certificates in the language they will be read",
-          "b": "sometimes that means two"
-        },
-        {
-          "role": "value",
-          "h": "The framed copy speaks to the family",
-          "b": "Your graduate's wall copy belongs in the language their family reads."
-        },
-        {
-          "role": "value",
-          "h": "The application copy often needs English",
-          "b": "· Foreign employers\n· Study and visa files\n· International profiles"
-        },
-        {
-          "role": "stat",
-          "h": "Two languages, one record",
-          "b": "Diplomy (diplomy.org) issues both versions from the same certificate, one record behind them."
-        },
-        {
-          "role": "cta",
-          "h": "Read at home, read abroad",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Certificate languages follow the reader. The framed copy at home belongs in the language the family reads, the copy attached to an application abroad usually needs English. Issuing both from one record avoids two competing documents for the same course. Save this for your next international student. Diplomy (diplomy.org) handles both versions. Send it to your director before the next intake. #certificates #academy #training #credentials",
-        "tt": "Issue certificates in the language they will be read 🌍 · send it to your director before the next intake #certificates #academy",
-        "fb": "Local language for the wall, English for the application file. Two versions, one record. Diplomy (diplomy.org) issues both."
-      },
-      "alt": "Issuing a course certificate in two languages from one record."
-    },
-    {
-      "slug": "16-a-code-on-the-paper",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "PRINTED COPIES",
-          "h": "Put a QR code on the certificates you print",
-          "b": "paper can carry the link"
-        },
-        {
-          "role": "value",
-          "h": "The code opens the certificate's own page",
-          "b": "Anyone holding the printed copy reaches the online version in one scan."
-        },
-        {
-          "role": "value",
-          "h": "Keep it small and place it once",
-          "b": "· Bottom corner\n· Web address printed under it\n· Same spot on every certificate"
-        },
-        {
-          "role": "stat",
-          "h": "Generated with every printable file",
-          "b": "Diplomy (diplomy.org) adds the code pointing at that certificate's page automatically."
-        },
-        {
-          "role": "cta",
-          "h": "Paper in the hand, page one scan away",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Printed certificates do not have to be dead ends. A small QR code in the bottom corner, with the web address printed under it for anyone who prefers typing, connects the paper copy to its online page in one scan. Keep it in the same spot on every certificate. Diplomy (diplomy.org) generates it with the printable file. Send it to whoever answers the verification emails. #certificates #academy #training #print",
-        "tt": "Put a QR code on the certificates you print 📄 · send it to whoever answers the verification emails #certificates #academy",
-        "fb": "A small code in the corner, web address underneath, and the paper copy connects to its online page in one scan. Diplomy (diplomy.org) generates it with every printable file."
-      },
-      "alt": "Adding a QR code that links a printed certificate to its web page."
-    },
-    {
-      "slug": "17-someone-to-show-it-to",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "CPD HOURS",
-          "h": "Your attendees have someone waiting to see proof",
-          "b": "a boss, a professional body"
-        },
-        {
-          "role": "value",
-          "h": "Conference trips get justified back at the office",
-          "b": "An approved trip comes with quiet homework: show what it counted for."
-        },
-        {
-          "role": "value",
-          "h": "What their file needs from your event",
-          "b": "· Hours their body counts\n· Dates matching the programme\n· An issuer anyone can check"
-        },
-        {
-          "role": "stat",
-          "h": "A record built for that file",
-          "b": "Diplomy (diplomy.org) issues event credentials with hours, dates and issuer on one page."
-        },
-        {
-          "role": "cta",
-          "h": "The trip approved, the proof delivered",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Continuing education hours are why many professionals attend your event, and their file back at the office needs three things from you: hours their professional body counts, dates that match the programme, and an issuer anyone can check. Deliver those and your event fits straight into their record. Save this for your next conference. Diplomy (diplomy.org) issues exactly that. Send it to the academy owner you know. #cpd #conferences #events #certificates",
-        "tt": "Your attendees have someone waiting to see proof 💼 · send it to the academy owner you know #cpd #conferences",
-        "fb": "A boss, an HR file, a professional body. Attendees need hours, dates and a checkable issuer from your event. Diplomy (diplomy.org) puts all three on one page."
-      },
-      "alt": "What an event credential needs so attendees can file it for professional hours."
-    },
-    {
-      "slug": "18-a-certificate-lands-on-your-desk",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "ENROLLMENT SEASON",
-          "h": "An applicant just handed you a certificate",
-          "b": "read it on your phone"
-        },
-        {
-          "role": "value",
-          "h": "Open the page behind the paper",
-          "b": "Scan the code or type the address printed on it. The online record appears."
-        },
-        {
-          "role": "value",
-          "h": "Compare three lines against the paper",
-          "b": "· The name\n· The course and level\n· The issue date"
-        },
-        {
-          "role": "stat",
-          "h": "Pages made for the front desk",
-          "b": "Diplomy (diplomy.org) shows issuer, recipient and date first on every certificate page."
-        },
-        {
-          "role": "cta",
-          "h": "Paper in hand, answer on screen",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Enrollment season brings certificates to your desk: applicants for advanced levels, transfer students, people placing out of module one. Scan the code or type the printed address, and compare three lines against the paper: name, course and level, issue date. A phone at the front desk covers it. Save this for intake week. Diplomy (diplomy.org) builds pages for exactly that reading. Send it to whoever issues your certificates. #admissions #certificates #academy #enrollment",
-        "tt": "An applicant just handed you a certificate 📱 · send it to whoever issues your certificates #admissions #certificates",
-        "fb": "Scan the code, open the page, compare name, course and date against the paper. A phone at the front desk covers placement season. Diplomy (diplomy.org) puts those three first on every page."
-      },
-      "alt": "Reading a printed certificate against its web page at an admissions desk."
-    },
-    {
-      "slug": "19-your-past-intakes-count-too",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "PAST GRADUATES",
-          "h": "Your graduates from past years can still get certificates",
-          "b": "the class lists still exist"
-        },
-        {
-          "role": "value",
-          "h": "Issue from the records you kept",
-          "b": "· Pick one past intake\n· Confirm names and dates\n· Issue with the real completion date"
-        },
-        {
-          "role": "value",
-          "h": "The record carries both dates",
-          "b": "Completed in 2024, issued in 2026. Whoever opens it sees exactly that."
-        },
-        {
-          "role": "stat",
-          "h": "A past intake certified in an afternoon",
-          "b": "Diplomy (diplomy.org) issues a whole past intake from a class list, dates kept accurate."
-        },
-        {
-          "role": "cta",
-          "h": "They finished years ago, certify them anyway",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Past graduates are a certificate project waiting in your filing cabinet. Pick one old intake, confirm names and dates from the class list, and issue with the real completion date on the record: completed in 2024, issued in 2026, both true. Every graduate you reach gets proof they thought they would never have. Save this for a quiet afternoon. Diplomy (diplomy.org) issues the whole intake from the list. Send it to your program coordinator. #alumni #certificates #academy #training",
-        "tt": "Graduates from past years can still get certificates 🗂️ · send it to your program coordinator #alumni #certificates",
-        "fb": "The class lists from past years are enough. Confirm names and dates, issue with the real completion date, and graduates from 2024 finally get their proof. Diplomy (diplomy.org) keeps both dates honest."
-      },
-      "alt": "Issuing certificates to graduates from past intakes using old class lists."
-    },
-    {
-      "slug": "20-small-certificates-stack",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "ONE PER SKILL",
-          "h": "Certify each skill on its own",
-          "b": "small certificates stack"
-        },
-        {
-          "role": "value",
-          "h": "One certificate per finished thing",
-          "b": "· A workshop\n· A module\n· A single tool course"
-        },
-        {
-          "role": "value",
-          "h": "Graduates lead with the two that match",
-          "b": "Applying somewhere specific, your graduate picks the certificates that fit that exact job."
-        },
-        {
-          "role": "stat",
-          "h": "Issuing small costs nothing extra",
-          "b": "Diplomy (diplomy.org) makes a one afternoon workshop as easy to certify as a full course."
-        },
-        {
-          "role": "cta",
-          "h": "Small proofs that add up",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "One certificate covering a whole year of study is hard for a graduate to use. Five certificates, one per workshop, module or tool, let them lead with the two that match the job in front of them. Issuing small only works when it costs nothing extra, which is the point. Diplomy (diplomy.org) makes it that cheap in effort. Send it to the person who signs them. #microcredentials #certificates #training #openbadges",
-        "tt": "Certify each skill on its own 🧩 · send it to the person who signs them #microcredentials #certificates",
-        "fb": "One certificate per workshop, module or tool. Graduates then lead with the ones that match the job. Diplomy (diplomy.org) makes small issues as easy as big ones."
-      },
-      "alt": "Why issuing one certificate per skill helps graduates use them."
-    },
-    {
-      "slug": "21-the-word-at-the-top",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "WORDING",
-          "h": "Choose the word at the top of your certificate",
-          "b": "certificate, diploma or record"
-        },
-        {
-          "role": "value",
-          "h": "Match the word to the work",
-          "b": "· Certificate for a course\n· Diploma for a long assessed programme\n· Record for attendance and hours"
-        },
-        {
-          "role": "value",
-          "h": "Heavy words are worth saving",
-          "b": "A two hour workshop called a diploma leaves the word empty for your flagship programme."
-        },
-        {
-          "role": "stat",
-          "h": "Your titles, per programme",
-          "b": "Diplomy (diplomy.org) lets every programme carry the exact title you choose for it."
-        },
-        {
-          "role": "cta",
-          "h": "The right word on the right course",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Certificate, diploma and record are not interchangeable. The word at the top sets what a reader expects. Certificate for a course, diploma for a long assessed programme, record for attendance and hours. Spend the heavy words on the programmes that earn them. Diplomy (diplomy.org) prints the title you choose per programme. Where do you draw the line between a certificate and a diploma? Send it to your director before the next intake. #certificates #academy #training",
-        "tt": "Certificate, diploma or record, choose on purpose 📜 · send it to your director before the next intake #certificates #academy",
-        "fb": "Certificate for a course, diploma for a long assessed programme, record for attendance. Save the heavy words for the work that earns them. Diplomy (diplomy.org) supports each."
-      },
-      "alt": "Choosing between certificate, diploma and record as a document title."
-    },
-    {
-      "slug": "22-reissue-the-yearly-round",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "RENEWALS",
-          "h": "Your yearly refresher courses are coming back around",
-          "b": "run the renewals before December"
-        },
-        {
-          "role": "value",
-          "h": "Pull last year's list first",
-          "b": "· Who was certified\n· When each one runs out\n· Who to schedule this quarter"
-        },
-        {
-          "role": "value",
-          "h": "The new certificate carries its own dates",
-          "b": "Last year's stays on record with its dates. The current one shows this year's."
-        },
-        {
-          "role": "stat",
-          "h": "Renewals run from the record",
-          "b": "Diplomy (diplomy.org) shows what your school issued and when each certificate runs out."
-        },
-        {
-          "role": "cta",
-          "h": "This year's round, done before December",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Renewal season sneaks up on every school that teaches safety, first aid or compliance. Pull last year's list, see when each certificate runs out, and schedule this quarter's refreshers now instead of squeezing them into December. Each new certificate carries its own dates and last year's stays on record. Save this for your renewals planning. Diplomy (diplomy.org) runs it from the record. Send it to whoever answers the verification emails. #compliance #training #certificates #safety",
-        "tt": "Your yearly refreshers are coming back around 🔁 · send it to whoever answers the verification emails #compliance #training",
-        "fb": "Pull last year's list, check the dates, schedule the refreshers this quarter. New certificate with new dates, old one still on record. Diplomy (diplomy.org) shows when each one runs out."
-      },
-      "alt": "Planning yearly refresher courses from last year's certificate records."
-    },
-    {
-      "slug": "23-fewer-letters-to-write",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "LETTERS",
-          "h": "Answer requests for letters with a certificate link",
-          "b": "write fewer letters this intake"
-        },
-        {
-          "role": "value",
-          "h": "Most letter requests want three facts",
-          "b": "· That the person studied with you\n· What they studied\n· When they finished"
-        },
-        {
-          "role": "value",
-          "h": "The reply your office sends, copy it",
-          "b": "\"Here is the certificate page, with course and dates. Write back if anything is missing.\" The link goes with it."
-        },
-        {
-          "role": "stat",
-          "h": "The link your office sends instead",
-          "b": "Diplomy (diplomy.org) gives your office a link that answers on your behalf."
-        },
-        {
-          "role": "cta",
-          "h": "The link goes out, the letter stays unwritten",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Letters of completion pile up every intake, and most requests want three facts: that the person studied with you, what they studied, and when they finished. A certificate page states all three with dates, so send the link first and reserve letters for the rare case that genuinely needs one. Save this for your office. Diplomy (diplomy.org) keeps the link ready. Send it to the academy owner you know. #certificates #academy #admin #alumni",
-        "tt": "Answer letter requests with a certificate link ✉️ · send it to the academy owner you know #certificates #academy",
-        "fb": "Who studied with you, what they studied, when they finished. A certificate page answers all three, dated. Send the link first, write letters last. Diplomy (diplomy.org) keeps it ready."
-      },
-      "alt": "Using a certificate link to answer requests for letters of completion."
-    },
-    {
-      "slug": "24-the-reimbursement-file",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "TUITION SUPPORT",
-          "h": "Some of your students are expensing your course",
-          "b": "help their paperwork along"
-        },
-        {
-          "role": "value",
-          "h": "Employers reimburse against proof",
-          "b": "· Completion confirmed\n· The dates it ran\n· Your school named as provider"
-        },
-        {
-          "role": "value",
-          "h": "A certificate link fits the claim",
-          "b": "Whoever approves it opens the record directly. Nothing extra to request from your office."
-        },
-        {
-          "role": "stat",
-          "h": "Paperwork your students stop asking for",
-          "b": "Diplomy (diplomy.org) issues course certificates their employer's forms can point to."
-        },
-        {
-          "role": "cta",
-          "h": "Course finished, claim filed, everyone moves on",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Tuition reimbursement is quietly paying for more of your seats than you think, and every one of those students owes their employer proof: completion confirmed, the dates the course ran, your school named as the provider. A certificate link carries all of it, so the approver opens the record directly and nobody writes to your office. Save this for your working students. Diplomy (diplomy.org) issues it that way. Send it to whoever issues your certificates. #tuitionreimbursement #training #certificates #lnd",
-        "tt": "Your students are expensing your course 💼 · send it to whoever issues your certificates #training #certificates",
-        "fb": "Working students need proof for the reimbursement file: completion, dates, provider. A certificate link carries all three. Diplomy (diplomy.org) issues it ready to attach."
-      },
-      "alt": "How a certificate link supports a student's tuition reimbursement claim."
-    },
-    {
-      "slug": "25-the-name-behind-the-course",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "INSTRUCTORS",
-          "h": "Name the instructor on the certificate itself",
-          "b": "students chose them first"
-        },
-        {
-          "role": "value",
-          "h": "In trades, the teacher is the draw",
-          "b": "Students pick the person before the school. Readers of a certificate weigh the same thing."
-        },
-        {
-          "role": "value",
-          "h": "One line under the course",
-          "b": "· Instructor's name\n· Their role\n· Their qualification"
-        },
-        {
-          "role": "stat",
-          "h": "Instructors stored per course",
-          "b": "Diplomy (diplomy.org) remembers who teaches what and prints it on every issue."
-        },
-        {
-          "role": "cta",
-          "h": "The person who taught it, in print",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Instructor names belong on certificates in trades, therapies and specialised training, where students choose the teacher before the school. One line under the course, name, role, qualification, makes the certificate more specific and keeps your best teachers visible. Save this for your next course setup. Diplomy (diplomy.org) stores it per course. Send it to your program coordinator. #certificates #training #academy #instructors",
-        "tt": "Name the instructor on the certificate 👩‍🏫 · send it to your program coordinator #certificates #training",
-        "fb": "Students choose the teacher before the school. One line with the instructor's name, role and qualification makes the certificate more specific. Diplomy (diplomy.org) prints it per course."
-      },
-      "alt": "Printing the instructor's name and qualification on a course certificate."
-    },
-    {
-      "slug": "26-rebrand-without-losing-anything",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "REBRANDS",
-          "h": "Rebrand your school without losing a single certificate",
-          "b": "old links keep opening"
-        },
-        {
-          "role": "value",
-          "h": "Your issued certificates keep their links",
-          "b": "Everything your graduates already shared keeps opening, exactly as it was issued."
-        },
-        {
-          "role": "value",
-          "h": "Update the issuer profile once",
-          "b": "· New logo\n· New colours\n· Same school behind it"
-        },
-        {
-          "role": "stat",
-          "h": "The archive survives the makeover",
-          "b": "Diplomy (diplomy.org) keeps every past certificate reachable while your new brand goes on the next batch."
-        },
-        {
-          "role": "cta",
-          "h": "New brand, nothing broken behind it",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Rebrands scare schools for one quiet reason: years of issued certificates carrying the old look. The links your graduates already shared should keep opening exactly as before, while the new logo and colours go on the next batch through one issuer profile update. Save this for the season you redesign. Diplomy (diplomy.org) keeps the archive intact through it. Send it to the person who signs them. #branding #academy #certificates #rebrand",
-        "tt": "Rebrand without losing a single certificate 🎨 · send it to the person who signs them #branding #academy",
-        "fb": "A rebrand should never break a graduate's proof. Old links keep opening, the new brand goes on the next batch, one profile update in between. Diplomy (diplomy.org) handles it that way."
-      },
-      "alt": "Keeping issued certificates working through a school rebrand."
-    },
-    {
-      "slug": "27-before-they-even-enroll",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "COURSE PAGES",
-          "h": "Your course page should show the certificate too",
-          "b": "people ask before they enroll"
-        },
-        {
-          "role": "value",
-          "h": "Three questions every prospect asks",
-          "b": "· Is there a certificate\n· What will it say\n· Can an employer see it"
-        },
-        {
-          "role": "value",
-          "h": "Show a sample and its page",
-          "b": "One sample image and one example page settle it before anyone writes in."
-        },
-        {
-          "role": "stat",
-          "h": "An example always ready to link",
-          "b": "Diplomy (diplomy.org) gives every certificate its own page, ready to show as the sample."
-        },
-        {
-          "role": "cta",
-          "h": "Asked before enrolling, answered on the page",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Course page checklists usually skip the thing prospects ask about in the first message: the certificate. Is there one, what will it say, can an employer see it. A sample image and a link to one example page answer all three before anyone writes in. Save this for your next course page edit. Diplomy (diplomy.org) gives you the page to link. Does your course page show the certificate, or do people have to ask? Send it to your director before the next intake. #academy #certificates #enrollment #training",
-        "tt": "Your course page should show the certificate too 👀 · send it to your director before the next intake #academy #certificates",
-        "fb": "Is there a certificate, what will it say, can an employer see it. Answer on the course page with a sample image and an example link. Diplomy (diplomy.org) provides the page."
-      },
-      "alt": "Showing a sample certificate and its page on a course landing page."
-    },
-    {
-      "slug": "28-close-september-clean",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "MONTH END",
-          "emoji": "✅",
-          "h": "Check who is still waiting before September closes",
-          "b": "fifteen minutes, three numbers"
-        },
-        {
-          "role": "value",
-          "h": "Three numbers close the month",
-          "b": "· Certificates issued\n· Courses that issued none\n· Students finished, still waiting"
-        },
-        {
-          "role": "value",
-          "h": "The third number is the urgent one",
-          "b": "Anyone finished and still waiting deserves theirs this week."
-        },
-        {
-          "role": "stat",
-          "h": "Issued and pending, side by side",
-          "b": "Diplomy (diplomy.org) shows what went out this month and who is still due."
-        },
-        {
-          "role": "cta",
-          "h": "September closed with nobody waiting",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Month end check for schools, fifteen minutes: how many certificates went out, which courses issued none, and who finished but is still waiting. The third number is the one to act on this week. Save this for the last Monday of every month. Diplomy (diplomy.org) shows issued and pending side by side. Send it to whoever answers the verification emails. #academy #certificates #training #admin",
-        "tt": "Close September with nobody waiting ✅ · send it to whoever answers the verification emails #academy #certificates",
-        "fb": "Issued, courses with none, students still waiting. Fifteen minutes at month end, and the third number is the one to act on. Diplomy (diplomy.org) shows both views."
-      },
-      "alt": "A month end review of issued and pending certificates."
-    },
-    {
-      "slug": "29-one-quarter-left",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "TRAINING BUDGETS",
-          "emoji": "📅",
-          "h": "Your training budget has one quarter left",
-          "b": "book the courses and the proof"
-        },
-        {
-          "role": "value",
-          "h": "What you book now finishes by December",
-          "b": "Q4 fills fast. Courses scheduled this week still close inside the budget year."
-        },
-        {
-          "role": "value",
-          "h": "Ask for the records when you book",
-          "b": "· One certificate per employee\n· Hours and dates stated\n· A link anyone in HR can open"
-        },
-        {
-          "role": "stat",
-          "h": "Completion records, delivered as links",
-          "b": "Diplomy (diplomy.org) gives training providers a way to deliver every completion as a checkable record."
-        },
-        {
-          "role": "cta",
-          "h": "Budget spent well, proof to show for it",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "Training budget season enters its last quarter this week, and what gets booked now is what finishes inside the year. When you book, ask the provider for the records up front: one certificate per employee, hours and dates stated, a link anyone in HR can open later. Save this for your Q4 planning. Diplomy (diplomy.org) is how providers deliver exactly that. Send it to the academy owner you know. #lnd #trainingbudget #certificates #hr",
-        "tt": "Your training budget has one quarter left 📅 · send it to the academy owner you know #lnd #training",
-        "fb": "Q4 is the last quarter of the training budget year. Book the courses now and ask for one certificate per employee, with hours, dates and a link HR can open. Diplomy (diplomy.org) delivers completions that way."
-      },
-      "alt": "Planning fourth quarter training and requesting completion records up front."
-    },
-    {
-      "slug": "30-october-closes-courses",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "NEXT MONTH",
-          "h": "List the courses you will close in October",
-          "b": "ten minutes now saves an afternoon"
-        },
-        {
-          "role": "value",
-          "h": "Write down what ends next month",
-          "b": "· Courses finishing\n· One off workshops\n· Corporate groups wrapping up"
-        },
-        {
-          "role": "value",
-          "h": "Prepare each certificate text this week",
-          "b": "Course name, criteria and signer settled now turn each October closing into minutes."
-        },
-        {
-          "role": "stat",
-          "h": "Courses held ready until they close",
-          "b": "Diplomy (diplomy.org) keeps each course set up and waiting for its closing date."
-        },
-        {
-          "role": "cta",
-          "h": "October planned, certificates already drafted",
-          "b": "diplomy.org"
-        }
-      ],
-      "caption": {
-        "ig": "October planning for schools starts with one list: the courses finishing, the one off workshops, the corporate groups wrapping up next month. Prepare each certificate text this week, course name, criteria, signer, and every October closing becomes minutes instead of an afternoon. Save this for your planning session. Diplomy (diplomy.org) holds each course ready until it closes. Send it to whoever issues your certificates. #academy #training #certificates #planning",
-        "tt": "List the courses you will close in October 🗓️ · send it to whoever issues your certificates #academy #certificates",
-        "fb": "Courses ending, one off workshops, corporate groups. List them now, prepare the certificate text this week, and October closings take minutes. Diplomy (diplomy.org) holds them ready."
-      },
-      "alt": "Preparing certificate text for the courses closing next month."
+     "role": "closer",
+     "h": "Diplomy gives every certificate its *own page*",
+     "b": "Your academy designs it, issues the PDF and the \"badge\", and anyone can open the link to check it."
     }
-  ]
+   ],
+   "caption": {
+    "ig": "Course certificates and what a recruiter reads first. Four things get scanned before anything else: who issued it, what it took, the hours, and a link that opens. Save this before your next intake closes. Diplomy (diplomy.org) is where an academy issues certificates that carry all four. #certificates #onlinecourses #training",
+    "tt": "Course certificates: four things a recruiter scans first. Which one is missing from the ones your academy sends? #certificates #edtech",
+    "fb": "A recruiter reads a course certificate for four things: who issued it, what it took, the hours, and a link that opens. Diplomy (diplomy.org) puts all four on every certificate an academy sends."
+   },
+   "alt": "A course certificate open on a laptop while someone reviews an application."
+  },
+  {
+   "slug": "02-easy-to-check",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "diploma",
+     "kicker": "BEFORE YOU ISSUE",
+     "h": "3 things that make your certificates *easy to check*",
+     "b": "for whoever receives it"
+    },
+    {
+     "role": "value",
+     "label": "THING 1",
+     "h": "A *fixed address*",
+     "b": "One link per certificate, always the same"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "THING 2",
+     "h": "The *issuer* named",
+     "b": "Your academy, on the page and the PDF"
+    },
+    {
+     "role": "value",
+     "label": "THING 3",
+     "h": "A live *check*",
+     "b": "Confirmed live, each time your link opens"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy is where your academy *issues* them",
+     "b": "Every certificate gets its own \"verify page\", a PDF and a \"badge\", all in your school's brand."
+    }
+   ],
+   "caption": {
+    "ig": "Digital certificates: what makes one easy to check. Three things do the work, a fixed address, the issuing school named on it, and a page that confirms the certificate every time it opens. Save this for the week your next course ends. Diplomy (diplomy.org) issues certificates built that way. #digitalcredentials #certificates #edtech",
+    "tt": "Three things that make a course certificate easy to check. Send this to whoever designs the ones at your school. #certificates #openbadges",
+    "fb": "What makes a certificate easy to check: a fixed link, the issuing school named on it, and a page that confirms it live. Diplomy (diplomy.org) issues certificates with all three."
+   },
+   "alt": "A printed certificate on a desk next to its verification page."
+  },
+  {
+   "slug": "03-syllabus-lines",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "aula",
+     "kicker": "NEW INTAKE",
+     "h": "3 lines to add to your *course syllabus*",
+     "b": "read on the first day of class"
+    },
+    {
+     "role": "value",
+     "label": "LINE 1",
+     "h": "The exact *title*",
+     "b": "The name your students will read on it"
+    },
+    {
+     "role": "value",
+     "photo": "profesor",
+     "label": "LINE 2",
+     "h": "What *earning it* takes",
+     "b": "The work your student has to finish"
+    },
+    {
+     "role": "value",
+     "label": "LINE 3",
+     "h": "Where it will *live*",
+     "b": "The link your student can open later"
+    },
+    {
+     "role": "value",
+     "photo": "estudiando",
+     "label": "COPY THIS",
+     "h": "Paste under *Evaluation*",
+     "b": "\"Your certificate lives at its own link.\""
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy issues what your *syllabus promised*",
+     "b": "Your academy designs the certificate, sends the whole group, and each student gets a link they can open."
+    }
+   ],
+   "caption": {
+    "ig": "Course syllabus template, the certificate section most outlines skip. Three lines: the exact title it will carry, what earning it takes, and where it will live online. Save this for the first class of your next intake. Diplomy (diplomy.org) issues the certificate you announce in week one. #syllabus #onlinecourses #training",
+    "tt": "Three lines your course syllabus is probably missing. Send this to whoever writes the outline at your school. #syllabus #certificates",
+    "fb": "Most course outlines never mention the certificate. Three lines fix it: the exact title, what earning it takes, and where it will live. Diplomy (diplomy.org) issues it when the course closes."
+   },
+   "alt": "A course syllabus being reviewed in a classroom before a new intake starts."
+  },
+  {
+   "slug": "04-the-hour-a-course-ends",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "graduacion",
+     "h": "3 things to do in the hour your *course ends*",
+     "b": "while everyone is still in the room"
+    },
+    {
+     "role": "value",
+     "label": "STEP 1",
+     "h": "Check the *names*",
+     "b": "Spelling, as your student wrote it"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "STEP 2",
+     "h": "Send the *whole group*",
+     "b": "One batch, same evening, nobody waits"
+    },
+    {
+     "role": "value",
+     "label": "STEP 3",
+     "h": "Tell them *where*",
+     "b": "The link your students can open"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy sends a *whole intake* at once",
+     "b": "Your academy uploads the list and every student gets a certificate, a PDF and a shareable link."
+    }
+   ],
+   "caption": {
+    "ig": "Course completion certificates and the best hour to send them. Three steps while the group is still in the room: check the spelling of every name, send the whole batch at once, and tell them where the link lives. Save this for your next closing day. Diplomy (diplomy.org) issues a full intake in one go. #certificates #training #elearning",
+    "tt": "The hour a course ends is the best hour to certify it. When does your school send them? #certificates #onlinecourses",
+    "fb": "The hour a course ends is when the certificate means the most. Check the names, send the whole group, tell them where the link lives. Diplomy (diplomy.org) issues the intake in one go."
+   },
+   "alt": "Students at a closing ceremony the day their course ends."
+  },
+  {
+   "slug": "05-hours-on-it",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "estudiando",
+     "h": "Put the *hours* on the certificates you send",
+     "b": "the number a stranger can compare"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "WHY",
+     "h": "Hours *travel*",
+     "b": "Any employer reads a number the same way"
+    },
+    {
+     "role": "value",
+     "label": "WHERE",
+     "h": "On the *front*",
+     "b": "Next to the course name, not in a footnote"
+    },
+    {
+     "role": "value",
+     "photo": "profesor",
+     "label": "HOW",
+     "h": "Count *contact hours*",
+     "b": "Class time plus assessed work"
+    },
+    {
+     "role": "value",
+     "label": "ALSO",
+     "h": "Add the *dates*",
+     "b": "Start and end, so the hours have a window"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy carries the *hours* on both",
+     "b": "The certificate PDF and its \"verify page\" show the same hours, under your academy's brand."
+    }
+   ],
+   "caption": {
+    "ig": "Course certificates and the one field that travels: hours. An employer who has never heard of your academy still reads a number the same way. Put it on the front, next to the course name, with the start and end dates around it. Save this before your next batch goes out. Diplomy (diplomy.org) carries the hours on the PDF and on the page. #certificates #corporatetraining #edtech",
+    "tt": "Hours are the field on a course certificate that anyone can compare. Do the ones your school sends show them? #certificates #training",
+    "fb": "Hours are the one field on a course certificate that a stranger can compare. Put them on the front with the dates. Diplomy (diplomy.org) shows the same hours on the PDF and the page."
+   },
+   "alt": "A student studying, with course hours logged in a notebook."
+  },
+  {
+   "slug": "06-attended-or-completed",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "auditorio",
+     "h": "Say whether your student *attended or completed*",
+     "b": "two different certificates"
+    },
+    {
+     "role": "value",
+     "label": "ATTENDED",
+     "h": "Sat through *the sessions*",
+     "b": "Right for a congress or a talk"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "COMPLETED",
+     "h": "Finished the *work*",
+     "b": "Assessed, graded, with a result"
+    },
+    {
+     "role": "value",
+     "label": "THE RULE",
+     "h": "Print *which one*",
+     "b": "One word at the top tells the reader"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy issues *both kinds*",
+     "b": "Attendance for your congress, completion for your course, each one with its own \"verify page\"."
+    }
+   ],
+   "caption": {
+    "ig": "Certificate of attendance vs certificate of completion, the difference in one word. Attendance means the sessions were sat through. Completion means the work was assessed. Print which one at the top and the reader knows immediately. Save this for your next event. Diplomy (diplomy.org) issues both kinds. #certificates #events #training",
+    "tt": "Attendance or completion, one word at the top of a certificate changes what it says. Which does your school issue? #certificates #edtech",
+    "fb": "Attendance and completion are two different certificates. One says the sessions were attended, the other says the work was assessed. Diplomy (diplomy.org) issues both."
+   },
+   "alt": "An audience in a lecture hall during a conference session."
+  },
+  {
+   "slug": "07-three-places-uncertified",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-curso",
+     "h": "3 places a finished course goes *uncertified*",
+     "b": "and how to close each one"
+    },
+    {
+     "role": "value",
+     "label": "PLACE 1",
+     "h": "The *free* workshop",
+     "b": "Two hours of real teaching, no record"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "PLACE 2",
+     "h": "The *make up* session",
+     "b": "The student who finished a month late"
+    },
+    {
+     "role": "value",
+     "label": "PLACE 3",
+     "h": "The *in house* course",
+     "b": "Your staff training with a sign in sheet"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy certifies *the small ones* too",
+     "b": "A two hour workshop gets the same \"verify page\" as a six month program, in your academy's brand."
+    }
+   ],
+   "caption": {
+    "ig": "Digital certificates for the courses that never get one. Three places teaching happens and no record comes out: the free workshop, the student who finished late, and the in house staff course. Each one is a certificate waiting to be issued. Save this before you plan the next term. Diplomy (diplomy.org) issues the small ones too. #certificates #corporatetraining #elearning",
+    "tt": "Three courses that finish every month and never get certified. Send this to whoever runs training at your company. #training #certificates",
+    "fb": "A free workshop, a late finisher and an in house staff course all teach something and rarely produce a record. Diplomy (diplomy.org) certifies the short ones as easily as the long ones."
+   },
+   "alt": "An online course open on a laptop at the end of a session."
+  },
+  {
+   "slug": "08-number-every-one",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "diploma",
+     "h": "Give every certificate you issue a *number*",
+     "b": "so any of them can be found again"
+    },
+    {
+     "role": "value",
+     "label": "FORMAT",
+     "h": "Course, year, *count*",
+     "b": "Short, readable, easy to say out loud"
+    },
+    {
+     "role": "value",
+     "photo": "estudiando",
+     "label": "WHERE",
+     "h": "On the *front* face",
+     "b": "Small, near the date, not hidden"
+    },
+    {
+     "role": "value",
+     "label": "THE POINT",
+     "h": "One *phone call*",
+     "b": "A student reads it out, you find it"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy numbers *every certificate*",
+     "b": "Each one gets its own id and its own link, so your academy can find any of them years later."
+    }
+   ],
+   "caption": {
+    "ig": "Certificate numbering for schools that issue in batches. A short id on the front, course plus year plus count, means a graduate can read it out on the phone and you find the record in seconds. Save this for the next batch you prepare. Diplomy (diplomy.org) numbers every certificate and gives each one a link. #certificates #edtech #academy",
+    "tt": "Every certificate your academy issues should carry a number. Does yours? #certificates #training",
+    "fb": "A short id on the front of a certificate, course plus year plus count, turns a phone call into a lookup. Diplomy (diplomy.org) numbers every certificate and gives each one its own link."
+   },
+   "alt": "A certificate with its issue number printed near the date."
+  },
+  {
+   "slug": "09-congress-lanyard",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "auditorio",
+     "kicker": "CONFERENCE SEASON",
+     "h": "Send your attendees home with *more than a lanyard*",
+     "b": "the certificate your event promised"
+    },
+    {
+     "role": "value",
+     "label": "SAME DAY",
+     "h": "Issue at *closing*",
+     "b": "While your attendees are still there"
+    },
+    {
+     "role": "value",
+     "photo": "auditorio",
+     "label": "ON IT",
+     "h": "Talk, date, *hours*",
+     "b": "What they attended and for how long"
+    },
+    {
+     "role": "value",
+     "label": "LATER",
+     "h": "One link, *no email*",
+     "b": "Attendees reopen their own certificate"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy is built for *one big batch*",
+     "b": "Your organiser uploads the attendee list once and every certificate goes out with its own link."
+    }
+   ],
+   "caption": {
+    "ig": "Congress attendance certificates, issued the same day the event closes. Put the talk, the date and the hours on it, hand over one link, and the requests for a second copy stop arriving in January. Save this for your next event week. Diplomy (diplomy.org) issues a whole attendee list in one batch. #events #certificates #training",
+    "tt": "Attendees remember the certificate longer than the lanyard. When does your event send them out? #events #certificates",
+    "fb": "An attendance certificate issued at closing, with the talk, the date and the hours on it, is what an attendee actually keeps. Diplomy (diplomy.org) issues the full list in one batch."
+   },
+   "alt": "Attendees seated in an auditorium during the closing session of a congress."
+  },
+  {
+   "slug": "10-name-the-instructor",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "profesor",
+     "h": "Name the instructor on the certificates you *issue*",
+     "b": "the person who actually taught it"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "WHY",
+     "h": "People follow *people*",
+     "b": "Your student remembers who taught them"
+    },
+    {
+     "role": "value",
+     "label": "HOW",
+     "h": "Name and *role*",
+     "b": "Lead instructor, printed on the front"
+    },
+    {
+     "role": "value",
+     "photo": "biblioteca",
+     "label": "ALSO",
+     "h": "The *signature*",
+     "b": "One signer per course, decided early"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy keeps the *instructor* on it",
+     "b": "The name shows on the certificate and on its \"verify page\", under your academy's brand."
+    }
+   ],
+   "caption": {
+    "ig": "Course certificates and the name that belongs on them. A student remembers the instructor long after the course code fades, so print the name and the role on the front and decide the signer before the batch goes out. Save this for your next closing day. Diplomy (diplomy.org) keeps the instructor on the certificate and on the page. #certificates #academy #onlinecourses",
+    "tt": "The instructor's name belongs on the certificate. Send this to whoever taught your last course. #certificates #edtech",
+    "fb": "Students remember who taught them long after they forget the course code. Print the instructor's name and role on the certificate. Diplomy (diplomy.org) keeps it on the page too."
+   },
+   "alt": "An instructor in front of a class at the end of a course."
+  },
+  {
+   "slug": "11-word-at-the-top",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "diploma",
+     "h": "3 words that can sit at the top of a *certificate*",
+     "b": "each one says something different"
+    },
+    {
+     "role": "value",
+     "label": "WORD 1",
+     "h": "*Certificate* of completion",
+     "b": "The student finished and was assessed"
+    },
+    {
+     "role": "value",
+     "photo": "auditorio",
+     "label": "WORD 2",
+     "h": "Certificate of *attendance*",
+     "b": "They were there for the sessions"
+    },
+    {
+     "role": "value",
+     "label": "WORD 3",
+     "h": "*Diploma* of the program",
+     "b": "A long program with several courses"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "THE RULE",
+     "h": "Pick *one* per course",
+     "b": "Use the same word for every intake"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy prints the *word you pick*",
+     "b": "Your academy sets the title, the design and the brand, and every certificate goes out matching."
+    }
+   ],
+   "caption": {
+    "ig": "Certificate wording: the word at the top decides what the whole page means. Completion for assessed work, attendance for sessions, diploma for a long program. Pick one per course and keep it across intakes. Save this before you design the next template. Diplomy (diplomy.org) prints whichever one your academy picks. #certificates #edtech #academy",
+    "tt": "Completion, attendance or diploma. Which word sits at the top of the ones your school issues? #certificates #training",
+    "fb": "The word at the top of a certificate does most of the work: completion, attendance or diploma. Pick one per course and keep it. Diplomy (diplomy.org) prints the one your school chooses."
+   },
+   "alt": "A certificate seen close up, with the title line at the top."
+  },
+  {
+   "slug": "12-frame-and-link",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "graduacion",
+     "kicker": "GRADUATION",
+     "h": "Give your graduates one to *frame* and one to share",
+     "b": "the wall and the internet"
+    },
+    {
+     "role": "value",
+     "photo": "graduacion",
+     "label": "THE PRINT",
+     "h": "For the *wall*",
+     "b": "High resolution PDF, ready to frame"
+    },
+    {
+     "role": "value",
+     "label": "THE LINK",
+     "h": "For *everywhere else*",
+     "b": "One page they can send to anyone"
+    },
+    {
+     "role": "value",
+     "photo": "biblioteca",
+     "label": "BOTH",
+     "h": "Same *certificate*",
+     "b": "One record, two ways to show it"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy sends *both* at once",
+     "b": "Every certificate your academy issues comes with a printable PDF and a link that opens on any phone."
+    }
+   ],
+   "caption": {
+    "ig": "Graduation certificates that work on a wall and on a phone. The PDF gets framed, the link gets sent, and both point at the same record. Save this for the week your graduating group finishes. Diplomy (diplomy.org) issues the print file and the link together. #graduation #certificates #academy",
+    "tt": "Graduates want one to frame and one to send. Does your school give them both? #graduation #certificates",
+    "fb": "A graduate frames the print and shares the link. Both come from the same record. Diplomy (diplomy.org) issues the printable PDF and the link at the same time."
+   },
+   "alt": "Graduates holding their certificates on graduation day."
+  },
+  {
+   "slug": "13-qr-on-printed",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "diploma",
+     "h": "Put a *QR code* on the certificates you print",
+     "b": "paper that leads somewhere"
+    },
+    {
+     "role": "value",
+     "label": "WHERE",
+     "h": "Bottom *right* corner",
+     "b": "Away from the signature and the seal"
+    },
+    {
+     "role": "value",
+     "photo": "profesor",
+     "label": "SIZE",
+     "h": "*Two centimetres* wide",
+     "b": "Scannable from a phone held normally"
+    },
+    {
+     "role": "value",
+     "label": "IT OPENS",
+     "h": "Your *certificate's* page",
+     "b": "Not your homepage, that exact one"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy makes the *code for you*",
+     "b": "Every certificate your academy issues gets a link and a matching QR for the printed copy."
+    }
+   ],
+   "caption": {
+    "ig": "Printed certificates with a QR code, and where the code should go. Bottom right, about two centimetres, opening the page for that exact certificate instead of your homepage. Save this before you send the next print run. Diplomy (diplomy.org) generates the code with the certificate. #certificates #printdesign #edtech",
+    "tt": "A QR on a printed certificate should open that certificate, not the homepage. Where does yours point? #certificates #edtech",
+    "fb": "A QR code on a printed certificate works when it is big enough, out of the way of the signature, and opens that exact certificate. Diplomy (diplomy.org) generates it for you."
+   },
+   "alt": "A printed certificate with a QR code in the lower corner."
+  },
+  {
+   "slug": "14-language",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "biblioteca",
+     "h": "3 rules for the *language* on your certificates",
+     "b": "not always the one you teach in"
+    },
+    {
+     "role": "value",
+     "label": "RULE 1",
+     "h": "Follow the *reader*",
+     "b": "Where your student will present it"
+    },
+    {
+     "role": "value",
+     "photo": "estudiando",
+     "label": "RULE 2",
+     "h": "Keep *names* as written",
+     "b": "Full name exactly as on their ID"
+    },
+    {
+     "role": "value",
+     "label": "RULE 3",
+     "h": "Two *versions* is fine",
+     "b": "Same course, same number, two files"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy issues in *your language*",
+     "b": "Your academy sets the template text once and every certificate in that intake comes out matching."
+    }
+   ],
+   "caption": {
+    "ig": "Certificates in more than one language, and the three rules that keep them consistent. Write for the person who will read it, keep every name exactly as the student writes it, and issue two versions of the same record when it helps. Save this before your next international intake. Diplomy (diplomy.org) issues in the language your academy sets. #certificates #languageschool #edtech",
+    "tt": "Certificates travel further than the classroom. Which language do the ones your school sends use? #certificates #languageschool",
+    "fb": "Write the certificate for whoever will read it, keep names exactly as the student writes them, and two language versions of one record are fine. Diplomy (diplomy.org) issues in the language you set."
+   },
+   "alt": "A study desk in a library with course materials in two languages."
+  },
+  {
+   "slug": "15-modules-finished",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-curso",
+     "h": "Certify the modules your student *did finish*",
+     "b": "four out of six still counts"
+    },
+    {
+     "role": "value",
+     "label": "THE CASE",
+     "h": "*Life* happens",
+     "b": "Your student stopped at module four"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "WHAT TO SEND",
+     "h": "A *module* certificate",
+     "b": "Names the modules they completed"
+    },
+    {
+     "role": "value",
+     "label": "HOW IT READS",
+     "h": "*Partial*, and clear",
+     "b": "Nothing claimed for what came after"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy issues *per module* too",
+     "b": "Your academy can certify a single module or a whole program, each one with its own \"verify page\"."
+    }
+   ],
+   "caption": {
+    "ig": "Module certificates for students who finish part of a program. Four modules out of six is real learning and it can carry a record that names exactly what was completed. Save this for the students on your current roster who paused. Diplomy (diplomy.org) issues per module or per program. #elearning #certificates #onlinecourses",
+    "tt": "Four modules out of six is still four modules. Does your school certify them? #onlinecourses #certificates",
+    "fb": "A student who finished four modules of six has completed something worth a record. A module certificate names exactly what was done. Diplomy (diplomy.org) issues per module or per program."
+   },
+   "alt": "An online course dashboard showing completed modules."
+  },
+  {
+   "slug": "16-self-paced",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-curso",
+     "h": "Certify a self paced student the *day they finish*",
+     "b": "everyone ends on a different date"
+    },
+    {
+     "role": "value",
+     "label": "TRIGGER 1",
+     "h": "Last lesson *done*",
+     "b": "Marked complete in your course platform"
+    },
+    {
+     "role": "value",
+     "photo": "estudiando",
+     "label": "TRIGGER 2",
+     "h": "Final quiz *passed*",
+     "b": "The score your academy asks for"
+    },
+    {
+     "role": "value",
+     "label": "THEN",
+     "h": "It *goes out*",
+     "b": "One certificate, that same day"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy issues *one at a time*",
+     "b": "Your academy sends a single certificate as easily as two hundred, each with its own link."
+    }
+   ],
+   "caption": {
+    "ig": "Self paced courses and when to issue the certificate. Every student ends on a different date, so tie it to the last lesson and the final quiz instead of a monthly batch. Save this for the cohort finishing this month. Diplomy (diplomy.org) issues one certificate as easily as a full batch. #onlinecourses #elearning #certificates",
+    "tt": "Self paced students all finish on different days. Does your school certify on completion or in batches? #onlinecourses #elearning",
+    "fb": "Self paced students finish on their own dates, so tie the certificate to the last lesson and the final quiz. Diplomy (diplomy.org) issues one at a time or two hundred at once."
+   },
+   "alt": "A self paced online course finished on a laptop at home."
+  },
+  {
+   "slug": "17-refresher-renewals",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "aula",
+     "h": "The course you teach every year deserves a *dated* certificate",
+     "b": "plan the reissue before they do"
+    },
+    {
+     "role": "value",
+     "label": "STEP 1",
+     "h": "List who *renews*",
+     "b": "The group you trained twelve months ago"
+    },
+    {
+     "role": "value",
+     "photo": "profesor",
+     "label": "STEP 2",
+     "h": "Set the *expiry* date",
+     "b": "On the certificate, the day you issue"
+    },
+    {
+     "role": "value",
+     "label": "STEP 3",
+     "h": "Reissue as *new*",
+     "b": "A fresh certificate with a fresh date"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy handles *expiry dates*",
+     "b": "A certificate that expires says so on its own page, so your academy never explains it twice."
+    }
+   ],
+   "caption": {
+    "ig": "Recurring training and certificate renewals. Safety, first aid and compliance courses come back every year, so list the group from twelve months ago, set the expiry when you issue, and reissue as a new certificate with a new date. Save this for your renewal season. Diplomy (diplomy.org) puts the expiry on the page itself. #corporatetraining #compliance #certificates",
+    "tt": "Annual refresher training comes back around. Who on your list renews this quarter? #corporatetraining #certificates",
+    "fb": "Annual refreshers need a certificate with an expiry on it, then a new one when the course repeats. Diplomy (diplomy.org) shows the expiry on the certificate page itself."
+   },
+   "alt": "A classroom during an annual refresher training session."
+  },
+  {
+   "slug": "18-past-intakes",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "graduacion",
+     "h": "Your *past graduates* can still get their certificates",
+     "b": "the records are still yours"
+    },
+    {
+     "role": "value",
+     "label": "START",
+     "h": "Pull the *old list*",
+     "b": "Names, course and dates from your files"
+    },
+    {
+     "role": "value",
+     "photo": "biblioteca",
+     "label": "THEN",
+     "h": "Use the *original dates*",
+     "b": "The course dates, not today's"
+    },
+    {
+     "role": "value",
+     "label": "THE MESSAGE",
+     "h": "One line, one *link*",
+     "b": "Your certificate now has a page"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy takes your *old records*",
+     "b": "Upload a list from any year and every past student gets a certificate with its own link."
+    }
+   ],
+   "caption": {
+    "ig": "Reissuing certificates for graduates from earlier years. The names, courses and dates are already in your files, so a past intake can receive a certificate carrying its original dates and a link that opens today. Save this for a quiet week. Diplomy (diplomy.org) issues from a list of any year. #alumni #certificates #academy",
+    "tt": "Graduates from three years ago can still receive a certificate with a link. Send this to whoever keeps your alumni list. #alumni #certificates",
+    "fb": "Past intakes are already in your records. A list of names, courses and dates is enough to issue certificates with their original dates. Diplomy (diplomy.org) does it from any year."
+   },
+   "alt": "Graduates from a previous year at their ceremony."
+  },
+  {
+   "slug": "19-linkedin-fields",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-curso",
+     "h": "Add your course to a student's LinkedIn in *one tap*",
+     "b": "where their whole network sees it"
+    },
+    {
+     "role": "value",
+     "label": "FIELD 1",
+     "h": "Issuing *organisation*",
+     "b": "Your academy's name, written once"
+    },
+    {
+     "role": "value",
+     "photo": "estudiando",
+     "label": "FIELD 2",
+     "h": "Credential *URL*",
+     "b": "The link your student pastes in"
+    },
+    {
+     "role": "value",
+     "label": "FIELD 3",
+     "h": "Issue *date*",
+     "b": "The month the course ended"
+    },
+    {
+     "role": "value",
+     "photo": "graduacion",
+     "label": "THE EFFECT",
+     "h": "Your name *travels*",
+     "b": "Every profile it lands on names your school"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy fills those *fields for them*",
+     "b": "Each certificate comes with a \"badge\" and a link your student adds to their profile in one tap."
+    }
+   ],
+   "caption": {
+    "ig": "Open badges and the LinkedIn licenses and certifications section. Three fields do it: the issuing organisation, the credential URL and the issue date. Every profile that adds them carries your school's name with a link. Save this for the week your course closes. Diplomy (diplomy.org) hands your student a badge and a link. #openbadges #linkedin #certificates",
+    "tt": "A course certificate belongs on a student's profile, not in a folder. Do the ones your school sends have a link? #openbadges #certificates",
+    "fb": "Adding a course to LinkedIn takes three fields: issuing organisation, credential URL and issue date. Diplomy (diplomy.org) gives your student a badge and a link that fills them."
+   },
+   "alt": "A student adding a course credential to their profile on a laptop."
+  },
+  {
+   "slug": "20-course-page",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-curso",
+     "kicker": "ENROLLMENT WEEK",
+     "h": "Show the certificate on your *course page* too",
+     "b": "before anyone signs up"
+    },
+    {
+     "role": "value",
+     "label": "SHOW",
+     "h": "A *sample* certificate",
+     "b": "The real design, with a sample name"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "SAY",
+     "h": "What *earns* it",
+     "b": "The work your student has to finish"
+    },
+    {
+     "role": "value",
+     "label": "LINK",
+     "h": "A live *example* page",
+     "b": "Let a visitor open one and look"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy gives you a *page to show*",
+     "b": "Your academy designs the certificate once and can link a live example straight from the course page."
+    }
+   ],
+   "caption": {
+    "ig": "Course landing pages and the section most of them skip: the certificate. Show the real design with a sample name, say what earns it, and link a live example a visitor can open. Save this before your enrollment page goes up. Diplomy (diplomy.org) gives you the example page to link. #onlinecourses #marketing #certificates",
+    "tt": "Enrollment pages rarely show the certificate. Does yours? #onlinecourses #certificates",
+    "fb": "A course page that shows the certificate, says what earns it and links a live example answers a question every visitor has. Diplomy (diplomy.org) gives you the page to link."
+   },
+   "alt": "A course enrollment page open on a laptop during registration week."
+  },
+  {
+   "slug": "21-checks-before-a-batch",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "diploma",
+     "kicker": "BEFORE YOU SEND",
+     "h": "Run these 4 checks before your *next batch*",
+     "b": "the ones that save the reissues"
+    },
+    {
+     "role": "value",
+     "label": "CHECK 1",
+     "h": "Names as *written*",
+     "b": "Match your enrollment form, not memory"
+    },
+    {
+     "role": "value",
+     "photo": "estudiando",
+     "label": "CHECK 2",
+     "h": "Course *title*",
+     "b": "The same wording as your syllabus"
+    },
+    {
+     "role": "value",
+     "label": "CHECK 3",
+     "h": "Dates and *hours*",
+     "b": "Start, end, total, all three present"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "CHECK 4",
+     "h": "Open *one* yourself",
+     "b": "Read it the way your student will"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy shows a *preview* first",
+     "b": "Your academy checks one certificate on screen before the whole batch goes out with its links."
+    }
+   ],
+   "caption": {
+    "ig": "Certificate batches and the four checks that save the reissues: names exactly as the student wrote them, the course title matching the syllabus, dates and hours all present, and one certificate opened and read before the rest go. Save this for the day before you send. Diplomy (diplomy.org) previews one before the batch. #certificates #academy #training",
+    "tt": "Four checks before a certificate batch goes out. Which one does your school forget? #certificates #training",
+    "fb": "Four checks before sending a certificate batch: the names, the course title, the dates and hours, and one certificate opened and read yourself. Diplomy (diplomy.org) previews one first."
+   },
+   "alt": "A certificate reviewed on screen before a batch goes out."
+  },
+  {
+   "slug": "22-criteria-lines",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "biblioteca",
+     "h": "3 lines to copy onto your *course certificate*",
+     "b": "the part people actually read"
+    },
+    {
+     "role": "value",
+     "label": "LINE 1",
+     "h": "What they *completed*",
+     "b": "\"Completed all course hours listed.\""
+    },
+    {
+     "role": "value",
+     "photo": "profesor",
+     "label": "LINE 2",
+     "h": "What they *did*",
+     "b": "\"Passed the final assessment.\""
+    },
+    {
+     "role": "value",
+     "label": "LINE 3",
+     "h": "Where to *check*",
+     "b": "\"Verify your certificate at the link.\""
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy has a *criteria field*",
+     "b": "Whatever your academy writes there shows on the certificate and on its \"verify page\"."
+    }
+   ],
+   "caption": {
+    "ig": "Certificate criteria wording you can copy today. Three lines: what was completed, what was passed, and where the certificate can be checked. That block is the difference between a decorative page and a record. Save this for your next template edit. Diplomy (diplomy.org) has a criteria field that prints on both. #certificates #edtech #training",
+    "tt": "Three lines to copy onto your course certificate. Send this to whoever owns your template. #certificates #edtech",
+    "fb": "Three lines worth copying onto a course certificate: what was completed, what was passed, and where it can be checked. Diplomy (diplomy.org) prints them on the certificate and the page."
+   },
+   "alt": "A certificate template being edited at a library desk."
+  },
+  {
+   "slug": "23-letter-requests",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-curso",
+     "h": "Answer proof of study requests with *one link*",
+     "b": "the same one every time"
+    },
+    {
+     "role": "value",
+     "label": "THE ASK",
+     "h": "Proof of *study*",
+     "b": "A former student needs it for a job"
+    },
+    {
+     "role": "value",
+     "photo": "biblioteca",
+     "label": "THE OLD WAY",
+     "h": "A letter, *retyped*",
+     "b": "Signed, scanned and sent, each time"
+    },
+    {
+     "role": "value",
+     "label": "THE ANSWER",
+     "h": "Send the *link*",
+     "b": "Their certificate page, open to anyone"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy answers those *for you*",
+     "b": "Every certificate your academy issued keeps its own page, so one link replaces the letter."
+    }
+   ],
+   "caption": {
+    "ig": "Proof of study requests and how to stop retyping letters. A former student applying for a job needs something a stranger can open, and a certificate page does it in one link, the same link every time. Save this for the next request that lands in your inbox. Diplomy (diplomy.org) keeps a page for every certificate you issued. #certificates #academy #admin",
+    "tt": "Proof of study requests take one link, not one letter. How many landed in your inbox this month? #certificates #academy",
+    "fb": "A former student asking for proof of study needs something anyone can open. A certificate page answers it in one link. Diplomy (diplomy.org) keeps that page for every certificate."
+   },
+   "alt": "An email request for proof of study open on a laptop."
+  },
+  {
+   "slug": "24-reimbursement",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-curso",
+     "h": "Some of your students are *expensing* your course",
+     "b": "give them what finance asks for"
+    },
+    {
+     "role": "value",
+     "label": "THEY NEED",
+     "h": "Proof it *happened*",
+     "b": "Course, dates, hours and their name"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "AND",
+     "h": "Something *checkable*",
+     "b": "A link your student's employer opens"
+    },
+    {
+     "role": "value",
+     "label": "SO",
+     "h": "Issue it *early*",
+     "b": "The week your course ends, not later"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy covers the *finance side*",
+     "b": "The certificate page shows course, dates and hours, so your student's employer can confirm it."
+    }
+   ],
+   "caption": {
+    "ig": "Course reimbursement and what a finance team asks for. Employees expensing a course need the course name, the dates, the hours and their own name, plus something their employer can open. Save this for the students on your roster paying through work. Diplomy (diplomy.org) shows all of it on the certificate page. #corporatetraining #certificates #elearning",
+    "tt": "Students who expense your course need proof their finance team can open. Does yours give them one? #corporatetraining #certificates",
+    "fb": "Students paying through their employer need the course, the dates, the hours and a link finance can open. Diplomy (diplomy.org) puts all of it on the certificate page."
+   },
+   "alt": "A course invoice and certificate open side by side on a laptop."
+  },
+  {
+   "slug": "25-rebrand",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "biblioteca",
+     "h": "Rebrand your academy and keep *every certificate*",
+     "b": "the old ones still open"
+    },
+    {
+     "role": "value",
+     "label": "RULE 1",
+     "h": "Links *stay* the same",
+     "b": "Old certificates keep their address"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "RULE 2",
+     "h": "New *look*, new intakes",
+     "b": "Change the design going forward"
+    },
+    {
+     "role": "value",
+     "label": "RULE 3",
+     "h": "Say the *old name*",
+     "b": "One line: formerly known as"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy keeps *old links* alive",
+     "b": "Your academy can change its logo and its design without moving a single certificate page."
+    }
+   ],
+   "caption": {
+    "ig": "Rebranding a school without breaking what you already issued. Keep the old links working, apply the new design from the next intake, and add one line naming the former school on the older records. Save this for the week the new identity goes live. Diplomy (diplomy.org) keeps every issued page at the same address. #rebrand #academy #certificates",
+    "tt": "A rebrand should never break a certificate a graduate already has. Send this to whoever is redesigning your school. #academy #certificates",
+    "fb": "A rebrand keeps the old certificate links working, applies the new design from the next intake, and names the former school on older records. Diplomy (diplomy.org) never moves a page."
+   },
+   "alt": "An academy archive of past certificates in a library."
+  },
+  {
+   "slug": "26-level-on-it",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "aula",
+     "h": "Put the level on it, not just the *course name*",
+     "b": "beginner reads nothing like advanced"
+    },
+    {
+     "role": "value",
+     "label": "WHY",
+     "h": "*Levels* compare",
+     "b": "A reader places your course instantly"
+    },
+    {
+     "role": "value",
+     "photo": "estudiando",
+     "label": "HOW",
+     "h": "One *word* is enough",
+     "b": "Beginner, intermediate or advanced"
+    },
+    {
+     "role": "value",
+     "label": "OR",
+     "h": "Use a *known scale*",
+     "b": "Language schools already have one"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy puts the *level* on it",
+     "b": "Course name, level and hours all show on the certificate and on its own \"verify page\"."
+    }
+   ],
+   "caption": {
+    "ig": "Course levels on a certificate and why they matter to whoever reads it. A course name alone means nothing to a stranger, while beginner, intermediate or advanced places it immediately, and language schools can use the scale they already teach to. Save this for your next template edit. Diplomy (diplomy.org) prints the level next to the hours. #languageschool #certificates #edtech",
+    "tt": "A course name alone tells a stranger nothing. Does your certificate show the level? #certificates #languageschool",
+    "fb": "Beginner, intermediate or advanced tells a reader more than the course name alone, and language schools already have a scale. Diplomy (diplomy.org) prints the level next to the hours."
+   },
+   "alt": "A classroom lesson at an intermediate level course."
+  },
+  {
+   "slug": "27-who-signs",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "profesor",
+     "h": "Decide who signs the certificates your academy *sends*",
+     "b": "before the next batch goes out"
+    },
+    {
+     "role": "value",
+     "label": "OPTION 1",
+     "h": "The *director*",
+     "b": "The same signature on every one"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "OPTION 2",
+     "h": "The *instructor*",
+     "b": "Closer to the student, per course"
+    },
+    {
+     "role": "value",
+     "label": "THE RULE",
+     "h": "Pick *one* and keep it",
+     "b": "A signature people start to know"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy stores the *signature* once",
+     "b": "Your academy uploads it and every certificate in the batch goes out signed the same way."
+    }
+   ],
+   "caption": {
+    "ig": "Certificate signatures and who should sign. The director gives one recognisable mark across every course, the instructor gives a name the student already knows, and the only mistake is changing it every term. Save this before your next batch. Diplomy (diplomy.org) stores the signature once and applies it to the whole batch. #certificates #academy #training",
+    "tt": "Director or instructor, who signs the certificates at your school? #certificates #academy",
+    "fb": "A certificate signature works when it stays the same: the director for consistency, the instructor for closeness. Diplomy (diplomy.org) stores it once and applies it to every certificate."
+   },
+   "alt": "An instructor signing course certificates at a desk."
+  },
+  {
+   "slug": "28-corporate-two-records",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "auditorio",
+     "h": "When a company books your training, certify *twice*",
+     "b": "the person and the company"
+    },
+    {
+     "role": "value",
+     "label": "RECORD 1",
+     "h": "For the *employee*",
+     "b": "Their own certificate, their own link"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "RECORD 2",
+     "h": "For the *company*",
+     "b": "One list of who trained and when"
+    },
+    {
+     "role": "value",
+     "label": "WHY BOTH",
+     "h": "Two *different* readers",
+     "b": "One keeps a career, one keeps a file"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy issues *both records*",
+     "b": "Your academy sends each employee a certificate and keeps the whole roster in one place."
+    }
+   ],
+   "caption": {
+    "ig": "Corporate training records and the two things a client company needs. The employee keeps a certificate with a link they can carry to any job, and the company keeps one list of who trained and when for its own file. Save this for your next corporate booking. Diplomy (diplomy.org) issues both. #corporatetraining #certificates #compliance",
+    "tt": "Corporate training needs two records: one for the employee, one for the company. Send this to whoever books your training. #corporatetraining #certificates",
+    "fb": "A company that books training needs a roster for its file, and each employee needs a certificate they can carry anywhere. Diplomy (diplomy.org) issues both from the same course."
+   },
+   "alt": "Employees at a corporate training session in an auditorium."
+  },
+  {
+   "slug": "29-quarter-left",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "auditorio",
+     "kicker": "BUDGET SEASON",
+     "h": "Training budgets have *one quarter* left",
+     "b": "companies book their courses now"
+    },
+    {
+     "role": "value",
+     "label": "THEY WANT",
+     "h": "Courses that *close*",
+     "b": "Finished and certified before year end"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "SO OFFER",
+     "h": "Short *formats*",
+     "b": "One or two day intensives with hours"
+    },
+    {
+     "role": "value",
+     "label": "AND",
+     "h": "Certify *right after*",
+     "b": "Their file needs a record, not a promise"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy turns a course into a *record*",
+     "b": "Every certificate your academy issues lands with hours, dates and a link their finance team can open."
+    }
+   ],
+   "caption": {
+    "ig": "Corporate training budgets and the last quarter of the year. Companies want courses that finish and get certified before the books close, which favours short intensives with clear hours and a record issued right after. Save this for your Q4 outreach. Diplomy (diplomy.org) turns each course into a certificate with hours and a link. #corporatetraining #training #certificates",
+    "tt": "Companies spend the last of their training budget on courses that actually close. Which short format could your school run? #corporatetraining #training",
+    "fb": "Training budgets run out with the year, so companies book courses that finish and certify in time. Diplomy (diplomy.org) issues the record with hours, dates and a link."
+   },
+   "alt": "A corporate training session held in a lecture hall."
+  },
+  {
+   "slug": "30-close-the-term",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "graduacion",
+     "h": "3 steps to close every course your academy *runs this term*",
+     "b": "one date, one batch each"
+    },
+    {
+     "role": "value",
+     "label": "STEP 1",
+     "h": "Write the *end dates*",
+     "b": "Every group finishing in the next weeks"
+    },
+    {
+     "role": "value",
+     "photo": "aula",
+     "label": "STEP 2",
+     "h": "Freeze the *name list*",
+     "b": "Full names checked, one file per course"
+    },
+    {
+     "role": "value",
+     "label": "STEP 3",
+     "h": "Issue on *closing day*",
+     "b": "The same day the last class ends"
+    },
+    {
+     "role": "closer",
+     "h": "Diplomy does *one batch* per course",
+     "b": "Upload the list, and every student gets a certificate, a PDF and a link they can open."
+    }
+   ],
+   "caption": {
+    "ig": "Closing a term without leaving certificates behind. Write the end date of every group, freeze one checked name list per course, and issue on closing day instead of whenever the admin catches up. Save this for your end of term planning. Diplomy (diplomy.org) issues one batch per course. #academy #certificates #training",
+    "tt": "Three steps to close a term with every course certified. How many groups finish at your school this month? #academy #certificates",
+    "fb": "Closing a term cleanly takes three things: the end date of every group, one checked name list per course, and certificates issued on closing day. Diplomy (diplomy.org) does a batch per course."
+   },
+   "alt": "Students at the closing ceremony of a term."
+  }
+ ]
 }

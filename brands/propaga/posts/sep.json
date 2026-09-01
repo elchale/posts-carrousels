@@ -1,1315 +1,1456 @@
 {
-  "series": "sep",
-  "brand": "propaga",
-  "posts": [
+ "series": "sep",
+ "brand": "propaga",
+ "format": "f1",
+ "posts": [
+  {
+   "slug": "01-respuestas-precio",
+   "slides": [
     {
-      "slug": "01-promo-vencida",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "MES NUEVO",
-          "emoji": "😬",
-          "h": "Te están pidiendo la promo que venció en julio",
-          "b": "limpia tu feed en 10 minutos"
-        },
-        {
-          "role": "value",
-          "h": "Lo que se archiva hoy",
-          "b": "· sorteos ya sorteados\n· promos vencidas\n· saludos de feriados pasados"
-        },
-        {
-          "role": "value",
-          "h": "Lo que se actualiza hoy",
-          "b": "· portada con foto de este mes\n· horario si cambió\n· el número que sí contesta"
-        },
-        {
-          "role": "value",
-          "h": "Archiva, no borres",
-          "b": "El post guardado puede volver en un toque. La oferta muerta a la vista, no."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-contenido.png",
-          "h": "Todo tu contenido, en una sola pantalla.",
-          "b": "En propaga.pe ves los posts de todas tus redes juntos: lo vencido salta a la vista."
-        },
-        {
-          "role": "cta",
-          "h": "Septiembre entra a un feed limpio.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Limpieza de feed para negocios al empezar el mes: archiva sorteos pasados y promos vencidas, actualiza portada, horario y número, y deja a la vista solo lo que sigue a la venta. Guárdalo para cada primero de mes. Mándaselo a la amiga que tiene su emprendimiento. #negociosperu #instagramparanegocios #septiembre #emprendedores",
-        "tt": "Tu feed sigue ofreciendo la promo de julio 😬 · mándaselo a la amiga que tiene su emprendimiento #negociosperu #emprendedores #tips",
-        "fb": "Hoy alguien va a entrar a tu perfil por primera vez y va a encontrar el sorteo de mayo y la promo de julio. Diez minutos de limpieza: archivar lo vencido, actualizar portada, horario y número. Un feed al día responde solo."
-      },
-      "alt": "Checklist de limpieza del feed de un negocio para empezar septiembre: archivar lo vencido y actualizar los datos."
+     "role": "cover",
+     "photo": "manos-celular",
+     "h": "4 respuestas al *«¿precio?»* que sí venden",
+     "b": "cópialas tal cual"
     },
     {
-      "slug": "02-post-enterrado",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "📌",
-          "h": "Tu mejor post está enterrado",
-          "b": "y el cliente que llega hoy no lo verá"
-        },
-        {
-          "role": "value",
-          "h": "Los 3 que se fijan arriba",
-          "b": "· el que explica qué vendes\n· el más compartido\n· el que enseña cómo pedirte"
-        },
-        {
-          "role": "value",
-          "h": "Tus últimos 9 cuadritos deciden",
-          "b": "El que llega ve una cuadrícula, no tu historia. Que esos nueve digan qué vendes."
-        },
-        {
-          "role": "value",
-          "h": "La prueba del extraño",
-          "b": "Abre tu perfil como si no te conocieras: ¿en 5 segundos se entiende qué vendes y cómo pedir?"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-movil.png",
-          "h": "Tu perfil ordenado, sin excavar.",
-          "b": "Desde propaga.pe revisas todo lo que publicaste y ves qué falta antes que tu cliente."
-        },
-        {
-          "role": "cta",
-          "h": "Desentierra tu mejor post hoy.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Posts fijados para negocios: el que explica qué vendes, el más compartido y el de cómo pedirte, siempre arriba. Después, la prueba del extraño: ¿tu perfil se entiende en 5 segundos? Guárdalo para ordenar tu perfil esta noche. Mándaselo a quien responde tus mensajes. #instagramparanegocios #negociosperu #emprendedores",
-        "tt": "Tu mejor post existe pero nadie lo ve 📌 · mándaselo a quien responde tus mensajes #negociosperu #tipsdenegocio #emprendedores",
-        "fb": "El cliente nuevo no va a scrollear 3 meses para encontrar tu mejor post: ve tus últimos 9 cuadritos y decide. Fija tus 3 posts que venden y haz la prueba del extraño: ¿se entiende qué vendes en 5 segundos?"
-      },
-      "alt": "Cómo ordenar el perfil de un negocio: tres posts fijados y la prueba de los cinco segundos."
+     "role": "value",
+     "label": "RESPUESTA 1",
+     "h": "«Te paso *precio y foto* ahora»",
+     "b": "el número en el primer mensaje"
     },
     {
-      "slug": "03-luego-te-aviso",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "😤",
-          "h": "Te dijo «luego te aviso» y nunca volvió",
-          "b": "el mensaje que lo trae de vuelta"
-        },
-        {
-          "role": "value",
-          "h": "El mensaje, tal cual",
-          "b": "«¡Hola Rosa! Me quedó uno del que te gustó. ¿Te lo separo hasta mañana?»"
-        },
-        {
-          "role": "value",
-          "h": "Cuándo mandarlo",
-          "b": "· al día siguiente\n· uno solo, nunca dos\n· siempre con dato nuevo"
-        },
-        {
-          "role": "value",
-          "h": "La regla del pretexto",
-          "b": "Sin novedad no hay mensaje: «¿te animaste?» presiona; «me queda uno» ayuda."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-respuestas.png",
-          "h": "Los «luego te aviso», juntos y a la mano.",
-          "b": "propaga.pe guarda tus respuestas listas y junta los chats de todas tus redes: el seguimiento toma un minuto."
-        },
-        {
-          "role": "cta",
-          "h": "Ese «luego» de ayer se contesta hoy.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Mensaje de seguimiento para ventas por chat: se manda al día siguiente, uno solo, y siempre con un dato nuevo («me quedó uno, ¿te lo separo?»). Guárdalo para tu próximo «luego te aviso». Mándaselo al que sube las historias. #ventas #whatsapp #negociosperu #emprendedores",
-        "tt": "Te dijo «luego te aviso» y desapareció 😤 este mensaje lo trae · mándaselo al que sube las historias #ventas #negociosperu #tips",
-        "fb": "La mitad de tus ventas se queda en «luego te aviso». El mensaje que las rescata: al día siguiente, uno solo, con novedad («me quedó uno del que te gustó, ¿te lo separo hasta mañana?»). Pregunta seria: ¿hacer seguimiento es buena atención o es presionar? Hay dos equipos. Mándaselo al que sube las historias."
-      },
-      "alt": "El mensaje de seguimiento exacto para recuperar al cliente que dijo luego te aviso."
+     "role": "value",
+     "label": "RESPUESTA 2",
+     "h": "«Incluye el envío en *Lima*»",
+     "b": "resuelve la duda que sigue"
     },
     {
-      "slug": "04-tarjetita-empaque",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "📦",
-          "h": "Tu clienta quería etiquetarte y no encontró tu @",
-          "b": "la tarjetita que trabaja por ti"
-        },
-        {
-          "role": "value",
-          "h": "Las 3 líneas de la tarjetita",
-          "b": "· un gracias con tu tono\n· tu @ y tu WhatsApp\n· «etiquétanos y te compartimos»"
-        },
-        {
-          "role": "value",
-          "h": "Dónde va",
-          "b": "Pegada al empaque, dentro de la bolsa, bajo la tapa. Justo donde se toma la foto."
-        },
-        {
-          "role": "value",
-          "h": "Cada paquete es un post que tú no escribes",
-          "b": "La clienta que etiqueta te presenta a todos sus amigos. Gratis y con su voz."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-comentarios.png",
-          "h": "Las menciones llegan y no se pierden.",
-          "b": "propaga.pe junta las etiquetas y comentarios de todas tus redes: reposteas con permiso en un toque."
-        },
-        {
-          "role": "cta",
-          "h": "Imprime la tarjetita antes del próximo pedido.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Marketing de empaque para negocios: una tarjetita con tu gracias, tu @ y un «etiquétanos y te compartimos» convierte cada entrega en contenido de tus clientes. Guárdalo para tu próxima tanda de pedidos. Mándaselo a quien toma las fotos. #empaque #negociosperu #marketingdigital #emprendedores",
-        "tt": "Tu paquete sale sin tu @ y ella quería etiquetarte 📦 · mándaselo a quien toma las fotos #negociosperu #emprendedores #marketing",
-        "fb": "La clienta abre el paquete, le encanta, quiere subirlo a su historia… y no encuentra tu @. Una tarjetita de tres líneas lo arregla: gracias, tu usuario y un «etiquétanos y te compartimos». El empaque también publica."
-      },
-      "alt": "La tarjeta de agradecimiento con el usuario del negocio dentro del empaque para conseguir etiquetas de clientes."
+     "role": "value",
+     "label": "RESPUESTA 3",
+     "h": "«Te lo *separo* hasta mañana»",
+     "b": "para el que dice que lo piensa"
     },
     {
-      "slug": "05-estados-whatsapp",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "📱",
-          "h": "Tus caseros miran tu estado y tú no subes nada",
-          "b": "el canal que ya tienes ganado"
-        },
-        {
-          "role": "value",
-          "h": "Ahí no compites con nadie",
-          "b": "Tu estado de WhatsApp solo lo ven los que ya guardaron tu número. Gente que ya te conoce, cero ruido."
-        },
-        {
-          "role": "value",
-          "h": "Los 3 estados de la semana",
-          "b": "· lo que llegó hoy\n· el producto en uso\n· el «se agota» real"
-        },
-        {
-          "role": "value",
-          "h": "Todo estado se contesta",
-          "b": "El que responde un estado ya está comprando. Esa conversación va primero en tu día."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-whatsapp.png",
-          "h": "WhatsApp también entra a tu bandeja.",
-          "b": "propaga.pe junta los chats de tus redes y WhatsApp en un solo lugar: ningún «¿sigue disponible?» se enfría."
-        },
-        {
-          "role": "cta",
-          "h": "Sube el primer estado hoy y cuenta las respuestas.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Estados de WhatsApp para negocios: solo los ven clientes que ya te guardaron, y tres por semana bastan (lo que llegó, el producto en uso, el se agota real). Guárdalo para armar tus estados de esta semana. Mándaselo a quien maneja tus redes. #whatsapp #negociosperu #ventas #emprendedores",
-        "tt": "Tus caseros miran tu estado y tú no subes nada 📱 · mándaselo a quien maneja tus redes #whatsapp #negociosperu #ventas",
-        "fb": "Hay una vitrina donde no compites con nadie: tu estado de WhatsApp. Solo lo ven los que ya te compraron o te guardaron. Tres estados por semana: lo que llegó, el producto en uso y el «se agota» de verdad. Y toda respuesta se contesta primero: ese ya está comprando."
-      },
-      "alt": "Los tres estados de WhatsApp semanales que le venden a los clientes que ya guardaron el número del negocio."
+     "role": "value",
+     "label": "RESPUESTA 4",
+     "h": "«Si te sirve, *sale hoy*»",
+     "b": "cierra con fecha, no con gracias"
     },
     {
-      "slug": "06-historias-caducan",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "⏳",
-          "h": "Publicas en historias lo que iba al feed",
-          "b": "y al revés"
-        },
-        {
-          "role": "value",
-          "h": "El catálogo vive en el feed",
-          "b": "Así no: lo que vendes, en una historia\nAsí sí: al feed, donde el nuevo lo encuentra en 6 meses"
-        },
-        {
-          "role": "value",
-          "h": "La urgencia vive en historias",
-          "b": "Así no: «queda uno» como post permanente\nAsí sí: historia de hoy, llegó, queda, sale"
-        },
-        {
-          "role": "value",
-          "h": "La dupla correcta",
-          "b": "Así no: elegir entre feed o historia\nAsí sí: post al feed, historia que lo anuncia"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-canales.png",
-          "h": "Feed e historias desde un solo lugar.",
-          "b": "propaga.pe publica en todas tus redes y formatos sin copiar y pegar: cada contenido a su vitrina."
-        },
-        {
-          "role": "cta",
-          "h": "Cada cosa en su vitrina.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Feed vs historias para negocios: el catálogo al feed donde un extraño lo encuentra en 6 meses, la urgencia de hoy a historias, y la dupla correcta: post al feed más historia que lo anuncia. Guárdalo para tu próxima publicación. Mándaselo al que sube las historias. #redessociales #negociosperu #instagram #emprendedores",
-        "tt": "Publicas en historias lo que iba al feed ⏳ · mándaselo al que sube las historias #redessociales #negociosperu #emprendedores",
-        "fb": "Tu catálogo en una historia muere en 24 horas. Tu «queda uno» clavado en el feed se vuelve fósil. El feed es tu vitrina permanente, las historias son tu radio del día, y el combo correcto es post al feed más historia que lo anuncia."
-      },
-      "alt": "Qué contenido va al feed y cuál a historias, con errores comunes y su corrección."
-    },
-    {
-      "slug": "07-ensayo-apple",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SEMANA APPLE",
-          "emoji": "🍎",
-          "h": "Apple ensaya meses y tú publicas sin releer",
-          "b": "el ensayo de 5 minutos antes de publicar"
-        },
-        {
-          "role": "value",
-          "h": "Léelo en voz alta",
-          "b": "Si te trabas o suena a robot, tu cliente también se traba. Se reescribe."
-        },
-        {
-          "role": "value",
-          "h": "Prueba cada botón",
-          "b": "· el link abre\n· el número contesta\n· la foto se ve en miniatura"
-        },
-        {
-          "role": "value",
-          "h": "El vistazo de pasada",
-          "b": "Tapa el texto: ¿la foto sola dice algo? En el feed nadie llega avisado."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-posts.png",
-          "h": "Programado con tiempo, ensayado sin apuro.",
-          "b": "En propaga.pe el post queda listo antes: lo relees con calma y sale solo a su hora."
-        },
-        {
-          "role": "cta",
-          "h": "Ensaya como Apple, aunque sean cinco minutos.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Checklist antes de publicar: leer el texto en voz alta, probar que el link abre y el número contesta, y mirar la foto en miniatura. Esta semana Apple presenta lo suyo después de meses de ensayo: tu post merece 5 minutos. Guárdalo para tu próxima publicación. Mándaselo a tu socio antes del lunes. #apple #negociosperu #marketingdigital #emprendedores",
-        "tt": "Apple ensaya meses. Tú ni relees 🍎 · mándaselo a tu socio antes del lunes #apple #negociosperu #marketing",
-        "fb": "Esta semana Apple presenta un producto ensayado durante meses. Nadie te pide eso: te pido 5 minutos. Lee tu post en voz alta, prueba el link, llama a tu propio número y mira la foto en chiquito. Un montón de posts que no venden se caen en una de esas cuatro."
-      },
-      "alt": "El ensayo de cinco minutos antes de publicar: leer en voz alta, probar link y número, revisar la miniatura."
-    },
-    {
-      "slug": "08-demo-20-segundos",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "EVENTO APPLE",
-          "emoji": "📱",
-          "h": "Muestra tu producto funcionando, como Apple hoy",
-          "b": "la demo de 20 segundos"
-        },
-        {
-          "role": "value",
-          "h": "Graba el producto en uso, no en vitrina",
-          "b": "La torta partiéndose, el polo puesto, la crema untándose. Veinte segundos, cámara quieta."
-        },
-        {
-          "role": "value",
-          "h": "Sin hablar de ti",
-          "b": "Cero «somos una empresa que…»: el producto actúa solo y el video se entiende sin sonido."
-        },
-        {
-          "role": "value",
-          "h": "Un protagonista por demo",
-          "b": "El combo entero confunde. Hoy uno, el jueves otro: cada producto tiene su función."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-canales.png",
-          "h": "Tu demo, en el escenario de cada red.",
-          "b": "propaga.pe publica tu video en todas tus redes de una vez, cada una en su formato."
-        },
-        {
-          "role": "cta",
-          "h": "Apple presentó hoy. Presenta lo tuyo mañana.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Hoy es la keynote de Apple y la lección para tu negocio cabe en una frase: nadie lee fichas técnicas, todos miran el producto funcionando. La demo de 20 segundos: en uso, un solo protagonista, sin hablar de ti. Guárdala para tu próximo video. Mándaselo a la amiga que tiene su emprendimiento. #apple #keynote #negociosperu #videomarketing",
-        "tt": "Apple no describe, muestra 📱 tu producto también sabe actuar · mándaselo a la amiga que tiene su emprendimiento #apple #negociosperu #marketing",
-        "fb": "En la keynote de hoy Apple no va a leer especificaciones: va a mostrar el producto andando. Tu versión dura 20 segundos, la torta partiéndose, el polo puesto, con el celular apoyado en un vaso. El que lo ve funcionando ya se lo imagina suyo."
-      },
-      "alt": "La demo de veinte segundos: grabar el producto en uso con un solo protagonista, sin hablar de la empresa."
-    },
-    {
-      "slug": "09-vende-el-despues",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "✨",
-          "h": "10 líneas que venden bajo tu foto (cópialas)",
-          "b": "el producto informa, el después vende"
-        },
-        {
-          "role": "value",
-          "h": "Para los que venden comida",
-          "b": "· «Alcanza para los 12 del cumple»\n· «Llega caliente, no tibio»\n· «El lonche de mañana, resuelto»\n· «Para el antojo de las 4»"
-        },
-        {
-          "role": "value",
-          "h": "Para ropa y productos",
-          "b": "· «Aguanta el recreo y la lavadora»\n· «Del trabajo a la fiesta sin cambiarte»\n· «Se arma en cinco minutos»"
-        },
-        {
-          "role": "value",
-          "h": "Para servicios",
-          "b": "· «Tu sábado libre, nosotros planchamos»\n· «Sales manejando el mismo día»\n· «Listo esta semana, no este mes»"
-        },
-        {
-          "role": "value",
-          "h": "La fórmula para escribir la tuya",
-          "b": "Qué le pasa a tu cliente después de comprar. Escríbela pensando en uno con nombre."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-contenido.png",
-          "h": "Tus líneas que venden, guardadas.",
-          "b": "propaga.pe guarda los textos que te funcionaron: la próxima foto ya tiene su frase."
-        },
-        {
-          "role": "cta",
-          "h": "Pega la tuya bajo tu próxima foto.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "10 líneas de resultado listas para copiar bajo tus fotos: para comida, para productos y para servicios, más la fórmula para escribir la tuya. El cliente no compra la torta de un kilo, compra que alcance para los 12 del cumple. Guárdalo para tu próxima publicación. Mándaselo a quien responde tus mensajes. #copywriting #negociosperu #ventas #marketing",
-        "tt": "10 líneas que venden más que tu foto ✨ cópialas · mándaselo a quien responde tus mensajes #copywriting #negociosperu #ventas",
-        "fb": "«Torta de un kilo» no emociona a nadie. «Alcanza para los 12 del cumple», eso sí. Diez líneas de resultado listas para copiar, por rubro, y la fórmula para escribir la tuya: qué le pasa al cliente después de comprar."
-      },
-      "alt": "Banco de diez líneas de resultado listas para copiar bajo las fotos de un negocio, por rubro."
-    },
-    {
-      "slug": "10-reclamo-publico",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "😱",
-          "h": "Te dejaron un reclamo y lo está leyendo todo Lima",
-          "b": "el guion de 3 líneas"
-        },
-        {
-          "role": "value",
-          "h": "Línea 1: reconoce en público",
-          "b": "«Lamentamos lo que pasó, no es lo que queremos dar.» Sin excusas, sin culpar."
-        },
-        {
-          "role": "value",
-          "h": "Línea 2: resuelve en privado",
-          "b": "«Te escribimos al privado para solucionarlo hoy.» Y se escribe de verdad, en minutos."
-        },
-        {
-          "role": "value",
-          "h": "Línea 3: cierra donde empezó",
-          "b": "Resuelto, respondes al mismo comentario: «listo, conversamos y quedó así». Los mirones ven el final."
-        },
-        {
-          "role": "value",
-          "h": "La regla: no se borra",
-          "b": "Un reclamo borrado vuelve con captura. Un reclamo bien atendido se vuelve tu mejor reseña."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-comentarios.png",
-          "h": "El reclamo se ve apenas llega.",
-          "b": "propaga.pe junta los comentarios de todas tus redes: respondes en minutos, no cuando ya escaló."
-        },
-        {
-          "role": "cta",
-          "h": "Tres líneas y el mirón se vuelve cliente.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo responder un reclamo público sin perder clientes: reconocer en público, resolver en privado y cerrar en el mismo comentario. Y nunca borrar. Guárdalo para el día que llegue el reclamo. Mándaselo al de la tienda de al lado. #atencionalcliente #negociosperu #reputacion #ventas",
-        "tt": "Te dejaron un reclamo público 😱 3 líneas y listo · mándaselo al de la tienda de al lado #negociosperu #atencionalcliente #tips",
-        "fb": "Un reclamo público no lo lee el que reclama: lo leen los cien que estaban por comprarte. El guion: reconoce en público, resuelve en privado, cierra donde empezó. ¿Y borrar? ¿Un reclamo se responde ahí mismo o se borra y se resuelve por interno? Los equipos están divididos."
-      },
-      "alt": "El guion de tres líneas para responder un reclamo público: reconocer, resolver en privado y cerrar en el mismo hilo."
-    },
-    {
-      "slug": "11-noche-de-pelea",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "PELEA DE CANELO",
-          "emoji": "🥊",
-          "img": "evento-canelo.jpg",
-          "h": "Prepara tu delivery para la noche de la pelea",
-          "b": "mañana nadie cocina"
-        },
-        {
-          "role": "value",
-          "h": "Se pide donde ya se vio",
-          "b": "La gente decide hoy qué come mañana viendo el feed. Tu post sale esta tarde."
-        },
-        {
-          "role": "value",
-          "h": "El combo con nombre de pelea",
-          "b": "«Combo round 12», «la mesa de la pelea»: para cuatro, con la foto del combo armado."
-        },
-        {
-          "role": "value",
-          "h": "Avisa hasta qué hora atiendes",
-          "b": "Horario extendido en el post y fijado en historia. El pedido de las 10pm va al que contesta."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-bandeja.png",
-          "h": "El sábado despachas, no buscas chats.",
-          "b": "propaga.pe junta los pedidos de todas tus redes en una sola bandeja."
-        },
-        {
-          "role": "cta",
-          "h": "Que el sábado te encuentre con el combo listo.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Noche de pelea de Canelo: si vendes comida, bebidas o piqueos, mañana es tu feriado. Combo con nombre publicado HOY, horario extendido avisado y respuestas rápidas. Guárdalo para la próxima pelea. Mándaselo a quien toma las fotos. #canelo #delivery #negociosperu #ventas",
-        "tt": "Mañana pelea Canelo y nadie va a cocinar 🥊 · mándaselo a quien toma las fotos #canelo #negociosperu #delivery",
-        "fb": "Media Latinoamérica va a ver la pelea de Canelo desde el sillón, con hambre. El pedido se decide HOY viernes mirando el feed, no mañana a las 9pm. Combo con nombre, foto del combo armado y horario extendido avisado. El sábado solo se despacha."
-      },
-      "alt": "Preparar el delivery para la noche de pelea de Canelo: combo con nombre publicado la víspera y horario avisado."
-    },
-    {
-      "slug": "12-resena-google",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "⭐",
-          "h": "Tu cliente feliz se fue sin dejar reseña",
-          "b": "porque nadie se la pidió"
-        },
-        {
-          "role": "value",
-          "h": "Cuándo pedirla",
-          "b": "En el punto más alto: cuando agradece, cuando repite, cuando te recomienda solo."
-        },
-        {
-          "role": "value",
-          "h": "El mensaje, tal cual",
-          "b": "«¡Gracias por tu compra! ¿Nos regalas una reseña en Google? Aquí el link directo.» Un toque, no dos."
-        },
-        {
-          "role": "value",
-          "h": "Una reseña nueva por semana basta",
-          "b": "El que te busca en Maps compara estrellas antes de escribir. Una reseña fresca dice: siguen atendiendo bien."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-respuestas.png",
-          "h": "El «gracias» y el pedido de reseña, guardados.",
-          "b": "propaga.pe guarda tus mensajes listos para pegar: pedir la reseña toma diez segundos."
-        },
-        {
-          "role": "cta",
-          "h": "Pídesela hoy al último que te agradeció.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Reseñas de Google para negocios: se piden en el punto más alto (cuando el cliente agradece), con link directo y en un solo mensaje. Una fresca por semana sostiene tu perfil en Maps. Guárdalo para tu próxima entrega. Mándaselo a quien maneja tus redes. #google #resenas #negociosperu #ventas",
-        "tt": "Tu cliente feliz se fue sin dejar reseña ⭐ pídela así · mándaselo a quien maneja tus redes #negociosperu #ventas #tips",
-        "fb": "El cliente contento deja reseña… si se la pides en el momento correcto: justo cuando te agradece. Mensaje corto, link directo, un solo toque. El que te busca en Maps compara estrellas antes de escribirte, y una reseña fresca vale oro."
-      },
-      "alt": "Cuándo y cómo pedir la reseña de Google: en el punto más alto, con mensaje corto y link directo."
-    },
-    {
-      "slug": "13-negocio-con-cara",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "DÍA DE LA FAMILIA",
-          "emoji": "❤",
-          "h": "Publica la historia de tu familia, no tu logo",
-          "b": "el post que solo tu negocio puede hacer"
-        },
-        {
-          "role": "value",
-          "h": "El post de hoy, armado",
-          "b": "· la foto real del taller\n· los nombres y quién hace qué\n· desde cuándo\n· cero pose"
-        },
-        {
-          "role": "value",
-          "h": "La antigüedad es confianza gratis",
-          "b": "«Desde 2011, familia Gutiérrez» responde lo que nadie pregunta en voz alta: ¿serán serios?"
-        },
-        {
-          "role": "value",
-          "h": "Familia como sazón, no como plato",
-          "b": "Un post personal por cada cuatro de negocio. La historia acerca; el catálogo cobra."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-posts.png",
-          "h": "El post del domingo sale aunque descanses.",
-          "b": "Lo dejas programado en propaga.pe desde el viernes y hoy solo respondes cariños."
-        },
-        {
-          "role": "cta",
-          "h": "Hoy preséntate. Mañana vende.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Día de la Familia: el mejor post de hoy no es tu producto, son ustedes. Foto real del taller, nombres, quién hace qué y desde cuándo. La gente le compra a gente. Guárdalo para armar el post de hoy. Mándaselo al que sube las historias. #diadelafamilia #negociofamiliar #negociosperu #emprendedores",
-        "tt": "Tu familia vende más que tu logo ❤ · mándaselo al que sube las historias #diadelafamilia #negociosperu #negociofamiliar",
-        "fb": "Hoy es Día de la Familia y hay un post que solo tu negocio puede hacer: presentarse. La foto real de ustedes, los nombres, el año en que empezaron. Esa confianza no la compra ninguna publicidad."
-      },
-      "alt": "Día de la Familia: el post de presentación del negocio familiar con foto real, nombres y antigüedad."
-    },
-    {
-      "slug": "14-preguntas-repetidas",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "🥱",
-          "h": "Respondes lo mismo veinte veces por semana",
-          "b": "conviértelo en contenido que responde solo"
-        },
-        {
-          "role": "value",
-          "h": "Caza tus 3 preguntas repetidas",
-          "b": "Abre tus chats de la semana: las que aparecen tres veces son contenido pedido a gritos."
-        },
-        {
-          "role": "value",
-          "h": "Cada pregunta, un post",
-          "b": "· «¿llegan a mi zona?»: el post del mapa\n· «¿demora?»: tu proceso en video\n· «¿cómo pido?»: el paso a paso"
-        },
-        {
-          "role": "value",
-          "h": "La respuesta con link propio",
-          "b": "La próxima vez que pregunten, mandas tu post. Respondes mejor y en tres segundos."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-chat.png",
-          "h": "Las preguntas repetidas saltan a la vista.",
-          "b": "En propaga.pe los chats de todas tus redes viven juntos: ves qué pregunta todo el mundo."
-        },
-        {
-          "role": "cta",
-          "h": "Tus tres preguntas de esta semana ya son posts.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Ideas de contenido que ya tienes: las 3 preguntas que te repiten por chat cada semana son 3 posts esperando (zonas de entrega, tiempos, cómo pedir). Guárdalo para tu próximo bloqueo de ideas. Mándaselo a tu socio antes del lunes. #contenido #negociosperu #marketingdigital #emprendedores",
-        "tt": "Respondes lo mismo 20 veces por semana 🥱 hazlo post · mándaselo a tu socio antes del lunes #negociosperu #contenido #tips",
-        "fb": "Si te preguntan lo mismo tres veces por semana, eso no es una molestia: es tu próximo post pedido a gritos. Zonas de entrega, tiempos, cómo pedir. Lo publicas una vez y de ahí respondes con tu propio link."
-      },
-      "alt": "Convertir las tres preguntas más repetidas de los chats del negocio en tres publicaciones."
-    },
-    {
-      "slug": "15-promo-quincena",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "QUINCENA",
-          "emoji": "😬",
-          "h": "Ya es quincena y tu promo no salió",
-          "b": "todavía alcanza"
-        },
-        {
-          "role": "value",
-          "emoji": "💸",
-          "h": "Hoy cae sueldo en medio Perú",
-          "b": "La quincena se gasta rápido y se gasta en lo que se vio ayer. Publica antes del almuerzo."
-        },
-        {
-          "role": "value",
-          "h": "Promo simple gana",
-          "b": "«2x1 hasta el domingo». Una condición y una fecha: nada de pasos, sellos ni ruletas."
-        },
-        {
-          "role": "value",
-          "h": "Mide una sola cosa",
-          "b": "¿Cuántos escribieron por la promo? Ese número decide si octubre la repite."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-leads.png",
-          "h": "El número de la promo, en una pantalla.",
-          "b": "propaga.pe te muestra los contactos que trajo cada post: la promo deja de ser corazonada."
-        },
-        {
-          "role": "cta",
-          "h": "Tu promo de quincena sale antes del almuerzo.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Promo de quincena para negocios: hoy cae sueldo, la promo simple (una condición, una fecha) sale antes del almuerzo, y se mide una sola cosa: cuántos escribieron. Guárdalo para cada quincena. Mándaselo a la amiga que tiene su emprendimiento. #quincena #promo #negociosperu #ventas",
-        "tt": "Quincena: la gente tiene plata HOY 😬 · mándaselo a la amiga que tiene su emprendimiento #quincena #negociosperu #ventas",
-        "fb": "Hoy es quincena y la plata fresca se gasta en lo que se vio en el feed. Promo simple («2x1 hasta el domingo»), publicada antes del almuerzo, y un solo número al final: cuántos escribieron. Con eso decides si va de nuevo."
-      },
-      "alt": "Promoción de quincena: oferta simple publicada el día de pago y medida por mensajes recibidos."
-    },
-    {
-      "slug": "16-bonito-no-vende",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "🏅",
-          "h": "Tu post más bonito no vende nada",
-          "b": "y el feo sí"
-        },
-        {
-          "role": "value",
-          "h": "La foto clara le gana a la artística",
-          "b": "Así no: bodegón con sombras y filtro\nAsí sí: producto que se entiende en miniatura"
-        },
-        {
-          "role": "value",
-          "h": "La letra se lee en chiquito",
-          "b": "Así no: frase elegante en letra fina\nAsí sí: cinco palabras grandes que se leen sin abrir"
-        },
-        {
-          "role": "value",
-          "h": "El aplauso no es la caja",
-          "b": "Así no: celebrar likes y alcance\nAsí sí: contar mensajes y pedidos por post"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-leads-full.png",
-          "h": "Sabes qué post trajo pedidos.",
-          "b": "propaga.pe te dice qué publicación trajo contactos de verdad: lo bonito se mide en el chat."
-        },
-        {
-          "role": "cta",
-          "h": "Bonito está bien. Vendedor está mejor.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Post bonito vs post que vende: foto que se entiende en miniatura, letra grande que se lee sin abrir, y mensajes contados en vez de likes celebrados. Guárdalo para tu próximo diseño. Mándaselo a quien responde tus mensajes. #marketingdigital #negociosperu #ventas #emprendedores",
-        "tt": "Tu post más bonito no vende nada 🏅 y el feo sí · mándaselo a quien responde tus mensajes #negocios #marketing #peru",
-        "fb": "El post bonito junta aplausos; el post claro junta pedidos. Foto que se entiende en miniatura, cinco palabras grandes y el único aplauso que paga: los mensajes. ¿Tu último post fue para la galería o para la caja?"
-      },
-      "alt": "Comparación entre el post estético que no vende y el post claro que sí, en formato así no, así sí."
-    },
-    {
-      "slug": "17-frena-el-dedo",
-      "slides": [
-        {
-          "role": "story",
-          "plate": "cine-08-caminando",
-          "emoji": "⚡",
-          "h": "Detén el dedo de tu cliente con estos cambios",
-          "b": "tu post tiene 2 segundos"
-        },
-        {
-          "role": "value",
-          "h": "Di el problema exacto",
-          "b": "«Ropa para niños» pasa de largo. «Polos que aguantan el recreo» frena al que los lava."
-        },
-        {
-          "role": "value",
-          "h": "Pon una cara",
-          "b": "Tu cara, tus manos, tu cliente feliz. Un logo no mira a los ojos."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-lista.png",
-          "h": "Lo que frenó el dedo, identificado.",
-          "b": "propaga.pe te muestra tus posts con más alcance: repites lo que funcionó, no lo que crees."
-        },
-        {
-          "role": "cta",
-          "h": "Frena el dedo o sé el fondo del scroll.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo detener el scroll: decir el problema exacto de tu cliente («polos que aguantan el recreo», no «ropa para niños») y poner caras reales en vez de logos. Guárdalo para tu próximo post. Mándaselo al de la tienda de al lado. #marketingdigital #negociosperu #contenido #emprendedores",
-        "tt": "Tu post tiene 2 segundos para frenar el dedo ⚡ · mándaselo al de la tienda de al lado #negociosperu #marketing #contenido",
-        "fb": "Tu competencia real no tiene tienda: es el scroll. Contra eso se gana con el problema exacto de tu cliente y con caras humanas. Los logos no detienen dedos."
-      },
-      "alt": "Dos cambios para detener el scroll: especificidad en el problema y rostros reales en las fotos."
-    },
-    {
-      "slug": "18-asi-se-hace",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "🎥",
-          "h": "Tu proceso es tu mejor anuncio y no lo grabas",
-          "b": "quince segundos bastan"
-        },
-        {
-          "role": "value",
-          "h": "El video de 15 segundos",
-          "b": "El glaseado cayendo, el corte de tela, el empaque cerrándose. Sin editar, con luz de día."
-        },
-        {
-          "role": "value",
-          "h": "Cámara quieta, manos en escena",
-          "b": "Apoya el celular en un vaso, graba de corrido y corta lo mejor. Nada de hablar."
-        },
-        {
-          "role": "value",
-          "h": "Conviértelo en serie",
-          "b": "«Así se hace» cada jueves, mismo formato. La gente lo espera y lo comparte."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-posts.png",
-          "h": "Tu «así se hace», en piloto automático.",
-          "b": "Grabas cuando puedes y propaga.pe lo publica cada jueves sin que estés pendiente."
-        },
-        {
-          "role": "cta",
-          "h": "Graba hoy el paso que mejor te sale.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Video de proceso para negocios: 15 segundos del paso más visual de tu oficio, celular apoyado en un vaso, sin hablar y con luz de día. En serie semanal, mismo formato. Guárdalo para tu primera grabación. Mándaselo a quien toma las fotos. #detrasdecamaras #negociosperu #videomarketing #emprendedores",
-        "tt": "Muestra cómo lo haces y mira lo que pasa 🎥 · mándaselo a quien toma las fotos #asisehace #negociosperu #video",
-        "fb": "Nadie desconfía de lo que vio hacerse. Quince segundos del paso más visual de tu oficio, grabados con el celular apoyado en un vaso, valen más que cualquier anuncio. Y si lo repites cada jueves, tu gente lo espera."
-      },
-      "alt": "Video de proceso de quince segundos: el paso más visual del oficio grabado con cámara quieta, como serie."
-    },
-    {
-      "slug": "19-post-con-vecino",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "🤝",
-          "h": "El negocio de al lado tiene a tus clientes",
-          "b": "proponle el post a cuatro manos"
-        },
-        {
-          "role": "value",
-          "h": "Elige al vecino correcto",
-          "b": "Mismo cliente, distinto producto: la florería y la pastelería, el gym y la juguería."
-        },
-        {
-          "role": "value",
-          "h": "El mensaje para proponerlo",
-          "b": "«Hola, somos [tu negocio]. ¿Armamos un post juntos? Ustedes ponen lo suyo, nosotros lo nuestro, y nos etiquetamos.»"
-        },
-        {
-          "role": "value",
-          "h": "Un post, dos vitrinas",
-          "b": "· combo conjunto\n· sorteo a dos marcas\n· foto de ambos equipos\n· publicado por ambos"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-campanas.png",
-          "h": "Un acuerdo, dos negocios, todas las redes.",
-          "b": "Desde propaga.pe programas tu parte del post conjunto para que salga el mismo día que la de tu socio."
-        },
-        {
-          "role": "cta",
-          "h": "Escríbele al vecino hoy. El post sale esta semana.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Colaboración entre negocios: elige uno con tu mismo cliente y distinto producto, proponle un post conjunto con el mensaje listo del carrusel, y publíquenlo ambos el mismo día. Guárdalo para proponerlo esta semana. Mándaselo a quien maneja tus redes. #colaboracion #negociosperu #marketingdigital #emprendedores",
-        "tt": "El negocio de al lado tiene a tus clientes 🤝 · mándaselo a quien maneja tus redes #negociosperu #colaboracion #marketing",
-        "fb": "La florería y la pastelería venden al mismo cliente en la misma semana. Un post a cuatro manos (combo conjunto, sorteo a dos marcas) presenta tu negocio a toda la clientela del otro. ¿Colaborar con otro negocio es multiplicar clientes o regalarle los tuyos?"
-      },
-      "alt": "Post en colaboración con un negocio vecino: cómo elegirlo, el mensaje para proponerlo y los formatos."
-    },
-    {
-      "slug": "20-cliente-feliz",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "🙌",
-          "h": "Un cliente feliz vende más que diez posts tuyos",
-          "b": "pídelo así, sin roche"
-        },
-        {
-          "role": "value",
-          "h": "Cómo pedirlo sin roche",
-          "b": "Al entregar: «¿me mandas una foto cuando lo pruebes?». El que quedó contento quiere mandarla."
-        },
-        {
-          "role": "value",
-          "h": "Cómo publicarlo bien",
-          "b": "· captura del chat, número tapado\n· foto del cliente, con permiso\n· siempre con contexto: qué pidió"
-        },
-        {
-          "role": "value",
-          "h": "El archivo de elogios",
-          "b": "Carpeta «clientes felices» en tu celular. El día sin ideas, ahí espera un post."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-comentarios.png",
-          "h": "Ningún elogio se pierde.",
-          "b": "propaga.pe reúne los comentarios y menciones buenas de todas tus redes en un solo lugar."
-        },
-        {
-          "role": "cta",
-          "h": "Pide la foto en tu próxima entrega.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Testimonios para negocios: pide la foto al entregar («¿me mandas una cuando lo pruebes?»), publica con permiso y contexto, y archiva cada elogio en su carpeta. Guárdalo para tu próxima entrega. Mándaselo a tu socio antes del lunes. #testimonios #clientesfelices #negociosperu #ventas",
-        "tt": "Tu cliente feliz vende por ti 🙌 · mándaselo a tu socio antes del lunes #negociosperu #testimonios #ventas",
-        "fb": "Diez posts tuyos diciendo que eres bueno valen menos que un cliente mostrándolo. Pide la foto al entregar, publica con permiso y guarda cada elogio en una carpeta. ¿Publicar capturas de chats de clientes, tapando el número: prueba de confianza o tema privado? Mándaselo a tu socio antes del lunes."
-      },
-      "alt": "Testimonios de clientes: cómo pedir la foto, publicarla con permiso y archivar los elogios."
-    },
-    {
-      "slug": "21-fotos-primavera",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SEMANA DE PRIMAVERA",
-          "emoji": "🌸",
-          "h": "La calle ya está en primavera, tu feed no",
-          "b": "renuévalo esta semana con diez fotos"
-        },
-        {
-          "role": "value",
-          "h": "La luz nueva es gratis",
-          "b": "Saca tus productos a la puerta, a la ventana, al parque. El sol de estos días es tu estudio."
-        },
-        {
-          "role": "value",
-          "h": "La sesión de primavera en diez fotos",
-          "b": "· tus 5 fotos que más vendieron, repetidas al sol\n· 3 de lo nuevo de la temporada\n· 2 del rincón que mejor luce"
-        },
-        {
-          "role": "value",
-          "h": "La foto nueva dice «estamos atendiendo»",
-          "b": "Un feed con fotos de esta semana contesta la duda que nadie escribe: ¿seguirán abiertos?"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-movil.png",
-          "h": "Diez fotos hoy, posts toda la semana.",
-          "b": "Desde tu celular subes la sesión a propaga.pe y queda programada: cada foto con su día y su texto."
-        },
-        {
-          "role": "cta",
-          "h": "La primavera entró a tu feed antes que al calendario.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Fotos de primavera para tu negocio: la luz de estos días es un estudio gratis. Saca el producto a la puerta, haz una sesión de diez fotos y viste tu feed de temporada. Guárdalo para tu sesión de esta semana. Mándaselo a tu socio antes del lunes. #primavera #fotosdeproducto #negociosperu #emprendedores",
-        "tt": "Tu feed sigue en invierno 🌸 renuévalo esta semana · mándaselo a tu socio antes del lunes #primavera #negociosperu #tips",
-        "fb": "La semana de la primavera empieza en tu feed, no en el calendario. Una sesión de diez fotos con la luz de estos días: tus cinco más vendidas repetidas al sol, lo nuevo de la temporada y el rincón que mejor luce. Las fotos frescas dicen «estamos atendiendo» sin escribirlo."
-      },
-      "alt": "Sesión de fotos de primavera para renovar el feed de un negocio con luz natural."
-    },
-    {
-      "slug": "22-cliente-de-20",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "DÍA DE LA JUVENTUD",
-          "emoji": "🎧",
-          "h": "Tu cliente de 20 nunca ha leído un cartel",
-          "b": "véndele donde sí mira"
-        },
-        {
-          "role": "value",
-          "h": "Habla rápido y sin corbata",
-          "b": "Respuesta al toque, humor ligero, cero «estimado cliente»."
-        },
-        {
-          "role": "value",
-          "h": "Un video corto por semana",
-          "b": "Si tu cliente tiene menos de 25, vive en video vertical. Uno por semana basta para existir en su mundo."
-        },
-        {
-          "role": "value",
-          "h": "Usa el audio que ya suena",
-          "b": "El que scrollea lo tiene pegado: tu video suena a esta semana, no a hace un año."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-canales.png",
-          "h": "Estás donde tu cliente joven vive.",
-          "b": "propaga.pe publica tu contenido en todas las plataformas de una vez, también en la que abre tu cliente de 20."
-        },
-        {
-          "role": "cta",
-          "h": "Habla su idioma sin disfrazarte.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Vender a clientes jóvenes: respuesta al toque y cero «estimado cliente», un video vertical por semana y el audio que ya está sonando. Mañana es el Día de la Juventud. Guárdalo para tu próximo video. Mándaselo a la amiga que tiene su emprendimiento. #diadelajuventud #negociosperu #marketing #genz",
-        "tt": "Tu cliente de 20 nunca leyó un cartel 🎧 · mándaselo a la amiga que tiene su emprendimiento #diadelajuventud #negociosperu #marketing",
-        "fb": "Si tu cliente tiene menos de 25, tu cartel no existe: existe el video vertical, la respuesta rápida y el audio del momento. Nadie te pide disfrazarte de joven: solo hablar claro y rápido en el lugar donde él mira."
-      },
-      "alt": "Cómo venderle al cliente joven: video vertical, tono cercano y audios en tendencia."
-    },
-    {
-      "slug": "23-primavera-estrena",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "PRIMAVERA",
-          "emoji": "🌷",
-          "h": "Hoy todos estrenan algo. ¿Y tu negocio?",
-          "b": "estrena sin gastar un sol"
-        },
-        {
-          "role": "value",
-          "h": "Estrenos que no cuestan",
-          "b": "· un producto con nombre nuevo\n· el combo de la temporada\n· un detalle nuevo en el empaque"
-        },
-        {
-          "role": "value",
-          "h": "Publícalo en la mañana",
-          "b": "Hoy el feed se llena desde temprano. El post de la mañana gana; el de la tarde llega al ruido."
-        },
-        {
-          "role": "value",
-          "h": "«Primavera» es búsqueda gratis hoy",
-          "b": "Ponla en tu texto tal cual: esta semana la gente la escribe en el buscador."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-fuera.png",
-          "h": "Tu estreno aparece en todas partes a la vez.",
-          "b": "Lo apruebas una vez en propaga.pe y sale en cada red apenas empieza la mañana."
-        },
-        {
-          "role": "cta",
-          "h": "Feliz primavera. Ahora estrena algo.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Día de la Primavera para negocios: estrenar no cuesta (nombre nuevo, combo de temporada, detalle en el empaque), se publica temprano y la palabra «primavera» va en tu texto: hoy es búsqueda gratis. Guárdalo para la mañana del estreno. Mándaselo a quien responde tus mensajes. #primavera #negociosperu #ventas #emprendedores",
-        "tt": "Hoy todos estrenan algo 🌷 ¿y tu negocio? · mándaselo a quien responde tus mensajes #primavera #negociosperu #emprendedores",
-        "fb": "Feliz primavera. Hoy la gente amanece con ganas de algo nuevo y tu negocio puede dárselo sin gastar un sol: el producto con nombre fresco, el combo de la temporada, el detalle en el empaque. Publícalo en la mañana, que el día es corto."
-      },
-      "alt": "Día de la Primavera: estrenar percepción de novedad sin gastar y publicar temprano."
-    },
-    {
-      "slug": "24-precio-al-privado",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "🤐",
-          "h": "Preguntó «¿precio?» y tu «al privado» lo espantó",
-          "b": "cuándo mostrarlo y cuándo no"
-        },
-        {
-          "role": "value",
-          "h": "Lo que gana el precio visible",
-          "b": "· filtra al que no era\n· te ahorra veinte chats iguales\n· el que escribe ya viene decidido"
-        },
-        {
-          "role": "value",
-          "h": "Cuándo esconder tu precio sí vale",
-          "b": "Pedidos a medida y cotizaciones: publica tu «desde» y di de qué depende el resto."
-        },
-        {
-          "role": "value",
-          "h": "La regla del mostrador",
-          "b": "Si en tu tienda el precio va a la vista, en tu feed también. El misterio no vende, cansa."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-chat.png",
-          "h": "El «¿precio?» se contesta en segundos.",
-          "b": "propaga.pe junta los chats de todas tus redes en un solo lugar: si tu precio va al privado, llega al toque."
-        },
-        {
-          "role": "cta",
-          "h": "Precio a la vista o respuesta al vuelo.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "¿Precio en el post o al privado? El precio visible filtra, ahorra chats y trae decididos; el «al privado» solo tiene sentido en pedidos a medida, con un «desde» publicado. Guárdalo para tu próximo post de catálogo. Mándaselo al de la tienda de al lado. #precios #ventas #negociosperu #emprendedores",
-        "tt": "Tu «al privado» está espantando compradores 🤐 · mándaselo al de la tienda de al lado #ventas #negociosperu #precios",
-        "fb": "El que pregunta precio en público y recibe «te escribimos al privado» muchas veces ya no contesta. La regla del mostrador: si en tu tienda el precio está a la vista, en tu feed también. ¿Tú de qué equipo eres: precio en el post o al privado?"
-      },
-      "alt": "Cuándo publicar el precio en el post y cuándo responderlo al privado."
-    },
-    {
-      "slug": "25-video-con-cara",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "🎬",
-          "h": "3 guiones de 15 segundos para tu negocio (cópialos)",
-          "b": "prende la cámara, el texto ya está"
-        },
-        {
-          "role": "value",
-          "h": "El de presentación",
-          "b": "«Soy Carmen, hago tortas en Comas hace ocho años. Esta es la de hoy.» Nombre, oficio, prueba."
-        },
-        {
-          "role": "value",
-          "h": "El del estreno",
-          "b": "«Esto llegó hoy y se va rápido. Escríbeme y te separo el tuyo.» Novedad y un solo paso."
-        },
-        {
-          "role": "value",
-          "h": "El del gracias",
-          "b": "«Esta semana se llevaron todo. Gracias, caseros: el lunes repongo.» Agradece y avisa."
-        },
-        {
-          "role": "value",
-          "h": "Graba diez tomas si hace falta",
-          "b": "La primera sale tiesa y la quinta también. Publicas la sexta. Nadie vio las otras nueve."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-canales.png",
-          "h": "Tu cara, en cada red donde te buscan.",
-          "b": "Un solo video y propaga.pe lo reparte a cada red en su tamaño: te presentas en todas partes el mismo día."
-        },
-        {
-          "role": "cta",
-          "h": "Carmen ya se presentó. Te toca.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Tres guiones de video de 15 segundos listos para copiar: el de presentación (nombre, oficio, prueba), el del estreno y el del gracias. Graba diez tomas y publica una. Guárdalo para el día que prendas la cámara. Mándaselo a quien toma las fotos. #videomarketing #negociosperu #emprendedores #marcapersonal",
-        "tt": "3 guiones de 15 segundos, cópialos 🎬 tu video ya está escrito · mándaselo a quien toma las fotos #negociosperu #video #emprendedores",
-        "fb": "Detrás de cada negocio chico hay una persona que el cliente nunca ha visto. Tres guiones de quince segundos lo arreglan: el de presentación, el del estreno y el del gracias. Graba diez tomas, publica una. Nadie vio las otras nueve."
-      },
-      "alt": "Tres guiones de video de quince segundos listos para copiar: presentación, estreno y agradecimiento."
-    },
-    {
-      "slug": "26-los-de-siempre",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "💛",
-          "h": "Tus mejores clientes ya te siguen y no les hablas",
-          "b": "el post para los tuyos"
-        },
-        {
-          "role": "value",
-          "h": "Un post de cada cinco es para los tuyos",
-          "b": "El gracias, la encuesta, el detrás de escena. El resto del feed les habla a extraños."
-        },
-        {
-          "role": "value",
-          "h": "La encuesta que prevende",
-          "b": "Historia con dos opciones: «¿traigo más de esto o de esto?». Pides el stock ya votado."
-        },
-        {
-          "role": "value",
-          "h": "Ponle nombre a tu gente",
-          "b": "«Para las mamás del turno mañana», «los del combo de siempre». El que se siente nombrado vuelve."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-lista.png",
-          "h": "Los de siempre tienen nombre.",
-          "b": "propaga.pe te muestra quiénes comentan y escriben más: tu comunidad deja de ser un número."
-        },
-        {
-          "role": "cta",
-          "h": "Hoy publica para los que ya te quieren.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Clientes que vuelven: un post de cada cinco es para los que ya te compran, la encuesta de historias prevende el stock y tu gente tiene nombre («las mamás del turno mañana»). Guárdalo para tu siguiente post a los tuyos. Mándaselo a quien maneja tus redes. #fidelizacion #comunidad #negociosperu #ventas",
-        "tt": "Le hablas todo el día a extraños 💛 y a tus clientes nunca · mándaselo a quien maneja tus redes #negociosperu #comunidad #ventas",
-        "fb": "Todos los negocios persiguen clientes nuevos mientras los de siempre no reciben ni un gracias. Un post de cada cinco es para ellos: el agradecimiento, la encuesta que decide el próximo stock, el nombre del grupo. Pertenecer vende más que descontar."
-      },
-      "alt": "Contenido para clientes frecuentes: encuestas que prevenden y comunidad con nombre."
-    },
-    {
-      "slug": "27-cliente-dormido",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "😴",
-          "h": "Tu mejor cliente dejó de venir hace tres meses",
-          "b": "el mensaje que lo despierta"
-        },
-        {
-          "role": "value",
-          "h": "El mensaje con memoria",
-          "b": "«¡Hola Marta! Volvió el que siempre llevabas. ¿Te guardo uno?» Recordar qué llevaba hace media venta."
-        },
-        {
-          "role": "value",
-          "h": "Búscalos en tus chats viejos",
-          "b": "Recorre los de hace tres meses: los que compraban seguido y ya no escriben. Cinco nombres bastan."
-        },
-        {
-          "role": "value",
-          "h": "Mándalo una sola vez",
-          "b": "Conteste o no conteste, ahí queda: sigues apareciendo en su feed y esperas."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-respuestas.png",
-          "h": "Cinco mensajes con memoria, sin excavar chats.",
-          "b": "propaga.pe junta tus conversaciones de todas tus redes: encuentras al que dejó de escribir sin scrollear meses."
-        },
-        {
-          "role": "cta",
-          "h": "Cinco nombres, cinco mensajes, esta tarde.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Mensaje de reactivación de clientes: para el que compraba seguido y desapareció, un solo mensaje con memoria («volvió el que siempre llevabas, ¿te guardo uno?»), sin insistir. Guárdalo para tu domingo de mensajes. Mándaselo al que sube las historias. #ventas #whatsapp #negociosperu #clientes",
-        "tt": "Tu mejor cliente no viene hace 3 meses 😴 este mensaje lo despierta · mándaselo al que sube las historias #ventas #negociosperu #whatsapp",
-        "fb": "Cinco clientes que compraban seguido dejaron de escribirte y ni lo notaste. El mensaje que los despierta lleva memoria: «volvió el que siempre llevabas, ¿te guardo uno?». Uno solo, sin insistir. ¿Escribirle al cliente que se fue es buen servicio o desesperación?"
-      },
-      "alt": "El mensaje de reactivación para clientes que dejaron de comprar hace meses."
-    },
-    {
-      "slug": "28-semana-floja",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "FIN DE MES",
-          "emoji": "💸",
-          "h": "Esta semana nadie compra y no es tu culpa",
-          "b": "el sueldo llega en dos días"
-        },
-        {
-          "role": "value",
-          "h": "No desapareció, está sin sueldo",
-          "b": "Mira tu vitrina, se antoja y espera su pago. Lo que ve hoy lo pide el día que cobra."
-        },
-        {
-          "role": "value",
-          "h": "Los 3 posts de la semana floja",
-          "b": "· el antojo: tu producto en primer plano\n· el «apártalo hoy, págalo cuando cobres»\n· el aviso de lo que llega el finde"
-        },
-        {
-          "role": "stat",
-          "shot": "shot-campanas.png",
-          "h": "La semana floja, programada y lista.",
-          "b": "Los tres posts quedan programados en propaga.pe desde el lunes: la semana lenta trabaja sola."
-        },
-        {
-          "role": "cta",
-          "h": "Siembra hoy. El día de pago se cosecha.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Ventas de fin de mes: esta semana tu cliente mira y no pide porque espera su sueldo. Los 3 posts de siembra: el antojo, el «apártalo hoy, págalo cuando cobres» y lo que llega el finde. Guárdalo para cada fin de mes. Mándaselo a tu socio antes del lunes. #findemes #ventas #negociosperu #emprendedores",
-        "tt": "Nadie compra esta semana y no es tu culpa 💸 · mándaselo a tu socio antes del lunes #findemes #negociosperu #ventas",
-        "fb": "La última semana del mes las ventas bajan solas: la gente está esperando su pago. Pero la compra del día de pago se decide antes, mirando el feed. Antojo hoy, apartado sin adelanto, aviso de lo que llega. El día que cobren, cosechas."
-      },
-      "alt": "Qué publicar en la semana de fin de mes cuando los clientes esperan su sueldo."
-    },
-    {
-      "slug": "29-balance-del-mes",
-      "slides": [
-        {
-          "role": "cover",
-          "emoji": "📊",
-          "h": "Publicaste todo septiembre sin saber qué funcionó",
-          "b": "la revisión de 10 minutos"
-        },
-        {
-          "role": "value",
-          "h": "Las 3 preguntas del cierre de mes",
-          "b": "· ¿qué post trajo mensajes?\n· ¿cuál se compartió más?\n· ¿cuál murió sin un like?"
-        },
-        {
-          "role": "value",
-          "h": "Repite, corta, sin pena",
-          "b": "Lo que trajo mensajes vuelve en octubre con otra foto. Lo que murió dos veces se corta."
-        },
-        {
-          "role": "value",
-          "h": "Tu ganador es un molde",
-          "b": "El post que más mensajes trajo se rehace cada mes: mismo esqueleto, otro producto, otra foto."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-leads-full.png",
-          "h": "El balance sale solo.",
-          "b": "propaga.pe te muestra alcance y contactos por post: la revisión de tu mes toma diez minutos, no una tarde."
-        },
-        {
-          "role": "cta",
-          "h": "Octubre arranca sabiendo qué repetir.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Revisión mensual de redes para tu negocio: tres preguntas en diez minutos (¿qué post trajo mensajes?, ¿cuál se compartió?, ¿cuál murió?) y el ganador se vuelve molde para octubre. Guárdalo para el último día de cada mes. Mándaselo a la amiga que tiene su emprendimiento. #metricas #negociosperu #marketing #emprendedores",
-        "tt": "Publicaste 30 veces ¿sabes qué funcionó? 📊 · mándaselo a la amiga que tiene su emprendimiento #negociosperu #marketing #tips",
-        "fb": "Septiembre termina y la pregunta no es cuánto publicaste sino qué funcionó. Diez minutos: el post que trajo mensajes se repite con otra foto, el que se compartió se vuelve molde, el que murió dos veces se corta sin pena. Así octubre arranca sabiendo."
-      },
-      "alt": "Revisión mensual de resultados: qué post se repite y cuál se corta."
-    },
-    {
-      "slug": "30-octubre-con-hambre",
-      "slides": [
-        {
-          "role": "cover",
-          "kicker": "SE VIENE OCTUBRE",
-          "emoji": "🥘",
-          "h": "En octubre hasta el chifa tiene su día",
-          "b": "cuatro fechas que venden, prepáralas hoy"
-        },
-        {
-          "role": "value",
-          "h": "Los días con hambre de octubre",
-          "b": "· 9: lomo saltado\n· 17: anticucho\n· 21: chifa\n· 31: Halloween y Canción Criolla"
-        },
-        {
-          "role": "value",
-          "h": "¿No vendes comida? Igual juegas",
-          "b": "· un post sumándote al antojo\n· tu producto en la mesa del almuerzo\n· Halloween viste cualquier vitrina"
-        },
-        {
-          "role": "value",
-          "h": "El antojo se decide antes",
-          "b": "El que quiere lomo el nueve lo vio en el feed el siete. Publica con dos días de ventaja."
-        },
-        {
-          "role": "stat",
-          "shot": "shot-posts.png",
-          "h": "Octubre queda cargado desde hoy.",
-          "b": "Dejas el post de cada fecha listo en propaga.pe y el mes sale solo, antojo por antojo."
-        },
-        {
-          "role": "cta",
-          "h": "El chifa tiene su día. Tu negocio, todo el mes.",
-          "b": "propaga.pe"
-        }
-      ],
-      "caption": {
-        "ig": "Calendario de octubre para negocios: día del lomo saltado el 9, del anticucho el 17, del chifa el 21 y Halloween con Canción Criolla el 31. El antojo se decide dos días antes: prepara tus posts hoy. Guárdalo para armar tu octubre. Mándaselo a quien responde tus mensajes. #octubre #halloween #negociosperu #restaurantes",
-        "tt": "Hasta el chifa tiene su día en octubre 🥘 · mándaselo a quien responde tus mensajes #octubre #negociosperu #halloween",
-        "fb": "Octubre viene con hambre: lomo saltado el 9, anticucho el 17, chifa el 21 y Halloween al cierre. Los restaurantes juegan de local, pero cualquier rubro puede sumarse al antojo. La regla es una: el nueve se cocina desde el siete."
-      },
-      "alt": "Fechas gastronómicas de octubre y Halloween: preparación anticipada del mes."
+     "role": "closer",
+     "img": "shot-respuestas.png",
+     "h": "Tus respuestas, *listas para pegar*",
+     "b": "propaga.pe es la app peruana donde planificas y publicas el contenido de tu negocio en todas sus redes desde un solo lugar."
     }
-  ]
+   ],
+   "caption": {
+    "ig": "Cómo responder cuando te preguntan el precio por Instagram o WhatsApp. Cuatro respuestas listas para copiar: el precio con foto en el primer mensaje, el envío incluido, el apartado con fecha y el cierre sin ruego. Guárdalo para la próxima vez que te caiga un «cuánto está». #negociosperu #emprendedoresperu #ventas",
+    "tt": "4 respuestas al «cuánto está» que sí venden. Mándaselo a quien contesta los mensajes de tu negocio. #negociosperu #ventas",
+    "fb": "Un «¿precio?» sin responder es plata que se va. Aquí van cuatro respuestas listas para copiar, desde el precio con foto hasta el cierre con fecha."
+   },
+   "alt": "Cuatro respuestas listas para copiar cuando un cliente pregunta el precio por chat."
+  },
+  {
+   "slug": "02-primeras-lineas",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "celular-cafe",
+     "h": "4 primeras líneas que *frenan el dedo*",
+     "b": "van al inicio de tu caption"
+    },
+    {
+     "role": "value",
+     "label": "LÍNEA 1",
+     "h": "«Esto *nadie* lo pregunta»",
+     "b": "abre con lo que el cliente no sabe"
+    },
+    {
+     "role": "value",
+     "label": "LÍNEA 2",
+     "h": "«Te lo explico *en 3 pasos*»",
+     "b": "promete el método, no misterio"
+    },
+    {
+     "role": "value",
+     "label": "LÍNEA 3",
+     "h": "«*Hoy* llegó y se va rápido»",
+     "b": "novedad más urgencia real"
+    },
+    {
+     "role": "value",
+     "label": "LÍNEA 4",
+     "h": "«Me lo preguntan *todo el día*»",
+     "b": "empieza por la duda del cliente"
+    },
+    {
+     "role": "closer",
+     "img": "shot-posts.png",
+     "h": "Tu primera línea *ya está escrita*",
+     "b": "propaga.pe, la app peruana para publicar tu negocio en todas sus redes desde un solo lugar."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo empezar un post de tu negocio para que no pasen de largo. Cuatro primeras líneas listas para copiar al inicio de tu caption: la que abre con lo que el cliente no sabe, la que promete método, la de novedad y la que arranca por la duda repetida. Guárdalo para tu próxima publicación. #negociosperu #copywriting #emprendeperu",
+    "tt": "4 primeras líneas para empezar tus posts, cópialas. Mándaselo a quien escribe los textos de tu negocio. #negociosperu #copywriting",
+    "fb": "El post se pierde en el primer renglón, no en el último. Cuatro primeras líneas listas para copiar arriba de tu caption."
+   },
+   "alt": "Cuatro primeras líneas listas para copiar al inicio del caption de un negocio."
+  },
+  {
+   "slug": "03-nada-que-publicar",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "dueno-tienda",
+     "h": "5 cosas que publicar cuando *no tienes nada*",
+     "b": "sin foto nueva, sin producto nuevo"
+    },
+    {
+     "role": "value",
+     "label": "UNO",
+     "h": "El *antes* de tu trabajo",
+     "b": "la mesa vacía, la masa cruda"
+    },
+    {
+     "role": "value",
+     "label": "DOS",
+     "h": "La pregunta que *más te hacen*",
+     "b": "respóndela como si fuera un post"
+    },
+    {
+     "role": "value",
+     "label": "TRES",
+     "h": "Un cliente *contando* cómo llegó",
+     "b": "con su permiso, en sus palabras"
+    },
+    {
+     "role": "value",
+     "label": "CUATRO Y CINCO",
+     "h": "Tu *horario* y tu ubicación",
+     "b": "nadie los sabe de memoria"
+    },
+    {
+     "role": "closer",
+     "img": "shot-contenido.png",
+     "h": "El día sin ideas *ya está resuelto*",
+     "b": "En propaga.pe dejas programado el contenido de tu negocio y sale solo en cada una de tus redes."
+    }
+   ],
+   "caption": {
+    "ig": "Qué publicar en el Instagram de tu negocio cuando no tienes nada nuevo. Cinco ideas que ya están en tu día: el antes de tu trabajo, la pregunta que más te hacen, un cliente contando cómo llegó, tu horario y tu ubicación. Guárdalo para el día que abras la app sin ideas. #negociosperu #contenido #emprendedoresperu",
+    "tt": "5 cosas que publicar cuando no tienes nada que publicar. Mándaselo a quien sube las fotos de tu negocio. #negociosperu #contenido",
+    "fb": "El día que no tienes nada nuevo también se publica. Cinco cosas que ya están en tu negocio y sirven de post: el antes del trabajo, la pregunta repetida, un cliente contando cómo llegó, el horario y la dirección."
+   },
+   "alt": "Cinco ideas de publicación para un negocio que no tiene producto nuevo que mostrar."
+  },
+  {
+   "slug": "04-cierres-de-caption",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-mesa",
+     "h": "4 cierres de caption que *hacen escribir*",
+     "b": "el último renglón decide"
+    },
+    {
+     "role": "value",
+     "label": "CIERRE 1",
+     "h": "«Escríbeme *LISTA* y te aviso»",
+     "b": "una palabra, una acción"
+    },
+    {
+     "role": "value",
+     "label": "CIERRE 2",
+     "h": "«Comenta el *color* que quieres»",
+     "b": "pide algo fácil de contestar"
+    },
+    {
+     "role": "value",
+     "label": "CIERRE 3",
+     "h": "«Te lo llevo *hoy* si escribes»",
+     "b": "pon una hora de corte"
+    },
+    {
+     "role": "value",
+     "label": "CIERRE 4",
+     "h": "«*Guarda* esto para el finde»",
+     "b": "el guardado también es venta"
+    },
+    {
+     "role": "closer",
+     "img": "shot-comentarios.png",
+     "h": "Los que *comentan*, todos atendidos",
+     "b": "propaga.pe publica por tu negocio en todas tus redes y junta los chats de todas en una sola bandeja."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo cerrar el caption de un post para que la gente escriba. Cuatro cierres listos para copiar: la palabra clave por mensaje, el comentario fácil, la hora de corte y el pedido de guardado. Guárdalo para el próximo caption que escribas. #negociosperu #copywriting #redessociales",
+    "tt": "4 cierres de caption que sí hacen escribir, cópialos. Mándaselo a quien redacta los posts de tu negocio. #copywriting #negociosperu",
+    "fb": "La venta se decide en el último renglón del caption. Cuatro cierres listos para copiar, del «escríbeme LISTA» a la hora de corte."
+   },
+   "alt": "Cuatro cierres de caption listos para copiar al final de un post de negocio."
+  },
+  {
+   "slug": "05-ideas-de-historias",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "manos-celular",
+     "h": "4 historias para subir *hoy mismo*",
+     "b": "sin producir nada"
+    },
+    {
+     "role": "value",
+     "label": "HISTORIA 1",
+     "h": "La *caja* que estás armando",
+     "b": "grábala mientras la cierras"
+    },
+    {
+     "role": "value",
+     "label": "HISTORIA 2",
+     "h": "Una *encuesta* de dos opciones",
+     "b": "que tu cliente elija el sabor"
+    },
+    {
+     "role": "value",
+     "label": "HISTORIA 3",
+     "h": "El pedido que *sale ahora*",
+     "b": "con la dirección tapada"
+    },
+    {
+     "role": "value",
+     "label": "HISTORIA 4",
+     "h": "Tu *cara* diciendo el horario",
+     "b": "quince segundos, sin guion"
+    },
+    {
+     "role": "closer",
+     "img": "shot-movil.png",
+     "h": "Todo tu día, *en una pantalla*",
+     "b": "propaga.pe junta en una pantalla el calendario, los posts y los chats de todas las redes de tu negocio."
+    }
+   ],
+   "caption": {
+    "ig": "Ideas de historias para el Instagram de un negocio pequeño. Cuatro que se graban sin producir nada: la caja que estás armando, una encuesta de dos opciones, el pedido que sale ahora y tu cara diciendo el horario. Guárdalo para el día que no sepas qué subir. #negociosperu #contenido #emprendeperu",
+    "tt": "4 historias para subir hoy mismo, sin producir nada. Mándaselo a quien maneja el celular de tu negocio. #negociosperu #contenido",
+    "fb": "Las historias que funcionan se graban entre venta y venta. Cuatro ideas para subir hoy mismo: la caja que armas, una encuesta de dos opciones, el pedido que sale y tu cara diciendo el horario."
+   },
+   "alt": "Cuatro ideas de historias que un negocio puede grabar en el día sin producción."
+  },
+  {
+   "slug": "06-esta-caro",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "vendedor",
+     "h": "4 respuestas para el *«está muy caro»*",
+     "b": "sin bajar el precio"
+    },
+    {
+     "role": "value",
+     "label": "RESPUESTA 1",
+     "h": "«Te cuento *qué lleva* dentro»",
+     "b": "el precio se explica, no se pelea"
+    },
+    {
+     "role": "value",
+     "label": "RESPUESTA 2",
+     "h": "«*Dura* dos temporadas»",
+     "b": "compara con lo que reemplaza"
+    },
+    {
+     "role": "value",
+     "label": "RESPUESTA 3",
+     "h": "«Tengo *otra opción* más chica»",
+     "b": "ofrece un escalón, no rebaja"
+    },
+    {
+     "role": "value",
+     "label": "RESPUESTA 4",
+     "h": "«Cuando estés lista, *aquí sigo*»",
+     "b": "cierra sin ruego y sin apuro"
+    },
+    {
+     "role": "closer",
+     "img": "shot-chat.png",
+     "h": "Toda tu competencia *ya contesta desde ahí*",
+     "b": "propaga.pe, la app peruana para publicar tu negocio en todas sus redes desde un solo lugar."
+    }
+   ],
+   "caption": {
+    "ig": "Qué responder cuando un cliente dice que está muy caro. Cuatro respuestas que no bajan el precio: explicar qué lleva dentro, comparar con lo que reemplaza, ofrecer un escalón más chico y cerrar sin ruego. Guárdalo para el próximo regateo por chat. #negociosperu #ventas #emprendedoresperu",
+    "tt": "4 respuestas al «está muy caro» sin bajar el precio. Mándaselo a quien atiende tus mensajes. #ventas #negociosperu",
+    "fb": "Bajar el precio es la respuesta más cara de todas. Cuatro maneras de contestar el «está muy caro» sin tocar tu margen."
+   },
+   "alt": "Cuatro respuestas listas para el cliente que dice que el producto está muy caro."
+  },
+  {
+   "slug": "07-luego-te-aviso",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "celular-cafe",
+     "h": "4 mensajes para el que dijo *«luego te aviso»*",
+     "b": "y nunca volvió"
+    },
+    {
+     "role": "value",
+     "label": "DÍA 2",
+     "h": "«Te guardé *el último*»",
+     "b": "un motivo real para volver"
+    },
+    {
+     "role": "value",
+     "label": "DÍA 5",
+     "h": "«Llegó el *color* que buscabas»",
+     "b": "novedad, no recordatorio"
+    },
+    {
+     "role": "value",
+     "label": "DÍA 10",
+     "h": "«Te mando una *foto* del nuevo»",
+     "b": "una imagen pesa más que un hola"
+    },
+    {
+     "role": "value",
+     "label": "DÍA 20",
+     "h": "«*Cierro* el pedido el viernes»",
+     "b": "una fecha despierta al dormido"
+    },
+    {
+     "role": "closer",
+     "img": "shot-lista.png",
+     "h": "Nadie se queda *en visto*",
+     "b": "propaga.pe publica por tu negocio en todas tus redes y junta los chats de todas en una sola bandeja."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo hacer seguimiento a un cliente que dijo que después avisaba. Cuatro mensajes con su día: el apartado, la novedad, la foto del nuevo y la fecha de cierre. Ninguno dice «hola, sigues interesado». Guárdalo para tu lista de pendientes de esta semana. #negociosperu #ventas #emprendeperu",
+    "tt": "4 mensajes para el cliente que dijo «luego te aviso» y nunca volvió. Mándaselo a quien hace tu seguimiento. #ventas #negociosperu",
+    "fb": "El «luego te aviso» no siempre es un no. Cuatro mensajes con su día, del apartado a la fecha de cierre, y ninguno empieza con «hola, sigues interesado»."
+   },
+   "alt": "Cuatro mensajes de seguimiento para un cliente que dijo que avisaría después."
+  },
+  {
+   "slug": "08-pedir-resena",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "dueno-tienda",
+     "h": "4 frases para pedir una *reseña* sin rogar",
+     "b": "el cliente feliz ya se fue"
+    },
+    {
+     "role": "value",
+     "label": "FRASE 1",
+     "h": "«¿Te *llegó* bien todo?»",
+     "b": "pregunta antes de pedir"
+    },
+    {
+     "role": "value",
+     "label": "FRASE 2",
+     "h": "«*Cuéntalo* en dos líneas»",
+     "b": "dile qué tan largo debe ser"
+    },
+    {
+     "role": "value",
+     "label": "FRASE 3",
+     "h": "«Te dejo *el link* aquí»",
+     "b": "un solo clic, cero vueltas"
+    },
+    {
+     "role": "value",
+     "label": "FRASE 4",
+     "h": "«Tu reseña *nos abre* puertas»",
+     "b": "di para qué sirve y la escriben"
+    },
+    {
+     "role": "closer",
+     "img": "shot-leads.png",
+     "h": "Los negocios ordenados *ya publican desde ahí*",
+     "b": "propaga.pe es la app peruana donde planificas y publicas el contenido de tu negocio en todas sus redes desde un solo lugar."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo pedir una reseña a un cliente sin sonar insistente. Cuatro frases listas para copiar: preguntar antes de pedir, decir qué tan larga, dejar el link a un clic y explicar para qué sirve. Guárdalo para el próximo cliente que se vaya contento. #negociosperu #emprendedoresperu #ventas",
+    "tt": "4 frases para pedir una reseña sin rogar. Mándaselo a quien despacha en tu negocio. #negociosperu #emprendeperu",
+    "fb": "El cliente feliz se va y no vuelve a escribir. Cuatro frases para pedirle la reseña en el momento justo, sin insistir."
+   },
+   "alt": "Cuatro frases listas para pedirle una reseña a un cliente satisfecho."
+  },
+  {
+   "slug": "09-reclamo-publico",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-mesa",
+     "h": "4 respuestas al *reclamo* en tus comentarios",
+     "b": "lo está leyendo todo el barrio"
+    },
+    {
+     "role": "value",
+     "label": "PASO 1",
+     "h": "«*Tienes razón*, lo revisamos»",
+     "b": "no discutas en público"
+    },
+    {
+     "role": "value",
+     "label": "PASO 2",
+     "h": "«Te escribo *al toque*»",
+     "b": "saca el caso del hilo"
+    },
+    {
+     "role": "value",
+     "label": "PASO 3",
+     "h": "«Lo *cambio* o te devuelvo»",
+     "b": "una solución concreta, ya"
+    },
+    {
+     "role": "value",
+     "label": "PASO 4",
+     "h": "Vuelve y *cierra* en público",
+     "b": "el que mira decide contigo"
+    },
+    {
+     "role": "closer",
+     "img": "shot-comentarios.png",
+     "h": "Ningún comentario *se te pierde*",
+     "b": "propaga.pe publica por tu negocio en todas tus redes y junta los chats de todas en una sola bandeja."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo responder un reclamo público en los comentarios de tu negocio. Cuatro pasos: darle la razón, sacar el caso al privado, ofrecer una solución concreta y volver a cerrar donde todos ven. Guárdalo para el día que te caiga uno. #negociosperu #redessociales #emprendedoresperu",
+    "tt": "4 respuestas para el reclamo que te dejaron en los comentarios. Mándaselo a quien responde por tu negocio. #negociosperu #redessociales",
+    "fb": "Un reclamo público lo leen cien personas que nunca te compraron. Cuatro pasos para responderlo: dar la razón, pasar al privado, resolver y volver a cerrar donde todos ven."
+   },
+   "alt": "Cuatro pasos para responder un reclamo dejado en los comentarios de un negocio."
+  },
+  {
+   "slug": "10-bio-que-vende",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "letrero-abierto",
+     "h": "4 líneas de bio, *copia la de tu rubro*",
+     "b": "tres renglones deciden si te siguen"
+    },
+    {
+     "role": "value",
+     "label": "COMIDA",
+     "h": "«*Tortas* en Comas, pide un día antes»",
+     "b": "qué vendes, dónde y cómo"
+    },
+    {
+     "role": "value",
+     "label": "ROPA",
+     "h": "«Tallas *hasta la 46*, envíos hoy»",
+     "b": "di lo que nadie más dice"
+    },
+    {
+     "role": "value",
+     "label": "SERVICIO",
+     "h": "«Reparo *lo que diste* por muerto»",
+     "b": "la promesa, no el rubro"
+    },
+    {
+     "role": "value",
+     "label": "LA REGLA",
+     "h": "Que se entienda *sin adivinar*",
+     "b": "un extraño lo lee en dos segundos"
+    },
+    {
+     "role": "closer",
+     "img": "shot-canales.png",
+     "h": "La misma bio *en todas tus redes*",
+     "b": "propaga.pe, la app peruana para publicar tu negocio en todas sus redes desde un solo lugar."
+    }
+   ],
+   "caption": {
+    "ig": "Qué poner en la bio de Instagram de un negocio pequeño. Cuatro líneas listas para copiar según tu rubro, comida, ropa y servicios, más la regla que las ordena: que un extraño entienda qué vendes en dos segundos. Guárdalo para cuando edites tu perfil. #negociosperu #instagramparanegocios #emprendeperu",
+    "tt": "4 líneas de bio listas para copiar, busca la de tu rubro. Mándaselo a quien maneja el perfil de tu negocio. #negociosperu #emprendeperu",
+    "fb": "La bio es lo primero que leen y casi siempre dice «bienvenidos a mi emprendimiento». Cuatro líneas listas para copiar, por rubro, y la regla: que un extraño entienda qué vendes en dos segundos."
+   },
+   "alt": "Cuatro ejemplos de bio de Instagram para negocios de comida, ropa y servicios."
+  },
+  {
+   "slug": "11-avisar-horario",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "letrero-abierto",
+     "h": "4 avisos de horario listos para *copiar*",
+     "b": "te lo preguntan todos los días"
+    },
+    {
+     "role": "value",
+     "label": "DÍA NORMAL",
+     "h": "«Abierto *hasta las 9*»",
+     "b": "la hora exacta, no «todo el día»"
+    },
+    {
+     "role": "value",
+     "label": "FERIADO",
+     "h": "«Hoy *sí abrimos*, misma puerta»",
+     "b": "el feriado siempre da duda"
+    },
+    {
+     "role": "value",
+     "label": "CERRADO",
+     "h": "«Hoy *no abrimos*, pide por chat»",
+     "b": "cerrar no es desaparecer"
+    },
+    {
+     "role": "value",
+     "label": "CAMBIO",
+     "h": "«Desde el lunes *abrimos más*»",
+     "b": "avísalo tres veces, no una"
+    },
+    {
+     "role": "closer",
+     "img": "shot-fuera.png",
+     "h": "Tu horario *sale solo*, en cada red",
+     "b": "En propaga.pe dejas programado el contenido de tu negocio y sale solo en cada una de tus redes."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo avisar el horario de tu negocio en redes sin repetir el mismo mensaje. Cuatro avisos listos para copiar: el día normal con hora exacta, el feriado, el día cerrado y el cambio de horario. Guárdalo para el próximo feriado. #negociosperu #emprendedoresperu #redessociales",
+    "tt": "4 avisos de horario listos para copiar y pegar. Mándaselo a quien abre tu local. #negociosperu #emprendeperu",
+    "fb": "«¿Están abiertos?» es la pregunta más repetida de cualquier negocio. Cuatro avisos listos para copiar: día normal, feriado, día cerrado y cambio de horario."
+   },
+   "alt": "Cuatro avisos de horario listos para copiar en las redes de un negocio."
+  },
+  {
+   "slug": "12-posts-del-whatsapp",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "manos-celular",
+     "h": "4 posts que salen de tu *WhatsApp de hoy*",
+     "b": "ya tienes el contenido escrito"
+    },
+    {
+     "role": "value",
+     "label": "POST 1",
+     "h": "La pregunta que *se repite*",
+     "b": "cópiala tal cual y respóndela"
+    },
+    {
+     "role": "value",
+     "label": "POST 2",
+     "h": "El *«gracias»* de un cliente",
+     "b": "captura con el nombre tapado"
+    },
+    {
+     "role": "value",
+     "label": "POST 3",
+     "h": "El pedido más *raro* del mes",
+     "b": "la anécdota también es post"
+    },
+    {
+     "role": "value",
+     "label": "POST 4",
+     "h": "Lo que *siempre* se agota",
+     "b": "dilo antes de que se acabe"
+    },
+    {
+     "role": "closer",
+     "img": "shot-whatsapp.png",
+     "h": "Tu chat *se vuelve* tu calendario",
+     "b": "propaga.pe junta en una pantalla el calendario, los posts y los chats de todas las redes de tu negocio."
+    }
+   ],
+   "caption": {
+    "ig": "De dónde sacar ideas de contenido para un negocio sin inventar nada. Cuatro posts que ya están escritos en tu WhatsApp de hoy: la pregunta repetida, el gracias de un cliente, el pedido más raro del mes y lo que siempre se agota. Guárdalo para tu próxima tanda de contenido. #negociosperu #contenido #emprendeperu",
+    "tt": "4 posts que salen de tu WhatsApp de hoy. Mándaselo a quien contesta los chats de tu negocio. #negociosperu #contenido",
+    "fb": "El contenido de tu negocio ya está escrito y vive en tu WhatsApp. Cuatro posts que salen del chat de hoy: la pregunta repetida, el gracias, el pedido raro y lo que siempre se agota."
+   },
+   "alt": "Cuatro ideas de publicación que salen de las conversaciones de WhatsApp de un negocio."
+  },
+  {
+   "slug": "13-autogol-caption",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "panaderia",
+     "h": "Foto perfecta y el *caption* te tumba la venta",
+     "b": "la venta se cae en el texto"
+    },
+    {
+     "role": "value",
+     "photo": "celular-cafe",
+     "label": "ASÍ NO",
+     "h": "«Disponible, *consultar* precio»",
+     "b": "obliga a escribir para saber"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "«*Queda uno*, sale hoy a las 6»",
+     "b": "estado, hora y siguiente paso"
+    },
+    {
+     "role": "value",
+     "photo": "panaderia",
+     "label": "ASÍ NO",
+     "h": "«Feliz *inicio* de semana»",
+     "b": "no dice qué vendes ni dónde"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "«Lunes de *pan chuta*, en Surco»",
+     "b": "producto, día y barrio"
+    },
+    {
+     "role": "closer",
+     "img": "shot-posts.png",
+     "h": "El caption *ya no se improvisa*",
+     "b": "Con propaga.pe planificas el mes de tu negocio y publicas en todas tus redes sin repetir el trabajo."
+    }
+   ],
+   "caption": {
+    "ig": "Errores de caption que hacen perder ventas en Instagram. Dos casos con su arreglo al lado: el «consultar precio» que obliga a escribir y el «feliz inicio de semana» que no dice qué vendes. Guárdalo para antes de publicar tu próxima foto. #negociosperu #copywriting #emprendedoresperu",
+    "tt": "Hizo la foto perfecta y metió autogol en el caption. Mándaselo a quien escribe los textos de tu negocio. #negociosperu #copywriting",
+    "fb": "La foto estaba perfecta y el texto la enterró. Dos captions que matan la venta, con su versión corregida al lado."
+   },
+   "alt": "Comparación entre captions que no venden y su versión corregida para un negocio."
+  },
+  {
+   "slug": "14-autogol-al-privado",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "vendedor",
+     "h": "Contestas rápido y lo pierdes con *«al privado»*",
+     "b": "el que pregunta en público se va"
+    },
+    {
+     "role": "value",
+     "photo": "celular-cafe",
+     "label": "ASÍ NO",
+     "h": "«*Al privado* te paso»",
+     "b": "el que mira también quería"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "Precio *en el comentario*",
+     "b": "y ahí mismo invitas al chat"
+    },
+    {
+     "role": "value",
+     "photo": "manos-celular",
+     "label": "ASÍ NO",
+     "h": "«Ya te *escribí* al DM»",
+     "b": "lo dices y matas el hilo"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "Responde y *deja el hilo*",
+     "b": "esa respuesta vende a diez más"
+    },
+    {
+     "role": "closer",
+     "img": "shot-comentarios.png",
+     "h": "Los comentarios, *todos en una bandeja*",
+     "b": "propaga.pe publica por tu negocio en todas tus redes y junta los chats de todas en una sola bandeja."
+    }
+   ],
+   "caption": {
+    "ig": "Qué responder cuando te preguntan el precio en los comentarios de una publicación. El «al privado» espanta al que pregunta y al que estaba mirando: aquí van las dos versiones corregidas, la del comentario y la del hilo que se deja abierto. Guárdalo para tu próximo post con preguntas. #negociosperu #redessociales #ventas",
+    "tt": "Contestó rápido y metió autogol con el «al privado». Mándaselo a quien responde tus comentarios. #negociosperu #ventas",
+    "fb": "El «al privado» no protege nada: espanta al que pregunta y al que estaba leyendo en silencio. Dos respuestas mejores, con el hilo abierto."
+   },
+   "alt": "Comparación entre responder «al privado» y responder el precio en el comentario."
+  },
+  {
+   "slug": "15-autogol-promo-tarde",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-mesa",
+     "h": "Armaste la promo y la publicaste *tarde*",
+     "b": "la decisión ya estaba tomada"
+    },
+    {
+     "role": "value",
+     "photo": "laptop-mesa",
+     "label": "ASÍ NO",
+     "h": "Publicar el *mismo día*",
+     "b": "tu cliente ya eligió dónde"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "Avisar *tres días antes*",
+     "b": "y repetir en la víspera"
+    },
+    {
+     "role": "value",
+     "photo": "dueno-tienda",
+     "label": "ASÍ NO",
+     "h": "Un solo post y *a esperar*",
+     "b": "se lo pierde el que no entró"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "Aviso, *recordatorio* y cierre",
+     "b": "tres posts para una promo"
+    },
+    {
+     "role": "closer",
+     "img": "shot-campanas.png",
+     "h": "La promo entera, *programada antes*",
+     "b": "Con propaga.pe planificas el mes de tu negocio y publicas en todas tus redes sin repetir el trabajo."
+    }
+   ],
+   "caption": {
+    "ig": "Cuándo publicar una promoción para que llegue a tiempo a tus clientes. El error caro es sacarla el mismo día y en un solo post: aquí va la versión corregida, aviso tres días antes, recordatorio en la víspera y cierre. Guárdalo para tu próxima campaña. #negociosperu #marketingdigital #emprendeperu",
+    "tt": "Armó buena promo y la publicó tarde. Mándaselo a quien arma tus campañas. #negociosperu #marketingdigital",
+    "fb": "La promo estaba bien y salió tarde. Tu cliente decide antes: aviso tres días antes, recordatorio la víspera y cierre. Tres posts, una sola promo."
+   },
+   "alt": "Comparación entre publicar una promoción el mismo día y anunciarla con anticipación."
+  },
+  {
+   "slug": "16-autogol-sin-direccion",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "letrero-abierto",
+     "h": "Tu post vuela y *nadie sabe dónde quedas*",
+     "b": "la dirección no está en ningún lado"
+    },
+    {
+     "role": "value",
+     "photo": "letrero-abierto",
+     "label": "ASÍ NO",
+     "h": "«Escríbenos *para más info*»",
+     "b": "una vuelta más para comprar"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "Calle, cuadra y *referencia*",
+     "b": "en el caption y en la bio"
+    },
+    {
+     "role": "value",
+     "photo": "dueno-tienda",
+     "label": "ASÍ NO",
+     "h": "La *ubicación* en historias",
+     "b": "se borra a las 24 horas"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "Un post fijo con *el mapa*",
+     "b": "arriba de todo, siempre"
+    },
+    {
+     "role": "closer",
+     "img": "shot-ciudades.png",
+     "h": "Tu dirección *en cada red*",
+     "b": "propaga.pe, la app peruana para publicar tu negocio en todas sus redes desde un solo lugar."
+    }
+   ],
+   "caption": {
+    "ig": "Dónde poner la dirección de tu negocio para que el cliente llegue. El post que se llena de comentarios y no dice la calle es una venta perdida: aquí va el arreglo, calle y referencia en el caption y en la bio, más un post fijo con el mapa. Guárdalo para revisar tu perfil hoy. #negociosperu #instagramparanegocios #emprendeperu",
+    "tt": "Su post voló y nadie supo dónde quedaba el local. Mándaselo a quien maneja el perfil de tu negocio. #negociosperu #emprendeperu",
+    "fb": "Un post con cien comentarios y ninguna dirección es una venta perdida. Calle y referencia en el caption, en la bio y en un post fijo con el mapa."
+   },
+   "alt": "Comparación entre un post sin dirección y uno con calle, referencia y mapa fijo."
+  },
+  {
+   "slug": "17-autogol-oferta-sin-fin",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "panaderia",
+     "h": "Tu oferta es buena y *nunca se acaba*",
+     "b": "sin fecha nadie se apura"
+    },
+    {
+     "role": "value",
+     "photo": "panaderia",
+     "label": "ASÍ NO",
+     "h": "«*Promo* todo el mes»",
+     "b": "nadie corre por algo eterno"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "«Hasta el *domingo* a las 8»",
+     "b": "una hora exacta mueve al que duda"
+    },
+    {
+     "role": "value",
+     "photo": "dueno-tienda",
+     "label": "ASÍ NO",
+     "h": "Bajar el precio *y ya*",
+     "b": "regalas margen sin motivo"
+    },
+    {
+     "role": "value",
+     "label": "ASÍ SÍ",
+     "h": "Mismo precio, *algo más*",
+     "b": "suma el envío o el segundo"
+    },
+    {
+     "role": "closer",
+     "img": "shot-campana-chat.png",
+     "h": "El cierre de tu oferta *avisa solo*",
+     "b": "En propaga.pe dejas programado el contenido de tu negocio y sale solo en cada una de tus redes."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo armar una oferta para tu negocio sin regalar margen. Una promo sin fecha de cierre no mueve a nadie y bajar el precio a secas tampoco: aquí va la versión corregida, hora exacta de cierre y algo más en lugar de menos precio. Guárdalo para tu próxima oferta. #negociosperu #ventas #marketingdigital",
+    "tt": "Hizo la oferta correcta y la dejó sin fecha de cierre. Mándaselo a quien decide tus promos. #negociosperu #ventas",
+    "fb": "Una promo que dura todo el mes no apura a nadie. Pon hora exacta de cierre y, en vez de bajar el precio, suma algo: el envío, el segundo, lo que sea."
+   },
+   "alt": "Comparación entre una oferta sin fecha de cierre y una con hora exacta y valor agregado."
+  },
+  {
+   "slug": "18-errores-primera-respuesta",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "manos-celular",
+     "h": "4 errores en el *primer mensaje* que te escriben",
+     "b": "cada uno con su arreglo"
+    },
+    {
+     "role": "value",
+     "photo": "celular-cafe",
+     "label": "ERROR 1",
+     "h": "Responder *al día siguiente*",
+     "b": "arréglalo: respuestas guardadas"
+    },
+    {
+     "role": "value",
+     "label": "ERROR 2",
+     "h": "Contestar solo *«hola»*",
+     "b": "arréglalo: hola más la respuesta"
+    },
+    {
+     "role": "value",
+     "photo": "manos-celular",
+     "label": "ERROR 3",
+     "h": "Mandar *el catálogo* entero",
+     "b": "arréglalo: pregunta para quién es"
+    },
+    {
+     "role": "value",
+     "label": "ERROR 4",
+     "h": "Terminar sin *siguiente paso*",
+     "b": "arréglalo: cierra con día y hora"
+    },
+    {
+     "role": "closer",
+     "img": "shot-bandeja.png",
+     "h": "Nadie contesta *al día siguiente*",
+     "b": "propaga.pe publica por tu negocio en todas tus redes y junta los chats de todas en una sola bandeja."
+    }
+   ],
+   "caption": {
+    "ig": "Errores al contestar el primer mensaje de un cliente nuevo por Instagram o WhatsApp. Cuatro, con el arreglo al lado: la demora, el «hola» suelto, el catálogo entero de golpe y el cierre sin siguiente paso. Guárdalo para revisar cómo estás contestando esta semana. #negociosperu #ventas #emprendedoresperu",
+    "tt": "4 errores en el primer mensaje que te escriben, con el arreglo al costado. Mándaselo a quien contesta por tu negocio. #ventas #negociosperu",
+    "fb": "El primer mensaje decide si hay venta. Cuatro errores caros con su arreglo: la demora, el «hola» solo, el catálogo entero y el cierre sin siguiente paso."
+   },
+   "alt": "Cuatro errores al responder el primer mensaje de un cliente, cada uno con su corrección."
+  },
+  {
+   "slug": "19-errores-perfil",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "celular-cafe",
+     "h": "4 errores del perfil que *espantan al cliente*",
+     "b": "lo miran antes de escribirte"
+    },
+    {
+     "role": "value",
+     "photo": "dueno-tienda",
+     "label": "ERROR 1",
+     "h": "Foto de perfil *borrosa*",
+     "b": "arréglalo: tu logo o tu cara"
+    },
+    {
+     "role": "value",
+     "label": "ERROR 2",
+     "h": "Bio con *frase bonita*",
+     "b": "arréglalo: qué vendes y dónde"
+    },
+    {
+     "role": "value",
+     "photo": "letrero-abierto",
+     "label": "ERROR 3",
+     "h": "Sin *botón* de mensaje",
+     "b": "arréglalo: cuenta de negocio"
+    },
+    {
+     "role": "value",
+     "label": "ERROR 4",
+     "h": "Último post de *hace meses*",
+     "b": "arréglalo: sube algo hoy"
+    },
+    {
+     "role": "closer",
+     "img": "shot-movil.png",
+     "h": "Tu perfil *al día*, sin recordarlo",
+     "b": "propaga.pe es la app peruana donde planificas y publicas el contenido de tu negocio en todas sus redes desde un solo lugar."
+    }
+   ],
+   "caption": {
+    "ig": "Qué revisar en el perfil de tu negocio antes de que llegue un cliente nuevo. Cuatro errores con su arreglo: la foto borrosa, la bio con frase bonita, la cuenta sin botón de mensaje y el último post de hace meses. Guárdalo para hacer la revisión hoy mismo. #negociosperu #instagramparanegocios #emprendeperu",
+    "tt": "4 errores del perfil que espantan al cliente antes de que escriba. Mándaselo a quien administra tus redes. #negociosperu #emprendeperu",
+    "fb": "Antes de escribirte, el cliente mira tu perfil tres segundos. Cuatro errores que lo espantan ahí mismo, cada uno con su arreglo."
+   },
+   "alt": "Cuatro errores del perfil de un negocio en redes, cada uno con su corrección."
+  },
+  {
+   "slug": "20-errores-promo",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "panaderia",
+     "h": "4 errores que le quitan *fuerza a tu promo*",
+     "b": "el arreglo va al lado"
+    },
+    {
+     "role": "value",
+     "photo": "panaderia",
+     "label": "ERROR 1",
+     "h": "No decir *cuánto queda*",
+     "b": "arréglalo: pon el número exacto"
+    },
+    {
+     "role": "value",
+     "label": "ERROR 2",
+     "h": "Descuento *sin motivo*",
+     "b": "arréglalo: dale una razón real"
+    },
+    {
+     "role": "value",
+     "photo": "vendedor",
+     "label": "ERROR 3",
+     "h": "Publicar *una sola vez*",
+     "b": "arréglalo: aviso, víspera y cierre"
+    },
+    {
+     "role": "value",
+     "label": "ERROR 4",
+     "h": "No decir *cómo se pide*",
+     "b": "arréglalo: un solo paso claro"
+    },
+    {
+     "role": "closer",
+     "img": "shot-campanas.png",
+     "h": "Tu promo completa, *lista antes*",
+     "b": "Con propaga.pe planificas el mes de tu negocio y publicas en todas tus redes sin repetir el trabajo."
+    }
+   ],
+   "caption": {
+    "ig": "Por qué una promoción no funciona aunque el descuento sea bueno. Cuatro errores con su arreglo: no decir cuánto queda, rebajar sin motivo, publicarla una sola vez y no explicar cómo se pide. Guárdalo para antes de lanzar la siguiente. #negociosperu #marketingdigital #ventas",
+    "tt": "4 errores que le quitan fuerza a tu promo, con el arreglo al lado. Mándaselo a quien arma tus ofertas. #negociosperu #ventas",
+    "fb": "El descuento puede estar bien y la promo igual no mover nada. Cuatro errores con su arreglo: cuánto queda, el motivo, la repetición y cómo se pide."
+   },
+   "alt": "Cuatro errores frecuentes al publicar una promoción, cada uno con su corrección."
+  },
+  {
+   "slug": "21-errores-foto",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "dueno-tienda",
+     "h": "4 errores en la foto que *nadie te dice*",
+     "b": "se arreglan en un minuto"
+    },
+    {
+     "role": "value",
+     "photo": "panaderia",
+     "label": "ERROR 1",
+     "h": "Foto *contra la ventana*",
+     "b": "arréglalo: la luz de frente"
+    },
+    {
+     "role": "value",
+     "label": "ERROR 2",
+     "h": "Fondo con *todo el desorden*",
+     "b": "arréglalo: una pared lisa"
+    },
+    {
+     "role": "value",
+     "photo": "vendedor",
+     "label": "ERROR 3",
+     "h": "El producto *sin nadie*",
+     "b": "arréglalo: una mano sosteniéndolo"
+    },
+    {
+     "role": "value",
+     "label": "ERROR 4",
+     "h": "Una sola *toma* y a publicar",
+     "b": "arréglalo: diez y eliges una"
+    },
+    {
+     "role": "closer",
+     "img": "shot-contenido.png",
+     "h": "Tus fotos, *ordenadas y programadas*",
+     "b": "propaga.pe junta en una pantalla el calendario, los posts y los chats de todas las redes de tu negocio."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo tomar mejores fotos de producto con el celular de tu negocio. Cuatro errores con su arreglo: la luz por detrás, el fondo desordenado, el producto solo sin manos y la única toma. Guárdalo para tu próxima sesión en el mostrador. #negociosperu #fotografia #emprendedoresperu",
+    "tt": "4 errores en la foto de tu producto que nadie te dice. Mándaselo a quien toma las fotos de tu negocio. #negociosperu #emprendeperu",
+    "fb": "Las fotos de producto se arreglan en un minuto: la luz de frente, una pared lisa, una mano sosteniendo y diez tomas para elegir una."
+   },
+   "alt": "Cuatro errores al fotografiar un producto con el celular, cada uno con su corrección."
+  },
+  {
+   "slug": "22-cuando-publicas",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "celular-cafe",
+     "h": "¿Publicas cuando *puedes* o cuando te ven?",
+     "b": "hay una hora en que tu cliente mira"
+    },
+    {
+     "role": "value",
+     "photo": "manos-celular",
+     "label": "OPCIÓN A",
+     "h": "Publicas *al cerrar caja*",
+     "b": "a esa hora ya nadie mira"
+    },
+    {
+     "role": "value",
+     "label": "OPCIÓN B",
+     "h": "Publicas *cuando miran*",
+     "b": "el mismo post, otra suerte"
+    },
+    {
+     "role": "value",
+     "photo": "celular-cafe",
+     "label": "CÓMO SABERLO",
+     "h": "Mira *tus propios* horarios",
+     "b": "tu app te dice cuándo entran"
+    },
+    {
+     "role": "value",
+     "label": "LA REGLA",
+     "h": "Escribe hoy, *publica después*",
+     "b": "separar las dos cosas lo cambia"
+    },
+    {
+     "role": "closer",
+     "img": "shot-posts.png",
+     "h": "Escribes de noche, *sale de día*",
+     "b": "En propaga.pe dejas programado el contenido de tu negocio y sale solo en cada una de tus redes."
+    }
+   ],
+   "caption": {
+    "ig": "A qué hora publicar en redes para un negocio pequeño. La mayoría publica al cerrar caja, que es justo cuando ya nadie mira: la salida es separar el momento de escribir del momento de publicar. Mándaselo a quien sube los posts de tu negocio a medianoche. #negociosperu #redessociales #emprendeperu",
+    "tt": "¿Publicas cuando puedes o cuando te ven? #negociosperu #redessociales",
+    "fb": "Casi todos publican al cerrar caja, que es cuando ya nadie mira. La salida no es madrugar: es escribir en un momento y publicar en otro."
+   },
+   "alt": "Pregunta sobre publicar al cerrar caja o en el horario en que los clientes miran."
+  },
+  {
+   "slug": "23-te-encuentran",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "letrero-abierto",
+     "h": "¿Te *encuentran* o te tienen que preguntar?",
+     "b": "te recomiendan de boca y se pierde"
+    },
+    {
+     "role": "value",
+     "photo": "manos-celular",
+     "label": "PRUEBA",
+     "h": "Busca tu negocio *como un extraño*",
+     "b": "escribe el nombre y ya"
+    },
+    {
+     "role": "value",
+     "label": "SI NO SALES",
+     "h": "Tu nombre está *mal escrito*",
+     "b": "el mismo, igual, en cada red"
+    },
+    {
+     "role": "value",
+     "photo": "dueno-tienda",
+     "label": "AGREGA",
+     "h": "Tu *distrito* en el nombre",
+     "b": "así te buscan por zona"
+    },
+    {
+     "role": "value",
+     "label": "LA REGLA",
+     "h": "Un nombre *que se dicte*",
+     "b": "si no se dicta, no se encuentra"
+    },
+    {
+     "role": "closer",
+     "img": "shot-canales.png",
+     "h": "El mismo nombre *en todas partes*",
+     "b": "propaga.pe, la app peruana para publicar tu negocio en todas sus redes desde un solo lugar."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo hacer que encuentren tu negocio cuando lo buscan por nombre en Instagram o TikTok. La recomendación de boca se pierde ahí: el nombre debe escribirse igual en todas tus redes, poder dictarse en voz alta y llevar tu distrito. Mándaselo a quien te recomienda siempre. #negociosperu #emprendeperu #redessociales",
+    "tt": "¿Te encuentran cuando te buscan o te tienen que preguntar? #negociosperu #emprendeperu",
+    "fb": "Te recomiendan de boca, el cliente busca tu nombre y no sale nada. Escribe el nombre igual en todas tus redes, que se pueda dictar, y ponle tu distrito."
+   },
+   "alt": "Pregunta sobre si los clientes encuentran el negocio al buscarlo por su nombre."
+  },
+  {
+   "slug": "24-vendes-o-avisas",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "dueno-tienda",
+     "h": "¿Tu post *vende* o solamente avisa?",
+     "b": "hay una palabra que los separa"
+    },
+    {
+     "role": "value",
+     "photo": "panaderia",
+     "label": "AVISA",
+     "h": "«Ya llegó el *pan de yema*»",
+     "b": "informa y ahí muere"
+    },
+    {
+     "role": "value",
+     "label": "VENDE",
+     "h": "«Sale del horno *a las 4*»",
+     "b": "pone hora y da un motivo"
+    },
+    {
+     "role": "value",
+     "photo": "vendedor",
+     "label": "AVISA",
+     "h": "«Tenemos *delivery*»",
+     "b": "nadie pide por eso"
+    },
+    {
+     "role": "value",
+     "label": "VENDE",
+     "h": "«Llega *caliente* a Surco»",
+     "b": "el resultado, no el servicio"
+    },
+    {
+     "role": "closer",
+     "img": "shot-leads.png",
+     "h": "Sabes cuál *trajo pedidos*",
+     "b": "propaga.pe, la app peruana que publica tu negocio en todas sus redes, te muestra qué post trajo contactos."
+    }
+   ],
+   "caption": {
+    "ig": "Diferencia entre un post que avisa y uno que vende en el Instagram de un negocio. Dos pares comparados: «ya llegó» contra «sale del horno a las 4», y «tenemos delivery» contra «llega caliente a Surco». Mándaselo a quien escribe tus publicaciones. #negociosperu #copywriting #ventas",
+    "tt": "¿Tu post vende o solamente avisa? #negociosperu #copywriting",
+    "fb": "«Ya llegó» informa. «Sale del horno a las 4» vende. La diferencia entre avisar y vender cabe en una palabra: el resultado para el cliente."
+   },
+   "alt": "Comparación entre publicaciones que solo informan y publicaciones que dan un motivo de compra."
+  },
+  {
+   "slug": "25-seguidores-no-compran",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-mesa",
+     "h": "Los seguidores no compran, *los que escriben sí*",
+     "b": "el número que miras no es el que paga"
+    },
+    {
+     "role": "value",
+     "photo": "celular-cafe",
+     "label": "LA VERDAD",
+     "h": "Mil seguidores *no son mil clientes*",
+     "b": "compran los diez que escriben"
+    },
+    {
+     "role": "value",
+     "label": "QUÉ MIRAR",
+     "h": "Cuántos *te escribieron* hoy",
+     "b": "esa es la cifra que se cobra"
+    },
+    {
+     "role": "value",
+     "photo": "dueno-tienda",
+     "label": "OJO",
+     "h": "Seguidores *comprados* pesan",
+     "b": "le hablas a cuentas vacías"
+    },
+    {
+     "role": "value",
+     "label": "LA REGLA",
+     "h": "Un post que *pide escribir*",
+     "b": "cada semana, sin falta"
+    },
+    {
+     "role": "closer",
+     "img": "shot-leads-full.png",
+     "h": "Cuenta a los que *te escriben*",
+     "b": "propaga.pe, la app peruana que publica tu negocio en todas sus redes, te muestra qué post trajo contactos."
+    }
+   ],
+   "caption": {
+    "ig": "Por qué los seguidores de un negocio no se traducen en ventas. La cifra que importa no es cuánta gente te sigue sino cuánta te escribió esta semana, y por eso los seguidores comprados juegan en contra. Guárdalo para tu revisión del mes. #negociosperu #emprendedoresperu #marketingdigital",
+    "tt": "Mil seguidores no son mil clientes. Mándaselo a quien te ofreció seguidores baratos. #negociosperu #emprendeperu",
+    "fb": "Nadie cobra en seguidores. La cifra que se cobra es cuánta gente te escribió esta semana, y por eso los seguidores comprados juegan en contra."
+   },
+   "alt": "Explicación de por qué los seguidores de una cuenta no equivalen a clientes de un negocio."
+  },
+  {
+   "slug": "26-constancia",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "vendedor",
+     "h": "Tu competencia no publica mejor, *publica siempre*",
+     "b": "el que aparece se queda en la cabeza"
+    },
+    {
+     "role": "value",
+     "photo": "laptop-mesa",
+     "label": "LO INCÓMODO",
+     "h": "El post *perfecto* no existe",
+     "b": "el publicado sí"
+    },
+    {
+     "role": "value",
+     "label": "LA CUENTA",
+     "h": "Tres por semana *bastan*",
+     "b": "si de verdad salen las tres"
+    },
+    {
+     "role": "value",
+     "photo": "celular-cafe",
+     "label": "EL TRUCO",
+     "h": "Escribe *cuatro de una vez*",
+     "b": "una tarde cubre la semana"
+    },
+    {
+     "role": "value",
+     "label": "LA REGLA",
+     "h": "Mejor *constante* que brillante",
+     "b": "el que desaparece se olvida"
+    },
+    {
+     "role": "closer",
+     "img": "shot-lista.png",
+     "h": "Tu semana *ya está programada*",
+     "b": "Con propaga.pe planificas el mes de tu negocio y publicas en todas tus redes sin repetir el trabajo."
+    }
+   ],
+   "caption": {
+    "ig": "Cada cuánto publicar en redes si tienes un negocio y publicas tú mismo. La verdad incómoda es que el vecino no publica mejor, publica siempre: tres por semana bastan si de verdad salen las tres, y la manera de lograrlo es escribir cuatro de una sentada. Guárdalo para tu planificación del domingo. #negociosperu #redessociales #emprendeperu",
+    "tt": "Tu competencia no publica mejor, publica siempre. Mándaselo a quien lleva meses sin subir nada. #negociosperu #emprendeperu",
+    "fb": "El vecino no publica mejor que tú: publica siempre. Tres por semana bastan si de verdad salen las tres, y para eso se escriben cuatro de una sentada."
+   },
+   "alt": "Explicación de por qué la constancia al publicar pesa más que la calidad de cada post."
+  },
+  {
+   "slug": "27-nadie-sabe-que-vendes",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "panaderia",
+     "h": "Publicas todos los días y *nadie sabe qué vendes*",
+     "b": "la constancia sin claridad no vende"
+    },
+    {
+     "role": "value",
+     "photo": "dueno-tienda",
+     "label": "LA PRUEBA",
+     "h": "Tapa tu logo y *lee tu feed*",
+     "b": "si no se entiende, no vende"
+    },
+    {
+     "role": "value",
+     "label": "ARREGLO 1",
+     "h": "Un post que diga *qué haces*",
+     "b": "fijado arriba del perfil"
+    },
+    {
+     "role": "value",
+     "photo": "panaderia",
+     "label": "ARREGLO 2",
+     "h": "Nombra tu *producto estrella*",
+     "b": "el mismo, hasta que canse"
+    },
+    {
+     "role": "value",
+     "label": "LA REGLA",
+     "h": "Repetir *no es aburrir*",
+     "b": "recién ahí empiezan a saberlo"
+    },
+    {
+     "role": "closer",
+     "img": "shot-contenido.png",
+     "h": "Tu mes entero *en una pantalla*",
+     "b": "propaga.pe junta en una pantalla el calendario, los posts y los chats de todas las redes de tu negocio."
+    }
+   ],
+   "caption": {
+    "ig": "Por qué publicas seguido y el cliente sigue sin saber qué vendes. La prueba es tapar el logo y leer tu propio feed: si no se entiende, hace falta un post fijo que lo diga y repetir el producto estrella hasta que canse. Guárdalo para revisar tu perfil este domingo. #negociosperu #contenido #marketingdigital",
+    "tt": "Publicas todos los días y nadie sabe qué vendes. Mándaselo a quien lleva tu feed. #negociosperu #contenido",
+    "fb": "Tapa tu logo y lee tu propio feed como un desconocido. Si no se entiende qué vendes, la constancia no está sirviendo de nada."
+   },
+   "alt": "Explicación de por qué publicar seguido no sirve si el feed no dice qué vende el negocio."
+  },
+  {
+   "slug": "28-primavera-vitrina",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "letrero-abierto",
+     "h": "Prepara tu vitrina para el *Día de la Primavera*",
+     "b": "ese día la gente sale a mirar",
+     "kicker": "DÍA DE LA PRIMAVERA"
+    },
+    {
+     "role": "value",
+     "photo": "dueno-tienda",
+     "label": "HOY",
+     "h": "Cambia *el color* de tu foto",
+     "b": "verde, amarillo, lo que tengas"
+    },
+    {
+     "role": "value",
+     "label": "ESTA SEMANA",
+     "h": "Saca *lo que sobró* del invierno",
+     "b": "una mesa, un precio, afuera"
+    },
+    {
+     "role": "value",
+     "photo": "panaderia",
+     "label": "LA VÍSPERA",
+     "h": "Publica *lo nuevo* de temporada",
+     "b": "el que estrena decide antes"
+    },
+    {
+     "role": "value",
+     "label": "ESE DÍA",
+     "h": "Una foto *de tu puerta*",
+     "b": "con flores, aunque sean dos"
+    },
+    {
+     "role": "closer",
+     "img": "shot-campanas.png",
+     "h": "La semana entera *ya programada*",
+     "b": "Con propaga.pe planificas el mes de tu negocio y publicas en todas tus redes sin repetir el trabajo."
+    }
+   ],
+   "caption": {
+    "ig": "Qué hacer en tu negocio para el Día de la Primavera en Perú. Cuatro movidas con su momento: cambiar el color de tus fotos, sacar el saldo de invierno, publicar lo nuevo de temporada la víspera y la foto de tu puerta ese día. Guárdalo para armar tu semana de primavera. #negociosperu #emprendeperu #primavera",
+    "tt": "Prepara tu vitrina para el Día de la Primavera. Mándaselo a quien decora tu local. #negociosperu #emprendeperu",
+    "fb": "Ese día la gente sale a mirar vitrinas y a estrenar algo. Cuatro movidas con su momento, desde el color de tus fotos hasta la foto de tu puerta con flores."
+   },
+   "alt": "Cuatro acciones para preparar la vitrina de un negocio antes del Día de la Primavera."
+  },
+  {
+   "slug": "29-primavera-regalo",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "vendedor",
+     "h": "Ese día todos regalan algo, *que sea lo tuyo*",
+     "b": "no hace falta vender flores",
+     "kicker": "PRIMAVERA Y JUVENTUD"
+    },
+    {
+     "role": "value",
+     "photo": "panaderia",
+     "label": "PASO 1",
+     "h": "Arma *un pack* de dos",
+     "b": "cualquier rubro tiene su dúo"
+    },
+    {
+     "role": "value",
+     "label": "PASO 2",
+     "h": "Ponle *nombre* de la fecha",
+     "b": "así se entiende para qué es"
+    },
+    {
+     "role": "value",
+     "photo": "celular-cafe",
+     "label": "PASO 3",
+     "h": "Publica *tres días antes*",
+     "b": "el que compra ya está mirando"
+    },
+    {
+     "role": "value",
+     "label": "PASO 4",
+     "h": "Di hasta *cuándo* separas",
+     "b": "una fecha mueve al indeciso"
+    },
+    {
+     "role": "closer",
+     "img": "shot-campana-chat.png",
+     "h": "Tu campaña *sale sola* ese día",
+     "b": "En propaga.pe dejas programado el contenido de tu negocio y sale solo en cada una de tus redes."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo aprovechar el Día de la Primavera y la Juventud si tu negocio no vende flores ni peluches. Cuatro pasos: armar un pack de dos, ponerle el nombre de la fecha, publicarlo tres días antes y decir hasta cuándo separas. Guárdalo para armar tu promo de esa semana. #negociosperu #emprendeperu #primavera",
+    "tt": "Ese día todos regalan algo, que sea lo tuyo. Mándaselo a quien arma las promos de tu negocio. #negociosperu #emprendeperu",
+    "fb": "No hace falta vender flores para jugar esa fecha. Un pack de dos con el nombre del día, publicado con tres días de anticipación y con fecha de cierre."
+   },
+   "alt": "Cuatro pasos para armar una promoción de regalo por el Día de la Primavera y la Juventud."
+  },
+  {
+   "slug": "30-cierre-de-mes",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "laptop-mesa",
+     "h": "Cierra tu mes con estas *4 preguntas*",
+     "b": "y arma el siguiente con datos",
+     "kicker": "CIERRE DE MES"
+    },
+    {
+     "role": "value",
+     "photo": "laptop-mesa",
+     "label": "PREGUNTA 1",
+     "h": "¿Cuál trajo *más mensajes*?",
+     "b": "no el de más likes"
+    },
+    {
+     "role": "value",
+     "label": "PREGUNTA 2",
+     "h": "¿Qué *día* funcionó?",
+     "b": "repite ese día el mes que viene"
+    },
+    {
+     "role": "value",
+     "photo": "celular-cafe",
+     "label": "PREGUNTA 3",
+     "h": "¿Qué *pregunta* se repitió?",
+     "b": "ahí está tu próximo post"
+    },
+    {
+     "role": "value",
+     "label": "PREGUNTA 4",
+     "h": "¿Qué *no vas a repetir*?",
+     "b": "cortar también es planificar"
+    },
+    {
+     "role": "closer",
+     "img": "shot-leads-full.png",
+     "h": "El balance *sale en dos minutos*",
+     "b": "propaga.pe, la app peruana que publica tu negocio en todas sus redes, te muestra qué post trajo contactos."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo revisar el mes de redes de tu negocio antes de planificar el siguiente. Cuatro preguntas que se contestan en veinte minutos: cuál trajo más mensajes, qué día funcionó, qué pregunta se repitió y qué no vas a repetir. Guárdalo para el último domingo del mes. #negociosperu #marketingdigital #emprendeperu",
+    "tt": "Cierra tu mes de redes con estas 4 preguntas. Mándaselo a quien planifica el contenido de tu negocio. #negociosperu #marketingdigital",
+    "fb": "Antes de armar el mes que viene, cierra el que termina con cuatro preguntas: cuál trajo más mensajes, qué día funcionó, qué pregunta se repitió y qué no vas a repetir."
+   },
+   "alt": "Cuatro preguntas para revisar el mes de redes de un negocio antes de planificar el siguiente."
+  }
+ ]
 }

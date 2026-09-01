@@ -44,3 +44,8 @@ Thumbs.db
 
 # --- llave de servicio de GCS (bucket compartido): NUNCA al repo ---
 /.gcs/
+
+# --- banco de fotos F1: las imagenes viven en la laptop (y las publicadas, en el
+# bucket via out/); al repo solo va el manifest de procedencia PHOTOS.json ------
+/brands/*/photos/*
+!/brands/*/photos/PHOTOS.json

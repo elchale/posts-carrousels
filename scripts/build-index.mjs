@@ -443,8 +443,10 @@ for (const brandId of listDirs(BRANDS_DIR)) {
         slug,
         date: postDate(seriesId, slug),
         order: copy.order ?? 999,
-        title: cover.h || slug.replace(/-/g, ' '),
-        sub: cover.b || '',
+        /* F1: los `*asteriscos*` marcan el tramo de acento para el renderer;
+         * en el título de la app se limpian */
+        title: (cover.h || slug.replace(/-/g, ' ')).replace(/\*/g, ''),
+        sub: (cover.b || cover.sub || '').replace(/\*/g, ''),
         kicker: cover.kicker || '',
         thumb: `${MEDIA_BASE}/thumb/${thumbRel}?v=${coverV}`,
         ig: formats.ig || [],

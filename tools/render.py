@@ -744,6 +744,8 @@ def main() -> None:
             if series_filter and not sfile.stem.startswith(series_filter):
                 continue
             data = json.loads(sfile.read_text(encoding="utf-8"))
+            if data.get("format") == "f1":
+                continue  # rendered by tools/render_f1.py (new visual system)
             done = 0
             for i, post in enumerate(data["posts"]):
                 if slug_filter and post["slug"] not in slug_filter:
