@@ -6,6 +6,16 @@
 The reach account. Physical products, photo-led, cents per click, and the only
 one of the two with a realistic path to a million-view post.
 
+> **STATE, 2026-09-01.** 20 posts are written and rendered:
+> `brands/cheapfix/posts/sep.json` → `brands/cheapfix/out/sep/`. They ship with
+> **no affiliate link and no `#ad` line** because there is no rail yet (see
+> `PROGRAMS.md` § Temu). Each closer names the search term instead of a link,
+> which is honest and still useful. The job of this batch is to reach ~300
+> followers so the **Temu Influencer** program opens, because that program pays
+> in product credit and product credit is what turns this into a photo account.
+> When the rail is live: add the disclosure to the caption template and swap the
+> "Search 'x'" closers for the link CTA.
+
 ## The angle, and why it isn't "amazon finds"
 
 Every generic finds account opens with the product. This one opens with the

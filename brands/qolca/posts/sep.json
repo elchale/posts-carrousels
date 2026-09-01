@@ -15,21 +15,21 @@
     {
      "role": "value",
      "label": "PASO 1",
-     "h": "Abre *tu chat* de ventas",
-     "b": "Cuenta cuántas veces diste el precio hoy."
+     "h": "Lista los últimos *20 mensajes*",
+     "b": "Y al lado, el motivo de cada uno."
     },
     {
      "role": "value",
      "label": "PASO 2",
-     "h": "Ponle *dos minutos* a cada una",
-     "b": "Diez mensajes son veinte minutos tuyos.",
+     "h": "Agrupa los motivos *que se repiten*",
+     "b": "Tres o cuatro se llevan casi todo.",
      "photo": "celular-noche"
     },
     {
      "role": "value",
      "label": "PASO 3",
-     "h": "Multiplica por *tu semana*",
-     "b": "Son horas tuyas, no del negocio."
+     "h": "Cronométrate *una respuesta*",
+     "b": "Multiplícala por las veces del mes."
     },
     {
      "role": "value",
@@ -46,9 +46,9 @@
     }
    ],
    "caption": {
-    "ig": "automatizar procesos en un negocio que vende por WhatsApp. Las horas que se te van repitiendo lo mismo no aparecen en ningún reporte, pero salen de tu día. Escríbeme FUGA por DM. #negociosperu #automatizacion #pymesperu",
-    "tt": "automatizar procesos de un negocio pequeño. Haz la cuenta de hoy: cuántas veces respondiste lo mismo y cuánto te tomó. Escríbeme FUGA por DM. #negociosperu #pymesperu",
-    "fb": "Las horas que se van contestando lo mismo no las ve nadie, pero son tuyas. Escríbeme FUGA por mensaje y te digo por dónde empezar."
+    "ig": "auditar en qué se te va el día en un negocio que vende por chat. Agrupa tus últimos veinte mensajes por motivo: tres razones se llevan casi todo tu tiempo. Escríbeme FUGA por DM. #negociosperu #automatizacion #pymesperu",
+    "tt": "revisa tus últimos veinte mensajes y agrúpalos por motivo. Tres motivos se llevan casi todo tu día. Escríbeme FUGA por DM. #negociosperu #pymesperu",
+    "fb": "Agrupa tus últimos veinte mensajes por motivo y cronometra uno. Ese número por las veces del mes es la hora que se te va. Escríbeme FUGA por mensaje."
    },
    "alt": "Papeles y notas apilados en un escritorio, con el titular sobre las horas que se van contestando lo mismo."
   },
@@ -64,7 +64,7 @@
      "role": "value",
      "label": "SEÑAL 1",
      "h": "Solo una persona *sabe cotizar*",
-     "b": "Si falta, tu negocio contesta a medias."
+     "b": "Y nadie más la vio hacerlo nunca."
     },
     {
      "role": "value",
@@ -76,8 +76,8 @@
     {
      "role": "value",
      "label": "SEÑAL 3",
-     "h": "El acuerdo quedó *de palabra*",
-     "b": "Nadie lo apuntó y nadie lo recuerda."
+     "h": "Nadie más *tiene las claves*",
+     "b": "Del correo, del banco, del proveedor."
     },
     {
      "role": "value",
@@ -93,9 +93,9 @@
     }
    ],
    "caption": {
-    "ig": "señales de que el proceso de tu negocio depende de una sola persona. Cuatro que se ven en cualquier tienda, taller o inmobiliaria. Escríbeme PRUEBA por DM. #negociosperu #pymesperu",
-    "tt": "cuando el proceso de tu negocio vive en la cabeza de una sola persona. Estas cuatro señales aparecen antes que el problema. Escríbeme PRUEBA por DM. #pymesperu #negociosperu",
-    "fb": "Si una sola persona sabe cotizar, tu negocio se detiene el día que falta. Escríbeme PRUEBA por mensaje y lo pasamos a un proceso escrito."
+    "ig": "señales de que el proceso de tu negocio depende de una sola persona. No hace falta un accidente: basta una gripe, un viaje o una renuncia. Escríbeme PRUEBA por DM. #negociosperu #pymesperu",
+    "tt": "cuando el proceso de tu negocio vive en la cabeza de una sola persona. Basta una gripe para que estas cuatro señales se vuelvan un problema. Escríbeme PRUEBA por DM. #pymesperu #negociosperu",
+    "fb": "Si una sola persona sabe cotizar y solo ella tiene las claves, tu negocio se detiene el día que falta. Escríbeme PRUEBA por mensaje."
    },
    "alt": "Un cuaderno abierto con anotaciones a mano y el titular sobre el proceso que vive en la cabeza de alguien."
   },
@@ -117,7 +117,7 @@
      "role": "value",
      "label": "PASO 2",
      "h": "Anota *la hora exacta* de la respuesta",
-     "b": "Y qué te respondieron.",
+     "b": "Y qué te contestaron, textual.",
      "photo": "papeles"
     },
     {
@@ -129,8 +129,8 @@
     {
      "role": "value",
      "label": "EL RESULTADO",
-     "h": "Ahí está *tu proceso real*",
-     "b": "No el que crees que tienes.",
+     "h": "Eso *es tu proceso*, no tu idea",
+     "b": "Arregla el paso, no a la persona.",
      "photo": "cuaderno"
     },
     {
@@ -141,9 +141,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo probar la atención de tu propio negocio. Hazlo tú, con tu número, un sábado en la noche: lo que recibas es tu proceso real. Escríbeme PLAN por DM. #negociosperu #ventasperu #pymesperu",
-    "tt": "prueba la atención de tu propio negocio un sábado en la noche. Escríbete desde otro número y anota la hora de la respuesta. Escríbeme PLAN por DM. #negociosperu #pymesperu",
-    "fb": "Escríbete desde otro número un sábado en la noche y pregunta precio. Lo que recibas es lo que reciben tus clientes."
+    "ig": "cliente incógnito en tu propio negocio: cómo probar tu atención sin avisarle a nadie. Un sábado en la noche, desde otro número, y lo que salga se usa para arreglar el paso. Escríbeme PLAN por DM. #negociosperu #ventasperu #pymesperu",
+    "tt": "hazte cliente incógnito de tu propio negocio un sábado en la noche. Anota la hora exacta de la respuesta y arregla el paso, no a la persona. Escríbeme PLAN por DM. #negociosperu #pymesperu",
+    "fb": "Escríbete desde otro número un sábado en la noche y pide algo fuera del guion. Lo que recibas es lo que reciben tus clientes."
    },
    "alt": "Un celular iluminado en la oscuridad con el titular sobre hacer la prueba del sábado en la noche."
   },
@@ -177,8 +177,8 @@
     {
      "role": "value",
      "label": "LA REGLA",
-     "h": "Un caso típico, *un precio base*",
-     "b": "Qué lo sube y cuánto, escrito.",
+     "h": "Base, *qué lo sube*, y el piso",
+     "b": "Hasta dónde baja cada quien solo.",
      "photo": "papeles"
     },
     {
@@ -188,9 +188,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo cotizar rápido cuando tu precio depende de muchas variables. Lotes de autos, bodas, inmobiliarias y muebles a medida cotizan igual de lento. Escríbeme FUGA por DM. #negociosperu #ventasperu #pymesperu",
-    "tt": "cotizar cuando tu precio es depende. Las mismas seis preguntas, escritas una vez, dejan de costarte las noches. Escríbeme FUGA por DM. #ventasperu #negociosperu",
-    "fb": "Depende del kilometraje, del piso, de los invitados. Esa palabra se responde una vez y se deja escrita, no se improvisa cada noche."
+    "ig": "cómo cotizar rápido cuando tu precio depende de muchas variables. Precio base del caso típico, qué lo sube y cuánto, y un piso escrito para que nadie improvise. Escríbeme FUGA por DM. #negociosperu #ventasperu #pymesperu",
+    "tt": "cotizar cuando tu precio es depende. Las mismas seis preguntas, un precio base y un piso escrito. Escríbeme FUGA por DM. #ventasperu #negociosperu",
+    "fb": "Depende del kilometraje, del piso, de los invitados. Se responde una vez: precio base, qué lo sube y hasta dónde puede bajar cada uno."
    },
    "alt": "Una mano recibiendo llaves de auto, con el titular sobre el precio que depende."
   },
@@ -218,13 +218,13 @@
     {
      "role": "value",
      "label": "TERCERO",
-     "h": "Ponle *un dueño* a cada paso",
-     "b": "Con nombre, no con área."
+     "h": "Borra el paso que *nadie extraña*",
+     "b": "Casi siempre sobran dos."
     },
     {
      "role": "value",
      "label": "RECIÉN AHÍ",
-     "h": "Automatiza *lo que funciona*",
+     "h": "Automatiza *lo que quedó*",
      "b": "Un desorden solo va más rápido.",
      "photo": "cuaderno"
     },
@@ -235,9 +235,9 @@
     }
    ],
    "caption": {
-    "ig": "por dónde empezar a automatizar los procesos de un negocio. Si el proceso está roto, automatizarlo solo acelera el desorden. Escríbeme PRUEBA por DM. #negociosperu #procesos #pymesperu",
-    "tt": "antes de automatizar tu negocio, ordena el proceso. Escríbelo, marca dónde se traba y ponle dueño a cada paso. Escríbeme PRUEBA por DM. #negociosperu #procesos",
-    "fb": "Automatizar un desorden solo lo hace más rápido. Primero se escribe el proceso, después se automatiza lo que ya funciona."
+    "ig": "por dónde empezar a automatizar los procesos de un negocio. Antes de automatizar un paso, pregúntate si ese paso debería existir: casi siempre sobran dos. Escríbeme PRUEBA por DM. #negociosperu #procesos #pymesperu",
+    "tt": "antes de automatizar tu negocio, borra los pasos que sobran. Automatizar un desorden solo lo hace más rápido. Escríbeme PRUEBA por DM. #negociosperu #procesos",
+    "fb": "Escribe los pasos de una venta, marca dónde se traba y borra el que nadie extraña. Recién ahí se automatiza lo que quedó."
    },
    "alt": "Hojas impresas sobre una mesa con el titular sobre el proceso roto que no conviene automatizar."
   },
@@ -265,14 +265,14 @@
     {
      "role": "value",
      "label": "3",
-     "h": "¿Alguien *lo revisa* después?",
-     "b": "Sin dueño se rompe y nadie avisa."
+     "h": "¿Tiene *un solo dueño*?",
+     "b": "Sin un nombre, se rompe y nadie avisa."
     },
     {
      "role": "value",
      "label": "4",
-     "h": "¿Puedes *medirlo* hoy?",
-     "b": "Si no sabes cuánto tarda, no sabrás si mejoró.",
+     "h": "¿Sabes *cuánto tarda* hoy?",
+     "b": "Sin ese número no sabrás si mejoró.",
      "photo": "mostrador"
     },
     {
@@ -283,9 +283,9 @@
     }
    ],
    "caption": {
-    "ig": "qué conviene automatizar primero en un negocio pequeño. Cuatro preguntas que se responden en cinco minutos y te ahorran meses. Escríbeme PLAN por DM. #negociosperu #procesos #pymesperu",
-    "tt": "qué automatizar primero en tu negocio. Si no se repite, no está escrito y no se puede medir, todavía no toca. Escríbeme PLAN por DM. #negociosperu #procesos",
-    "fb": "Antes de automatizar algo, revisa si se repite, si está escrito, si tiene dueño y si puedes medirlo. Escríbeme PLAN por mensaje y elegimos el primero."
+    "ig": "qué conviene automatizar primero en un negocio pequeño. Cuatro filtros: que se repita, que esté escrito, que tenga un solo dueño y que hoy se pueda medir. Escríbeme PLAN por DM. #negociosperu #procesos #pymesperu",
+    "tt": "qué automatizar primero en tu negocio. Si no se repite, no está escrito, no tiene dueño y no se puede medir, todavía no toca. Escríbeme PLAN por DM. #negociosperu #procesos",
+    "fb": "Antes de automatizar algo, revisa si se repite, si está escrito, si tiene un solo dueño y si hoy puedes medir cuánto tarda."
    },
    "alt": "Cuaderno con una lista numerada y el titular con las cuatro preguntas antes de automatizar."
   },
@@ -313,8 +313,8 @@
     {
      "role": "value",
      "label": "EL ARREGLO",
-     "h": "Que la noche *no quede vacía*",
-     "b": "Precio base y una pregunta."
+     "h": "Responder *no es resolver*",
+     "b": "Precio base ahora, el resto mañana."
     },
     {
      "role": "value",
@@ -330,8 +330,8 @@
     }
    ],
    "caption": {
-    "ig": "cómo responder los mensajes que llegan de madrugada a tu negocio. El interesado de las once escribe a varios y se queda con quien le contesta. Escríbeme FUGA por DM. #negociosperu #whatsappbusiness #pymesperu",
-    "tt": "los mensajes de las once de la noche que nadie contesta. A esa hora el cliente escribe a varios lugares a la vez. Escríbeme FUGA por DM. #negociosperu #whatsappbusiness",
+    "ig": "cómo responder los mensajes que llegan de madrugada a tu negocio. Contestar y resolver son dos cosas distintas: el precio base a esa hora ya te deja en la conversación. Escríbeme FUGA por DM. #negociosperu #whatsappbusiness #pymesperu",
+    "tt": "los mensajes de las once de la noche que nadie contesta. Responder no es resolver: manda el precio base y el resto al día siguiente. Escríbeme FUGA por DM. #negociosperu #whatsappbusiness",
     "fb": "El que escribe a las once de la noche escribe a varios lugares. Se queda con el que le responda, no con el mejor."
    },
    "alt": "Un celular encendido de noche con el titular sobre el mensaje de anoche que ya fue a otro lado."
@@ -348,20 +348,20 @@
      "role": "value",
      "label": "EL DATO",
      "h": "Mandaste el precio *y hasta ahí*",
-     "b": "Nadie fijó cuándo volver a escribir."
+     "b": "Nadie dijo cuándo se vuelve a hablar."
     },
     {
      "role": "value",
      "label": "LO QUE FALTA",
-     "h": "Cada cotización *con su fecha*",
-     "b": "Hoy, en tres días, en dos semanas.",
+     "h": "La fecha *se acuerda con él*",
+     "b": "Antes de colgar, no después.",
      "photo": "cuaderno"
     },
     {
      "role": "value",
      "label": "QUÉ ESCRIBIR",
      "h": "Nada de *sigues interesado*",
-     "b": "Vuelve con algo nuevo: stock o fecha."
+     "b": "Vuelve con stock, fecha o cambio."
     },
     {
      "role": "value",
@@ -377,9 +377,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo hacer seguimiento a una cotización enviada. Sin fecha de regreso, la cotización no está cerrada: está esperando a que te acuerdes. Escríbeme PRUEBA por DM. #ventasperu #negociosperu #pymesperu",
-    "tt": "seguimiento de cotizaciones. Toda cotización sale con fecha de regreso y con algo nuevo que decir. Escríbeme PRUEBA por DM. #ventasperu #negociosperu",
-    "fb": "Una cotización sin fecha de regreso no está cerrada, está esperando a que te acuerdes. Escríbeme PRUEBA por mensaje y lo dejamos corriendo."
+    "ig": "cómo hacer seguimiento a una cotización enviada. La fecha de regreso se acuerda con el cliente antes de colgar, no la decides tú una semana después. Escríbeme PRUEBA por DM. #ventasperu #negociosperu #pymesperu",
+    "tt": "seguimiento de cotizaciones. La fecha de regreso se acuerda con él antes de colgar y se vuelve con algo nuevo. Escríbeme PRUEBA por DM. #ventasperu #negociosperu",
+    "fb": "Una cotización sin fecha de regreso no está cerrada, está esperando a que te acuerdes. Esa fecha se acuerda con el cliente."
    },
    "alt": "Cotizaciones impresas sobre un escritorio, con el titular sobre la cotización sin fecha de regreso."
   },
@@ -394,14 +394,14 @@
     {
      "role": "value",
      "label": "EL PROBLEMA",
-     "h": "Lo de todos no es *de nadie*",
-     "b": "Todos creen que ya lo tomó otro."
+     "h": "Cuantos más leen, *menos actúa uno*",
+     "b": "No es flojera, está estudiado."
     },
     {
      "role": "value",
      "label": "EL ARREGLO",
      "h": "Cada consulta *con un nombre*",
-     "b": "Quien la toma lo dice ahí mismo.",
+     "b": "Dirigida a una persona, no al grupo.",
      "photo": "celular-noche"
     },
     {
@@ -424,9 +424,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo repartir los clientes que llegan al grupo de WhatsApp del equipo. Lo que es de todos no es de nadie y ahí se queda el cliente. Escríbeme PLAN por DM. #negociosperu #pymesperu #procesos",
-    "tt": "el cliente que cae al grupo del equipo y nadie toma. Cada consulta necesita nombre y hora desde el minuto uno. Escríbeme PLAN por DM. #negociosperu #pymesperu",
-    "fb": "Un cliente que cae en el grupo del equipo se queda ahí hasta que alguien se acuerda. Cada consulta debe salir con dueño."
+    "ig": "cómo repartir los clientes que llegan al grupo de WhatsApp del equipo. Está medido desde los experimentos de Darley y Latané en 1968: mientras más gente lee un pedido, menos probable es que alguien lo tome. Escríbeme PLAN por DM. #negociosperu #pymesperu #procesos",
+    "tt": "el cliente que cae al grupo del equipo y nadie toma. No es flojera: cuando el pedido va a todos, la responsabilidad se reparte y se diluye. Escríbeme PLAN por DM. #negociosperu #pymesperu",
+    "fb": "Cuando un pedido va dirigido a todo el grupo, nadie lo siente suyo. Cada consulta necesita salir con un nombre y una hora."
    },
    "alt": "Mostrador de un negocio con el titular sobre el cliente que se mandó al grupo y nadie tomó."
   },
@@ -460,8 +460,8 @@
     {
      "role": "value",
      "label": "EL SALTO",
-     "h": "Del cuaderno a *algo que avisa*",
-     "b": "El papel guarda, el sistema avisa.",
+     "h": "Un solo lugar *donde se escribe*",
+     "b": "Los demás lo leen, nadie lo copia.",
      "photo": "papeles"
     },
     {
@@ -471,8 +471,8 @@
     }
    ],
    "caption": {
-    "ig": "cómo pasar los apuntes de tu negocio del cuaderno a un solo lugar. El papel sirve para anotar, pero no busca ni avisa. Escríbeme FUGA por DM. #negociosperu #pymesperu #procesos",
-    "tt": "el cuaderno del negocio. Anota todo, pero no busca ni te avisa cuando un cliente lleva días parado. Escríbeme FUGA por DM. #negociosperu #pymesperu",
+    "ig": "cómo pasar los apuntes de tu negocio del cuaderno a un solo lugar. La regla es que el dato se escribe en un sitio y los demás solo lo leen: si se copia, ya tienes dos versiones. Escríbeme FUGA por DM. #negociosperu #pymesperu #procesos",
+    "tt": "el cuaderno del negocio. Anota todo, pero no busca ni te avisa, y cada copia que sacas es otra versión distinta. Escríbeme FUGA por DM. #negociosperu #pymesperu",
     "fb": "Busca en tu cuaderno un cliente de marzo y cronometra cuánto tardas. Ese tiempo se repite todos los días."
    },
    "alt": "Un cuaderno de apuntes junto a un lapicero, con el titular sobre el negocio que corre en papel y memoria."
@@ -493,21 +493,21 @@
     },
     {
      "role": "value",
-     "label": "EL ARREGLO",
-     "h": "Pendientes *en voz alta*",
-     "b": "Antes de irse, quien sale los pasa.",
+     "label": "LO QUE VA",
+     "h": "Lo urgente, *lo pendiente*",
+     "b": "Y qué hacer si ese cliente llama.",
      "photo": "cuaderno"
     },
     {
      "role": "value",
-     "label": "Y ESCRITOS",
-     "h": "En *un solo lugar*",
-     "b": "No en el chat privado de cada uno."
+     "label": "LO QUE FALTA",
+     "h": "El que entra *repite* lo oído",
+     "b": "Ahí sale lo que se perdió."
     },
     {
      "role": "value",
      "label": "LA REGLA",
-     "h": "Nadie entrega turno *con secretos*",
+     "h": "Nadie entrega turno *de memoria*",
      "b": "Lo no escrito no existe mañana.",
      "photo": "celular-noche"
     },
@@ -518,9 +518,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo hacer el cambio de turno sin perder al cliente. Lo que no queda escrito, mañana no existe para el que entra. Escríbeme PRUEBA por DM. #negociosperu #pymesperu #procesos",
-    "tt": "el cambio de turno en un negocio. El cliente repite todo desde cero porque los pendientes viven en chats privados. Escríbeme PRUEBA por DM. #negociosperu #pymesperu",
-    "fb": "Nadie debería entregar el turno sin pasar los pendientes. Escríbeme PRUEBA por mensaje y el que entra ve todo el historial."
+    "ig": "cómo hacer el cambio de turno sin perder al cliente. El paso que casi nadie hace es el último: el que entra repite en voz alta lo que entendió, y ahí aparece lo que se había perdido. Escríbeme PRUEBA por DM. #negociosperu #pymesperu #procesos",
+    "tt": "el cambio de turno en un negocio. Pasa lo urgente, lo pendiente y el qué hacer si llama, y que el que entra repita lo que entendió. Escríbeme PRUEBA por DM. #negociosperu #pymesperu",
+    "fb": "Nadie debería entregar el turno de memoria. El que entra repite lo que entendió: ahí sale lo que se había perdido."
    },
    "alt": "Una tienda con la persiana cerrada al final del día, con el titular sobre el cambio de turno."
   },
@@ -554,8 +554,8 @@
     {
      "role": "value",
      "label": "LA REGLA",
-     "h": "Nadie improvisa *un número*",
-     "b": "Si no está en la tabla, se consulta.",
+     "h": "Un solo nombre *aprueba excepciones*",
+     "b": "Los demás venden con la tabla.",
      "photo": "papeles"
     },
     {
@@ -565,8 +565,8 @@
     }
    ],
    "caption": {
-    "ig": "cómo evitar dar dos precios distintos al mismo cliente. Cuando el precio vive en la cabeza de cada uno, el cliente ve dos negocios. Escríbeme PLAN por DM. #ventasperu #negociosperu #pymesperu",
-    "tt": "dos precios distintos al mismo cliente. Pasa cuando el precio vive en la cabeza de cada vendedor y no en una tabla. Escríbeme PLAN por DM. #ventasperu #negociosperu",
+    "ig": "cómo evitar dar dos precios distintos al mismo cliente. Una tabla escrita una vez y una sola persona autorizada a salirse de ella: eso es toda la disciplina de precios. Escríbeme PLAN por DM. #ventasperu #negociosperu #pymesperu",
+    "tt": "dos precios distintos al mismo cliente. Se arregla con una tabla escrita y un solo nombre que aprueba las excepciones. Escríbeme PLAN por DM. #ventasperu #negociosperu",
     "fb": "Cuando tú das un precio y tu vendedor da otro, el cliente no ve un descuento: ve dos negocios y desconfía."
    },
    "alt": "Autos alineados en un lote de venta, con el titular sobre los dos precios distintos al mismo cliente."
@@ -601,8 +601,8 @@
     {
      "role": "value",
      "label": "LA REGLA",
-     "h": "Visita sin confirmar *no es visita*",
-     "b": "Es una hora tuya apostada.",
+     "h": "Un mensaje rinde *como la llamada*",
+     "b": "Y lo mandas la víspera, no el día.",
      "photo": "cuaderno"
     },
     {
@@ -612,9 +612,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo confirmar una visita el día anterior. Día, hora, dirección exacta y el nombre de quien lo atiende, en un solo mensaje. Escríbeme FUGA por DM. #inmobiliaria #negociosperu #pymesperu",
-    "tt": "confirmar visitas la víspera. Día, hora, dirección y con quién se va a ver: los cuatro en un mensaje. Escríbeme FUGA por DM. #negociosperu #inmobiliaria",
-    "fb": "Una visita que nadie confirmó la víspera es una hora tuya apostada. Escríbeme FUGA por mensaje y armamos el recordatorio."
+    "ig": "cómo confirmar una visita el día anterior para que no se caiga. El recordatorio escrito de la víspera funciona igual de bien que la llamada y te cuesta la mitad del esfuerzo. Escríbeme FUGA por DM. #inmobiliaria #negociosperu #pymesperu",
+    "tt": "confirmar visitas la víspera. Día, hora, dirección y con quién se va a ver, en un mensaje que termine en confirmado o reprogramamos. Escríbeme FUGA por DM. #negociosperu #inmobiliaria",
+    "fb": "Una visita que nadie confirmó la víspera es una hora tuya apostada. Un mensaje escrito hace el mismo trabajo que la llamada."
    },
    "alt": "Llaves de una casa sobre la mano de alguien, con el titular sobre la visita de mañana sin hora confirmada."
   },
@@ -643,7 +643,7 @@
      "role": "value",
      "label": "A LOS 7 DÍAS",
      "h": "Vuelve *con una novedad*",
-     "b": "No con un hola, seguimos ahí."
+     "b": "Otra unidad, otro precio, otra fecha."
     },
     {
      "role": "value",
@@ -659,8 +659,8 @@
     }
    ],
    "caption": {
-    "ig": "qué hacer después de que un cliente visita tu local o tu proyecto. Ya te dio su tarde: la visita termina con una fecha nueva, no en la puerta. Escríbeme PRUEBA por DM. #inmobiliaria #ventasperu #negociosperu",
-    "tt": "el cliente que visitó y nadie volvió a escribirle. Tres líneas al despedirlo y una novedad a los siete días. Escríbeme PRUEBA por DM. #ventasperu #inmobiliaria",
+    "ig": "qué hacer después de que un cliente visita tu local o tu proyecto. Las tres líneas se escriben antes de que se vaya, cuando todavía te acuerdas de qué lo frenó. Escríbeme PRUEBA por DM. #inmobiliaria #ventasperu #negociosperu",
+    "tt": "el cliente que visitó y nadie volvió a escribirle. Tres líneas al despedirlo, mientras tienes fresco qué lo frenó, y una novedad de vuelta. Escríbeme PRUEBA por DM. #ventasperu #inmobiliaria",
     "fb": "El que visitó ya invirtió su tarde en ti. La visita no termina en la puerta, termina con una fecha nueva."
    },
    "alt": "Sala de un departamento en venta con el titular sobre el cliente que visitó y nadie volvió a escribirle."
@@ -682,9 +682,9 @@
     },
     {
      "role": "value",
-     "label": "LA PREGUNTA",
-     "h": "¿Tu horario *sigue igual*?",
-     "b": "Revisa a qué hora entran tus mensajes.",
+     "label": "MIDE PRIMERO",
+     "h": "Cuenta los mensajes *por hora*",
+     "b": "Una semana basta para ver el pico.",
      "photo": "papeles"
     },
     {
@@ -707,9 +707,9 @@
     }
    ],
    "caption": {
-    "ig": "horarios de atención de un negocio en primavera. La gente sale más tarde y te escribe cuando ya cerraste. Escríbeme PLAN por DM. #negociosperu #pymesperu #ventasperu",
-    "tt": "con la primavera tus clientes salen más tarde y tu horario sigue igual. Revisa a qué hora entran tus mensajes. Escríbeme PLAN por DM. #negociosperu #pymesperu",
-    "fb": "En primavera la gente sale más tarde y escribe cuando ya cerraste. Mueve una hora, la franja donde más te escriben."
+    "ig": "horarios de atención de un negocio en primavera. No muevas el horario a ojo: cuenta una semana de mensajes por hora y recién ahí decides qué franja cubrir. Escríbeme PLAN por DM. #negociosperu #pymesperu #ventasperu",
+    "tt": "con la primavera tus clientes salen más tarde y tu horario sigue igual. Cuenta tus mensajes por hora durante una semana y mueve una sola hora. Escríbeme PLAN por DM. #negociosperu #pymesperu",
+    "fb": "En primavera la gente sale más tarde y escribe cuando ya cerraste. Cuenta una semana de mensajes por hora antes de mover nada."
    },
    "alt": "Tienda con la cortina abajo al atardecer, con el titular sobre atender en primavera igual que en julio."
   },
@@ -724,9 +724,9 @@
     },
     {
      "role": "value",
-     "label": "EL MOMENTO",
-     "h": "Hoy *sí hay* con qué pagar",
-     "b": "Mañana ya tiene otro destino."
+     "label": "ANTES, NO DESPUÉS",
+     "h": "El aviso va *antes de la fecha*",
+     "b": "Después ya es un reclamo."
     },
     {
      "role": "value",
@@ -745,7 +745,7 @@
      "role": "value",
      "label": "SI NO PUEDE",
      "h": "Sale *con fecha nueva*",
-     "b": "Y ese día se le saluda otra vez.",
+     "b": "Y ese día se le escribe otra vez.",
      "photo": "cuaderno"
     },
     {
@@ -755,9 +755,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo cobrar los saldos pendientes de tu negocio en quincena. El día que entra la plata es el día en que se cobra, no la semana siguiente. Escríbeme FUGA por DM. #negociosperu #cobranza #pymesperu",
-    "tt": "cobrar saldos pendientes en quincena. Mensaje corto, con monto y sin disculpas. Si no puede, sale con fecha nueva. Escríbeme FUGA por DM. #negociosperu #cobranza",
-    "fb": "El día de la quincena tu cliente sí tiene con qué pagar. Mañana esa plata ya tiene otro destino."
+    "ig": "cómo cobrar los saldos pendientes de tu negocio en quincena. Cobrar es una secuencia, no un impulso: el aviso sale antes del vencimiento y toda conversación cierra con una fecha nueva. Escríbeme FUGA por DM. #negociosperu #cobranza #pymesperu",
+    "tt": "cobrar saldos pendientes en quincena. El aviso va antes de la fecha, con monto y sin disculpas. Si no puede, sale con fecha nueva. Escríbeme FUGA por DM. #negociosperu #cobranza",
+    "fb": "El aviso de cobro va antes del vencimiento. Después de la fecha ya no es un recordatorio, es un reclamo."
    },
    "alt": "Mostrador de atención con el titular sobre cobrar el día de la quincena."
   },
@@ -779,21 +779,21 @@
     {
      "role": "value",
      "label": "PASO 2",
-     "h": "Separa *tibios y fríos*",
-     "b": "Tibio preguntó dos veces. Frío, una.",
+     "h": "Separa *por fecha*, no por ganas",
+     "b": "¿Dijo para cuándo lo necesita?",
      "photo": "cuaderno"
     },
     {
      "role": "value",
      "label": "PASO 3",
-     "h": "A los tibios, *escríbeles hoy*",
+     "h": "Con fecha, *escríbeles hoy*",
      "b": "Con algo nuevo, no con un hola."
     },
     {
      "role": "value",
      "label": "PASO 4",
-     "h": "A los fríos, *agéndalos*",
-     "b": "Octubre empieza con la lista limpia.",
+     "h": "Sin fecha, *pregúntales cuándo*",
+     "b": "Esa respuesta ordena tu octubre.",
      "photo": "celular-noche"
     },
     {
@@ -803,9 +803,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo cerrar el trimestre con la lista de clientes ordenada. Separa tibios de fríos y escribe hoy a los que preguntaron dos veces. Escríbeme PRUEBA por DM. #ventasperu #negociosperu #pymesperu",
-    "tt": "cierre de trimestre en un negocio pequeño. Los que no cerraron no están perdidos, están sin ordenar. Escríbeme PRUEBA por DM. #ventasperu #negociosperu",
-    "fb": "Antes de que empiece octubre, saca la lista de los que no cerraron y separa tibios de fríos. Escríbeme PRUEBA por mensaje y lo ordenamos."
+    "ig": "cómo cerrar el trimestre con la lista de clientes ordenada. No los separes por corazonada: sepáralos por si dijeron para cuándo lo necesitan. Escríbeme PRUEBA por DM. #ventasperu #negociosperu #pymesperu",
+    "tt": "cierre de trimestre en un negocio pequeño. Ordena a los que no cerraron por una sola cosa: si dijeron para cuándo lo necesitan. Escríbeme PRUEBA por DM. #ventasperu #negociosperu",
+    "fb": "Antes de que empiece octubre, saca la lista de los que no cerraron y sepáralos por fecha, no por ganas."
    },
    "alt": "Reportes y hojas de cierre sobre una mesa, con el titular sobre el trimestre que cierra con la lista a medias."
   },
@@ -827,7 +827,7 @@
      "role": "value",
      "label": "LA PREGUNTA",
      "h": "Pregunta *para cuándo es*",
-     "b": "Y apunta el mes en su ficha.",
+     "b": "Es el primer dato, no el último.",
      "photo": "boda-prep"
     },
     {
@@ -839,8 +839,8 @@
     {
      "role": "value",
      "label": "LA REGLA",
-     "h": "Nadie se agenda *dos veces*",
-     "b": "Una fecha ocupada se marca al toque.",
+     "h": "Una fecha ocupada *se marca al toque*",
+     "b": "En la agenda que ven todos.",
      "photo": "mostrador"
     },
     {
@@ -850,9 +850,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo organizar las cotizaciones de eventos de fin de año. Bodas, promociones y cenas de diciembre se están cotizando estas semanas. Escríbeme PLAN por DM. #bodasperu #eventosperu #negociosperu",
-    "tt": "las bodas de diciembre se cotizan en septiembre. Pregunta para cuándo es y apunta el mes en la ficha del cliente. Escríbeme PLAN por DM. #bodasperu #eventosperu",
-    "fb": "El que cotiza hoy celebra en diciembre. Pregunta para cuándo es y anota el mes: ahí está tu agenda de fin de año."
+    "ig": "cómo organizar las cotizaciones de eventos de fin de año. La fecha del evento es el primer dato que pides, no el último: con eso ya tienes ordenada tu agenda de diciembre. Escríbeme PLAN por DM. #bodasperu #eventosperu #negociosperu",
+    "tt": "las bodas de diciembre se cotizan en septiembre. Pregunta para cuándo es antes que cualquier otra cosa y apunta el mes en su ficha. Escríbeme PLAN por DM. #bodasperu #eventosperu",
+    "fb": "El que cotiza hoy celebra en diciembre. Pregunta para cuándo es antes que nada: ahí está tu agenda de fin de año."
    },
    "alt": "Mesas montadas para una boda, con el titular sobre la boda de diciembre que se cotiza esta semana."
   },
@@ -868,7 +868,7 @@
      "role": "value",
      "label": "POR QUÉ PASA",
      "h": "Se entregó *y se fue*",
-     "b": "Nadie se quedó a hacerlo funcionar."
+     "b": "Entregar no es que se use."
     },
     {
      "role": "value",
@@ -880,8 +880,8 @@
     {
      "role": "value",
      "label": "QUÉ PEDIR",
-     "h": "Que alguien *se quede*",
-     "b": "Acompañamiento después de entregar."
+     "h": "Que expliquen *el porqué*",
+     "b": "Nadie usa lo que no entiende para qué."
     },
     {
      "role": "value",
@@ -897,9 +897,9 @@
     }
    ],
    "caption": {
-    "ig": "por qué los sistemas que compran los negocios terminan sin usarse. No falla el software, falla que nadie se queda a hacerlo funcionar. Escríbeme FUGA por DM. #negociosperu #pymesperu #procesos",
-    "tt": "compraste un sistema y tu equipo volvió al chat de siempre. La adopción es parte del trabajo, no un extra. Escríbeme FUGA por DM. #negociosperu #pymesperu",
-    "fb": "El problema casi nunca fue el software. Fue que nadie se quedó a hacerlo funcionar con tu equipo."
+    "ig": "por qué los sistemas que compran los negocios terminan sin usarse. Instalar y que se use son dos proyectos distintos, y el segundo empieza explicando para qué sirve. Escríbeme FUGA por DM. #negociosperu #pymesperu #procesos",
+    "tt": "compraste un sistema y tu equipo volvió al chat de siempre. Instalarlo y que se use son dos cosas distintas. Escríbeme FUGA por DM. #negociosperu #pymesperu",
+    "fb": "El problema casi nunca fue el software. Fue que nadie explicó para qué servía ni se quedó a que se usara."
    },
    "alt": "Cuaderno y lapicero junto a una pantalla apagada, con el titular sobre el sistema que nadie abre."
   },
@@ -909,13 +909,13 @@
     {
      "role": "cover",
      "photo": "tienda-cerrada",
-     "h": "Te enfermas una semana: ¿tu negocio *sigue vendiendo*?"
+     "h": "Si te enfermas una semana, ¿tu negocio *sigue vendiendo*?"
     },
     {
      "role": "value",
      "label": "LA PRUEBA",
      "h": "Apaga *tu teléfono* un día",
-     "b": "Mira qué se detiene sin ti."
+     "b": "Anota qué se detiene sin ti."
     },
     {
      "role": "value",
@@ -926,15 +926,15 @@
     },
     {
      "role": "value",
-     "label": "EL ARREGLO",
-     "h": "Escribe *lo que sabes*",
-     "b": "Una hoja por cada cosa que haces solo."
+     "label": "PRIMERO",
+     "h": "Quita *los pasos* que sobran",
+     "b": "Menos cosas que explicar después."
     },
     {
      "role": "value",
-     "label": "LA META",
-     "h": "Que el negocio *no te necesite*",
-     "b": "Para todo lo que se repite.",
+     "label": "DESPUÉS",
+     "h": "Que otro lo *haga una vez*",
+     "b": "Contigo al lado, no leyendo una hoja.",
      "photo": "papeles"
     },
     {
@@ -944,11 +944,11 @@
     }
    ],
    "caption": {
-    "ig": "qué pasa con tu negocio cuando el dueño falta una semana. Apaga el teléfono un día y mira qué se detiene sin ti. Escríbeme PRUEBA por DM. #negociosperu #pymesperu #procesos",
-    "tt": "si te enfermas una semana, tu negocio sigue vendiendo o se apaga. Apaga el teléfono un día y toma nota. Escríbeme PRUEBA por DM. #negociosperu #pymesperu",
-    "fb": "Apaga el teléfono un día y anota qué se detiene sin ti. Esa lista es lo que todavía vive solo en tu cabeza."
+    "ig": "qué pasa con tu negocio cuando el dueño falta una semana. El orden importa: primero quitas pasos, después escribes, y recién al final alguien más lo hace una vez contigo al lado. Escríbeme PRUEBA por DM. #negociosperu #pymesperu #procesos",
+    "tt": "si te enfermas una semana, tu negocio sigue vendiendo o se apaga. Apaga el teléfono un día y anota qué se detiene sin ti. Escríbeme PRUEBA por DM. #negociosperu #pymesperu",
+    "fb": "Apaga el teléfono un día y anota qué se detiene sin ti. Después haz que otra persona lo haga una vez, contigo al lado."
    },
-   "alt": "Local cerrado con las luces apagadas, con el titular sobre el negocio cuando el dueño se enferma."
+   "alt": "Un cartel de cerrado en la puerta de un negocio, con el titular sobre qué pasa si te enfermas una semana."
   },
   {
    "slug": "21-lo-que-escribes-a-mano",
@@ -979,9 +979,9 @@
     },
     {
      "role": "value",
-     "label": "LA REGLA",
-     "h": "Escribir dos veces *lo mismo*",
-     "b": "Es señal de que eso ya se automatiza.",
+     "label": "Y CON FECHA",
+     "h": "Cada respuesta *se revisa*",
+     "b": "Si el precio cambia, cambia ahí.",
      "photo": "mostrador"
     },
     {
@@ -991,9 +991,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo dejar de escribir las mismas respuestas todos los días en tu negocio. Precio, horario y ubicación son casi siempre las tres. Escríbeme PLAN por DM. #negociosperu #whatsappbusiness #pymesperu",
-    "tt": "revisa tus últimos veinte chats y cuenta cuántos empiezan igual. Eso es lo primero que se automatiza. Escríbeme PLAN por DM. #negociosperu #whatsappbusiness",
-    "fb": "Tu mejor respuesta ya existe: es la que cerró una venta. Reutilízala en vez de escribir una nueva cada vez."
+    "ig": "cómo dejar de escribir las mismas respuestas todos los días en tu negocio. Guarda la que ya cerró una venta y ponle fecha de revisión: una respuesta vieja hace más daño que ninguna. Escríbeme PLAN por DM. #negociosperu #whatsappbusiness #pymesperu",
+    "tt": "revisa tus últimos veinte chats y cuenta cuántos empiezan igual. Guarda la respuesta que ya cerró y revísala cuando cambie el precio. Escríbeme PLAN por DM. #negociosperu #whatsappbusiness",
+    "fb": "Tu mejor respuesta ya existe: es la que cerró una venta. Guárdala y revísala cada vez que cambie el precio."
    },
    "alt": "Celular con una conversación abierta de noche, con el titular sobre escribir a mano lo mismo de ayer."
   },
@@ -1020,9 +1020,9 @@
     },
     {
      "role": "value",
-     "label": "EL CALENDARIO",
-     "h": "Cada ficha *con su día*",
-     "b": "Si no tiene día, no hay seguimiento."
+     "label": "LA ACCIÓN",
+     "h": "Anota *qué harás* y qué día",
+     "b": "Llamar y ofrecerle la otra medida."
     },
     {
      "role": "value",
@@ -1038,8 +1038,8 @@
     }
    ],
    "caption": {
-    "ig": "cómo hacer seguimiento de clientes sin depender de la memoria. La venta que se pierde no es la grande, es la mediana del martes. Escríbeme FUGA por DM. #ventasperu #negociosperu #pymesperu",
-    "tt": "seguimiento de clientes. Si la ficha no tiene día de regreso, no hay seguimiento: hay buena intención. Escríbeme FUGA por DM. #ventasperu #negociosperu",
+    "ig": "cómo hacer seguimiento de clientes sin depender de la memoria. En la ficha no va hacer seguimiento: va la acción exacta, llamar y ofrecerle qué, con su día al lado. Escríbeme FUGA por DM. #ventasperu #negociosperu #pymesperu",
+    "tt": "seguimiento de clientes. Escribe la acción exacta, no la intención: llamar y ofrecerle la otra medida, el jueves. Escríbeme FUGA por DM. #ventasperu #negociosperu",
     "fb": "La memoria no es un sistema de seguimiento: es una persona cansada a las siete de la noche."
    },
    "alt": "Fichas y notas de clientes sobre un escritorio, con el titular sobre el seguimiento que depende de acordarse."
@@ -1074,8 +1074,8 @@
     {
      "role": "value",
      "label": "LA REGLA",
-     "h": "Se entrena con *casos reales*",
-     "b": "No con una charla del primer día.",
+     "h": "Saber cómo no es *poder hacerlo*",
+     "b": "Que cotice uno de verdad contigo.",
      "photo": "cuaderno"
     },
     {
@@ -1085,9 +1085,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo entrenar a un vendedor nuevo en un negocio pequeño. Tu manual ya existe: son los chats que sí cerraron una venta. Escríbeme PRUEBA por DM. #ventasperu #negociosperu #pymesperu",
-    "tt": "entrenar a un vendedor nuevo con tus propios chats. Junta diez conversaciones que cerraron y ordénalas en tres carpetas. Escríbeme PRUEBA por DM. #ventasperu #negociosperu",
-    "fb": "El vendedor nuevo copia lo bueno y lo malo de lo que te ve hacer. Dale casos reales, no una charla del primer día."
+    "ig": "cómo entrenar a un vendedor nuevo en un negocio pequeño. Tu manual ya existe, son los chats que cerraron, pero leerlos no basta: que cotice uno real contigo mirando. Escríbeme PRUEBA por DM. #ventasperu #negociosperu #pymesperu",
+    "tt": "entrenar a un vendedor nuevo con tus propios chats. Junta diez que cerraron, ordénalos en tres carpetas y que cotice uno de verdad contigo al lado. Escríbeme PRUEBA por DM. #ventasperu #negociosperu",
+    "fb": "Saber cómo se hace no es poder hacerlo. Dale casos reales y que cotice uno de verdad contigo mirando."
    },
    "alt": "Vendedor atendiendo en un mostrador, con el titular sobre el vendedor nuevo que aprende mirándote."
   },
@@ -1107,16 +1107,16 @@
     },
     {
      "role": "value",
-     "label": "LO QUE FALTA",
-     "h": "Una lista *actualizada*",
-     "b": "Con hora y con quien la actualizó.",
+     "label": "NO CUENTES TODO",
+     "h": "Solo *los que más piden*",
+     "b": "Diez productos, no el almacén.",
      "photo": "mostrador"
     },
     {
      "role": "value",
      "label": "CUÁNDO",
-     "h": "Al cerrar *el día*",
-     "b": "Cinco minutos, siempre la misma persona."
+     "h": "Esos diez, *todos los días*",
+     "b": "Cinco minutos, siempre el mismo."
     },
     {
      "role": "value",
@@ -1132,9 +1132,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo responder si hay stock sin ir a revisar cada vez. Una lista actualizada al cerrar el día vale más que cualquier memoria. Escríbeme PLAN por DM. #negociosperu #inventario #pymesperu",
-    "tt": "te preguntan si hay stock y tienes que ir a ver. Cinco minutos al cerrar el día arreglan eso. Escríbeme PLAN por DM. #negociosperu #inventario",
-    "fb": "Entre que vas a ver y vuelves, el cliente ya preguntó en otro lado. La lista se actualiza al cerrar el día."
+    "ig": "cómo responder si hay stock sin ir a revisar cada vez. No cuentes todo el almacén: cuenta los diez que más te preguntan, todos los días, y el resto por turno. Escríbeme PLAN por DM. #negociosperu #inventario #pymesperu",
+    "tt": "te preguntan si hay stock y tienes que ir a ver. Cuenta solo los diez que más te piden, cinco minutos al día, siempre la misma persona. Escríbeme PLAN por DM. #negociosperu #inventario",
+    "fb": "Entre que vas a ver y vuelves, el cliente ya preguntó en otro lado. Cuenta poco y todos los días, no todo una vez al año."
    },
    "alt": "Cocina de un restaurante con insumos a la vista, con el titular sobre ir a ver si hay stock."
   },
@@ -1162,8 +1162,8 @@
     {
      "role": "value",
      "label": "EL ARREGLO",
-     "h": "Una sola agenda *compartida*",
-     "b": "Todos ven lo mismo, al mismo tiempo."
+     "h": "Una donde *se escribe*",
+     "b": "Las demás solo se miran."
     },
     {
      "role": "value",
@@ -1179,9 +1179,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo evitar reservas cruzadas en la agenda de tu negocio. Dos agendas a la vez terminan en dos clientes a la misma hora. Escríbeme FUGA por DM. #eventosperu #negociosperu #pymesperu",
-    "tt": "dos personas reservadas a la misma hora. Pasa cuando hay una agenda en el celular y otra en papel. Escríbeme FUGA por DM. #negociosperu #eventosperu",
-    "fb": "Preguntar por una fecha no es reservarla. Sin nombre y hora, esa hora sigue libre para cualquiera."
+    "ig": "cómo evitar reservas cruzadas en la agenda de tu negocio. La regla no es ser ordenado: es que exista una sola agenda donde se escribe y que las demás solo se lean. Escríbeme FUGA por DM. #eventosperu #negociosperu #pymesperu",
+    "tt": "dos personas reservadas a la misma hora. Con dos agendas abiertas es cuestión de tiempo: una sola donde se escribe, las demás solo se miran. Escríbeme FUGA por DM. #negociosperu #eventosperu",
+    "fb": "Preguntar por una fecha no es reservarla. Y con dos agendas abiertas, tarde o temprano dos personas ocupan la misma hora."
    },
    "alt": "Mesa de preparativos de un evento con una agenda abierta, y el titular sobre dos reservas a la misma hora."
   },
@@ -1201,22 +1201,22 @@
     },
     {
      "role": "value",
-     "label": "LOS 3 PASOS",
+     "label": "EL MISMO DÍA",
      "h": "Escucha, *fecha y solución*",
-     "b": "En ese orden y en el mismo día.",
+     "b": "En ese orden, sin prometer de más.",
      "photo": "papeles"
     },
     {
      "role": "value",
-     "label": "POR ESCRITO",
-     "h": "Quién lo atiende *y cuándo*",
-     "b": "Necesita una fecha, no un lo veo."
+     "label": "Y DESPUÉS",
+     "h": "Arregla *el paso* que falló",
+     "b": "Si no, el mismo reclamo vuelve."
     },
     {
      "role": "value",
-     "label": "LA REGLA",
-     "h": "Un reclamo *sin dueño* se repite",
-     "b": "Y la próxima vez llega público.",
+     "label": "OJO",
+     "h": "Resolverlo no te deja *mejor que antes*",
+     "b": "Solo evita que se vaya.",
      "photo": "cuaderno"
     },
     {
@@ -1226,9 +1226,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo responder un reclamo en tu negocio sin improvisar. El que reclama quiere quedarse: el que se va, se va callado. Escríbeme PRUEBA por DM. #atencionalcliente #negociosperu #pymesperu",
-    "tt": "un reclamo bien atendido necesita dueño, fecha y solución el mismo día. Sin eso, vuelve en público. Escríbeme PRUEBA por DM. #atencionalcliente #negociosperu",
-    "fb": "El que reclama todavía quiere quedarse contigo. El que ya se decidió se va callado y no te escribe."
+    "ig": "cómo responder un reclamo en tu negocio sin improvisar. Ojo con la idea de que un reclamo bien resuelto te deja mejor que si nada hubiera pasado: la investigación en servicio dice que eso casi nunca ocurre. Escríbeme PRUEBA por DM. #atencionalcliente #negociosperu #pymesperu",
+    "tt": "un reclamo bien atendido necesita dueño, fecha y solución el mismo día, y después arreglar el paso que falló. Escríbeme PRUEBA por DM. #atencionalcliente #negociosperu",
+    "fb": "El que reclama todavía quiere quedarse contigo. Resolverlo no te deja mejor que antes: evita que se vaya, y eso ya vale."
    },
    "alt": "Persona atendiendo en un mostrador, con el titular sobre el reclamo que cada uno responde como puede."
   },
@@ -1250,7 +1250,7 @@
      "role": "value",
      "label": "EL ARREGLO",
      "h": "Tres líneas *antes del PDF*",
-     "b": "Qué incluye, cuánto demora, qué sigue.",
+     "b": "Qué es, qué implica y qué recomiendas.",
      "photo": "celular-noche"
     },
     {
@@ -1263,7 +1263,7 @@
      "role": "value",
      "label": "LA REGLA",
      "h": "El PDF *no vende solo*",
-     "b": "Vende el mensaje que va encima.",
+     "b": "Deciden por lo que va encima.",
      "photo": "cuaderno"
     },
     {
@@ -1273,9 +1273,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo enviar una propuesta por WhatsApp sin que te dejen en visto. Tres líneas antes del PDF hacen más que las ocho páginas. Escríbeme PLAN por DM. #ventasperu #negociosperu #pymesperu",
-    "tt": "mandas el PDF de la propuesta y te dejan en visto. Escribe tres líneas encima y termina preguntando. Escríbeme PLAN por DM. #ventasperu #negociosperu",
-    "fb": "Nadie abre ocho páginas en la cola del banco. Tres líneas encima del PDF hacen el trabajo que el archivo no hace."
+    "ig": "cómo enviar una propuesta por WhatsApp sin que te dejen en visto. Esas tres líneas son el resumen ejecutivo de tu propuesta: qué es, qué implica y qué recomiendas hacer ahora. Escríbeme PLAN por DM. #ventasperu #negociosperu #pymesperu",
+    "tt": "mandas el PDF de la propuesta y te dejan en visto. Escribe encima qué es, qué implica y qué recomiendas, y termina preguntando. Escríbeme PLAN por DM. #ventasperu #negociosperu",
+    "fb": "Nadie abre ocho páginas en la cola del banco. Se decide por las tres líneas que van encima del archivo."
    },
    "alt": "Propuesta impresa junto a un celular, con el titular sobre el PDF que te dejan en visto."
   },
@@ -1320,7 +1320,7 @@
     }
    ],
    "caption": {
-    "ig": "dónde se pierden las ventas en un negocio que atiende por WhatsApp. Cuatro puntos, y ninguno aparece en un reporte. Escríbeme FUGA por DM. #ventasperu #negociosperu #pymesperu",
+    "ig": "dónde se pierden las ventas en un negocio que atiende por chat. Cuatro puntos, y ninguno aparece en un reporte: la primera hora, el precio que no llega, la cita sin confirmar y el silencio después del luego. Escríbeme FUGA por DM. #ventasperu #negociosperu #pymesperu",
     "tt": "cuatro puntos donde se cae la venta sin que lo veas: la primera hora, el precio, la cita y el silencio. Escríbeme FUGA por DM. #ventasperu #negociosperu",
     "fb": "La venta rara vez se pierde de golpe. Se cae en la primera hora, en el precio que no llega y en la cita que nadie confirma."
    },
@@ -1343,15 +1343,15 @@
     {
      "role": "value",
      "label": "PRIMERO",
-     "h": "Escribe *cómo se hace*",
-     "b": "Si no está escrito, no se puede delegar.",
+     "h": "Borra *lo que no hace falta*",
+     "b": "Contratar no arregla un paso de más.",
      "photo": "papeles"
     },
     {
      "role": "value",
      "label": "DESPUÉS",
-     "h": "Saca *lo repetido*",
-     "b": "Lo que se repite se resuelve solo."
+     "h": "Escribe *cómo se hace*",
+     "b": "Si no está escrito, no se delega."
     },
     {
      "role": "value",
@@ -1367,9 +1367,9 @@
     }
    ],
    "caption": {
-    "ig": "qué revisar antes de contratar a alguien más en tu negocio. Si el proceso no está escrito, la persona nueva hereda el desorden. Escríbeme PRUEBA por DM. #negociosperu #pymesperu #procesos",
-    "tt": "antes de contratar, escribe cómo se hace. Sin proceso escrito, contratar solo reparte el desorden entre dos. Escríbeme PRUEBA por DM. #negociosperu #pymesperu",
-    "fb": "Si lo que haces no está escrito, no se puede delegar. Contratar sin proceso reparte el desorden, no lo arregla."
+    "ig": "qué revisar antes de contratar a alguien más en tu negocio. El orden es borrar, escribir y recién contratar: si contratas primero, la persona nueva hereda los pasos que sobran. Escríbeme PRUEBA por DM. #negociosperu #pymesperu #procesos",
+    "tt": "antes de contratar, borra los pasos que sobran y escribe cómo se hace lo que queda. Contratar no arregla un proceso de más. Escríbeme PRUEBA por DM. #negociosperu #pymesperu",
+    "fb": "Si lo que haces no está escrito, no se puede delegar. Y contratar para tapar un desorden solo lo reparte entre dos."
    },
    "alt": "Persona sola atendiendo un mostrador lleno, con el titular sobre qué arreglar antes de contratar."
   },
@@ -1390,15 +1390,15 @@
     {
      "role": "value",
      "label": "AL LADO",
-     "h": "El nombre *de quien responde*",
-     "b": "No el área, la persona.",
+     "h": "Un solo nombre *por paso*",
+     "b": "Pueden ayudar varios, responde uno.",
      "photo": "cuaderno"
     },
     {
      "role": "value",
      "label": "Y EL PLAZO",
-     "h": "En cuánto *se responde*",
-     "b": "Una hora, un día, la víspera."
+     "h": "En cuánto *se contesta*",
+     "b": "Contestar y resolver son dos plazos."
     },
     {
      "role": "value",
@@ -1414,9 +1414,9 @@
     }
    ],
    "caption": {
-    "ig": "cómo asignar responsables a cada paso del proceso de venta. Contacto, precio, visita, cierre y entrega: cada uno con nombre y plazo. Escríbeme PLAN por DM. #negociosperu #procesos #pymesperu",
-    "tt": "cada paso de tu venta con dueño y plazo. El paso sin dueño es el hueco por donde se cae el cliente. Escríbeme PLAN por DM. #negociosperu #procesos",
-    "fb": "Contacto, precio, visita, cierre y entrega. Cada paso con un nombre al lado y un plazo, no con un área."
+    "ig": "cómo asignar responsables a cada paso del proceso de venta. Pueden ayudar varios, pero responde uno solo, y el plazo de contestar se declara aparte del de resolver. Escríbeme PLAN por DM. #negociosperu #procesos #pymesperu",
+    "tt": "cada paso de tu venta con un solo dueño y dos plazos: en cuánto se contesta y en cuánto se resuelve. Escríbeme PLAN por DM. #negociosperu #procesos",
+    "fb": "Contacto, precio, visita, cierre y entrega. Cada paso con un nombre que responde, no con un área."
    },
    "alt": "Llaves de una vivienda sobre un contrato, con el titular sobre cada paso de la venta con su dueño."
   }

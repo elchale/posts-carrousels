@@ -6,9 +6,9 @@
   {
    "slug": "01-planeada-meses-antes",
    "slides": [
-    {"role": "cover", "photo": "edificio-gob", "kicker": "COMPRAS DEL ESTADO", "h": "Esa licitación se planeó *meses antes* de que la vieras", "b": "Y ese plan también es público."},
+    {"role": "cover", "photo": "carretera", "kicker": "COMPRAS DEL ESTADO", "h": "Esa licitación se planeó *meses antes* de que la vieras", "b": "Y ese plan también es público."},
     {"role": "value", "label": "EL PLAN", "h": "Cada entidad publica *lo que comprará*", "b": "Ahí está el objeto y el mes."},
-    {"role": "value", "photo": "documentos", "label": "ANTES", "h": "Primero definen *requisitos y monto*", "b": "Eso ya viene decidido en las bases."},
+    {"role": "value", "photo": "documentos", "label": "ANTES", "h": "Primero arman *el requerimiento*", "b": "Ahí va qué piden y cómo."},
     {"role": "value", "label": "TU VENTAJA", "h": "Ese plan te da *meses de aviso*", "b": "Preparas los papeles con calma."},
     {"role": "value", "photo": "oficina-reunion", "label": "DÓNDE", "h": "El plan se busca *por entidad*", "b": "Está publicado en el SEACE."},
     {"role": "closer", "h": "Nosotros miramos ese *plan* por ti", "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué le sirve a tu empresa."}
@@ -23,77 +23,77 @@
   {
    "slug": "02-cotiza-antes",
    "slides": [
-    {"role": "cover", "photo": "almacen", "h": "Puedes cotizarle al Estado *antes* de la licitación", "b": "Se llama indagación de mercado."},
-    {"role": "value", "label": "QUÉ ES", "h": "Piden precios *antes de convocar*", "b": "Así calculan el valor estimado."},
-    {"role": "value", "photo": "documentos", "label": "CÓMO LLEGA", "h": "Te la mandan *por correo*", "b": "O sale en el portal de la entidad."},
-    {"role": "value", "label": "OJO", "h": "Cotizar *no te asegura* nada", "b": "Al proceso se entra por las bases."},
+    {"role": "cover", "photo": "almacen", "h": "Puedes cotizarle al Estado *antes* de la licitación", "b": "Se llama interacción con el mercado."},
+    {"role": "value", "label": "QUÉ ES", "h": "Piden precios *antes de convocar*", "b": "Así fijan la cuantía de la compra."},
+    {"role": "value", "photo": "documentos", "label": "CÓMO LLEGA", "h": "Te la piden *directo a ti*", "b": "O publican el requerimiento en el SEACE."},
+    {"role": "value", "label": "OJO", "h": "Cotizar *no te asegura* nada", "b": "Al proceso entras registrándote."},
     {"role": "value", "photo": "oficina-reunion", "label": "LO QUE GANAS", "h": "Sabes qué *está por comprar*", "b": "Y llegas con papeles listos."},
     {"role": "closer", "h": "Un «*radar*» para no perderte la convocatoria", "b": "Radar Estatal es la app peruana que sigue los procesos del SEACE y te avisa cuáles le convienen a tu empresa."}
    ],
    "caption": {
-    "ig": "Indagación de mercado: así pide precios una entidad del Estado antes de convocar una licitación en el SEACE. Guárdalo para la próxima vez que te pidan una cotización. #licitacionesperu #seace",
+    "ig": "Interacción con el mercado: así pide precios una entidad del Estado antes de convocar una licitación en el SEACE. Guárdalo para la próxima vez que te pidan una cotización. #licitacionesperu #seace",
     "tt": "El Estado pide cotizaciones antes de convocar la licitación. ¿Te ha llegado alguna y no supiste qué era? #licitaciones #seace",
-    "fb": "Antes de convocar, las entidades piden cotizaciones para calcular el valor estimado. Responderlas te dice qué está por comprar esa entidad."
+    "fb": "Antes de convocar, las entidades piden cotizaciones para fijar la cuantía de la contratación. Responderlas te dice qué está por comprar esa entidad."
    },
-   "alt": "Carrusel sobre la indagación de mercado: por qué el Estado pide precios antes de convocar y qué gana el proveedor que responde."
+   "alt": "Carrusel sobre la interacción con el mercado: por qué el Estado pide precios antes de convocar y qué gana el proveedor que responde."
   },
   {
    "slug": "03-descarta-en-3-minutos",
    "slides": [
     {"role": "cover", "photo": "documentos", "h": "Cuatro datos para *descartar* una licitación en 3 minutos", "b": "Todos están en la primera pantalla."},
     {"role": "value", "label": "UNO", "h": "Mira *qué compran* exactamente", "b": "El objeto dice bien o servicio."},
-    {"role": "value", "photo": "archivo", "label": "DOS", "h": "Mira el *valor estimado*", "b": "Te dice si el tamaño te calza."},
+    {"role": "value", "photo": "archivo", "label": "DOS", "h": "Mira *qué entidad* compra", "b": "Y si te queda cerca entregar."},
     {"role": "value", "label": "TRES", "h": "Mira la *fecha de ofertas*", "b": "Si es mañana, ya no entras."},
     {"role": "value", "photo": "oficina-reunion", "label": "CUATRO", "h": "Mira la *experiencia* que piden", "b": "Se acredita con contratos previos."},
     {"role": "closer", "h": "El «*radar*» hace ese filtro solo", "b": "Radar Estatal mira todos los procesos del SEACE y te dice cuáles le sirven a tu empresa."}
    ],
    "caption": {
-    "ig": "Cómo revisar una licitación del Estado en el SEACE sin perder la tarde: objeto, valor estimado, fecha de ofertas y experiencia. Guárdalo para tu próxima revisión de procesos. #seace #licitacionesperu #mype",
+    "ig": "Cómo revisar una licitación del Estado en el SEACE sin perder la tarde: objeto, entidad, fecha de ofertas y experiencia. Guárdalo para tu próxima revisión de procesos. #seace #licitacionesperu #mype",
     "tt": "Cuatro datos para descartar una licitación del SEACE en tres minutos. Mándaselo a quien revisa los procesos en tu empresa. #seace #licitaciones",
-    "fb": "Cuatro datos bastan para saber si una licitación del SEACE te sirve: objeto, valor estimado, fecha de presentación y experiencia requerida."
+    "fb": "Cuatro datos bastan para saber si una licitación del SEACE te sirve: qué compran, qué entidad, la fecha de presentación y la experiencia requerida."
    },
-   "alt": "Carrusel con cuatro datos para descartar rápido una licitación del SEACE: objeto, valor estimado, fecha de ofertas y experiencia."
+   "alt": "Carrusel con cuatro datos para descartar rápido una licitación del SEACE: objeto, entidad, fecha de ofertas y experiencia."
   },
   {
    "slug": "04-valor-estimado",
    "slides": [
-    {"role": "cover", "photo": "oficina-reunion", "h": "El Estado publica *cuánto piensa pagar* por lo que compra", "b": "Casi nadie lo mira antes de ofertar."},
-    {"role": "value", "label": "EL NOMBRE", "h": "En bienes se llama *valor estimado*", "b": "Sale con la convocatoria."},
-    {"role": "value", "photo": "obra", "label": "EN OBRAS", "h": "Ahí se llama *valor referencial*", "b": "Obras y consultoría usan ese término."},
-    {"role": "value", "label": "REGLA", "h": "Por regla, ese monto *es público*", "b": "Solo se reserva por decisión motivada."},
-    {"role": "value", "photo": "documentos", "label": "PARA QUÉ", "h": "Te dice si el proceso *te queda*", "b": "Antes de armar la oferta entera."},
-    {"role": "closer", "h": "Un «*radar*» que te muestra el monto de una", "b": "Radar Estatal vigila las compras del Estado peruano y te avisa qué proceso encaja con tu empresa."}
+    {"role": "cover", "photo": "oficina-reunion", "h": "El Estado *no siempre te dice* cuánto va a pagar", "b": "Casi nadie sabe que eso cambió."},
+    {"role": "value", "label": "EL NOMBRE", "h": "Ahora se llama *la cuantía*", "b": "Antes era el valor referencial."},
+    {"role": "value", "photo": "documentos", "label": "LA REGLA", "h": "No están obligados *a publicarla*", "b": "Ofertas sin saber el techo."},
+    {"role": "value", "label": "CUÁNDO SÍ", "h": "En *obras y consultoría* sí sale", "b": "Ahí tu oferta va dentro de un rango."},
+    {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Costea desde *lo que piden*", "b": "El requerimiento manda, no el monto."},
+    {"role": "closer", "h": "El «*radar*» te resume qué pide cada proceso", "b": "Radar Estatal vigila las compras del Estado peruano y te avisa qué proceso encaja con tu empresa."}
    ],
    "caption": {
-    "ig": "Valor estimado y valor referencial en las licitaciones del Estado: qué es cada uno y dónde se ve en el SEACE. Guárdalo para tu próxima oferta. #licitacionesperu #seace #oece",
-    "tt": "Valor estimado en bienes y servicios, valor referencial en obras y consultoría. ¿Sabías que casi siempre es público? #licitaciones #seace",
-    "fb": "El monto que la entidad piensa pagar se publica con la convocatoria: valor estimado en bienes y servicios, valor referencial en obras y consultoría."
+    "ig": "Cuantía de la contratación: con la ley nueva el Estado ya no está obligado a publicar cuánto piensa pagar en la fase de selección. Guárdalo antes de armar tu próxima oferta en el SEACE. #licitacionesperu #seace #oece",
+    "tt": "La ley nueva quitó el valor referencial y ahora la cuantía casi nunca se publica. ¿Sabías que ofertas sin ver el techo? #licitaciones #seace",
+    "fb": "La Ley 32069 reemplazó el valor estimado y el valor referencial por la cuantía de la contratación, y no obliga a darla a conocer durante la fase de selección."
    },
-   "alt": "Carrusel que explica la diferencia entre valor estimado y valor referencial en las contrataciones del Estado."
+   "alt": "Carrusel que explica la cuantía de la contratación y por qué el Estado ya no publica siempre cuánto piensa pagar."
   },
   {
    "slug": "05-cronograma-con-hora",
    "slides": [
-    {"role": "cover", "photo": "archivo", "h": "Cada etapa del proceso tiene *fecha y hora* exactas", "b": "El cronograma manda más que tu oferta."},
-    {"role": "value", "label": "DÓNDE", "h": "El cronograma va *en las bases*", "b": "Etapa por etapa, con su hora."},
-    {"role": "value", "photo": "documentos", "label": "ETAPAS", "h": "Consultas, ofertas y *buena pro*", "b": "Cada una abre y cierra sola."},
-    {"role": "value", "label": "SIN PRÓRROGA", "h": "Pasada la hora, *no hay excepción*", "b": "La plataforma cierra la etapa."},
-    {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Copia las fechas *a tu agenda*", "b": "El mismo día que ves el proceso."},
+    {"role": "cover", "photo": "archivo", "h": "Entre la convocatoria y tu oferta hay *semanas*", "b": "El proceso tiene plazos mínimos."},
+    {"role": "value", "label": "DÓNDE", "h": "El cronograma va *en las bases*", "b": "Etapa por etapa, con su fecha."},
+    {"role": "value", "photo": "documentos", "label": "EL MÍNIMO", "h": "Consultas: *siete días hábiles*", "b": "Desde el día después de convocar."},
+    {"role": "value", "label": "SE MUEVE", "h": "La entidad puede *postergar*", "b": "Publica el cronograma nuevo."},
+    {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Revísalo *antes de cada etapa*", "b": "La fecha pudo moverse."},
     {"role": "closer", "h": "Nosotros vigilamos ese *reloj* por ti", "b": "Radar Estatal es la app que sigue los procesos del SEACE y te avisa antes de que cierre la etapa."}
    ],
    "caption": {
-    "ig": "Cronograma de una licitación del Estado: cada etapa del SEACE tiene fecha y hora exactas. Guárdalo para el día que abras tu próximo proceso. #seace #licitacionesperu #proveedordelestado",
-    "tt": "El cronograma de una licitación del SEACE tiene hora exacta en cada etapa. ¿Se te ha pasado alguna por horas? #seace #licitaciones",
-    "fb": "En una licitación del Estado cada etapa tiene fecha y hora exactas. Pasada la hora, la plataforma cierra y no hay prórroga."
+    "ig": "Cronograma de una licitación del Estado: cada etapa tiene su fecha en las bases, con plazos mínimos por norma, y la entidad puede postergarlo publicando el cambio en el SEACE. Guárdalo para el día que abras tu próximo proceso. #seace #licitacionesperu #proveedordelestado",
+    "tt": "El cronograma de una licitación tiene plazos mínimos, y la entidad puede moverlos. ¿Revisas el tuyo antes de cada etapa? #seace #licitaciones",
+    "fb": "En una licitación del Estado cada etapa tiene su fecha en el cronograma. Hay plazos mínimos por norma y la entidad puede postergar, publicando el cronograma nuevo."
    },
-   "alt": "Carrusel sobre el cronograma de un proceso de selección: dónde está, qué etapas tiene y por qué la hora es determinante."
+   "alt": "Carrusel sobre el cronograma de un proceso de selección: dónde está, qué plazos mínimos tiene y por qué puede cambiar."
   },
   {
    "slug": "06-bases-integradas",
    "slides": [
     {"role": "cover", "photo": "documentos", "h": "Las bases que descargaste hoy *pueden cambiar* después", "b": "Las que mandan son las integradas."},
     {"role": "value", "label": "QUÉ PASA", "h": "Los postores hacen *consultas*", "b": "La entidad responde por escrito."},
-    {"role": "value", "photo": "archivo", "label": "RESULTADO", "h": "Sale una *versión final*", "b": "Son las bases integradas del proceso."},
+    {"role": "value", "photo": "archivo", "label": "RESULTADO", "h": "Sale una *versión final*", "b": "Son las reglas definitivas."},
     {"role": "value", "label": "IMPORTA", "h": "Ahí pueden *moverse requisitos*", "b": "También las fechas del cronograma."},
     {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Arma tu oferta con *esa versión*", "b": "Vuelve al SEACE antes de presentar."},
     {"role": "closer", "h": "El «*radar*» te avisa cuando el proceso se mueve", "b": "Radar Estatal vigila los procesos del SEACE por ti y te dice cuáles le convienen a tu empresa."}
@@ -110,7 +110,7 @@
    "slides": [
     {"role": "cover", "photo": "almacen", "h": "Ofrecer algo mejor de lo pedido *no siempre suma*", "b": "El puntaje sale de otra lista."},
     {"role": "value", "label": "PRIMERO", "h": "Los requisitos son *cumple o no*", "b": "No dan puntos, dan el pase."},
-    {"role": "value", "photo": "documentos", "label": "DESPUÉS", "h": "Los puntos salen de *los factores*", "b": "Están listados en las bases."},
+    {"role": "value", "photo": "documentos", "label": "DESPUÉS", "h": "Los puntos salen de *los factores*", "b": "Van en las bases integradas."},
     {"role": "value", "label": "OJO", "h": "Lo que no está ahí, *no puntúa*", "b": "Aunque sea mejor que lo pedido."},
     {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Cotiza contra *esa lista*", "b": "Punto por punto, en ese orden."},
     {"role": "closer", "h": "Nosotros leemos *esa lista* contigo", "b": "Radar Estatal es la app que vigila el SEACE y te explica qué pide cada proceso que te recomienda."}
@@ -126,16 +126,16 @@
    "slug": "08-anexos-listos",
    "slides": [
     {"role": "cover", "photo": "oficina-reunion", "h": "Tu oferta al Estado ya viene *medio escrita*", "b": "Los formatos vienen con las bases."},
-    {"role": "value", "label": "QUÉ SON", "h": "Las bases traen *anexos en blanco*", "b": "Declaraciones juradas y la oferta."},
+    {"role": "value", "label": "QUÉ SON", "h": "Traen *anexos en blanco*", "b": "Declaración jurada y pacto de integridad."},
     {"role": "value", "photo": "documentos", "label": "REGLA", "h": "Se llenan *tal cual* piden", "b": "Sin cambiar el texto del formato."},
-    {"role": "value", "label": "FIRMAS", "h": "Firma *quien tiene poder*", "b": "El representante inscrito en el RNP."},
+    {"role": "value", "label": "FIRMAS", "h": "Firma *quien tiene poder*", "b": "Y acreditas esa representación."},
     {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Ten una *versión base* guardada", "b": "Solo cambias datos del proceso."},
     {"role": "closer", "h": "Nosotros te avisamos *a tiempo* para llenarlos", "b": "Radar Estatal sigue los procesos del SEACE y te manda el aviso cuando sale uno para tu rubro."}
    ],
    "caption": {
     "ig": "Anexos y formatos de una oferta al Estado: vienen dentro de las bases y se llenan tal cual. Guárdalo para armar tu carpeta antes del próximo proceso del SEACE. #seace #licitacionesperu #proveedordelestado",
     "tt": "Los anexos de tu oferta vienen dentro de las bases de la licitación del SEACE. Mándaselo a quien arma tus propuestas. #licitaciones #seace",
-    "fb": "Las bases de un proceso traen los anexos que debes presentar. Se llenan tal cual y los firma el representante inscrito en el RNP."
+    "fb": "Las bases de un proceso traen los anexos que debes presentar. Se llenan tal cual y los firma quien tiene poder, acreditando esa representación en la oferta."
    },
    "alt": "Carrusel sobre los anexos y formatos que trae una base de licitación y cómo tener una versión base lista."
   },
@@ -143,14 +143,14 @@
    "slug": "09-precio-que-gano",
    "slides": [
     {"role": "cover", "photo": "obra", "h": "El precio con el que ganaron el año pasado *es público*", "b": "Y sirve para calibrar el tuyo."},
-    {"role": "value", "label": "DÓNDE", "h": "Cada buena pro *se publica*", "b": "Con el postor y el monto adjudicado."},
-    {"role": "value", "photo": "archivo", "label": "BUSCA", "h": "Filtra procesos *de tu rubro*", "b": "Los de años anteriores también sirven."},
-    {"role": "value", "label": "MIRA", "h": "Compara monto ganador *y estimado*", "b": "Ahí ves cómo se mueve tu mercado."},
-    {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "El más barato *no siempre gana*", "b": "Depende de los factores del proceso."},
+    {"role": "value", "label": "DÓNDE", "h": "Cada buena pro *se publica*", "b": "Con el ganador y su sustento."},
+    {"role": "value", "photo": "archivo", "label": "BUSCA", "h": "Filtra procesos *de tu rubro*", "b": "El monto sale en la ficha del proceso."},
+    {"role": "value", "label": "MIRA", "h": "Compara *entre ganadores*", "b": "Año por año, en lo que tú vendes."},
+    {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "El más barato *no siempre gana*", "b": "En licitación el precio vale 40 de 100."},
     {"role": "closer", "h": "El «*radar*» junta ese historial por ti", "b": "Radar Estatal es la app que vigila las compras del Estado y te deja ver qué ganó cada empresa."}
    ],
    "caption": {
-    "ig": "Cómo saber a cuánto se adjudicó lo que tú vendes: las buenas pro del SEACE publican postor y monto. Guárdalo para cuando estés fijando el precio de tu próxima oferta. #seace #licitacionesperu #oece",
+    "ig": "Cómo saber a cuánto se adjudicó lo que tú vendes: las buenas pro del SEACE publican al ganador y el monto contratado en la ficha de cada proceso. Guárdalo para cuando estés fijando el precio de tu próxima oferta. #seace #licitacionesperu #oece",
     "tt": "El monto con el que se ganó cada licitación del SEACE es público. ¿Ya viste a cuánto se adjudica lo que tú vendes? #seace #licitaciones",
     "fb": "Las buenas pro publicadas dicen quién ganó y con qué monto. Es la mejor referencia para calibrar el precio de tu oferta."
    },
@@ -161,15 +161,15 @@
    "slides": [
     {"role": "cover", "photo": "casco", "h": "Al Estado no le importan tus *años*, sino tus contratos", "b": "La experiencia se acredita con papeles."},
     {"role": "value", "label": "QUÉ VALE", "h": "Contratos *ya ejecutados*", "b": "Con su conformidad o comprobante."},
-    {"role": "value", "photo": "documentos", "label": "SE MIDE", "h": "En *montos facturados*", "b": "Las bases dicen cuánto piden."},
-    {"role": "value", "label": "TAMBIÉN", "h": "Sirve lo vendido *a privados*", "b": "Si es del mismo objeto que piden."},
+    {"role": "value", "photo": "documentos", "label": "SE MIDE", "h": "En *montos facturados*", "b": "En bienes cuentan diez años atrás."},
+    {"role": "value", "label": "TAMBIÉN", "h": "Sirve lo vendido *a privados*", "b": "Ahí piden el comprobante pagado."},
     {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Guarda *cada conformidad*", "b": "Escaneada, desde tu primer contrato."},
     {"role": "closer", "h": "Nosotros te decimos qué proceso *te calza*", "b": "Radar Estatal mira los procesos del SEACE y te recomienda los que van con la experiencia de tu empresa."}
    ],
    "caption": {
-    "ig": "Experiencia del postor en las licitaciones del Estado: se acredita con contratos y conformidades, no con años de antigüedad. Guárdalo para armar tu carpeta de proveedor del Estado. #licitacionesperu #seace #mype",
+    "ig": "Experiencia del postor en las licitaciones del Estado: se acredita con montos facturados en contratos y conformidades, no con años de antigüedad, y lo vendido a privados exige comprobante de pago cancelado. Guárdalo para armar tu carpeta de proveedor del Estado. #licitacionesperu #seace #mype",
     "tt": "La experiencia que pide el Estado se acredita con contratos y conformidades. ¿Tienes las tuyas escaneadas? #licitaciones #seace",
-    "fb": "En un proceso de selección la experiencia se acredita con contratos ejecutados y sus conformidades, medidos en montos facturados."
+    "fb": "En un proceso de selección la experiencia se acredita con montos facturados: contratos con su conformidad, o comprobantes de pago cuya cancelación se acredite."
    },
    "alt": "Carrusel sobre cómo se acredita la experiencia del postor ante el Estado con contratos y conformidades."
   },
@@ -194,16 +194,16 @@
    "slug": "12-subsanacion",
    "slides": [
     {"role": "cover", "photo": "documentos", "h": "¿Te descalifican por un documento *mal llenado*?", "b": "Depende del documento."},
-    {"role": "value", "label": "LA REGLA", "h": "Algunos documentos *se subsanan*", "b": "El comité da un plazo corto."},
+    {"role": "value", "label": "LA REGLA", "h": "Algunos papeles *sí se subsanan*", "b": "Tienes dos días hábiles."},
     {"role": "value", "photo": "archivo", "label": "NO ENTRA", "h": "Tu *oferta económica* no cambia", "b": "El precio presentado queda firme."},
-    {"role": "value", "label": "TAMPOCO", "h": "No se agrega *lo que faltó*", "b": "Subsanar no es completar la oferta."},
-    {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Revisa *qué dicen las bases*", "b": "Cada proceso detalla su alcance."},
+    {"role": "value", "label": "SÍ ENTRA", "h": "El papel *que ya existía*", "b": "Aunque olvidaras adjuntarlo."},
+    {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Ten tus permisos *al día*", "b": "Antes de la fecha de ofertas."},
     {"role": "closer", "h": "Nosotros te avisamos *desde el día uno*", "b": "Radar Estatal sigue las compras del Estado peruano y te da tiempo de preparar la oferta completa."}
    ],
    "caption": {
-    "ig": "Subsanación de ofertas en las licitaciones del Estado: qué documentos admiten plazo y cuáles no. Guárdalo para tu próxima presentación en el SEACE. #seace #licitacionesperu #oece",
+    "ig": "Subsanación de ofertas en las licitaciones del Estado: qué documentos admiten plazo, cuáles no y por qué un papel emitido antes de la fecha de ofertas se puede presentar después. Guárdalo para tu próxima presentación en el SEACE. #seace #licitacionesperu #oece",
     "tt": "Te observaron la oferta en una licitación del SEACE y todavía puedes estar dentro. ¿Sabías que hay documentos subsanables? #licitaciones #seace",
-    "fb": "Algunos documentos de una oferta se pueden subsanar en el plazo que otorga el comité. La oferta económica no se modifica."
+    "fb": "Algunos documentos de una oferta se pueden subsanar en un plazo de dos días hábiles, incluso si los omitiste, siempre que se hayan emitido antes de la fecha de ofertas. La oferta económica no se modifica."
    },
    "alt": "Carrusel sobre la subsanación de documentos en un proceso de selección: qué admite plazo y qué no."
   },
@@ -213,91 +213,91 @@
     {"role": "cover", "photo": "oficina-reunion", "h": "Cobrarle al Estado tiene *su propio manual*", "b": "Y empieza antes de entregar."},
     {"role": "value", "label": "PRIMERO", "h": "Entregas contra *el contrato*", "b": "Con la guía o el acta que pide."},
     {"role": "value", "photo": "documentos", "label": "LA LLAVE", "h": "El área usuaria da *la conformidad*", "b": "Sin ese papel no corre el pago."},
-    {"role": "value", "label": "PLAZO", "h": "El plazo de pago *está escrito*", "b": "En el contrato y en las bases."},
+    {"role": "value", "label": "PLAZO", "h": "Te pagan en *diez días hábiles*", "b": "Contados desde la conformidad."},
     {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Pregunta *quién firma* esa conformidad", "b": "Nombre y área, desde el inicio."},
     {"role": "closer", "h": "Antes de cobrar hay que *encontrar el proceso*", "b": "Radar Estatal es la app que vigila el SEACE y te avisa qué compra el Estado en tu rubro."}
    ],
    "caption": {
-    "ig": "Cómo se cobra un contrato con el Estado peruano: entrega, conformidad del área usuaria y el plazo de pago que está en el contrato. Guárdalo para tu primer contrato. #licitacionesperu #seace #mype",
+    "ig": "Cómo se cobra un contrato con el Estado peruano: entrega, conformidad del área usuaria y pago en un plazo máximo de diez días hábiles desde esa conformidad. Guárdalo para tu primer contrato. #licitacionesperu #seace #mype",
     "tt": "Sin conformidad del área usuaria no corre el pago de tu contrato con el Estado. ¿Sabes quién firma la tuya? #licitaciones #seace",
-    "fb": "El pago de un contrato con el Estado corre desde la conformidad del área usuaria, dentro del plazo escrito en el contrato."
+    "fb": "El pago de un contrato con el Estado se realiza en un plazo máximo de diez días hábiles luego de otorgada la conformidad del área usuaria."
    },
    "alt": "Carrusel sobre el circuito de cobro a una entidad del Estado: entrega, conformidad y plazo de pago."
   },
   {
    "slug": "14-antes-de-firmar",
    "slides": [
-    {"role": "cover", "photo": "edificio-gob", "h": "Ganaste la buena pro y *todavía no firmas* nada", "b": "Falta un tramo con plazos propios."},
+    {"role": "cover", "photo": "lima", "h": "Ganaste la buena pro y *todavía no firmas* nada", "b": "Falta un tramo con plazos propios."},
     {"role": "value", "label": "PASO 1", "h": "La buena pro *queda consentida*", "b": "Recién ahí sigue el contrato."},
     {"role": "value", "photo": "documentos", "label": "PASO 2", "h": "Presentas *los documentos* que faltan", "b": "La lista está en las bases."},
-    {"role": "value", "label": "OJO", "h": "Ese plazo *es corto*", "b": "Se cuenta en días hábiles."},
+    {"role": "value", "label": "OJO", "h": "Son *ocho días hábiles*", "b": "Para juntar y subir todo."},
     {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Junta esos papeles *antes* del fallo", "b": "Búscalos antes de ganar."},
     {"role": "closer", "h": "Nosotros te avisamos apenas *sale el fallo*", "b": "Radar Estatal sigue los procesos del SEACE por ti y te avisa en cada movimiento."}
    ],
    "caption": {
-    "ig": "Entre la buena pro y la firma del contrato con el Estado hay un tramo con plazos cortos y documentos que se presentan aparte. Guárdalo para cuando ganes tu primer proceso del SEACE. #seace #licitacionesperu #proveedordelestado",
+    "ig": "Entre la buena pro y la firma del contrato con el Estado hay un tramo de ocho días hábiles para presentar los documentos que faltan. Guárdalo para cuando ganes tu primer proceso del SEACE. #seace #licitacionesperu #proveedordelestado",
     "tt": "Ganar la buena pro no es firmar el contrato todavía. ¿Tienes listos los documentos para ese tramo? #licitaciones #seace",
-    "fb": "Después de la buena pro viene el consentimiento y la presentación de documentos para firmar. Los plazos son cortos y están en las bases."
+    "fb": "Después de la buena pro viene el consentimiento y ocho días hábiles para presentar los documentos con los que se perfecciona el contrato."
    },
    "alt": "Carrusel sobre lo que pasa entre la buena pro y la firma del contrato con una entidad del Estado."
   },
   {
    "slug": "15-declaracion-jurada",
    "slides": [
-    {"role": "cover", "photo": "documentos", "h": "Esa declaración jurada *sí se verifica* después", "b": "Se llama fiscalización posterior."},
-    {"role": "value", "label": "QUÉ ES", "h": "La entidad *comprueba* lo declarado", "b": "Después de recibir tu oferta."},
+    {"role": "cover", "photo": "documentos", "h": "Esa declaración jurada *sí se verifica* después", "b": "Y se revisa al que gana."},
+    {"role": "value", "label": "QUÉ ES", "h": "Si ganas, *te revisan* la oferta", "b": "Después de consentida la buena pro."},
     {"role": "value", "photo": "archivo", "label": "REVISA", "h": "Contratos, títulos y *constancias*", "b": "Contra la fuente que los emitió."},
     {"role": "value", "label": "SI NO CALZA", "h": "Puede terminar en *sanción*", "b": "El registro de sanciones es público."},
     {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Declara solo lo que *puedes probar*", "b": "Con el papel guardado y a la mano."},
     {"role": "closer", "h": "Con papeles en orden, falta *ver los procesos*", "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa cuáles van con tu empresa."}
    ],
    "caption": {
-    "ig": "Fiscalización posterior en las contrataciones del Estado: lo que firmas en una declaración jurada se comprueba contra la fuente. Guárdalo para tu próxima oferta en el SEACE. #seace #licitacionesperu #oece",
-    "tt": "Las declaraciones juradas de tu oferta al Estado se verifican después. ¿Puedes probar todo lo que declaraste? #licitaciones #seace",
-    "fb": "La fiscalización posterior comprueba lo declarado en una oferta. Declara solo lo que puedes acreditar con documentos."
+    "ig": "Verificación posterior a la oferta ganadora: si ganas la buena pro, la entidad comprueba contra la fuente lo que declaraste. Guárdalo para tu próxima oferta en el SEACE. #seace #licitacionesperu #oece",
+    "tt": "Las declaraciones juradas del que gana se verifican después. ¿Puedes probar todo lo que declaraste? #licitaciones #seace",
+    "fb": "La verificación posterior comprueba lo declarado por el postor ganador. Declara solo lo que puedes acreditar con documentos."
    },
-   "alt": "Carrusel sobre la fiscalización posterior de las declaraciones juradas presentadas en una oferta al Estado."
+   "alt": "Carrusel sobre la verificación posterior de las declaraciones juradas presentadas por el postor ganador."
   },
   {
    "slug": "16-tres-filtros",
    "slides": [
-    {"role": "cover", "photo": "archivo", "h": "Tu oferta pasa por *tres filtros*, no por uno", "b": "Y se cae en cualquiera de ellos."},
-    {"role": "value", "label": "FILTRO 1", "h": "*Admisión*: cumple lo pedido", "b": "Se revisa contra los requisitos."},
-    {"role": "value", "photo": "documentos", "label": "FILTRO 2", "h": "*Evaluación*: sale el puntaje", "b": "Precio y factores de las bases."},
-    {"role": "value", "label": "FILTRO 3", "h": "*Calificación*: quién puede ejecutar", "b": "Capacidad legal y experiencia."},
-    {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "Pasar el primero *no es ganar*", "b": "Recién ahí empieza la comparación."},
+    {"role": "cover", "photo": "archivo", "h": "Tu oferta pasa por *cuatro filtros*, no por uno", "b": "Y se cae en cualquiera de ellos."},
+    {"role": "value", "label": "FILTRO 1", "h": "*Admisión*: los papeles mínimos", "b": "Poder, pacto de integridad, jurada."},
+    {"role": "value", "photo": "documentos", "label": "FILTRO 2", "h": "*Calificación*: si puedes ejecutar", "b": "Va antes del puntaje, no después."},
+    {"role": "value", "label": "FILTRO 3", "h": "*Evaluación técnica*: el puntaje", "b": "Sale de los factores de las bases."},
+    {"role": "value", "photo": "oficina-reunion", "label": "FILTRO 4", "h": "*Evaluación económica*: el precio", "b": "Recién ahí entra tu monto."},
     {"role": "closer", "h": "Nosotros revisamos *qué te piden* en cada uno", "b": "Radar Estatal mira los procesos del SEACE y te explica los requisitos de los que te recomienda."}
    ],
    "caption": {
-    "ig": "Admisión, evaluación y calificación: los tres filtros por los que pasa una oferta en un proceso de selección del Estado. Guárdalo para revisar tu próxima propuesta. #licitacionesperu #seace #mype",
-    "tt": "Tu oferta al Estado pasa por admisión, evaluación y calificación. ¿En cuál se te cayó la última? #licitaciones #seace",
-    "fb": "Una oferta pasa por tres filtros: admisión, evaluación y calificación. Cada uno revisa cosas distintas."
+    "ig": "Admisión, calificación y evaluación: el orden real por el que pasa una oferta en un proceso de selección del Estado, y por qué la calificación va antes del puntaje. Guárdalo para revisar tu próxima propuesta. #licitacionesperu #seace #mype",
+    "tt": "Tu oferta al Estado pasa por admisión, calificación y evaluación, en ese orden. ¿En cuál se te cayó la última? #licitaciones #seace",
+    "fb": "Una oferta pasa por cuatro subetapas: admisión, revisión de requisitos de calificación, evaluación técnica y evaluación económica."
    },
-   "alt": "Carrusel que explica los tres filtros de un proceso de selección: admisión, evaluación y calificación."
+   "alt": "Carrusel que explica las cuatro subetapas de un proceso de selección: admisión, calificación, evaluación técnica y evaluación económica."
   },
   {
    "slug": "17-apelacion",
    "slides": [
-    {"role": "cover", "photo": "edificio-gob", "h": "Una buena pro *se puede cuestionar* por escrito", "b": "Existe un procedimiento y un plazo."},
+    {"role": "cover", "photo": "lima", "h": "Una buena pro *se puede cuestionar* por escrito", "b": "Existe un procedimiento y un plazo."},
     {"role": "value", "label": "QUÉ ES", "h": "El *recurso de apelación*", "b": "Se presenta por la plataforma."},
-    {"role": "value", "photo": "documentos", "label": "PLAZO", "h": "Es *corto* y está en las bases", "b": "Corre desde el fallo publicado."},
-    {"role": "value", "label": "PIDE", "h": "Se presenta con *una garantía*", "b": "Y con el fundamento del reclamo."},
-    {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "Se discute *lo que dicen las bases*", "b": "No las impresiones de la evaluación."},
+    {"role": "value", "photo": "documentos", "label": "PLAZO", "h": "Son *ocho días hábiles*", "b": "Desde que publican la buena pro."},
+    {"role": "value", "label": "PIDE", "h": "Se presenta con *una garantía*", "b": "La MYPE paga un porcentaje menor."},
+    {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "Las bases *no se apelan*", "b": "Eso se pelea antes, en consultas."},
     {"role": "closer", "h": "Antes del reclamo está *ver el proceso a tiempo*", "b": "Radar Estatal es la app que vigila el SEACE y te avisa de cada movimiento de los procesos que sigues."}
    ],
    "caption": {
-    "ig": "Recurso de apelación en las contrataciones del Estado: dónde se presenta, qué plazo tiene y qué se discute. Guárdalo para revisarlo con calma antes de tu próximo proceso. #seace #licitacionesperu #oece",
-    "tt": "Cuestionar una buena pro tiene procedimiento, plazo y garantía. ¿Sabías que el plazo corre desde el fallo publicado? #licitaciones #seace",
-    "fb": "El recurso de apelación permite cuestionar una buena pro dentro de un plazo corto, con garantía y fundamento, según lo que dicen las bases."
+    "ig": "Recurso de apelación en las contrataciones del Estado: se interpone dentro de los ocho días hábiles siguientes a la buena pro, con garantía, y las bases no son impugnables por esa vía. Guárdalo para revisarlo con calma antes de tu próximo proceso. #seace #licitacionesperu #oece",
+    "tt": "Cuestionar una buena pro tiene plazo y garantía. ¿Sabías que las bases ya no se discuten en esa etapa? #licitaciones #seace",
+    "fb": "El recurso de apelación permite cuestionar la buena pro o la declaratoria de desierto dentro de un plazo corto, con garantía y fundamento."
    },
-   "alt": "Carrusel informativo sobre el recurso de apelación contra una buena pro: plazo, garantía y qué se discute."
+   "alt": "Carrusel informativo sobre el recurso de apelación contra una buena pro: plazo, garantía y qué se puede discutir."
   },
   {
    "slug": "18-vendele-al-ganador",
    "slides": [
     {"role": "cover", "photo": "obra", "h": "El que ganó la licitación *también compra* insumos", "b": "Y esa lista de ganadores es pública."},
     {"role": "value", "label": "LA IDEA", "h": "Un contrato grande *mueve compras*", "b": "Materiales, transporte y servicios."},
-    {"role": "value", "photo": "camiones", "label": "DÓNDE MIRAR", "h": "Las *buenas pro* de tu región", "b": "Dicen qué empresa ejecuta qué."},
+    {"role": "value", "photo": "carretera", "label": "DÓNDE MIRAR", "h": "Las *buenas pro* de tu región", "b": "Dicen qué empresa ejecuta qué."},
     {"role": "value", "label": "SIRVE PARA", "h": "Venderle *al proveedor*, no al Estado", "b": "Sin RNP y sin licitación."},
     {"role": "value", "photo": "almacen", "label": "HAZ ESTO", "h": "Escribe apenas *se adjudica*", "b": "Cuando recién arman su cadena."},
     {"role": "closer", "h": "Nosotros te mostramos *quién ganó* cerca de ti", "b": "Radar Estatal vigila las compras del Estado peruano y te deja ver qué empresa ganó cada proceso."}
@@ -312,68 +312,68 @@
   {
    "slug": "19-registro-visitas",
    "slides": [
-    {"role": "cover", "photo": "edificio-gob", "h": "El registro de visitas *no dice* lo que muchos creen", "b": "Pero igual es información útil."},
-    {"role": "value", "label": "QUÉ ES", "h": "Un registro *público y diario*", "b": "Cada entidad lo publica por ley."},
-    {"role": "value", "photo": "documentos", "label": "DICE", "h": "Quién entró y *a quién visitó*", "b": "Con fecha, hora y oficina."},
+    {"role": "cover", "photo": "lima", "h": "El registro de visitas *no dice* lo que muchos creen", "b": "Pero igual es información útil."},
+    {"role": "value", "label": "QUÉ ES", "h": "Un registro *en tiempo real*", "b": "Público, en casi todas las entidades."},
+    {"role": "value", "photo": "documentos", "label": "DICE", "h": "Quién entró y *a quién visitó*", "b": "Con la hora, la oficina y el motivo."},
     {"role": "value", "label": "NO DICE", "h": "Nada de *lo que se conversó*", "b": "Una visita no prueba ni decide nada."},
     {"role": "value", "photo": "oficina-reunion", "label": "SIRVE PARA", "h": "Ver qué área *está en movimiento*", "b": "Al proceso se entra por las bases."},
     {"role": "closer", "h": "El «*radar*» revisa esos registros a diario", "b": "Radar Estatal es la app que vigila las entidades que sigues y te avisa cuando publican información nueva."}
    ],
    "caption": {
-    "ig": "Registro de visitas de las entidades del Estado: es público, diario y obligatorio, y dice quién entró y a quién visitó. Guárdalo como referencia sobre información pública del Estado. #transparencia #licitacionesperu #seace",
-    "tt": "El registro de visitas de una entidad es público y diario, pero no dice qué se conversó. ¿Lo habías revisado alguna vez? #transparencia #seace",
-    "fb": "El Registro de Visitas en Línea es público y de publicación diaria. Dice quién entró y a quién visitó, nada más."
+    "ig": "Registro de Visitas en Línea de las entidades del Estado: se publica en tiempo real y dice quién entró, a quién visitó y con qué motivo. Guárdalo como referencia sobre información pública del Estado. #transparencia #licitacionesperu #seace",
+    "tt": "El registro de visitas de una entidad se publica en tiempo real, pero no dice qué se conversó. ¿Lo habías revisado alguna vez? #transparencia #seace",
+    "fb": "El Registro de Visitas en Línea es público y se publica en tiempo real. Dice quién entró, a quién visitó y con qué motivo, nada más."
    },
-   "alt": "Carrusel informativo sobre el registro de visitas de las entidades públicas: qué dice y qué no dice."
+   "alt": "Carrusel informativo sobre el Registro de Visitas en Línea de las entidades públicas: qué dice y qué no dice."
   },
   {
    "slug": "20-comite-de-seleccion",
    "slides": [
-    {"role": "cover", "photo": "oficina-reunion", "h": "A tu oferta la revisa *un comité*, no una persona", "b": "Y evalúan contra un documento."},
-    {"role": "value", "label": "QUIÉN", "h": "Un *comité de selección*", "b": "Varias personas de la entidad."},
+    {"role": "cover", "photo": "oficina-reunion", "h": "Quién revisa tu oferta *no siempre es un comité*", "b": "Y evalúan contra un documento."},
+    {"role": "value", "label": "QUIÉN", "h": "Un oficial de compra *o un comité*", "b": "Depende del tipo de proceso."},
     {"role": "value", "photo": "documentos", "label": "CON QUÉ", "h": "Con las *bases integradas*", "b": "El mismo documento que tú tienes."},
     {"role": "value", "label": "POR ESO", "h": "No conocer a nadie *no te resta*", "b": "Resta un requisito sin probar."},
     {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Ordena tu oferta *como las bases*", "b": "Requisito por requisito, con prueba."},
     {"role": "closer", "h": "Nosotros te decimos qué proceso *vale tu tiempo*", "b": "Radar Estatal mira todos los procesos del SEACE y te recomienda los que encajan con tu empresa."}
    ],
    "caption": {
-    "ig": "Quién evalúa tu oferta en una licitación del Estado: un comité de selección que revisa contra las bases integradas, el mismo documento que tú descargas del SEACE. Guárdalo para tu próxima propuesta. #seace #licitacionesperu #mype",
-    "tt": "A tu oferta la revisa un comité de selección con las bases en la mano. ¿Armaste la tuya en ese mismo orden? #licitaciones #seace",
-    "fb": "Un comité de selección evalúa las ofertas contra las bases integradas, el mismo documento público que descarga cualquier postor."
+    "ig": "Quién evalúa tu oferta en una licitación del Estado: según el procedimiento puede ser un oficial de compra o un comité, y ambos revisan contra las bases integradas que tú también descargas del SEACE. Guárdalo para tu próxima propuesta. #seace #licitacionesperu #mype",
+    "tt": "A tu oferta la revisa un oficial de compra o un comité, siempre con las bases en la mano. ¿Armaste la tuya en ese mismo orden? #licitaciones #seace",
+    "fb": "Según el procedimiento, las ofertas las evalúa un oficial de compra o un comité, contra las bases integradas: el mismo documento público que descarga cualquier postor."
    },
-   "alt": "Carrusel sobre el comité de selección: quién evalúa las ofertas y con qué documento lo hace."
+   "alt": "Carrusel sobre quién evalúa las ofertas en un proceso de selección y con qué documento lo hace."
   },
   {
    "slug": "21-compras-menores",
    "slides": [
-    {"role": "cover", "photo": "camiones", "h": "Hay compras del Estado que *no pasan* por licitación", "b": "Son las contrataciones de monto chico."},
-    {"role": "value", "label": "LA REGLA", "h": "Hasta *ocho UIT* queda fuera", "b": "No hay proceso de selección."},
-    {"role": "value", "photo": "almacen", "label": "CÓMO SE HACE", "h": "La entidad *pide cotizaciones*", "b": "Directo al proveedor que ubica."},
-    {"role": "value", "label": "OJO", "h": "Ahí *no se postula*", "b": "El registro se publica después."},
-    {"role": "value", "photo": "documentos", "label": "SIRVE PARA", "h": "Ver *quién compra lo tuyo*", "b": "Con el RUC y el monto de la compra."},
+    {"role": "cover", "photo": "carretera", "h": "Hay compras del Estado que *no pasan* por licitación", "b": "Se llaman contratos menores."},
+    {"role": "value", "label": "LA REGLA", "h": "Hasta *ocho UIT* son contratos menores", "b": "No llevan proceso de selección."},
+    {"role": "value", "photo": "almacen", "label": "CÓMO SE HACE", "h": "La entidad *pide cotizaciones*", "b": "Por la plataforma del Estado."},
+    {"role": "value", "label": "TU ENTRADA", "h": "Tener *RNP en tu rubro*", "b": "Ahí te llegan esas solicitudes."},
+    {"role": "value", "photo": "documentos", "label": "SIRVE PARA", "h": "Ver *quién compra lo tuyo*", "b": "Todo queda registrado ahí."},
     {"role": "closer", "h": "El «*radar*» te dice a qué entidad tocarle la puerta", "b": "Radar Estatal es la app peruana que vigila las compras del Estado y te muestra quién compra tu rubro."}
    ],
    "caption": {
-    "ig": "Contrataciones por montos iguales o menores a ocho UIT: están fuera del proceso de selección, la entidad pide cotizaciones y el registro se publica después. Guárdalo si recién empiezas a venderle al Estado. #licitacionesperu #seace #mype",
-    "tt": "Las compras del Estado de hasta ocho UIT no pasan por licitación y su registro se publica después. ¿Ya viste quién compra lo tuyo? #licitaciones #seace",
-    "fb": "Las contrataciones de hasta ocho UIT están excluidas del proceso de selección. Su registro público sirve para saber a qué entidad cotizarle."
+    "ig": "Contratos menores del Estado: hasta ocho UIT no llevan proceso de selección, la entidad pide cotizaciones por la plataforma a proveedores con RNP del rubro y todo queda registrado. Guárdalo si recién empiezas a venderle al Estado. #licitacionesperu #seace #mype",
+    "tt": "Las compras del Estado de hasta ocho UIT no pasan por licitación, pero necesitas RNP para que te coticen. ¿Ya lo tienes? #licitaciones #seace",
+    "fb": "Los contratos menores no requieren proceso de selección: la entidad solicita cotizaciones por la plataforma a proveedores inscritos en el RNP del rubro."
    },
-   "alt": "Carrusel sobre las contrataciones menores a ocho UIT: cómo se hacen y cómo usar su registro público."
+   "alt": "Carrusel sobre los contratos menores de hasta ocho UIT: cómo se hacen y por qué el RNP es la puerta de entrada."
   },
   {
    "slug": "22-cuantos-compiten",
    "slides": [
     {"role": "cover", "photo": "obra", "h": "Averigua cuántos compiten *de verdad* en tu rubro", "b": "El dato está en procesos pasados."},
-    {"role": "value", "label": "DÓNDE", "h": "En los *resultados* del proceso", "b": "Ahí se listan las ofertas recibidas."},
+    {"role": "value", "label": "DÓNDE", "h": "En la *ficha* de cada proceso", "b": "Y en los datos abiertos del OECE."},
     {"role": "value", "photo": "archivo", "label": "CUENTA", "h": "Cuántas ofertas *se presentaron*", "b": "Proceso por proceso, en tu rubro."},
-    {"role": "value", "label": "VERÁS", "h": "Procesos con *pocos postores*", "b": "Otros quedan sin ninguna oferta."},
+    {"role": "value", "label": "VERÁS", "h": "Procesos que quedan *desiertos*", "b": "Nadie ofertó o nadie calificó."},
     {"role": "value", "photo": "oficina-reunion", "label": "PARA QUÉ", "h": "Eliges *dónde tienes chance*", "b": "Antes de invertir días en la oferta."},
     {"role": "closer", "h": "Nosotros te mostramos *ese historial* completo", "b": "Radar Estatal vigila los procesos del SEACE y te deja ver quién ganó y quién compitió."}
    ],
    "caption": {
-    "ig": "Cuántos postores compiten realmente en tu rubro: los resultados publicados en el SEACE listan las ofertas presentadas en cada proceso. Guárdalo para elegir mejor tu próxima licitación. #seace #licitacionesperu #oece",
+    "ig": "Cuántos postores compiten realmente en tu rubro: la ficha de cada proceso del SEACE y los datos abiertos del OECE listan las ofertas presentadas. Guárdalo para elegir mejor tu próxima licitación. #seace #licitacionesperu #oece",
     "tt": "Puedes contar cuántas ofertas se presentaron en cada licitación de tu rubro. ¿Cuántos crees que compiten? #licitaciones #seace",
-    "fb": "Los resultados de un proceso listan las ofertas presentadas. Contarlas te dice cuánta competencia real hay en tu rubro."
+    "fb": "La ficha de cada proceso lista las ofertas presentadas, y los datos abiertos del OECE traen el listado de ofertantes por año."
    },
    "alt": "Carrusel sobre cómo contar los postores reales de tu rubro revisando los resultados publicados de procesos anteriores."
   },
@@ -382,85 +382,85 @@
    "slides": [
     {"role": "cover", "photo": "archivo", "h": "La lista de compras de tu entidad *ya está escrita*", "b": "Y se puede leer entera hoy."},
     {"role": "value", "label": "QUÉ TRAE", "h": "El objeto y *el mes previsto*", "b": "Item por item, para todo el año."},
-    {"role": "value", "photo": "documentos", "label": "TAMBIÉN", "h": "El *tipo de procedimiento*", "b": "Y el monto que tiene planeado."},
+    {"role": "value", "photo": "documentos", "label": "TAMBIÉN", "h": "El *tipo de procedimiento*", "b": "Y la cuantía que tiene prevista."},
     {"role": "value", "label": "SE MUEVE", "h": "Ese plan *se modifica* en el año", "b": "Las entidades publican los cambios."},
-    {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Marca *lo que es tuyo*", "b": "Y anota el mes en tu agenda."},
+    {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "También convocan *lo no planeado*", "b": "Estar en el plan no es requisito."},
     {"role": "closer", "h": "Nosotros seguimos *esos cambios* por ti", "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa cuando sale lo tuyo."}
    ],
    "caption": {
-    "ig": "Plan Anual de Contrataciones: el objeto, el mes previsto y el tipo de procedimiento de cada compra están publicados, y el plan se modifica durante el año. Guárdalo para revisar el PAC de la entidad que te compra. #seace #licitacionesperu #proveedordelestado",
-    "tt": "El plan anual de una entidad dice qué comprará y en qué mes, y cambia durante el año. ¿Ya marcaste lo tuyo? #seace #licitaciones",
-    "fb": "El Plan Anual de Contrataciones detalla objeto, mes previsto y procedimiento de cada compra, y se modifica durante el año."
+    "ig": "Plan Anual de Contrataciones: trae el objeto, el mes referencial, el tipo de procedimiento y la cuantía de cada compra, se modifica durante el año y ya no es requisito para convocar. Guárdalo para revisar el plan de la entidad que te compra. #seace #licitacionesperu #proveedordelestado",
+    "tt": "El plan anual de una entidad dice qué comprará y en qué mes, pero también convocan lo que no estaba ahí. ¿Ya marcaste lo tuyo? #seace #licitaciones",
+    "fb": "El Plan Anual de Contrataciones detalla objeto, mes referencial, procedimiento y cuantía de cada compra. Se modifica durante el año, y estar en él ya no es requisito para convocar."
    },
-   "alt": "Carrusel sobre cómo leer el Plan Anual de Contrataciones de una entidad y sus modificaciones."
+   "alt": "Carrusel sobre cómo leer el Plan Anual de Contrataciones de una entidad, sus modificaciones y sus límites."
   },
   {
    "slug": "24-consulta-amigable",
    "slides": [
-    {"role": "cover", "photo": "lima", "h": "Puedes ver cuánto le *falta gastar* a cada entidad", "b": "Es un portal público del MEF."},
+    {"role": "cover", "photo": "lima", "h": "Puedes ver cuánto presupuesto *ya gastó* cada entidad", "b": "Es un portal público del MEF."},
     {"role": "value", "label": "SE LLAMA", "h": "*Consulta Amigable* del MEF", "b": "Se entra sin cuenta y sin pagar."},
-    {"role": "value", "photo": "documentos", "label": "MUESTRA", "h": "Presupuesto y *lo ya ejecutado*", "b": "Por entidad, región y rubro."},
-    {"role": "value", "label": "LA RESTA", "h": "Lo que queda *sin ejecutar*", "b": "Es lo que todavía debe comprar."},
-    {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Revisa las *tres entidades* que sigues", "b": "Antes de invertir tu tiempo."},
+    {"role": "value", "photo": "documentos", "label": "MUESTRA", "h": "Lo asignado y *lo ya ejecutado*", "b": "Por entidad, año y tipo de gasto."},
+    {"role": "value", "label": "OJO", "h": "El saldo *no es todo comprable*", "b": "Hay planilla y plata comprometida."},
+    {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Mira *bienes y servicios*", "b": "Ahí está lo que sí se contrata."},
     {"role": "closer", "h": "Y el «*radar*» te avisa cuando esa entidad convoca", "b": "Radar Estatal vigila los procesos del SEACE de las entidades que sigues y te avisa cuáles te sirven."}
    ],
    "caption": {
-    "ig": "Consulta Amigable del MEF: el portal público donde se ve cuánto presupuesto tiene cada entidad y cuánto ya ejecutó. Guárdalo para revisar las entidades a las que le vendes. #licitacionesperu #seace #mype",
-    "tt": "Puedes ver cuánto presupuesto le falta ejecutar a cada entidad del Estado. ¿Sabías que ese portal es público? #licitaciones #seace",
-    "fb": "La Consulta Amigable del MEF muestra el presupuesto y la ejecución de cada entidad. La diferencia es lo que aún tiene que gastar."
+    "ig": "Consulta Amigable del MEF: el portal público donde se ve cuánto presupuesto tiene cada entidad y cuánto ya ejecutó, con el detalle por tipo de gasto. Guárdalo para revisar las entidades a las que le vendes. #licitacionesperu #seace #mype",
+    "tt": "Puedes ver cuánto presupuesto ha ejecutado cada entidad del Estado. ¿Sabías que ese portal es público? #licitaciones #seace",
+    "fb": "La Consulta Amigable del MEF muestra el presupuesto asignado y la ejecución de cada entidad. Lo contratable se lee en bienes y servicios, descontando lo ya comprometido."
    },
    "alt": "Carrusel sobre la Consulta Amigable del MEF y cómo leer el presupuesto ejecutado de una entidad."
   },
   {
    "slug": "25-cierre-del-ano",
    "slides": [
-    {"role": "cover", "photo": "edificio-gob", "kicker": "CIERRE DEL AÑO FISCAL", "h": "Al Estado le queda *un trimestre* de presupuesto", "b": "El año fiscal cierra en diciembre."},
-    {"role": "value", "label": "LA REGLA", "h": "El presupuesto del año *se usa este año*", "b": "El calendario no se estira."},
-    {"role": "value", "photo": "documentos", "label": "POR ESO", "h": "Las entidades *aprietan* su plan", "b": "Lo que planearon sigue pendiente."},
+    {"role": "cover", "photo": "obra", "kicker": "CIERRE DEL AÑO FISCAL", "h": "El presupuesto de este año *no pasa* al siguiente", "b": "El año fiscal cierra en diciembre."},
+    {"role": "value", "label": "EL FRENO", "h": "Convocar *toma semanas*", "b": "El proceso tiene plazos mínimos."},
+    {"role": "value", "photo": "documentos", "label": "LA CUENTA", "h": "Restas esas *semanas* al cierre", "b": "Ahí ves si todavía te da tiempo."},
     {"role": "value", "label": "TU RIESGO", "h": "Los plazos salen *más cortos*", "b": "Sin papeles listos, no alcanzas."},
     {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Ten tu *carpeta lista* ahora", "b": "RNP activo, poderes, conformidades."},
     {"role": "closer", "h": "Nosotros vigilamos *ese cierre* proceso por proceso", "b": "Radar Estatal es la app que sigue las compras del Estado peruano y te avisa apenas convocan lo tuyo."}
    ],
    "caption": {
-    "ig": "Cierre del año fiscal y compras del Estado: el presupuesto del año se ejecuta dentro del año, y las entidades siguen con lo que planearon. Guárdalo para dejar tu carpeta de proveedor lista este trimestre. #seace #licitacionesperu #proveedordelestado",
-    "tt": "Al Estado le queda un trimestre para ejecutar el presupuesto del año. ¿Tienes tu carpeta de proveedor lista? #licitaciones #seace",
-    "fb": "El presupuesto anual se ejecuta dentro del año fiscal. Entrar al último trimestre con la carpeta lista es la diferencia entre postular y mirar."
+    "ig": "Cierre del año fiscal y compras del Estado: el presupuesto se ejecuta dentro del año y convocar un proceso toma semanas por los plazos mínimos. Guárdalo para dejar tu carpeta de proveedor lista este trimestre. #seace #licitacionesperu #proveedordelestado",
+    "tt": "Al Estado le queda cada vez menos año para ejecutar su presupuesto. ¿Tienes tu carpeta de proveedor lista? #licitaciones #seace",
+    "fb": "El presupuesto anual se ejecuta dentro del año fiscal, y un proceso de selección toma semanas por sus plazos mínimos. Entrar con la carpeta lista es la diferencia entre postular y mirar."
    },
    "alt": "Carrusel sobre el cierre del año fiscal en las compras del Estado y cómo prepararse con la carpeta de proveedor."
   },
   {
    "slug": "26-tdr-o-eett",
    "slides": [
-    {"role": "cover", "photo": "documentos", "h": "Todo lo que te van a comprar cabe en *una sola hoja*", "b": "Y es la que casi nadie lee entera."},
+    {"role": "cover", "photo": "documentos", "h": "Hay una parte de las bases que *decide todo*", "b": "Y es la que casi nadie lee entera."},
     {"role": "value", "label": "EN BIENES", "h": "Son las *especificaciones técnicas*", "b": "Detallan el producto exacto."},
     {"role": "value", "photo": "almacen", "label": "EN SERVICIOS", "h": "Son los *términos de referencia*", "b": "Dicen qué harás y en qué plazo."},
     {"role": "value", "label": "AHÍ SALE", "h": "Cantidad, plazo y *lugar de entrega*", "b": "Con eso ya puedes costear."},
-    {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Léela *antes* del resto de bases", "b": "Si no calza, cierras y sigues."},
+    {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "Contra ese papel *te reciben*", "b": "El área usuaria firma ahí la conformidad."},
     {"role": "closer", "h": "Nosotros te acercamos *solo lo que calza*", "b": "Radar Estatal mira los procesos del SEACE y te recomienda los que van con lo que tu empresa vende."}
    ],
    "caption": {
-    "ig": "Especificaciones técnicas y términos de referencia: la parte de las bases que describe exactamente qué compra el Estado. Guárdalo para revisar tu próxima licitación del SEACE. #seace #licitacionesperu #mype",
+    "ig": "Especificaciones técnicas y términos de referencia: la parte de las bases que describe exactamente qué compra el Estado, y contra la que el área usuaria te da la conformidad. Guárdalo para revisar tu próxima licitación del SEACE. #seace #licitacionesperu #mype",
     "tt": "Especificaciones técnicas en bienes, términos de referencia en servicios. ¿Por dónde empiezas a leer unas bases? #licitaciones #seace",
-    "fb": "Las especificaciones técnicas y los términos de referencia describen qué compra la entidad, en qué plazo y dónde se entrega."
+    "fb": "Las especificaciones técnicas y los términos de referencia describen qué compra la entidad, y son el documento contra el que el área usuaria otorga la conformidad."
    },
    "alt": "Carrusel que explica qué son las especificaciones técnicas y los términos de referencia dentro de unas bases."
   },
   {
    "slug": "27-cierre-en-punto",
    "slides": [
-    {"role": "cover", "photo": "oficina-reunion", "h": "La plataforma cierra *en punto* y no espera a nadie", "b": "La hora del sistema es la que vale."},
-    {"role": "value", "label": "CÓMO ES", "h": "La oferta se sube *en línea*", "b": "Dentro de la etapa del cronograma."},
-    {"role": "value", "photo": "documentos", "label": "OJO", "h": "Manda *la hora del sistema*", "b": "No la de tu computadora."},
+    {"role": "cover", "photo": "oficina-reunion", "h": "Tu oferta se sube hasta las *23:59* de ese día", "b": "Tienes el día entero, no una hora."},
+    {"role": "value", "label": "CÓMO ES", "h": "La oferta se sube *en línea*", "b": "Por el SEACE, sin ir a mesa de partes."},
+    {"role": "value", "photo": "documentos", "label": "LA VENTANA", "h": "Va de *00:01 a 23:59*", "b": "Hora peruana, la del sistema."},
     {"role": "value", "label": "PASA", "h": "Archivos pesados *tardan* en subir", "b": "Y el internet se cae justo ahí."},
-    {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Sube tu oferta *el día antes*", "b": "Revisada y con todo escaneado."},
+    {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Sube *temprano* ese día", "b": "Con todo escaneado desde la víspera."},
     {"role": "closer", "h": "Nosotros te avisamos *con días*, no con horas", "b": "Radar Estatal es la app que vigila el SEACE y te avisa cuando aparece un proceso de tu rubro."}
    ],
    "caption": {
-    "ig": "Presentación electrónica de ofertas: la etapa cierra a la hora exacta del cronograma y manda la hora del sistema. Guárdalo para tu próxima presentación en el SEACE. #seace #licitacionesperu #proveedordelestado",
-    "tt": "La etapa de presentación de ofertas cierra en punto, con la hora del sistema. Mándaselo a quien sube tus ofertas. #licitaciones #seace",
-    "fb": "La presentación de ofertas es electrónica y cierra a la hora exacta del cronograma. Subir el día antes evita perder el proceso."
+    "ig": "Presentación electrónica de ofertas: la etapa va de las 00:01 a las 23:59 hora peruana de la fecha del cronograma, y manda la hora del sistema. Guárdalo para tu próxima presentación en el SEACE. #seace #licitacionesperu #proveedordelestado",
+    "tt": "La presentación de ofertas cierra a las 23:59 del día programado, con la hora del sistema. Mándaselo a quien sube tus ofertas. #licitaciones #seace",
+    "fb": "La presentación de ofertas es electrónica y va de las 00:01 a las 23:59 hora peruana de la fecha prevista en el cronograma. Subir temprano ese día evita perder el proceso."
    },
-   "alt": "Carrusel sobre la presentación electrónica de ofertas y por qué conviene subirla con un día de anticipación."
+   "alt": "Carrusel sobre la presentación electrónica de ofertas y la ventana horaria del día programado en el cronograma."
   },
   {
    "slug": "28-ferreteria",
@@ -485,14 +485,14 @@
     {"role": "cover", "photo": "oficina-reunion", "h": "Los avisos del proceso *no llegan* a tu correo", "b": "Se publican en la plataforma."},
     {"role": "value", "label": "LA REGLA", "h": "Todo se notifica *en el SEACE*", "b": "Ahí quedan publicados los actos."},
     {"role": "value", "photo": "documentos", "label": "ASÍ SE VE", "h": "Bases integradas y *el fallo*", "b": "Con la fecha en que se publicaron."},
-    {"role": "value", "label": "POR ESO", "h": "Los plazos corren *desde ahí*", "b": "Aunque tú no hayas entrado."},
+    {"role": "value", "label": "POR ESO", "h": "Los plazos corren *desde ahí*", "b": "Se notifica el mismo día que se publica."},
     {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Entra a *cada proceso* que sigues", "b": "O deja que algo lo revise por ti."},
     {"role": "closer", "h": "Eso es *lo que hacemos* todos los días", "b": "Radar Estatal es la app que vigila los procesos del SEACE y te avisa de cada movimiento."}
    ],
    "caption": {
-    "ig": "Notificaciones en el SEACE: los actos del proceso se publican en la plataforma y los plazos corren desde esa publicación. Guárdalo para revisar los procesos que estás siguiendo. #seace #licitacionesperu #oece",
+    "ig": "Notificaciones en el SEACE: los actos del proceso se entienden notificados el mismo día de su publicación en la plataforma. Guárdalo para revisar los procesos que estás siguiendo. #seace #licitacionesperu #oece",
     "tt": "Los avisos de una licitación se publican en el SEACE, no llegan a tu correo. ¿Cada cuánto entras a revisar? #seace #licitaciones",
-    "fb": "Los actos de un proceso de selección se notifican mediante su publicación en la plataforma, y los plazos corren desde ahí."
+    "fb": "Los actos de un proceso de selección se entienden notificados el mismo día de su publicación en la plataforma."
    },
    "alt": "Carrusel sobre cómo se notifican los actos de un proceso de selección y por qué los plazos corren desde la publicación."
   },
@@ -500,16 +500,16 @@
    "slug": "30-registrarse-no-obliga",
    "slides": [
     {"role": "cover", "photo": "lima", "h": "Registrarte en una licitación *no te obliga* a postular", "b": "Es el paso para poder mirarla."},
-    {"role": "value", "label": "QUÉ ES", "h": "Registrarte como *participante*", "b": "En línea, desde la convocatoria."},
+    {"role": "value", "label": "QUÉ ES", "h": "Registrarte como *participante*", "b": "Gratis, y con tu RNP al día."},
     {"role": "value", "photo": "documentos", "label": "TE DA", "h": "Poder hacer *consultas* al proceso", "b": "Y seguir cada etapa de cerca."},
     {"role": "value", "label": "NO TE DA", "h": "Ninguna *obligación* de ofertar", "b": "Puedes leerlo todo y no presentarte."},
     {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Regístrate en *uno* esta semana", "b": "Aunque sea para verlo por dentro."},
     {"role": "closer", "h": "Primero hay que *encontrar* ese proceso", "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te muestra los procesos de tu rubro."}
    ],
    "caption": {
-    "ig": "Registro de participante en una licitación del Estado: se hace en línea, permite hacer consultas y no obliga a presentar oferta. Guárdalo para tu primer proceso del SEACE. #seace #licitacionesperu #mype",
+    "ig": "Registro de participante en una licitación del Estado: es gratuito, se hace en línea con el RNP al día, permite formular consultas y no obliga a presentar oferta. Guárdalo para tu primer proceso del SEACE. #seace #licitacionesperu #mype",
     "tt": "Registrarte en una licitación del SEACE no te obliga a postular. ¿Ya te registraste en alguna solo para verla por dentro? #seace #licitaciones",
-    "fb": "Registrarse como participante en un proceso es en línea, permite formular consultas y no obliga a presentar oferta."
+    "fb": "Registrarse como participante es gratuito y en línea, requiere RNP vigente, permite formular consultas y no obliga a presentar oferta."
    },
    "alt": "Carrusel sobre el registro de participante en un proceso de selección: qué permite y qué no obliga."
   }

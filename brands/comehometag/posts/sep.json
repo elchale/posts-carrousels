@@ -9,33 +9,33 @@
     {
      "role": "cover",
      "photo": "perro-cara",
-     "h": "Tu afiche de *«SE PERDIÓ»* olvida el dato clave"
+     "h": "Tu afiche de *«SE PERDIÓ»* no se lee desde un auto"
     },
     {
      "role": "value",
      "photo": "perro-cara",
-     "label": "DATO 1",
-     "h": "Foto de *cuerpo entero*",
-     "b": "Parado y de perfil, no durmiendo"
+     "label": "LA REGLA",
+     "h": "*Cinco* palabras, nada más",
+     "b": "«Perro perdido, labrador amarillo»"
     },
     {
      "role": "value",
-     "label": "DATO 2",
-     "h": "La *esquina* exacta",
-     "b": "Calle y cruce donde se soltó"
-    },
-    {
-     "role": "value",
-     "label": "DATO 3",
-     "h": "*Dos* números",
-     "b": "El tuyo y el de alguien que sí contesta"
+     "label": "EL TAMAÑO",
+     "h": "Letras de un *palmo*",
+     "b": "Cartulina fosforescente, no hoja blanca"
     },
     {
      "role": "value",
      "photo": "perro-calle",
-     "label": "EL ERROR",
-     "h": "Solo *en redes*",
-     "b": "Pega papel en la cuadra donde se perdió"
+     "label": "DÓNDE",
+     "h": "En la esquina del *semáforo*",
+     "b": "Donde el auto para, sobre tu cabeza"
+    },
+    {
+     "role": "value",
+     "label": "CUÁNTOS",
+     "h": "*Diez*, no uno",
+     "b": "Repartidos por las avenidas del sector"
     },
     {
      "role": "closer",
@@ -45,11 +45,11 @@
     }
    ],
    "caption": {
-    "ig": "Perro perdido: cómo se hace el afiche que sí sirve. Foto de cuerpo entero, parado y de perfil. La esquina exacta donde se soltó, no «por mi casa». Dos números, el tuyo y el de alguien que siempre contesta. Y papel pegado en la cuadra, no solo en redes. Guárdalo antes del próximo paseo. #perroperdido #mascotas #peru",
-    "tt": "Perro perdido: el afiche que sí sirve. Foto entera, la esquina exacta, dos números y papel pegado en la cuadra. Mándaselo a quien pasea a tu perro cuando tú no puedes. #perroperdido #mascotas",
-    "fb": "Casi todos los afiches de perro perdido tienen la foto bonita y les falta lo que de verdad ayuda: la esquina exacta y un segundo número. ¿Tienes ya una foto de tu perro parado y de perfil?"
+    "ig": "Afiche de perro perdido: cómo se hace uno que sí funcione. Cinco palabras y nada más, porque el que lo lee va manejando: «perro perdido, labrador amarillo». Letras negras de un palmo sobre cartulina fosforescente. Pegados alto, en las esquinas donde el auto para. Y diez, no uno. Guárdalo antes del próximo paseo. #perroperdido #mascotas #peru",
+    "tt": "Afiche de perro perdido: cinco palabras, letras de un palmo, cartulina fosforescente y diez carteles en las esquinas con semáforo. Mándaselo a quien pasea a tu perro cuando tú no puedes. #perroperdido #mascotas",
+    "fb": "Casi todos los afiches de perro perdido están hechos para leerse de cerca, y el que puede reconocerlo va manejando. Cinco palabras, letras enormes, fondo fosforescente y pegados en las esquinas donde los autos paran. ¿Cuántos pondrías tú?"
    },
-   "alt": "Guía para armar el afiche de un perro perdido: foto de cuerpo entero, esquina exacta, dos números y papel en la cuadra."
+   "alt": "Cómo hacer el afiche de un perro perdido: cinco palabras, letras grandes, cartulina fosforescente y diez carteles en intersecciones."
   },
   {
    "slug": "02-encontre-un-perro",
@@ -57,33 +57,33 @@
     {
      "role": "cover",
      "photo": "perro-calle",
-     "h": "Encontré un perro perdido, ¿y ahora *qué*?"
+     "h": "Encontraste un perro suelto, ¿y ahora *qué*?"
     },
     {
      "role": "value",
      "photo": "perro-cara",
      "label": "PASO 1",
-     "h": "No lo *persigas*",
-     "b": "Agáchate de costado y espera"
+     "h": "No lo *llames*",
+     "b": "Tu voz suena a que lo van a agarrar"
     },
     {
      "role": "value",
      "label": "PASO 2",
-     "h": "Revisa el *collar*",
-     "b": "Placa, chapita o algo colgado"
-    },
-    {
-     "role": "value",
-     "label": "PASO 3",
-     "h": "Foto y *ubicación*",
-     "b": "Al grupo de la cuadra, esa misma hora"
+     "h": "*Siéntate* y mira al piso",
+     "b": "De pie y de frente lo asustas más"
     },
     {
      "role": "value",
      "photo": "perro-calle",
-     "label": "EL ERROR",
-     "h": "Soltarlo *donde estaba*",
-     "b": "De ahí ya se perdió una vez"
+     "label": "PASO 3",
+     "h": "Come tú y *bota* comida",
+     "b": "Bolsa que suena, y ni lo mires"
+    },
+    {
+     "role": "value",
+     "label": "PASO 4",
+     "h": "No estires la *mano*",
+     "b": "Deja que él te toque a ti primero"
     },
     {
      "role": "closer",
@@ -93,11 +93,11 @@
     }
    ],
    "caption": {
-    "ig": "Encontré un perro perdido en la calle, qué hago. No perseguirlo, agacharse de costado y esperar. Revisar collar y placa. Foto y ubicación al grupo de la cuadra. Y nunca soltarlo donde estaba, porque de ahí ya se perdió una vez. ¿El que encuentre al tuyo tendría cómo llamarte? #perroperdido #perros #lima",
-    "tt": "Encontré un perro perdido, ¿y ahora qué? Cuatro pasos que funcionan de verdad. #perroperdido #perros",
-    "fb": "Todos hemos visto un perro perdido y seguido de largo por no saber qué hacer. Va la ruta corta: no perseguirlo, agacharse de costado, revisar el collar y avisar al grupo de la cuadra con foto y ubicación."
+    "ig": "Encontré un perro perdido en la calle, qué hago. Lo primero es no llamarlo: para un perro asustado esa voz es la de alguien que lo va a agarrar. Siéntate en el piso, mira a otro lado, come algo y bota comida al suelo como si no lo hubieras visto. Y nunca estires la mano: que él te toque primero. ¿Te ha pasado y no supiste qué hacer? #perroperdido #perros #lima",
+    "tt": "Encontraste un perro suelto y lo llamaste. Eso es justo lo que lo hace correr. Mándaselo a quien siempre para a ayudar perros en la calle. #perroperdido #perros",
+    "fb": "Todos llamamos al perro suelto y todos lo vemos alejarse. Los rescatistas hacen lo contrario: se sientan, miran al piso, botan comida y esperan a que el perro se acerque solo. ¿Lo habías escuchado antes?"
    },
-   "alt": "Cuatro pasos para ayudar a un perro perdido que te encontraste en la calle."
+   "alt": "Cuatro pasos para acercarte a un perro perdido en la calle sin hacerlo correr."
   },
   {
    "slug": "03-mitos-collar-perro",
@@ -111,27 +111,27 @@
      "role": "value",
      "label": "MITO 1",
      "h": "«Nunca se *aleja*»",
-     "b": "Un cohete lo manda a tres cuadras"
+     "b": "1 de cada 5 se pierde por un ruido"
     },
     {
      "role": "value",
      "photo": "perro-calle",
      "label": "MITO 2",
-     "h": "«Sabe volver *solo*»",
-     "b": "Vuelve si reconoce el olor, de día"
+     "h": "«Me va a *reconocer*»",
+     "b": "En pánico hasta tú eres una amenaza"
     },
     {
      "role": "value",
      "label": "MITO 3",
      "h": "«Tiene *chip*»",
-     "b": "El chip solo lo lee un veterinario"
+     "b": "4 de cada 10 chips no tienen dueño puesto"
     },
     {
      "role": "value",
      "photo": "perro-cara",
      "label": "MITO 4",
-     "h": "«Lo conocen en la *cuadra*»",
-     "b": "Quien lo encuentre será de otra zona"
+     "h": "«Ya tiene *collar*»",
+     "b": "Collar sin chapita legible no dice nada"
     },
     {
      "role": "closer",
@@ -141,11 +141,11 @@
     }
    ],
    "caption": {
-    "ig": "Mitos sobre cuidar a un perro que se pierde. «Nunca se aleja», hasta que revienta un cohete. «Sabe volver solo», solo de día y si reconoce el olor. «Tiene chip», que únicamente lee un veterinario. «Lo conocen en la cuadra», pero quien lo encuentra casi siempre es de otra zona. Guárdalo para la próxima noche de cohetes. #perroperdido #mascotas #peru",
-    "tt": "4 cosas que crees que protegen a tu perro y no lo hacen. Mándaselo a la persona que se queda con él cuando tú no estás. #perroperdido #mascotas",
-    "fb": "El chip es buenísimo, pero solo lo lee un veterinario con lector. Y quien encuentra a tu perro casi nunca es de tu cuadra. ¿Qué hace hoy tu perro cuando revientan cohetes?"
+    "ig": "Mitos sobre cuidar a un perro que se pierde. «Nunca se aleja»: casi una de cada cinco mascotas perdidas se fue por primera vez por un ruido fuerte. «Me va a reconocer»: un perro en pánico ve una amenaza hasta en su dueño. «Tiene chip»: cuatro de cada diez chips no tienen los datos del dueño registrados. Y el collar sin chapita legible no dice nada. Guárdalo para la próxima noche de cohetes. #perroperdido #mascotas #peru",
+    "tt": "4 cosas que crees que protegen a tu perro y no lo hacen. ¿Cuál de las cuatro dices tú? #perroperdido #mascotas",
+    "fb": "El chip es buenísimo, pero solo sirve si alguien lo escanea y si los datos del dueño están registrados y al día, y muchas veces no lo están. La chapita legible sigue siendo lo primero que mira quien encuentra a un perro."
    },
-   "alt": "Cuatro mitos sobre la seguridad de un perro: nunca se aleja, sabe volver solo, tiene chip, lo conocen en la cuadra."
+   "alt": "Cuatro mitos sobre la seguridad de un perro perdido: nunca se aleja, me reconoce, tiene chip, ya tiene collar."
   },
   {
    "slug": "04-perro-cohetes",
@@ -153,33 +153,33 @@
     {
      "role": "cover",
      "photo": "perro-cara",
-     "h": "Tu perro se escapa por un *ruido*, no por maldad"
+     "h": "1 de cada 5 mascotas perdidas se fue por un *ruido*"
     },
     {
      "role": "value",
      "label": "ANTES",
-     "h": "Cierra la *puerta* de calle",
-     "b": "El escape empieza en la puerta abierta"
+     "h": "Adentro y con *llave*",
+     "b": "El escape empieza en la puerta de calle"
     },
     {
      "role": "value",
      "photo": "perro-parque",
-     "label": "DURANTE",
-     "h": "Un cuarto *interior*",
-     "b": "Sin ventana, con música y su manta"
+     "label": "ANTES",
+     "h": "La chapita *puesta*",
+     "b": "No en el cajón, puesta esa noche"
     },
     {
      "role": "value",
-     "label": "DESPUÉS",
-     "h": "Sal a buscar *de noche*",
-     "b": "Escondites antes que avenidas"
+     "label": "SI SE FUE",
+     "h": "No salgas a *gritarle*",
+     "b": "El grito lo empuja más lejos"
     },
     {
      "role": "value",
      "photo": "perro-calle",
-     "label": "LA REGLA",
-     "h": "Nunca lo *castigues*",
-     "b": "Vuelve más tarde la próxima vez"
+     "label": "SI SE FUE",
+     "h": "Comida en la *vereda*",
+     "b": "Con su manta y ropa tuya sin lavar"
     },
     {
      "role": "closer",
@@ -189,11 +189,11 @@
     }
    ],
    "caption": {
-    "ig": "Perro que se escapa con los cohetes: qué hacer antes, durante y después. Puerta de calle cerrada con llave, un cuarto interior con música y su manta, y si igual salió, buscar escondites antes que avenidas. Y nunca castigarlo al volver. Mándaselo a quien te cuida al perro cuando sales de noche. #perroperdido #mascotas #lima",
-    "tt": "Tu perro no se escapa por maldad, se escapa por un ruido. ¿Ya sabes dónde se esconde el tuyo? #perroperdido #mascotas",
-    "fb": "El perro que se pierde con los cohetes no está portándose mal, está en pánico. Puerta cerrada, cuarto interior con música, y al volver nada de castigo: castigarlo solo hace que la próxima vez tarde más en volver."
+    "ig": "Perro que se escapa con los cohetes: qué hacer antes y qué hacer después. Casi una de cada cinco mascotas perdidas se fue por primera vez asustada por un ruido fuerte. Adentro y con la puerta con llave, la chapita puesta esa misma noche. Y si igual salió, nada de gritarle: deja comida, su manta y ropa tuya sin lavar en la vereda. Guárdalo para la próxima noche de pirotecnia. #perroperdido #mascotas #lima",
+    "tt": "Tu perro no se escapa por maldad, se escapa por un ruido. Mándaselo a quien te cuida al perro cuando sales de noche. #perroperdido #mascotas",
+    "fb": "El perro que se pierde con los cohetes está en pánico, no portándose mal. Y cuando ya salió, salir a gritar su nombre lo aleja: lo que lo trae de vuelta es comida y olor conocido en la puerta. ¿Qué hace el tuyo cuando revientan cohetes?"
    },
-   "alt": "Plan para un perro que se escapa por los ruidos fuertes: antes, durante y después del susto."
+   "alt": "Plan para el perro que se escapa por los cohetes: antes de la noche y qué hacer si ya salió."
   },
   {
    "slug": "05-cachorro-primera-salida",
@@ -201,33 +201,33 @@
     {
      "role": "cover",
      "photo": "cachorro",
-     "h": "4 cosas antes de la *primera* salida de tu cachorro"
+     "h": "La mitad de los perros perdidos no llevaba nada *puesto*"
     },
     {
      "role": "value",
      "label": "UNO",
-     "h": "Correa *corta*",
-     "b": "Sin extensible en pista o vereda"
+     "h": "La *chapita* desde hoy",
+     "b": "Tu número, aunque sea un cachorro"
     },
     {
      "role": "value",
      "photo": "cachorro",
      "label": "DOS",
-     "h": "Arnés, no *collar*",
-     "b": "El cachorro se zafa del collar"
+     "h": "Con *correa* siempre",
+     "b": "Suelto solo en patio con reja entera"
     },
     {
      "role": "value",
      "label": "TRES",
-     "h": "Su nombre y tu *número*",
-     "b": "Puestos encima desde el primer día"
+     "h": "Foto de *cuerpo entero*",
+     "b": "Repítela cada mes mientras crece"
     },
     {
      "role": "value",
      "photo": "perro-parque",
      "label": "CUATRO",
-     "h": "Una foto *de hoy*",
-     "b": "Cambia de tamaño cada dos semanas"
+     "h": "*Cinco* palabras que lo pinten",
+     "b": "«Cachorro negro, chico, collar rojo»"
     },
     {
      "role": "closer",
@@ -237,11 +237,11 @@
     }
    ],
    "caption": {
-    "ig": "Primera salida de un cachorro a la calle: qué llevar puesto. Correa corta y nada de extensible, arnés en vez de collar porque se zafa, tu número encima desde el primer día y una foto reciente, que a esa edad cambia de tamaño cada dos semanas. Guárdalo para el día que le toque salir. #cachorros #mascotas #peru",
-    "tt": "4 cosas antes de la primera salida de tu cachorro. Mándaselo a quien acaba de adoptar en tu familia. #cachorros #mascotas",
-    "fb": "El cachorro se zafa del collar en un segundo, por eso arnés. Y la foto sirve solo si es reciente: a esa edad cambian de tamaño cada dos semanas."
+    "ig": "Primera salida de un cachorro a la calle: qué tiene que llevar encima. En el estudio más citado sobre perros perdidos, menos de la mitad llevaba alguna identificación puesta el día que se perdió. Chapita con tu número desde el primer día, correa siempre salvo patio cerrado con reja entera, foto de cuerpo entero cada mes y las cinco palabras que lo describen. Guárdalo para el día que le toque salir. #cachorros #mascotas #peru",
+    "tt": "La mitad de los perros perdidos no llevaba nada puesto. Mándaselo a quien acaba de adoptar en tu familia. #cachorros #mascotas",
+    "fb": "Lo que más ayuda a que devuelvan a un perro no es lo caro: es una chapita legible con tu número y una foto reciente de cuerpo entero. ¿Tu cachorro ya tiene la suya?"
    },
-   "alt": "Cuatro preparativos para la primera salida a la calle de un cachorro."
+   "alt": "Cuatro cosas que un cachorro debe llevar antes de su primera salida a la calle."
   },
   {
    "slug": "06-gato-se-fue",
@@ -249,47 +249,47 @@
     {
      "role": "cover",
      "photo": "gato",
-     "h": "Busca a tu gato donde *nadie* lo busca"
+     "h": "Tu gato está escondido a *cinco casas*, no lejos"
     },
     {
      "role": "value",
-     "label": "PRIMERO",
-     "h": "Tu propia *casa*",
-     "b": "Detrás del mueble, sobre el ropero"
+     "label": "POR QUÉ",
+     "h": "No va a *maullar*",
+     "b": "El gato con miedo se esconde callado"
     },
     {
      "role": "value",
      "photo": "gato",
-     "label": "LUEGO",
-     "h": "*Cinco* casas a la redonda",
-     "b": "Se esconde cerca, no se va lejos"
+     "label": "BUSCA ASÍ",
+     "h": "Panza al *piso*",
+     "b": "Bajo autos, escaleras y techos bajos"
     },
     {
      "role": "value",
      "photo": "noche-calle",
-     "label": "DE NOCHE",
-     "h": "Con su *plato* y linterna",
-     "b": "Sale cuando la calle está callada"
+     "label": "PIDE PERMISO",
+     "h": "El patio del *vecino*",
+     "b": "Nadie se va a agachar a mirar por ti"
     },
     {
      "role": "value",
-     "label": "EL ERROR",
-     "h": "Gritar su *nombre*",
-     "b": "El gato asustado se queda quieto"
+     "label": "NO SIRVE",
+     "h": "Su *arena* usada afuera",
+     "b": "Atrae gatos que lo sacan del escondite"
     },
     {
      "role": "closer",
      "img": "llavero.png",
      "h": "El gato que sí *vuelve*",
-     "b": "El «llavero» ComeHomeTag va en el collar de tu gato: quien lo vea escanea el QR y te escribe."
+     "b": "El «llavero» ComeHomeTag va en su collar de seguridad: quien lo vea escanea el QR y te escribe."
     }
    ],
    "caption": {
-    "ig": "Gato perdido: dónde buscarlo de verdad. Primero tu propia casa, detrás del mueble y encima del ropero. Después cinco casas a la redonda, porque se esconde cerca. De noche, con su plato y linterna, cuando la calle está callada. Y nada de gritar su nombre. Guárdalo por si un día se te sale. #gatoperdido #gatos #peru",
-    "tt": "Tu gato no se fue lejos, se escondió cerca. ¿Ya revisaste encima del ropero? #gatoperdido #gatos",
-    "fb": "La mayoría de gatos perdidos aparecen a pocas casas de la suya, escondidos y quietos. Por eso gritar el nombre no ayuda: el plato de comida y una linterna de noche funcionan mucho mejor."
+    "ig": "Gato perdido: dónde está de verdad. En el estudio más grande que existe, tres de cada cuatro gatos aparecieron a menos de quinientos metros del sitio por donde se salieron, y los de interior mucho más cerca todavía. No va a maullar, porque el gato asustado se esconde en silencio. Panza al piso, bajo autos y escaleras, y pide permiso para entrar a los patios de al lado. Guárdalo por si un día se te sale. #gatoperdido #gatos #peru",
+    "tt": "Tu gato no se fue lejos: está escondido y callado a pocas casas. ¿Ya te agachaste a mirar debajo de los autos? #gatoperdido #gatos",
+    "fb": "La mayoría de gatos perdidos aparecen a pocos metros de su casa, escondidos y en silencio. Por eso gritar el nombre no sirve y la arena usada en la puerta tampoco: lo que funciona es agacharse y mirar debajo de todo, patio por patio."
    },
-   "alt": "Dónde buscar a un gato perdido: la propia casa, cinco casas a la redonda y la búsqueda nocturna con su plato."
+   "alt": "Dónde buscar a un gato perdido: cerca, escondido y en silencio, mirando debajo de todo en los patios vecinos."
   },
   {
    "slug": "07-un-ratito-sin-correa",
@@ -301,29 +301,29 @@
     },
     {
      "role": "value",
-     "label": "LO QUE PASA",
-     "h": "Sale otro *perro*",
-     "b": "Y el tuyo cruza la pista detrás"
+     "label": "LA REGLA",
+     "h": "Suelto solo en *cerrado*",
+     "b": "Reja entera y una sola puerta"
     },
     {
      "role": "value",
      "photo": "perro-cara",
-     "label": "LA PRUEBA",
-     "h": "Llámalo con gente *cerca*",
-     "b": "Si no viene ahí, no viene nunca"
+     "label": "SI SE ASUSTA",
+     "h": "Ya no te *reconoce*",
+     "b": "En pánico hasta tú eres una amenaza"
     },
     {
      "role": "value",
-     "label": "LA REGLA",
-     "h": "Suelto solo en *cerrado*",
-     "b": "Rejas completas y una sola puerta"
+     "label": "POR ESO",
+     "h": "Gritar su nombre lo *aleja*",
+     "b": "Suena a que alguien lo va a agarrar"
     },
     {
      "role": "value",
      "photo": "correa",
      "label": "SIEMPRE",
-     "h": "Con *identificación* puesta",
-     "b": "También dentro del parque cerrado"
+     "h": "Chapita puesta *adentro*",
+     "b": "La puerta del parque se queda abierta"
     },
     {
      "role": "closer",
@@ -333,11 +333,11 @@
     }
    ],
    "caption": {
-    "ig": "Soltar al perro sin correa en el parque: cuándo sí y cuándo no. La prueba honesta es llamarlo con gente y otros perros cerca: si ahí no viene, no viene nunca. Suelto solo en espacio cerrado, con rejas completas y una sola puerta. Guárdalo para el paseo del domingo. #perros #mascotas #lima",
-    "tt": "Sueltas a tu perro un ratito en el parque. ¿Viene cuando lo llamas con otro perro cerca? #perros #mascotas",
-    "fb": "El ratito sin correa es justo el rato en que aparece otro perro y el tuyo cruza la pista detrás. La prueba de si está listo es simple: llámalo con gente y perros alrededor."
+    "ig": "Soltar al perro sin correa en el parque: cuándo sí y cuándo no. Suelto solo en espacio cerrado, con reja entera y una sola puerta. Y hay algo que casi nadie sabe: un perro asustado entra en modo huida y deja de reconocer a su propia familia, así que gritar su nombre lo empuja más lejos. Guárdalo para el paseo del domingo. #perros #mascotas #lima",
+    "tt": "Un perro asustado deja de reconocer hasta a su dueño. ¿Sabías que gritar su nombre lo aleja más? #perros #mascotas",
+    "fb": "El ratito sin correa es justo el rato en que pasa algo que lo asusta. Y ahí aparece lo difícil de creer: en modo huida el perro no reconoce ni a su familia, y el grito lo aleja en vez de traerlo."
    },
-   "alt": "Cuándo se puede soltar a un perro sin correa en el parque y cuál es la prueba para saberlo."
+   "alt": "Cuándo se puede soltar a un perro en el parque y por qué gritar su nombre lo aleja."
   },
   {
    "slug": "08-perro-mudanza",
@@ -345,47 +345,47 @@
     {
      "role": "cover",
      "photo": "perro-calle",
-     "h": "Tu perro se pierde el día de la *mudanza*"
+     "h": "Te mudas y la chapita de tu perro dice la dirección *vieja*"
     },
     {
      "role": "value",
-     "label": "EL RIESGO",
-     "h": "La puerta *abierta*",
-     "b": "Horas de gente entrando y saliendo"
+     "label": "EL DÍA",
+     "h": "Un cuarto con *llave*",
+     "b": "La de calle se queda abierta horas"
     },
     {
      "role": "value",
      "photo": "perro-cara",
-     "label": "PASO 1",
-     "h": "Un cuarto *cerrado*",
-     "b": "Con su agua, su manta y un cartel"
+     "label": "ESE DÍA",
+     "h": "Cambia el dato del *chip*",
+     "b": "Un teléfono viejo es un chip inútil"
     },
     {
      "role": "value",
-     "label": "PASO 2",
-     "h": "Cambia tu *dirección*",
-     "b": "El mismo día en que llegas"
+     "label": "ESE DÍA",
+     "h": "Regraba la *chapita*",
+     "b": "Con el número que sí vas a contestar"
     },
     {
      "role": "value",
      "photo": "perro-parque",
-     "label": "PASO 3",
-     "h": "*Tres* días de correa",
-     "b": "No conoce el olor de su nueva calle"
+     "label": "TRES DÍAS",
+     "h": "Con *correa* en la calle nueva",
+     "b": "Todavía no sabe volver a esa puerta"
     },
     {
      "role": "closer",
      "img": "llavero.png",
      "h": "Casa nueva, número *nuevo*",
-     "b": "El «llavero» ComeHomeTag lleva un QR: quien encuentre a tu perro ve tu contacto y te llama."
+     "b": "El «llavero» ComeHomeTag lleva un QR: cambias tus datos desde el celular y el llavero ya dice lo nuevo."
     }
    ],
    "caption": {
-    "ig": "Mudanza con perro: cómo evitar que se pierda ese día. La puerta queda abierta horas, así que él va a un cuarto cerrado con agua, manta y un cartel en la puerta. Actualiza tu dirección el mismo día y sal con correa los primeros tres días, porque todavía no conoce el olor de su calle. Guárdalo para el día del camión. #mascotas #perros #peru",
+    "ig": "Mudanza con perro: cómo evitar que se pierda ese día. La puerta queda abierta durante horas, así que él va a un cuarto con llave. Y lo que casi nadie hace: actualizar el teléfono del chip y regrabar la chapita el mismo día, porque el motivo número uno por el que no ubican al dueño de un perro con chip son los datos de contacto viejos. Guárdalo para el día del camión. #mascotas #perros #peru",
     "tt": "El día de la mudanza es el día que más perros se salen de casa. Mándaselo a quien se muda este mes. #mascotas #perros",
-    "fb": "En una mudanza la puerta se queda abierta durante horas y el perro sale sin que nadie lo note. Cuarto cerrado con su agua y su manta, y los primeros tres días en la calle nueva siempre con correa."
+    "fb": "Cuando no logran ubicar al dueño de un perro con chip, la causa más común no es el chip: son los datos de contacto viejos. La mudanza es el día exacto para cambiarlos, y casi nadie lo hace."
    },
-   "alt": "Cómo cuidar a un perro el día de la mudanza para que no se escape."
+   "alt": "Qué hacer con el perro el día de la mudanza y por qué hay que actualizar chip y chapita ese mismo día."
   },
   {
    "slug": "09-chapita-ilegible",
@@ -393,26 +393,20 @@
     {
      "role": "cover",
      "photo": "perro-collar",
-     "h": "La chapita de tu perro ya no dice *nada*"
+     "h": "La chapita de tu perro ya no se *lee*"
     },
     {
      "role": "value",
-     "label": "REVÍSALA",
-     "h": "Se borra en *meses*",
-     "b": "El grabado se gasta contra la placa"
+     "label": "LO PRIMERO",
+     "h": "Miran el *collar*, no el chip",
+     "b": "El chip necesita lector, la chapita no"
     },
     {
      "role": "value",
      "photo": "perro-cara",
-     "label": "EL DATO",
-     "h": "Número, no *nombre*",
+     "label": "QUÉ VA",
+     "h": "Tu *número*, no su nombre",
      "b": "Su nombre no sirve para llamarte"
-    },
-    {
-     "role": "value",
-     "label": "EL ESPACIO",
-     "h": "No entra tu *dirección*",
-     "b": "En el metal no cabe casi nada"
     },
     {
      "role": "value",
@@ -422,6 +416,12 @@
      "b": "Si no la lees tú, no la lee nadie"
     },
     {
+     "role": "value",
+     "label": "SI ES GATO",
+     "h": "Collar con *elástico*",
+     "b": "Se suelta solo si se engancha"
+    },
+    {
      "role": "closer",
      "img": "llavero.png",
      "h": "Una chapita que sí *cabe*",
@@ -429,11 +429,11 @@
     }
    ],
    "caption": {
-    "ig": "Placa de identificación para perros: cómo saber si la tuya todavía sirve. El grabado se gasta contra la placa en meses, en el metal no cabe tu dirección y muchas llevan el nombre del perro en vez de tu número. La prueba: léela con el brazo estirado. ¿Se lee la de tu perro ahora mismo? #perroperdido #mascotas #perros",
+    "ig": "Placa de identificación para perros: cómo saber si la tuya todavía sirve. Lo primero que revisa quien encuentra a un perro es el collar, porque el chip necesita un lector y no todos los lectores leen todos los chips. Tu número, no el nombre del perro. La prueba es leerla con el brazo estirado. Y si es gato, collar con panel elástico para que se suelte si se engancha. ¿Se lee la de tu perro ahora mismo? #perroperdido #mascotas #perros",
     "tt": "Léele la chapita a tu perro con el brazo estirado. ¿Se entiende algo? #perroperdido #mascotas",
-    "fb": "Muchas chapitas llevan el nombre del perro y nada más, y el grabado se gasta en pocos meses. Lo que sirve para que te devuelvan al perro es tu número, legible a un brazo de distancia."
+    "fb": "Muchas chapitas llevan el nombre del perro y poco más, y el grabado se gasta. Lo que sirve para que te lo devuelvan es tu número, legible a un brazo de distancia, en un collar que quien lo encuentre revise primero."
    },
-   "alt": "Cómo revisar si la chapita de identificación de tu perro todavía es legible y útil."
+   "alt": "Cómo revisar si la chapita de identificación de tu perro sigue siendo legible y útil."
   },
   {
    "slug": "10-primavera-parque",
@@ -441,34 +441,33 @@
     {
      "role": "cover",
      "photo": "perro-parque",
-     "kicker": "DÍA DE LA PRIMAVERA",
      "h": "Hoy el parque se llena y tu perro no *conoce* a nadie"
     },
     {
      "role": "value",
-     "label": "LA MANADA",
-     "h": "Más perros, más *carreras*",
-     "b": "Tras un perro nuevo cruza la pista"
+     "label": "ANTES",
+     "h": "Foto de *hoy* en el celular",
+     "b": "Es la que mandas si se te pierde"
     },
     {
      "role": "value",
      "photo": "perro-parque",
      "label": "ANTES",
-     "h": "Correa *corta* al entrar",
-     "b": "Suéltalo cuando ya te esté mirando"
-    },
-    {
-     "role": "value",
-     "label": "ADENTRO",
-     "h": "Camina *con* él",
-     "b": "Perro suelto y dueño sentado se separan"
+     "h": "*Cinco* palabras que lo pinten",
+     "b": "«Perro negro, mediano, collar rojo»"
     },
     {
      "role": "value",
      "photo": "correa",
-     "label": "AL SALIR",
-     "h": "Cuenta *collares*",
-     "b": "Correa puesta antes de la vereda"
+     "label": "EN LA PUERTA",
+     "h": "Correa antes de la *vereda*",
+     "b": "La reja del parque queda abierta"
+    },
+    {
+     "role": "value",
+     "label": "SI SE VA",
+     "h": "No corras *detrás*",
+     "b": "Perseguirlo lo empuja más lejos"
     },
     {
      "role": "closer",
@@ -478,11 +477,11 @@
     }
    ],
    "caption": {
-    "ig": "Primavera en el parque con perro: el día que más se sueltan. Entra con correa corta y suéltalo recién cuando ya te esté mirando. Camina con él, porque perro suelto y dueño sentado terminan separados. Y correa puesta antes de pisar la vereda. Guárdalo para este domingo en el parque. #perros #mascotas #lima",
+    "ig": "Parque lleno de perros: cómo ir preparado. Foto de hoy en el celular, porque esa es la que vas a mandar si se te pierde. Las cinco palabras que lo describen, listas: «perro negro, mediano, collar rojo». Correa puesta antes de pisar la vereda. Y si se va, no corras detrás: perseguirlo lo empuja más lejos. Guárdalo para este domingo en el parque. #perros #mascotas #lima",
     "tt": "Hoy el parque se llena y tu perro no conoce a nadie. Mándaselo a quien sale a pasear perro este fin de semana. #perros #mascotas",
-    "fb": "Con la primavera el parque se llena de perros que no se conocen entre ellos, y detrás de un perro nuevo el tuyo cruza la pista sin pensarlo. Camina con él en vez de sentarte a mirar."
+    "fb": "Los que buscan perros perdidos para vivir dicen lo mismo siempre: no corras detrás. Lo que sirve es tener lista la foto de hoy y una descripción de cinco palabras para que otros puedan reconocerlo."
    },
-   "alt": "Cuidados para llevar al perro al parque lleno en el día de la primavera."
+   "alt": "Qué llevar listo antes de ir al parque lleno con tu perro y qué no hacer si se suelta."
   },
   {
    "slug": "11-no-viene-cuando-llamas",
@@ -490,33 +489,33 @@
     {
      "role": "cover",
      "photo": "perro-cara",
-     "h": "Tu perro no viene cuando lo llamas *asustado*"
+     "h": "Tu perro asustado no viene cuando lo *llamas*"
     },
     {
      "role": "value",
      "label": "POR QUÉ",
-     "h": "Tu voz suena a *pelea*",
-     "b": "Gritas su nombre y se aleja más"
+     "h": "Tu grito suena a que lo *agarran*",
+     "b": "Ya lo intentaron otros antes que tú"
     },
     {
      "role": "value",
      "photo": "perro-calle",
      "label": "HAZ ESTO",
-     "h": "Agáchate y *calla*",
-     "b": "De costado, sin mirarlo a los ojos"
+     "h": "*Siéntate* y mira al piso",
+     "b": "De pie y de frente lo asustas más"
     },
     {
      "role": "value",
-     "label": "TRUCO",
-     "h": "*Corre* al revés",
-     "b": "Muchos perros persiguen al que huye"
+     "label": "LO QUE SÍ",
+     "h": "Come tú y *bota* comida",
+     "b": "Bolsa que suena, y ni lo mires"
     },
     {
      "role": "value",
      "photo": "perro-parque",
      "label": "NUNCA",
-     "h": "No lo *arrincones*",
-     "b": "Contra la pista busca la única salida"
+     "h": "No estires la *mano*",
+     "b": "Deja que él te toque a ti primero"
     },
     {
      "role": "closer",
@@ -526,11 +525,11 @@
     }
    ],
    "caption": {
-    "ig": "Perro suelto que no viene cuando lo llamas: qué hacer en ese momento. Gritar su nombre suena a pelea y lo aleja más. Agáchate de costado, callado y sin mirarlo a los ojos. Corre en dirección contraria, porque muchos persiguen al que huye. Y nunca lo arrincones contra la pista. Mándaselo a quien pasea perros contigo. #perros #mascotas #peru",
-    "tt": "Tu perro no viene cuando lo llamas asustado. ¿Sabías que gritar su nombre lo aleja más? #perros #mascotas",
-    "fb": "Cuando un perro se suelta y está asustado, el grito lo empuja lejos. Agacharse de costado y hasta correr en dirección contraria funciona mucho mejor que perseguirlo."
+    "ig": "Perro suelto y asustado que no viene cuando lo llamas: qué hacer en ese momento. Llamarlo, silbarle o palmear es lo que otros ya intentaron para agarrarlo, así que suena a peligro. Siéntate en el piso, mira a otro lado, abre una bolsa que suene, come algo y bota comida al suelo sin mirarlo. Y nunca estires la mano: que él te toque primero. Mándaselo a quien pasea perros contigo. #perros #mascotas #peru",
+    "tt": "Tu perro asustado no viene cuando lo llamas. ¿Sabías que sentarte en el piso funciona mejor que gritar? #perros #mascotas",
+    "fb": "Cuando un perro se suelta y está asustado, el grito lo empuja lejos. Los rescatistas hacen algo que parece absurdo: se sientan, miran al piso y comen algo botando comida al suelo, ignorando al perro hasta que él se acerca."
    },
-   "alt": "Qué hacer cuando un perro asustado se suelta y no viene al llamarlo."
+   "alt": "Qué hacer cuando un perro asustado no viene al llamarlo: sentarse, mirar al piso y botar comida."
   },
   {
    "slug": "12-quien-lo-cuida",
@@ -538,33 +537,33 @@
     {
      "role": "cover",
      "photo": "correa",
-     "h": "Dejas a tu perro con alguien que no sabe tu *dirección*"
+     "h": "Dejas a tu perro con alguien que no sabe qué hacer si se *sale*"
     },
     {
      "role": "value",
-     "label": "DATO 1",
-     "h": "Tu *dirección* exacta",
-     "b": "Con referencia, no solo la calle"
+     "label": "DÉJALE DICHO",
+     "h": "Que *no* lo persiga",
+     "b": "Perseguirlo lo manda hacia la pista"
     },
     {
      "role": "value",
      "photo": "perro-cara",
-     "label": "DATO 2",
-     "h": "Su *veterinario*",
-     "b": "Nombre, dirección y horario"
+     "label": "DÉJALE DICHO",
+     "h": "Que anote la *esquina*",
+     "b": "Ahí empieza la búsqueda, no en tu casa"
     },
     {
      "role": "value",
-     "label": "DATO 3",
-     "h": "Dos *contactos*",
-     "b": "Tú y alguien más de la familia"
+     "label": "DÉJALE",
+     "h": "Foto de *cuerpo entero*",
+     "b": "Y las cinco palabras que lo describen"
     },
     {
      "role": "value",
      "photo": "perro-parque",
-     "label": "LA FOTO",
-     "h": "Una foto *reciente*",
-     "b": "De cuerpo entero, tomada este mes"
+     "label": "EN EL CHIP",
+     "h": "Un *segundo* número",
+     "b": "El de alguien que sí contesta hoy"
     },
     {
      "role": "closer",
@@ -574,11 +573,11 @@
     }
    ],
    "caption": {
-    "ig": "Dejar al perro con alguien mientras viajas: los datos que hay que dejar por escrito. Tu dirección con referencia, el veterinario con horario, dos contactos de la familia y una foto de cuerpo entero tomada este mes. Guárdalo antes de tu próximo viaje. #mascotas #perros #peru",
-    "tt": "Dejas a tu perro con alguien y no sabe ni tu dirección. Mándaselo a quien te lo va a cuidar la próxima vez. #mascotas #perros",
-    "fb": "Si el perro se sale mientras lo cuidan, quien lo cuida necesita datos que casi nunca le dejamos: dirección con referencia, veterinario y una foto reciente de cuerpo entero."
+    "ig": "Dejar al perro con alguien mientras viajas: lo que hay que dejarle por escrito. Que no lo persiga si se sale, porque perseguirlo lo empuja a la pista. Que anote la esquina exacta por donde se fue, porque toda la búsqueda se arma desde ese punto y no desde tu casa. Foto de cuerpo entero, las cinco palabras que lo describen y un segundo teléfono en el chip. Guárdalo antes de tu próximo viaje. #mascotas #perros #peru",
+    "tt": "Dejas a tu perro con alguien y no sabe qué hacer si se sale. Mándaselo a quien te lo va a cuidar la próxima vez. #mascotas #perros",
+    "fb": "Si el perro se sale mientras lo cuidan, lo primero que hace cualquiera es correr detrás, y eso lo empuja hacia la pista. Vale más dejar dicho eso que dejar la marca del alimento."
    },
-   "alt": "Lista de datos que debe tener quien cuida a tu perro mientras no estás."
+   "alt": "Qué debe saber quien cuida a tu perro si el perro se sale de casa."
   },
   {
    "slug": "13-encontre-un-nino",
@@ -591,28 +590,28 @@
     {
      "role": "value",
      "label": "PASO 1",
-     "h": "*Quédate* donde está",
-     "b": "Sus papás vuelven a ese punto"
+     "h": "No lo muevas del *sitio*",
+     "b": "Ahí es donde sus papás van a volver"
     },
     {
      "role": "value",
      "photo": "nino-mano",
      "label": "PASO 2",
      "h": "Agáchate a su *altura*",
-     "b": "Preséntate y pregunta su nombre"
+     "b": "Di tu nombre y pregunta el suyo"
     },
     {
      "role": "value",
      "label": "PASO 3",
-     "h": "Llama a *seguridad*",
-     "b": "Que anuncien por parlante, no tú"
+     "h": "Avisa al de la *caja*",
+     "b": "El local cierra puertas y lo anuncia"
     },
     {
      "role": "value",
      "photo": "mercado",
      "label": "EL ERROR",
-     "h": "*Pasearlo* a buscarlos",
-     "b": "Moverlo lo pierde una segunda vez"
+     "h": "*Llevarlo* a buscarlos",
+     "b": "Sacarlo de ahí lo pierde otra vez"
     },
     {
      "role": "closer",
@@ -622,11 +621,11 @@
     }
    ],
    "caption": {
-    "ig": "Encontré a un niño perdido, qué hago. Quedarse en el punto donde está, porque ahí vuelven sus papás. Agacharse a su altura, presentarse y preguntarle su nombre. Llamar a seguridad para que anuncien por parlante. Y no pasearlo por el mall a buscarlos, que eso lo pierde de nuevo. ¿Te ha tocado alguna vez? #ninos #familia #peru",
+    "ig": "Encontré a un niño perdido, qué hago. Quedarse en el punto donde está, porque los papás vuelven al último sitio donde lo vieron. Agacharse a su altura, decirle tu nombre y preguntarle el suyo. Avisar al personal del local, que tiene protocolo para anunciarlo y vigilar las salidas. Y no llevarlo a dar vueltas: moverlo de ahí lo pierde otra vez. ¿Te ha tocado alguna vez? #ninos #familia #peru",
     "tt": "Encontraste a un niño solo, ¿y ahora qué? Cuatro pasos, sin moverlo del sitio. #ninos #familia",
-    "fb": "Lo primero que hacemos casi todos es caminar con el niño a buscar a sus papás, y es justo lo que no ayuda: ellos regresan al punto donde lo vieron por última vez. Quédate ahí y pide que anuncien por parlante."
+    "fb": "Lo primero que hacemos casi todos es caminar con el niño a buscar a sus papás, y es justo lo que no ayuda: ellos regresan al punto donde lo vieron por última vez. Quédate ahí y avisa al personal del local."
    },
-   "alt": "Cuatro pasos para ayudar a un niño perdido que encontraste solo."
+   "alt": "Cuatro pasos para ayudar a un niño perdido sin moverlo del sitio."
   },
   {
    "slug": "14-mitos-hijo-seguro",
@@ -639,28 +638,28 @@
     {
      "role": "value",
      "label": "MITO 1",
-     "h": "«Sabe mi *número*»",
-     "b": "Con miedo no recuerda ni su edad"
+     "h": "«No hables con *extraños*»",
+     "b": "Perdido tiene que hablar con uno"
     },
     {
      "role": "value",
      "photo": "nino-mano",
      "label": "MITO 2",
-     "h": "«No habla con *extraños*»",
-     "b": "Perdido necesita hablar con uno"
+     "h": "«Tenemos palabra *secreta*»",
+     "b": "La olvida con miedo y se la sacan"
     },
     {
      "role": "value",
      "label": "MITO 3",
-     "h": "«Tiene *celular*»",
-     "b": "Se apaga, se cae o lo deja en casa"
+     "h": "«Ya se lo *dije* una vez»",
+     "b": "Lo que no se ensaya no le sale"
     },
     {
      "role": "value",
      "photo": "familia-parque",
      "label": "MITO 4",
-     "h": "«Está *conmigo*»",
-     "b": "Tres adultos y ninguno lo mira"
+     "h": "«Está con la *familia*»",
+     "b": "Cinco adultos y ninguno encargado"
     },
     {
      "role": "closer",
@@ -670,9 +669,9 @@
     }
    ],
    "caption": {
-    "ig": "Mitos sobre la seguridad de los niños fuera de casa. «Sabe mi número», pero con miedo no recuerda ni su edad. «No habla con extraños», y justo perdido necesita hablar con uno. «Tiene celular», que se apaga o se queda en casa. «Está conmigo», con tres adultos y ninguno mirándolo. Guárdalo para la próxima salida familiar. #ninos #familia #peru",
+    "ig": "Mitos sobre la seguridad de los niños fuera de casa. «No hables con extraños» deja al niño perdido sin saber a quién acercarse, justo cuando necesita hablar con uno. La palabra secreta la olvida con miedo y se la sacan preguntando, por eso los especialistas ya no la recomiendan. Lo que no se ensaya no sale. Y en la salida grande, cada niño necesita un adulto encargado con nombre. Guárdalo para la próxima salida familiar. #ninos #familia #peru",
     "tt": "4 cosas que crees que cuidan a tu hijo y no lo hacen. ¿Cuál de las cuatro dices tú? #ninos #familia",
-    "fb": "«No hables con extraños» deja al niño perdido sin saber a quién pedir ayuda. Es mejor enseñarle a quién sí acercarse: la caja de una tienda o una señora con niños."
+    "fb": "La palabra secreta suena a plan y hace lo contrario: los chicos la olvidan cuando tienen miedo y se la sacan preguntando. Los especialistas en seguridad infantil enseñan otra cosa: consultar contigo antes de irse con quien sea."
    },
    "alt": "Cuatro creencias sobre la seguridad infantil que no protegen a un niño perdido."
   },
@@ -682,33 +681,33 @@
     {
      "role": "cover",
      "photo": "nino-mano",
-     "h": "3 preguntas que tu hijo *debe* saber responder hoy"
+     "h": "3 respuestas que tu hijo tiene que dar *hoy*"
     },
     {
      "role": "value",
      "label": "UNO",
-     "h": "«¿Cómo te *llamas*?»",
-     "b": "Nombre y apellido, los dos"
+     "h": "Su nombre y *apellido*",
+     "b": "Los dos, no solo el primero"
     },
     {
      "role": "value",
      "photo": "nino-mochila",
      "label": "DOS",
-     "h": "«¿Cómo se llama tu *mamá*?»",
-     "b": "Su nombre real, no «mamá»"
+     "h": "«Mi mamá se llama *Ana*»",
+     "b": "El nombre real, no «mamá»"
     },
     {
      "role": "value",
      "label": "TRES",
-     "h": "«¿A quién le *pides* ayuda?»",
-     "b": "Una señora con niños o una caja"
+     "h": "A *quién* le pide ayuda",
+     "b": "A una señora con niños, dice él"
     },
     {
      "role": "value",
      "photo": "familia-parque",
-     "label": "HOY",
-     "h": "Pregúntaselo *jugando*",
-     "b": "En la mesa, sin avisar, esta semana"
+     "label": "ENSÁYALO",
+     "h": "En el *mercado*, no en casa",
+     "b": "Se practica en el sitio de verdad"
     },
     {
      "role": "closer",
@@ -718,11 +717,11 @@
     }
    ],
    "caption": {
-    "ig": "Qué debe saber decir un niño si se pierde. Su nombre y apellido, el nombre real de su mamá, y a quién pedirle ayuda: una señora con niños o la caja de una tienda. Pregúntaselo jugando en la mesa, sin avisar. Mándaselo a la mamá que estuvo contigo en el parque el domingo. #ninos #familia #peru",
-    "tt": "3 preguntas que tu hijo debe saber responder hoy. Mándaselo a la mamá con la que sales al parque. #ninos #familia",
-    "fb": "Muchos niños de cinco años saben decir su nombre, pero no el apellido ni cómo se llama su mamá. Se practica jugando en la mesa, sin ponerlos nerviosos."
+    "ig": "Qué debe saber decir un niño si se pierde. Su nombre y su apellido, los dos. El nombre real de su mamá, no «mamá». Y a quién le pide ayuda: una señora con niños es la primera opción que enseñan los especialistas, porque es la que se queda con él hasta el final. Lo importante es ensayarlo en el sitio de verdad, en el mercado o el mall, no en la mesa de la casa. Guárdalo para la próxima salida. #ninos #familia #peru",
+    "tt": "3 respuestas que tu hijo tiene que dar hoy. Mándaselo a la mamá con la que sales al parque. #ninos #familia",
+    "fb": "Muchos niños de cinco años saben decir su nombre, pero no el apellido ni cómo se llama su mamá. Y lo que de verdad cambia las cosas es ensayarlo en el sitio real, caminando, no explicándolo en la mesa."
    },
-   "alt": "Tres preguntas que un niño debe saber responder si se pierde."
+   "alt": "Tres respuestas que un niño debe saber dar si se pierde y cómo ensayarlas en el lugar real."
   },
   {
    "slug": "16-punto-de-encuentro",
@@ -735,8 +734,8 @@
     {
      "role": "value",
      "label": "CÓMO ES",
-     "h": "Fijo y *visible*",
-     "b": "La misma caja, la misma puerta"
+     "h": "La *caja* número uno",
+     "b": "Un sitio con nombre, no «la entrada»"
     },
     {
      "role": "value",
@@ -749,14 +748,14 @@
      "role": "value",
      "label": "PRUÉBALO",
      "h": "Que te *lleve* él",
-     "b": "Al entrar, camina hasta el punto"
+     "b": "Al entrar, camina hasta el punto solo"
     },
     {
      "role": "value",
      "photo": "familia-parque",
-     "label": "LA REGLA",
-     "h": "*Nadie* lo busca solo",
-     "b": "Uno se queda en el punto, siempre"
+     "label": "SI NO LLEGA",
+     "h": "Alguien se *queda* ahí",
+     "b": "El punto vale si hay quien espere"
     },
     {
      "role": "closer",
@@ -766,11 +765,11 @@
     }
    ],
    "caption": {
-    "ig": "Punto de encuentro familiar: cómo se elige uno que sí funcione. Fijo y visible, la misma caja o la misma puerta siempre. «Nos vemos afuera» no sirve porque un mall tiene seis salidas. Al entrar, que te lleve el niño caminando hasta el punto. Guárdalo para la próxima ida al mall. #familia #ninos #peru",
+    "ig": "Punto de encuentro familiar: cómo se elige uno que sí funcione. Tiene que tener nombre propio, tipo «la caja número uno», porque «nos vemos afuera» no sirve en un sitio con seis salidas. Y se prueba al entrar: que el niño te lleve caminando hasta el punto sin ayuda. Si alguien se pierde, uno del grupo se queda ahí. Guárdalo para la próxima ida al mall. #familia #ninos #peru",
     "tt": "Elige hoy el punto de encuentro de tu familia. ¿Tu hijo sabría llegar solo hasta él? #familia #ninos",
-    "fb": "«Nos vemos afuera» suena claro hasta que descubres que el sitio tiene seis salidas. El punto de encuentro tiene que ser uno solo, visible, y el niño debe poder llegar caminando sin ayuda."
+    "fb": "«Nos vemos afuera» suena claro hasta que descubres que el sitio tiene seis salidas. El punto tiene que tener nombre propio y el niño debe poder llegar caminando sin ayuda: eso se prueba el mismo día que entran."
    },
-   "alt": "Cómo elegir y practicar un punto de encuentro familiar en lugares llenos."
+   "alt": "Cómo elegir y practicar un punto de encuentro familiar con nombre propio."
   },
   {
    "slug": "17-a-quien-pedir-ayuda",
@@ -782,29 +781,29 @@
     },
     {
      "role": "value",
-     "label": "MAL",
-     "h": "«Busca un *policía*»",
-     "b": "En un mall o una feria no hay"
+     "label": "OPCIÓN 1",
+     "h": "Una señora con *niños*",
+     "b": "Es la que se queda con él hasta el final"
     },
     {
      "role": "value",
      "photo": "nino-mano",
-     "label": "BIEN",
-     "h": "La *caja* registradora",
-     "b": "Siempre hay alguien y no se mueve"
+     "label": "OPCIÓN 2",
+     "h": "El de la caja con *fotocheck*",
+     "b": "Tiene nombre puesto y no se mueve"
     },
     {
      "role": "value",
-     "label": "BIEN",
-     "h": "Una señora con *niños*",
-     "b": "Es la que sí se queda con él"
+     "label": "LA FRASE",
+     "h": "«Estoy *perdido*, ayúdeme»",
+     "b": "Aunque haya cola, que interrumpa"
     },
     {
      "role": "value",
      "photo": "nino-mochila",
-     "label": "LA FRASE",
-     "h": "«Estoy *perdido*»",
-     "b": "Que la diga en voz alta, completa"
+     "label": "SI LO MANDAN",
+     "h": "Que lo diga *otra* vez",
+     "b": "«Pero estoy perdido», sin moverse"
     },
     {
      "role": "closer",
@@ -814,9 +813,9 @@
     }
    ],
    "caption": {
-    "ig": "A quién debe pedir ayuda un niño perdido. «Busca un policía» falla porque en un mall o una feria no hay ninguno cerca. Enséñale dos opciones que siempre existen: la caja registradora, que no se mueve, y una señora con niños. Y una frase corta que diga en voz alta. ¿Tu hijo sabe cuál escogería? #ninos #familia #peru",
+    "ig": "A quién debe pedir ayuda un niño perdido. Los programas de seguridad infantil enseñan tres opciones y en ese orden de disponibilidad: una señora con niños, alguien de la tienda con fotocheck, o un policía uniformado si lo hay. La frase se ensaya completa: «disculpe, estoy perdido, necesito ayuda». Y si lo mandan a esperar, que lo repita sin moverse de ahí. ¿Tu hijo sabe cuál escogería? #ninos #familia #peru",
     "tt": "Tu hijo no va a encontrar un policía. Mándaselo a quien lleva a tus hijos cuando tú no puedes. #ninos #familia",
-    "fb": "Les enseñamos a buscar un policía y en un mall no hay ninguno. Dos referencias que siempre existen: la caja registradora y una señora con niños."
+    "fb": "Les enseñamos a buscar un policía y en un mall casi nunca hay uno cerca. Las dos referencias que sí existen siempre son una señora con niños y alguien de la tienda con fotocheck. Y hay que ensayar la frase, incluso la parte de insistir."
    },
    "alt": "A quién debe acercarse un niño perdido para pedir ayuda y qué frase decir."
   },
@@ -826,34 +825,33 @@
     {
      "role": "cover",
      "photo": "familia-parque",
-     "kicker": "DÍA DE LA FAMILIA",
-     "h": "Hoy salen todos juntos y nadie *revisó* nada"
+     "h": "Hoy salen todos juntos y nadie está *encargado*"
     },
     {
      "role": "value",
-     "label": "AL SALIR",
-     "h": "Foto del *día*",
-     "b": "De cuerpo entero, con la ropa puesta"
+     "label": "EN EL CARRO",
+     "h": "Un adulto por *niño*",
+     "b": "Dicho en voz alta y con nombre"
     },
     {
      "role": "value",
      "photo": "nino-mochila",
-     "label": "EN EL CARRO",
-     "h": "Un *encargado* por niño",
-     "b": "Dicho en voz alta, con nombre"
+     "label": "AL LLEGAR",
+     "h": "Caminen al *punto*",
+     "b": "Que lo toquen, no que lo señalen"
     },
     {
      "role": "value",
-     "label": "AL LLEGAR",
-     "h": "El punto de *encuentro*",
-     "b": "Señálalo con el dedo, todos lo ven"
+     "label": "LA REGLA",
+     "h": "Nadie se mueve sin *avisar*",
+     "b": "Ni al baño, ni al juego de al lado"
     },
     {
      "role": "value",
      "photo": "familia-parque",
-     "label": "CADA HORA",
-     "h": "Cuenta *cabezas*",
-     "b": "En voz alta, tocando a cada uno"
+     "label": "SI FALTA UNO",
+     "h": "Avisa al *toque*",
+     "b": "Al personal, antes de buscar solo"
     },
     {
      "role": "closer",
@@ -863,11 +861,11 @@
     }
    ],
    "caption": {
-    "ig": "Salidas familiares con muchos niños: la rutina de cuatro pasos. Foto del día de cuerpo entero antes de salir, un adulto encargado por niño dicho en voz alta, el punto de encuentro señalado con el dedo al llegar y contar cabezas cada hora tocando a cada uno. Guárdalo para el Día de la Familia. #familia #ninos #peru",
-    "tt": "Hoy salen todos juntos y nadie revisó nada. Mándaselo al primo que organiza las salidas de la familia. #familia #ninos",
+    "ig": "Salidas familiares con muchos niños: la rutina que sí funciona. Un adulto encargado por niño, dicho en voz alta y con nombre, porque «todos cuidan a todos» es lo mismo que nadie. Al llegar caminan hasta el punto de encuentro y lo tocan. Nadie se mueve sin avisar. Y si falta uno, se avisa al personal del local de inmediato, antes de salir a buscar por tu cuenta. Guárdalo para el Día de la Familia. #familia #ninos #peru",
+    "tt": "Hoy salen todos juntos y nadie está encargado. Mándaselo al primo que organiza las salidas de la familia. #familia #ninos",
     "fb": "En las salidas grandes todos cuidan a todos, que es lo mismo que decir que nadie cuida a nadie. Un adulto encargado por niño, dicho en voz alta, cambia el día entero."
    },
-   "alt": "Rutina de cuatro pasos para salidas familiares grandes en el Día de la Familia."
+   "alt": "Rutina de cuatro pasos para salidas familiares grandes con varios niños."
   },
   {
    "slug": "19-primera-combi-solo",
@@ -879,29 +877,29 @@
     },
     {
      "role": "value",
-     "label": "PASO 1",
-     "h": "Háganlo *juntos* tres veces",
+     "label": "ANTES",
+     "h": "Hagan la ruta *juntos*",
      "b": "Él manda, tú caminas atrás"
     },
     {
      "role": "value",
      "photo": "nino-mochila",
-     "label": "PASO 2",
-     "h": "El paradero *anterior*",
-     "b": "Si se pasa, baja en el siguiente"
+     "label": "ANTES",
+     "h": "Marquen dónde *pedir* ayuda",
+     "b": "Dos sitios abiertos de esa ruta"
     },
     {
      "role": "value",
-     "label": "PASO 3",
-     "h": "*Adelante*, cerca del chofer",
-     "b": "Nunca al fondo ni en la puerta"
+     "label": "EN EL CAMINO",
+     "h": "El celular *guardado*",
+     "b": "Mirando la calle, no la pantalla"
     },
     {
      "role": "value",
      "photo": "noche-calle",
-     "label": "LA SEÑAL",
-     "h": "Llama al *llegar*",
-     "b": "Una llamada de dos segundos"
+     "label": "SI ALGO CAMBIA",
+     "h": "Que *consulte* antes",
+     "b": "Cambiar de ruta no lo decide él"
     },
     {
      "role": "closer",
@@ -911,9 +909,9 @@
     }
    ],
    "caption": {
-    "ig": "Primera vez que un hijo viaja solo en transporte público. Háganlo juntos tres veces con él mandando y tú caminando atrás. Enséñale a bajar en el paradero anterior o en el siguiente si se pasa. Que vaya adelante, cerca del chofer. Y una llamada de dos segundos al llegar. Mándaselo a la mamá que ya está en esa etapa. #ninos #familia #lima",
-    "tt": "Tu hijo se sube solo a la combi por primera vez. ¿Ya hicieron la ruta juntos con él mandando? #ninos #familia",
-    "fb": "La primera vez que un chico viaja solo no es el día del estreno, son las tres veces anteriores en que hicieron la ruta juntos y él iba mandando. La llamada de dos segundos al llegar hace el resto."
+    "ig": "Primera vez que un hijo viaja solo en transporte público. Hagan la ruta juntos varias veces con él mandando y tú caminando atrás. Marquen dos sitios abiertos de esa ruta donde puede entrar a pedir ayuda. El celular en el bolsillo y la vista en la calle. Y la regla que sostiene todo: si algo cambia, consulta antes, no decide él. Mándaselo a la mamá que ya está en esa etapa. #ninos #familia #lima",
+    "tt": "Tu hijo se sube solo a la combi por primera vez. ¿Ya marcaron dónde puede entrar a pedir ayuda? #ninos #familia",
+    "fb": "La primera vez que un chico viaja solo no es el día del estreno, son las veces anteriores en que hicieron la ruta juntos y él iba mandando. Y sirve muchísimo marcar dos sitios abiertos del camino donde puede entrar a pedir ayuda."
    },
    "alt": "Cómo preparar a un hijo para viajar solo en transporte público por primera vez."
   },
@@ -923,47 +921,47 @@
     {
      "role": "cover",
      "photo": "nino-mochila",
-     "h": "Quién recoge a tu hijo si tú no *llegas*"
+     "h": "La palabra secreta no va a *salvar* a tu hijo"
     },
     {
      "role": "value",
-     "label": "LA LISTA",
-     "h": "*Dos* nombres, no cinco",
-     "b": "Escritos en el colegio, no dichos"
+     "label": "POR QUÉ",
+     "h": "Con miedo la *olvida*",
+     "b": "Y se la sacan preguntando de frente"
     },
     {
      "role": "value",
      "photo": "nino-mano",
-     "label": "LA CLAVE",
-     "h": "Una palabra *secreta*",
-     "b": "Sin ella no sube a ningún auto"
+     "label": "EN VEZ DE ESO",
+     "h": "Tú le dices *quién* lo recoge",
+     "b": "Esa mañana, con nombre y cara"
     },
     {
      "role": "value",
-     "label": "EL CAMBIO",
-     "h": "Avisa *tú*, no él",
-     "b": "Un mensaje del niño no vale de aviso"
+     "label": "LA REGLA",
+     "h": "Si no lo *esperaba*, consulta",
+     "b": "«Tengo que preguntar primero»"
     },
     {
      "role": "value",
      "photo": "mercado",
-     "label": "EL ENSAYO",
-     "h": "«Hoy viene tu *tía*»",
-     "b": "Pregúntale qué haría si nadie llega"
+     "label": "CONSULTAR ES",
+     "h": "*Llamarte* o buscar a la profe",
+     "b": "No decidirlo él solo en la puerta"
     },
     {
      "role": "closer",
      "img": "pulsera.png",
      "h": "Cuando el plan se *cae*",
-     "b": "La «pulsera» ComeHomeTag lleva tu contacto en un QR: el adulto que encuentre a tu hijo te llama."
+     "b": "La «pulsera» ComeHomeTag lleva tu contacto en un QR: el adulto que ayude a tu hijo te llama."
     }
    ],
    "caption": {
-    "ig": "Quién puede recoger a tu hijo del colegio: cómo se organiza. Dos nombres escritos en el colegio, no cinco dichos de palabra. Una palabra secreta sin la cual no sube a ningún auto. Los cambios los avisas tú, no él. Y ensáyenlo con un «hoy viene tu tía». Guárdalo antes del lunes. #ninos #colegio #peru",
-    "tt": "Quién recoge a tu hijo si tú no llegas. Mándaselo a quien lo recoge cuando tú te atrasas. #ninos #colegio",
-    "fb": "La palabra secreta es lo más simple y lo que más tranquiliza: si el adulto que lo recoge no la sabe, el niño no sube. Y los cambios de plan se avisan de adulto a adulto."
+    "ig": "Quién recoge a tu hijo del colegio: por qué la palabra secreta ya no se recomienda. Los especialistas en seguridad infantil la desaconsejan porque el niño la olvida cuando tiene miedo y porque se la sacan preguntando. Lo que sí funciona es decirle esa mañana quién lo va a recoger, y enseñarle una sola frase para todo lo demás: «tengo que preguntar primero». Guárdalo antes del lunes. #ninos #colegio #peru",
+    "tt": "La palabra secreta no va a salvar a tu hijo. Mándaselo a quien lo recoge cuando tú te atrasas. #ninos #colegio",
+    "fb": "La palabra secreta tranquiliza a los papás y complica al niño: la olvida con miedo y se la sacan preguntando. Lo que enseñan hoy es más simple: tú le dices en la mañana quién lo recoge, y si aparece otra persona, él consulta antes de moverse."
    },
-   "alt": "Cómo organizar quién recoge a un niño del colegio, con lista corta y palabra secreta."
+   "alt": "Por qué la palabra secreta no funciona y qué hacer en su lugar cuando alguien más recoge a tu hijo."
   },
   {
    "slug": "21-de-noche-no-reconoce",
@@ -976,28 +974,28 @@
     {
      "role": "value",
      "label": "POR QUÉ",
-     "h": "Cambian las *referencias*",
-     "b": "Tiendas cerradas y rejas abajo"
+     "h": "Sus referencias *cierran*",
+     "b": "Con las rejas abajo es otra cuadra"
     },
     {
      "role": "value",
      "photo": "noche-calle",
-     "label": "HAZ ESTO",
-     "h": "Caminen de *noche*",
-     "b": "La misma cuadra, una vez, sin apuro"
+     "label": "HAZLO ASÍ",
+     "h": "Caminen la ruta *de noche*",
+     "b": "A la hora real, no a las cinco"
     },
     {
      "role": "value",
-     "label": "LA MARCA",
-     "h": "Elijan *un* punto fijo",
-     "b": "Un poste, una bodega, una reja"
+     "label": "MARQUEN",
+     "h": "Dos sitios *abiertos*",
+     "b": "Grifo, farmacia o caseta de vigilancia"
     },
     {
      "role": "value",
      "photo": "nino-mochila",
-     "label": "LA ROPA",
-     "h": "Algo *claro* encima",
-     "b": "De noche el oscuro no se ve de lejos"
+     "label": "LA REGLA",
+     "h": "Si se pierde, se *queda*",
+     "b": "Parado donde haya gente y luz"
     },
     {
      "role": "closer",
@@ -1007,11 +1005,11 @@
     }
    ],
    "caption": {
-    "ig": "Niños que se desorientan de noche cerca de casa. De día se guían por las tiendas y de noche están cerradas, con las rejas abajo, así que la calle deja de parecerse. Caminen la misma cuadra de noche una vez, elijan un punto fijo y pónganle algo claro encima. ¿Tu hijo reconocería su cuadra a las ocho? #ninos #familia #lima",
+    "ig": "Niños que se desorientan de noche cerca de casa. De día se guían por las tiendas, y de noche están cerradas con las rejas abajo, así que la cuadra deja de parecerse. Caminen la ruta a la hora real en que la hace, marquen dos sitios que sí estén abiertos a esa hora y déjenle una sola regla: si se pierde, se queda parado donde haya gente y luz. ¿Tu hijo reconocería su cuadra a las ocho? #ninos #familia #lima",
     "tt": "De noche tu hijo no reconoce su propia calle. Mándaselo a quien camina con tus hijos de vuelta a casa. #ninos #familia",
-    "fb": "Los chicos se orientan por las tiendas abiertas, y de noche la misma cuadra parece otra. Caminarla juntos una vez a esa hora resuelve más de lo que parece."
+    "fb": "Los chicos se orientan por las tiendas abiertas, y de noche la misma cuadra parece otra. Caminarla juntos una vez a esa hora y marcar dos sitios abiertos donde pueda entrar resuelve más de lo que parece."
    },
-   "alt": "Por qué un niño no reconoce su calle de noche y cómo practicarlo con él."
+   "alt": "Por qué un niño no reconoce su calle de noche y cómo practicar la ruta a esa hora."
   },
   {
    "slug": "22-mitos-abuelo",
@@ -1024,28 +1022,28 @@
     {
      "role": "value",
      "label": "MITO 1",
-     "h": "«Conoce el *barrio*»",
-     "b": "El barrio de hace treinta años"
+     "h": "«A él no le va a *pasar*»",
+     "b": "6 de cada 10 con demencia se pierden"
     },
     {
      "role": "value",
      "photo": "abuelo",
      "label": "MITO 2",
-     "h": "«Tiene su *celular*»",
-     "b": "Sin cargar y con clave olvidada"
+     "h": "«Todavía está *bien*»",
+     "b": "Pasa desde el inicio, no solo al final"
     },
     {
      "role": "value",
      "label": "MITO 3",
-     "h": "«Nunca sale *solo*»",
-     "b": "Sale a la bodega y no avisa"
+     "h": "«Conoce el *barrio*»",
+     "b": "Lo primero que se olvida es la ruta"
     },
     {
      "role": "value",
      "photo": "noche-calle",
      "label": "MITO 4",
-     "h": "«Nos *avisaría*»",
-     "b": "Esconde que se perdió, para no asustar"
+     "h": "«Nunca sale *solo*»",
+     "b": "Empieza volviendo tarde de la esquina"
     },
     {
      "role": "closer",
@@ -1055,11 +1053,11 @@
     }
    ],
    "caption": {
-    "ig": "Mitos sobre cuidar a un adulto mayor que sale solo. «Conoce el barrio», el de hace treinta años. «Tiene celular», descargado y con clave olvidada. «Nunca sale solo», salvo a la bodega. Y «nos avisaría», cuando en realidad esconde que se perdió para no asustar a nadie. Guárdalo para la próxima visita a casa de tus papás. #abuelos #adultomayor #peru",
+    "ig": "Mitos sobre cuidar a un adulto mayor con demencia. «A él no le va a pasar»: seis de cada diez personas con demencia se pierden al menos una vez. «Todavía está bien»: puede pasar en cualquier etapa, no solo al final. «Conoce el barrio»: una de las primeras señales es olvidar la ruta a lugares de siempre. Y suele empezar con algo tan chico como volver tarde de la esquina. Guárdalo para la próxima visita a casa de tus papás. #abuelos #adultomayor #peru",
     "tt": "4 cosas que crees que cuidan a tu abuelo y no lo hacen. ¿Cuál de las cuatro dices tú? #abuelos #adultomayor",
-    "fb": "Lo que más sorprende a las familias es lo último: muchos adultos mayores esconden que se desorientaron, justamente para no preocupar a los hijos."
+    "fb": "Lo que más sorprende a las familias es que esto no espera a la etapa avanzada: puede pasar en cualquier momento de la enfermedad, y casi siempre empieza con algo tan chico como volver tarde de un paseo de siempre."
    },
-   "alt": "Cuatro creencias sobre el cuidado de un adulto mayor que no lo protegen si se pierde."
+   "alt": "Cuatro creencias sobre el cuidado de un adulto mayor con demencia que no lo protegen."
   },
   {
    "slug": "23-un-senor-perdido",
@@ -1072,28 +1070,28 @@
     {
      "role": "value",
      "label": "PASO 1",
-     "h": "No lo *contradigas*",
-     "b": "Si da otra dirección, acompáñalo"
+     "h": "Ponte *delante* y saluda",
+     "b": "Di tu nombre antes que nada"
     },
     {
      "role": "value",
      "photo": "abuela",
      "label": "PASO 2",
-     "h": "Mira sus *muñecas*",
-     "b": "Pulsera, tarjeta o QR con contacto"
+     "h": "No lo *corrijas*",
+     "b": "Aunque esa dirección ya no exista"
     },
     {
      "role": "value",
      "label": "PASO 3",
-     "h": "Quédate y *llama*",
-     "b": "Serenazgo o comisaría, desde ahí"
+     "h": "Mira sus *muñecas*",
+     "b": "Pulsera, tarjeta o QR con un número"
     },
     {
      "role": "value",
      "photo": "noche-calle",
-     "label": "EL ERROR",
-     "h": "Dejarlo *«ahí nomás»*",
-     "b": "Camina de nuevo apenas te vayas"
+     "label": "PASO 4",
+     "h": "*Quédate* y llama",
+     "b": "Di que puede tener demencia"
     },
     {
      "role": "closer",
@@ -1103,9 +1101,9 @@
     }
    ],
    "caption": {
-    "ig": "Qué hacer si un adulto mayor perdido te pide ayuda en la calle. No contradecirlo aunque dé una dirección que ya no existe. Mirar sus muñecas por si lleva pulsera, tarjeta o QR con un contacto. Quedarse con él y llamar a serenazgo desde ahí mismo. Y nunca dejarlo «ahí nomás». Mándaselo a quien camina esa ruta contigo. #abuelos #adultomayor #peru",
-    "tt": "Un señor te pregunta dónde queda su casa. Mándaselo a quien atiende en la bodega de tu cuadra. #abuelos #adultomayor",
-    "fb": "Contradecir a alguien que está desorientado solo lo asusta. Acompáñalo, revisa si lleva algo con un contacto y llama a serenazgo sin moverte del sitio."
+    "ig": "Qué hacer si un adulto mayor desorientado te pide ayuda en la calle. Ponte delante de él y di tu nombre antes que nada. No lo corrijas aunque la dirección que da ya no exista, porque corregir asusta y no ayuda. Mírale las muñecas por si lleva pulsera, tarjeta o QR con un contacto. Y quédate con él mientras llamas, avisando que puede tener demencia. Mándaselo a quien atiende la bodega de tu cuadra. #abuelos #adultomayor #peru",
+    "tt": "Un señor te pregunta dónde queda su casa. ¿Sabes qué se hace primero? #abuelos #adultomayor",
+    "fb": "Contradecir a alguien que está desorientado solo lo asusta. Lo que enseñan los especialistas es ponerse delante, presentarse, no corregir, revisar si lleva algo con un contacto y quedarse con él mientras se pide ayuda."
    },
    "alt": "Cuatro pasos para ayudar a un adulto mayor desorientado que encuentras en la calle."
   },
@@ -1115,34 +1113,33 @@
     {
      "role": "cover",
      "photo": "abuela",
-     "kicker": "MES DEL ALZHEIMER",
-     "h": "Salir a caminar sin rumbo tiene *nombre*"
+     "h": "Salir a caminar sin rumbo tiene nombre y *hora*"
     },
     {
      "role": "value",
-     "label": "QUÉ ES",
-     "h": "Se llama *deambular*",
-     "b": "Va a hacer algo de hace años"
+     "label": "LA HORA",
+     "h": "Cuando *cae* la luz",
+     "b": "Al atardecer se confunde más"
     },
     {
      "role": "value",
      "photo": "abuela",
-     "label": "LA HORA",
-     "h": "Al *atardecer*",
-     "b": "Suele empezar cuando cae la luz"
+     "label": "POR QUÉ",
+     "h": "Va a hacer algo de *antes*",
+     "b": "Al trabajo viejo, a recoger a un hijo"
     },
     {
      "role": "value",
      "label": "QUÉ HACER",
-     "h": "No lo *frenes* en seco",
+     "h": "No lo *frenes* en la puerta",
      "b": "Camina con él y ve girando el rumbo"
     },
     {
      "role": "value",
      "photo": "noche-calle",
-     "label": "SI YA SALIÓ",
-     "h": "Busca *hacia* su pasado",
-     "b": "Su casa antigua, su antiguo trabajo"
+     "label": "ANTES",
+     "h": "Llénale la *tarde*",
+     "b": "Rutina y algo que hacer a esa hora"
     },
     {
      "role": "closer",
@@ -1152,11 +1149,11 @@
     }
    ],
    "caption": {
-    "ig": "Deambular en Alzheimer: por qué salen a caminar sin rumbo y qué hacer. Suele empezar al atardecer y casi siempre van a hacer algo que hacían hace años. No los frenes en seco, camina con ellos y ve girando el rumbo. Si ya salió, busca hacia su pasado: la casa antigua, el antiguo trabajo. Guárdalo para el mes del Alzheimer. #alzheimer #adultomayor #peru",
+    "ig": "Deambular en demencia: por qué salen a caminar sin rumbo y a qué hora. Suele aparecer al caer la luz, con el atardecer, y casi siempre van a hacer algo que hacían años atrás: ir al trabajo, recoger a un hijo. No los frenes en seco en la puerta: camina con ellos y ve girando el rumbo. Y lo que más lo reduce es tener la tarde ocupada con rutina. Guárdalo para el mes del Alzheimer. #alzheimer #adultomayor #peru",
     "tt": "Salir a caminar sin rumbo tiene nombre y hora. ¿Sabías que suele empezar al atardecer? #alzheimer #adultomayor",
-    "fb": "Quien deambula no está huyendo: va a hacer algo que hacía hace años, y por eso aparece cerca de su casa antigua o de su antiguo trabajo. Frenarlo de golpe asusta, caminar con él y girar el rumbo funciona."
+    "fb": "Quien deambula no está huyendo: va a hacer algo que hacía hace años. Y hay un patrón que las familias reconocen apenas lo escuchan: empieza al caer la luz, cuando la casa se llena de sombras."
    },
-   "alt": "Qué es el deambular en el Alzheimer, a qué hora ocurre y cómo acompañarlo."
+   "alt": "Qué es el deambular en la demencia, a qué hora ocurre y cómo acompañarlo."
   },
   {
    "slug": "25-alzheimer-preguntar-otra-vez",
@@ -1164,14 +1161,13 @@
     {
      "role": "cover",
      "photo": "abuela",
-     "kicker": "DÍA MUNDIAL DEL ALZHEIMER",
      "h": "Tu mamá te va a preguntar *lo mismo* otra vez"
     },
     {
      "role": "value",
      "label": "ASÍ NO",
      "h": "«Ya te *dije*»",
-     "b": "Así sí: contesta como si fuera la primera"
+     "b": "Así sí: contéstale igual de bien"
     },
     {
      "role": "value",
@@ -1183,15 +1179,15 @@
     {
      "role": "value",
      "label": "ASÍ NO",
-     "h": "Hablar *rápido*",
-     "b": "Así sí: una idea por vez, de frente"
+     "h": "Dos ideas de *golpe*",
+     "b": "Así sí: una pregunta por vez, despacio"
     },
     {
      "role": "value",
      "photo": "abuelo",
      "label": "ASÍ NO",
-     "h": "Corregir su *recuerdo*",
-     "b": "Así sí: acompaña y cambia de tema"
+     "h": "Corregirle el *dato*",
+     "b": "Así sí: busca qué necesita detrás"
     },
     {
      "role": "closer",
@@ -1201,9 +1197,9 @@
     }
    ],
    "caption": {
-    "ig": "Cómo hablarle a una persona con Alzheimer, con ejemplos. En vez de «ya te dije», contesta como si fuera la primera vez. En vez de «no te acuerdas», preséntate tú. Habla despacio, de frente, una idea por vez. Y no corrijas el recuerdo: acompaña y cambia de tema. Guárdalo para la próxima visita. #alzheimer #abuelos #peru",
+    "ig": "Cómo hablarle a una persona con Alzheimer, con ejemplos. En vez de «ya te dije», dale la respuesta las veces que haga falta. En vez de «no te acuerdas», preséntate tú de frente y con tu nombre. Una pregunta por vez, despacio, dándole tiempo. Y no corrijas el dato: la pregunta repetida casi siempre tapa una necesidad, así que busca qué hay detrás. Guárdalo para la próxima visita. #alzheimer #abuelos #peru",
     "tt": "Tu mamá te va a preguntar lo mismo otra vez. Mándaselo a quien la cuida el resto de la semana. #alzheimer #abuelos",
-    "fb": "«¿No te acuerdas quién soy?» duele y no ayuda: preséntate tú, despacio y de frente. Y si el recuerdo está equivocado, acompaña la emoción en vez de corregir el dato."
+    "fb": "«¿No te acuerdas quién soy?» duele y no ayuda: acércate de frente y preséntate tú. Y cuando la pregunta se repite mucho, sirve fijarse a qué hora y con quién pasa: casi siempre hay una necesidad detrás."
    },
    "alt": "Cuatro formas de hablarle a una persona con Alzheimer, con el así no y el así sí."
   },
@@ -1213,33 +1209,33 @@
     {
      "role": "cover",
      "photo": "noche-calle",
-     "h": "Tu abuelo no llega y ya pasó una *hora*"
+     "h": "Tu abuelo no llega: los primeros *15 minutos*"
     },
     {
      "role": "value",
      "label": "MINUTO 1",
-     "h": "Revisa la *casa*",
-     "b": "Baño, azotea, patio, tras la puerta"
+     "h": "Revisa *dentro* de la casa",
+     "b": "Azotea, patio y detrás de las puertas"
     },
     {
      "role": "value",
      "photo": "abuelo",
-     "label": "MINUTO 5",
-     "h": "Sus lugares *viejos*",
-     "b": "Casa antigua, mercado, su iglesia"
+     "label": "MINUTO 3",
+     "h": "Sal hacia su mano *buena*",
+     "b": "Suele doblar hacia el lado que escribe"
     },
     {
      "role": "value",
-     "label": "MINUTO 10",
-     "h": "*Denuncia* ya",
-     "b": "No hay que esperar 24 horas"
+     "label": "MINUTO 5",
+     "h": "Mira cerca del *agua*",
+     "b": "Acequias, parques y arbustos del barrio"
     },
     {
      "role": "value",
      "photo": "abuela",
-     "label": "LA FOTO",
-     "h": "Manda la de *hoy*",
-     "b": "Con la ropa que lleva puesta hoy"
+     "label": "MINUTO 15",
+     "h": "*Denuncia* ya",
+     "b": "Di que tiene demencia y no esperes"
     },
     {
      "role": "closer",
@@ -1249,11 +1245,11 @@
     }
    ],
    "caption": {
-    "ig": "Adulto mayor que no llega a casa: qué hacer en la primera hora. Revisa la casa entera, incluida la azotea y detrás de las puertas. Sigue por sus lugares viejos, la casa antigua, el mercado, su iglesia. Denuncia de inmediato, no hay que esperar 24 horas. Y manda la foto de hoy, con la ropa de hoy. Guárdalo antes de que haga falta. #abuelos #adultomayor #peru",
-    "tt": "Tu abuelo no llega y ya pasó una hora. Mándaselo al hermano con el que te repartes el cuidado. #abuelos #adultomayor",
-    "fb": "Lo de esperar 24 horas para denunciar es un mito que cuesta caro. Se denuncia de inmediato, con la foto de hoy y la ropa que lleva puesta hoy."
+    "ig": "Adulto mayor que no llega a casa: qué hacer en los primeros quince minutos. Revisa la casa entera, incluida la azotea y detrás de las puertas. Sal en la dirección de su mano dominante, porque quien deambula suele doblar hacia ese lado. Mira cerca del agua, los parques y los arbustos del barrio. Y a los quince minutos denuncia, diciendo que tiene demencia: la ley obliga a atenderla de inmediato. Guárdalo antes de que haga falta. #abuelos #adultomayor #peru",
+    "tt": "Tu abuelo no llega y ya pasaron quince minutos. Mándaselo al hermano con el que te repartes el cuidado. #abuelos #adultomayor",
+    "fb": "Hay un detalle que casi nadie sabe y que usan los equipos de búsqueda: quien deambula tiende a doblar hacia el lado de su mano dominante. Y lo de esperar 24 horas para denunciar es un mito: en estos casos la denuncia se atiende de inmediato."
    },
-   "alt": "Qué hacer en la primera hora cuando un adulto mayor no llega a casa."
+   "alt": "Qué hacer en los primeros quince minutos cuando un adulto mayor con demencia no llega a casa."
   },
   {
    "slug": "27-afiche-del-abuelo",
@@ -1261,20 +1257,7 @@
     {
      "role": "cover",
      "photo": "abuelo",
-     "h": "El afiche de *«SE BUSCA»* de tu abuelo llega tarde"
-    },
-    {
-     "role": "value",
-     "label": "LA FOTO",
-     "h": "De *este* mes",
-     "b": "La de su cumpleaños ya no se parece"
-    },
-    {
-     "role": "value",
-     "photo": "abuelo",
-     "label": "LA ROPA",
-     "h": "Qué llevaba *puesto*",
-     "b": "Color de chompa y de zapatos"
+     "h": "El afiche de tu abuelo tiene que decir *demencia*"
     },
     {
      "role": "value",
@@ -1284,9 +1267,22 @@
     },
     {
      "role": "value",
+     "photo": "abuelo",
+     "label": "LA FOTO",
+     "h": "De la *cara*, de este mes",
+     "b": "De cerca, no la del cumpleaños"
+    },
+    {
+     "role": "value",
+     "label": "LA ROPA",
+     "h": "Qué llevaba *puesto* hoy",
+     "b": "Color de chompa, pantalón y zapatos"
+    },
+    {
+     "role": "value",
      "photo": "mercado",
      "label": "DÓNDE",
-     "h": "Pega en su *ruta*",
+     "h": "En su *lista* de siempre",
      "b": "Mercado, paradero, parroquia, bodega"
     },
     {
@@ -1297,11 +1293,11 @@
     }
    ],
    "caption": {
-    "ig": "Afiche de adulto mayor perdido: qué tiene que decir. Foto de este mes, porque la del cumpleaños ya no se parece. La ropa que llevaba puesta, con color de chompa y zapatos. Decir que tiene Alzheimer, porque cambia cómo lo trata quien lo ve. Y pegarlo en su ruta de siempre. Mándaselo a quien vive con tus papás. #abuelos #alzheimer #peru",
-    "tt": "El afiche de «se busca» de tu abuelo llega tarde. ¿Tienes una foto suya de este mes? #abuelos #alzheimer",
-    "fb": "El afiche que sirve no es el más bonito: foto de este mes, la ropa exacta que llevaba y decir que tiene Alzheimer, para que quien lo vea sepa cómo acercarse."
+    "ig": "Afiche de adulto mayor perdido: qué tiene que decir. Que tiene demencia, porque cambia por completo cómo se le acerca quien lo encuentra. Una foto de la cara tomada este mes, de cerca, no la del cumpleaños. La ropa exacta que llevaba hoy, con colores. Y pegarlo en su lista de lugares de siempre: mercado, paradero, parroquia, bodega. Mándaselo a quien vive con tus papás. #abuelos #alzheimer #peru",
+    "tt": "El afiche de tu abuelo tiene que decir una palabra que casi nadie pone. ¿Sabes cuál? #abuelos #alzheimer",
+    "fb": "El afiche que sirve no es el más bonito: foto de la cara de este mes, la ropa exacta que llevaba y la palabra demencia, para que quien lo vea sepa cómo acercarse y no lo deje seguir de largo."
    },
-   "alt": "Qué información debe llevar el afiche de un adulto mayor perdido y dónde pegarlo."
+   "alt": "Qué información debe llevar el afiche de un adulto mayor con demencia y dónde pegarlo."
   },
   {
    "slug": "28-abuelo-celular",
@@ -1313,29 +1309,29 @@
     },
     {
      "role": "value",
-     "label": "LA VERDAD",
-     "h": "Perdido no lo *saca*",
-     "b": "Con miedo no busca en un menú"
+     "label": "PRUEBA 1",
+     "h": "Pídele que te *llame*",
+     "b": "Ahora, delante de ti y sin ayuda"
     },
     {
      "role": "value",
      "photo": "abuelo",
-     "label": "PRUEBA 1",
-     "h": "Pídele que te *llame*",
-     "b": "Ahora, delante de ti, sin ayuda"
+     "label": "PRUEBA 2",
+     "h": "Pregúntale la *clave*",
+     "b": "Si duda, en la calle ya no sirve"
     },
     {
      "role": "value",
-     "label": "PRUEBA 2",
-     "h": "Pregúntale la *clave*",
-     "b": "Si duda, afuera ya no le sirve"
+     "label": "EL PROBLEMA",
+     "h": "Lo tiene que sacar *él*",
+     "b": "Perdido y asustado no busca un menú"
     },
     {
      "role": "value",
      "photo": "abuela",
-     "label": "EL PLAN B",
-     "h": "Algo que no se *apague*",
-     "b": "Encima, sin clave y sin batería"
+     "label": "LO QUE SÍ",
+     "h": "Algo que lea *otro*",
+     "b": "Lo usa quien lo encuentra, no él"
     },
     {
      "role": "closer",
@@ -1345,11 +1341,11 @@
     }
    ],
    "caption": {
-    "ig": "El celular del abuelo no siempre es un plan de seguridad. Perdido y asustado no lo saca ni busca en un menú. Haz dos pruebas hoy: que te llame delante de ti sin ayuda, y pregúntale la clave. Si duda, afuera ese celular ya no le sirve. Guárdalo para el próximo domingo en familia. #abuelos #adultomayor #peru",
+    "ig": "El celular del abuelo no es un plan de seguridad. Haz dos pruebas hoy: pídele que te llame delante de ti sin ayuda, y pregúntale la clave. Si duda, en la calle ese celular ya no le sirve. El problema de fondo es que el celular lo tiene que sacar él, y perdido y asustado no busca en un menú. Lo que funciona es algo puesto encima que pueda leer quien lo encuentra. Guárdalo para el próximo domingo en familia. #abuelos #adultomayor #peru",
     "tt": "Tu abuelo tiene celular y no lo va a usar. Mándaselo al hermano que le compró el celular. #abuelos #adultomayor",
-    "fb": "Le compramos un celular y quedamos tranquilos. La prueba real es pedirle que te llame delante de ti, sin ayuda: ahí se ve si de verdad le sirve en la calle."
+    "fb": "Le compramos un celular y quedamos tranquilos. La diferencia real es esta: el celular lo tiene que usar él, y lo que se lleva puesto lo usa quien lo encuentra. Por eso los programas de búsqueda recomiendan lo segundo."
    },
-   "alt": "Dos pruebas para saber si el celular de un adulto mayor le sirve realmente si se pierde."
+   "alt": "Dos pruebas para saber si el celular de un adulto mayor le sirve de verdad si se pierde."
   },
   {
    "slug": "29-abuela-mercado",
@@ -1362,28 +1358,28 @@
     {
      "role": "value",
      "label": "POR QUÉ",
-     "h": "Cambian los *puestos*",
-     "b": "Otro toldo y el pasillo es otro"
+     "h": "El sitio *cambió*, no ella",
+     "b": "Se desorienta donde todo se movió"
     },
     {
      "role": "value",
      "photo": "mercado",
-     "label": "ACUERDEN",
-     "h": "Un puesto *fijo*",
-     "b": "El de la casera que la conoce"
+     "label": "POR QUÉ",
+     "h": "El gentío la *marea*",
+     "b": "El bullicio la pone nerviosa"
     },
     {
      "role": "value",
-     "label": "LA VUELTA",
-     "h": "*Siempre* la misma ruta",
-     "b": "Ida y vuelta por la misma calle"
+     "label": "HAGAN ESTO",
+     "h": "Vayan a la hora *vacía*",
+     "b": "Temprano, con los pasillos libres"
     },
     {
      "role": "value",
      "photo": "abuela",
-     "label": "LA BOLSA",
-     "h": "Nada en la *mano*",
-     "b": "Con las manos llenas no pide ayuda"
+     "label": "Y ESTO",
+     "h": "La misma *ruta* siempre",
+     "b": "La rutina sostiene más que el aviso"
     },
     {
      "role": "closer",
@@ -1393,11 +1389,11 @@
     }
    ],
    "caption": {
-    "ig": "Adultos mayores que se desorientan en el mercado de toda la vida. Los puestos cambian de sitio y el pasillo deja de reconocerse. Acuerden un puesto fijo, el de la casera que la conoce, la misma ruta de ida y de vuelta, y que lleve las manos libres. ¿Tu abuela va sola al mercado? #abuelos #adultomayor #peru",
+    "ig": "Adultos mayores que se desorientan en el mercado de toda la vida. No es que ella esté peor: verse perdido en un sitio que cambió y ponerse nervioso entre mucha gente son dos de las señales que describen los especialistas. Vayan a la hora vacía, temprano, con los pasillos libres, y siempre por la misma ruta, porque la rutina sostiene mucho más que cualquier explicación. ¿Tu abuela va sola al mercado? #abuelos #adultomayor #peru",
     "tt": "Tu abuela se pierde en el mercado de siempre. Mándaselo a quien la acompaña los días de compra. #abuelos #adultomayor",
-    "fb": "El mercado cambia todo el tiempo: se mueve un toldo y el pasillo ya no se reconoce. Un puesto fijo acordado con la casera es el mejor punto de encuentro que existe."
+    "fb": "El mercado cambia todo el tiempo, y desorientarse en un sitio conocido que se movió es una de las señales que describen los especialistas. Ir temprano, con los pasillos libres y por la misma ruta ayuda más de lo que uno cree."
    },
-   "alt": "Por qué un adulto mayor se desorienta en el mercado conocido y cómo acordar un punto fijo."
+   "alt": "Por qué un adulto mayor se desorienta en el mercado conocido y cómo organizar la salida."
   },
   {
    "slug": "30-que-lleva-encima",
@@ -1411,27 +1407,27 @@
      "role": "value",
      "label": "UNO",
      "h": "Su *nombre* completo",
-     "b": "Escrito, no solo el apodo de casa"
+     "b": "Escrito, no el apodo de la casa"
     },
     {
      "role": "value",
      "photo": "abuelo",
      "label": "DOS",
      "h": "*Dos* teléfonos",
-     "b": "El tuyo y otro que sí contesta"
+     "b": "El tuyo y otro que sí conteste"
     },
     {
      "role": "value",
      "label": "TRES",
-     "h": "Su *dirección* con referencia",
-     "b": "Cuadra, esquina, color de puerta"
+     "h": "Que tiene *demencia*",
+     "b": "Quien lo ayude necesita saberlo"
     },
     {
      "role": "value",
      "photo": "abuela",
      "label": "CUATRO",
-     "h": "Su *condición*",
-     "b": "Alzheimer, diabetes o sordera"
+     "h": "Sus *medicinas*",
+     "b": "Y a qué es alérgico, por si acaso"
     },
     {
      "role": "closer",
@@ -1441,11 +1437,11 @@
     }
    ],
    "caption": {
-    "ig": "Qué datos debe llevar encima un adulto mayor que sale solo. Nombre completo escrito, dos teléfonos, la dirección con referencia de cuadra y esquina, y la condición de salud que quien lo ayude necesita saber. Guárdalo para armarlo este fin de semana. #abuelos #adultomayor #peru",
+    "ig": "Qué datos debe llevar encima un adulto mayor que sale solo. Su nombre completo escrito, no el apodo de la casa. Dos teléfonos, el tuyo y otro que sí conteste. Que tiene demencia, porque cambia cómo lo tratan quienes lo ayudan. Y sus medicinas y alergias, que es lo primero que pregunta cualquier emergencia. Guárdalo para armarlo este fin de semana. #abuelos #adultomayor #peru",
     "tt": "Qué debe llevar encima tu abuelo al salir. ¿Cuál de los cuatro datos le falta al tuyo? #abuelos #adultomayor",
-    "fb": "Cuatro datos encima y una salida deja de dar miedo: nombre completo, dos teléfonos, dirección con referencia y la condición de salud."
+    "fb": "Cuatro datos encima y una salida deja de dar miedo: nombre completo, dos teléfonos, la condición de salud y las medicinas. Es lo mismo que piden los servicios de emergencia cuando encuentran a alguien desorientado."
    },
-   "alt": "Cuatro datos que debe llevar encima un adulto mayor cuando sale solo."
+   "alt": "Cuatro datos que debe llevar encima un adulto mayor que sale solo."
   }
  ]
 }

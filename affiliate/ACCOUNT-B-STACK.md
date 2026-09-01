@@ -6,6 +6,13 @@
 The money account. Text plates out of `tools/render.py`, zero image cost, and
 $15–80 per conversion with a recurring tail instead of Temu's $2.
 
+> **STATE, 2026-09-01.** 20 posts written and rendered:
+> `brands/servicestack/posts/sep.json` → `brands/servicestack/out/sep/`. They
+> carry the `#ad` disclosure and point at the bio list. **Blocked on one thing
+> only:** the Systeme.io, Hostinger and Fiverr affiliate signups, plus the free
+> Systeme.io account that hosts the bio page. Until those exist the closers
+> point at a list that is not built yet, so do those before the first publish.
+
 ## The angle, and why it isn't "10 AI tools you need"
 
 That post has been made four million times by people who have never run a

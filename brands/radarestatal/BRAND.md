@@ -198,18 +198,29 @@ Verificadas contra norma y fuente oficial. **Ningún post puede contradecirlas.*
    "renovar el RNP" ni "RNP vencido". Lo que sí existe: quedar **no habido** o
    con el RUC de baja, o estar **inhabilitado** por sanción (registro público
    del OECE). Se dice "RNP activo / habilitado", nunca "RNP vigente hasta".
-3. **Las contrataciones ≤8 UIT no son procesos de selección.** Están excluidas
-   del ámbito de la Ley 32069: no hay convocatoria a la que "postular" en el
-   SEACE — la entidad pide cotizaciones directamente. Lo que se publica es el
-   **registro de contratos menores** (objeto, RUC del proveedor elegido, monto,
-   fecha, número de cotizaciones): un registro EX POST. Su uso correcto en
-   contenido es de inteligencia ("quién compra lo tuyo y a quién se lo compra,
-   para saber a qué entidad cotizarle"), nunca "postula ahí". UIT 2026:
-   S/ 5,500 → tope de 8 UIT = S/ 44,000.
-4. **Valor estimado ≠ valor referencial.** "Valor estimado" es para bienes y
-   servicios; "valor referencial" para consultoría y ejecución de obras. Es
-   público por regla; solo excepcionalmente la entidad lo reserva por decisión
-   motivada. Nunca decir "según el tipo de proceso va reservado".
+3. **Las ≤8 UIT son "contratos menores" DENTRO de la Ley 32069** (art. 34) —
+   ya no "excluidas del ámbito", y el registro **ya no es ex post**: el art.
+   226.2 del Reglamento obliga a registrarlas en la plataforma "desde las
+   actuaciones preparatorias hasta la ejecución del último pago", y el art.
+   228.2 manda que la entidad pida cotizaciones POR LA PLATAFORMA a
+   proveedores con RNP del rubro (estar en el RNP del rubro = recibir esas
+   invitaciones). Sigue sin haber "postulación": la entidad invita. Uso en
+   contenido: inteligencia + estar registrado en el rubro correcto.
+   (CORREGIDO 2026-09-01 contra el texto consolidado; ver
+   data/RESEARCH-RADAR-2026-09.md.)
+4. **"Valor estimado" y "valor referencial" YA NO EXISTEN en la norma
+   vigente** (0 ocurrencias en Ley y Reglamento consolidados 2026): hoy es la
+   **cuantía de la contratación**, y la publicidad se INVIRTIÓ — art. 53.4:
+   "No es obligatorio dar a conocer a los proveedores la cuantía de la
+   contratación durante la fase de selección". No existe la "reserva por
+   decisión motivada". Tampoco existe ya el "comité de selección" como figura
+   única: evalúan oficial de compra / comité / jurado según el procedimiento,
+   y en subasta inversa y comparación de precios evalúa UNA persona. Orden de
+   filtros vigente (art. 70.2): admisión → calificación → evaluación técnica
+   → económica. La omisión de un documento SÍ es subsanable (art. 78.2).
+   (CORREGIDO 2026-09-01; el detalle artículo por artículo vive en
+   data/RESEARCH-RADAR-2026-09.md — consultarlo antes de escribir cualquier
+   mecanismo.)
 5. **Cero cifras inventadas.** Prohibido "a cientos les pasa cada mes", "el 90%
    no llega", "miles de empresas ganan su primer contrato". Si no está
    verificada contra nuestra base o la fuente OECE/MEF, se reescribe como algo
@@ -237,7 +248,7 @@ Verificadas contra norma y fuente oficial. **Ningún post puede contradecirlas.*
 
 Español peruano, tuteo, de a pie — pero con los términos del dominio SIEMPRE
 correctos: proceso de selección, buena pro, consultas y observaciones, bases,
-RNP, MYPE, valor estimado, desierto. El lector activo detecta al turista al
+RNP, MYPE, cuantía de la contratación, desierto. El lector activo detecta al turista al
 primer término mal usado; el lector frío aprende el término en contexto.
 
 ## Estado operativo (2026-08-02)

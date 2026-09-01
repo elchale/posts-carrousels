@@ -60,6 +60,38 @@ than Temu's, and the mix of both beats either. Steps if you do:
    leave it on the gift-card/check default.
 6. Links: SiteStripe → Text → the `amzn.to` link, used raw.
 
+## Temu — the affiliate account is GONE (verified 2026-09-01)
+
+The old PE-region affiliate account no longer says "about to close". The
+dashboard reads **"nuestra asociación ha finalizado"** — past tense, S/ 0
+pending, S/ 0 ever withdrawn. Treat lane A as having **no Temu rail at all**.
+
+Two things were verified the same day, and they change the plan:
+
+1. **The signup Carlos reached is the wrong program.** Temu's *Affiliate*
+   program's channel picker offers WhatsApp, X, Naver, Facebook Group, Discord,
+   Line, Reddit and Telegram. **No TikTok, no Instagram.** It is built for
+   groups and coupon sites, and it verifies the channel you declare. Declaring
+   a Telegram he does not run is how the next account dies too.
+2. **The right door is the Temu *Influencer* program**, which does accept
+   TikTok / Instagram / YouTube / Facebook / Pinterest — and pays approved
+   creators in **product credit** (~$300 the first month) instead of only
+   commission. That credit is the fix for lane A's real bottleneck: it puts the
+   actual product in Carlos's hands so the photos are his own, which is exactly
+   what a "finds" account needs and what the Asset Center never gave.
+   Entry bar: roughly **300 followers** on the platform you apply with.
+
+Region is still a trap: signing up on the PE site (prices in S/) makes another
+PE-region account, wrong for a US audience. Decide the audience before applying.
+
+**Sequencing rule, now the hard one:** *post first, join the rail second.* The
+3-month no-commission clock is what killed the last account, and the influencer
+program cannot even be applied to at zero followers. Lane A ships its first
+posts with **no affiliate link and no #ad disclosure** — there is no commission
+to disclose — and names the product generically so the post still works. The
+disclosure line and the links get added to the caption template the day a rail
+is live.
+
 ## Payout rails
 
 | Rail | Used by | Needs |
@@ -73,7 +105,8 @@ Nothing here needs a company, an RUC, an ITIN or an EIN.
 
 ```
 [ ] PayPal verified
-[ ] Temu affiliate approved      code: ________
+[x] Temu affiliate — TERMINATED by Temu (2026-09-01). Not re-joinable as an
+    affiliate for TikTok/IG; the Influencer program is the door, at ~300 followers
 [ ] Systeme.io affiliate         link: ________
 [ ] Systeme.io free account (bio pages + list)
 [ ] Hostinger affiliate          link: ________

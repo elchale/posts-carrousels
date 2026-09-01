@@ -1,61 +1,66 @@
 {
-  "name": "The Service Stack",
-  "tag": "@theservicestack",
-  "logo": null,
-  "display_font": "Rajdhani-Bold.ttf",
-  "display_weight": null,
-  "roles_note": "US affiliate lane B (affiliate/ACCOUNT-B-STACK.md): una tarea que le come horas a quien trabaja solo -> el montaje exacto que la hace sin el. PRIMERA marca OSCURA del repo: paper #0B0D10, ink #F2F4F7, menta #5BE0A5, sub #8A93A0. El fondo casi negro con textura fina lee como terminal, se sienta enfrente del azul de Diplomy y no se parece en nada a la cuenta A — que es justo lo que hay que defender, porque las dos cuentas van a aparecer en el mismo feed. Texto CLARO en TODOS los roles (light: true en todos). SIN logo: la firma es el @ de la lamina de cierre. Sin fotos: todo lamina.",
-  "lang": "en",
-  "body_font": "Montserrat-Variable.ttf",
-  "roles": {
-    "cover": {
-      "family": "cover",
-      "text": "#f2f4f7",
-      "sub": "#8a93a0",
-      "accent": "#5be0a5",
-      "light": true
-    },
-    "rehook": {
-      "family": "emph",
-      "text": "#f2f4f7",
-      "sub": "#9fb8ad",
-      "accent": "#5be0a5",
-      "light": true
-    },
-    "value": {
-      "family": "value",
-      "text": "#f2f4f7",
-      "sub": "#8a93a0",
-      "accent": "#5be0a5",
-      "light": true
-    },
-    "paper": {
-      "family": "value",
-      "text": "#f2f4f7",
-      "sub": "#8a93a0",
-      "accent": "#5be0a5",
-      "light": true
-    },
-    "stat": {
-      "family": "emph",
-      "text": "#f2f4f7",
-      "sub": "#9fb8ad",
-      "accent": "#5be0a5",
-      "light": true
-    },
-    "story": {
-      "family": "cine",
-      "text": "#f2f4f7",
-      "sub": "#a9b6b1",
-      "accent": "#5be0a5",
-      "light": true
-    },
-    "cta": {
-      "family": "cta",
-      "text": "#f2f4f7",
-      "sub": "#8a93a0",
-      "accent": "#5be0a5",
-      "light": true
-    }
+ "name": "The Service Stack",
+ "tag": "@theservicestack",
+ "logo": null,
+ "display_font": "Rajdhani-Bold.ttf",
+ "display_weight": null,
+ "roles_note": "US affiliate lane B (affiliate/ACCOUNT-B-STACK.md): una tarea que le come horas a quien trabaja solo -> el montaje exacto que la hace sin el. PRIMERA marca OSCURA del repo: paper #0B0D10, ink #F2F4F7, menta #5BE0A5, sub #8A93A0. El fondo casi negro con textura fina lee como terminal, se sienta enfrente del azul de Diplomy y no se parece en nada a la cuenta A — que es justo lo que hay que defender, porque las dos cuentas van a aparecer en el mismo feed. Texto CLARO en TODOS los roles (light: true en todos). SIN logo: la firma es el @ de la lamina de cierre. Sin fotos: todo lamina.",
+ "lang": "en",
+ "body_font": "Montserrat-Variable.ttf",
+ "roles": {
+  "cover": {
+   "family": "cover",
+   "text": "#f2f4f7",
+   "sub": "#8a93a0",
+   "accent": "#5be0a5",
+   "light": true
+  },
+  "rehook": {
+   "family": "emph",
+   "text": "#f2f4f7",
+   "sub": "#9fb8ad",
+   "accent": "#5be0a5",
+   "light": true
+  },
+  "value": {
+   "family": "value",
+   "text": "#f2f4f7",
+   "sub": "#8a93a0",
+   "accent": "#5be0a5",
+   "light": true
+  },
+  "paper": {
+   "family": "value",
+   "text": "#f2f4f7",
+   "sub": "#8a93a0",
+   "accent": "#5be0a5",
+   "light": true
+  },
+  "stat": {
+   "family": "emph",
+   "text": "#f2f4f7",
+   "sub": "#9fb8ad",
+   "accent": "#5be0a5",
+   "light": true
+  },
+  "story": {
+   "family": "cine",
+   "text": "#f2f4f7",
+   "sub": "#a9b6b1",
+   "accent": "#5be0a5",
+   "light": true
+  },
+  "cta": {
+   "family": "cta",
+   "text": "#f2f4f7",
+   "sub": "#8a93a0",
+   "accent": "#5be0a5",
+   "light": true
   }
+ },
+ "f1": {
+  "accent": "#5be0a5",
+  "flat_bg": "#0b0d10",
+  "flat_text": "#f2f4f7"
+ }
 }
