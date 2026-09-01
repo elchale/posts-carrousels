@@ -77,11 +77,28 @@ def cover_crop(p: Path, H: int) -> Image.Image:
     return im.crop((x0, 0, x0 + W, H))
 
 
+def bot_pad(H: int) -> int:
+    """Bottom margin under the text block. IG: 3.5% (feed shows the full frame).
+    TikTok 9:16: la UI (caption + usuario + música) tapa el ~22% inferior —
+    Carlos 2026-09-01: "no puedo leer la mitad de abajo". El bloque termina al
+    78% del alto y el negro sólido de abajo queda para el caption de TikTok."""
+    return round((0.035 if H <= 1400 else 0.22) * H)
+
+
+def side_margin(W_: int, H: int, base: float) -> int:
+    """TikTok reserva ~12% del borde derecho para los botones: márgenes más
+    anchos en el corte 9:16 para que ninguna línea muera bajo la columna."""
+    return round((base if H <= 1400 else max(base, 0.07)) * W_)
+
+
 def scrim(im: Image.Image, H: int) -> None:
-    """The measured pubity curve: 0 to 38% -> .45 at 52% -> .94 at 74% -> solid."""
+    """The measured pubity curve: 0 to 38% -> .45 at 52% -> .94 at 74% -> solid.
+    En 9:16 la curva sube 12 puntos: el texto vive más arriba (zona segura)."""
     ramp = Image.new("L", (1, H), 0)
     px = ramp.load()
-    stops = [(0.0, 0.0), (0.38, 0.0), (0.52, 0.45), (0.74, 0.94), (0.78, 1.0), (1.0, 1.0)]
+    lift = 0.0 if H <= 1400 else 0.12
+    stops = [(0.0, 0.0), (0.38 - lift, 0.0), (0.52 - lift, 0.45),
+             (0.74 - lift, 0.94), (0.78 - lift, 1.0), (1.0, 1.0)]
     for y in range(H):
         t = y / H
         for (t0, a0), (t1, a1) in zip(stops, stops[1:]):
@@ -242,7 +259,7 @@ class F1Renderer:
 
     def _cover(self, im, draw, s, H, light, photo):
         text_c, acc = self._text_colors(light)
-        margin = round(0.045 * W)
+        margin = side_margin(W, H, 0.045)
         maxw = W - 2 * margin
         max_sz = round((0.122 if H <= 1400 else 0.095) * H)
         h_text = strip_emoji(s.get("h", ""))
@@ -256,10 +273,10 @@ class F1Renderer:
         sub_lh = round(0.038 * H)
         kick = strip_emoji(s.get("kicker", ""))
         kf = font(self.body, round(0.020 * H), 700)
-        block = len(lines) * lh + (len(sublines) * sub_lh + round(0.018 * H) if sublines else 0)
+        block = len(lines) * lh + (len(sublines) * sub_lh + round(0.034 * H) if sublines else 0)
         chrome = round(0.030 * H) + round(0.012 * H)          # monogram row
         kh = round(0.034 * H) if kick else 0
-        bottom = H - round(0.035 * H)
+        bottom = H - bot_pad(H)
         y = bottom - block
         y0 = y - chrome - kh
         if kick:
@@ -270,7 +287,7 @@ class F1Renderer:
         self.monogram_row(im, draw, y0, H, light)
         y = draw_lines(draw, lines, fnt, lh, y, text_c, acc)
         if sublines:
-            yy = y + round(0.014 * H)
+            yy = y + round(0.034 * H)
             for l in sublines:
                 lw = draw.textlength(l, font=bf)
                 draw.text(((W - lw) / 2, yy), l, font=bf,
@@ -279,7 +296,7 @@ class F1Renderer:
 
     def _value(self, im, draw, s, H, light, photo):
         text_c, acc = self._text_colors(light)
-        margin = round(0.06 * W)
+        margin = side_margin(W, H, 0.06)
         maxw = W - 2 * margin
         label = strip_emoji(s.get("label", ""))
         h_text = strip_emoji(s.get("h", ""))
@@ -291,19 +308,21 @@ class F1Renderer:
         from render import wrap
         blines = wrap(draw, b_text, bf, maxw - 40) if b_text else []
         b_lh = round(0.040 * H)
-        lab_h = round(lf.size * 1.15) if label else 0
-        block = lab_h + len(lines) * lh + (round(0.020 * H) + len(blines) * b_lh if blines else 0)
+        lab_h = round(lf.size * 1.40) if label else 0
+        block = lab_h + len(lines) * lh + (round(0.034 * H) + len(blines) * b_lh if blines else 0)
         if photo:
-            y = H - round(0.035 * H) - block
+            y = H - bot_pad(H) - block
         else:
-            y = (H - block) / 2
+            # centrado, pero sin invadir la zona de la UI de TikTok
+            y = min((H - block) / 2, H - bot_pad(H) - block)
+            y = max(y, round(0.08 * H))
         if label:
             lw = draw.textlength(label.upper(), font=lf)
             draw.text(((W - lw) / 2, y), label.upper(), font=lf, fill=acc)
             y += lab_h
         y = draw_lines(draw, lines, fnt, lh, y, text_c, acc)
         if blines:
-            yy = y + round(0.020 * H)
+            yy = y + round(0.034 * H)
             for l in blines:
                 lw = draw.textlength(l, font=bf)
                 draw.text(((W - lw) / 2, yy), l, font=bf,
@@ -312,7 +331,7 @@ class F1Renderer:
 
     def _closer(self, im, draw, s, H, light, photo):
         text_c, acc = self._text_colors(light)
-        margin = round(0.055 * W)
+        margin = side_margin(W, H, 0.055)
         maxw = W - 2 * margin
         img = s.get("img") or s.get("shot")
         h_text = strip_emoji(s.get("h", ""))
@@ -326,7 +345,7 @@ class F1Renderer:
         tag = self.cfg.get("tag", "")
         tag_h = round(0.052 * H) if tag else 0
         chrome = round(0.030 * H) + round(0.012 * H)
-        block = chrome + len(lines) * lh + (round(0.018 * H) + len(blines) * b_lh if blines else 0) + tag_h
+        block = chrome + len(lines) * lh + (round(0.032 * H) + len(blines) * b_lh if blines else 0) + tag_h
 
         prod = None
         if img and (self.dir / "product" / img).exists():
@@ -339,6 +358,9 @@ class F1Renderer:
         gap = round(0.045 * H)
         group = block + ((prod.height + gap) if prod is not None else 0)
         y = max(round(0.06 * H), (H - group) / 2)
+        # el grupo entero termina antes de la zona de la UI de TikTok
+        if y + group > H - bot_pad(H):
+            y = max(round(0.04 * H), H - bot_pad(H) - group)
         if prod is not None:
             mask = Image.new("L", prod.size, 0)
             ImageDraw.Draw(mask).rounded_rectangle((0, 0, prod.width - 1, prod.height - 1), 28, fill=255)
@@ -353,7 +375,7 @@ class F1Renderer:
         y = self.monogram_row(im, draw, round(y), H, light)
         y = draw_lines(draw, lines, fnt, lh, y, text_c, acc)
         if blines:
-            y += round(0.018 * H)
+            y += round(0.032 * H)
             for l in blines:
                 lw = draw.textlength(l, font=bf)
                 draw.text(((W - lw) / 2, y), l, font=bf, fill="#e6e6e6" if light else text_c)
