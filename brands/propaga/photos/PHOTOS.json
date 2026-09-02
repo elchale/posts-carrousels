@@ -23,14 +23,6 @@
   "h": 3000,
   "query": "person phone cafe"
  },
- "dueno-tienda-1.jpg": {
-  "source": "https://www.rawpixel.com/image/4076761/photo-image-public-domain-person-business",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 3504,
-  "h": 2336,
-  "query": "small business owner shop"
- },
  "laptop-mesa-1.jpg": {
   "source": "https://stocksnap.io/photo/business-working-PHE63L27S6",
   "license": "cc0",
@@ -111,30 +103,6 @@
   "h": 3888,
   "query": "bakery display bread"
  },
- "panaderia-2.jpg": {
-  "source": "https://www.rawpixel.com/image/5903521/photo-image-public-domain-free-menu",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 5184,
-  "h": 3456,
-  "query": "bakery display bread"
- },
- "panaderia-3.jpg": {
-  "source": "https://www.rawpixel.com/image/5914422/image-public-domain-free-menu",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 5472,
-  "h": 3072,
-  "query": "bakery display bread"
- },
- "panaderia-4.jpg": {
-  "source": "https://www.rawpixel.com/image/5914820/image-public-domain-free-menu",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 3888,
-  "h": 2592,
-  "query": "bakery display bread"
- },
  "vendedor-1.jpg": {
   "source": "https://www.rawpixel.com/image/5923193/photo-image-public-domain-free-nuts",
   "license": "cc0",
@@ -150,5 +118,263 @@
   "w": 5760,
   "h": 3840,
   "query": "street food vendor"
+ },
+ "celular-cafe-4.jpg": {
+  "source": "https://stocksnap.io/photo/woman-girl-G3W62T63KD",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 3456,
+  "query": "woman smartphone",
+  "from": "b2-celular-cafe-03.jpg"
+ },
+ "celular-cafe-5.jpg": {
+  "source": "https://stocksnap.io/photo/girl-woman-70JMTNDBJI",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4184,
+  "h": 2779,
+  "query": "woman smartphone",
+  "from": "b2-celular-cafe-05.jpg"
+ },
+ "celular-cafe-6.jpg": {
+  "source": "https://stocksnap.io/photo/girl-woman-WV4Q7KUM3A",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3200,
+  "h": 2133,
+  "query": "woman smartphone",
+  "from": "b2-celular-cafe-06.jpg"
+ },
+ "celular-cafe-7.jpg": {
+  "source": "https://stocksnap.io/photo/waiting-taxi-VROPE3A39O",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4200,
+  "h": 2800,
+  "query": "woman smartphone",
+  "from": "b2-celular-cafe-08.jpg"
+ },
+ "dueno-tienda-2.jpg": {
+  "source": "https://wordpress.org/photos/photo/8996675962/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "shopkeeper",
+  "from": "b2-dueno-tienda-01.jpg"
+ },
+ "dueno-tienda-3.jpg": {
+  "source": "https://stocksnap.io/photo/people-woman-0J308RAF8H",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4964,
+  "h": 4912,
+  "query": "food vendor",
+  "from": "b2-vendedor-07.jpg"
+ },
+ "dueno-tienda-4.jpg": {
+  "source": "https://stocksnap.io/photo/bread-pastry-73EV0ODLNO",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3264,
+  "h": 2417,
+  "query": "food vendor",
+  "from": "b2-vendedor-04.jpg"
+ },
+ "laptop-mesa-4.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-desk-JCXQS3IVWD",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "laptop desk",
+  "from": "b2-laptop-mesa-01.jpg"
+ },
+ "laptop-mesa-5.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-desk-WTSQO9T3DK",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "laptop desk",
+  "from": "b2-laptop-mesa-02.jpg"
+ },
+ "laptop-mesa-6.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-desk-2BJQISGWND",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 8256,
+  "h": 5504,
+  "query": "laptop desk",
+  "from": "b2-laptop-mesa-04.jpg"
+ },
+ "letrero-abierto-4.jpg": {
+  "source": "https://stocksnap.io/photo/open-sign-IL2GSFO4W2",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 3456,
+  "query": "open sign",
+  "from": "b2-letrero-abierto-01.jpg"
+ },
+ "letrero-abierto-5.jpg": {
+  "source": "https://stocksnap.io/photo/open-sign-C6YGDZ1DSW",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "open sign",
+  "from": "b2-letrero-abierto-02.jpg"
+ },
+ "letrero-abierto-6.jpg": {
+  "source": "https://stocksnap.io/photo/open-sign-306D167669",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3089,
+  "h": 2048,
+  "query": "open sign",
+  "from": "b2-letrero-abierto-04.jpg"
+ },
+ "letrero-abierto-7.jpg": {
+  "source": "https://wordpress.org/photos/photo/36861f052d/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "open sign",
+  "from": "b2-letrero-abierto-06.jpg"
+ },
+ "vendedor-3.jpg": {
+  "source": "https://wordpress.org/photos/photo/4366639caf/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "street vendor",
+  "from": "b2-vendedor-02.jpg"
+ },
+ "vendedor-4.jpg": {
+  "source": "https://wordpress.org/photos/photo/82665c1382/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1365,
+  "h": 2048,
+  "query": "street vendor",
+  "from": "b2-vendedor-03.jpg"
+ },
+ "vendedor-5.jpg": {
+  "source": "https://stocksnap.io/photo/food-buffet-5BOYF35AET",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 3456,
+  "query": "food vendor",
+  "from": "b2-vendedor-06.jpg"
+ },
+ "vendedor-6.jpg": {
+  "source": "https://wordpress.org/photos/photo/379694bece/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1536,
+  "query": "food vendor",
+  "from": "b2-vendedor-09.jpg"
+ },
+ "vendedor-7.jpg": {
+  "source": "https://wordpress.org/photos/photo/30368aea16/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1536,
+  "query": "food vendor",
+  "from": "b2-vendedor-10.jpg"
+ },
+ "dueno-tienda-5.jpg": {
+  "source": "https://stocksnap.io/photo/woman-holding-RFP4F66IW9",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4869,
+  "h": 3246,
+  "query": "florist woman",
+  "from": "b2-dueno-b-01.jpg"
+ },
+ "vendedor-8.jpg": {
+  "source": "https://wordpress.org/photos/photo/51465c5b63/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1536,
+  "query": "greengrocer",
+  "from": "b2-dueno-b-02.jpg"
+ },
+ "vendedor-9.jpg": {
+  "source": "https://wordpress.org/photos/photo/14069e3b8c/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1796,
+  "h": 2048,
+  "query": "greengrocer",
+  "from": "b2-dueno-b-03.jpg"
+ },
+ "vendedor-10.jpg": {
+  "source": "https://wordpress.org/photos/photo/65565c1f94/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "greengrocer",
+  "from": "b2-dueno-b-05.jpg"
+ },
+ "vendedor-11.jpg": {
+  "source": "https://wordpress.org/photos/photo/89565c51da/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1536,
+  "query": "greengrocer",
+  "from": "b2-dueno-b-06.jpg"
+ },
+ "panaderia-13.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "panaderia-12.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "vendedor-12.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "vendedor-16.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "vendedor-15.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "panaderia-10.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "panaderia-11.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "vendedor-17.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "panaderia-9.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "dueno-tienda-6.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "vendedor-13.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "vendedor-18.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "panaderia-14.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "vendedor-14.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
  }
 }

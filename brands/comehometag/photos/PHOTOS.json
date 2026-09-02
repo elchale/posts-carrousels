@@ -79,14 +79,6 @@
   "h": 4772,
   "query": "dog running park"
  },
- "perro-calle-1.jpg": {
-  "source": "https://www.rawpixel.com/image/11189302/park-running-playful-happy-dog",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 2537,
-  "h": 1914,
-  "query": "dog running park"
- },
  "perro-calle-2.jpg": {
   "source": "https://stocksnap.io/photo/dachshund-dog-4ZRQA6WGWF",
   "license": "cc0",
@@ -127,14 +119,6 @@
   "h": 3840,
   "query": "child holding hand parent"
  },
- "abuela-1.jpg": {
-  "source": "https://stocksnap.io/photo/mother-generation-PEFKCYN1NY",
-  "license": "cc0",
-  "provider": "stocksnap",
-  "w": 2916,
-  "h": 2304,
-  "query": "grandmother portrait"
- },
  "noche-calle-1.jpg": {
   "source": "https://www.rawpixel.com/image/5907746/photo-image-public-domain-posters-free",
   "license": "cc0",
@@ -158,5 +142,296 @@
   "w": 3650,
   "h": 2067,
   "query": "empty street night lamp"
+ },
+ "nino-mano-3.jpg": {
+  "source": "https://stocksnap.io/photo/child-holding-2BCPJOPH7T",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5616,
+  "h": 3744,
+  "query": "mother child hands",
+  "from": "b2-nino-mano-03.jpg"
+ },
+ "nino-mano-4.jpg": {
+  "source": "https://stocksnap.io/photo/father-daughter-AOMRJ0OTP7",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4639,
+  "h": 3093,
+  "query": "father child walking",
+  "from": "b2-nino-mano-05.jpg"
+ },
+ "nino-mano-5.jpg": {
+  "source": "https://stocksnap.io/photo/young-girl-C0WTUJ65SZ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5109,
+  "h": 3406,
+  "query": "father child walking",
+  "from": "b2-nino-mano-06.jpg"
+ },
+ "nino-mano-6.jpg": {
+  "source": "https://wordpress.org/photos/photo/19468adec3/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "family holding hands",
+  "from": "b2-nino-mano-12.jpg"
+ },
+ "nino-mochila-1.jpg": {
+  "source": "https://wordpress.org/photos/photo/9776a1fcbb/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1536,
+  "h": 2048,
+  "query": "child backpack",
+  "from": "b2-nino-mochila-03.jpg"
+ },
+ "nino-mochila-2.jpg": {
+  "source": "https://wordpress.org/photos/photo/76167e11b5/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1536,
+  "h": 2048,
+  "query": "child backpack",
+  "from": "b2-nino-mochila-04.jpg"
+ },
+ "abuela-2.jpg": {
+  "source": "https://stocksnap.io/photo/ball-people-XGA8T6UUH6",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2560,
+  "h": 1440,
+  "query": "elderly woman",
+  "from": "b2-abuela-01.jpg"
+ },
+ "abuela-3.jpg": {
+  "source": "https://stocksnap.io/photo/caregiver-nurse-PMZZ7WLOAJ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6720,
+  "h": 4480,
+  "query": "elderly woman",
+  "from": "b2-abuela-02.jpg"
+ },
+ "abuelo-1.jpg": {
+  "source": "https://stocksnap.io/photo/people-old-PE2UEI7J6P",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4596,
+  "h": 2591,
+  "query": "elderly woman",
+  "from": "b2-abuela-06.jpg"
+ },
+ "abuelo-2.jpg": {
+  "source": "https://stocksnap.io/photo/chinese-old-0A7ED815C4",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3216,
+  "h": 2136,
+  "query": "elderly man",
+  "from": "b2-abuelo-01.jpg"
+ },
+ "abuelo-3.jpg": {
+  "source": "https://stocksnap.io/photo/people-old-42DLC3QI6K",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5760,
+  "h": 3840,
+  "query": "elderly man",
+  "from": "b2-abuelo-02.jpg"
+ },
+ "abuelo-4.jpg": {
+  "source": "https://stocksnap.io/photo/people-elderly-PF43WRU0XB",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6016,
+  "h": 4000,
+  "query": "elderly man",
+  "from": "b2-abuelo-04.jpg"
+ },
+ "perro-calle-3.jpg": {
+  "source": "https://stocksnap.io/photo/dog-street-XZQ1KSGMGK",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2505,
+  "h": 2581,
+  "query": "dog street",
+  "from": "b2-perro-calle-01.jpg"
+ },
+ "perro-calle-4.jpg": {
+  "source": "https://stocksnap.io/photo/walking-dog-GJJ6TGNARW",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 7852,
+  "h": 5237,
+  "query": "dog street",
+  "from": "b2-perro-calle-03.jpg"
+ },
+ "perro-calle-5.jpg": {
+  "source": "https://stocksnap.io/photo/dog-puppy-04HDCNFTY4",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4830,
+  "h": 3220,
+  "query": "dog street",
+  "from": "b2-perro-calle-04.jpg"
+ },
+ "perro-calle-6.jpg": {
+  "source": "https://stocksnap.io/photo/dog-puppy-HAI9FJXVU8",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3159,
+  "h": 2105,
+  "query": "dog street",
+  "from": "b2-perro-calle-06.jpg"
+ },
+ "perro-calle-7.jpg": {
+  "source": "https://stocksnap.io/photo/animal-dog-NKFW60AJQP",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5760,
+  "h": 3840,
+  "query": "dog street",
+  "from": "b2-perro-calle-08.jpg"
+ },
+ "perro-calle-8.jpg": {
+  "source": "https://stocksnap.io/photo/dog-animal-53A1Q786QJ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5673,
+  "h": 3782,
+  "query": "dog street",
+  "from": "b2-perro-calle-09.jpg"
+ },
+ "perro-cara-6.jpg": {
+  "source": "https://stocksnap.io/photo/dog-animal-JM6KOTW1NW",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "dog street",
+  "from": "b2-perro-calle-07.jpg"
+ },
+ "perro-cara-7.jpg": {
+  "source": "https://stocksnap.io/photo/boxerdog-portrait-KBZCTLSNWU",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5400,
+  "h": 3600,
+  "query": "dog portrait",
+  "from": "b2-perro-cara-01.jpg"
+ },
+ "perro-cara-8.jpg": {
+  "source": "https://stocksnap.io/photo/photogenic-dachshund-AQ4CJTQCWJ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5353,
+  "h": 3648,
+  "query": "dog portrait",
+  "from": "b2-perro-cara-04.jpg"
+ },
+ "perro-parque-3.jpg": {
+  "source": "https://stocksnap.io/photo/young-girl-TXGIMQSM8D",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5396,
+  "h": 3248,
+  "query": "dog portrait",
+  "from": "b2-perro-cara-05.jpg"
+ },
+ "gato-3.jpg": {
+  "source": "https://stocksnap.io/photo/house-cat-7C71QVWOH7",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 7686,
+  "h": 5127,
+  "query": "cat portrait",
+  "from": "b2-gato-01.jpg"
+ },
+ "gato-4.jpg": {
+  "source": "https://stocksnap.io/photo/house-cat-4DIBKW5OPX",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6144,
+  "h": 4389,
+  "query": "cat portrait",
+  "from": "b2-gato-04.jpg"
+ },
+ "familia-parque-1.jpg": {
+  "source": "https://stocksnap.io/photo/dad-father-R0BZTCYBM6",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "family park",
+  "from": "b2-familia-parque-01.jpg"
+ },
+ "familia-parque-2.jpg": {
+  "source": "https://stocksnap.io/photo/family-mother-XHT8C9KTXD",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5616,
+  "h": 3744,
+  "query": "family park",
+  "from": "b2-familia-parque-02.jpg"
+ },
+ "familia-parque-3.jpg": {
+  "source": "https://stocksnap.io/photo/father-son-HBKFP7NCLL",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5760,
+  "h": 3840,
+  "query": "family park",
+  "from": "b2-familia-parque-04.jpg"
+ },
+ "familia-parque-4.jpg": {
+  "source": "https://stocksnap.io/photo/black-family-HBADKDBJYU",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5760,
+  "h": 3840,
+  "query": "family park",
+  "from": "b2-familia-parque-05.jpg"
+ },
+ "familia-parque-5.jpg": {
+  "source": "https://stocksnap.io/photo/family-portrait-OIUD9DEKPG",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5561,
+  "h": 3707,
+  "query": "dog portrait",
+  "from": "b2-perro-cara-02.jpg"
+ },
+ "mercado-2.jpg": {
+  "source": "https://wordpress.org/photos/photo/699678506e/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "market stall",
+  "from": "b2-mercado-05.jpg"
+ },
+ "mercado-3.jpg": {
+  "source": "https://wordpress.org/photos/photo/14069e3b8c/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1796,
+  "h": 2048,
+  "query": "market stall",
+  "from": "b2-mercado-06.jpg"
+ },
+ "mercado-4.jpg": {
+  "source": "https://wordpress.org/photos/photo/33465c2ba8/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "market stall",
+  "from": "b2-mercado-08.jpg"
+ },
+ "noche-calle-4.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
  }
 }

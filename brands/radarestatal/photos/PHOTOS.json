@@ -1,28 +1,4 @@
 {
- "almacen-1.jpg": {
-  "source": "https://www.rawpixel.com/image/3306793/free-photo-image-distribution-forklift-warehouse",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 7046,
-  "h": 4697,
-  "query": "warehouse forklift boxes"
- },
- "almacen-2.jpg": {
-  "source": "https://www.rawpixel.com/image/11073059/photo-image-face-person-public-domain",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 4032,
-  "h": 3024,
-  "query": "warehouse forklift boxes"
- },
- "almacen-3.jpg": {
-  "source": "https://www.rawpixel.com/image/3306981/free-photo-image-truck-warehouse-factory",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 8256,
-  "h": 5504,
-  "query": "warehouse forklift boxes"
- },
  "archivo-1.jpg": {
   "source": "https://www.rawpixel.com/image/5904070/free-public-domain-cc0-photo",
   "license": "cc0",
@@ -150,5 +126,251 @@
   "w": 5472,
   "h": 3648,
   "query": "office meeting table"
+ },
+ "documentos-2.jpg": {
+  "source": "https://stocksnap.io/photo/business-document-AB4F938C85",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2200,
+  "h": 1650,
+  "query": "documents desk",
+  "from": "b2-documentos-01.jpg"
+ },
+ "documentos-4.jpg": {
+  "source": "https://stocksnap.io/photo/office-work-MTW9DBQA95",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3888,
+  "h": 2592,
+  "query": "documents desk",
+  "from": "b2-documentos-04.jpg"
+ },
+ "oficina-reunion-4.jpg": {
+  "source": "https://stocksnap.io/photo/team-meeting-VQXYE2ZEHC",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "office meeting",
+  "from": "b2-oficina-reunion-02.jpg"
+ },
+ "oficina-reunion-5.jpg": {
+  "source": "https://stocksnap.io/photo/team-meeting-JBW2PXDOL6",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "office meeting",
+  "from": "b2-oficina-reunion-03.jpg"
+ },
+ "oficina-reunion-6.jpg": {
+  "source": "https://stocksnap.io/photo/writing-papers-Y01VDYAX63",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 7360,
+  "h": 4912,
+  "query": "office meeting",
+  "from": "b2-oficina-reunion-04.jpg"
+ },
+ "oficina-reunion-7.jpg": {
+  "source": "https://stocksnap.io/photo/team-meeting-84GOP2OAKR",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4928,
+  "h": 3264,
+  "query": "office meeting",
+  "from": "b2-oficina-reunion-05.jpg"
+ },
+ "oficina-reunion-8.jpg": {
+  "source": "https://stocksnap.io/photo/boardroom-business-KCIU8RWM09",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4928,
+  "h": 3264,
+  "query": "office meeting",
+  "from": "b2-oficina-reunion-06.jpg"
+ },
+ "oficina-reunion-9.jpg": {
+  "source": "https://stocksnap.io/photo/business-team-Q1OSKR7D42",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "office meeting",
+  "from": "b2-oficina-reunion-07.jpg"
+ },
+ "oficina-reunion-10.jpg": {
+  "source": "https://stocksnap.io/photo/whiteboard-planning-NQQ2PJW1JM",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "office meeting",
+  "from": "b2-oficina-reunion-08.jpg"
+ },
+ "oficina-reunion-11.jpg": {
+  "source": "https://stocksnap.io/photo/flowchart-whiteboard-CDC8HFPYWR",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3000,
+  "h": 2000,
+  "query": "office meeting",
+  "from": "b2-oficina-reunion-09.jpg"
+ },
+ "obra-5.jpg": {
+  "source": "https://stocksnap.io/photo/construction-site-KSN9ULCSVX",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2564,
+  "h": 3897,
+  "query": "construction site",
+  "from": "b2-obra-02.jpg"
+ },
+ "obra-6.jpg": {
+  "source": "https://wordpress.org/photos/photo/54265796cf/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1361,
+  "query": "construction site",
+  "from": "b2-obra-03.jpg"
+ },
+ "obra-7.jpg": {
+  "source": "https://wordpress.org/photos/photo/96165796d5/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1361,
+  "query": "construction site",
+  "from": "b2-obra-04.jpg"
+ },
+ "obra-8.jpg": {
+  "source": "https://wordpress.org/photos/photo/48265796ca/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1361,
+  "query": "construction site",
+  "from": "b2-obra-05.jpg"
+ },
+ "obra-9.jpg": {
+  "source": "https://wordpress.org/photos/photo/206804e22a/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1542,
+  "query": "construction site",
+  "from": "b2-obra-06.jpg"
+ },
+ "obra-10.jpg": {
+  "source": "https://wordpress.org/photos/photo/650661ced0/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1152,
+  "query": "construction site",
+  "from": "b2-obra-07.jpg"
+ },
+ "almacen-4.jpg": {
+  "source": "https://wordpress.org/photos/photo/2246439c68/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1536,
+  "h": 2048,
+  "query": "warehouse shelves",
+  "from": "b2-almacen-01.jpg"
+ },
+ "almacen-5.jpg": {
+  "source": "https://wordpress.org/photos/photo/3466439c6e/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1536,
+  "h": 2048,
+  "query": "storage boxes warehouse",
+  "from": "b2-almacen-02.jpg"
+ },
+ "camiones-2.jpg": {
+  "source": "https://stocksnap.io/photo/highway-road-AOEI2XN99G",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5760,
+  "h": 3840,
+  "query": "truck highway",
+  "from": "b2-camiones-04.jpg"
+ },
+ "camiones-3.jpg": {
+  "source": "https://stocksnap.io/photo/truck-transportation-L05LPK1M02",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 3456,
+  "query": "truck highway",
+  "from": "b2-camiones-05.jpg"
+ },
+ "carretera-5.jpg": {
+  "source": "https://stocksnap.io/photo/highway-road-A761587DF9",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4288,
+  "h": 2848,
+  "query": "truck highway",
+  "from": "b2-camiones-07.jpg"
+ },
+ "archivo-2.jpg": {
+  "source": "https://stocksnap.io/photo/macbook-laptop-HHZ5NPNR1T",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4279,
+  "h": 2842,
+  "query": "office folders",
+  "from": "b2-archivo-b-01.jpg"
+ },
+ "almacen-6.jpg": {
+  "source": "https://wordpress.org/photos/photo/35969e3fab/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1536,
+  "h": 2048,
+  "query": "warehouse pallets",
+  "from": "b2-almacen-b-01.jpg"
+ },
+ "almacen-7.jpg": {
+  "source": "https://wordpress.org/photos/photo/15265a9700/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1367,
+  "query": "storage racks",
+  "from": "b2-almacen-b-02.jpg"
+ },
+ "archivo-4.jpg": {
+  "source": "https://stocksnap.io/photo/office-supplies-FNPZWUDMXU",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4928,
+  "h": 3264,
+  "query": "binders",
+  "from": "b2-archivo-c-11.jpg"
+ },
+ "almacen-8.jpg": {
+  "source": "https://commons.wikimedia.org/w/index.php?curid=142028069",
+  "license": "cc0",
+  "provider": "wikimedia",
+  "w": 2448,
+  "h": 3264,
+  "query": "pallets",
+  "from": "b2-almacen-c-04.jpg"
+ },
+ "oficina-reunion-15.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "oficina-reunion-14.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "oficina-reunion-12.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "oficina-reunion-13.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
  }
 }

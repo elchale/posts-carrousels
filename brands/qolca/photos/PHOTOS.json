@@ -63,22 +63,6 @@
   "h": 4608,
   "query": "apartment building facade"
  },
- "inmobiliaria-2.jpg": {
-  "source": "https://www.rawpixel.com/image/6022334/key-box-free-public-domain-cc0-image",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 6000,
-  "h": 4000,
-  "query": "house keys door"
- },
- "llaves-casa-1.jpg": {
-  "source": "https://stocksnap.io/photo/keys-door-Z1TKDI29FZ",
-  "license": "cc0",
-  "provider": "stocksnap",
-  "w": 4608,
-  "h": 3072,
-  "query": "house keys door"
- },
  "llaves-casa-2.jpg": {
   "source": "https://www.rawpixel.com/image/6035983/key-free-public-domain-cc0-image",
   "license": "cc0",
@@ -150,5 +134,301 @@
   "w": 4608,
   "h": 3456,
   "query": "closed sign store"
+ },
+ "cuaderno-4.jpg": {
+  "source": "https://stocksnap.io/photo/notebook-pen-2H0QPGDVGZ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4500,
+  "h": 3000,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-01.jpg"
+ },
+ "cuaderno-7.jpg": {
+  "source": "https://stocksnap.io/photo/notebook-pen-SY6W6335J3",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2448,
+  "h": 3055,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-05.jpg"
+ },
+ "cuaderno-8.jpg": {
+  "source": "https://wordpress.org/photos/photo/632620a981/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1153,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-06.jpg"
+ },
+ "cuaderno-9.jpg": {
+  "source": "https://stocksnap.io/photo/writing-writer-9QEVP5YHO3",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-07.jpg"
+ },
+ "cuaderno-10.jpg": {
+  "source": "https://stocksnap.io/photo/iphone-keyboard-R7GVMRJWW9",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5000,
+  "h": 3474,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-11.jpg"
+ },
+ "cuaderno-11.jpg": {
+  "source": "https://stocksnap.io/photo/office-work-13UNSPJHCZ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3888,
+  "h": 2592,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-12.jpg"
+ },
+ "papeles-1.jpg": {
+  "source": "https://stocksnap.io/photo/filefolders-business-6RHKEELJ8F",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4232,
+  "h": 2817,
+  "query": "paperwork desk",
+  "from": "b2-papeles-03.jpg"
+ },
+ "papeles-2.jpg": {
+  "source": "https://stocksnap.io/photo/business-man-VISYYURYFA",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6720,
+  "h": 4480,
+  "query": "paperwork desk",
+  "from": "b2-papeles-05.jpg"
+ },
+ "papeles-3.jpg": {
+  "source": "https://stocksnap.io/photo/doctor-working-WTWX4BZ4FD",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 8688,
+  "h": 5792,
+  "query": "paperwork desk",
+  "from": "b2-papeles-06.jpg"
+ },
+ "papeles-4.jpg": {
+  "source": "https://stocksnap.io/photo/notebook-pen-KQD17S0BRO",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-02.jpg"
+ },
+ "papeles-5.jpg": {
+  "source": "https://stocksnap.io/photo/smartphone-mobile-IU6HNPC2NT",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5326,
+  "h": 3551,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-08.jpg"
+ },
+ "mostrador-2.jpg": {
+  "source": "https://stocksnap.io/photo/business-establishments-3QX7WQCK52",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4272,
+  "h": 2848,
+  "query": "shop counter",
+  "from": "b2-mostrador-02.jpg"
+ },
+ "mostrador-3.jpg": {
+  "source": "https://stocksnap.io/photo/business-establishments-WP40DVYDWS",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 2912,
+  "query": "shop counter",
+  "from": "b2-mostrador-03.jpg"
+ },
+ "mostrador-4.jpg": {
+  "source": "https://stocksnap.io/photo/plant-garden-C8C6M7BSEX",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3130,
+  "h": 1866,
+  "query": "shop counter",
+  "from": "b2-mostrador-04.jpg"
+ },
+ "mostrador-5.jpg": {
+  "source": "https://stocksnap.io/photo/people-man-SORUL2ZADR",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4480,
+  "h": 2520,
+  "query": "shop counter",
+  "from": "b2-mostrador-05.jpg"
+ },
+ "mostrador-6.jpg": {
+  "source": "https://stocksnap.io/photo/people-man-4EV2SRG4II",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5188,
+  "h": 3459,
+  "query": "shop counter",
+  "from": "b2-mostrador-06.jpg"
+ },
+ "mostrador-7.jpg": {
+  "source": "https://wordpress.org/photos/photo/3616897a5b/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1536,
+  "query": "shop counter",
+  "from": "b2-mostrador-07.jpg"
+ },
+ "mostrador-8.jpg": {
+  "source": "https://stocksnap.io/photo/restaurant-bar-KI4IDLRWIJ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5988,
+  "h": 3513,
+  "query": "cashier shop",
+  "from": "b2-mostrador-08.jpg"
+ },
+ "mostrador-9.jpg": {
+  "source": "https://stocksnap.io/photo/restaurant-kitchen-RE54D4GOX0",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3000,
+  "h": 2008,
+  "query": "restaurant kitchen",
+  "from": "b2-restaurante-cocina-02.jpg"
+ },
+ "mostrador-10.jpg": {
+  "source": "https://stocksnap.io/photo/espressomachine-coffee-C3MZGAMOKQ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2517,
+  "h": 1667,
+  "query": "restaurant kitchen",
+  "from": "b2-restaurante-cocina-04.jpg"
+ },
+ "restaurante-cocina-3.jpg": {
+  "source": "https://stocksnap.io/photo/restaurant-kitchen-0HCMIT272C",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 3456,
+  "query": "restaurant kitchen",
+  "from": "b2-restaurante-cocina-01.jpg"
+ },
+ "restaurante-cocina-4.jpg": {
+  "source": "https://stocksnap.io/photo/restaurant-kitchen-BQ9K4RFVAM",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4896,
+  "h": 3264,
+  "query": "restaurant kitchen",
+  "from": "b2-restaurante-cocina-03.jpg"
+ },
+ "restaurante-cocina-5.jpg": {
+  "source": "https://stocksnap.io/photo/chef-cook-J2W0D3CO2L",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4687,
+  "h": 2750,
+  "query": "restaurant kitchen",
+  "from": "b2-restaurante-cocina-05.jpg"
+ },
+ "taller-1.jpg": {
+  "source": "https://stocksnap.io/photo/industrial-parts-JCHI5DYDEG",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3246,
+  "h": 4900,
+  "query": "mechanic garage",
+  "from": "b2-taller-03.jpg"
+ },
+ "taller-2.jpg": {
+  "source": "https://stocksnap.io/photo/tools-workshop-KD30XPQR0A",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5000,
+  "h": 3333,
+  "query": "workshop tools",
+  "from": "b2-taller-06.jpg"
+ },
+ "tienda-cerrada-3.jpg": {
+  "source": "https://wordpress.org/photos/photo/9269e5c992/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1365,
+  "h": 2048,
+  "query": "closed shop",
+  "from": "b2-tienda-cerrada-03.jpg"
+ },
+ "tienda-cerrada-4.jpg": {
+  "source": "https://stocksnap.io/photo/closed-store-29654DFF30",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5462,
+  "h": 3641,
+  "query": "closed shop",
+  "from": "b2-tienda-cerrada-04.jpg"
+ },
+ "tienda-cerrada-5.jpg": {
+  "source": "https://stocksnap.io/photo/graffiti-closed-7A651CB10F",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4930,
+  "h": 3262,
+  "query": "closed shop",
+  "from": "b2-tienda-cerrada-05.jpg"
+ },
+ "celular-noche-2.jpg": {
+  "source": "https://wordpress.org/photos/photo/559663517b/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "smartphone dark",
+  "from": "b2-celular-noche-06.jpg"
+ },
+ "celular-noche-3.jpg": {
+  "source": "https://stocksnap.io/photo/mobile-phone-MJBOYJ393J",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5400,
+  "h": 4374,
+  "query": "phone hand night",
+  "from": "b2-celular-noche-07.jpg"
+ },
+ "mostrador-11.jpg": {
+  "source": "https://stocksnap.io/photo/keys-door-Z1TKDI29FZ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4608,
+  "h": 3072,
+  "query": "house keys door"
+ },
+ "taller-3.jpg": {
+  "source": "https://stocksnap.io/photo/macbook-laptop-UNB7V2H5L4",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5061,
+  "h": 3374,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-09.jpg"
+ },
+ "taller-4.jpg": {
+  "source": "https://stocksnap.io/photo/office-work-42H3JH8QI5",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2765,
+  "h": 2074,
+  "query": "notebook pen",
+  "from": "b2-cuaderno-10.jpg"
  }
 }

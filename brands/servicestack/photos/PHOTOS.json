@@ -39,14 +39,6 @@
   "h": 5504,
   "query": "paperwork"
  },
- "papeleo-2.jpg": {
-  "source": "https://stocksnap.io/photo/paperwork-desk-3YJOHX53SQ",
-  "license": "cc0",
-  "provider": "stocksnap",
-  "w": 8256,
-  "h": 5504,
-  "query": "paperwork"
- },
  "calendario-1.jpg": {
   "source": "https://www.rawpixel.com/image/3299160/free-photo-image-calendar-time-plan",
   "license": "cc0",
@@ -95,14 +87,6 @@
   "h": 2510,
   "query": "contractor construction house"
  },
- "contratista-2.jpg": {
-  "source": "https://www.rawpixel.com/image/9677218/image-person-public-domain-home",
-  "license": "cc0",
-  "provider": "rawpixel",
-  "w": 4000,
-  "h": 2661,
-  "query": "contractor construction house"
- },
  "camioneta-1.jpg": {
   "source": "https://www.rawpixel.com/image/6035980/red-pickup-truck-free-public-domain-cc0-photo",
   "license": "cc0",
@@ -127,20 +111,307 @@
   "h": 2448,
   "query": "landscaper lawn mower yard"
  },
- "limpieza-1.jpg": {
-  "source": "https://www.rawpixel.com/image/9676836/image-person-wood-public-domain",
+ "contratista-3.jpg": {
+  "source": "https://stocksnap.io/photo/windows-washing-92J05OP590",
   "license": "cc0",
-  "provider": "rawpixel",
-  "w": 4000,
-  "h": 2661,
-  "query": "cleaning service home"
+  "provider": "stocksnap",
+  "w": 2365,
+  "h": 1774,
+  "query": "contractor worker",
+  "from": "b2-contratista-01.jpg"
  },
- "plomero-1.jpg": {
-  "source": "https://www.rawpixel.com/image/3306772/free-photo-image-refinery-workers-industrial-manufacture",
+ "contratista-4.jpg": {
+  "source": "https://stocksnap.io/photo/construction-workers-4UHTOF5OE9",
   "license": "cc0",
-  "provider": "rawpixel",
+  "provider": "stocksnap",
+  "w": 3530,
+  "h": 4707,
+  "query": "contractor worker",
+  "from": "b2-contratista-02.jpg"
+ },
+ "contratista-5.jpg": {
+  "source": "https://stocksnap.io/photo/workshop-wrench-O8DVPXYOIY",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 8160,
+  "h": 6120,
+  "query": "handyman working",
+  "from": "b2-contratista-03.jpg"
+ },
+ "laptop-3.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-desk-JCXQS3IVWD",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "laptop desk",
+  "from": "b2-laptop-01.jpg"
+ },
+ "laptop-4.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-desk-WTSQO9T3DK",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "laptop desk",
+  "from": "b2-laptop-02.jpg"
+ },
+ "laptop-5.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-desk-2BJQISGWND",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 8256,
+  "h": 5504,
+  "query": "laptop desk",
+  "from": "b2-laptop-04.jpg"
+ },
+ "laptop-6.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-desk-5ZWVFTADET",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3648,
+  "h": 4560,
+  "query": "laptop desk",
+  "from": "b2-laptop-05.jpg"
+ },
+ "laptop-7.jpg": {
+  "source": "https://stocksnap.io/photo/writing-papers-Y01VDYAX63",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 7360,
+  "h": 4912,
+  "query": "laptop desk",
+  "from": "b2-laptop-06.jpg"
+ },
+ "laptop-8.jpg": {
+  "source": "https://stocksnap.io/photo/macbook-laptop-DWLWL9USBG",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2938,
+  "h": 1953,
+  "query": "laptop desk",
+  "from": "b2-laptop-07.jpg"
+ },
+ "laptop-9.jpg": {
+  "source": "https://stocksnap.io/photo/business-working-PHE63L27S6",
+  "license": "cc0",
+  "provider": "stocksnap",
   "w": 5184,
   "h": 3456,
-  "query": "plumber working pipes"
+  "query": "laptop desk",
+  "from": "b2-laptop-08.jpg"
+ },
+ "laptop-10.jpg": {
+  "source": "https://stocksnap.io/photo/working-typing-0E0M5W9O3V",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3500,
+  "h": 2338,
+  "query": "laptop desk",
+  "from": "b2-laptop-10.jpg"
+ },
+ "oficina-4.jpg": {
+  "source": "https://stocksnap.io/photo/home-office-QUU0AQABSN",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3557,
+  "h": 2371,
+  "query": "home office",
+  "from": "b2-oficina-01.jpg"
+ },
+ "oficina-5.jpg": {
+  "source": "https://stocksnap.io/photo/home-office-YODJNTOBN9",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3325,
+  "h": 2217,
+  "query": "home office",
+  "from": "b2-oficina-03.jpg"
+ },
+ "oficina-6.jpg": {
+  "source": "https://stocksnap.io/photo/home-office-TTSZNHYKJD",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3861,
+  "h": 2574,
+  "query": "home office",
+  "from": "b2-oficina-05.jpg"
+ },
+ "oficina-7.jpg": {
+  "source": "https://stocksnap.io/photo/home-office-BK73EFUAWY",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3861,
+  "h": 2574,
+  "query": "home office",
+  "from": "b2-oficina-06.jpg"
+ },
+ "oficina-8.jpg": {
+  "source": "https://wordpress.org/photos/photo/189666a0ac/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1536,
+  "query": "home office",
+  "from": "b2-oficina-07.jpg"
+ },
+ "oficina-9.jpg": {
+  "source": "https://stocksnap.io/photo/books-reading-2XTL98GVVF",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2750,
+  "h": 1654,
+  "query": "home office",
+  "from": "b2-oficina-08.jpg"
+ },
+ "telefono-3.jpg": {
+  "source": "https://stocksnap.io/photo/iphone-texting-HP2MPJT5B6",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3078,
+  "query": "smartphone hand",
+  "from": "b2-telefono-01.jpg"
+ },
+ "telefono-4.jpg": {
+  "source": "https://stocksnap.io/photo/guy-man-67AWU2C0IR",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4952,
+  "h": 3301,
+  "query": "smartphone hand",
+  "from": "b2-telefono-02.jpg"
+ },
+ "telefono-5.jpg": {
+  "source": "https://stocksnap.io/photo/woman-girl-G3W62T63KD",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 3456,
+  "query": "smartphone hand",
+  "from": "b2-telefono-03.jpg"
+ },
+ "telefono-6.jpg": {
+  "source": "https://stocksnap.io/photo/instagram-smartphone-FYBWKNX0L2",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4000,
+  "h": 2522,
+  "query": "smartphone hand",
+  "from": "b2-telefono-05.jpg"
+ },
+ "telefono-7.jpg": {
+  "source": "https://stocksnap.io/photo/mobile-texting-VVSESFW1MS",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3200,
+  "h": 2133,
+  "query": "smartphone hand",
+  "from": "b2-telefono-08.jpg"
+ },
+ "contratista-6.jpg": {
+  "source": "https://stocksnap.io/photo/carpenter-workshop-YPM6VH3FCW",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4752,
+  "h": 3168,
+  "query": "carpenter working wood",
+  "from": "b2-oficio-b-01.jpg"
+ },
+ "contratista-7.jpg": {
+  "source": "https://stocksnap.io/photo/carpenter-working-ZMQNOXQMZO",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 1920,
+  "h": 1080,
+  "query": "carpenter working wood",
+  "from": "b2-oficio-b-02.jpg"
+ },
+ "contratista-8.jpg": {
+  "source": "https://stocksnap.io/photo/craftsman-drill-L8IBQZYEAL",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "carpenter working wood",
+  "from": "b2-oficio-b-03.jpg"
+ },
+ "jardinero-2.jpg": {
+  "source": "https://stocksnap.io/photo/garden-trowl-6SVJRFQITC",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "gardener working",
+  "from": "b2-oficio-b-07.jpg"
+ },
+ "jardinero-3.jpg": {
+  "source": "https://stocksnap.io/photo/woman-wheelbarrow-NSDVZHHF64",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2900,
+  "h": 1933,
+  "query": "gardener working",
+  "from": "b2-oficio-b-09.jpg"
+ },
+ "jardinero-4.jpg": {
+  "source": "https://stocksnap.io/photo/woman-blue-CXXONEIULG",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2592,
+  "h": 3888,
+  "query": "gardener working",
+  "from": "b2-oficio-b-10.jpg"
+ },
+ "laptop-11.jpg": {
+  "source": "https://stocksnap.io/photo/business-woman-7U4SPRJEIE",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3456,
+  "h": 5184,
+  "query": "gardener working",
+  "from": "b2-oficio-b-04.jpg"
+ },
+ "oficina-10.jpg": {
+  "source": "https://stocksnap.io/photo/woman-working-KFOCL5M9AN",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 3456,
+  "query": "gardener working",
+  "from": "b2-oficio-b-06.jpg"
+ },
+ "oficina-11.jpg": {
+  "source": "https://stocksnap.io/photo/man-outside-HBDZWHMZ6K",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 3456,
+  "query": "gardener working",
+  "from": "b2-oficio-b-08.jpg"
+ },
+ "telefono-10.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "telefono-8.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "contratista-9.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "telefono-14.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "telefono-13.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "telefono-9.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "telefono-11.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
+ },
+ "telefono-12.jpg": {
+  "note": "curado/renombrado 2026-09-02; procedencia en photos/raw/manifest.json"
  }
 }

@@ -62,5 +62,311 @@
   "w": 5442,
   "h": 3628,
   "query": "student studying laptop"
+ },
+ "aula-4.jpg": {
+  "source": "https://stocksnap.io/photo/student-school-KBTSP7FFIY",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5760,
+  "h": 3840,
+  "query": "classroom students",
+  "from": "b2-aula-01.jpg"
+ },
+ "aula-5.jpg": {
+  "source": "https://stocksnap.io/photo/stacked-books-DGF2LFZ6JJ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "classroom students",
+  "from": "b2-aula-02.jpg"
+ },
+ "aula-6.jpg": {
+  "source": "https://stocksnap.io/photo/working-typing-0E0M5W9O3V",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3500,
+  "h": 2338,
+  "query": "students desks",
+  "from": "b2-aula-07.jpg"
+ },
+ "aula-7.jpg": {
+  "source": "https://stocksnap.io/photo/macbookair-laptop-6B92C4FF89",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5616,
+  "h": 3744,
+  "query": "students desks",
+  "from": "b2-aula-08.jpg"
+ },
+ "auditorio-3.jpg": {
+  "source": "https://wordpress.org/photos/photo/4206796198/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "lecture hall",
+  "from": "b2-auditorio-01.jpg"
+ },
+ "auditorio-4.jpg": {
+  "source": "https://wordpress.org/photos/photo/447699f0a1/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "lecture hall",
+  "from": "b2-auditorio-02.jpg"
+ },
+ "auditorio-5.jpg": {
+  "source": "https://wordpress.org/photos/photo/482679bd91/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1366,
+  "query": "auditorium audience",
+  "from": "b2-auditorio-03.jpg"
+ },
+ "biblioteca-2.jpg": {
+  "source": "https://stocksnap.io/photo/books-library-EB9B6BC1F6",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4288,
+  "h": 2848,
+  "query": "library",
+  "from": "b2-biblioteca-02.jpg"
+ },
+ "biblioteca-3.jpg": {
+  "source": "https://stocksnap.io/photo/library-books-D8RFKPCP0G",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5065,
+  "h": 3377,
+  "query": "library",
+  "from": "b2-biblioteca-03.jpg"
+ },
+ "biblioteca-4.jpg": {
+  "source": "https://stocksnap.io/photo/library-books-C4001BDB1C",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2517,
+  "h": 1667,
+  "query": "library",
+  "from": "b2-biblioteca-04.jpg"
+ },
+ "biblioteca-6.jpg": {
+  "source": "https://stocksnap.io/photo/man-woman-CQI990NSLK",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 8192,
+  "h": 5461,
+  "query": "library books shelves",
+  "from": "b2-biblioteca-07.jpg"
+ },
+ "biblioteca-7.jpg": {
+  "source": "https://stocksnap.io/photo/books-selling-KQHXTQZKGW",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4256,
+  "h": 2832,
+  "query": "laptop student",
+  "from": "b2-laptop-curso-04.jpg"
+ },
+ "estudiando-2.jpg": {
+  "source": "https://stocksnap.io/photo/notebook-books-7LW16BU9FT",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5061,
+  "h": 3376,
+  "query": "studying notes",
+  "from": "b2-estudiando-01.jpg"
+ },
+ "estudiando-3.jpg": {
+  "source": "https://stocksnap.io/photo/book-wooden-RIF4E7PZR3",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "studying notes",
+  "from": "b2-estudiando-02.jpg"
+ },
+ "estudiando-4.jpg": {
+  "source": "https://stocksnap.io/photo/girl-woman-BDAUNU30R3",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4928,
+  "h": 3264,
+  "query": "student writing",
+  "from": "b2-estudiando-04.jpg"
+ },
+ "estudiando-5.jpg": {
+  "source": "https://stocksnap.io/photo/guy-man-3V10TEO5TA",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5006,
+  "h": 3338,
+  "query": "study desk books",
+  "from": "b2-estudiando-07.jpg"
+ },
+ "estudiando-7.jpg": {
+  "source": "https://stocksnap.io/photo/book-reading-J8Y2RBV4WF",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4780,
+  "h": 3187,
+  "query": "study desk books",
+  "from": "b2-estudiando-09.jpg"
+ },
+ "estudiando-8.jpg": {
+  "source": "https://stocksnap.io/photo/laptop-mac-AQNKPDGKR8",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4460,
+  "h": 2973,
+  "query": "study desk books",
+  "from": "b2-estudiando-10.jpg"
+ },
+ "graduacion-2.jpg": {
+  "source": "https://stocksnap.io/photo/education-graduation-XAL3MIM3OC",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4752,
+  "h": 3168,
+  "query": "graduate diploma",
+  "from": "b2-graduacion-01.jpg"
+ },
+ "graduacion-3.jpg": {
+  "source": "https://stocksnap.io/photo/people-men-3PQLBTZQPC",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3771,
+  "h": 2121,
+  "query": "university graduation",
+  "from": "b2-graduacion-03.jpg"
+ },
+ "laptop-curso-1.jpg": {
+  "source": "https://stocksnap.io/photo/woman-working-CA7J34FTM2",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5760,
+  "h": 3840,
+  "query": "e-learning",
+  "from": "b2-laptop-curso-02.jpg"
+ },
+ "laptop-curso-2.jpg": {
+  "source": "https://stocksnap.io/photo/working-laptop-7FQSNWO04W",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "laptop student",
+  "from": "b2-laptop-curso-03.jpg"
+ },
+ "laptop-curso-3.jpg": {
+  "source": "https://stocksnap.io/photo/person-bench-5TXNXYRX8P",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5184,
+  "h": 3888,
+  "query": "laptop student",
+  "from": "b2-laptop-curso-06.jpg"
+ },
+ "aula-8.jpg": {
+  "source": "https://wordpress.org/photos/photo/665645fadc/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1536,
+  "h": 2048,
+  "query": "classroom",
+  "from": "b2-aula-c-01.jpg"
+ },
+ "aula-9.jpg": {
+  "source": "https://wordpress.org/photos/photo/8676a6e6e5/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1536,
+  "query": "classroom",
+  "from": "b2-aula-c-02.jpg"
+ },
+ "aula-10.jpg": {
+  "source": "https://stocksnap.io/photo/woman-glasses-QQ8PXA4DPH",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 1536,
+  "h": 2304,
+  "query": "teacher students",
+  "from": "b2-aula-c-05.jpg"
+ },
+ "aula-11.jpg": {
+  "source": "https://stocksnap.io/photo/school-books-S059QDGBOG",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3872,
+  "h": 2592,
+  "query": "school class",
+  "from": "b2-aula-c-06.jpg"
+ },
+ "aula-12.jpg": {
+  "source": "https://stocksnap.io/photo/books-reading-CN63QSUO8C",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4592,
+  "h": 3448,
+  "query": "school class",
+  "from": "b2-aula-c-07.jpg"
+ },
+ "aula-13.jpg": {
+  "source": "https://stocksnap.io/photo/retro-penpaper-SFYRKERH4N",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2560,
+  "h": 1920,
+  "query": "school class",
+  "from": "b2-aula-c-08.jpg"
+ },
+ "aula-14.jpg": {
+  "source": "https://stocksnap.io/photo/blue-sky-E1C34B4580",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3578,
+  "h": 2451,
+  "query": "school class",
+  "from": "b2-aula-c-10.jpg"
+ },
+ "aula-15.jpg": {
+  "source": "https://stocksnap.io/photo/trinitycollege-dublin-1755E9DB9C",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3000,
+  "h": 2000,
+  "query": "school class",
+  "from": "b2-aula-c-11.jpg"
+ },
+ "estudiando-9.jpg": {
+  "source": "https://stocksnap.io/photo/students-backpack-38E811B1DF",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2509,
+  "h": 1673,
+  "query": "students",
+  "from": "b2-aula-c-03.jpg"
+ },
+ "biblioteca-8.jpg": {
+  "source": "https://stocksnap.io/photo/people-student-EWT7K0DQLN",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2600,
+  "h": 1735,
+  "query": "students",
+  "from": "b2-aula-c-04.jpg"
+ },
+ "graduacion-4.jpg": {
+  "source": "https://wordpress.org/photos/photo/6976a25b41/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1152,
+  "query": "graduation",
+  "from": "b2-grad-c-01.jpg"
  }
 }

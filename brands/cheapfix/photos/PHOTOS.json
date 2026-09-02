@@ -166,5 +166,410 @@
   "w": 3264,
   "h": 2448,
   "query": "car interior seats"
+ },
+ "armario-3.jpg": {
+  "source": "https://stocksnap.io/photo/closet-clothes-D1B0FAEB46",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5035,
+  "h": 3339,
+  "query": "closet clothes",
+  "from": "b2-armario-01.jpg"
+ },
+ "armario-4.jpg": {
+  "source": "https://stocksnap.io/photo/wardrobe-closet-YISUDLOYC3",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3024,
+  "h": 4032,
+  "query": "closet clothes",
+  "from": "b2-armario-02.jpg"
+ },
+ "armario-5.jpg": {
+  "source": "https://stocksnap.io/photo/fashion-clothes-ZN97ZIF3ZU",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5399,
+  "h": 3599,
+  "query": "clothes rack",
+  "from": "b2-armario-06.jpg"
+ },
+ "armario-6.jpg": {
+  "source": "https://stocksnap.io/photo/clothes-shirts-DDAA823B04",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2962,
+  "h": 3949,
+  "query": "clothes rack",
+  "from": "b2-armario-07.jpg"
+ },
+ "auto-2.jpg": {
+  "source": "https://stocksnap.io/photo/car-interior-SF6UIKA8HT",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2304,
+  "h": 1295,
+  "query": "car interior",
+  "from": "b2-auto-02.jpg"
+ },
+ "auto-3.jpg": {
+  "source": "https://wordpress.org/photos/photo/18265a0d90/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1365,
+  "h": 2048,
+  "query": "car interior",
+  "from": "b2-auto-04.jpg"
+ },
+ "auto-4.jpg": {
+  "source": "https://stocksnap.io/photo/mercedes-benz-E8D86D6252",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2400,
+  "h": 1352,
+  "query": "car interior",
+  "from": "b2-auto-07.jpg"
+ },
+ "auto-5.jpg": {
+  "source": "https://stocksnap.io/photo/bmw-steeringwheel-ENWV6J4YW5",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4270,
+  "h": 2841,
+  "query": "car interior",
+  "from": "b2-auto-08.jpg"
+ },
+ "auto-6.jpg": {
+  "source": "https://stocksnap.io/photo/luxury-car-KADJ2NKMYQ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4460,
+  "h": 2973,
+  "query": "car interior",
+  "from": "b2-auto-09.jpg"
+ },
+ "auto-7.jpg": {
+  "source": "https://stocksnap.io/photo/car-dashboard-AHOSNADWVQ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "car dashboard",
+  "from": "b2-auto-10.jpg"
+ },
+ "bano-3.jpg": {
+  "source": "https://stocksnap.io/photo/woman-bathtub-OBM5JBLMN9",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3536,
+  "h": 4714,
+  "query": "bathroom interior",
+  "from": "b2-bano-03.jpg"
+ },
+ "bano-4.jpg": {
+  "source": "https://stocksnap.io/photo/bath-towels-AXKFEL7HBL",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4722,
+  "h": 3148,
+  "query": "shower bathroom",
+  "from": "b2-ducha-07.jpg"
+ },
+ "bano-5.jpg": {
+  "source": "https://stocksnap.io/photo/woman-bathtub-CUGFVFAI24",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5760,
+  "h": 3840,
+  "query": "bathtub",
+  "from": "b2-ducha-08.jpg"
+ },
+ "cajon-2.jpg": {
+  "source": "https://stocksnap.io/photo/library-catalog-618FIJZEYH",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5256,
+  "h": 3211,
+  "query": "drawer organizer",
+  "from": "b2-cajon-02.jpg"
+ },
+ "cajon-3.jpg": {
+  "source": "https://stocksnap.io/photo/library-catalog-IT6OLNCC9Z",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3190,
+  "h": 4816,
+  "query": "drawer organizer",
+  "from": "b2-cajon-03.jpg"
+ },
+ "cocina-3.jpg": {
+  "source": "https://stocksnap.io/photo/cooking-food-CFBFE8F090",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5472,
+  "h": 3648,
+  "query": "kitchen counter",
+  "from": "b2-cocina-03.jpg"
+ },
+ "cocina-4.jpg": {
+  "source": "https://stocksnap.io/photo/greentea-press-EDFE7A3F40",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 1500,
+  "h": 979,
+  "query": "kitchen counter",
+  "from": "b2-cocina-04.jpg"
+ },
+ "cocina-5.jpg": {
+  "source": "https://stocksnap.io/photo/microwave-food-21CWIC8UCJ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 3712,
+  "query": "kitchen counter",
+  "from": "b2-cocina-05.jpg"
+ },
+ "cocina-6.jpg": {
+  "source": "https://stocksnap.io/photo/kitchen-interior-3ZX53UFU8B",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4000,
+  "h": 6000,
+  "query": "kitchen counter",
+  "from": "b2-cocina-06.jpg"
+ },
+ "cocina-7.jpg": {
+  "source": "https://stocksnap.io/photo/fresh-baked-3QB4NHNAEK",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5079,
+  "h": 3386,
+  "query": "kitchen counter",
+  "from": "b2-cocina-07.jpg"
+ },
+ "cocina-8.jpg": {
+  "source": "https://wordpress.org/photos/photo/738657f3c8/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1365,
+  "query": "kitchen drawer",
+  "from": "b2-cajon-01.jpg"
+ },
+ "dormitorio-3.jpg": {
+  "source": "https://stocksnap.io/photo/bedroom-clean-OE0F9BHXJQ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4460,
+  "h": 2973,
+  "query": "bedroom",
+  "from": "b2-dormitorio-01.jpg"
+ },
+ "dormitorio-4.jpg": {
+  "source": "https://stocksnap.io/photo/bedroom-bed-12B5400E80",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3089,
+  "h": 2048,
+  "query": "bedroom",
+  "from": "b2-dormitorio-02.jpg"
+ },
+ "dormitorio-5.jpg": {
+  "source": "https://stocksnap.io/photo/bedroom-bed-XWI13131WH",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2270,
+  "h": 1498,
+  "query": "bedroom",
+  "from": "b2-dormitorio-03.jpg"
+ },
+ "dormitorio-6.jpg": {
+  "source": "https://stocksnap.io/photo/bedroom-bed-9R85GU3I2P",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4279,
+  "h": 2997,
+  "query": "bedroom",
+  "from": "b2-dormitorio-04.jpg"
+ },
+ "dormitorio-7.jpg": {
+  "source": "https://stocksnap.io/photo/child-bedroom-FZRK6HC0WD",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3648,
+  "h": 5168,
+  "query": "bedroom",
+  "from": "b2-dormitorio-05.jpg"
+ },
+ "dormitorio-8.jpg": {
+  "source": "https://stocksnap.io/photo/bed-bedroom-U8QOG5XQA4",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 5760,
+  "h": 3840,
+  "query": "bedroom",
+  "from": "b2-dormitorio-07.jpg"
+ },
+ "ducha-3.jpg": {
+  "source": "https://wordpress.org/photos/photo/5086880568/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1152,
+  "h": 2048,
+  "query": "shower tile",
+  "from": "b2-ducha-01.jpg"
+ },
+ "limpieza-2.jpg": {
+  "source": "https://stocksnap.io/photo/bath-soap-BAP2TUBT3D",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "shower bathroom",
+  "from": "b2-ducha-04.jpg"
+ },
+ "limpieza-3.jpg": {
+  "source": "https://stocksnap.io/photo/soap-bath-AULHEZDSCC",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "shower bathroom",
+  "from": "b2-ducha-06.jpg"
+ },
+ "fregadero-2.jpg": {
+  "source": "https://stocksnap.io/photo/kitchen-sink-L07UXRLREE",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4813,
+  "h": 3209,
+  "query": "kitchen sink",
+  "from": "b2-fregadero-01.jpg"
+ },
+ "fregadero-3.jpg": {
+  "source": "https://stocksnap.io/photo/kitchen-sink-VO57T4JVJU",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2381,
+  "h": 1762,
+  "query": "kitchen sink",
+  "from": "b2-fregadero-02.jpg"
+ },
+ "fregadero-4.jpg": {
+  "source": "https://wordpress.org/photos/photo/97069d0987/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2040,
+  "h": 2048,
+  "query": "kitchen sink",
+  "from": "b2-fregadero-03.jpg"
+ },
+ "fregadero-5.jpg": {
+  "source": "https://stocksnap.io/photo/sink-faucet-XVEZZZGCXA",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 1652,
+  "h": 2478,
+  "query": "kitchen sink",
+  "from": "b2-fregadero-04.jpg"
+ },
+ "fregadero-6.jpg": {
+  "source": "https://stocksnap.io/photo/taps-gold-WIFG1MZOKJ",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3648,
+  "h": 5472,
+  "query": "kitchen sink",
+  "from": "b2-fregadero-05.jpg"
+ },
+ "fregadero-7.jpg": {
+  "source": "https://stocksnap.io/photo/farmhouse-kitchen-QSX4WH8BDB",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "kitchen sink",
+  "from": "b2-fregadero-06.jpg"
+ },
+ "lavanderia-2.jpg": {
+  "source": "https://wordpress.org/photos/photo/2677f83d4a/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 2048,
+  "h": 1366,
+  "query": "washing machine",
+  "from": "b2-lavanderia-02.jpg"
+ },
+ "lavanderia-3.jpg": {
+  "source": "https://stocksnap.io/photo/clothes-shirts-BD2F94946C",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3089,
+  "h": 2048,
+  "query": "clothesline laundry",
+  "from": "b2-lavanderia-b-01.jpg"
+ },
+ "lavanderia-4.jpg": {
+  "source": "https://stocksnap.io/photo/clothespins-clothesline-1721DDB20E",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6000,
+  "h": 4000,
+  "query": "clothesline laundry",
+  "from": "b2-lavanderia-b-03.jpg"
+ },
+ "lavanderia-5.jpg": {
+  "source": "https://stocksnap.io/photo/fabric-party-TSXSCGU4DT",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 3872,
+  "h": 2592,
+  "query": "clothesline laundry",
+  "from": "b2-lavanderia-b-05.jpg"
+ },
+ "bano-6.jpg": {
+  "source": "https://stocksnap.io/photo/bathroom-sink-D3901L7G93",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2509,
+  "h": 1673,
+  "query": "bathroom",
+  "from": "b2-bano-c-01.jpg"
+ },
+ "bano-7.jpg": {
+  "source": "https://stocksnap.io/photo/family-bathroom-PFS1ZB5UJR",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 6622,
+  "h": 4194,
+  "query": "bathroom",
+  "from": "b2-bano-c-02.jpg"
+ },
+ "bano-8.jpg": {
+  "source": "https://stocksnap.io/photo/antique-bathroom-NLS7MTPBNY",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 4016,
+  "h": 6016,
+  "query": "bathroom",
+  "from": "b2-bano-c-07.jpg"
+ },
+ "bano-9.jpg": {
+  "source": "https://stocksnap.io/photo/wall-bathroom-7MEPFLTQWM",
+  "license": "cc0",
+  "provider": "stocksnap",
+  "w": 2604,
+  "h": 4183,
+  "query": "bathroom",
+  "from": "b2-bano-c-08.jpg"
+ },
+ "cajon-4.jpg": {
+  "source": "https://wordpress.org/photos/photo/1906322013/",
+  "license": "cc0",
+  "provider": "wordpress",
+  "w": 1536,
+  "h": 2048,
+  "query": "shelf organizer",
+  "from": "b2-cajon-c-04.jpg"
  }
 }
