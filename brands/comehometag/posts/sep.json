@@ -63,27 +63,27 @@
      "role": "value",
      "photo": "perro-cara",
      "label": "PASO 1",
-     "h": "No lo *llames*",
-     "b": "Tu voz suena a que lo van a agarrar"
+     "h": "Asume que tiene *casa*",
+     "b": "Casi nunca es un perro botado"
     },
     {
      "role": "value",
      "label": "PASO 2",
-     "h": "*Siéntate* y mira al piso",
-     "b": "De pie y de frente lo asustas más"
+     "h": "No lo *llames* de lejos",
+     "b": "Tu voz suena a que lo van a agarrar"
     },
     {
      "role": "value",
      "photo": "perro-calle",
      "label": "PASO 3",
-     "h": "Come tú y *bota* comida",
-     "b": "Bolsa que suena, y ni lo mires"
+     "h": "Revísale el *collar*",
+     "b": "Chapita, placa o QR con un número"
     },
     {
      "role": "value",
      "label": "PASO 4",
-     "h": "No estires la *mano*",
-     "b": "Deja que él te toque a ti primero"
+     "h": "Si gruñe, *no sigas*",
+     "b": "Avisa al albergue o al serenazgo"
     },
     {
      "role": "closer",
@@ -93,11 +93,11 @@
     }
    ],
    "caption": {
-    "ig": "Encontré un perro perdido en la calle, qué hago. Lo primero es no llamarlo: para un perro asustado esa voz es la de alguien que lo va a agarrar. Siéntate en el piso, mira a otro lado, come algo y bota comida al suelo como si no lo hubieras visto. Y nunca estires la mano: que él te toque primero. ¿Te ha pasado y no supiste qué hacer? #perroperdido #perros #lima",
-    "tt": "Encontraste un perro suelto y lo llamaste. Eso es justo lo que lo hace correr. Mándaselo a quien siempre para a ayudar perros en la calle. #perroperdido #perros",
-    "fb": "Todos llamamos al perro suelto y todos lo vemos alejarse. Los rescatistas hacen lo contrario: se sientan, miran al piso, botan comida y esperan a que el perro se acerque solo. ¿Lo habías escuchado antes?"
+    "ig": "Encontré un perro perdido en la calle, qué hago. Lo primero es asumir que tiene casa: casi nunca es un perro botado, y quien cree que lo botaron termina buscándole familia nueva en vez de buscar a la suya. No lo llames de lejos, porque para un perro asustado esa voz es la de alguien que lo va a agarrar. Revísale el collar por si lleva chapita, placa o un QR con un número. Y si gruñe o se eriza, no insistas: avisa al albergue de tu distrito o al serenazgo. ¿Te ha pasado y no supiste qué hacer? #perroperdido #perros #lima",
+    "tt": "Encontraste un perro suelto y asumiste que lo botaron. Casi nunca es eso. Mándaselo a quien siempre para a ayudar perros en la calle. #perroperdido #perros",
+    "fb": "Quien encuentra un perro suelto suele asumir que lo abandonaron, y el que cree eso termina buscándole casa nueva en vez de buscar a su familia. Primero asume que tiene dueño, revísale el collar y avisa al albergue de tu distrito."
    },
-   "alt": "Cuatro pasos para acercarte a un perro perdido en la calle sin hacerlo correr."
+   "alt": "Cuatro pasos para ayudar a un perro suelto en la calle: asumir que tiene casa, revisarle el collar y avisar."
   },
   {
    "slug": "03-mitos-collar-perro",
@@ -111,7 +111,7 @@
      "role": "value",
      "label": "MITO 1",
      "h": "«Nunca se *aleja*»",
-     "b": "1 de cada 5 se pierde por un ruido"
+     "b": "1 de cada 5 mascotas perdidas huyó por un ruido"
     },
     {
      "role": "value",
@@ -249,7 +249,7 @@
     {
      "role": "cover",
      "photo": "gato",
-     "h": "Tu gato está escondido a *cinco casas*, no lejos"
+     "h": "3 de cada 4 gatos aparecen a *menos de 500 metros*"
     },
     {
      "role": "value",
@@ -286,7 +286,7 @@
    ],
    "caption": {
     "ig": "Gato perdido: dónde está de verdad. En el estudio más grande que existe, tres de cada cuatro gatos aparecieron a menos de quinientos metros del sitio por donde se salieron, y los de interior mucho más cerca todavía. No va a maullar, porque el gato asustado se esconde en silencio. Panza al piso, bajo autos y escaleras, y pide permiso para entrar a los patios de al lado. Guárdalo por si un día se te sale. #gatoperdido #gatos #peru",
-    "tt": "Tu gato no se fue lejos: está escondido y callado a pocas casas. ¿Ya te agachaste a mirar debajo de los autos? #gatoperdido #gatos",
+    "tt": "Tu gato no se fue lejos: está escondido y callado, casi siempre a menos de 500 metros. ¿Ya te agachaste a mirar debajo de los autos? #gatoperdido #gatos",
     "fb": "La mayoría de gatos perdidos aparecen a pocos metros de su casa, escondidos y en silencio. Por eso gritar el nombre no sirve y la arena usada en la puerta tampoco: lo que funciona es agacharse y mirar debajo de todo, patio por patio."
    },
    "alt": "Dónde buscar a un gato perdido: cerca, escondido y en silencio, mirando debajo de todo en los patios vecinos."
@@ -604,7 +604,7 @@
      "role": "value",
      "label": "PASO 3",
      "h": "Avisa al de la *caja*",
-     "b": "El local cierra puertas y lo anuncia"
+     "b": "Pídele que lo anuncie y mire las salidas"
     },
     {
      "role": "value",
@@ -621,7 +621,7 @@
     }
    ],
    "caption": {
-    "ig": "Encontré a un niño perdido, qué hago. Quedarse en el punto donde está, porque los papás vuelven al último sitio donde lo vieron. Agacharse a su altura, decirle tu nombre y preguntarle el suyo. Avisar al personal del local, que tiene protocolo para anunciarlo y vigilar las salidas. Y no llevarlo a dar vueltas: moverlo de ahí lo pierde otra vez. ¿Te ha tocado alguna vez? #ninos #familia #peru",
+    "ig": "Encontré a un niño perdido, qué hago. Quedarse en el punto donde está, porque los papás vuelven al último sitio donde lo vieron. Agacharse a su altura, decirle tu nombre y preguntarle el suyo. Avisar al personal del local y pedirle que lo anuncie y vigile las salidas. Y no llevarlo a dar vueltas: moverlo de ahí lo pierde otra vez. ¿Te ha tocado alguna vez? #ninos #familia #peru",
     "tt": "Encontraste a un niño solo, ¿y ahora qué? Cuatro pasos, sin moverlo del sitio. #ninos #familia",
     "fb": "Lo primero que hacemos casi todos es caminar con el niño a buscar a sus papás, y es justo lo que no ayuda: ellos regresan al punto donde lo vieron por última vez. Quédate ahí y avisa al personal del local."
    },
@@ -777,7 +777,7 @@
     {
      "role": "cover",
      "photo": "mercado",
-     "h": "Tu hijo no va a encontrar un *policía*"
+     "h": "3 personas a las que tu hijo puede *pedir ayuda*"
     },
     {
      "role": "value",
@@ -794,16 +794,16 @@
     },
     {
      "role": "value",
-     "label": "LA FRASE",
-     "h": "«Estoy *perdido*, ayúdeme»",
-     "b": "Aunque haya cola, que interrumpa"
+     "label": "OPCIÓN 3",
+     "h": "Un policía *uniformado*",
+     "b": "Si lo ve; en un mall casi nunca hay"
     },
     {
      "role": "value",
      "photo": "nino-mochila",
-     "label": "SI LO MANDAN",
-     "h": "Que lo diga *otra* vez",
-     "b": "«Pero estoy perdido», sin moverse"
+     "label": "LA FRASE",
+     "h": "«Estoy *perdido*, ayúdeme»",
+     "b": "Y si lo mandan a esperar, que insista"
     },
     {
      "role": "closer",
@@ -814,10 +814,10 @@
    ],
    "caption": {
     "ig": "A quién debe pedir ayuda un niño perdido. Los programas de seguridad infantil enseñan tres opciones y en ese orden de disponibilidad: una señora con niños, alguien de la tienda con fotocheck, o un policía uniformado si lo hay. La frase se ensaya completa: «disculpe, estoy perdido, necesito ayuda». Y si lo mandan a esperar, que lo repita sin moverse de ahí. ¿Tu hijo sabe cuál escogería? #ninos #familia #peru",
-    "tt": "Tu hijo no va a encontrar un policía. Mándaselo a quien lleva a tus hijos cuando tú no puedes. #ninos #familia",
-    "fb": "Les enseñamos a buscar un policía y en un mall casi nunca hay uno cerca. Las dos referencias que sí existen siempre son una señora con niños y alguien de la tienda con fotocheck. Y hay que ensayar la frase, incluso la parte de insistir."
+    "tt": "3 personas a las que tu hijo le puede pedir ayuda si se pierde. Mándaselo a quien lleva a tus hijos cuando tú no puedes. #ninos #familia",
+    "fb": "Los programas de seguridad infantil enseñan tres opciones, en ese orden de disponibilidad: una señora con niños, alguien de la tienda con fotocheck, y el policía uniformado si lo hay. Y hay que ensayar la frase, incluso la parte de insistir."
    },
-   "alt": "A quién debe acercarse un niño perdido para pedir ayuda y qué frase decir."
+   "alt": "Las tres personas a las que un niño perdido puede pedir ayuda y qué frase decir."
   },
   {
    "slug": "18-dia-de-la-familia",
@@ -1036,7 +1036,7 @@
      "role": "value",
      "label": "MITO 3",
      "h": "«Conoce el *barrio*»",
-     "b": "Lo primero que se olvida es la ruta"
+     "b": "Olvidar rutas de siempre es una señal"
     },
     {
      "role": "value",
@@ -1053,7 +1053,7 @@
     }
    ],
    "caption": {
-    "ig": "Mitos sobre cuidar a un adulto mayor con demencia. «A él no le va a pasar»: seis de cada diez personas con demencia se pierden al menos una vez. «Todavía está bien»: puede pasar en cualquier etapa, no solo al final. «Conoce el barrio»: una de las primeras señales es olvidar la ruta a lugares de siempre. Y suele empezar con algo tan chico como volver tarde de la esquina. Guárdalo para la próxima visita a casa de tus papás. #abuelos #adultomayor #peru",
+    "ig": "Mitos sobre cuidar a un adulto mayor con demencia. «A él no le va a pasar»: seis de cada diez personas con demencia se pierden al menos una vez. «Todavía está bien»: puede pasar en cualquier etapa, no solo al final. «Conoce el barrio»: olvidar la ruta a lugares de siempre es una de las señales que describen los especialistas. Y suele empezar con algo tan chico como volver tarde de la esquina. Guárdalo para la próxima visita a casa de tus papás. #abuelos #adultomayor #peru",
     "tt": "4 cosas que crees que cuidan a tu abuelo y no lo hacen. ¿Cuál de las cuatro dices tú? #abuelos #adultomayor",
     "fb": "Lo que más sorprende a las familias es que esto no espera a la etapa avanzada: puede pasar en cualquier momento de la enfermedad, y casi siempre empieza con algo tan chico como volver tarde de un paseo de siempre."
    },
@@ -1126,13 +1126,13 @@
      "photo": "abuela",
      "label": "POR QUÉ",
      "h": "Va a hacer algo de *antes*",
-     "b": "Al trabajo viejo, a recoger a un hijo"
+     "b": "Habla de ir al trabajo de siempre"
     },
     {
      "role": "value",
      "label": "QUÉ HACER",
-     "h": "No lo *frenes* en la puerta",
-     "b": "Camina con él y ve girando el rumbo"
+     "h": "Prende las *luces* temprano",
+     "b": "Con la casa clara se confunde menos"
     },
     {
      "role": "value",
@@ -1149,11 +1149,11 @@
     }
    ],
    "caption": {
-    "ig": "Deambular en demencia: por qué salen a caminar sin rumbo y a qué hora. Suele aparecer al caer la luz, con el atardecer, y casi siempre van a hacer algo que hacían años atrás: ir al trabajo, recoger a un hijo. No los frenes en seco en la puerta: camina con ellos y ve girando el rumbo. Y lo que más lo reduce es tener la tarde ocupada con rutina. Guárdalo para el mes del Alzheimer. #alzheimer #adultomayor #peru",
+    "ig": "Deambular en demencia: por qué salen a caminar sin rumbo y a qué hora. Suele aparecer al caer la luz, con el atardecer, y muchas veces hablan de ir a hacer algo de años atrás, como ir al trabajo. Prende las luces de la casa antes de que oscurezca, porque con la casa clara se confunde menos, y ten esa tarde ocupada con rutina. Guárdalo para el mes del Alzheimer. #alzheimer #adultomayor #peru",
     "tt": "Salir a caminar sin rumbo tiene nombre y hora. ¿Sabías que suele empezar al atardecer? #alzheimer #adultomayor",
-    "fb": "Quien deambula no está huyendo: va a hacer algo que hacía hace años. Y hay un patrón que las familias reconocen apenas lo escuchan: empieza al caer la luz, cuando la casa se llena de sombras."
+    "fb": "Quien deambula no está huyendo: muchas veces habla de ir a hacer algo que hacía años atrás, como ir al trabajo. Y hay un patrón que las familias reconocen apenas lo escuchan: empieza al caer la luz, cuando la casa se llena de sombras."
    },
-   "alt": "Qué es el deambular en la demencia, a qué hora ocurre y cómo acompañarlo."
+   "alt": "Qué es el deambular en la demencia, a qué hora ocurre y qué hacer en la casa a esa hora."
   },
   {
    "slug": "25-alzheimer-preguntar-otra-vez",
@@ -1192,8 +1192,8 @@
     {
      "role": "closer",
      "img": "pulsera.png",
-     "h": "Olvida el camino, no a *ti*",
-     "b": "La «pulsera» ComeHomeTag lleva tu contacto en un QR: si tu mamá sale sola, quien la vea te llama."
+     "h": "El día que sale *sola*",
+     "b": "La «pulsera» ComeHomeTag lleva tu contacto en un QR: quien vea a tu mamá en la calle te llama."
     }
    ],
    "caption": {
@@ -1305,7 +1305,7 @@
     {
      "role": "cover",
      "photo": "abuelo",
-     "h": "Tu abuelo tiene celular y *jamás* lo va a usar"
+     "h": "Tu abuelo no va a llamarte si se *pierde*"
     },
     {
      "role": "value",
@@ -1322,16 +1322,16 @@
     },
     {
      "role": "value",
-     "label": "EL PROBLEMA",
-     "h": "Lo tiene que sacar *él*",
-     "b": "Perdido y asustado no busca un menú"
+     "label": "HAZ ESTO HOY",
+     "h": "Comparte su *ubicación*",
+     "b": "Se activa una vez y él no hace nada"
     },
     {
      "role": "value",
      "photo": "abuela",
-     "label": "LO QUE SÍ",
-     "h": "Algo que lea *otro*",
-     "b": "Lo usa quien lo encuentra, no él"
+     "label": "AUN ASÍ",
+     "h": "El celular no le habla al *que lo ve*",
+     "b": "No dice su nombre ni tu número"
     },
     {
      "role": "closer",
@@ -1341,11 +1341,11 @@
     }
    ],
    "caption": {
-    "ig": "El celular del abuelo no es un plan de seguridad. Haz dos pruebas hoy: pídele que te llame delante de ti sin ayuda, y pregúntale la clave. Si duda, en la calle ese celular ya no le sirve. El problema de fondo es que el celular lo tiene que sacar él, y perdido y asustado no busca en un menú. Lo que funciona es algo puesto encima que pueda leer quien lo encuentra. Guárdalo para el próximo domingo en familia. #abuelos #adultomayor #peru",
-    "tt": "Tu abuelo tiene celular y no lo va a usar. Mándaselo al hermano que le compró el celular. #abuelos #adultomayor",
-    "fb": "Le compramos un celular y quedamos tranquilos. La diferencia real es esta: el celular lo tiene que usar él, y lo que se lleva puesto lo usa quien lo encuentra. Por eso los programas de búsqueda recomiendan lo segundo."
+    "ig": "El celular del abuelo no es un plan de seguridad completo. Haz dos pruebas hoy: pídele que te llame delante de ti sin ayuda, y pregúntale la clave. Si duda, en la calle ese celular ya no le sirve para pedir ayuda. Lo que sí sirve del celular es la ubicación compartida, que se activa una vez y no depende de él. Y falta lo otro: algo puesto encima que pueda leer quien lo encuentre. Guárdalo para el próximo domingo en familia. #abuelos #adultomayor #peru",
+    "tt": "Tu abuelo no va a llamarte si se pierde. Mándaselo al hermano que le compró el celular. #abuelos #adultomayor",
+    "fb": "Le compramos un celular y quedamos tranquilos. Sirve, pero de otra manera: la ubicación compartida se activa una vez y no depende de él, y lo que lleva puesto lo usa quien lo encuentra."
    },
-   "alt": "Dos pruebas para saber si el celular de un adulto mayor le sirve de verdad si se pierde."
+   "alt": "Dos pruebas con el celular del abuelo, la ubicación compartida y lo que sí debe llevar puesto."
   },
   {
    "slug": "29-abuela-mercado",

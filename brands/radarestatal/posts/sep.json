@@ -27,20 +27,20 @@
     {"role": "value", "label": "QUÉ ES", "h": "Piden precios *antes de convocar*", "b": "Así fijan la cuantía de la compra."},
     {"role": "value", "photo": "documentos", "label": "CÓMO LLEGA", "h": "Te la piden *directo a ti*", "b": "O publican el requerimiento en el SEACE."},
     {"role": "value", "label": "OJO", "h": "Cotizar *no te asegura* nada", "b": "Al proceso entras registrándote."},
-    {"role": "value", "photo": "oficina-reunion", "label": "LO QUE GANAS", "h": "Sabes qué *está por comprar*", "b": "Y llegas con papeles listos."},
+    {"role": "value", "photo": "oficina-reunion", "label": "CUIDADO", "h": "No tires el precio *al piso*", "b": "Ese número entra en el cálculo."},
     {"role": "closer", "h": "Un «*radar*» para no perderte la convocatoria", "b": "Radar Estatal es la app peruana que sigue los procesos del SEACE y te avisa cuáles le convienen a tu empresa."}
    ],
    "caption": {
-    "ig": "Interacción con el mercado: así pide precios una entidad del Estado antes de convocar una licitación en el SEACE. Guárdalo para la próxima vez que te pidan una cotización. #licitacionesperu #seace",
+    "ig": "Interacción con el mercado: así pide precios una entidad del Estado antes de convocar una licitación en el SEACE, y por qué el precio que pongas ahí entra en el cálculo de la cuantía. Guárdalo para la próxima vez que te pidan una cotización. #licitacionesperu #seace",
     "tt": "El Estado pide cotizaciones antes de convocar la licitación. ¿Te ha llegado alguna y no supiste qué era? #licitaciones #seace",
-    "fb": "Antes de convocar, las entidades piden cotizaciones para fijar la cuantía de la contratación. Responderlas te dice qué está por comprar esa entidad."
+    "fb": "Antes de convocar, las entidades piden cotizaciones para fijar la cuantía de la contratación. Responderlas te dice qué está por comprar esa entidad, y el precio que pongas entra en ese cálculo."
    },
    "alt": "Carrusel sobre la interacción con el mercado: por qué el Estado pide precios antes de convocar y qué gana el proveedor que responde."
   },
   {
    "slug": "03-descarta-en-3-minutos",
    "slides": [
-    {"role": "cover", "photo": "documentos", "h": "Cuatro datos para *descartar* una licitación en 3 minutos", "b": "Todos están en la primera pantalla."},
+    {"role": "cover", "photo": "documentos", "h": "Cuatro datos para *descartar* una licitación en 3 minutos", "b": "Antes de leerte las bases enteras."},
     {"role": "value", "label": "UNO", "h": "Mira *qué compran* exactamente", "b": "El objeto dice bien o servicio."},
     {"role": "value", "photo": "archivo", "label": "DOS", "h": "Mira *qué entidad* compra", "b": "Y si te queda cerca entregar."},
     {"role": "value", "label": "TRES", "h": "Mira la *fecha de ofertas*", "b": "Si es mañana, ya no entras."},
@@ -92,7 +92,7 @@
    "slug": "06-bases-integradas",
    "slides": [
     {"role": "cover", "photo": "documentos", "h": "Las bases que descargaste hoy *pueden cambiar* después", "b": "Las que mandan son las integradas."},
-    {"role": "value", "label": "QUÉ PASA", "h": "Los postores hacen *consultas*", "b": "La entidad responde por escrito."},
+    {"role": "value", "label": "QUIÉN PREGUNTA", "h": "El *participante* registrado", "b": "Solo él puede hacer consultas."},
     {"role": "value", "photo": "archivo", "label": "RESULTADO", "h": "Sale una *versión final*", "b": "Son las reglas definitivas."},
     {"role": "value", "label": "IMPORTA", "h": "Ahí pueden *moverse requisitos*", "b": "También las fechas del cronograma."},
     {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Arma tu oferta con *esa versión*", "b": "Vuelve al SEACE antes de presentar."},
@@ -146,7 +146,7 @@
     {"role": "value", "label": "DÓNDE", "h": "Cada buena pro *se publica*", "b": "Con el ganador y su sustento."},
     {"role": "value", "photo": "archivo", "label": "BUSCA", "h": "Filtra procesos *de tu rubro*", "b": "El monto sale en la ficha del proceso."},
     {"role": "value", "label": "MIRA", "h": "Compara *entre ganadores*", "b": "Año por año, en lo que tú vendes."},
-    {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "El más barato *no siempre gana*", "b": "En licitación el precio vale 40 de 100."},
+    {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "El más barato *no siempre gana*", "b": "El precio pesa 40 puntos como máximo."},
     {"role": "closer", "h": "El «*radar*» junta ese historial por ti", "b": "Radar Estatal es la app que vigila las compras del Estado y te deja ver qué ganó cada empresa."}
    ],
    "caption": {
@@ -213,7 +213,7 @@
     {"role": "cover", "photo": "oficina-reunion", "h": "Cobrarle al Estado tiene *su propio manual*", "b": "Y empieza antes de entregar."},
     {"role": "value", "label": "PRIMERO", "h": "Entregas contra *el contrato*", "b": "Con la guía o el acta que pide."},
     {"role": "value", "photo": "documentos", "label": "LA LLAVE", "h": "El área usuaria da *la conformidad*", "b": "Sin ese papel no corre el pago."},
-    {"role": "value", "label": "PLAZO", "h": "Te pagan en *diez días hábiles*", "b": "Contados desde la conformidad."},
+    {"role": "value", "label": "PLAZO", "h": "El plazo es de *diez días hábiles*", "b": "Máximo, desde que hay conformidad."},
     {"role": "value", "photo": "archivo", "label": "HAZ ESTO", "h": "Pregunta *quién firma* esa conformidad", "b": "Nombre y área, desde el inicio."},
     {"role": "closer", "h": "Antes de cobrar hay que *encontrar el proceso*", "b": "Radar Estatal es la app que vigila el SEACE y te avisa qué compra el Estado en tu rubro."}
    ],
@@ -230,14 +230,14 @@
     {"role": "cover", "photo": "lima", "h": "Ganaste la buena pro y *todavía no firmas* nada", "b": "Falta un tramo con plazos propios."},
     {"role": "value", "label": "PASO 1", "h": "La buena pro *queda consentida*", "b": "Recién ahí sigue el contrato."},
     {"role": "value", "photo": "documentos", "label": "PASO 2", "h": "Presentas *los documentos* que faltan", "b": "La lista está en las bases."},
-    {"role": "value", "label": "OJO", "h": "Son *ocho días hábiles*", "b": "Para juntar y subir todo."},
+    {"role": "value", "label": "OJO", "h": "Son *ocho días hábiles*", "b": "Cinco si no te piden garantía."},
     {"role": "value", "photo": "oficina-reunion", "label": "HAZ ESTO", "h": "Junta esos papeles *antes* del fallo", "b": "Búscalos antes de ganar."},
     {"role": "closer", "h": "Nosotros te avisamos apenas *sale el fallo*", "b": "Radar Estatal sigue los procesos del SEACE por ti y te avisa en cada movimiento."}
    ],
    "caption": {
-    "ig": "Entre la buena pro y la firma del contrato con el Estado hay un tramo de ocho días hábiles para presentar los documentos que faltan. Guárdalo para cuando ganes tu primer proceso del SEACE. #seace #licitacionesperu #proveedordelestado",
+    "ig": "Entre la buena pro y la firma del contrato con el Estado hay un tramo de ocho días hábiles para presentar los documentos que faltan, o de cinco si el contrato no exige garantía de fiel cumplimiento. Guárdalo para cuando ganes tu primer proceso del SEACE. #seace #licitacionesperu #proveedordelestado",
     "tt": "Ganar la buena pro no es firmar el contrato todavía. ¿Tienes listos los documentos para ese tramo? #licitaciones #seace",
-    "fb": "Después de la buena pro viene el consentimiento y ocho días hábiles para presentar los documentos con los que se perfecciona el contrato."
+    "fb": "Después de la buena pro viene el consentimiento y ocho días hábiles para presentar los documentos con los que se perfecciona el contrato, o cinco si no se exige garantía de fiel cumplimiento."
    },
    "alt": "Carrusel sobre lo que pasa entre la buena pro y la firma del contrato con una entidad del Estado."
   },
@@ -280,15 +280,15 @@
    "slides": [
     {"role": "cover", "photo": "lima", "h": "Una buena pro *se puede cuestionar* por escrito", "b": "Existe un procedimiento y un plazo."},
     {"role": "value", "label": "QUÉ ES", "h": "El *recurso de apelación*", "b": "Se presenta por la plataforma."},
-    {"role": "value", "photo": "documentos", "label": "PLAZO", "h": "Son *ocho días hábiles*", "b": "Desde que publican la buena pro."},
+    {"role": "value", "photo": "documentos", "label": "PLAZO", "h": "*Ocho días* desde la buena pro", "b": "Cinco en los procesos abreviados."},
     {"role": "value", "label": "PIDE", "h": "Se presenta con *una garantía*", "b": "La MYPE paga un porcentaje menor."},
     {"role": "value", "photo": "oficina-reunion", "label": "OJO", "h": "Las bases *no se apelan*", "b": "Eso se pelea antes, en consultas."},
     {"role": "closer", "h": "Antes del reclamo está *ver el proceso a tiempo*", "b": "Radar Estatal es la app que vigila el SEACE y te avisa de cada movimiento de los procesos que sigues."}
    ],
    "caption": {
-    "ig": "Recurso de apelación en las contrataciones del Estado: se interpone dentro de los ocho días hábiles siguientes a la buena pro, con garantía, y las bases no son impugnables por esa vía. Guárdalo para revisarlo con calma antes de tu próximo proceso. #seace #licitacionesperu #oece",
+    "ig": "Recurso de apelación en las contrataciones del Estado: se interpone dentro de los ocho días hábiles siguientes a la buena pro, cinco en los procedimientos abreviados y en la subasta inversa, con garantía, y las bases no son impugnables por esa vía. Guárdalo para revisarlo con calma antes de tu próximo proceso. #seace #licitacionesperu #oece",
     "tt": "Cuestionar una buena pro tiene plazo y garantía. ¿Sabías que las bases ya no se discuten en esa etapa? #licitaciones #seace",
-    "fb": "El recurso de apelación permite cuestionar la buena pro o la declaratoria de desierto dentro de un plazo corto, con garantía y fundamento."
+    "fb": "El recurso de apelación permite cuestionar la buena pro o la declaratoria de desierto dentro de ocho días hábiles, cinco en los procedimientos abreviados, con garantía y fundamento."
    },
    "alt": "Carrusel informativo sobre el recurso de apelación contra una buena pro: plazo, garantía y qué se puede discutir."
   },
@@ -317,7 +317,7 @@
     {"role": "value", "photo": "documentos", "label": "DICE", "h": "Quién entró y *a quién visitó*", "b": "Con la hora, la oficina y el motivo."},
     {"role": "value", "label": "NO DICE", "h": "Nada de *lo que se conversó*", "b": "Una visita no prueba ni decide nada."},
     {"role": "value", "photo": "oficina-reunion", "label": "SIRVE PARA", "h": "Ver qué área *está en movimiento*", "b": "Al proceso se entra por las bases."},
-    {"role": "closer", "h": "El «*radar*» revisa esos registros a diario", "b": "Radar Estatal es la app que vigila las entidades que sigues y te avisa cuando publican información nueva."}
+    {"role": "closer", "h": "El «*radar*» sigue esos registros por ti", "b": "Radar Estatal es la app que vigila las entidades que sigues y te avisa cuando publican información nueva."}
    ],
    "caption": {
     "ig": "Registro de Visitas en Línea de las entidades del Estado: se publica en tiempo real y dice quién entró, a quién visitó y con qué motivo. Guárdalo como referencia sobre información pública del Estado. #transparencia #licitacionesperu #seace",
@@ -349,7 +349,7 @@
     {"role": "cover", "photo": "carretera", "h": "Hay compras del Estado que *no pasan* por licitación", "b": "Se llaman contratos menores."},
     {"role": "value", "label": "LA REGLA", "h": "Hasta *ocho UIT* son contratos menores", "b": "No llevan proceso de selección."},
     {"role": "value", "photo": "almacen", "label": "CÓMO SE HACE", "h": "La entidad *pide cotizaciones*", "b": "Por la plataforma del Estado."},
-    {"role": "value", "label": "TU ENTRADA", "h": "Tener *RNP en tu rubro*", "b": "Ahí te llegan esas solicitudes."},
+    {"role": "value", "label": "TU ENTRADA", "h": "Tener *RNP en tu rubro*", "b": "Por ahí las piden las entidades."},
     {"role": "value", "photo": "documentos", "label": "SIRVE PARA", "h": "Ver *quién compra lo tuyo*", "b": "Todo queda registrado ahí."},
     {"role": "closer", "h": "El «*radar*» te dice a qué entidad tocarle la puerta", "b": "Radar Estatal es la app peruana que vigila las compras del Estado y te muestra quién compra tu rubro."}
    ],
@@ -469,13 +469,13 @@
     {"role": "value", "label": "PASO 1", "h": "RUC activo y *habido* en SUNAT", "b": "Sin eso no corre nada más."},
     {"role": "value", "photo": "documentos", "label": "PASO 2", "h": "Inscribirse en el *RNP*", "b": "El registro de proveedores del Estado."},
     {"role": "value", "label": "PASO 3", "h": "Buscar *su rubro* en el SEACE", "b": "Y leer las bases de dos procesos."},
-    {"role": "value", "photo": "oficina-reunion", "label": "PASO 4", "h": "Cotizarle a *entidades chicas*", "b": "Municipios y colegios del distrito."},
+    {"role": "value", "photo": "oficina-reunion", "label": "PASO 4", "h": "Apuntar a *municipios y colegios*", "b": "Con el rubro correcto en tu RNP."},
     {"role": "closer", "h": "El «*radar*» hace ese paso tres todos los días", "b": "Radar Estatal es la app peruana que vigila el SEACE y te avisa qué compra el Estado en tu rubro."}
    ],
    "caption": {
-    "ig": "Cómo empezar a venderle al Estado peruano: RUC habido, inscripción en el RNP, búsqueda de tu rubro en el SEACE y cotizaciones a entidades cercanas. Guárdalo si recién vas a empezar. #rnp #seace #licitacionesperu",
+    "ig": "Cómo empezar a venderle al Estado peruano: RUC habido, inscripción en el RNP con el rubro correcto, búsqueda de ese rubro en el SEACE y apuntar a los municipios y colegios de tu distrito. Guárdalo si recién vas a empezar. #rnp #seace #licitacionesperu",
     "tt": "Cuatro pasos para que un negocio chico empiece a venderle al Estado, sin conocer a nadie. ¿En cuál te quedaste? #rnp #seace",
-    "fb": "La ruta para empezar a venderle al Estado: RUC activo y habido, inscripción en el RNP, búsqueda del rubro en el SEACE y cotizaciones a entidades cercanas."
+    "fb": "La ruta para empezar a venderle al Estado: RUC activo y habido, inscripción en el RNP con el rubro correcto, búsqueda de ese rubro en el SEACE y las entidades chicas del distrito como primer objetivo."
    },
    "alt": "Carrusel con la ruta de cuatro pasos para que una MYPE empiece a venderle al Estado peruano."
   },

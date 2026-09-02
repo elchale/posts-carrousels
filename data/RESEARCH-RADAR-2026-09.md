@@ -799,3 +799,37 @@ devuelve ganadores en lista.
 y la tabla de vocabulario. Esta tarea solo tocó `posts/sep.json` y este
 documento, así que la ficha de marca sigue diciendo "valor estimado ≠ valor
 referencial" y "registro ex post" — y eso ya no es cierto.
+
+---
+
+## 27 · SEGUNDA PASADA — el lente de JUICIO EXPERTO (2026-09-01)
+
+La auditoría normativa de arriba dejó los 30 posts EXACTOS. Esta segunda
+pasada preguntó otra cosa: **«¿lo firmaría un especialista en contrataciones
+que asesora MYPE, en este contexto y para este lector?»** — es decir, si el
+mecanismo, además de cierto, es **completo, accionable y sin efecto dañino
+aplicado literalmente**. Todo lo de abajo se resuelve contra el mismo texto
+normativo ya citado en §25; no hay fuentes nuevas.
+
+| Post | Lo que decía | Por qué un experto no lo firma | Lo que dice ahora |
+|---|---|---|---|
+| **17 · apelación** | «Son ocho días hábiles / desde que publican la buena pro» | Regl. art. 304: son **5 días hábiles** en concurso y licitación abreviados, selección de expertos, comparación de precios y subasta inversa. **Esos son justo los procedimientos donde compite una MYPE.** Un lector que se confíe en «ocho» pierde el derecho a apelar | «*Ocho días* desde la buena pro / Cinco en los procesos abreviados» |
+| **14 · antes de firmar** | «Son ocho días hábiles / para juntar y subir todo» | Regl. art. 90.2: **5 días hábiles** si no se exige garantía de fiel cumplimiento — el caso normal de un contrato chico. Mismo riesgo de perder el plazo | «Son *ocho días hábiles* / Cinco si no te piden garantía» |
+| **09 · precio que ganó** | «En licitación el precio vale 40 de 100» | Regl. art. 75.1 fija un **tope**, no un valor: el factor económico *"no puede superar"* 40 puntos. Las bases pueden ponerle 30. Decirlo como cifra fija es una imprecisión que esta marca no puede permitirse | «El precio pesa 40 puntos como máximo» |
+| **13 · cobrar al Estado** | «Te pagan en diez días hábiles» | Ley art. 67.3 es un **plazo máximo**, además prorrogable cinco días con justificación. Presentarlo como promesa de cobro es planificarle mal el flujo de caja al proveedor | «El plazo es de *diez días hábiles* / Máximo, desde que hay conformidad» |
+| **06 · bases integradas** | «Los **postores** hacen consultas» | Regl. art. 66.1: las formulan los **participantes** registrados, y el post 30 de la misma serie enseña justamente esa distinción. Término incorrecto y contradicción interna de la marca | «QUIÉN PREGUNTA · El *participante* registrado / Solo él puede hacer consultas» |
+| **02 · cotiza antes** | Última lámina: «Sabes qué está por comprar / y llegas con papeles listos» | Era una re-promesa del beneficio de la portada, y omitía **el único riesgo real de cotizar**: la cuantía se calcula a partir de esa interacción con el mercado (Regl. art. 53.1), así que un precio tirado al piso se convierte en el techo que tendrás que batir | «CUIDADO · No tires el precio *al piso* / Ese número entra en el cálculo» |
+| **21 · compras menores** | «Tener RNP en tu rubro / **ahí te llegan** esas solicitudes» | Regl. art. 228.2 dice que la DEC **solicita** cotizaciones por la Pladicop a proveedores con RNP del rubro; no dice que lleguen solas ni que estar inscrito baste. Un lector que se inscribe y espera, no vende | «Por ahí las piden las entidades» |
+| **28 · ferretería** | «Paso 4: cotizarle a entidades chicas / municipios y colegios del distrito» | El canal del contrato menor es **la plataforma**, no la puerta de la municipalidad (art. 228.2) — y así el post contradecía al post 21 de la misma serie. Además el requisito operativo es el **rubro correcto en el RNP** | «Apuntar a *municipios y colegios* / Con el rubro correcto en tu RNP» |
+| **03 · descarta en 3 minutos** | Portada: «todos están en la primera pantalla» | Tres de los cuatro datos sí (aviso de convocatoria, Regl. art. 63.2), pero **la experiencia requerida vive dentro de las bases**. Falso para el cuarto ítem del propio post | «Antes de leerte las bases enteras» |
+| **19 · registro de visitas** | Cierre: «el «radar» revisa esos registros **a diario**» | La lámina de valor ya decía «en tiempo real» (DS 120-2019-PCM art. 3.9), corregido en §19 — y el cierre repetía el error viejo dos láminas después | «El «*radar*» sigue esos registros por ti» |
+
+**Intactos: 20 de 30.** Los mecanismos de PAC, cuantía, cronograma, requisitos
+vs. factores, anexos, experiencia, carpeta, subsanación, verificación
+posterior, los cuatro filtros, quién evalúa, cuántos compiten, buena pro,
+venderle al ganador, Consulta Amigable, cierre fiscal, EETT/TDR, ventana
+00:01–23:59, notificaciones y registro de participante sobreviven el lente
+experto sin cambio.
+
+> Pendiente que sigue abierto (§26): `brands/radarestatal/BRAND.md` todavía
+> tiene las falacias #3, #4 y #9 desactualizadas.

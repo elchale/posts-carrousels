@@ -554,3 +554,95 @@ que "tu manual ya existe".
 | "Donde no hay estándar no hay kaizen" (Ohno) | No verificada | No citar |
 | "62% de las empresas nunca responde" | PLAUSIBLE (vendor) | No usar |
 | Cualquier cifra de dinero o de resultado propio | — | Regla dura de marca |
+
+
+---
+
+# AUDITORÍA DE «CONSEJO TONTO» — 2026-09-01 (segunda pasada, revisor senior)
+
+Relectura lámina por lámina de los 30 posts con los cinco filtros del revisor
+(practitioner TOP en el contexto exacto · sirve al objetivo o solo «es correcto»
+· escuela correcta · ¿le hace perder plata? · específico o categoría).
+
+**Resultado: 4 posts tocados, 26 intactos.** El set estaba sólido — el research
+de arriba hizo el trabajo pesado. Lo que falló fueron **cuatro sitios donde la
+lámina se desvió de este mismo documento**.
+
+## A. Post 04 — seis preguntas antes de un número (se contradecía sola)
+
+**Decía:** lámina 2 (EL COSTO) «Seis preguntas antes de un número» = *el problema*.
+Lámina 3 (EL ARREGLO) «Escribe **las seis preguntas**, las mismas y en el mismo
+orden» = *la solución*. La misma cosa presentada como enfermedad y como cura.
+
+Y en el chat, seis preguntas antes de dar cualquier cifra es un interrogatorio:
+el que pregunta se va (criterio 4). Choca además con la doctrina de precio de
+Carlos (velocidad → **una** pregunta de calificación → recomendar → número
+anclado) y con el propio §1.3 de este documento, que ya prescribe la **respuesta
+inmediata parcial: «precio base + una pregunta»**.
+
+**Dice ahora:** «Dos preguntas y sale el *rango* · El detalle, después del rango».
+El estándar fijo de calificación (§2, BANT aplicado al mostrador) se mantiene
+como **disciplina interna**; lo que no se mantiene es dispararlo entero por chat.
+
+## B. Post 07 — el número pelado de madrugada tampoco vende
+
+**Decía:** «Precio base ahora, el resto mañana».
+
+Es el número solo, que es exactamente lo que la doctrina corregida prohíbe. Y el
+§1.3 de este documento **ya lo tenía bien**: *«precio base + una pregunta»* — la
+lámina se había comido la mitad de la receta.
+
+**Dice ahora:** «Responder *no es* resolver · Un rango, una pregunta, y sigues
+mañana.» Así el mensaje automático de la madrugada te deja **dentro de la
+conversación** en vez de cerrarla con una cifra.
+
+## C. Post 14 — siete días después de una visita es tarde
+
+**Decía:** «A LOS 7 DÍAS · Vuelve con una novedad».
+
+Dos problemas: (a) la lámina anterior te hace escribir **qué lo frenó** justo al
+despedirlo, y después ese dato no se usa; (b) siete días sobre un cliente que
+acaba de darte su tarde desperdicia el único momento en que el interés está
+arriba. Criterio 5: quedó en categoría («una novedad»), no en la acción exacta.
+
+**Dice ahora:** «AL DÍA SIGUIENTE · Vuelve con lo que *lo frenó* · La respuesta a
+eso, no un saludo.» Es Braun aplicado (el toque necesita **motivo nuevo**, y el
+motivo ya te lo dio él) y cierra el bucle con la lámina anterior. El cierre pasa
+a «La ficha *vuelve sola* al día siguiente».
+
+## D. Post 24 — «si no está en la lista, no hay» regala la cola larga
+
+**Decía:** «Si no está en la lista, no hay · Responde la lista, no tu memoria».
+
+El §7 de este documento prescribe conteo cíclico sobre los diez que más se
+preguntan **y el resto por turno** — la lámina se saltó la segunda mitad y
+convirtió un registro parcial en una **negativa de venta**. Un mostrador que
+contesta «no hay» sobre lo que sí tiene en el almacén pierde plata todos los días
+(criterio 4).
+
+**Dice ahora:** «Nunca digas *no hay* sin mirar · «te confirmo en 20 minutos» y
+cumples.» Es el SLA de §1 aplicado al stock: **tiempo de respuesta ≠ tiempo de
+resolución**, declarados por separado.
+
+## E. Lo que se miró de cerca y se dejó igual
+
+- **Post 26, «resolverlo no te deja mejor que antes»**: es el desmentido de la
+  *service recovery paradox* del §8, deliberado y bien citado. Suena estéril pero
+  mata una frase de coach que hace invertir en el gesto en vez de en el proceso.
+  **Se queda.**
+- **Post 19, «que expliquen el porqué»**: es **Awareness** de ADKAR (§11), el
+  primer bloque secuencial y un barrier point real. Se queda.
+- **Post 13, «un mensaje rinde como la llamada»**: Cochrane, RR 0.99 frente a la
+  llamada y 55–65% más barato. Se queda.
+- **Posts 08, 12, 21, 22, 25, 29, 30**: GTD, single source of truth, SLA y regla
+  del único Accountable, todos en su terreno. Se quedan.
+
+**Intactos (26):** 01, 02, 03, 05, 06, 08, 09, 10, 11, 12, 13, 15, 16, 17, 18,
+19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30.
+
+## F. Regla que queda escrita para el resto de la serie
+
+Toda respuesta de precio en chat, en CUALQUIER post de esta marca, se escribe en
+este orden y nunca en otro: **velocidad → una o dos preguntas de calificación →
+recomendación para su caso → rango o número anclado con siguiente paso.** El
+número pelado no vende, y tampoco vende el interrogatorio antes del número.

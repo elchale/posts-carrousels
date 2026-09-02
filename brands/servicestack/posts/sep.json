@@ -34,8 +34,8 @@
     {
      "role": "value",
      "label": "STEP 4",
-     "h": "Follow up *three times*",
-     "b": "Day 1, day 3, day 7, stop"
+     "h": "Every follow up brings *something new*",
+     "b": "Never just checking in"
     },
     {
      "role": "closer",
@@ -44,9 +44,9 @@
     }
    ],
    "caption": {
-    "ig": "Lead follow up for a business of one. One form link, an automatic reply inside five minutes, one question back, and three follow ups before you stop. I run it on the free tier of Systeme.io. #ad I earn commission from links. What is the task you would hand off first? #solopreneur",
+    "ig": "Lead follow up for a business of one. One form link, an automatic reply inside five minutes, one question back, and every follow up after that carrying something new instead of a check in. I run it on the free tier of Systeme.io. #ad I earn commission from links. What is the task you would hand off first? #solopreneur",
     "tt": "Four steps that answer a lead while you sleep. #ad commissions from links. What would you hand off first?",
-    "fb": "One link for new leads, an automatic reply in five minutes, one question back, three follow ups. Built on a free Systeme.io account. I earn commission from links."
+    "fb": "One link for new leads, an automatic reply in five minutes, one question back, and every follow up after that carrying something new. Built on a free Systeme.io account. I earn commission from links."
    },
    "alt": "A hand holding a phone showing an incoming message."
   },
@@ -223,7 +223,7 @@
      "role": "value",
      "label": "SETTING 4",
      "h": "Send the *reminder* yourself",
-     "b": "Day before, your address"
+     "b": "Day before, with a reschedule link"
     },
     {
      "role": "closer",
@@ -232,9 +232,9 @@
     }
    ],
    "caption": {
-    "ig": "Booking pages for people with no assistant. Show three slots not ten, add a fifteen minute buffer, ask one question on the form, and send the reminder from your own address the day before. #ad I earn commission from links. How many no shows did you have last month? #smallbusiness",
+    "ig": "Booking pages for people with no assistant. Show three slots not ten, add a fifteen minute buffer, ask one question on the form, and send the reminder from your own address the day before with a link to move the time. #ad I earn commission from links. How many no shows did you have last month? #smallbusiness",
     "tt": "Four booking page settings that cut no shows. #ad commissions from links. How many did you have last month?",
-    "fb": "Three slots, a fifteen minute buffer, one question on the form, and your own reminder the day before. Page and emails on a free Systeme.io account."
+    "fb": "Three slots, a fifteen minute buffer, one question on the form, and your own reminder the day before with a link to move the time. Page and emails on a free Systeme.io account."
    },
    "alt": "An open planner and pen, the calendar a booking page replaces."
   },
@@ -258,7 +258,7 @@
      "photo": "laptop",
      "label": "FIELD 2",
      "h": "The *deadline* they said",
-     "b": "Yours goes two days after"
+     "b": "Your own date lands two days earlier"
     },
     {
      "role": "value",
@@ -279,9 +279,9 @@
     }
    ],
    "caption": {
-    "ig": "Proposals that take twenty minutes instead of an evening. Four fields on the intake form: the job in their words, their deadline, the price with what is excluded, and the one thing you need from them. Then the template fills itself. How long does your average proposal take? #freelance",
+    "ig": "Proposals that take twenty minutes instead of an evening. Four fields on the intake form: the job in their words, their deadline with your own date two days earlier, the price with what is excluded, and the one thing you need from them. Then the template fills itself. How long does your average proposal take? #freelance",
     "tt": "Four form fields and the proposal writes itself. How long does yours take? #freelancetips",
-    "fb": "Four intake fields fill a proposal template: the job in their words, their deadline, the price and exclusions, and what you need from them."
+    "fb": "Four intake fields fill a proposal template: the job in their words, their deadline with your own date two days earlier, the price and exclusions, and what you need from them."
    },
    "alt": "Hands writing on a document at a table."
   },
@@ -391,8 +391,8 @@
     {
      "role": "value",
      "label": "DAILY 1",
-     "h": "The *inbox*, once at nine",
-     "b": "Not open all day"
+     "h": "The *inbox*, twice a day",
+     "b": "New leads alert you, the rest waits"
     },
     {
      "role": "value",
@@ -420,9 +420,9 @@
     }
    ],
    "caption": {
-    "ig": "The four tools a one person agency actually opens: the inbox once in the morning, one board with columns by week, the invoice tool on Fridays, and one searchable notes file. How many tabs do you have open right now? #agencylife",
+    "ig": "The four tools a one person agency actually opens: the inbox twice a day with new leads on alert, one board with columns by week, the invoice tool on Fridays, and one searchable notes file. How many tabs do you have open right now? #agencylife",
     "tt": "Four tabs run a one person agency. How many do you have open right now? #solopreneur",
-    "fb": "Inbox once a day, one board with columns by week, the invoice tool on Fridays, one notes file. Everything else is noise."
+    "fb": "Inbox twice a day with new leads on alert, one board with columns by week, the invoice tool on Fridays, one notes file. Everything else is noise."
    },
    "alt": "A laptop on a desk lit at night, the four tab workday."
   },
@@ -633,8 +633,8 @@
      "role": "value",
      "photo": "laptop",
      "label": "LINE 2",
-     "h": "Name the *reader*",
-     "b": "A client, not a colleague"
+     "h": "Paste *last week's* update in",
+     "b": "The example beats the instruction"
     },
     {
      "role": "value",
@@ -655,9 +655,9 @@
     }
    ],
    "caption": {
-    "ig": "The four line prompt that turns Friday notes into a client update: raw dictated notes, name the reader, set the shape, cap the length. What does your Friday admin look like? #freelance",
+    "ig": "The four line prompt that turns Friday notes into a client update: raw dictated notes, last week update pasted in as the example, the shape you want, and a length cap. What does your Friday admin look like? #freelance",
     "tt": "Four prompt lines turn messy notes into the Friday update. What does your Friday look like? #aitools",
-    "fb": "Give it the raw notes, name the reader, set the shape as shipped, blocked and next, and cap the length under 120 words."
+    "fb": "Give it the raw notes, paste last week update in as the example, set the shape as shipped, blocked and next, and cap the length under 120 words."
    },
    "alt": "A pen and paper on a desk beside a phone, the raw notes."
   },
@@ -693,7 +693,7 @@
      "role": "value",
      "label": "PART 4",
      "h": "Offer *one* thing back",
-     "b": "A call, a rush, a credit"
+     "b": "A call, a partial, priority next"
     },
     {
      "role": "closer",
@@ -702,7 +702,7 @@
     }
    ],
    "caption": {
-    "ig": "The email to send when you are going to miss a deadline: say it is late in the first line, give one new date, say what changed in one sentence, offer one thing back. Sent early it is information, sent late it is an excuse. What is the hardest client email to write? #freelance",
+    "ig": "The email to send when you are going to miss a deadline: say it is late in the first line, give one new date, say what changed in one sentence, offer one thing back that is not money. Sent early it is information, sent late it is an excuse. What is the hardest client email to write? #freelance",
     "tt": "The four part email for when you are late. What is the hardest client email to write? #freelancetips",
     "fb": "Say it is late in the first line, give one new date, explain in one sentence without blame, and offer one thing back."
    },
@@ -855,7 +855,7 @@
     {
      "role": "cover",
      "photo": "calendario",
-     "h": "*4 tasks* that should stay a checklist",
+     "h": "*3 tasks* that should stay a checklist",
      "b": "building it costs more than doing it"
     },
     {
@@ -880,8 +880,8 @@
     {
      "role": "value",
      "label": "THE TEST",
-     "h": "Under *five* minutes, weekly",
-     "b": "Do it, do not build it"
+     "h": "Five minutes weekly, *four hours* a year",
+     "b": "Build only if it takes less"
     },
     {
      "role": "closer",
@@ -890,9 +890,9 @@
     }
    ],
    "caption": {
-    "ig": "Four tasks that should stay a checklist instead of becoming an automation: monthly tasks, anything with judgement in it, anything that changes often, and anything under five minutes a week. What did you build that you should have just done? #automation",
-    "tt": "Four things to leave as a checklist. What did you build that you should have just done? #smallbusiness",
-    "fb": "Monthly tasks, judgement calls, things that change often and anything under five minutes a week belong on a checklist, not in an automation."
+    "ig": "Three tasks that should stay a checklist instead of becoming an automation: monthly tasks, anything with judgement in it, and anything that changes often. Then do the arithmetic: five minutes a week is four hours a year, so build it only if building takes less. What did you build that you should have just done? #automation",
+    "tt": "Three things to leave as a checklist. What did you build that you should have just done? #smallbusiness",
+    "fb": "Monthly tasks, judgement calls and things that change often belong on a checklist. Then do the arithmetic: five minutes a week is four hours a year, so build it only if building takes less than that."
    },
    "alt": "A planner open on a desk, the checklist that beats the automation."
   },

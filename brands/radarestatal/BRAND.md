@@ -22,7 +22,7 @@ Cuatro capacidades (en orden de gancho):
 4. **Avisos de designaciones y visitas**: cuando designan a un funcionario en
    una entidad que sigues, o cuando esa entidad publica su registro de visitas,
    te llega el aviso. Ambas fuentes son públicas y obligatorias (designaciones
-   en El Peruano; Registro de Visitas en Línea, publicación diaria en datos
+   en El Peruano; Registro de Visitas en Línea, en tiempo real y en datos
    abiertos), pero nadie las revisa a mano todos los días.
 
 ## Identidad visual
@@ -238,7 +238,7 @@ Verificadas contra norma y fuente oficial. **Ningún post puede contradecirlas.*
    contra las bases del proceso concreto.
 9. **Designaciones y visitas** (la capacidad nueva): las designaciones de
    funcionarios se publican por resolución en El Peruano; el **Registro de
-   Visitas en Línea** es obligatorio, de publicación diaria y en datos
+   Visitas en Línea** es obligatorio, en tiempo real y en datos
    abiertos. Se comunica como lo que es: **un aviso automático de información
    pública**. Nunca insinuar que sirve para gestionar contactos, influir en
    una compra ni "llegar al funcionario" — eso rompe la regla de cero

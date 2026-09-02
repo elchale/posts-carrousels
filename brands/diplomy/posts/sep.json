@@ -9,7 +9,7 @@
     {
      "role": "cover",
      "photo": "laptop-curso",
-     "h": "4 things HR looks for on a *course certificate*",
+     "h": "3 things HR looks for on a *course certificate*",
      "b": "before it reaches the hiring manager"
     },
     {
@@ -33,21 +33,21 @@
     },
     {
      "role": "value",
-     "label": "CHECK 4",
+     "label": "AND",
      "photo": "estudiando",
      "h": "One *link* that opens",
-     "b": "Your student sends it, anyone reads it"
+     "b": "So a screener can check all three"
     },
     {
      "role": "closer",
-     "h": "Diplomy issues certificates that *carry all four*",
+     "h": "Diplomy issues certificates that *carry all of it*",
      "b": "Your academy sets the criteria and the design, and every certificate gets its own \"verify page\"."
     }
    ],
    "caption": {
-    "ig": "Course certificates and what an HR screener reads first. The people who actually screen applications look for a real assessment, the skill named plainly, the organisation behind it, and a link that opens. Save this before your next intake closes. Diplomy (diplomy.org) is where an academy issues certificates carrying all four. #certificates #onlinecourses #training",
-    "tt": "Course certificates: four things an HR screener looks for. Which one is already on the ones your school sends? #certificates #edtech",
-    "fb": "HR screeners read a course certificate for four things: a real assessment, the skill named, the organisation behind it, and a link that opens. Diplomy (diplomy.org) puts all four on every certificate an academy sends."
+    "ig": "Course certificates and what an HR screener reads first. The people who actually screen applications look for a real assessment, the skill named plainly, and the organisation behind it. A link that opens is what lets them check all three. Save this before your next intake closes. Diplomy (diplomy.org) is where an academy issues certificates carrying all of it. #certificates #onlinecourses #training",
+    "tt": "Course certificates: three things an HR screener looks for. Which one is already on the ones your school sends? #certificates #edtech",
+    "fb": "HR screeners read a course certificate for three things: a real assessment, the skill named, and the organisation behind it. A link that opens is how they check. Diplomy (diplomy.org) puts all of it on every certificate an academy sends."
    },
    "alt": "A course certificate open on a laptop while someone reviews an application."
   },
@@ -214,8 +214,8 @@
      "role": "value",
      "label": "THE UNIT",
      "photo": "profesor",
-     "h": "Ten hours, one *CEU*",
-     "b": "The unit continuing education counts in"
+     "h": "Ten hours make one *CEU*",
+     "b": "An accredited CEU is a separate claim"
     },
     {
      "role": "value",
@@ -230,9 +230,9 @@
     }
    ],
    "caption": {
-    "ig": "Course certificates and contact hours, the one field that travels. An employer who has never heard of your academy still reads a number the same way, and ten contact hours is the unit continuing education already counts in. Save this before your next batch goes out. Diplomy (diplomy.org) carries the hours on the PDF and on the page. #certificates #corporatetraining #edtech",
+    "ig": "Course certificates and contact hours, the one field that travels. An employer who has never heard of your academy still reads a number the same way, and ten contact hours is the unit continuing education counts in, while an accredited CEU is a separate claim a reviewed provider makes. Save this before your next batch goes out. Diplomy (diplomy.org) carries the hours on the PDF and on the page. #certificates #corporatetraining #edtech",
     "tt": "Contact hours are the field on a course certificate anyone can compare. Do the ones your school sends show them? #certificates #training",
-    "fb": "Contact hours are the one field a stranger can compare, and ten of them is the unit continuing education counts in. Diplomy (diplomy.org) shows the same hours on the PDF and the page."
+    "fb": "Contact hours are the one field a stranger can compare, and ten of them is the unit continuing education counts in, though an accredited CEU is a separate claim. Diplomy (diplomy.org) shows the same hours on the PDF and the page."
    },
    "alt": "A student studying, with course hours logged in a notebook."
   },
@@ -344,8 +344,8 @@
     {
      "role": "value",
      "label": "WHERE",
-     "h": "On the *front* face",
-     "b": "Small, near the date, easy to read out"
+     "h": "On the *printed* face",
+     "b": "Where anyone can read it out loud"
     },
     {
      "role": "value",
@@ -1106,8 +1106,8 @@
     {
      "role": "value",
      "label": "DEADLINE",
-     "h": "Weeks, not *months*",
-     "b": "Claim windows close after your course"
+     "h": "The clock starts at *the end*",
+     "b": "Some claim windows close in 90 days"
     },
     {
      "role": "value",
@@ -1123,7 +1123,7 @@
     }
    ],
    "caption": {
-    "ig": "Tuition reimbursement and what a finance team asks a student for. Employers want the course and the dates, the employee name as they hold it, and proof of completion carrying a result rather than an attendance line, and the claim window closes weeks after the course ends. Save this for the students on your roster paying through work. Diplomy (diplomy.org) shows all of it on the certificate page. #corporatetraining #certificates #elearning",
+    "ig": "Tuition reimbursement and what a finance team asks a student for. Employers want the course and the dates, the employee name as they hold it, and proof of completion carrying a result rather than an attendance line, and the claim window starts closing the day the course ends, ninety days out at some employers. Save this for the students on your roster paying through work. Diplomy (diplomy.org) shows all of it on the certificate page. #corporatetraining #certificates #elearning",
     "tt": "Students expensing your course need proof their finance team can open, and fast. Does yours arrive in time? #corporatetraining #certificates",
     "fb": "Students paying through their employer need the course, the dates, their name as held, and proof of completion with a result, before the claim window closes. Diplomy (diplomy.org) puts it on the page."
    },
@@ -1202,8 +1202,8 @@
     {
      "role": "value",
      "label": "FRAME",
-     "h": "Use a *known scale*",
-     "b": "Your language school already teaches one"
+     "h": "Use a *public* scale",
+     "b": "One that actually fits your course"
     },
     {
      "role": "value",

@@ -823,3 +823,54 @@ life-threatening emergencies should occur at least annually."*
 10. Una definición propia de «contact hour» separada de la del CEU (§3.5).
 11. Reglas de ubicación del QR, cantidad de firmas, o fraseo de «finalización
     parcial» — ninguna fuente los da (§3.3, §3.7, §3.9).
+
+---
+
+## 8 · SEGUNDA PASADA — el lente de JUICIO EXPERTO (2026-09-01)
+
+Pasada posterior a la investigación de arriba. La pregunta ya no era «¿tiene
+fuente?» sino **«¿lo firmaría un experto en credenciales, en este contexto y
+para este lector (quien emite certificados en una academia)?»**
+
+### 8.1 Verificación nueva: el CEU
+
+**IACET, "About the CEU"** — https://www.iacet.org/standards/continuing-education-unit-ceu/about-the-ceu/
+Leído de nuevo, y trae una distinción que la pasada anterior no recogió:
+
+- El CEU es *"a unit of measurement for continuing education participation"*
+  que *"may or may not reflect external review"*.
+- El **Accredited CEU** es el que lleva *"third-party verification"* de que las
+  prácticas se alinean con el estándar de IACET.
+- El estándar *"is voluntary and may be used by organizations that choose to
+  align their continuing education and training practices with it."*
+— CONFIRMADO.
+
+> **Consecuencia editorial.** El post 05 explicaba «diez horas, un CEU» sin
+> decir nada más, y una academia que lea eso puede imprimir un CEU en el
+> certificado creyendo que reclama algo revisado. Eso es exactamente la trampa
+> dura de la marca (**verifiable ≠ accredited**), del lado equivocado. La
+> lámina ahora dice **«An accredited CEU is a separate claim»**.
+> Ojo: **tampoco es cierto que solo un proveedor acreditado pueda usar la
+> palabra CEU** — esa versión, que era la corrección obvia, habría sido un
+> error nuevo. La distinción real es *CEU* (unidad de medida) vs *Accredited
+> CEU* (revisado por un tercero).
+
+### 8.2 Consejos que se cayeron por juicio experto
+
+| Consejo que teníamos | Por qué era tonto | Qué lo reemplaza |
+|---|---|---|
+| **Post 01**: «**4 things** HR looks for», y el cuarto era «one link that opens» | SHRM sostiene **tres** de los cuatro (§2.1). El cuarto era la diferencia del producto disfrazada de hallazgo de RRHH — un reclutador real no busca un enlace de verificación. Es el error de Propaga en miniatura: fuente real, ítem contrabandeado | Portada de **3**, y la lámina del enlace pasa a `AND · So a screener can check all three`: el enlace es el mecanismo que permite comprobar los tres, no un cuarto hallazgo |
+| **Post 24**: «**Weeks, not months**» sobre la ventana de reembolso | **Contradice la fuente citada**: Duke da *90 días* desde el fin del curso, que son tres meses. Una academia que apure creyendo que son semanas no daña a nadie, pero el dato es falso y comprobable | «The clock starts at the end / Some claim windows close in 90 days» |
+| **Post 08**: «Small, near the date» | Regla de ubicación **inventada**, la misma clase que ya se había borrado del post 13 (§3.3: ninguna fuente da reglas de ubicación). Inconsistencia interna de la propia auditoría | «On the printed face / Where anyone can read it out loud»: la regla funcional (el ID es lo que se dicta por teléfono), no una posición |
+| **Post 26**: «Use a **known scale** / your language school already teaches one» | Sirve solo a escuelas de idiomas, y sobre todo deja abierta la puerta a que una academia se autoasigne un nivel EQF o NQF. **Un nivel de marco nacional no se autoasigna**: Europass lo pide para cualificaciones que YA están referenciadas | «Use a public scale / One that actually fits your course» |
+
+### 8.3 Lo que se revisó y quedó INTACTO
+
+25 de los 30. Los tres chequeos de verificación (OB 3.0 §9), `criteria` y sus
+dos audiencias, `evidence` con enlaces no editables, el corte
+asistencia/finalización/evaluación de ICE 1100, `awardedDate`/`validFrom`/
+`version`, «baking», el QR contra ISO/IEC 18004, `inLanguage` + `related`,
+apilables, `requiredValue`, `validUntil` y los ciclos OSHA, los campos de
+LinkedIn tras la muerte del autofill, `source`, la honestidad sobre la firma
+(«it is a design element»), la doble entrega corporativa y el cierre de
+ciclo: todos aguantan el lente experto sin cambio.

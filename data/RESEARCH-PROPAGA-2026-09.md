@@ -428,3 +428,117 @@ de precio en DM/comentario (regla de marca, Carlos 2026-09-01):
 Marco practicante: NEPQ (Jeremy Miner) y el value-gap de Hormozi —
 PLAUSIBLE (libro/curso, sin estudio N grande); la regla aquí es doctrina
 del dueño. Sheridan queda SOLO para contenido (post 03).
+
+
+---
+
+# AUDITORÍA DE «CONSEJO TONTO» — 2026-09-01 (segunda pasada, revisor senior)
+
+Se releyó **lámina por lámina** los 30 posts con cinco filtros: (1) ¿lo firmaría
+un practitioner TOP *en este contexto exacto*?; (2) ¿sirve al objetivo del lector
+o solo «es correcto»?; (3) ¿la escuela citada corresponde al contexto (contenido
+≠ guion de venta ≠ ads ≠ posventa)?; (4) ¿le hace perder plata o clientes si lo
+aplica literal?; (5) ¿es específico al nivel de un top, o quedó en categoría?
+
+Resultado: **7 posts tocados, 23 intactos.** Ninguno era falso; los siete eran
+transposiciones de escuela, cifras que la propia §11 prohíbe imprimir, o consejo
+correcto-pero-estéril.
+
+## A. Los hermanos del error canónico del «¿precio?»
+
+La corrección de arriba se aplicó a la lámina del post 01 pero **quedó viva en
+dos captions**, que es donde nadie la buscó:
+
+| Dónde | Decía | Por qué salía |
+|---|---|---|
+| `13-autogol-caption`, caption IG | «El precio callado rompe la confianza y obliga a escribir solo para saber» | Sheridan literal, dentro de un post cuyas propias láminas ya enseñan *estado, hora y siguiente paso*. Criterio 3. |
+| `14-autogol-al-privado`, caption IG | «Responde ahí el precio y de ahí lo invitas al chat» | Contradecía su PROPIA lámina («responde ahí mismo con una pregunta»). Criterio 3. |
+
+Ambos reescritos a la doctrina fija: **contestar rápido → pregunta corta →
+recomendar para su caso → el número con siguiente paso**. Sheridan queda solo
+donde manda: **qué publicar** (post 03).
+
+## B. Etiqueta ≠ confesión (post 09, reclamo público)
+
+**Decía:** «Parece que te fallamos».
+
+**Problema:** eso no es una etiqueta de Voss, es una **admisión de culpa en
+público**, y encima ante un reclamo que todavía no revisaste. Escuela equivocada
+(PR de disculpa, no negociación) y riesgo real de criterio 4.
+
+**Fuente que lo corrige — ya estaba en este documento, §3.** Las etiquetas
+literales que publica Black Swan Group nombran **la percepción del otro**, no tu
+culpa: *"It looks like this wasn't what you were expecting"* ·
+*"It seems like you're comparing this to something else"*.
+Fuente: https://www.blackswanltd.com/newsletter/price-isnt-value-how-to-negotiate-what-actually-matters
+
+**Dice ahora:** «Parece que *no fue* lo que esperabas» / «la nombras sin
+culparte». Baja la bronca igual, no te compromete, y es el uso fiel de la
+herramienta.
+
+## C. Reseñas: la palanca no es la cadencia, es PEDIR (post 08)
+
+**Decía:** «Las reseñas viejas dejan de contar · pide una cada semana».
+La cadencia semanal es invención (criterio 5: quedó en categoría de consejo).
+
+**CONFIRMADO — BrightLocal, Local Consumer Review Survey 2026 (N = 1,002 EE.UU.).**
+*"83% of people asked to leave a review went on to leave one this year"*, y 28%
+dice que **siempre** la deja si se la piden. O sea: el cuello de botella no es el
+recordatorio, es que **nadie pide**.
+Fuente: https://www.brightlocal.com/research/local-consumer-review-survey/
+
+**CONFIRMADO (nuevo) — Política de contenido de Google Maps / Perfil de Empresa.**
+Está **prohibido**: *"Offer incentives — such as payment, discounts, free goods
+and/or services — in exchange for posting any review"* y, lo que casi nadie sabe,
+*"Discourage or prohibit negative reviews, or **selectively solicit positive
+reviews** from customers"*. También: *"Merchants should not require or pressure
+users to leave ratings or write reviews while on the premises"*. Lo permitido es
+*"solicit or encourage the posting of content that does represent a genuine
+experience, without offering incentives... or attempting to influence the rating
+or the contents of the review"*.
+Fuente: https://support.google.com/contributionpolicy/answer/7400114
+
+Esto convierte «pídesela solo al cliente contento» — el consejo estándar de
+agencia — en una **violación de política**, no en una picardía. La lámina lo dice
+ahora: «No pidas *cinco estrellas* · ni se la pidas solo al contento», y la
+cuarta lámina pasa a ser el dato de BrightLocal: «Casi todos la dejan *si se la
+pides* · el problema es que nadie pide». El 74% de los últimos tres meses se
+mantiene, pero baja al caption.
+
+## D. La frecuencia efectiva no se imprime (posts 15 y 27)
+
+La §11 ya decía «**no** se dice regla de 7 ni se pone cifra», y sin embargo dos
+láminas afirmaban **«recién al tercero reacciona»** / **«recién al tercer aviso
+reaccionan»** — que es exactamente poner la cifra, sobre una literatura que la
+propia fuente califica de *"quite controversial"*.
+
+- Post 15 dice ahora: «cada aviso **lo ve gente distinta**» (mecanismo real: el
+  alcance no es acumulativo sobre las mismas personas).
+- Post 27 dice ahora: «**nadie lee tu feed de corrido**».
+
+Los tres toques (aviso · víspera · cierre) se mantienen: eso es la operación, no
+la cifra.
+
+## E. Escasez que no sea mentira (post 02)
+
+**Decía:** «Quedan seis y no repongo». Para un negocio que **sí** repone, eso es
+enseñarle a mentir; la escasez de Cialdini opera **porque se cree**, y el negocio
+chico paga el descrédito en su propio barrio (criterio 4).
+
+**Dice ahora:** «*Quedan* seis de la tanda de hoy» / «escasez de verdad, no de
+adorno». Misma palanca, acotada al lote del día, y por lo tanto **cierta**.
+
+## F. Los 23 que sobrevivieron
+
+Se revisaron uno por uno y quedan **sin tocar**: 01, 03, 04, 05, 06, 07, 10, 11,
+12, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30. Los que más se
+miraron y se dejaron a propósito:
+
+- **20 (errores de promo), «no decir cuánto cuesta»**: aquí Sheridan **sí**
+  aplica — es un post de contenido anunciando una oferta, no un guion de chat.
+  El §12 lo separa bien y la corrección de arriba no lo toca.
+- **06 («está muy caro»)**: espejo + etiqueta + silencio + no descontar es Voss y
+  Hormozi en su terreno exacto.
+- **07 («luego te aviso»)**: Braun literal, y la cadencia inventada ya se había
+  borrado en la primera pasada.
+- **01**: es la referencia del estándar corregido; no se tocó.

@@ -171,8 +171,8 @@
     {
      "role": "value",
      "label": "EL ARREGLO",
-     "h": "Escribe *las seis preguntas*",
-     "b": "Las mismas y en el mismo orden."
+     "h": "Dos preguntas y sale el *rango*",
+     "b": "El detalle, después del rango."
     },
     {
      "role": "value",
@@ -188,8 +188,8 @@
     }
    ],
    "caption": {
-    "ig": "cómo cotizar rápido cuando tu precio depende de muchas variables. Precio base del caso típico, qué lo sube y cuánto, y un piso escrito para que nadie improvise. Escríbeme FUGA por DM. #negociosperu #ventasperu #pymesperu",
-    "tt": "cotizar cuando tu precio es depende. Las mismas seis preguntas, un precio base y un piso escrito. Escríbeme FUGA por DM. #ventasperu #negociosperu",
+    "ig": "cómo cotizar rápido cuando tu precio depende de muchas variables. Dos preguntas, un rango al toque y el detalle después: nadie aguanta seis preguntas antes de un número. Escríbeme FUGA por DM. #negociosperu #ventasperu #pymesperu",
+    "tt": "cotizar cuando tu precio es depende. Dos preguntas, un rango al toque y un piso escrito para que nadie improvise. Escríbeme FUGA por DM. #ventasperu #negociosperu",
     "fb": "Depende del kilometraje, del piso, de los invitados. Se responde una vez: precio base, qué lo sube y hasta dónde puede bajar cada uno."
    },
    "alt": "Una mano recibiendo llaves de auto, con el titular sobre el precio que depende."
@@ -313,8 +313,8 @@
     {
      "role": "value",
      "label": "EL ARREGLO",
-     "h": "Responder *no es resolver*",
-     "b": "Precio base ahora, el resto mañana."
+     "h": "Responder *no es* resolver",
+     "b": "Un rango, una pregunta, y sigues mañana."
     },
     {
      "role": "value",
@@ -330,8 +330,8 @@
     }
    ],
    "caption": {
-    "ig": "cómo responder los mensajes que llegan de madrugada a tu negocio. Contestar y resolver son dos cosas distintas: el precio base a esa hora ya te deja en la conversación. Escríbeme FUGA por DM. #negociosperu #whatsappbusiness #pymesperu",
-    "tt": "los mensajes de las once de la noche que nadie contesta. Responder no es resolver: manda el precio base y el resto al día siguiente. Escríbeme FUGA por DM. #negociosperu #whatsappbusiness",
+    "ig": "cómo responder los mensajes que llegan de madrugada a tu negocio. Contestar y resolver son dos cosas distintas: un rango y una pregunta a esa hora ya te dejan dentro de la conversación. Escríbeme FUGA por DM. #negociosperu #whatsappbusiness #pymesperu",
+    "tt": "los mensajes de las once de la noche que nadie contesta. Responder no es resolver: manda un rango y una pregunta, y el resto al día siguiente. Escríbeme FUGA por DM. #negociosperu #whatsappbusiness",
     "fb": "El que escribe a las once de la noche escribe a varios lugares. Se queda con el que le responda, no con el mejor."
    },
    "alt": "Un celular encendido de noche con el titular sobre el mensaje de anoche que ya fue a otro lado."
@@ -641,9 +641,9 @@
     },
     {
      "role": "value",
-     "label": "A LOS 7 DÍAS",
-     "h": "Vuelve *con una novedad*",
-     "b": "Otra unidad, otro precio, otra fecha."
+     "label": "AL DÍA SIGUIENTE",
+     "h": "Vuelve con lo que *lo frenó*",
+     "b": "La respuesta a eso, no un saludo."
     },
     {
      "role": "value",
@@ -654,13 +654,13 @@
     },
     {
      "role": "closer",
-     "h": "La ficha *vuelve sola* el día 7",
+     "h": "La ficha *vuelve sola* al día siguiente",
      "b": "Escríbeme PRUEBA por DM y te lo dejamos agendado."
     }
    ],
    "caption": {
-    "ig": "qué hacer después de que un cliente visita tu local o tu proyecto. Las tres líneas se escriben antes de que se vaya, cuando todavía te acuerdas de qué lo frenó. Escríbeme PRUEBA por DM. #inmobiliaria #ventasperu #negociosperu",
-    "tt": "el cliente que visitó y nadie volvió a escribirle. Tres líneas al despedirlo, mientras tienes fresco qué lo frenó, y una novedad de vuelta. Escríbeme PRUEBA por DM. #ventasperu #inmobiliaria",
+    "ig": "qué hacer después de que un cliente visita tu local o tu proyecto. Las tres líneas se escriben antes de que se vaya, y al día siguiente vuelves con la respuesta a lo que lo frenó. Escríbeme PRUEBA por DM. #inmobiliaria #ventasperu #negociosperu",
+    "tt": "el cliente que visitó y nadie volvió a escribirle. Tres líneas al despedirlo y al día siguiente vuelves con la respuesta a lo que lo frenó. Escríbeme PRUEBA por DM. #ventasperu #inmobiliaria",
     "fb": "El que visitó ya invirtió su tarde en ti. La visita no termina en la puerta, termina con una fecha nueva."
    },
    "alt": "Sala de un departamento en venta con el titular sobre el cliente que visitó y nadie volvió a escribirle."
@@ -1121,8 +1121,8 @@
     {
      "role": "value",
      "label": "LA REGLA",
-     "h": "Si no está en la lista, *no hay*",
-     "b": "Responde la lista, no tu memoria.",
+     "h": "Nunca digas *no hay* sin mirar",
+     "b": "«te confirmo en 20 minutos» y cumples.",
      "photo": "papeles"
     },
     {
@@ -1132,8 +1132,8 @@
     }
    ],
    "caption": {
-    "ig": "cómo responder si hay stock sin ir a revisar cada vez. No cuentes todo el almacén: cuenta los diez que más te preguntan, todos los días, y el resto por turno. Escríbeme PLAN por DM. #negociosperu #inventario #pymesperu",
-    "tt": "te preguntan si hay stock y tienes que ir a ver. Cuenta solo los diez que más te piden, cinco minutos al día, siempre la misma persona. Escríbeme PLAN por DM. #negociosperu #inventario",
+    "ig": "cómo responder si hay stock sin ir a revisar cada vez. Cuenta los diez que más te preguntan, todos los días, y al resto nunca le digas que no hay: dale una hora y cúmplela. Escríbeme PLAN por DM. #negociosperu #inventario #pymesperu",
+    "tt": "te preguntan si hay stock y tienes que ir a ver. Cuenta los diez que más te piden, cinco minutos al día, y al resto dale una hora en vez de un no. Escríbeme PLAN por DM. #negociosperu #inventario",
     "fb": "Entre que vas a ver y vuelves, el cliente ya preguntó en otro lado. Cuenta poco y todos los días, no todo una vez al año."
    },
    "alt": "Cocina de un restaurante con insumos a la vista, con el titular sobre ir a ver si hay stock."

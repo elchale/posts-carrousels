@@ -264,3 +264,45 @@ cifras que aparecen en láminas son solo las CONFIRMADAS de abajo.
 3. Los ítems DERIVADOS se escriben como consejo práctico, nunca como dato.
 4. Miedo siempre con plan en el mismo post (regla de marca): todo post que
    nombra el riesgo trae los pasos concretos de esta investigación.
+
+---
+
+## 6. SEGUNDA PASADA — el lente de JUICIO EXPERTO (2026-09-01)
+
+Revisión posterior a la auditoría de fuentes de arriba. La pregunta ya no era
+«¿tiene fuente?» sino **«¿un experto top del tema firmaría este consejo, en
+este contexto exacto y para este lector?»** — el error que la disparó fue el de
+Propaga: fuente real, contexto equivocado.
+
+### 6.1 Verificaciones nuevas (fetch directo, 2026-09-01)
+
+| Hallazgo | Estado | Fuente |
+|---|---|---|
+| Entre las señales de deambular, literal: **"Talking about fulfilling former obligations, such as going to work"**. **NO** aparece «recoger a un hijo**»** — ese ejemplo era nuestro. | CONFIRMADO / lo otro se cae | alz.org, wandering |
+| Sundowning, literal: *"Keep the home well lit in the evening to help reduce the person's confusion"*; *"Reduce stimulation during the evening hours"*; *"Schedule activities… in the morning or early afternoon hours"*. | CONFIRMADO | alz.org, sundowning |
+| Prevención de deambular, literal: *"Identify the time of day the person is most likely to wander… Plan things to do during this time"*. Confirma «llénale la tarde», que parecía chocar con la regla de bajar estímulo: **son las dos cosas a la vez** (actividad estructurada sí, TV y ruido no). | CONFIRMADO | alz.org, wandering |
+| **La página de wandering NO contiene guía de qué hacer en el momento** (redirigir, caminar con la persona, no frenarla). | CONFIRMADO POR AUSENCIA | alz.org, wandering |
+| *"Consider enrolling the person living with dementia in a wandering response service"* y *"consider using a GPS device to help if they get lost"*. | CONFIRMADO | alz.org, safety/wandering |
+
+### 6.2 Consejos que se cayeron por juicio experto
+
+| Consejo que teníamos | Por qué era tonto | Qué lo reemplaza |
+|---|---|---|
+| **Post 02** enseñaba los 4 pasos de señales calmantes a quien se ENCUENTRA un perro suelto — los mismos 4 del post 11, y sin decir qué hacer después | Duplicaba un post entero, y el protocolo de MARN para el que encuentra empieza en otro lado. Aplicado literal (sentarse, dejar que un perro desconocido te toque) puede terminar en mordida | Protocolo real del finder: **asumir que tiene casa** (`/stray-it-isnt-so/`), no llamarlo de lejos, **revisarle el collar**, y si gruñe parar y avisar al albergue (Lord 2007: 34.8% de perros recuperados vuelven vía albergues) |
+| **Post 13**: «el local cierra puertas y lo anuncia» | **Code Adam es un protocolo de cadenas de retail de EE. UU.** Prometerlo como un hecho del mercado o la bodega peruana es transponer un protocolo de organización a un consejo casero | «Pídele que lo anuncie y mire las salidas»: el mismo paso, dicho como pedido y no como promesa |
+| **Post 17**: la portada declaraba mala la opción del policía | La propia auditoría (§4) ya lo había marcado «matizado»: NCMEC lista **tres** opciones e incluye al policía uniformado. Un niño entrenado a NO acercarse a un policía es peor que uno sin entrenar | Portada de lista («3 personas a las que tu hijo puede pedir ayuda») y las tres opciones de NCMEC en orden de disponibilidad; la insistencia pasa al `b` de la lámina de la frase |
+| **Post 24**: «no lo frenes en la puerta, camina con él y ve girando el rumbo» | Consejo plausible de manual de cuidador, **ausente de la fuente**: alz.org no da guía de momento. Regla de la ronda: consejo sin fuente no se publica | «Prende las luces temprano / con la casa clara se confunde menos» — literal de alz.org y de las cosas más baratas de hacer |
+| **Post 25**, cierre: «Olvida el camino, no a ti» | **Contradice la lámina 2 del mismo post** («preséntate: hola, soy tu hija Ana») y es falso en etapas avanzadas. A una hija cuya mamá ya no la reconoce, ese cierre le miente | «El día que sale sola» |
+| **Post 28**: «tiene celular y jamás lo va a usar» → por lo tanto el celular no sirve | Falsa dicotomía y además auto-interesada: alz.org recomienda expresamente tecnología de ubicación. Un lector que descarta el celular entero pierde la ubicación compartida, que **no depende del abuelo** | Portada «no va a llamarte si se pierde» + lámina «comparte su ubicación, se activa una vez y él no hace nada» + el límite honesto: el celular no le habla a quien lo encuentra |
+| **Post 22**: «lo primero que se olvida es la ruta» | Exceso: alz.org la lista como **una** señal, no como la primera | «Olvidar rutas de siempre es una señal» |
+| **Post 03**: «1 de cada 5 se pierde por un ruido» | Cifra sin anclar → se lee como «1 de cada 5 mascotas se pierde», que no es lo que dice ASPCA | «1 de cada 5 mascotas perdidas huyó por un ruido» |
+| **Post 06**, portada: «a cinco casas» | Número inventado que no es ni la mediana de interior (50 m) ni el percentil 75 (500 m), y **hace parar la búsqueda demasiado pronto** | La cifra confirmada: «3 de cada 4 gatos aparecen a menos de 500 metros» (Huang 2018) |
+
+### 6.3 Lo que se revisó y quedó INTACTO
+
+21 de los 30 posts. Los mecanismos de afiche (Albrecht), chip (Lord 2009),
+chapita (Lord 2007), gato escondido (MARN + Huang), palabra secreta y CHECK
+FIRST (Kidpower), punto de encuentro con nombre propio, ruta al colegio,
+mano dominante + 1.5 millas + agua y arbustos, los 15 minutos y la Ley 29685,
+sundowning, y el «así no / así sí» de comunicación: todos sobreviven el lente
+experto sin cambio.
