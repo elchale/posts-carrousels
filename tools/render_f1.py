@@ -78,11 +78,11 @@ def cover_crop(p: Path, H: int) -> Image.Image:
 
 
 def bot_pad(H: int) -> int:
-    """Bottom margin under the text block. IG: 3.5% (feed shows the full frame).
-    TikTok 9:16: la UI (caption + usuario + música) tapa el ~22% inferior —
-    Carlos 2026-09-01: "no puedo leer la mitad de abajo". El bloque termina al
-    78% del alto y el negro sólido de abajo queda para el caption de TikTok."""
-    return round((0.035 if H <= 1400 else 0.22) * H)
+    """Bottom margin under the text block. IG: 6.5% (Carlos 2026-09-02: al 3.5%
+    el texto quedaba pegado al borde inferior). TikTok 9:16: la UI (caption +
+    usuario + música) tapa el ~22% inferior — el bloque termina al 78% del alto
+    y el negro sólido de abajo queda para el caption de TikTok."""
+    return round((0.065 if H <= 1400 else 0.22) * H)
 
 
 def side_margin(W_: int, H: int, base: float) -> int:
