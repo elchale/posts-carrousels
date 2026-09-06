@@ -1,929 +1,881 @@
 {
- "series": "sep",
- "brand": "servicestack",
- "format": "f1",
- "posts": [
-  {
-   "slug": "01-lead-follow-up",
-   "slides": [
+  "series": "sep",
+  "brand": "servicestack",
+  "format": "f1",
+  "posts": [
     {
-     "role": "cover",
-     "photo": "telefono",
-     "h": "*4 steps* that answer a lead while you sleep",
-     "b": "the whole setup is one free tool",
-     "kicker": "BUSINESS OF ONE"
+      "slug": "01-lead-follow-up",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "telefono",
+          "h": "*4 steps* that answer a lead while you sleep",
+          "b": "the whole setup is one free tool",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "STEP 1",
+          "h": "One *link* for new leads",
+          "b": "A form, not five inboxes"
+        },
+        {
+          "role": "value",
+          "photo": "laptop",
+          "label": "STEP 2",
+          "h": "Reply in *five minutes*",
+          "b": "Automatic email, not a promise"
+        },
+        {
+          "role": "value",
+          "label": "STEP 3",
+          "h": "Ask *one* question back",
+          "b": "Budget or timeline, pick one"
+        },
+        {
+          "role": "value",
+          "label": "STEP 4",
+          "h": "Every follow up brings *something new*",
+          "b": "Never just checking in"
+        },
+        {
+          "role": "closer",
+          "h": "I run this on the free tier of *Systeme.io*",
+          "b": "Send this to whoever answers your leads. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "How to automate my business, starting with the lead that comes in at midnight. · I earn commission from links. One form link instead of five inboxes, an automatic reply inside five minutes, one question back so they have something easy to answer, and every follow up after that carrying something new instead of a check in. I run the whole thing on the free tier of Systeme.io. Send this to whoever answers your leads. #ad #freelancertips #zapier",
+        "tt": "How to automate my business: four steps that answer a lead while you sleep. commissions from links. Send this to whoever answers your leads. #ad #freelancertips",
+        "fb": "One link for new leads, an automatic reply in five minutes, one question back, and every follow up after that carrying something new. Built on a free Systeme.io account. I earn commission from links."
+      },
+      "alt": "A hand holding a phone showing an incoming message."
     },
     {
-     "role": "value",
-     "label": "STEP 1",
-     "h": "One *link* for new leads",
-     "b": "A form, not five inboxes"
+      "slug": "02-invoice-chasing",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "papeleo",
+          "h": "*4 steps* that stop the late payment chase",
+          "b": "none of this needs new software",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "STEP 1",
+          "h": "Invoice the *same day*",
+          "b": "Not Friday, the day you finish"
+        },
+        {
+          "role": "value",
+          "photo": "calendario",
+          "label": "STEP 2",
+          "h": "Put the due date in *words*",
+          "b": "Due March 3, not net 14"
+        },
+        {
+          "role": "value",
+          "label": "STEP 3",
+          "h": "*Two* reminders, scheduled",
+          "b": "Three days before, day after"
+        },
+        {
+          "role": "value",
+          "label": "STEP 4",
+          "h": "Say the *late fee* up front",
+          "b": "In the quote, not the invoice"
+        },
+        {
+          "role": "closer",
+          "h": "Chasing is a *scheduling* problem",
+          "b": "Send this to whoever is still waiting to get paid. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Late payment on a freelance invoice, and the four steps that stop the chasing. Invoice the same day you finish, not on Friday. Write the due date as an actual date, due March 3, not net 14. Schedule two reminders, three days before and the day after. And put the late fee in the quote instead of the invoice, where it reads as a threat. Send this to whoever is still waiting to get paid. #latepayment #freelancertips",
+        "tt": "Late payment on a freelance invoice: same day invoice, a real date, two scheduled reminders, and the fee in the quote. Send this to whoever is still waiting to get paid. #latepayment #freelancertips",
+        "fb": "Invoice the same day, write the due date as a date, schedule two reminders, and announce the late fee in the quote."
+      },
+      "alt": "Paperwork and a pen on a desk, the invoice pile."
     },
     {
-     "role": "value",
-     "photo": "laptop",
-     "label": "STEP 2",
-     "h": "Reply in *five minutes*",
-     "b": "Automatic email, not a promise"
+      "slug": "03-weekly-client-update",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "laptop",
+          "h": "*4 parts* of a client update nobody skips",
+          "b": "same email, every Friday",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "PART 1",
+          "h": "What *shipped* this week",
+          "b": "Three lines, no adjectives"
+        },
+        {
+          "role": "value",
+          "photo": "oficina",
+          "label": "PART 2",
+          "h": "What is *blocked*, and by who",
+          "b": "Name it, kindly"
+        },
+        {
+          "role": "value",
+          "label": "PART 3",
+          "h": "What is *next*, with a date",
+          "b": "One date, not a range"
+        },
+        {
+          "role": "value",
+          "label": "THE TRICK",
+          "h": "Dictate it, let AI *format*",
+          "b": "Same template every week"
+        },
+        {
+          "role": "closer",
+          "h": "The update that stops the *where are we* email",
+          "b": "Send this to whoever asks you for status. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Customer follow up that stops the where are we email. Four parts, same email, every Friday: what shipped this week in three lines with no adjectives, what is blocked and by who, what is next with one date and not a range, and then dictate it and let AI format it into the same template every week. Send this to whoever asks you for status. #freelancertips #freelancelife",
+        "tt": "Customer follow up that stops the where are we email: shipped, blocked, next with one date. Send this to whoever asks you for status. #freelancertips #freelancelife",
+        "fb": "A weekly client update has four parts: shipped, blocked, next with a date, and a template you reuse. Dictate the notes and let AI format them."
+      },
+      "alt": "A laptop open on a desk at night, where the Friday update gets written."
     },
     {
-     "role": "value",
-     "label": "STEP 3",
-     "h": "Ask *one* question back",
-     "b": "Budget or timeline, pick one"
+      "slug": "06-proposal-fields",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "papeleo",
+          "h": "*4 fields* that write the proposal for you",
+          "b": "you edit, you never start blank",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "FIELD 1",
+          "h": "The *job*, in their words",
+          "b": "Paste it, do not rewrite"
+        },
+        {
+          "role": "value",
+          "photo": "laptop",
+          "label": "FIELD 2",
+          "h": "The *deadline* they said",
+          "b": "Your own date lands two days earlier"
+        },
+        {
+          "role": "value",
+          "label": "FIELD 3",
+          "h": "The *price* and what is out",
+          "b": "Scope out loud, always"
+        },
+        {
+          "role": "value",
+          "label": "FIELD 4",
+          "h": "The *one* thing you need",
+          "b": "Access, assets or a decision"
+        },
+        {
+          "role": "closer",
+          "h": "The blank page was the *slow part*",
+          "b": "Send this to whoever writes your proposals. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Freelance proposal template: the four fields that write it for you. The job in their words, pasted and not rewritten. Their deadline, with your own date landing two days earlier. The price and what is excluded, scope out loud. And the one thing you need from them to start, access or assets or a decision. Then the template fills itself and you never open a blank page. Send this to whoever writes your proposals. #freelancertips #freelancer",
+        "tt": "Freelance proposal template: four intake fields and the proposal writes itself. Send this to whoever writes your proposals. #freelancertips #freelancer",
+        "fb": "Four intake fields fill a proposal template: the job in their words, their deadline with your own date two days earlier, the price and exclusions, and what you need from them."
+      },
+      "alt": "Hands writing on a document at a table."
     },
     {
-     "role": "value",
-     "label": "STEP 4",
-     "h": "Every follow up brings *something new*",
-     "b": "Never just checking in"
+      "slug": "07-zero-dollar-stack",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "oficina",
+          "h": "*4 tools* I would keep at a zero budget",
+          "b": "the whole list is free tier",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "TOOL 1",
+          "h": "The email *list*, free plan",
+          "b": "The only channel you own"
+        },
+        {
+          "role": "value",
+          "photo": "laptop",
+          "label": "TOOL 2",
+          "h": "One *doc* as the whole CRM",
+          "b": "Names, dates, next step"
+        },
+        {
+          "role": "value",
+          "label": "TOOL 3",
+          "h": "A *calendar* link",
+          "b": "Free is enough for one person"
+        },
+        {
+          "role": "value",
+          "label": "TOOL 4",
+          "h": "A *checklist*, not a tool",
+          "b": "Most automations start here"
+        },
+        {
+          "role": "closer",
+          "h": "*Systeme.io* free covers three of these four",
+          "b": "Send this to whoever just went out on their own. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Starting a freelance business on a zero budget: the four tools. · I earn commission from links. An email list on a free plan, because it is the only channel you own. One doc as the whole CRM, names and dates and next step. A calendar link. And a checklist, which is not a tool and is where most automations should start. Systeme.io free covers three of the four. Send this to whoever just went out on their own. #ad #freelancertips #zapier",
+        "tt": "Starting a freelance business at zero budget: a list, a doc, a calendar link, a checklist. commissions from links. Send this to whoever just went out on their own. #ad #freelancertips",
+        "fb": "An email list, one doc as a CRM, a calendar link and a checklist. Three of the four run on a free Systeme.io account. I earn commission from links."
+      },
+      "alt": "A woman working at a laptop in a home kitchen."
     },
     {
-     "role": "closer",
-     "h": "I run this on the free tier of *Systeme.io*",
-     "b": "Send this to whoever answers your leads. Free stack list in bio."
+      "slug": "08-price-freelance-work",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "oficina",
+          "kicker": "BUSINESS OF ONE",
+          "h": "How to *price* freelance work",
+          "b": "the number comes from your month, not theirs"
+        },
+        {
+          "role": "value",
+          "label": "START HERE",
+          "h": "The *number* you need a month",
+          "b": "Rent, tax, tools, then living"
+        },
+        {
+          "role": "value",
+          "photo": "laptop",
+          "label": "THEN",
+          "h": "Divide by *billable* hours",
+          "b": "Half your week is not billable"
+        },
+        {
+          "role": "value",
+          "label": "NEVER",
+          "h": "Quote by the *hour* out loud",
+          "b": "Price the job, not the clock"
+        },
+        {
+          "role": "value",
+          "photo": "papeleo",
+          "label": "THE TEST",
+          "h": "*Three* yeses in a row",
+          "b": "Then the number is too low"
+        },
+        {
+          "role": "closer",
+          "h": "I raised mine the month *nobody* pushed back",
+          "b": "Send this to whoever undercharges. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "How to price freelance work when you are starting out. Start from the number you need in a month, rent and tax and tools and then living, not from what someone else charges. Divide it by billable hours and be honest that half your week is not billable. Never quote by the hour out loud, price the job. And the test that costs nothing: three yeses in a row means the number is too low. Send this to whoever undercharges. #freelancertips #freelancer",
+        "tt": "How to price freelance work: start from the month you need, divide by billable hours, price the job and not the clock. Send this to whoever undercharges. #freelancertips #freelancer",
+        "fb": "Start from the number you need in a month, divide by the hours you can actually bill, and price the job rather than the hour. Three yeses in a row means the number is too low."
+      },
+      "alt": "How a one person business sets a freelance rate: monthly number, billable hours, price the job."
+    },
+    {
+      "slug": "09-agency-of-one-tabs",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "laptop",
+          "h": "*4 tools* a one person agency opens daily",
+          "b": "everything else is noise",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "DAILY 1",
+          "h": "The *inbox*, twice a day",
+          "b": "New leads alert you, the rest waits"
+        },
+        {
+          "role": "value",
+          "photo": "oficina",
+          "label": "DAILY 2",
+          "h": "One *board* for all clients",
+          "b": "Columns by week, not client"
+        },
+        {
+          "role": "value",
+          "label": "DAILY 3",
+          "h": "The *invoice* tool",
+          "b": "Opened Fridays only"
+        },
+        {
+          "role": "value",
+          "label": "DAILY 4",
+          "h": "The *notes* file",
+          "b": "One file, searchable, forever"
+        },
+        {
+          "role": "closer",
+          "h": "Four tabs, and the *rest is noise*",
+          "b": "Send this to whoever runs it alone. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Client management for a business of one: the four tools I actually open. The inbox twice a day, with new leads on alert so the rest can wait. One board for all clients with columns by week and not by client. The invoice tool, opened Fridays. And one searchable notes file, forever. Everything else is a tab I closed. Send this to whoever runs it alone. #freelancertips #zapier",
+        "tt": "Client management for a business of one: four tools, and the rest is noise. Send this to whoever runs it alone. #freelancertips #zapier",
+        "fb": "Inbox twice a day with new leads on alert, one board with columns by week, the invoice tool on Fridays, one notes file. Everything else is noise."
+      },
+      "alt": "A laptop on a desk lit at night, the four tab workday."
+    },
+    {
+      "slug": "10-local-business-no-website",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "camioneta",
+          "h": "*4 things* before a local business builds a site",
+          "b": "in this order, not the other way",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "FIRST",
+          "h": "Claim the *map* listing",
+          "b": "Do it before the site"
+        },
+        {
+          "role": "value",
+          "photo": "contratista",
+          "label": "SECOND",
+          "h": "Buy the *domain* anyway",
+          "b": "Even if the site waits"
+        },
+        {
+          "role": "value",
+          "label": "THIRD",
+          "h": "One *page*, one phone number",
+          "b": "Tappable, above the fold"
+        },
+        {
+          "role": "value",
+          "label": "FOURTH",
+          "h": "*Photos* of the actual work",
+          "b": "Not stock, not the logo"
+        },
+        {
+          "role": "closer",
+          "h": "The *domain* is the cheapest thing on this list",
+          "b": "Send this to the business near you with no website. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "How to get more clients for a local business with no website yet. · I earn commission from links. In this order: claim the map listing, buy the domain anyway even if the site waits, put up one page with a tappable phone number above the fold, and use photos of the actual work instead of stock. Send this to the business near you with no website. #ad #contractor #freelancertips",
+        "tt": "How to get more clients for a local business with no website: map listing, domain, one page, real photos. commissions from links. Send this to the business near you with no website. #ad #contractor",
+        "fb": "Claim the map listing, buy the domain, put up one page with a tappable number, use real photos. Domain and hosting on Hostinger."
+      },
+      "alt": "A pickup truck parked outside a house, the local service business."
+    },
+    {
+      "slug": "11-cancelled-tools",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "oficina",
+          "h": "*3 tools* I cancelled and what replaced them",
+          "b": "the work did not change",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "CANCELLED 1",
+          "h": "The *project* app",
+          "b": "A shared doc did it"
+        },
+        {
+          "role": "value",
+          "photo": "papeleo",
+          "label": "CANCELLED 2",
+          "h": "The *scheduler* I never opened",
+          "b": "The calendar link was enough"
+        },
+        {
+          "role": "value",
+          "label": "CANCELLED 3",
+          "h": "The second *AI* subscription",
+          "b": "One does the drafting"
+        },
+        {
+          "role": "value",
+          "label": "THE RULE",
+          "h": "*Thirty days* unopened, it goes",
+          "b": "Checked once a quarter"
+        },
+        {
+          "role": "closer",
+          "h": "Fewer tools, *same work*",
+          "b": "Send this to whoever approves the subscriptions. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Freelancer tips: three tools I cancelled this year and what replaced each one. The project app became a shared doc. The scheduler I never opened became a calendar link. The second AI subscription turned out to be a duplicate of the first. The rule that survived is thirty days unopened and it goes, checked once a quarter. Send this to whoever approves the subscriptions. #freelancertips #freelancelife",
+        "tt": "Freelancer tips: three tools cancelled, same work. Send this to whoever approves the subscriptions. #freelancertips #freelancelife",
+        "fb": "A shared doc replaced the project app, a calendar link replaced the scheduler, and one AI subscription replaced two. Thirty days unopened and it goes."
+      },
+      "alt": "A home office desk with a laptop and notebook."
+    },
+    {
+      "slug": "12-un-automated",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "telefono",
+          "h": "*4 things* I automated and then undid",
+          "b": "the bot answered fast and lost the job",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "UNDONE 1",
+          "h": "*Replies* to real questions",
+          "b": "People can always tell"
+        },
+        {
+          "role": "value",
+          "photo": "laptop",
+          "label": "UNDONE 2",
+          "h": "The *proposal* send",
+          "b": "It needs one human read"
+        },
+        {
+          "role": "value",
+          "label": "UNDONE 3",
+          "h": "*Follow ups* after a no",
+          "b": "Once is fine, four is a bot"
+        },
+        {
+          "role": "value",
+          "label": "THE RULE",
+          "h": "Automate the *waiting*",
+          "b": "Reminders yes, opinions no"
+        },
+        {
+          "role": "closer",
+          "h": "The line is *talking* versus waiting",
+          "b": "Send this to whoever set up your bot. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "How to automate my business, and the four things I automated and then undid. Replies to real questions, because people can always tell. The proposal send, which needs one human read. Follow ups after a no, where once is fine and four is a bot. The rule that came out of it is the only part worth keeping: automate the waiting, not the talking. Reminders yes, opinions no. Send this to whoever set up your bot. #freelancertips #automation",
+        "tt": "How to automate my business: automate the waiting, not the talking. Send this to whoever set up your bot. #freelancertips #automation",
+        "fb": "Replies, proposal sends and follow ups after a no went back to human. Automate reminders and scheduling, not opinions."
+      },
+      "alt": "A hand holding a phone with a message on screen."
+    },
+    {
+      "slug": "13-get-more-clients",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "laptop",
+          "kicker": "BUSINESS OF ONE",
+          "h": "How to get *more clients* without ads",
+          "b": "start with the five you already had"
+        },
+        {
+          "role": "value",
+          "label": "FIRST",
+          "h": "Look at your *last five* jobs",
+          "b": "Where each one actually came from"
+        },
+        {
+          "role": "value",
+          "photo": "oficina",
+          "label": "THEN",
+          "h": "Do *more* of that one channel",
+          "b": "Not four channels at ten percent"
+        },
+        {
+          "role": "value",
+          "label": "ASK",
+          "h": "For the *referral* at handover",
+          "b": "Not months later, at the end"
+        },
+        {
+          "role": "value",
+          "photo": "telefono",
+          "label": "THE LIST",
+          "h": "Write to *old* clients",
+          "b": "The ones who paid and went quiet"
+        },
+        {
+          "role": "closer",
+          "h": "The next client is usually a *past* one",
+          "b": "Send this to whoever is quiet this month. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "How to get more clients as a business of one, without buying ads. Look at your last five jobs and write down where each one actually came from, not where you think they came from. Then do more of the one channel that produced them instead of four channels at ten percent each. Ask for the referral at handover, while they are happy, not months later. And write to the old clients who paid and went quiet. Send this to whoever is quiet this month. #freelancertips #freelancelife",
+        "tt": "How to get more clients without ads: check where your last five jobs came from, then do more of that one thing. Send this to whoever is quiet this month. #freelancertips #freelancelife",
+        "fb": "Look at where your last five jobs actually came from, do more of that one channel, ask for the referral at handover, and write to the clients who paid and went quiet."
+      },
+      "alt": "How a solo operator finds more clients: the last five jobs, one channel, referrals at handover."
+    },
+    {
+      "slug": "14-friday-prompt",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "papeleo",
+          "h": "*4 lines* of the prompt I use every Friday",
+          "b": "raw notes in, client update out",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "LINE 1",
+          "h": "Give it the *raw notes*",
+          "b": "Dictated, unedited, messy"
+        },
+        {
+          "role": "value",
+          "photo": "laptop",
+          "label": "LINE 2",
+          "h": "Paste *last week's* update in",
+          "b": "The example beats the instruction"
+        },
+        {
+          "role": "value",
+          "label": "LINE 3",
+          "h": "Set the *shape*",
+          "b": "Shipped, blocked, next, dates"
+        },
+        {
+          "role": "value",
+          "label": "LINE 4",
+          "h": "Cap the *length*",
+          "b": "Under 120 words, no adjectives"
+        },
+        {
+          "role": "closer",
+          "h": "Same prompt, *every week*",
+          "b": "Send this to whoever writes your Friday update. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Freelance client update: the four line prompt I run every Friday. Line one, the raw dictated notes, unedited and messy. Line two, last week's update pasted in, because the example beats the instruction every time. Line three, the shape you want: shipped, blocked, next, dates. Line four, a length cap, under 120 words and no adjectives. Send this to whoever writes your Friday update. #freelancertips #aitools",
+        "tt": "Freelance client update: four prompt lines turn messy Friday notes into the update. Send this to whoever writes your Friday update. #freelancertips #aitools",
+        "fb": "Give it the raw notes, paste last week update in as the example, set the shape as shipped, blocked and next, and cap the length under 120 words."
+      },
+      "alt": "A pen and paper on a desk beside a phone, the raw notes."
+    },
+    {
+      "slug": "15-delay-email",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "telefono",
+          "h": "*4 parts* of the email when you are late",
+          "b": "sent early, a delay is information",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "PART 1",
+          "h": "Say it is *late*, first line",
+          "b": "No warm up, no weather"
+        },
+        {
+          "role": "value",
+          "photo": "papeleo",
+          "label": "PART 2",
+          "h": "Give the *new date*",
+          "b": "One date, and keep it"
+        },
+        {
+          "role": "value",
+          "label": "PART 3",
+          "h": "Say what *changed*",
+          "b": "One sentence, no blame"
+        },
+        {
+          "role": "value",
+          "label": "PART 4",
+          "h": "Offer *one* thing back",
+          "b": "A call, a partial, priority next"
+        },
+        {
+          "role": "closer",
+          "h": "Late and early beats late and *quiet*",
+          "b": "Send this to whoever has to send that email. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Following up by email with a client when you are going to be late. Say it is late in the first line, no warm up and no weather. Give one new date and keep it. Say what changed in one sentence with no blame. And offer one thing back that is not money, a call, a partial, priority next time. Sent early it is information, sent late it is an excuse. Send this to whoever has to send that email. #freelancertips #freelancer",
+        "tt": "Following up by email when you are going to be late: late in the first line, one new date, what changed, one thing back. Send this to whoever has to send that email. #freelancertips #freelancer",
+        "fb": "Say it is late in the first line, give one new date, explain in one sentence without blame, and offer one thing back."
+      },
+      "alt": "A phone in hand, the message nobody wants to send."
+    },
+    {
+      "slug": "16-onboarding-week",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "calendario",
+          "h": "*4 steps* in the first week with a client",
+          "b": "the week that sets every week after",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "DAY 1",
+          "h": "Send the *access* list",
+          "b": "Everything you need, at once"
+        },
+        {
+          "role": "value",
+          "photo": "oficina",
+          "label": "DAY 2",
+          "h": "Book the *kickoff*",
+          "b": "Thirty minutes, agenda sent"
+        },
+        {
+          "role": "value",
+          "label": "DAY 3",
+          "h": "Show *one* small thing done",
+          "b": "Proof beats a plan"
+        },
+        {
+          "role": "value",
+          "label": "DAY 7",
+          "h": "Send the first *update*",
+          "b": "The format you use weekly"
+        },
+        {
+          "role": "closer",
+          "h": "The first week sets *every week after*",
+          "b": "Send this to whoever onboards your clients. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Freelancer tips: the first week with a new client, in four steps. Day one, the full access list at once instead of five separate asks. Day two, a thirty minute kickoff with the agenda sent before it. Day three, one small thing finished, because proof beats a plan. Day seven, the first weekly update in the format you will use every week after. Send this to whoever onboards your clients. #freelancertips #freelancelife",
+        "tt": "Freelancer tips: the first week with a client, in four steps. Send this to whoever onboards your clients. #freelancertips #freelancelife",
+        "fb": "Access list day one, kickoff day two, one small thing shipped day three, first weekly update day seven."
+      },
+      "alt": "An open planner, the first week of a new client."
+    },
+    {
+      "slug": "17-client-wont-pay",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "papeleo",
+          "kicker": "BUSINESS OF ONE",
+          "h": "What to do when a client *will not pay*",
+          "b": "four messages, in this order"
+        },
+        {
+          "role": "value",
+          "label": "MESSAGE 1",
+          "h": "The invoice, *resent*",
+          "b": "No apology, just the copy"
+        },
+        {
+          "role": "value",
+          "photo": "laptop",
+          "label": "MESSAGE 2",
+          "h": "A *date* and a question",
+          "b": "Is anything blocking this"
+        },
+        {
+          "role": "value",
+          "label": "MESSAGE 3",
+          "h": "*Work stops* until it clears",
+          "b": "Said once, calmly, in writing"
+        },
+        {
+          "role": "value",
+          "photo": "oficina",
+          "label": "MESSAGE 4",
+          "h": "The *terms* you already sent",
+          "b": "Quote the line, not the mood"
+        },
+        {
+          "role": "value",
+          "label": "THE RULE",
+          "h": "Never *chase* by phone first",
+          "b": "You want it in writing"
+        },
+        {
+          "role": "closer",
+          "h": "Late is a *process* problem, not a person",
+          "b": "Send this to whoever is owed money right now. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "What to do when a client will not pay, in four messages and in this order. Resend the invoice with no apology attached, just the copy. Then one message with a date and one question, is anything blocking this. Then work stops until it clears, said once, calmly, and in writing. Then quote the line from the terms you already sent, not the mood you are in. And never chase by phone first, because you want the whole thing in writing. Send this to whoever is owed money right now. #latepayment #freelancertips",
+        "tt": "What to do when a client will not pay: resend the invoice, ask what is blocking it, say work stops, quote your own terms. Send this to whoever is owed money right now. #latepayment #freelancertips",
+        "fb": "Resend the invoice with no apology, ask what is blocking it, say work stops until it clears, and quote the line from the terms you already sent. All of it in writing."
+      },
+      "alt": "The four messages to send when a client will not pay an invoice, in order."
+    },
+    {
+      "slug": "18-client-ghosted",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "telefono",
+          "kicker": "BUSINESS OF ONE",
+          "h": "What to do when a client *ghosts* you",
+          "b": "mid project, with work already done"
+        },
+        {
+          "role": "value",
+          "label": "DAY 1",
+          "h": "Reply to your *own* thread",
+          "b": "One line, with the thing attached"
+        },
+        {
+          "role": "value",
+          "photo": "laptop",
+          "label": "DAY 4",
+          "h": "Change the *channel*",
+          "b": "Email went unread, try the phone"
+        },
+        {
+          "role": "value",
+          "label": "DAY 8",
+          "h": "Give them an *out*",
+          "b": "Say you will close the file"
+        },
+        {
+          "role": "value",
+          "photo": "papeleo",
+          "label": "THE FILE",
+          "h": "Close it *out loud*",
+          "b": "That is the one that gets answered"
+        },
+        {
+          "role": "closer",
+          "h": "Silence still deserves a *last* message",
+          "b": "Send this to whoever is still waiting on a reply. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "What to do when a client ghosts you mid project. Day one, reply to your own thread with one line and the thing attached, so it is easy to answer. Day four, change the channel, because an unread email stays unread. Day eight, give them an out and say you will close the file. And then actually close it out loud, because that is the message that gets answered more often than four polite chases. Send this to whoever is still waiting on a reply. #freelancertips #freelancelife",
+        "tt": "What to do when a client ghosts you mid project: reply to your own thread, change the channel, then say you are closing the file. Send this to whoever is still waiting on a reply. #freelancertips #freelancelife",
+        "fb": "Reply to your own thread with the thing attached, change the channel after a few days, then say you will close the file. The close out note gets answered more often than four chases."
+      },
+      "alt": "What a solo operator sends when a client stops replying mid project."
+    },
+    {
+      "slug": "19-checklist-not-automation",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "calendario",
+          "h": "*3 tasks* that should stay a checklist",
+          "b": "building it costs more than doing it",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "TASK 1",
+          "h": "Anything done *once a month*",
+          "b": "You forget how it works"
+        },
+        {
+          "role": "value",
+          "photo": "oficina",
+          "label": "TASK 2",
+          "h": "Anything with *judgement*",
+          "b": "Pricing, hiring, apologies"
+        },
+        {
+          "role": "value",
+          "label": "TASK 3",
+          "h": "Anything that *changes* often",
+          "b": "You rebuild it every time"
+        },
+        {
+          "role": "value",
+          "label": "THE TEST",
+          "h": "Five minutes weekly, *four hours* a year",
+          "b": "Build only if it takes less"
+        },
+        {
+          "role": "closer",
+          "h": "Half of my automations started as *a checklist*",
+          "b": "Send this to whoever wants to automate it. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Freelancer tips: three tasks that should stay a checklist instead of becoming an automation. Anything done once a month, because you forget how it works. Anything with judgement in it, pricing and hiring and apologies. And anything that changes often, because you rebuild it every time. Then do the arithmetic: five minutes a week is about four hours a year, so build it only if building takes less than that. Send this to whoever wants to automate it. #freelancertips #automation",
+        "tt": "Freelancer tips: three things to leave as a checklist, and the arithmetic that decides. Send this to whoever wants to automate it. #freelancertips #automation",
+        "fb": "Monthly tasks, judgement calls and things that change often belong on a checklist. Then do the arithmetic: five minutes a week is four hours a year, so build it only if building takes less than that."
+      },
+      "alt": "A planner open on a desk, the checklist that beats the automation."
+    },
+    {
+      "slug": "20-free-tiers",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "oficina",
+          "h": "*4 questions* to ask about a free tier",
+          "b": "some are real, some are demos",
+          "kicker": "BUSINESS OF ONE"
+        },
+        {
+          "role": "value",
+          "label": "QUESTION 1",
+          "h": "What is the *cap*",
+          "b": "Contacts, sends or seats"
+        },
+        {
+          "role": "value",
+          "photo": "laptop",
+          "label": "QUESTION 2",
+          "h": "Can you *export*",
+          "b": "If not, it is a trap"
+        },
+        {
+          "role": "value",
+          "label": "QUESTION 3",
+          "h": "Does it *brand* your page",
+          "b": "Their logo on your work"
+        },
+        {
+          "role": "value",
+          "label": "QUESTION 4",
+          "h": "What *breaks* at the cap",
+          "b": "Paused or deleted, ask first"
+        },
+        {
+          "role": "closer",
+          "h": "The free tier I still use is *Systeme.io*",
+          "b": "Send this to whoever is about to upgrade. Free stack list in bio."
+        }
+      ],
+      "caption": {
+        "ig": "Free tier or demo: four questions before you build on a client scheduling app. · I earn commission from links. What is the cap, contacts or sends or seats. Can you export, and if not it is a trap. Does it put their branding on your pages. And what breaks at the cap, paused or deleted, ask before you need to know. The free tier I still use is Systeme.io. Send this to whoever is about to upgrade. #ad #freelancertips #zapier",
+        "tt": "Free tier or demo: four questions before you build on a client scheduling app. commissions from links. Send this to whoever is about to upgrade. #ad #freelancertips",
+        "fb": "Ask about the cap, exports, branding on your pages and what breaks at the limit. The free tier still in use here is Systeme.io. I earn commission from links."
+      },
+      "alt": "A laptop and coffee on a kitchen counter, the free tier workday."
     }
-   ],
-   "caption": {
-    "ig": "How to automate my business, starting with the lead that comes in at midnight. · I earn commission from links. One form link instead of five inboxes, an automatic reply inside five minutes, one question back so they have something easy to answer, and every follow up after that carrying something new instead of a check in. I run the whole thing on the free tier of Systeme.io. Send this to whoever answers your leads. #ad #freelancertips #zapier",
-    "tt": "How to automate my business: four steps that answer a lead while you sleep. commissions from links. Send this to whoever answers your leads. #ad #freelancertips",
-    "fb": "One link for new leads, an automatic reply in five minutes, one question back, and every follow up after that carrying something new. Built on a free Systeme.io account. I earn commission from links."
-   },
-   "alt": "A hand holding a phone showing an incoming message."
-  },
-  {
-   "slug": "02-invoice-chasing",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "papeleo",
-     "h": "*4 steps* that stop the late payment chase",
-     "b": "none of this needs new software",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "STEP 1",
-     "h": "Invoice the *same day*",
-     "b": "Not Friday, the day you finish"
-    },
-    {
-     "role": "value",
-     "photo": "calendario",
-     "label": "STEP 2",
-     "h": "Put the due date in *words*",
-     "b": "Due March 3, not net 14"
-    },
-    {
-     "role": "value",
-     "label": "STEP 3",
-     "h": "*Two* reminders, scheduled",
-     "b": "Three days before, day after"
-    },
-    {
-     "role": "value",
-     "label": "STEP 4",
-     "h": "Say the *late fee* up front",
-     "b": "In the quote, not the invoice"
-    },
-    {
-     "role": "closer",
-     "h": "Chasing is a *scheduling* problem",
-     "b": "Send this to whoever is still waiting to get paid. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Late payment on a freelance invoice, and the four steps that stop the chasing. Invoice the same day you finish, not on Friday. Write the due date as an actual date, due March 3, not net 14. Schedule two reminders, three days before and the day after. And put the late fee in the quote instead of the invoice, where it reads as a threat. Send this to whoever is still waiting to get paid. #latepayment #freelancertips",
-    "tt": "Late payment on a freelance invoice: same day invoice, a real date, two scheduled reminders, and the fee in the quote. Send this to whoever is still waiting to get paid. #latepayment #freelancertips",
-    "fb": "Invoice the same day, write the due date as a date, schedule two reminders, and announce the late fee in the quote."
-   },
-   "alt": "Paperwork and a pen on a desk, the invoice pile."
-  },
-  {
-   "slug": "03-weekly-client-update",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "laptop",
-     "h": "*4 parts* of a client update nobody skips",
-     "b": "same email, every Friday",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "PART 1",
-     "h": "What *shipped* this week",
-     "b": "Three lines, no adjectives"
-    },
-    {
-     "role": "value",
-     "photo": "oficina",
-     "label": "PART 2",
-     "h": "What is *blocked*, and by who",
-     "b": "Name it, kindly"
-    },
-    {
-     "role": "value",
-     "label": "PART 3",
-     "h": "What is *next*, with a date",
-     "b": "One date, not a range"
-    },
-    {
-     "role": "value",
-     "label": "THE TRICK",
-     "h": "Dictate it, let AI *format*",
-     "b": "Same template every week"
-    },
-    {
-     "role": "closer",
-     "h": "The update that stops the *where are we* email",
-     "b": "Send this to whoever asks you for status. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Customer follow up that stops the where are we email. Four parts, same email, every Friday: what shipped this week in three lines with no adjectives, what is blocked and by who, what is next with one date and not a range, and then dictate it and let AI format it into the same template every week. Send this to whoever asks you for status. #freelancertips #freelancelife",
-    "tt": "Customer follow up that stops the where are we email: shipped, blocked, next with one date. Send this to whoever asks you for status. #freelancertips #freelancelife",
-    "fb": "A weekly client update has four parts: shipped, blocked, next with a date, and a template you reuse. Dictate the notes and let AI format them."
-   },
-   "alt": "A laptop open on a desk at night, where the Friday update gets written."
-  },
-  {
-   "slug": "04-one-recording-week",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "laptop",
-     "h": "*4 posts* out of one recording",
-     "b": "ten minutes of talking, one week of posts",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "STEP 1",
-     "h": "Record *one* long answer",
-     "b": "Ten minutes, no script"
-    },
-    {
-     "role": "value",
-     "photo": "oficina",
-     "label": "STEP 2",
-     "h": "Pull the *four* claims out",
-     "b": "Each claim is one post"
-    },
-    {
-     "role": "value",
-     "label": "STEP 3",
-     "h": "One *format* per claim",
-     "b": "A carousel or a clip"
-    },
-    {
-     "role": "value",
-     "label": "STEP 4",
-     "h": "Post them *days apart*",
-     "b": "Same idea, different door"
-    },
-    {
-     "role": "closer",
-     "h": "I hand the edit to a *Fiverr* editor on full weeks",
-     "b": "Send this to whoever posts for your business. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Freelancer tips: four posts out of one recording. · I earn commission from links. Record one ten minute answer with no script, pull the four claims out of it, give each claim one format, and post them days apart so the same idea comes through a different door. I hand the edit to one Fiverr editor on a recurring order when the week is full. Send this to whoever posts for your business. #ad #freelancertips #freelancelife",
-    "tt": "Freelancer tips: one recording, four claims, four posts. commissions from links. Send this to whoever posts for your business. #ad #freelancertips",
-    "fb": "Record one ten minute answer, pull four claims out, one format each, posted days apart. Editing goes to a recurring Fiverr order. I earn commission from links."
-   },
-   "alt": "Hands typing on a laptop from above, the editing step."
-  },
-  {
-   "slug": "06-proposal-fields",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "papeleo",
-     "h": "*4 fields* that write the proposal for you",
-     "b": "you edit, you never start blank",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "FIELD 1",
-     "h": "The *job*, in their words",
-     "b": "Paste it, do not rewrite"
-    },
-    {
-     "role": "value",
-     "photo": "laptop",
-     "label": "FIELD 2",
-     "h": "The *deadline* they said",
-     "b": "Your own date lands two days earlier"
-    },
-    {
-     "role": "value",
-     "label": "FIELD 3",
-     "h": "The *price* and what is out",
-     "b": "Scope out loud, always"
-    },
-    {
-     "role": "value",
-     "label": "FIELD 4",
-     "h": "The *one* thing you need",
-     "b": "Access, assets or a decision"
-    },
-    {
-     "role": "closer",
-     "h": "The blank page was the *slow part*",
-     "b": "Send this to whoever writes your proposals. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Freelance proposal template: the four fields that write it for you. The job in their words, pasted and not rewritten. Their deadline, with your own date landing two days earlier. The price and what is excluded, scope out loud. And the one thing you need from them to start, access or assets or a decision. Then the template fills itself and you never open a blank page. Send this to whoever writes your proposals. #freelancertips #freelancer",
-    "tt": "Freelance proposal template: four intake fields and the proposal writes itself. Send this to whoever writes your proposals. #freelancertips #freelancer",
-    "fb": "Four intake fields fill a proposal template: the job in their words, their deadline with your own date two days earlier, the price and exclusions, and what you need from them."
-   },
-   "alt": "Hands writing on a document at a table."
-  },
-  {
-   "slug": "07-zero-dollar-stack",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "oficina",
-     "h": "*4 tools* I would keep at a zero budget",
-     "b": "the whole list is free tier",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "TOOL 1",
-     "h": "The email *list*, free plan",
-     "b": "The only channel you own"
-    },
-    {
-     "role": "value",
-     "photo": "laptop",
-     "label": "TOOL 2",
-     "h": "One *doc* as the whole CRM",
-     "b": "Names, dates, next step"
-    },
-    {
-     "role": "value",
-     "label": "TOOL 3",
-     "h": "A *calendar* link",
-     "b": "Free is enough for one person"
-    },
-    {
-     "role": "value",
-     "label": "TOOL 4",
-     "h": "A *checklist*, not a tool",
-     "b": "Most automations start here"
-    },
-    {
-     "role": "closer",
-     "h": "*Systeme.io* free covers three of these four",
-     "b": "Send this to whoever just went out on their own. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Starting a freelance business on a zero budget: the four tools. · I earn commission from links. An email list on a free plan, because it is the only channel you own. One doc as the whole CRM, names and dates and next step. A calendar link. And a checklist, which is not a tool and is where most automations should start. Systeme.io free covers three of the four. Send this to whoever just went out on their own. #ad #freelancertips #zapier",
-    "tt": "Starting a freelance business at zero budget: a list, a doc, a calendar link, a checklist. commissions from links. Send this to whoever just went out on their own. #ad #freelancertips",
-    "fb": "An email list, one doc as a CRM, a calendar link and a checklist. Three of the four run on a free Systeme.io account. I earn commission from links."
-   },
-   "alt": "A woman working at a laptop in a home kitchen."
-  },
-  {
-   "slug": "08-price-freelance-work",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "oficina",
-     "kicker": "BUSINESS OF ONE",
-     "h": "How to *price* freelance work",
-     "b": "the number comes from your month, not theirs"
-    },
-    {
-     "role": "value",
-     "label": "START HERE",
-     "h": "The *number* you need a month",
-     "b": "Rent, tax, tools, then living"
-    },
-    {
-     "role": "value",
-     "photo": "laptop",
-     "label": "THEN",
-     "h": "Divide by *billable* hours",
-     "b": "Half your week is not billable"
-    },
-    {
-     "role": "value",
-     "label": "NEVER",
-     "h": "Quote by the *hour* out loud",
-     "b": "Price the job, not the clock"
-    },
-    {
-     "role": "value",
-     "photo": "papeleo",
-     "label": "THE TEST",
-     "h": "*Three* yeses in a row",
-     "b": "Then the number is too low"
-    },
-    {
-     "role": "closer",
-     "h": "I raised mine the month *nobody* pushed back",
-     "b": "Send this to whoever undercharges. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "How to price freelance work when you are starting out. Start from the number you need in a month, rent and tax and tools and then living, not from what someone else charges. Divide it by billable hours and be honest that half your week is not billable. Never quote by the hour out loud, price the job. And the test that costs nothing: three yeses in a row means the number is too low. Send this to whoever undercharges. #freelancertips #freelancer",
-    "tt": "How to price freelance work: start from the month you need, divide by billable hours, price the job and not the clock. Send this to whoever undercharges. #freelancertips #freelancer",
-    "fb": "Start from the number you need in a month, divide by the hours you can actually bill, and price the job rather than the hour. Three yeses in a row means the number is too low."
-   },
-   "alt": "How a one person business sets a freelance rate: monthly number, billable hours, price the job."
-  },
-  {
-   "slug": "09-agency-of-one-tabs",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "laptop",
-     "h": "*4 tools* a one person agency opens daily",
-     "b": "everything else is noise",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "DAILY 1",
-     "h": "The *inbox*, twice a day",
-     "b": "New leads alert you, the rest waits"
-    },
-    {
-     "role": "value",
-     "photo": "oficina",
-     "label": "DAILY 2",
-     "h": "One *board* for all clients",
-     "b": "Columns by week, not client"
-    },
-    {
-     "role": "value",
-     "label": "DAILY 3",
-     "h": "The *invoice* tool",
-     "b": "Opened Fridays only"
-    },
-    {
-     "role": "value",
-     "label": "DAILY 4",
-     "h": "The *notes* file",
-     "b": "One file, searchable, forever"
-    },
-    {
-     "role": "closer",
-     "h": "Four tabs, and the *rest is noise*",
-     "b": "Send this to whoever runs it alone. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Client management for a business of one: the four tools I actually open. The inbox twice a day, with new leads on alert so the rest can wait. One board for all clients with columns by week and not by client. The invoice tool, opened Fridays. And one searchable notes file, forever. Everything else is a tab I closed. Send this to whoever runs it alone. #freelancertips #zapier",
-    "tt": "Client management for a business of one: four tools, and the rest is noise. Send this to whoever runs it alone. #freelancertips #zapier",
-    "fb": "Inbox twice a day with new leads on alert, one board with columns by week, the invoice tool on Fridays, one notes file. Everything else is noise."
-   },
-   "alt": "A laptop on a desk lit at night, the four tab workday."
-  },
-  {
-   "slug": "10-local-business-no-website",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "camioneta",
-     "h": "*4 things* before a local business builds a site",
-     "b": "in this order, not the other way",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "FIRST",
-     "h": "Claim the *map* listing",
-     "b": "Do it before the site"
-    },
-    {
-     "role": "value",
-     "photo": "contratista",
-     "label": "SECOND",
-     "h": "Buy the *domain* anyway",
-     "b": "Even if the site waits"
-    },
-    {
-     "role": "value",
-     "label": "THIRD",
-     "h": "One *page*, one phone number",
-     "b": "Tappable, above the fold"
-    },
-    {
-     "role": "value",
-     "label": "FOURTH",
-     "h": "*Photos* of the actual work",
-     "b": "Not stock, not the logo"
-    },
-    {
-     "role": "closer",
-     "h": "The *domain* is the cheapest thing on this list",
-     "b": "Send this to the business near you with no website. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "How to get more clients for a local business with no website yet. · I earn commission from links. In this order: claim the map listing, buy the domain anyway even if the site waits, put up one page with a tappable phone number above the fold, and use photos of the actual work instead of stock. Send this to the business near you with no website. #ad #contractor #freelancertips",
-    "tt": "How to get more clients for a local business with no website: map listing, domain, one page, real photos. commissions from links. Send this to the business near you with no website. #ad #contractor",
-    "fb": "Claim the map listing, buy the domain, put up one page with a tappable number, use real photos. Domain and hosting on Hostinger."
-   },
-   "alt": "A pickup truck parked outside a house, the local service business."
-  },
-  {
-   "slug": "11-cancelled-tools",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "oficina",
-     "h": "*3 tools* I cancelled and what replaced them",
-     "b": "the work did not change",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "CANCELLED 1",
-     "h": "The *project* app",
-     "b": "A shared doc did it"
-    },
-    {
-     "role": "value",
-     "photo": "papeleo",
-     "label": "CANCELLED 2",
-     "h": "The *scheduler* I never opened",
-     "b": "The calendar link was enough"
-    },
-    {
-     "role": "value",
-     "label": "CANCELLED 3",
-     "h": "The second *AI* subscription",
-     "b": "One does the drafting"
-    },
-    {
-     "role": "value",
-     "label": "THE RULE",
-     "h": "*Thirty days* unopened, it goes",
-     "b": "Checked once a quarter"
-    },
-    {
-     "role": "closer",
-     "h": "Fewer tools, *same work*",
-     "b": "Send this to whoever approves the subscriptions. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Freelancer tips: three tools I cancelled this year and what replaced each one. The project app became a shared doc. The scheduler I never opened became a calendar link. The second AI subscription turned out to be a duplicate of the first. The rule that survived is thirty days unopened and it goes, checked once a quarter. Send this to whoever approves the subscriptions. #freelancertips #freelancelife",
-    "tt": "Freelancer tips: three tools cancelled, same work. Send this to whoever approves the subscriptions. #freelancertips #freelancelife",
-    "fb": "A shared doc replaced the project app, a calendar link replaced the scheduler, and one AI subscription replaced two. Thirty days unopened and it goes."
-   },
-   "alt": "A home office desk with a laptop and notebook."
-  },
-  {
-   "slug": "12-un-automated",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "telefono",
-     "h": "*4 things* I automated and then undid",
-     "b": "the bot answered fast and lost the job",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "UNDONE 1",
-     "h": "*Replies* to real questions",
-     "b": "People can always tell"
-    },
-    {
-     "role": "value",
-     "photo": "laptop",
-     "label": "UNDONE 2",
-     "h": "The *proposal* send",
-     "b": "It needs one human read"
-    },
-    {
-     "role": "value",
-     "label": "UNDONE 3",
-     "h": "*Follow ups* after a no",
-     "b": "Once is fine, four is a bot"
-    },
-    {
-     "role": "value",
-     "label": "THE RULE",
-     "h": "Automate the *waiting*",
-     "b": "Reminders yes, opinions no"
-    },
-    {
-     "role": "closer",
-     "h": "The line is *talking* versus waiting",
-     "b": "Send this to whoever set up your bot. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "How to automate my business, and the four things I automated and then undid. Replies to real questions, because people can always tell. The proposal send, which needs one human read. Follow ups after a no, where once is fine and four is a bot. The rule that came out of it is the only part worth keeping: automate the waiting, not the talking. Reminders yes, opinions no. Send this to whoever set up your bot. #freelancertips #automation",
-    "tt": "How to automate my business: automate the waiting, not the talking. Send this to whoever set up your bot. #freelancertips #automation",
-    "fb": "Replies, proposal sends and follow ups after a no went back to human. Automate reminders and scheduling, not opinions."
-   },
-   "alt": "A hand holding a phone with a message on screen."
-  },
-  {
-   "slug": "13-get-more-clients",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "laptop",
-     "kicker": "BUSINESS OF ONE",
-     "h": "How to get *more clients* without ads",
-     "b": "start with the five you already had"
-    },
-    {
-     "role": "value",
-     "label": "FIRST",
-     "h": "Look at your *last five* jobs",
-     "b": "Where each one actually came from"
-    },
-    {
-     "role": "value",
-     "photo": "oficina",
-     "label": "THEN",
-     "h": "Do *more* of that one channel",
-     "b": "Not four channels at ten percent"
-    },
-    {
-     "role": "value",
-     "label": "ASK",
-     "h": "For the *referral* at handover",
-     "b": "Not months later, at the end"
-    },
-    {
-     "role": "value",
-     "photo": "telefono",
-     "label": "THE LIST",
-     "h": "Write to *old* clients",
-     "b": "The ones who paid and went quiet"
-    },
-    {
-     "role": "closer",
-     "h": "The next client is usually a *past* one",
-     "b": "Send this to whoever is quiet this month. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "How to get more clients as a business of one, without buying ads. Look at your last five jobs and write down where each one actually came from, not where you think they came from. Then do more of the one channel that produced them instead of four channels at ten percent each. Ask for the referral at handover, while they are happy, not months later. And write to the old clients who paid and went quiet. Send this to whoever is quiet this month. #freelancertips #freelancelife",
-    "tt": "How to get more clients without ads: check where your last five jobs came from, then do more of that one thing. Send this to whoever is quiet this month. #freelancertips #freelancelife",
-    "fb": "Look at where your last five jobs actually came from, do more of that one channel, ask for the referral at handover, and write to the clients who paid and went quiet."
-   },
-   "alt": "How a solo operator finds more clients: the last five jobs, one channel, referrals at handover."
-  },
-  {
-   "slug": "14-friday-prompt",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "papeleo",
-     "h": "*4 lines* of the prompt I use every Friday",
-     "b": "raw notes in, client update out",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "LINE 1",
-     "h": "Give it the *raw notes*",
-     "b": "Dictated, unedited, messy"
-    },
-    {
-     "role": "value",
-     "photo": "laptop",
-     "label": "LINE 2",
-     "h": "Paste *last week's* update in",
-     "b": "The example beats the instruction"
-    },
-    {
-     "role": "value",
-     "label": "LINE 3",
-     "h": "Set the *shape*",
-     "b": "Shipped, blocked, next, dates"
-    },
-    {
-     "role": "value",
-     "label": "LINE 4",
-     "h": "Cap the *length*",
-     "b": "Under 120 words, no adjectives"
-    },
-    {
-     "role": "closer",
-     "h": "Same prompt, *every week*",
-     "b": "Send this to whoever writes your Friday update. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Freelance client update: the four line prompt I run every Friday. Line one, the raw dictated notes, unedited and messy. Line two, last week's update pasted in, because the example beats the instruction every time. Line three, the shape you want: shipped, blocked, next, dates. Line four, a length cap, under 120 words and no adjectives. Send this to whoever writes your Friday update. #freelancertips #aitools",
-    "tt": "Freelance client update: four prompt lines turn messy Friday notes into the update. Send this to whoever writes your Friday update. #freelancertips #aitools",
-    "fb": "Give it the raw notes, paste last week update in as the example, set the shape as shipped, blocked and next, and cap the length under 120 words."
-   },
-   "alt": "A pen and paper on a desk beside a phone, the raw notes."
-  },
-  {
-   "slug": "15-delay-email",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "telefono",
-     "h": "*4 parts* of the email when you are late",
-     "b": "sent early, a delay is information",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "PART 1",
-     "h": "Say it is *late*, first line",
-     "b": "No warm up, no weather"
-    },
-    {
-     "role": "value",
-     "photo": "papeleo",
-     "label": "PART 2",
-     "h": "Give the *new date*",
-     "b": "One date, and keep it"
-    },
-    {
-     "role": "value",
-     "label": "PART 3",
-     "h": "Say what *changed*",
-     "b": "One sentence, no blame"
-    },
-    {
-     "role": "value",
-     "label": "PART 4",
-     "h": "Offer *one* thing back",
-     "b": "A call, a partial, priority next"
-    },
-    {
-     "role": "closer",
-     "h": "Late and early beats late and *quiet*",
-     "b": "Send this to whoever has to send that email. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Following up by email with a client when you are going to be late. Say it is late in the first line, no warm up and no weather. Give one new date and keep it. Say what changed in one sentence with no blame. And offer one thing back that is not money, a call, a partial, priority next time. Sent early it is information, sent late it is an excuse. Send this to whoever has to send that email. #freelancertips #freelancer",
-    "tt": "Following up by email when you are going to be late: late in the first line, one new date, what changed, one thing back. Send this to whoever has to send that email. #freelancertips #freelancer",
-    "fb": "Say it is late in the first line, give one new date, explain in one sentence without blame, and offer one thing back."
-   },
-   "alt": "A phone in hand, the message nobody wants to send."
-  },
-  {
-   "slug": "16-onboarding-week",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "calendario",
-     "h": "*4 steps* in the first week with a client",
-     "b": "the week that sets every week after",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "DAY 1",
-     "h": "Send the *access* list",
-     "b": "Everything you need, at once"
-    },
-    {
-     "role": "value",
-     "photo": "oficina",
-     "label": "DAY 2",
-     "h": "Book the *kickoff*",
-     "b": "Thirty minutes, agenda sent"
-    },
-    {
-     "role": "value",
-     "label": "DAY 3",
-     "h": "Show *one* small thing done",
-     "b": "Proof beats a plan"
-    },
-    {
-     "role": "value",
-     "label": "DAY 7",
-     "h": "Send the first *update*",
-     "b": "The format you use weekly"
-    },
-    {
-     "role": "closer",
-     "h": "The first week sets *every week after*",
-     "b": "Send this to whoever onboards your clients. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Freelancer tips: the first week with a new client, in four steps. Day one, the full access list at once instead of five separate asks. Day two, a thirty minute kickoff with the agenda sent before it. Day three, one small thing finished, because proof beats a plan. Day seven, the first weekly update in the format you will use every week after. Send this to whoever onboards your clients. #freelancertips #freelancelife",
-    "tt": "Freelancer tips: the first week with a client, in four steps. Send this to whoever onboards your clients. #freelancertips #freelancelife",
-    "fb": "Access list day one, kickoff day two, one small thing shipped day three, first weekly update day seven."
-   },
-   "alt": "An open planner, the first week of a new client."
-  },
-  {
-   "slug": "17-client-wont-pay",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "papeleo",
-     "kicker": "BUSINESS OF ONE",
-     "h": "What to do when a client *will not pay*",
-     "b": "four messages, in this order"
-    },
-    {
-     "role": "value",
-     "label": "MESSAGE 1",
-     "h": "The invoice, *resent*",
-     "b": "No apology, just the copy"
-    },
-    {
-     "role": "value",
-     "photo": "laptop",
-     "label": "MESSAGE 2",
-     "h": "A *date* and a question",
-     "b": "Is anything blocking this"
-    },
-    {
-     "role": "value",
-     "label": "MESSAGE 3",
-     "h": "*Work stops* until it clears",
-     "b": "Said once, calmly, in writing"
-    },
-    {
-     "role": "value",
-     "photo": "oficina",
-     "label": "MESSAGE 4",
-     "h": "The *terms* you already sent",
-     "b": "Quote the line, not the mood"
-    },
-    {
-     "role": "value",
-     "label": "THE RULE",
-     "h": "Never *chase* by phone first",
-     "b": "You want it in writing"
-    },
-    {
-     "role": "closer",
-     "h": "Late is a *process* problem, not a person",
-     "b": "Send this to whoever is owed money right now. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "What to do when a client will not pay, in four messages and in this order. Resend the invoice with no apology attached, just the copy. Then one message with a date and one question, is anything blocking this. Then work stops until it clears, said once, calmly, and in writing. Then quote the line from the terms you already sent, not the mood you are in. And never chase by phone first, because you want the whole thing in writing. Send this to whoever is owed money right now. #latepayment #freelancertips",
-    "tt": "What to do when a client will not pay: resend the invoice, ask what is blocking it, say work stops, quote your own terms. Send this to whoever is owed money right now. #latepayment #freelancertips",
-    "fb": "Resend the invoice with no apology, ask what is blocking it, say work stops until it clears, and quote the line from the terms you already sent. All of it in writing."
-   },
-   "alt": "The four messages to send when a client will not pay an invoice, in order."
-  },
-  {
-   "slug": "18-client-ghosted",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "telefono",
-     "kicker": "BUSINESS OF ONE",
-     "h": "What to do when a client *ghosts* you",
-     "b": "mid project, with work already done"
-    },
-    {
-     "role": "value",
-     "label": "DAY 1",
-     "h": "Reply to your *own* thread",
-     "b": "One line, with the thing attached"
-    },
-    {
-     "role": "value",
-     "photo": "laptop",
-     "label": "DAY 4",
-     "h": "Change the *channel*",
-     "b": "Email went unread, try the phone"
-    },
-    {
-     "role": "value",
-     "label": "DAY 8",
-     "h": "Give them an *out*",
-     "b": "Say you will close the file"
-    },
-    {
-     "role": "value",
-     "photo": "papeleo",
-     "label": "THE FILE",
-     "h": "Close it *out loud*",
-     "b": "That is the one that gets answered"
-    },
-    {
-     "role": "closer",
-     "h": "Silence still deserves a *last* message",
-     "b": "Send this to whoever is still waiting on a reply. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "What to do when a client ghosts you mid project. Day one, reply to your own thread with one line and the thing attached, so it is easy to answer. Day four, change the channel, because an unread email stays unread. Day eight, give them an out and say you will close the file. And then actually close it out loud, because that is the message that gets answered more often than four polite chases. Send this to whoever is still waiting on a reply. #freelancertips #freelancelife",
-    "tt": "What to do when a client ghosts you mid project: reply to your own thread, change the channel, then say you are closing the file. Send this to whoever is still waiting on a reply. #freelancertips #freelancelife",
-    "fb": "Reply to your own thread with the thing attached, change the channel after a few days, then say you will close the file. The close out note gets answered more often than four chases."
-   },
-   "alt": "What a solo operator sends when a client stops replying mid project."
-  },
-  {
-   "slug": "19-checklist-not-automation",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "calendario",
-     "h": "*3 tasks* that should stay a checklist",
-     "b": "building it costs more than doing it",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "TASK 1",
-     "h": "Anything done *once a month*",
-     "b": "You forget how it works"
-    },
-    {
-     "role": "value",
-     "photo": "oficina",
-     "label": "TASK 2",
-     "h": "Anything with *judgement*",
-     "b": "Pricing, hiring, apologies"
-    },
-    {
-     "role": "value",
-     "label": "TASK 3",
-     "h": "Anything that *changes* often",
-     "b": "You rebuild it every time"
-    },
-    {
-     "role": "value",
-     "label": "THE TEST",
-     "h": "Five minutes weekly, *four hours* a year",
-     "b": "Build only if it takes less"
-    },
-    {
-     "role": "closer",
-     "h": "Half of my automations started as *a checklist*",
-     "b": "Send this to whoever wants to automate it. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Freelancer tips: three tasks that should stay a checklist instead of becoming an automation. Anything done once a month, because you forget how it works. Anything with judgement in it, pricing and hiring and apologies. And anything that changes often, because you rebuild it every time. Then do the arithmetic: five minutes a week is about four hours a year, so build it only if building takes less than that. Send this to whoever wants to automate it. #freelancertips #automation",
-    "tt": "Freelancer tips: three things to leave as a checklist, and the arithmetic that decides. Send this to whoever wants to automate it. #freelancertips #automation",
-    "fb": "Monthly tasks, judgement calls and things that change often belong on a checklist. Then do the arithmetic: five minutes a week is four hours a year, so build it only if building takes less than that."
-   },
-   "alt": "A planner open on a desk, the checklist that beats the automation."
-  },
-  {
-   "slug": "20-free-tiers",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "oficina",
-     "h": "*4 questions* to ask about a free tier",
-     "b": "some are real, some are demos",
-     "kicker": "BUSINESS OF ONE"
-    },
-    {
-     "role": "value",
-     "label": "QUESTION 1",
-     "h": "What is the *cap*",
-     "b": "Contacts, sends or seats"
-    },
-    {
-     "role": "value",
-     "photo": "laptop",
-     "label": "QUESTION 2",
-     "h": "Can you *export*",
-     "b": "If not, it is a trap"
-    },
-    {
-     "role": "value",
-     "label": "QUESTION 3",
-     "h": "Does it *brand* your page",
-     "b": "Their logo on your work"
-    },
-    {
-     "role": "value",
-     "label": "QUESTION 4",
-     "h": "What *breaks* at the cap",
-     "b": "Paused or deleted, ask first"
-    },
-    {
-     "role": "closer",
-     "h": "The free tier I still use is *Systeme.io*",
-     "b": "Send this to whoever is about to upgrade. Free stack list in bio."
-    }
-   ],
-   "caption": {
-    "ig": "Free tier or demo: four questions before you build on a client scheduling app. · I earn commission from links. What is the cap, contacts or sends or seats. Can you export, and if not it is a trap. Does it put their branding on your pages. And what breaks at the cap, paused or deleted, ask before you need to know. The free tier I still use is Systeme.io. Send this to whoever is about to upgrade. #ad #freelancertips #zapier",
-    "tt": "Free tier or demo: four questions before you build on a client scheduling app. commissions from links. Send this to whoever is about to upgrade. #ad #freelancertips",
-    "fb": "Ask about the cap, exports, branding on your pages and what breaks at the limit. The free tier still in use here is Systeme.io. I earn commission from links."
-   },
-   "alt": "A laptop and coffee on a kitchen counter, the free tier workday."
-  }
- ]
+  ]
 }
