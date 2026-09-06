@@ -197,52 +197,52 @@
    "alt": "Plan para el perro que se escapa por los cohetes: antes de la noche y qué hacer si ya salió."
   },
   {
-   "slug": "06-gato-se-fue",
+   "slug": "06-donde-va-tu-numero",
    "slides": [
     {
      "role": "cover",
-     "photo": "gato",
-     "h": "Tu gato no se fue lejos: está *escondido*"
+     "photo": "nino-mano",
+     "h": "4 formas de que tu hijo lleve *tu número* encima"
     },
     {
      "role": "value",
-     "label": "POR QUÉ",
-     "h": "No va a *maullar*",
-     "b": "El gato con miedo se esconde callado"
+     "label": "EN EL BOLSILLO",
+     "h": "Un papel que *se moja*",
+     "b": "Y nadie le revisa los bolsillos"
     },
     {
      "role": "value",
-     "photo": "gato",
-     "label": "BUSCA ASÍ",
-     "h": "Panza al *piso*",
-     "b": "Bajo autos, escaleras y techos bajos"
+     "photo": "nino-mano",
+     "label": "EN EL BRAZO",
+     "h": "Escrito, *se borra*",
+     "b": "Con sudor o agua dura una hora"
     },
     {
      "role": "value",
-     "photo": "noche-calle",
-     "label": "PIDE PERMISO",
-     "h": "El patio del *vecino*",
-     "b": "Nadie se va a agachar a mirar por ti"
+     "label": "EN LA MOCHILA",
+     "h": "Se queda en la *silla*",
+     "b": "El día que se suelta, no la lleva"
     },
     {
      "role": "value",
-     "label": "NO SIRVE",
-     "h": "Su *arena* usada afuera",
-     "b": "Atrae gatos que lo sacan del escondite"
+     "photo": "familia-parque",
+     "label": "EN LA MUÑECA",
+     "h": "Lo único que no se *separa*",
+     "b": "Puesto todo el día, como un reloj"
     },
     {
      "role": "closer",
-     "img": "llavero.png",
-     "h": "El gato que sí *vuelve*",
-     "b": "El «llavero» ComeHomeTag va en su collar de seguridad: quien lo vea escanea el QR y te escribe."
+     "img": "pulsera.png",
+     "h": "Y que además *hable* por él",
+     "b": "La «pulsera» ComeHomeTag lleva un QR: quien lo encuentra lo escanea con su celular y ve tu número."
     }
    ],
    "caption": {
-    "ig": "Mascota perdida: dónde está de verdad un gato que se salió. En el estudio más grande que existe, tres de cada cuatro gatos aparecieron a menos de quinientos metros del sitio por donde se salieron, y los de interior mucho más cerca todavía. No va a maullar, porque el gato asustado se esconde en silencio. Panza al piso, bajo autos y escaleras, y pide permiso para entrar a los patios de al lado. Guárdalo por si un día se te sale. #mascotasperu #tenenciaresponsable",
-    "tt": "Mascota perdida: tu gato no se fue lejos, está escondido y callado, casi siempre a menos de 500 metros. Mándaselo a quien tiene gato de interior en casa. #mascotasperu #tenenciaresponsable",
-    "fb": "La mayoría de gatos perdidos aparecen a pocos metros de su casa, escondidos y en silencio. Por eso gritar el nombre no sirve y la arena usada en la puerta tampoco: lo que funciona es agacharse y mirar debajo de todo, patio por patio."
+    "ig": "Niño perdido: dónde poner tu número para que quien lo encuentre te llame. El papel del bolsillo se moja y nadie le revisa los bolsillos a un niño ajeno. Escrito en el brazo se borra con el sudor de una hora. La mochila se queda en la silla justo el día que se suelta. Lo único que no se separa de él es lo que lleva puesto en la muñeca, todo el día, como un reloj. Guárdalo antes de la próxima salida al mercado. #seguridadinfantil #niñoperdido",
+    "tt": "Niño perdido: dónde poner tu número para que quien lo encuentre te llame. Mándaselo a la mamá con la que sales al parque. #seguridadinfantil #niñoperdido",
+    "fb": "El papel se moja, lo escrito en el brazo se borra y la mochila se queda en la silla. Lo único que no se separa de un niño es lo que lleva puesto en la muñeca."
    },
-   "alt": "Dónde buscar a un gato perdido: cerca, escondido y en silencio, mirando debajo de todo en los patios vecinos."
+   "alt": "Cuatro formas de que un niño lleve el número de sus papás encima y cuál de todas aguanta el día entero."
   },
   {
    "slug": "07-microchip-o-chapita",

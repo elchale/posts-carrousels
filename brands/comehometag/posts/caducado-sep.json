@@ -1,0 +1,56 @@
+{
+  "series": "sep",
+  "brand": "comehometag",
+  "posts": [
+    {
+      "slug": "06-gato-se-fue",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "gato",
+          "h": "Tu gato no se fue lejos: está *escondido*"
+        },
+        {
+          "role": "value",
+          "label": "POR QUÉ",
+          "h": "No va a *maullar*",
+          "b": "El gato con miedo se esconde callado"
+        },
+        {
+          "role": "value",
+          "photo": "gato",
+          "label": "BUSCA ASÍ",
+          "h": "Panza al *piso*",
+          "b": "Bajo autos, escaleras y techos bajos"
+        },
+        {
+          "role": "value",
+          "photo": "noche-calle",
+          "label": "PIDE PERMISO",
+          "h": "El patio del *vecino*",
+          "b": "Nadie se va a agachar a mirar por ti"
+        },
+        {
+          "role": "value",
+          "label": "NO SIRVE",
+          "h": "Su *arena* usada afuera",
+          "b": "Atrae gatos que lo sacan del escondite"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "El gato que sí *vuelve*",
+          "b": "El «llavero» ComeHomeTag va en su collar de seguridad: quien lo vea escanea el QR y te escribe."
+        }
+      ],
+      "caption": {
+        "ig": "Mascota perdida: dónde está de verdad un gato que se salió. En el estudio más grande que existe, tres de cada cuatro gatos aparecieron a menos de quinientos metros del sitio por donde se salieron, y los de interior mucho más cerca todavía. No va a maullar, porque el gato asustado se esconde en silencio. Panza al piso, bajo autos y escaleras, y pide permiso para entrar a los patios de al lado. Guárdalo por si un día se te sale. #mascotasperu #tenenciaresponsable",
+        "tt": "Mascota perdida: tu gato no se fue lejos, está escondido y callado, casi siempre a menos de 500 metros. Mándaselo a quien tiene gato de interior en casa. #mascotasperu #tenenciaresponsable",
+        "fb": "La mayoría de gatos perdidos aparecen a pocos metros de su casa, escondidos y en silencio. Por eso gritar el nombre no sirve y la arena usada en la puerta tampoco: lo que funciona es agacharse y mirar debajo de todo, patio por patio."
+      },
+      "alt": "Dónde buscar a un gato perdido: cerca, escondido y en silencio, mirando debajo de todo en los patios vecinos."
+    }
+  ],
+  "archivedAt": "2026-09-06",
+  "reason": "reemplazado: la cuenta iba muy cargada de mascotas (decision 2026-09-06)"
+}
