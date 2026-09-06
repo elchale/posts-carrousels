@@ -141,7 +141,7 @@
           "plate": "cine-05-almacen",
           "kicker": "RELACIÓN DE ÍTEMS",
           "emoji": "✂",
-          "h": "Ese proceso enorme se adjudica por partes",
+          "h": "Una licitación enorme se puede ganar por partes",
           "b": "y puedes ir solo por la tuya"
         },
         {
@@ -270,7 +270,7 @@
           "role": "cover",
           "kicker": "ESTE TRIMESTRE",
           "emoji": "⏱",
-          "h": "Dos revisadas por semana ya no alcanzan",
+          "h": "Revisar el SEACE dos veces por semana ya no alcanza",
           "b": "este trimestre, el feed se mira a diario"
         },
         {
@@ -314,8 +314,8 @@
           "role": "cover",
           "kicker": "FERIADO",
           "emoji": "📅",
-          "h": "El feriado engaña a los que cuentan de memoria",
-          "b": "hoy no corre igual para todos tus procesos"
+          "h": "Con el feriado, los plazos de tu proceso no corren igual",
+          "b": "hábiles y calendario no son lo mismo"
         },
         {
           "role": "value",
@@ -488,7 +488,7 @@
           "kicker": "ANTES DE INVERTIR",
           "emoji": "🛑",
           "h": "No compres el stock apenas ganes la buena pro",
-          "b": "tu luz verde es otra"
+          "b": "la luz verde llega después"
         },
         {
           "role": "value",
@@ -709,8 +709,8 @@
         {
           "role": "cover",
           "emoji": "📍",
-          "h": "Tu región es la cancha donde tu logística gana",
-          "b": "deja de pelear de visitante"
+          "h": "Las licitaciones de tu región son las que más te convienen",
+          "b": "menos flete, menos viaje, más margen"
         },
         {
           "role": "value",
@@ -753,7 +753,7 @@
           "plate": "cine-13-bases",
           "kicker": "ANTES DE SALTAR",
           "emoji": "🕵",
-          "h": "Ese proceso desierto tiene una causa escrita",
+          "h": "Cuando una licitación queda desierta, la causa está escrita",
           "b": "léela antes de correr a la reconvocatoria"
         },
         {
@@ -1193,7 +1193,7 @@
           "kicker": "CRONOGRAMAS",
           "emoji": "⏳",
           "h": "El proceso postergado no está muerto",
-          "b": "y soltarlo ahí es regalarlo"
+          "b": "solo cambió de fecha, y sigue vivo"
         },
         {
           "role": "value",
@@ -1279,8 +1279,8 @@
           "plate": "cine-14-imprenta",
           "kicker": "CUENTA REGRESIVA",
           "emoji": "🕰",
-          "h": "Hazle la cuenta regresiva al 31 de diciembre",
-          "b": "tu último día para entrar está cerca"
+          "h": "Entrar a una licitación toma semanas y diciembre está cerca",
+          "b": "hazle la cuenta regresiva a tu último proceso del año"
         },
         {
           "role": "value",
