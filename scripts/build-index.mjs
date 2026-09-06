@@ -95,7 +95,6 @@ const BRAND_CHROME = {
   diplomy: { accent: '#4d94f7', accent2: '#84b8f8', label: 'Certificados verificables' },
   /* Las dos cuentas afiliadas de EE.UU. (affiliate/) — en inglés, y por eso su
    * etiqueta también: es lo único del chasis que dice en qué idioma se publica. */
-  cheapfix: { accent: '#f5a400', accent2: '#e8d2a6', label: 'Cheap household fixes' },
   servicestack: { accent: '#5be0a5', accent2: '#8a93a0', label: 'AI stack for solos' },
 }
 

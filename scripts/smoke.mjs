@@ -125,7 +125,11 @@ const conFecha = idx.brands.flatMap((b) => b.posts).filter((p) => p.date)
 const porDia = {}
 for (const p of conFecha) (porDia[p.date] ||= []).push(p)
 const dias = Object.keys(porDia).sort()
-const DIA_LLENO = dias[0]                              // el primer día programado
+/* El primer día con TANDA de verdad, no el primer día a secas: la prueba de
+ * «siguiente» necesita al menos dos posts, y un día de uno solo la haría fallar
+ * sin que nada esté roto (pasó al retirar cheapfix, que compartía el 27-08 con
+ * servicestack y lo dejó en uno). Cae al primero si ningún día llega a dos. */
+const DIA_LLENO = dias.find((d) => porDia[d].length > 1) || dias[0]
 const DIA_VACIO = '2026-08-26'                         // retirado a mano: día sin nada
 const DIA_TARDE = dias[12] || dias[dias.length - 1]    // ya con atrasados detrás
 
@@ -146,7 +150,12 @@ async function enElDia(iso) {
   await pg.goto(BASE + '/', { waitUntil: 'load' })
   await pg.waitForSelector('.hrow', { timeout: 15000 })
   const esperados = porDia[DIA_LLENO].length
-  ok((await pg.$$('.hrow')).length === esperados, `${esperados} filas el ${DIA_LLENO} (una por cuenta que publica)`)
+  /* Las vencidas también pintan `.hrow`, y DIA_LLENO ya no es forzosamente el
+   * primer día del calendario (ver arriba), así que se cuentan aparte: hasta
+   * TOPE_ATRASADOS de los días anteriores. */
+  const vencidas = Math.min(conFecha.filter((p) => p.date < DIA_LLENO).length, 8)
+  ok((await pg.$$('.hrow')).length === esperados + vencidas,
+    `${esperados} filas el ${DIA_LLENO} (una por cuenta que publica)${vencidas ? ` + ${vencidas} vencidas` : ''}`)
   ok((await pg.textContent('.tabs__n')) === String(esperados), `la pestaña avisa ${esperados} pendientes`)
 
   await pg.locator('.hrow').first().click()

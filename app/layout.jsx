@@ -3,7 +3,7 @@ import Sync from './components/Sync'
 
 export const metadata = {
   title: 'Carruseles',
-  description: 'Los carruseles listos de ComeHomeTag, Qolca y Propaga — guardar, copiar y publicar desde el celular.',
+  description: 'Los carruseles listos de ComeHomeTag, Qolca y Radar Estatal — guardar, copiar y publicar desde el celular.',
   manifest: '/manifest.webmanifest',
   appleWebApp: { capable: true, title: 'Carruseles', statusBarStyle: 'black-translucent' },
   icons: {

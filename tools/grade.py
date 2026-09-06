@@ -201,26 +201,6 @@ DIP = dict(
     cine=lambda a: scrim(top_scrim(splittone(desat(a, 0.08), "#07152f", "#a9c8f2", 0.30), 0.18, 0.35), 0.42, 0.74),
 )
 
-CHF = dict(
-    # Cuenta afiliada A (affiliate/ACCOUNT-A-FINDS.md). Marca LIGHT y CALIDA:
-    # paper #F7F3EA, ink #17181C, ambar #F5A400, sub #5A5648. Es la paleta del
-    # valor barato honesto — papel de bolsa, no de imprenta fina — y por eso el
-    # blanco va sucio (crema) y no azulado: contra Propaga la separa que aqui no
-    # hay rojo, y contra Diplomy que aqui no hay azul en ninguna lamina.
-    # Las plates crudas son las de Diplomy (grabado a ~2% de contraste), asi que
-    # las claras pasan por punch() ANTES del duotono igual que en DIP: sin eso
-    # el motivo se borra y quedan sabanas planas.
-    cover=lambda a: add_glow(duotone(wb_to(punch(a, 2.6), "#f7f3ea", 97.0, 0.9), "#e0c58c", "#f9f5ed", keep=0.35), "#f5c86a", 0.5, 0.42, 0.55, 0.20),
-    cta=lambda a: add_glow(duotone(wb_to(punch(a, 2.0), "#f7f3ea", 97.0, 1.0), "#e8d2a6", "#faf7f0", keep=0.30), "#f5a400", 0.5, 0.80, 0.50, 0.24),
-    # emph: las plates crudas ya son OSCURAS (med lum 0.04) — el duotono aqui
-    # solo elige el matiz. Rampa carbon -> ambar quemado: el texto va claro.
-    emph=lambda a: duotone(a, "#141519", "#a87c12", keep=0.15),
-    value_paper=lambda a: duotone(wb_to(punch(a, 3.0), "#f8f4eb", 97.0, 0.9), "#e3dac6", "#f8f4eb", keep=0.80),
-    value_sky=lambda a: duotone(a, "#efd6a2", "#fdf7ea", keep=0.10),
-    cine=lambda a: scrim(top_scrim(splittone(exposure(a, 1.08, 0.97), "#1a1206", "#f0c07a", 0.32), 0.16, 0.32), 0.44, 0.70),
-)
-
-
 def to_dark(a: np.ndarray, base: str, top: str, k: float = 10.0, gamma: float = 0.70) -> np.ndarray:
     """Light engraved plate -> near-black field that KEEPS its texture.
 
@@ -258,7 +238,7 @@ SVC = dict(
 )
 
 RECIPES = {"comehometag": CHT, "qolca": QOL, "propaga": PRO, "radarestatal": RAD,
-           "diplomy": DIP, "cheapfix": CHF, "servicestack": SVC}
+           "diplomy": DIP, "servicestack": SVC}
 
 # families that get mirrored variants to fill inventory (all abstracts)
 MIRROR_FAMILIES = ("cover", "cta", "emph", "value")

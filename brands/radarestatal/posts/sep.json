@@ -198,55 +198,6 @@
    "alt": "Carrusel que explica la cuantía de la contratación y por qué el Estado ya no publica siempre cuánto piensa pagar."
   },
   {
-   "slug": "05-cronograma-con-hora",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "archivo",
-     "h": "Nadie te avisa por correo que *cambió* la fecha",
-     "b": "Todo se publica en la plataforma.",
-     "kicker": "PROVEEDOR DEL ESTADO"
-    },
-    {
-     "role": "value",
-     "label": "DÓNDE",
-     "h": "El cronograma va *en las bases*",
-     "b": "Etapa por etapa, con su fecha."
-    },
-    {
-     "role": "value",
-     "photo": "documentos",
-     "label": "EL MÍNIMO",
-     "h": "Consultas: *siete días hábiles*",
-     "b": "Desde el día después de convocar."
-    },
-    {
-     "role": "value",
-     "label": "SE MUEVE",
-     "h": "La entidad puede *postergar*",
-     "b": "Se avisa el mismo día que se publica."
-    },
-    {
-     "role": "value",
-     "photo": "oficina-reunion",
-     "label": "HAZ ESTO",
-     "h": "Revísalo *antes de cada etapa*",
-     "b": "La fecha pudo moverse."
-    },
-    {
-     "role": "closer",
-     "h": "Nosotros vigilamos ese *reloj* por ti",
-     "b": "Radar Estatal es la app que sigue los procesos del SEACE y te avisa antes de que cierre la etapa."
-    }
-   ],
-   "caption": {
-    "ig": "Licitaciones en Perú: los plazos de un proceso, etapa por etapa. El cronograma va en las bases, con su fecha para cada etapa y plazos mínimos por norma, como los siete días hábiles de consultas y observaciones. La entidad puede postergarlo, y lo publica en la plataforma: ahí se entiende avisado el mismo día, no te llega ningún correo. Por eso se revisa antes de cada etapa. Guárdalo para el día que abras tu próximo proceso. #mype #seace",
-    "tt": "Licitaciones en Perú: el cronograma se mueve y el aviso se publica en la plataforma, no llega a tu correo. Mándaselo a quien sigue los procesos contigo. #mype #seace",
-    "fb": "En una licitación del Estado cada etapa tiene su fecha en el cronograma. Hay plazos mínimos por norma y la entidad puede postergar, publicando el cronograma nuevo."
-   },
-   "alt": "Carrusel sobre el cronograma de un proceso de selección: dónde está, qué plazos mínimos tiene y por qué puede cambiar."
-  },
-  {
    "slug": "06-bases-integradas",
    "slides": [
     {

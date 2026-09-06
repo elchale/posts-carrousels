@@ -1,4 +1,11 @@
-# affiliate/ — the two US accounts
+# affiliate/ — the US accounts
+
+> **2026-09-06 — account A (`@cheapfixdaily` / Cheap Fix Daily) is gone.** The
+> brand folder, its 20 rendered posts, its bucket media, its profile pictures and
+> its playbook (`ACCOUNT-A-FINDS.md`) were deleted. Everything below that talks
+> about "the four accounts" or "lane A" is the plan as it was written — only
+> **Service Stack** (lane B) is live. Recover A from git history if it ever
+> comes back.
 
 A **sixth content line** in this repo, and the only one that is not a brand of
 Carlos's. Two US-market accounts (TikTok + Instagram each) whose only purpose is
@@ -14,7 +21,6 @@ English. The five brand docs stay in Spanish.
 | [`LESSONS-FROM-YOUR-DATA.md`](LESSONS-FROM-YOUR-DATA.md) | **Read before writing anything.** The rules extracted from your own 5 accounts' real numbers: sends, the separation/revelation frames, and the CTA that got 0 results in 12 tries. |
 | [`FORMATS.md`](FORMATS.md) | Why IG carousels get <100 views, the daily warm-up habit, the carousel/video ladder per account, the CapCut-template workflow — and the two content ideas that were rejected, with the arithmetic. |
 | [`SETUP.md`](SETUP.md) | **The step-by-step.** D0 → D30, both accounts, in order. This is the doc you work from. |
-| [`ACCOUNT-A-FINDS.md`](ACCOUNT-A-FINDS.md) | Lane A playbook: niche, hooks, slide template, image rules, first 20 posts. |
 | [`ACCOUNT-B-STACK.md`](ACCOUNT-B-STACK.md) | Lane B playbook: same, for the AI-stack account. |
 | [`PROGRAMS.md`](PROGRAMS.md) | Every offer: rate, cookie, payout rail, what paperwork it wants, join URL, status. |
 | [`COMPLIANCE.md`](COMPLIANCE.md) | The rules that can kill an account or a program: FTC, image rights, AI labels, multi-account hygiene. |
@@ -48,7 +54,7 @@ looking alike.
 
 Lane A is **photo-led**, so most of its slides are real product photos, not
 plates. Only the cover, the transition and the CTA slides come from the
-renderer. See `ACCOUNT-A-FINDS.md` § Slide template.
+renderer. See `ACCOUNT-B-STACK.md` § Slide template.
 
 ## Rules from the five brands: which carry over
 

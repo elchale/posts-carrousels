@@ -1,8 +1,22 @@
 # posts-carrousels
 
 Carruseles listos para publicar en Instagram, TikTok, Facebook y LinkedIn
-para las cinco marcas: **ComeHomeTag**, **Qolca**, **Propaga**, **Radar
-Estatal** y **Diplomy** (esta última en inglés, mercado global).
+para las marcas activas: **ComeHomeTag**, **Qolca** y **Radar Estatal**, más
+la cuenta de afiliados en inglés **Service Stack** (ver
+[`affiliate/`](affiliate/README.md)).
+
+> **Bajas del 06-09-2026.**
+>
+> - **Propaga y Diplomy: paradas.** Se les borró la cola entera (JSON, renders y
+>   bucket) y ya no salen ni en la app ni en el manifest. La marca sigue en
+>   `brands/` —ficha, logo, fotos, plantillas— por si algún día se retoma.
+> - **Cheap Fix Daily (`cheapfix`, la cuenta A de afiliados): eliminada.** Fuera
+>   la carpeta de la marca, sus renders, su playbook (`ACCOUNT-A-FINDS.md`) y sus
+>   fotos de perfil. Queda la cuenta B, Service Stack.
+>
+> Todo lo borrado sigue en el historial de git
+> (`git show 0a56eef9:brands/propaga/posts/posted-ago.json`), y las marcas de
+> publicado, en `carousel_state` de Neon.
 
 ## Cómo publicar desde el celular
 
@@ -38,9 +52,9 @@ Cada marca tiene su **`README.md`** con la guía completa de subida.
 brands/
   comehometag/   💜 protección QR para niños, abuelos y mascotas
   qolca/         🔷 automatización e IA para empresas (incluye PDF LinkedIn)
-  propaga/       🔥 marketing para negocios (SaaS)
   radarestatal/  📡 compras del Estado peruano (SEACE) — sin humor ni cultura pop
-  diplomy/       🎓 certificados verificables (Open Badges) — EN INGLÉS
+  propaga/       ⏸ parada — marketing para negocios (SaaS), sin posts
+  diplomy/       ⏸ parada — certificados verificables (Open Badges), sin posts
     posts/       las 6 series en JSON (el contenido fuente)
     plates/      fondos generados (originales)
     plates_graded/  fondos graduados a la paleta real de cada marca
