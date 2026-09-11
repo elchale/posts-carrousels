@@ -439,104 +439,7 @@
    "alt": "Dónde aparecen de verdad los perros perdidos: albergues del distrito, serenazgo y veterinarias."
   },
   {
-   "slug": "11-no-viene-cuando-llamas",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "perro-cara",
-     "h": "Tu perro asustado no viene cuando lo *llamas*"
-    },
-    {
-     "role": "value",
-     "label": "POR QUÉ",
-     "h": "Tu grito suena a que lo *agarran*",
-     "b": "Ya lo intentaron otros antes que tú"
-    },
-    {
-     "role": "value",
-     "photo": "perro-calle",
-     "label": "HAZ ESTO",
-     "h": "*Siéntate* y mira al piso",
-     "b": "De pie y de frente lo asustas más"
-    },
-    {
-     "role": "value",
-     "label": "LO QUE SÍ",
-     "h": "Come tú y *bota* comida",
-     "b": "Bolsa que suena, y ni lo mires"
-    },
-    {
-     "role": "value",
-     "photo": "perro-parque",
-     "label": "NUNCA",
-     "h": "No estires la *mano*",
-     "b": "Deja que él te toque a ti primero"
-    },
-    {
-     "role": "closer",
-     "img": "llavero.png",
-     "h": "Si igual se *aleja*",
-     "b": "El «llavero» ComeHomeTag va en el collar de tu perro: el que lo alcance escanea el QR y te llama."
-    }
-   ],
-   "caption": {
-    "ig": "Cómo encontrar a mi perro perdido cuando ya no viene si lo llamas. Llamarlo, silbarle o palmear es lo que otros ya intentaron para agarrarlo, así que suena a peligro. Siéntate en el piso, mira a otro lado, abre una bolsa que suene, come algo y bota comida al suelo sin mirarlo. Y nunca estires la mano: que él te toque primero. Mándaselo a quien pasea perros contigo. #perroperdido #mascotasperu",
-    "tt": "Cómo encontrar a mi perro perdido: siéntate en el piso y bota comida sin mirarlo, en vez de gritarle. Mándaselo a quien pasea perros contigo. #perroperdido #mascotasperu",
-    "fb": "Cuando un perro se suelta y está asustado, el grito lo empuja lejos. Los rescatistas hacen algo que parece absurdo: se sientan, miran al piso y comen algo botando comida al suelo, ignorando al perro hasta que él se acerca."
-   },
-   "alt": "Qué hacer cuando un perro asustado no viene al llamarlo: sentarse, mirar al piso y botar comida."
-  },
-  {
-   "slug": "12-quien-lo-cuida",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "correa",
-     "h": "Dejas a tu perro con alguien que no sabe qué *hacer*",
-     "kicker": "EL KIT"
-    },
-    {
-     "role": "value",
-     "label": "DÉJALE DICHO",
-     "h": "Que *no* lo persiga",
-     "b": "Perseguirlo lo manda hacia la pista"
-    },
-    {
-     "role": "value",
-     "photo": "perro-cara",
-     "label": "DÉJALE DICHO",
-     "h": "Que anote la *esquina*",
-     "b": "Ahí empieza la búsqueda, no en tu casa"
-    },
-    {
-     "role": "value",
-     "label": "DÉJALE",
-     "h": "Foto de *cuerpo entero*",
-     "b": "Y las cinco palabras que lo describen"
-    },
-    {
-     "role": "value",
-     "photo": "perro-parque",
-     "label": "EN EL CHIP",
-     "h": "Un *segundo* número",
-     "b": "El de alguien que sí contesta hoy"
-    },
-    {
-     "role": "closer",
-     "img": "llavero.png",
-     "h": "Todo eso, *encima* de él",
-     "b": "El «llavero» ComeHomeTag va en el collar de tu perro con tus datos: quien lo encuentre te llama directo."
-    }
-   ],
-   "caption": {
-    "ig": "Qué hacer si se pierde mi perro cuando yo no estoy: lo que le dejas por escrito a quien lo cuida. Que no lo persiga si se sale, porque perseguirlo lo empuja a la pista. Que anote la hora y la esquina exacta por donde se fue, porque toda la búsqueda se arma desde ese punto y no desde tu casa. Foto de cuerpo entero, las cinco palabras que lo describen y un segundo teléfono en el chip. Guárdalo antes de tu próximo viaje. #perroperdido #mascotasperu",
-    "tt": "Qué hacer si se pierde mi perro cuando yo no estoy: que no lo persiga y que anote la esquina exacta. Mándaselo a quien te lo va a cuidar la próxima vez. #perroperdido #mascotasperu",
-    "fb": "Si el perro se sale mientras lo cuidan, lo primero que hace cualquiera es correr detrás, y eso lo empuja hacia la pista. Vale más dejar dicho eso que dejar la marca del alimento."
-   },
-   "alt": "Qué debe saber quien cuida a tu perro si el perro se sale de casa."
-  },
-  {
-   "slug": "13-encontre-un-nino",
+   "slug": "11-encontre-un-nino",
    "slides": [
     {
      "role": "cover",
@@ -584,7 +487,7 @@
    "alt": "Cuatro pasos para ayudar a un niño perdido sin moverlo del sitio."
   },
   {
-   "slug": "14-mitos-hijo-seguro",
+   "slug": "12-mitos-hijo-seguro",
    "slides": [
     {
      "role": "cover",
@@ -632,7 +535,7 @@
    "alt": "Cuatro creencias sobre la seguridad infantil que no protegen a un niño perdido."
   },
   {
-   "slug": "15-tres-preguntas",
+   "slug": "13-tres-preguntas",
    "slides": [
     {
      "role": "cover",
@@ -680,7 +583,7 @@
    "alt": "Tres respuestas que un niño debe saber dar si se pierde y cómo ensayarlas en el lugar real."
   },
   {
-   "slug": "16-punto-de-encuentro",
+   "slug": "14-punto-de-encuentro",
    "slides": [
     {
      "role": "cover",
@@ -728,7 +631,7 @@
    "alt": "Cómo elegir y practicar un punto de encuentro familiar con nombre propio."
   },
   {
-   "slug": "17-a-quien-pedir-ayuda",
+   "slug": "15-a-quien-pedir-ayuda",
    "slides": [
     {
      "role": "cover",
@@ -776,7 +679,7 @@
    "alt": "Las tres personas a las que un niño perdido puede pedir ayuda y qué frase decir."
   },
   {
-   "slug": "18-pulsera-de-identificacion",
+   "slug": "16-pulsera-de-identificacion",
    "slides": [
     {
      "role": "cover",
@@ -825,7 +728,7 @@
    "alt": "Qué datos lleva una pulsera de identificación para niños: el teléfono del adulto y un segundo contacto."
   },
   {
-   "slug": "19-primera-combi-solo",
+   "slug": "17-primera-combi-solo",
    "slides": [
     {
      "role": "cover",
@@ -873,7 +776,7 @@
    "alt": "Cómo preparar a un hijo para viajar solo en transporte público por primera vez."
   },
   {
-   "slug": "20-quien-lo-recoge",
+   "slug": "18-quien-lo-recoge",
    "slides": [
     {
      "role": "cover",
@@ -921,7 +824,55 @@
    "alt": "Por qué la palabra secreta no funciona y qué hacer en su lugar cuando alguien más recoge a tu hijo."
   },
   {
-   "slug": "21-de-noche-no-reconoce",
+   "slug": "19-no-viene-cuando-llamas",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "perro-cara",
+     "h": "Tu perro asustado no viene cuando lo *llamas*"
+    },
+    {
+     "role": "value",
+     "label": "POR QUÉ",
+     "h": "Tu grito suena a que lo *agarran*",
+     "b": "Ya lo intentaron otros antes que tú"
+    },
+    {
+     "role": "value",
+     "photo": "perro-calle",
+     "label": "HAZ ESTO",
+     "h": "*Siéntate* y mira al piso",
+     "b": "De pie y de frente lo asustas más"
+    },
+    {
+     "role": "value",
+     "label": "LO QUE SÍ",
+     "h": "Come tú y *bota* comida",
+     "b": "Bolsa que suena, y ni lo mires"
+    },
+    {
+     "role": "value",
+     "photo": "perro-parque",
+     "label": "NUNCA",
+     "h": "No estires la *mano*",
+     "b": "Deja que él te toque a ti primero"
+    },
+    {
+     "role": "closer",
+     "img": "llavero.png",
+     "h": "Si igual se *aleja*",
+     "b": "El «llavero» ComeHomeTag va en el collar de tu perro: el que lo alcance escanea el QR y te llama."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo encontrar a mi perro perdido cuando ya no viene si lo llamas. Llamarlo, silbarle o palmear es lo que otros ya intentaron para agarrarlo, así que suena a peligro. Siéntate en el piso, mira a otro lado, abre una bolsa que suene, come algo y bota comida al suelo sin mirarlo. Y nunca estires la mano: que él te toque primero. Mándaselo a quien pasea perros contigo. #perroperdido #mascotasperu",
+    "tt": "Cómo encontrar a mi perro perdido: siéntate en el piso y bota comida sin mirarlo, en vez de gritarle. Mándaselo a quien pasea perros contigo. #perroperdido #mascotasperu",
+    "fb": "Cuando un perro se suelta y está asustado, el grito lo empuja lejos. Los rescatistas hacen algo que parece absurdo: se sientan, miran al piso y comen algo botando comida al suelo, ignorando al perro hasta que él se acerca."
+   },
+   "alt": "Qué hacer cuando un perro asustado no viene al llamarlo: sentarse, mirar al piso y botar comida."
+  },
+  {
+   "slug": "20-de-noche-no-reconoce",
    "slides": [
     {
      "role": "cover",
@@ -969,7 +920,7 @@
    "alt": "Por qué un niño no reconoce su calle de noche y cómo practicar la ruta a esa hora."
   },
   {
-   "slug": "22-mitos-abuelo",
+   "slug": "21-mitos-abuelo",
    "slides": [
     {
      "role": "cover",
@@ -1017,7 +968,7 @@
    "alt": "Cuatro creencias sobre el cuidado de un adulto mayor con demencia que no lo protegen."
   },
   {
-   "slug": "23-un-senor-perdido",
+   "slug": "22-un-senor-perdido",
    "slides": [
     {
      "role": "cover",
@@ -1063,6 +1014,55 @@
     "fb": "Contradecir a alguien que está desorientado solo lo asusta. Lo que enseñan los especialistas es ponerse delante, presentarse, no corregir, revisar si lleva algo con un contacto y quedarse con él mientras se pide ayuda."
    },
    "alt": "Cuatro pasos para ayudar a un adulto mayor desorientado que encuentras en la calle."
+  },
+  {
+   "slug": "23-quien-lo-cuida",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "correa",
+     "h": "Dejas a tu perro con alguien que no sabe qué *hacer*",
+     "kicker": "EL KIT"
+    },
+    {
+     "role": "value",
+     "label": "DÉJALE DICHO",
+     "h": "Que *no* lo persiga",
+     "b": "Perseguirlo lo manda hacia la pista"
+    },
+    {
+     "role": "value",
+     "photo": "perro-cara",
+     "label": "DÉJALE DICHO",
+     "h": "Que anote la *esquina*",
+     "b": "Ahí empieza la búsqueda, no en tu casa"
+    },
+    {
+     "role": "value",
+     "label": "DÉJALE",
+     "h": "Foto de *cuerpo entero*",
+     "b": "Y las cinco palabras que lo describen"
+    },
+    {
+     "role": "value",
+     "photo": "perro-parque",
+     "label": "EN EL CHIP",
+     "h": "Un *segundo* número",
+     "b": "El de alguien que sí contesta hoy"
+    },
+    {
+     "role": "closer",
+     "img": "llavero.png",
+     "h": "Todo eso, *encima* de él",
+     "b": "El «llavero» ComeHomeTag va en el collar de tu perro con tus datos: quien lo encuentre te llama directo."
+    }
+   ],
+   "caption": {
+    "ig": "Qué hacer si se pierde mi perro cuando yo no estoy: lo que le dejas por escrito a quien lo cuida. Que no lo persiga si se sale, porque perseguirlo lo empuja a la pista. Que anote la hora y la esquina exacta por donde se fue, porque toda la búsqueda se arma desde ese punto y no desde tu casa. Foto de cuerpo entero, las cinco palabras que lo describen y un segundo teléfono en el chip. Guárdalo antes de tu próximo viaje. #perroperdido #mascotasperu",
+    "tt": "Qué hacer si se pierde mi perro cuando yo no estoy: que no lo persiga y que anote la esquina exacta. Mándaselo a quien te lo va a cuidar la próxima vez. #perroperdido #mascotasperu",
+    "fb": "Si el perro se sale mientras lo cuidan, lo primero que hace cualquiera es correr detrás, y eso lo empuja hacia la pista. Vale más dejar dicho eso que dejar la marca del alimento."
+   },
+   "alt": "Qué debe saber quien cuida a tu perro si el perro se sale de casa."
   },
   {
    "slug": "24-mes-alzheimer-deambular",
