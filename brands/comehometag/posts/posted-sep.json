@@ -1,0 +1,1164 @@
+{
+  "series": "sep",
+  "brand": "comehometag",
+  "posts": [
+    {
+      "slug": "01-afiche-se-perdio",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-cara",
+          "h": "Tu afiche de *«SE PERDIÓ»* no se lee desde un auto",
+          "kicker": "EL KIT"
+        },
+        {
+          "role": "value",
+          "photo": "perro-cara",
+          "label": "LA REGLA",
+          "h": "*Cinco* palabras, nada más",
+          "b": "«Perro perdido, labrador amarillo»"
+        },
+        {
+          "role": "value",
+          "label": "EL TAMAÑO",
+          "h": "Letras de un *palmo*",
+          "b": "Cartulina fosforescente, no hoja blanca"
+        },
+        {
+          "role": "value",
+          "photo": "perro-calle",
+          "label": "DÓNDE",
+          "h": "En la esquina del *semáforo*",
+          "b": "Donde el auto para, sobre tu cabeza"
+        },
+        {
+          "role": "value",
+          "label": "CUÁNTOS",
+          "h": "*Diez*, no uno",
+          "b": "Repartidos por las avenidas del sector"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "El afiche siempre llega *tarde*",
+          "b": "El «llavero» ComeHomeTag va en el collar de tu perro: quien lo encuentre escanea el QR y te llama."
+        }
+      ],
+      "caption": {
+        "ig": "Se busca mascota perdida: cómo se hace el cartel que sí se lee. Cinco palabras y nada más, porque el que lo lee va manejando: «perro perdido, labrador amarillo». Letras negras de un palmo sobre cartulina fosforescente. Pegados alto, en las esquinas donde el auto para. Y diez, no uno. Guárdalo antes del próximo paseo. #perroperdido #mascotasperu",
+        "tt": "Se busca mascota perdida: cinco palabras, letras de un palmo, cartulina fosforescente y diez carteles en las esquinas con semáforo. Mándaselo a quien pasea a tu perro cuando tú no puedes. #perroperdido #mascotasperu",
+        "fb": "Casi todos los afiches de perro perdido están hechos para leerse de cerca, y el que puede reconocerlo va manejando. Cinco palabras, letras enormes, fondo fosforescente y pegados en las esquinas donde los autos paran. ¿Cuántos pondrías tú?"
+      },
+      "alt": "Cómo hacer el afiche de un perro perdido: cinco palabras, letras grandes, cartulina fosforescente y diez carteles en intersecciones."
+    },
+    {
+      "slug": "02-encontre-un-perro",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-calle",
+          "h": "Encontraste un perro suelto, ¿y ahora *qué*?"
+        },
+        {
+          "role": "value",
+          "photo": "perro-cara",
+          "label": "PASO 1",
+          "h": "Asume que tiene *casa*",
+          "b": "Casi nunca es un perro botado"
+        },
+        {
+          "role": "value",
+          "label": "PASO 2",
+          "h": "No lo *llames* de lejos",
+          "b": "Tu voz suena a que lo van a agarrar"
+        },
+        {
+          "role": "value",
+          "photo": "perro-calle",
+          "label": "PASO 3",
+          "h": "Revísale el *collar*",
+          "b": "Chapita, placa o QR con un número"
+        },
+        {
+          "role": "value",
+          "label": "PASO 4",
+          "h": "Si gruñe, *no sigas*",
+          "b": "Avisa al albergue o al serenazgo"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "Y si el perdido fuera el *tuyo*",
+          "b": "El «llavero» ComeHomeTag va en su collar: cualquier celular escanea el QR y marca tu número."
+        }
+      ],
+      "caption": {
+        "ig": "Encontré un perro perdido, qué hago. Lo primero es asumir que tiene casa: casi nunca es un perro botado, y quien cree que lo botaron termina buscándole familia nueva en vez de buscar a la suya. No lo llames de lejos, porque para un perro asustado esa voz es la de alguien que lo va a agarrar. Revísale el collar por si lleva chapita, placa o un QR con un número. Y si gruñe o se eriza, no insistas: avisa al albergue de tu distrito o al serenazgo. Guárdalo para el día que te toque. #perroperdido #mascotasperu",
+        "tt": "Encontré un perro perdido y asumí que lo botaron. Casi nunca es eso. Mándaselo a quien siempre para a ayudar perros en la calle. #perroperdido #mascotasperu",
+        "fb": "Quien encuentra un perro suelto suele asumir que lo abandonaron, y el que cree eso termina buscándole casa nueva en vez de buscar a su familia. Primero asume que tiene dueño, revísale el collar y avisa al albergue de tu distrito."
+      },
+      "alt": "Cuatro pasos para ayudar a un perro suelto en la calle: asumir que tiene casa, revisarle el collar y avisar."
+    },
+    {
+      "slug": "03-mitos-collar-perro",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-collar",
+          "h": "4 cosas que no evitan que tu perro se *pierda*"
+        },
+        {
+          "role": "value",
+          "label": "MITO 1",
+          "h": "«Nunca se *aleja*»",
+          "b": "1 de cada 5 mascotas perdidas huyó por un ruido"
+        },
+        {
+          "role": "value",
+          "photo": "perro-calle",
+          "label": "MITO 2",
+          "h": "«Me va a *reconocer*»",
+          "b": "En pánico hasta tú eres una amenaza"
+        },
+        {
+          "role": "value",
+          "label": "MITO 3",
+          "h": "«Tiene *chip*»",
+          "b": "Sin tus datos puestos no sirve de nada"
+        },
+        {
+          "role": "value",
+          "photo": "perro-cara",
+          "label": "MITO 4",
+          "h": "«Ya tiene *collar*»",
+          "b": "Collar sin chapita legible no dice nada"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "Lo que sí lo trae de *vuelta*",
+          "b": "El «llavero» ComeHomeTag en su collar: escanean el QR y ven tu teléfono. Sin batería, sin apps."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo evitar que mi perro se pierda: cuatro cosas que no lo logran. «Nunca se aleja»: casi una de cada cinco mascotas perdidas se fue por primera vez por un ruido fuerte. «Me va a reconocer»: un perro en pánico ve una amenaza hasta en su dueño. «Tiene chip»: sin tus datos puestos en el registro no sirve de nada. Y el collar sin chapita legible no dice nada. Guárdalo para la próxima noche de cohetes. #perroperdido #mascotasperu",
+        "tt": "Cómo evitar que mi perro se pierda: cuatro cosas que crees que lo protegen y no lo hacen. Mándaselo a quien tiene perro en casa. #perroperdido #mascotasperu",
+        "fb": "El chip es buenísimo, pero solo sirve si alguien lo escanea y si los datos del dueño están registrados y al día, y muchas veces no lo están. La chapita legible sigue siendo lo primero que mira quien encuentra a un perro."
+      },
+      "alt": "Cuatro mitos sobre la seguridad de un perro perdido: nunca se aleja, me reconoce, tiene chip, ya tiene collar."
+    },
+    {
+      "slug": "04-perro-cohetes",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-cara",
+          "h": "Tu perro *se asusta* con los cohetes y se va"
+        },
+        {
+          "role": "value",
+          "label": "ANTES",
+          "h": "Adentro y con *llave*",
+          "b": "El escape empieza en la puerta de calle"
+        },
+        {
+          "role": "value",
+          "photo": "perro-parque",
+          "label": "ANTES",
+          "h": "La chapita *puesta*",
+          "b": "No en el cajón, puesta esa noche"
+        },
+        {
+          "role": "value",
+          "label": "SI SE FUE",
+          "h": "No salgas a *gritarle*",
+          "b": "El grito lo empuja más lejos"
+        },
+        {
+          "role": "value",
+          "photo": "perro-calle",
+          "label": "SI SE FUE",
+          "h": "Comida en la *vereda*",
+          "b": "Con su manta y ropa tuya sin lavar"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "El ruido no *avisa*",
+          "b": "El «llavero» ComeHomeTag va puesto siempre en el collar de tu perro: quien lo encuentre escanea el QR y te llama."
+        }
+      ],
+      "caption": {
+        "ig": "Perro que se asusta con los cohetes: qué hacer antes y qué hacer después. Casi una de cada cinco mascotas perdidas se fue por primera vez asustada por un ruido fuerte. Adentro y con la puerta con llave, la chapita puesta esa misma noche. Y si igual salió, nada de gritarle: deja comida, su manta y ropa tuya sin lavar en la vereda. Guárdalo para la próxima noche de pirotecnia. #perroperdido #mascotasperu",
+        "tt": "Perro que se asusta con los cohetes: adentro y con llave, la chapita puesta, y si sale, comida y su manta en la vereda. Mándaselo a quien te cuida al perro cuando sales de noche. #perroperdido #mascotasperu",
+        "fb": "El perro que se pierde con los cohetes está en pánico, no portándose mal. Y cuando ya salió, salir a gritar su nombre lo aleja: lo que lo trae de vuelta es comida y olor conocido en la puerta. ¿Qué hace el tuyo cuando revientan cohetes?"
+      },
+      "alt": "Plan para el perro que se escapa por los cohetes: antes de la noche y qué hacer si ya salió."
+    },
+    {
+      "slug": "06-donde-va-tu-numero",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "nino-mano",
+          "h": "4 formas de que tu hijo lleve *tu número* encima"
+        },
+        {
+          "role": "value",
+          "label": "EN EL BOLSILLO",
+          "h": "Un papel que *se moja*",
+          "b": "Y nadie le revisa los bolsillos"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mano",
+          "label": "EN EL BRAZO",
+          "h": "Escrito, *se borra*",
+          "b": "Con sudor o agua dura una hora"
+        },
+        {
+          "role": "value",
+          "label": "EN LA MOCHILA",
+          "h": "Se queda en la *silla*",
+          "b": "El día que se suelta, no la lleva"
+        },
+        {
+          "role": "value",
+          "photo": "familia-parque",
+          "label": "EN LA MUÑECA",
+          "h": "Lo único que no se *separa*",
+          "b": "Puesto todo el día, como un reloj"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Y que además *hable* por él",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: quien lo encuentra lo escanea con su celular y ve tu número."
+        }
+      ],
+      "caption": {
+        "ig": "Niño perdido: dónde poner tu número para que quien lo encuentre te llame. El papel del bolsillo se moja y nadie le revisa los bolsillos a un niño ajeno. Escrito en el brazo se borra con el sudor de una hora. La mochila se queda en la silla justo el día que se suelta. Lo único que no se separa de él es lo que lleva puesto en la muñeca, todo el día, como un reloj. Guárdalo antes de la próxima salida al mercado. #seguridadinfantil #niñoperdido",
+        "tt": "Niño perdido: dónde poner tu número para que quien lo encuentre te llame. Mándaselo a la mamá con la que sales al parque. #seguridadinfantil #niñoperdido",
+        "fb": "El papel se moja, lo escrito en el brazo se borra y la mochila se queda en la silla. Lo único que no se separa de un niño es lo que lleva puesto en la muñeca."
+      },
+      "alt": "Cuatro formas de que un niño lleve el número de sus papás encima y cuál de todas aguanta el día entero."
+    },
+    {
+      "slug": "07-microchip-o-chapita",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-cara",
+          "kicker": "EL KIT",
+          "h": "Qué hace el *microchip* y qué hace la chapita"
+        },
+        {
+          "role": "value",
+          "label": "EL CHIP",
+          "h": "Guarda un *número*, nada más",
+          "b": "No es GPS, no dice dónde está"
+        },
+        {
+          "role": "value",
+          "photo": "perro-cara",
+          "label": "HACE FALTA",
+          "h": "Alguien con *lector*",
+          "b": "Y no todo lector lee todo chip"
+        },
+        {
+          "role": "value",
+          "label": "EL HUECO",
+          "h": "*4 de cada 10* chips sin dueño",
+          "b": "Nadie registró tus datos ahí"
+        },
+        {
+          "role": "value",
+          "photo": "perro-calle",
+          "label": "LA CHAPITA",
+          "h": "Se lee *sin aparatos*",
+          "b": "La ve cualquiera que lo encuentre"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "Los dos, no uno *u otro*",
+          "b": "El «llavero» ComeHomeTag va en el collar de tu perro: cualquier celular escanea el QR y ve tu contacto."
+        }
+      ],
+      "caption": {
+        "ig": "Microchip para perro: qué hace y qué no hace. El chip guarda un número en un registro, no una ubicación, y para leerlo hace falta un lector que no todos tienen ni lee todos los chips. Casi cuatro de cada diez chips no tienen los datos del dueño puestos. La chapita se lee sin aparatos, y por eso es lo primero que revisa quien encuentra a un perro. Van juntos, no es uno u otro. Guárdalo antes de tu próxima visita al veterinario. #perroperdido #mascotasperu",
+        "tt": "Microchip para perro: es un número en un registro, no una ubicación, y hace falta un lector. La chapita la lee cualquiera. Mándaselo a quien acaba de ponerle el chip a su perro. #perroperdido #mascotasperu",
+        "fb": "El microchip guarda un número en un registro y necesita un lector para leerse. La chapita se lee sin aparatos y es lo primero que revisa quien encuentra a un perro. Van juntos."
+      },
+      "alt": "Microchip y chapita de identificación para perros: qué hace cada uno y por qué se usan juntos."
+    },
+    {
+      "slug": "08-perro-mudanza",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-calle",
+          "h": "Te mudas y la chapita de tu perro ya no *sirve*"
+        },
+        {
+          "role": "value",
+          "label": "EL DÍA",
+          "h": "Un cuarto con *llave*",
+          "b": "La de calle se queda abierta horas"
+        },
+        {
+          "role": "value",
+          "photo": "perro-cara",
+          "label": "ESE DÍA",
+          "h": "Cambia el dato del *chip*",
+          "b": "Un teléfono viejo es un chip inútil"
+        },
+        {
+          "role": "value",
+          "label": "ESE DÍA",
+          "h": "Regraba la *chapita*",
+          "b": "Con el número que sí vas a contestar"
+        },
+        {
+          "role": "value",
+          "photo": "perro-parque",
+          "label": "TRES DÍAS",
+          "h": "Con *correa* en la calle nueva",
+          "b": "Todavía no sabe volver a esa puerta"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "Casa nueva, número *nuevo*",
+          "b": "El «llavero» ComeHomeTag lleva un QR: cambias tus datos desde el celular y el llavero ya dice lo nuevo."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo evitar que tu perro se pierda el día de la mudanza. La puerta de calle queda abierta durante horas, así que él va a un cuarto con llave. Y lo que casi nadie hace: actualizar el teléfono del chip y regrabar la chapita el mismo día, porque el motivo número uno por el que no ubican al dueño de un perro con chip son los datos de contacto viejos. Guárdalo para el día del camión. #perroperdido #mascotasperu",
+        "tt": "Cómo evitar que tu perro se pierda el día de la mudanza: cuarto con llave, chip actualizado y chapita regrabada ese mismo día. Mándaselo a quien se muda este mes. #perroperdido #mascotasperu",
+        "fb": "Cuando no logran ubicar al dueño de un perro con chip, la causa más común no es el chip: son los datos de contacto viejos. La mudanza es el día exacto para cambiarlos, y casi nadie lo hace."
+      },
+      "alt": "Qué hacer con el perro el día de la mudanza y por qué hay que actualizar chip y chapita ese mismo día."
+    },
+    {
+      "slug": "09-chapita-ilegible",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-collar",
+          "h": "La chapita de tu perro ya no se *lee*",
+          "kicker": "EL KIT"
+        },
+        {
+          "role": "value",
+          "label": "LO PRIMERO",
+          "h": "Miran el *collar*, no el chip",
+          "b": "El chip necesita lector, la chapita no"
+        },
+        {
+          "role": "value",
+          "photo": "perro-cara",
+          "label": "QUÉ VA",
+          "h": "Tu *número*, no su nombre",
+          "b": "Su nombre no sirve para llamarte"
+        },
+        {
+          "role": "value",
+          "photo": "perro-calle",
+          "label": "LA PRUEBA",
+          "h": "Léela con el brazo *estirado*",
+          "b": "Si no la lees tú, no la lee nadie"
+        },
+        {
+          "role": "value",
+          "label": "SI ES GATO",
+          "h": "Collar con *elástico*",
+          "b": "Se suelta solo si se engancha"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "Una chapita que sí *cabe*",
+          "b": "El «llavero» ComeHomeTag lleva un QR: cualquier celular lo escanea y ve tu contacto completo."
+        }
+      ],
+      "caption": {
+        "ig": "Placa de identificación para mascotas: cómo saber si la tuya todavía sirve. Lo primero que revisa quien encuentra a un perro es el collar, porque el chip necesita un lector y no todos los lectores leen todos los chips. Tu número, no el nombre del perro. La prueba es leerla con el brazo estirado. Y si es gato, collar con panel elástico para que se suelte si se engancha. Guárdalo y revísala esta noche. #perroperdido #mascotasperu",
+        "tt": "Placa de identificación para mascotas: léela con el brazo estirado, y si no la lees tú, no la lee nadie. Mándaselo a quien tiene la chapita del perro borrada. #perroperdido #mascotasperu",
+        "fb": "Muchas chapitas llevan el nombre del perro y poco más, y el grabado se gasta. Lo que sirve para que te lo devuelvan es tu número, legible a un brazo de distancia, en un collar que quien lo encuentre revise primero."
+      },
+      "alt": "Cómo revisar si la chapita de identificación de tu perro sigue siendo legible y útil."
+    },
+    {
+      "slug": "10-donde-aparecen-los-perdidos",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-calle",
+          "h": "A tu perro perdido lo encuentra *otra persona*"
+        },
+        {
+          "role": "value",
+          "label": "EL DATO",
+          "h": "1 de cada 3 vuelve por un *albergue*",
+          "b": "No lo encuentras tú en la calle"
+        },
+        {
+          "role": "value",
+          "photo": "perro-cara",
+          "label": "HOY MISMO",
+          "h": "Llama al *albergue* de tu distrito",
+          "b": "Deja tu número y una foto"
+        },
+        {
+          "role": "value",
+          "label": "TAMBIÉN",
+          "h": "Serenazgo y *veterinarias*",
+          "b": "Ahí llevan a los perros sueltos"
+        },
+        {
+          "role": "value",
+          "photo": "perro-calle",
+          "label": "VUELVE",
+          "h": "Pregunta *cada día*, no una vez",
+          "b": "Entran perros nuevos todo el tiempo"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "O te llaman el *mismo día*",
+          "b": "El «llavero» ComeHomeTag va en el collar de tu perro: quien lo encuentre escanea el QR y te marca."
+        }
+      ],
+      "caption": {
+        "ig": "Perro perdido en Lima: dónde aparecen de verdad. En el estudio más citado sobre perros perdidos, uno de cada tres de los que volvieron a casa apareció por un albergue, no en la calle buscándolo. Llama al albergue de tu distrito el mismo día, deja tu número y una foto de cuerpo entero, avisa al serenazgo y a las veterinarias del sector, y vuelve a preguntar cada día porque entran perros nuevos todo el tiempo. Guárdalo antes de que haga falta. #perroperdido #perrosdelima",
+        "tt": "Perro perdido en Lima: uno de cada tres de los que vuelven aparece por un albergue, no en la calle. Mándaselo a quien anda buscando a su perro estos días. #perroperdido #perrosdelima",
+        "fb": "En el estudio más citado sobre perros perdidos, uno de cada tres de los que volvieron a casa apareció por un albergue. Llama al de tu distrito el mismo día, deja tu número y una foto, y vuelve a preguntar cada día."
+      },
+      "alt": "Dónde aparecen de verdad los perros perdidos: albergues del distrito, serenazgo y veterinarias."
+    },
+    {
+      "slug": "11-encontre-un-nino",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "mercado",
+          "h": "Encontraste a un niño solo, ¿y ahora *qué*?"
+        },
+        {
+          "role": "value",
+          "label": "PASO 1",
+          "h": "No lo muevas del *sitio*",
+          "b": "Ahí es donde sus papás van a volver"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mano",
+          "label": "PASO 2",
+          "h": "Agáchate a su *altura*",
+          "b": "Di tu nombre y pregunta el suyo"
+        },
+        {
+          "role": "value",
+          "label": "PASO 3",
+          "h": "Avisa al de la *caja*",
+          "b": "Pídele que lo anuncie y mire las salidas"
+        },
+        {
+          "role": "value",
+          "photo": "mercado",
+          "label": "EL ERROR",
+          "h": "*Llevarlo* a buscarlos",
+          "b": "Sacarlo de ahí lo pierde otra vez"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Si el niño fuera el *tuyo*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: quien lo encuentre lo escanea y ve tu teléfono al toque."
+        }
+      ],
+      "caption": {
+        "ig": "Niño perdido en el mercado: qué hace el adulto que lo encuentra. Quedarse en el punto donde está, porque los papás vuelven al último sitio donde lo vieron. Agacharse a su altura, decirle tu nombre y preguntarle el suyo. Avisar al personal del local y pedirle que lo anuncie y vigile las salidas. Y no llevarlo a dar vueltas: moverlo de ahí lo pierde otra vez. Guárdalo por si te toca. #seguridadinfantil #niñoperdido",
+        "tt": "Niño perdido en el mercado: cuatro pasos, y ninguno es moverlo del sitio. Mándaselo a quien atiende un puesto o una tienda. #seguridadinfantil #niñoperdido",
+        "fb": "Lo primero que hacemos casi todos es caminar con el niño a buscar a sus papás, y es justo lo que no ayuda: ellos regresan al punto donde lo vieron por última vez. Quédate ahí y avisa al personal del local."
+      },
+      "alt": "Cuatro pasos para ayudar a un niño perdido sin moverlo del sitio."
+    },
+    {
+      "slug": "12-mitos-hijo-seguro",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "nino-mochila",
+          "h": "4 cosas que crees que *cuidan* a tu hijo y no lo hacen"
+        },
+        {
+          "role": "value",
+          "label": "MITO 1",
+          "h": "«No hables con *extraños*»",
+          "b": "Perdido tiene que hablar con uno"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mano",
+          "label": "MITO 2",
+          "h": "«Tenemos palabra *secreta*»",
+          "b": "La olvida con miedo y se la sacan"
+        },
+        {
+          "role": "value",
+          "label": "MITO 3",
+          "h": "«Ya se lo *dije* una vez»",
+          "b": "Lo que no se ensaya no le sale"
+        },
+        {
+          "role": "value",
+          "photo": "familia-parque",
+          "label": "MITO 4",
+          "h": "«Está con la *familia*»",
+          "b": "Cinco adultos y ninguno encargado"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Lo que sí lo *trae* de vuelta",
+          "b": "La «pulsera» ComeHomeTag con QR: cualquier adulto la escanea y ve tu contacto. Sin batería, sin apps."
+        }
+      ],
+      "caption": {
+        "ig": "Niño perdido: cuatro cosas que crees que lo cuidan y no lo hacen. «No hables con extraños» deja al niño perdido sin saber a quién acercarse, justo cuando necesita hablar con uno. La palabra secreta la olvida con miedo y se la sacan preguntando, por eso los especialistas ya no la recomiendan. Lo que no se ensaya no sale. Y en la salida grande, cada niño necesita un adulto encargado con nombre. Guárdalo para la próxima salida familiar. #seguridadinfantil #niñoperdido",
+        "tt": "Niño perdido: cuatro cosas que crees que cuidan a tu hijo y no lo hacen. Mándaselo al papá que repite lo de «no hables con extraños». #seguridadinfantil #niñoperdido",
+        "fb": "La palabra secreta suena a plan y hace lo contrario: los chicos la olvidan cuando tienen miedo y se la sacan preguntando. Los especialistas en seguridad infantil enseñan otra cosa: consultar contigo antes de irse con quien sea."
+      },
+      "alt": "Cuatro creencias sobre la seguridad infantil que no protegen a un niño perdido."
+    },
+    {
+      "slug": "13-tres-preguntas",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "nino-mano",
+          "h": "3 datos que tu hijo tiene que saber *de memoria*"
+        },
+        {
+          "role": "value",
+          "label": "UNO",
+          "h": "Su nombre y *apellido*",
+          "b": "Los dos, no solo el primero"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mochila",
+          "label": "DOS",
+          "h": "«Mi mamá se llama *Ana*»",
+          "b": "El nombre real, no «mamá»"
+        },
+        {
+          "role": "value",
+          "label": "TRES",
+          "h": "A *quién* le pide ayuda",
+          "b": "A una señora con niños, dice él"
+        },
+        {
+          "role": "value",
+          "photo": "familia-parque",
+          "label": "ENSÁYALO",
+          "h": "En el *mercado*, no en casa",
+          "b": "Se practica en el sitio de verdad"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Cuando no le sale la *respuesta*",
+          "b": "La «pulsera» ComeHomeTag responde por tu hijo: escanean el QR y ven tu nombre y tu número."
+        }
+      ],
+      "caption": {
+        "ig": "Niño perdido: las tres respuestas que tiene que saber decir hoy. Su nombre y su apellido, los dos. El nombre real de su mamá, no «mamá». Y a quién le pide ayuda: una señora con niños es la primera opción que enseñan los especialistas, porque es la que se queda con él hasta el final. Lo importante es ensayarlo en el sitio de verdad, en el mercado o el mall, no en la mesa de la casa. Guárdalo para la próxima salida. #seguridadinfantil #niñoperdido",
+        "tt": "Niño perdido: las tres respuestas que tu hijo tiene que dar hoy. Mándaselo a la mamá con la que sales al parque. #seguridadinfantil #niñoperdido",
+        "fb": "Muchos niños de cinco años saben decir su nombre, pero no el apellido ni cómo se llama su mamá. Y lo que de verdad cambia las cosas es ensayarlo en el sitio real, caminando, no explicándolo en la mesa."
+      },
+      "alt": "Tres respuestas que un niño debe saber dar si se pierde y cómo ensayarlas en el lugar real."
+    },
+    {
+      "slug": "14-punto-de-encuentro",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "mercado",
+          "h": "Elige hoy el punto de encuentro de tu *familia*"
+        },
+        {
+          "role": "value",
+          "label": "CÓMO ES",
+          "h": "La *caja* número uno",
+          "b": "Un sitio con nombre, no «la entrada»"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mochila",
+          "label": "NO SIRVE",
+          "h": "«Nos vemos *afuera*»",
+          "b": "Un mall tiene seis salidas"
+        },
+        {
+          "role": "value",
+          "label": "PRUÉBALO",
+          "h": "Que te *lleve* él",
+          "b": "Al entrar, camina hasta el punto solo"
+        },
+        {
+          "role": "value",
+          "photo": "familia-parque",
+          "label": "SI NO LLEGA",
+          "h": "Alguien se *queda* ahí",
+          "b": "El punto vale si hay quien espere"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Si llega alguien *antes* que tú",
+          "b": "La «pulsera» ComeHomeTag lleva un QR con tu contacto: la escanean y te avisan dónde está tu hijo."
+        }
+      ],
+      "caption": {
+        "ig": "Punto de encuentro familiar en el mall: cómo se elige uno que sí funcione. Tiene que tener nombre propio, tipo «la caja número uno», porque «nos vemos afuera» no sirve en un sitio con seis salidas. Y se prueba al entrar: que el niño te lleve caminando hasta el punto sin ayuda. Si alguien se pierde, uno del grupo se queda ahí. Guárdalo para la próxima ida al mall. #seguridadinfantil #niñoperdido",
+        "tt": "Punto de encuentro familiar en el mall: con nombre propio, y probado al entrar. Mándaselo a quien organiza las salidas de tu familia. #seguridadinfantil #niñoperdido",
+        "fb": "«Nos vemos afuera» suena claro hasta que descubres que el sitio tiene seis salidas. El punto tiene que tener nombre propio y el niño debe poder llegar caminando sin ayuda: eso se prueba el mismo día que entran."
+      },
+      "alt": "Cómo elegir y practicar un punto de encuentro familiar con nombre propio."
+    },
+    {
+      "slug": "15-permiso-decir-no",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "nino-mano",
+          "h": "Tu hijo puede decirle *no* a un adulto"
+        },
+        {
+          "role": "value",
+          "label": "EL PERMISO",
+          "h": "«No» a un *adulto* también vale",
+          "b": "A irse con él, a subirse a un auto"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mochila",
+          "label": "POR QUÉ",
+          "h": "Le enseñamos a *obedecer*",
+          "b": "El que quiere llevárselo cuenta con eso"
+        },
+        {
+          "role": "value",
+          "label": "LA FRASE",
+          "h": "«No, tengo que *preguntar* primero»",
+          "b": "Se dice fuerte y se ensaya en casa"
+        },
+        {
+          "role": "value",
+          "photo": "familia-parque",
+          "label": "Y DESPUÉS",
+          "h": "Se lo *cuenta* a su adulto",
+          "b": "Lo raro se cuenta, nunca se castiga"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Cuando el «no» no *alcanza*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR con tu contacto: el adulto que ayude a tu hijo lo escanea con su celular y te llama."
+        }
+      ],
+      "caption": {
+        "ig": "Seguridad infantil, decir no a un adulto: el permiso que casi nadie le da a su hijo. Le enseñamos a obedecer a los mayores, y justo con eso cuenta el que quiere llevárselo. Tu hijo puede decir no a irse con alguien, a subirse a un auto, a quedarse callado. La frase que se ensaya en casa, en voz alta: «no, tengo que preguntar primero». Y después se lo cuenta a su adulto, sin castigo. ¿A qué edad le diste ese permiso al tuyo? #seguridadinfantil #niñoperdido",
+        "tt": "Seguridad infantil: tu hijo puede decirle no a un adulto. Le enseñamos a obedecer y con eso cuenta el que quiere llevárselo. La frase que se ensaya: «no, tengo que preguntar primero». ¿Ya le diste ese permiso al tuyo? #seguridadinfantil #niñoperdido",
+        "fb": "A los chicos les enseñamos a obedecer a los mayores, y justo con eso cuenta el que quiere llevárselos. Los programas de seguridad infantil enseñan lo contrario: tu hijo puede decirle no a un adulto, con una frase ensayada, «no, tengo que preguntar primero», y contarlo después sin castigo. ¿En tu casa se dio ese permiso?"
+      },
+      "alt": "Un niño puede decirle no a un adulto: la frase que se ensaya en casa y qué hace después."
+    },
+    {
+      "slug": "16-adulto-que-pide-ayuda",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "nino-mochila",
+          "h": "Los adultos buenos no le piden *ayuda* a tu hijo, parte 2"
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Un adulto le pide ayuda a otro *adulto*",
+          "b": "Nunca a un niño de siete"
+        },
+        {
+          "role": "value",
+          "photo": "mercado",
+          "label": "CÓMO SUENA",
+          "h": "«Ayúdame a buscar a mi *perrito*»",
+          "b": "«Ven a ver», «cárgame esto»"
+        },
+        {
+          "role": "value",
+          "label": "QUÉ HACE",
+          "h": "No contesta y se *aleja*",
+          "b": "Y va a buscar a su adulto"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mano",
+          "label": "NO ES",
+          "h": "«No hables con *extraños*»",
+          "b": "Es lo que piden, no cómo se ven"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Y si la ayuda la necesita *él*",
+          "b": "La «pulsera» ComeHomeTag va en su muñeca: quien encuentre a tu hijo escanea el QR y te llama. Nosotros la usamos con los nuestros."
+        }
+      ],
+      "caption": {
+        "ig": "Seguridad infantil, adultos que piden ayuda a niños: la regla que separa a un adulto seguro de uno raro. Un adulto que necesita ayuda se la pide a otro adulto, nunca a un niño de siete. «Ayúdame a buscar a mi perrito», «ven a ver», «cárgame esto»: tu hijo no contesta, se aleja y busca a su adulto. No es «no hables con extraños»; es fijarse en lo que piden, no en cómo se ven. ¿A ti te enseñaron esta regla de niño? #seguridadinfantil #niñoperdido",
+        "tt": "Seguridad infantil: los adultos buenos no le piden ayuda a un niño. Se la piden a otro adulto. Si a tu hijo le piden ayuda, no contesta, se aleja y busca a su adulto. ¿A ti te lo enseñaron de niño? #seguridadinfantil #niñoperdido",
+        "fb": "Una regla que los especialistas en seguridad infantil repiten y que casi ningún papá enseña: un adulto que necesita ayuda se la pide a otro adulto, nunca a un niño. Si a tu hijo un adulto le pide que lo ayude a buscar algo o a cargar algo, la respuesta es alejarse y buscar a su adulto. ¿La conocías?"
+      },
+      "alt": "Segunda parte de los permisos: los adultos seguros no le piden ayuda a un niño; qué hace tu hijo si pasa."
+    },
+    {
+      "slug": "17-permiso-colarse",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "mercado",
+          "h": "Tu hijo perdido puede *colarse* en la cola, parte 3"
+        },
+        {
+          "role": "value",
+          "label": "LA FRASE",
+          "h": "«Disculpe, estoy *perdido*, ayúdeme»",
+          "b": "Al de la caja con fotocheck"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mano",
+          "label": "SI LO IGNORAN",
+          "h": "«¡Pero estoy *perdido*!»",
+          "b": "Se cuela y vuelve a decirlo"
+        },
+        {
+          "role": "value",
+          "label": "PUEDE",
+          "h": "Pasar delante del *mostrador*",
+          "b": "Rodearlo hasta que lo escuchen"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mochila",
+          "label": "NO PUEDE",
+          "h": "Irse a *otro* sitio con nadie",
+          "b": "Se queda en el mismo local"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Si igual nadie lo *escucha*",
+          "b": "Los papás que usan la «pulsera» ComeHomeTag salen tranquilos: cualquier celular escanea su QR y te llama a ti."
+        }
+      ],
+      "caption": {
+        "ig": "Niño perdido en el mercado, qué hace: el permiso de colarse. La frase completa al de la caja con fotocheck: «disculpe, estoy perdido, ayúdeme». Si lo mandan a esperar, insiste, se cuela y lo repite; puede pasar delante del mostrador y rodearlo hasta que lo escuchen. Lo que no puede es irse a otro sitio con nadie: se queda en el mismo local. ¿Tu hijo se anima a interrumpir a un adulto? #seguridadinfantil #niñoperdido",
+        "tt": "Niño perdido en el mercado: puede colarse en la cola, interrumpir al de la caja y repetir «estoy perdido» hasta que lo escuchen. Lo que no puede es irse a otro sitio con nadie. ¿El tuyo se anima a interrumpir a un adulto? #seguridadinfantil #niñoperdido",
+        "fb": "A los chicos les enseñamos a esperar su turno, y un niño perdido no puede esperar su turno. Los programas de seguridad infantil ensayan justo eso: colarse, interrumpir al de la caja y repetir «estoy perdido» hasta que alguien lo escuche, sin moverse del local. ¿El tuyo se animaría?"
+      },
+      "alt": "Tercera parte de los permisos: un niño perdido puede colarse en la cola e interrumpir al cajero, pero no irse del local."
+    },
+    {
+      "slug": "18-permiso-no-irse",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "familia-parque",
+          "h": "Tu hijo puede *no irse* con quien vino a recogerlo, parte 4"
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Si no lo *esperaba*, no se va",
+          "b": "Aunque sea la tía de siempre"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mochila",
+          "label": "QUÉ HACE",
+          "h": "«Tengo que *preguntar* primero»",
+          "b": "Te llama o busca a su profe"
+        },
+        {
+          "role": "value",
+          "label": "TU PARTE",
+          "h": "Le dices *quién* lo recoge",
+          "b": "Esa mañana, con nombre y cara"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mano",
+          "label": "NO SIRVE",
+          "h": "La palabra *secreta*",
+          "b": "La olvida con miedo y se la sacan"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "El día que el plan *cambia*",
+          "b": "La «pulsera» ComeHomeTag lleva tu contacto en un QR: el adulto que se quede con tu hijo lo escanea y te llama al toque."
+        }
+      ],
+      "caption": {
+        "ig": "Quién recoge a mi hijo del colegio: el permiso de no irse. Si aparece alguien que él no esperaba, no se va, aunque sea la tía de siempre: dice «tengo que preguntar primero», te llama o busca a su profe. Tu parte es decirle esa mañana quién lo recoge, con nombre y cara. Y la palabra secreta no sirve: la olvida con miedo y se la sacan preguntando, por eso los especialistas ya no la recomiendan. ¿Tu familia todavía usa palabra secreta? #seguridadinfantil #niñoperdido",
+        "tt": "Quién recoge a mi hijo del colegio: si no lo esperaba, no se va. «Tengo que preguntar primero» y llama. La palabra secreta la olvida con miedo y se la sacan. ¿Tu familia todavía usa palabra secreta? #seguridadinfantil #niñoperdido",
+        "fb": "La palabra secreta tranquiliza a los papás y complica al niño: la olvida con miedo y se la sacan preguntando. Lo que enseñan hoy los especialistas es más simple: tú le dices en la mañana quién lo recoge, y si aparece otra persona, él tiene permiso de no irse y consultar antes. ¿Qué permiso le falta a esta serie? Con sus respuestas hacemos la parte 5."
+      },
+      "alt": "Cuarta parte de los permisos: el niño puede no irse con quien no esperaba; consultar primero reemplaza a la palabra secreta."
+    },
+    {
+      "slug": "19-el-que-vuelve-y-el-que-corre",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-calle",
+          "h": "Hay 2 perros perdidos: el que vuelve solo y el que *corre*"
+        },
+        {
+          "role": "value",
+          "label": "EL QUE VUELVE",
+          "h": "El *sociable*, el que saluda a todos",
+          "b": "Aparece cerca de casa"
+        },
+        {
+          "role": "value",
+          "photo": "perro-cara",
+          "label": "EL QUE CORRE",
+          "h": "El *miedoso* y el desconfiado",
+          "b": "Se va lejos y cruza pistas"
+        },
+        {
+          "role": "value",
+          "label": "SI EL TUYO CORRE",
+          "h": "No lo *persigas* ni lo llames",
+          "b": "Tu voz suena a que lo agarran"
+        },
+        {
+          "role": "value",
+          "photo": "perro-parque",
+          "label": "HAZ ESTO",
+          "h": "*Siéntate* y bota comida",
+          "b": "Sin mirarlo, que él llegue a ti"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "Sea del tipo que *sea*",
+          "b": "El «llavero» ComeHomeTag va en su collar: quien lo alcance escanea el QR con su celular y te llama."
+        }
+      ],
+      "caption": {
+        "ig": "Perro perdido, qué hace según su carácter: hay dos. El sociable, el que saluda a todo el mundo, suele aparecer cerca de casa. El miedoso o desconfiado se va lejos y cruza pistas, y es el que corre más peligro. Si el tuyo es de los que corre: no lo persigas ni lo llames, porque tu voz suena a que lo van a agarrar. Siéntate en el piso, bota comida y no lo mires: que él llegue a ti. ¿El tuyo vuelve o corre? #perroperdido #mascotasperu",
+        "tt": "Perro perdido: el sociable aparece cerca de casa, el miedoso se va lejos y cruza pistas. Si el tuyo corre, no lo persigas: siéntate, bota comida y no lo mires. ¿El tuyo vuelve o corre? #perroperdido #mascotasperu",
+        "fb": "Los rescatistas dividen a los perros perdidos en dos: el sociable, que aparece cerca de casa saludando a cualquiera, y el miedoso, que huye lejos y cruza pistas. Con el segundo, gritar su nombre lo aleja más: se sientan, miran al piso y botan comida hasta que él se acerca. ¿Cuál de los dos es el tuyo?"
+      },
+      "alt": "Dos tipos de perro perdido según su carácter, y qué hacer con el que corre en vez de volver."
+    },
+    {
+      "slug": "20-tres-pruebas-ir-solo",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "nino-mochila",
+          "h": "Tu hijo puede ir solo al colegio cuando pasa estas 3 *pruebas*"
+        },
+        {
+          "role": "value",
+          "label": "PRUEBA 1",
+          "h": "Te *lleva* él por la ruta",
+          "b": "Sin que le digas por dónde"
+        },
+        {
+          "role": "value",
+          "photo": "noche-calle",
+          "label": "PRUEBA 2",
+          "h": "Señala dónde *pedir* ayuda",
+          "b": "Dos sitios abiertos de esa ruta"
+        },
+        {
+          "role": "value",
+          "label": "PRUEBA 3",
+          "h": "Camina con el celular *guardado*",
+          "b": "Mirando la calle, no la pantalla"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mano",
+          "label": "LA REGLA",
+          "h": "Si algo cambia, *consulta*",
+          "b": "Cambiar de ruta no lo decide él"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Y el día que va solo de *verdad*",
+          "b": "Obviamente lleva su «pulsera» ComeHomeTag: un QR con tu número que cualquier adulto escanea si algo pasa."
+        }
+      ],
+      "caption": {
+        "ig": "A qué edad puede un niño ir solo al colegio: la respuesta honesta es que no es una edad, son tres pruebas. Te lleva él por la ruta sin que le digas por dónde. Señala dos sitios abiertos de esa ruta donde puede entrar a pedir ayuda. Camina con el celular en el bolsillo, mirando la calle. Y la regla que sostiene todo: si algo cambia, consulta antes; cambiar de ruta no lo decide él. ¿A qué edad lo soltaste tú? #seguridadinfantil #niñoperdido",
+        "tt": "A qué edad puede un niño ir solo al colegio: no es edad, son tres pruebas. Te lleva él por la ruta, señala dónde pedir ayuda y camina con el celular en el bolsillo. ¿A qué edad lo soltaste tú? #seguridadinfantil #niñoperdido",
+        "fb": "La pelea de siempre en casa: «ya está grande para ir solo». Los especialistas no dan una edad, dan pruebas: que él te lleve por la ruta, que señale dónde pediría ayuda y que camine con el celular guardado. Si pasa las tres, va. ¿A qué edad soltaste tú al tuyo?"
+      },
+      "alt": "Tres pruebas que un niño pasa antes de ir solo al colegio, en lugar de una edad fija."
+    },
+    {
+      "slug": "21-de-noche-otra-calle",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "noche-calle",
+          "h": "De noche tu hijo no reconoce su propia *calle*, parte 2"
+        },
+        {
+          "role": "value",
+          "label": "POR QUÉ",
+          "h": "Sus referencias *cierran*",
+          "b": "Con las rejas abajo es otra cuadra"
+        },
+        {
+          "role": "value",
+          "photo": "noche-calle",
+          "label": "HAZLO ASÍ",
+          "h": "Caminen la ruta *de noche*",
+          "b": "A la hora real, no a las cinco"
+        },
+        {
+          "role": "value",
+          "label": "MARQUEN",
+          "h": "Dos sitios *abiertos* a esa hora",
+          "b": "Grifo, farmacia o caseta"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mochila",
+          "label": "LA REGLA",
+          "h": "Si se pierde, se *queda*",
+          "b": "Parado donde haya gente y luz"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Para la noche que se *desorienta*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR con tu contacto: quien vea a tu hijo de noche lo escanea y te llama."
+        }
+      ],
+      "caption": {
+        "ig": "Niño perdido de noche cerca de casa: por qué no reconoce su propia calle. De día se guía por las tiendas; de noche están con las rejas abajo y la cuadra deja de parecerse. Caminen la ruta a la hora real en que la hace, marquen dos sitios que sí estén abiertos a esa hora, y déjenle una sola regla: si se pierde, se queda parado donde haya gente y luz. ¿Qué otra prueba le pondrías antes de dejarlo ir solo? Con sus respuestas sale la parte 3. #seguridadinfantil #niñoperdido",
+        "tt": "Niño perdido de noche cerca de casa: sus referencias cierran y la cuadra parece otra. Caminen la ruta a la hora real y marquen dos sitios abiertos. ¿Qué otra prueba le pondrías? Parte 3 con sus respuestas. #seguridadinfantil #niñoperdido",
+        "fb": "Los chicos se orientan por las tiendas abiertas, y de noche la misma cuadra parece otra. Caminarla juntos una vez a esa hora y marcar dos sitios abiertos donde pueda entrar resuelve más de lo que parece. ¿Qué otra prueba le pondrías tú antes de dejarlo ir solo?"
+      },
+      "alt": "Segunda parte: por qué un niño no reconoce su calle de noche y cómo practicar la ruta a esa hora."
+    },
+    {
+      "slug": "22-cuatro-senales",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "abuelo",
+          "h": "4 cosas que tu papá hace antes de *perderse* la primera vez"
+        },
+        {
+          "role": "value",
+          "label": "SEÑAL 1",
+          "h": "Vuelve *tarde* del paseo",
+          "b": "El de siempre, que era de veinte minutos"
+        },
+        {
+          "role": "value",
+          "photo": "abuela",
+          "label": "SEÑAL 2",
+          "h": "Quiere «ir a *casa*» estando en casa",
+          "b": "O pregunta por gente de hace años"
+        },
+        {
+          "role": "value",
+          "label": "SEÑAL 3",
+          "h": "Se *pierde* en sitios nuevos",
+          "b": "Y se pone nervioso donde hay gente"
+        },
+        {
+          "role": "value",
+          "photo": "noche-calle",
+          "label": "SEÑAL 4",
+          "h": "Camina de un lado a *otro*",
+          "b": "Sobre todo cuando cae la luz"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Antes de la *primera* vez",
+          "b": "6 de cada 10 personas con demencia se pierden alguna vez. Por eso tu papá sale con su «pulsera» ComeHomeTag: un QR con tu contacto que cualquiera escanea."
+        }
+      ],
+      "caption": {
+        "ig": "Señales de alzhéimer antes de perderse: las cuatro que las familias ven y no leen. Vuelve tarde del paseo de siempre, el que era de veinte minutos. Quiere «ir a casa» estando en casa, o pregunta por gente de hace años. Se pierde en sitios nuevos y se pone nervioso donde hay mucha gente. Y camina de un lado a otro, sobre todo cuando cae la luz. Seis de cada diez personas con demencia se pierden alguna vez. ¿Cuál de las cuatro ya viste en casa? #alzheimer #adultomayor",
+        "tt": "Señales de alzhéimer antes de perderse: vuelve tarde del paseo de siempre, quiere «ir a casa» estando en casa, se pierde en sitios nuevos, camina de un lado a otro al caer la luz. ¿Cuál ya viste en casa? #alzheimer #adultomayor",
+        "fb": "Casi ninguna familia se sorprende el día que el papá se pierde: después recuerdan que volvía tarde del paseo, que preguntaba por gente de hace años, que se ponía nervioso en sitios llenos. Son señales que describen los especialistas, y se ven meses antes. ¿Cuál de las cuatro ya viste en tu casa?"
+      },
+      "alt": "Cuatro señales de deambular en la demencia que aparecen antes de la primera vez que la persona se pierde."
+    },
+    {
+      "slug": "23-mensaje-para-quien-lo-cuida",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "perro-parque",
+          "h": "El mensaje para quien cuida a tu *perro* cuando viajas",
+          "kicker": "EL KIT"
+        },
+        {
+          "role": "value",
+          "label": "LÍNEA 1",
+          "h": "«Si se sale, *no* lo persigas»",
+          "b": "Perseguirlo lo manda hacia la pista"
+        },
+        {
+          "role": "value",
+          "photo": "perro-calle",
+          "label": "LÍNEA 2",
+          "h": "«Anota la *esquina* y la hora»",
+          "b": "Ahí empieza la búsqueda, no en casa"
+        },
+        {
+          "role": "value",
+          "label": "LÍNEA 3",
+          "h": "«Aquí va su *foto* de hoy»",
+          "b": "Cuerpo entero y las cinco palabras"
+        },
+        {
+          "role": "value",
+          "photo": "perro-cara",
+          "label": "LÍNEA 4",
+          "h": "«Si lo ves, *siéntate* y bota comida»",
+          "b": "Sin llamarlo ni mirarlo"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "Y en su collar, tu *número*",
+          "b": "El «llavero» ComeHomeTag lleva un QR con tu contacto: quien encuentre a tu perro lo escanea y te llama, estés donde estés."
+        }
+      ],
+      "caption": {
+        "ig": "Qué hacer si se pierde mi perro cuando yo no estoy: el mensaje que le dejas a quien lo cuida, para copiar. Si se sale, que no lo persiga, porque perseguirlo lo empuja hacia la pista. Que anote la esquina y la hora por donde se fue, porque la búsqueda se arma desde ahí y no desde tu casa. Su foto de hoy, de cuerpo entero, con las cinco palabras que lo describen. Y si lo ve, que se siente y bote comida sin llamarlo. Mándaselo a quien se queda con tu perro la próxima vez que viajes. #perroperdido #mascotasperu",
+        "tt": "Qué hacer si se pierde mi perro cuando yo no estoy: cuatro líneas para quien lo cuida. No lo persigas, anota la esquina y la hora, aquí va su foto de hoy, si lo ves siéntate y bota comida. Mándaselo a quien se queda con tu perro cuando viajas. #perroperdido #mascotasperu",
+        "fb": "Si el perro se sale mientras lo cuidan, lo primero que hace cualquiera es correr detrás, y eso lo empuja hacia la pista. Vale más dejar dicho eso, y la esquina exacta por donde se fue, que dejar la marca del alimento. Cuatro líneas para copiar y pegar a quien te lo cuida."
+      },
+      "alt": "Cuatro líneas para dejarle a quien cuida a tu perro: no perseguirlo, anotar la esquina, la foto de hoy y cómo acercarse."
+    },
+    {
+      "slug": "24-cuando-cae-la-luz",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "noche-calle",
+          "h": "Tu papá con demencia se pierde cuando *cae la luz*, parte 2"
+        },
+        {
+          "role": "value",
+          "label": "LA HORA",
+          "h": "Del *atardecer* a la noche",
+          "b": "Más confusión, más ansiedad, más vueltas"
+        },
+        {
+          "role": "value",
+          "photo": "abuelo",
+          "label": "POR QUÉ",
+          "h": "Sombras y *poca* luz",
+          "b": "Y el cansancio de todo el día"
+        },
+        {
+          "role": "value",
+          "label": "HAZ ESTO",
+          "h": "Prende las *luces* antes",
+          "b": "Con la casa clara se confunde menos"
+        },
+        {
+          "role": "value",
+          "photo": "abuela",
+          "label": "Y ESTO",
+          "h": "Llénale la *tarde*",
+          "b": "Algo que hacer justo a esa hora, sin TV"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Para la tarde que igual *sale*",
+          "b": "La «pulsera» ComeHomeTag va puesta todo el día: quien vea a tu papá en la calle escanea el QR y ve a quién llamar."
+        }
+      ],
+      "caption": {
+        "ig": "Alzhéimer y salir a caminar sin rumbo: la hora en que pasa. Del atardecer a la noche hay más confusión, más ansiedad y más vueltas por la casa; los especialistas lo llaman sundowning, y lo causan las sombras, la poca luz y el cansancio acumulado del día. Prende las luces antes de que oscurezca, porque con la casa clara se confunde menos, y llénale esa tarde con algo que hacer, sin TV ni ruido. ¿A qué hora se inquieta el tuyo? #alzheimer #adultomayor",
+        "tt": "Alzhéimer y salir a caminar sin rumbo: pasa del atardecer a la noche. Prende las luces antes de que oscurezca y llénale la tarde con algo que hacer, sin TV. ¿A qué hora se inquieta el tuyo? #alzheimer #adultomayor",
+        "fb": "Hay un patrón que las familias reconocen apenas lo escuchan: empieza al caer la luz, cuando la casa se llena de sombras y el cansancio del día pesa. Dos cosas baratas ayudan: las luces prendidas antes de que oscurezca y algo que hacer justo a esa hora. ¿A qué hora se inquieta tu papá o tu mamá?"
+      },
+      "alt": "Segunda parte: el deambular en la demencia aparece al caer la luz; luces temprano y una tarde ocupada."
+    },
+    {
+      "slug": "25-el-abrigo-colgado",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "abuela",
+          "h": "El *abrigo* colgado invita a tu mamá con demencia a salir, parte 3"
+        },
+        {
+          "role": "value",
+          "label": "A LA VISTA",
+          "h": "Abrigo, *llaves* y cartera",
+          "b": "Verlos le dice que hay que salir"
+        },
+        {
+          "role": "value",
+          "photo": "noche-calle",
+          "label": "LA PUERTA",
+          "h": "Un *timbre* que avise",
+          "b": "Una alarma barata en la de calle"
+        },
+        {
+          "role": "value",
+          "label": "LA CERRADURA",
+          "h": "El pestillo *fuera* de su vista",
+          "b": "Muy arriba o muy abajo"
+        },
+        {
+          "role": "value",
+          "photo": "abuelo",
+          "label": "EL CARRO",
+          "h": "Las llaves, *guardadas*",
+          "b": "Si todavía maneja, empieza ahí"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Y si igual sale, que la *lean*",
+          "b": "La «pulsera» ComeHomeTag lleva tu contacto en un QR: quien vea a tu mamá en la calle lo escanea y te llama."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo preparar la casa de una persona con alzhéimer para que no salga sola: cuatro cambios. El abrigo, las llaves y la cartera fuera de la vista, porque verlos es lo que le dice que hay que salir. Un timbre o alarma barata en la puerta de calle, que avise cuando se abre. El pestillo muy arriba o muy abajo, fuera de su línea de mirada. Y las llaves del carro escondidas si todavía maneja. ¿Qué otra cosa de la casa la hace querer salir? Con eso armamos la parte 4. #alzheimer #adultomayor",
+        "tt": "Cómo preparar la casa de una persona con alzhéimer: abrigo, llaves y cartera fuera de la vista, un timbre en la puerta de calle, el pestillo fuera de su mirada. ¿Qué otra cosa de la casa la hace querer salir? #alzheimer #adultomayor",
+        "fb": "Lo que menos imaginamos: el abrigo colgado en el perchero es una invitación a salir para alguien con demencia. Los especialistas recomiendan guardar abrigo, llaves y cartera fuera de la vista, poner un timbre en la puerta de calle y el pestillo fuera de su línea de mirada. ¿Qué otra cosa de la casa hace que la tuya quiera salir?"
+      },
+      "alt": "Tercera parte: cuatro cambios en la casa que quitan la invitación a salir a una persona con demencia."
+    }
+  ],
+  "archivedAt": "2026-09-25",
+  "reason": "marcado como publicado por Carlos el 2026-09-25 (hoy y anteriores)"
+}

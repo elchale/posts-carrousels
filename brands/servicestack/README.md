@@ -1,3 +1,7 @@
+> **Cuenta eliminada el 14-09-2026.** La cola de posts, los renders y el bucket
+> se borraron; esta carpeta queda solo por `brand.json` (el sitio de bio-link lee
+> la paleta de aquí). El copy vive en el historial de git.
+
 # GUÍA DE SUBIDA — servicestack
 
 Cada post vive en `out/<serie>/<post>/` y contiene:

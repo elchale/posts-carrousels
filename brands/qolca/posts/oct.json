@@ -1,1462 +1,1483 @@
 {
   "series": "oct",
   "brand": "qolca",
+  "format": "f1",
   "posts": [
     {
-      "slug": "01-audio-tres-minutos",
+      "slug": "01-los-4-duenos-a-las-11pm",
       "slides": [
         {
           "role": "cover",
-          "h": "Contesta los audios eternos sin escucharlos dos veces",
-          "b": "el audio de 3 minutos también es un pedido",
-          "emoji": "🎧"
+          "photo": "celular-noche",
+          "h": "Los 4 dueños de negocio cuando entra un pedido a las *11pm*"
         },
         {
           "role": "value",
-          "h": "El audio se escucha una vez, con el dedo listo",
-          "b": "· Apunta mientras suena: qué pide, para cuándo, dónde\n· Esas tres cosas son el pedido; el resto es contexto"
+          "label": "EL QUE CONTESTA",
+          "h": "Cotiza desde *la cama*",
+          "b": "Y a las 9 no se acuerda qué prometió."
         },
         {
           "role": "value",
-          "h": "Responde en texto, numerado",
-          "b": "«Te confirmo: 1) torta para 20 2) sábado 3) San Miguel. ¿Así es?» El cliente corrige en segundos y queda escrito."
+          "label": "EL DE MAÑANA",
+          "h": "Lo ve y dice *mañana*",
+          "b": "Mañana ya le compró a otro.",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "Lo hablado no existe hasta que se escribe",
-          "b": "· Direcciones, fechas y acuerdos siempre de vuelta en texto\n· Si quedó solo en audio, no quedó"
+          "label": "EL DEL AUDIO",
+          "h": "Manda *audio* de 2 minutos",
+          "b": "El cliente lo abre el jueves."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "EL ORDENADO",
+          "h": "Ni lo *ve*",
+          "b": "El pedido entró solo, con fecha y hora.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "Hay quien ya no transcribe a mano.",
-          "b": "Automatizamos ese proceso: el audio entra, se vuelve texto y el pedido queda registrado solo."
-        },
-        {
-          "role": "cta",
-          "h": "Un audio, una escuchada, un pedido escrito.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "¿Cuál de los 4 *eres*?",
+          "b": "Escríbeme FUGA por DM y armamos que tu pedido de las 11pm entre solo, con fecha y hora."
         }
       ],
       "caption": {
-        "ig": "Audios de WhatsApp en tu negocio: escúchalos una sola vez apuntando qué, cuándo y dónde, y confirma en texto numerado para que nada quede en el aire. Guárdalo para la próxima hora punta. Mándaselo a tu equipo, no a tu bandeja. #whatsapp #negocios #peru #ventas",
-        "tt": "El audio de 3 minutos también es un pedido 🎧 · mándaselo a tu equipo, no a tu bandeja #whatsapp #negocios #peru",
-        "fb": "Cada audio largo trae un pedido adentro. Una escuchada con el dedo listo, confirmación en texto numerado y ningún acuerdo se pierde en el aire."
+        "ig": "Cómo organizar los pedidos de mi negocio cuando llegan a las 11 de la noche. Cuatro dueños, cuatro reacciones al mismo mensaje: el que cotiza desde la cama, el que lo deja para mañana, el del audio de dos minutos y el que ni lo ve porque el pedido entró solo. ¿Cuál de los 4 eres? Escríbeme FUGA por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Cómo organizar los pedidos que llegan a las 11 de la noche. Cuatro dueños, cuatro reacciones al mismo mensaje. ¿Cuál de los 4 eres? Escríbeme FUGA por DM. #negociopropio #ventasporwhatsapp",
+        "fb": "El pedido de las 11 de la noche es el mismo para todos. Lo que cambia es el dueño: el que cotiza desde la cama, el que lo deja para mañana, el del audio y el que ni lo ve porque ya entró solo. ¿Cuál eres?"
       },
-      "alt": "Método para convertir audios largos de clientes en pedidos escritos y confirmados."
+      "alt": "Celular iluminado de noche con el titular sobre los cuatro dueños de negocio cuando entra un pedido a las 11."
     },
     {
-      "slug": "02-llego-bien",
+      "slug": "02-no-cotices-a-las-11pm",
       "slides": [
         {
           "role": "cover",
-          "h": "El «¿llegó bien?» vende más que tu publicidad",
-          "emoji": "📦"
+          "photo": "mostrador",
+          "h": "No cotices el «¿cuánto cuesta?» de las 11pm y *vende más*"
         },
         {
           "role": "value",
-          "h": "Al día siguiente de entregar, escribe",
-          "b": "«¿Llegó todo bien? ¿Alguna duda con lo tuyo?» El cliente atendido después de pagar es el que te recomienda."
+          "label": "POR QUÉ",
+          "h": "El número pelado *no vende*",
+          "b": "Lo compara con otros tres y se duerme."
         },
         {
           "role": "value",
-          "h": "La respuesta te da la segunda venta",
-          "b": "· Si contesta feliz: pide la reseña o el referido ahí mismo\n· Si contesta con problema: lo salvas antes del reclamo público"
+          "label": "LA PLANTILLA",
+          "h": "Cópiala *tal cual*",
+          "b": "«Mañana te cotizo. ¿Para cuándo lo necesitas?»",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "Funciona en todo lo que se entrega",
-          "b": "· El auto entregado: su primer service\n· El depa: los referidos\n· La boda: el aniversario"
+          "label": "POR QUÉ SÍ",
+          "h": "Contestaste y *preguntaste*",
+          "b": "Sigue en tu chat, no en el de otro."
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "MAÑANA",
+          "h": "Cotiza con *su respuesta*",
+          "b": "Para su fecha, su caso, su número.",
+          "photo": "papeles"
         },
         {
-          "role": "stat",
-          "h": "Cada cliente con su historia completa.",
-          "b": "Guardamos qué pidió, qué pagó y cuándo volver a llamarlo. Sin apuntar nada."
-        },
-        {
-          "role": "cta",
-          "h": "Escribe el «¿llegó bien?» de ayer.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "El «¿cuánto cuesta?» de las 11pm *se contesta solo*",
+          "b": "Escríbeme PLAN por DM y armamos que el pedido de noche entre con su pregunta y su fecha."
         }
       ],
       "caption": {
-        "ig": "Posventa por WhatsApp: el «¿llegó bien?» del día siguiente te gana una reseña o te salva de un reclamo, y abre la segunda venta. Qué escribir y qué hacer con cada respuesta. Mándaselo al que se queda a cargo el fin de semana. #posventa #negocios #peru #clientes",
-        "tt": "El mensaje que nadie manda y vende solo: «¿llegó bien?» 📦 · mándaselo al que se queda a cargo el fin de semana #negocios #ventas #peru",
-        "fb": "¿Le escribes a tu cliente DESPUÉS de que pagó? El «¿llegó bien?» del día siguiente es la publicidad más barata que existe: o te gana una reseña o te salva de un reclamo. ¿Lo mandas o cobras y desapareces? Mándaselo al que se queda a cargo el fin de semana."
+        "ig": "Cómo responder el cuánto cuesta por WhatsApp cuando te escriben de noche. No tienes que cotizar a las 11: tienes que contestar con una pregunta. «Mañana te cotizo. ¿Para cuándo lo necesitas?» te deja dentro de la conversación y el número sale mañana con su caso. ¿A qué hora te escriben más? Escríbeme PLAN por DM. #ventasporwhatsapp #emprendedoresperu",
+        "tt": "Cómo responder el cuánto cuesta de las 11 de la noche sin cotizar dormido. Una pregunta hoy, el número mañana. ¿A qué hora te escriben más? Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "El número pelado a medianoche no vende: lo comparan con otros tres y se duermen. Una pregunta a esa hora sí vende, porque te deja dentro del chat. ¿A qué hora te escriben más?"
       },
-      "alt": "El mensaje de posventa del día siguiente y la segunda venta."
+      "alt": "Mostrador de tienda con el titular sobre no cotizar el cuánto cuesta de las 11 de la noche."
     },
     {
-      "slug": "03-calles-cerradas",
+      "slug": "03-asi-entra-un-pedido-solo",
       "slides": [
         {
           "role": "cover",
-          "h": "Octubre cierra calles. Nadie va a ir a verte.",
-          "kicker": "MES MORADO",
-          "emoji": "🟣"
+          "photo": "celular-noche",
+          "h": "Así entra un pedido solo a las 11 de la noche, *minuto a minuto*"
         },
         {
           "role": "value",
-          "h": "Este mes tu cliente no cruza Lima",
-          "b": "Entre procesiones, desvíos y tráfico, la visita se posterga «para la otra semana»."
+          "label": "11:02",
+          "h": "«Hola, ¿tienen *para el sábado*?»",
+          "b": "Escribe el cliente. Tú ya duermes."
         },
         {
           "role": "value",
-          "h": "Pero sigue preguntando",
-          "b": "· Precios\n· Fotos\n· Si vale la pena ir hasta allá",
-          "emoji": "📱"
+          "label": "11:02",
+          "h": "Le llega *una pregunta*",
+          "b": "«¿Para cuántas personas y a qué distrito?»",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "La visita se agenda, no se espera",
-          "b": "«¿Te va bien el jueves 4pm y te reservo el horario?» cierra más que «cuando quieras te esperamos»."
+          "label": "11:05",
+          "h": "Contesta y queda *apuntado*",
+          "b": "Con fecha, distrito y su número, en tu lista."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "8:00",
+          "h": "Tú abres y *confirmas*",
+          "b": "Un pedido calificado, no un «hola» suelto.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "Agendar visitas puede pasar sin ti",
-          "b": "Te armamos un asistente sobre tu mismo WhatsApp: responde lo básico, propone día y hora y te deja la visita en la agenda."
-        },
-        {
-          "role": "cta",
-          "h": "Este mes agenda, no esperes.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "El pedido de las 11pm entró *sin ti*",
+          "b": "Escríbeme PRUEBA por DM y lo armamos sobre tu proceso de pedidos, empezando por uno solo."
         }
       ],
       "caption": {
-        "ig": "Octubre cierra calles en Lima y la visita a tu local se posterga sola. Lo que no se posterga son las preguntas por WhatsApp. Cómo convertir esa pregunta en una visita con día y hora. Guárdalo para esta semana. Mándaselo a tu socio antes del lunes. #ventas #negociosperu #whatsapp #lima",
-        "tt": "Octubre cierra calles. Nadie va a ir a verte 🟣 · mándaselo a tu socio antes del lunes #negociosperu #ventas",
-        "fb": "Este mes tu cliente no va a cruzar Lima para verte. Pero sí te va a escribir. La diferencia entre «cuando quieras te esperamos» y «¿te va bien el jueves 4pm?» es una visita agendada."
+        "ig": "Cómo organizar los pedidos de mi negocio para que entren solos de noche. A las 11:02 el cliente escribe, a las 11:02 le llega una pregunta, a las 11:05 contesta y queda apuntado con fecha y distrito, y a las 8 tú abres un pedido calificado. ¿Qué dato le pedirías tú primero? Escríbeme PRUEBA por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Así entra un pedido solo a las 11 de la noche: escribe, le llega una pregunta, contesta, queda apuntado, y a las 8 tú confirmas. ¿Qué dato le pedirías tú primero? Escríbeme PRUEBA por DM. #negociopropio",
+        "fb": "Un pedido que entra solo no es magia: es una pregunta que sale a las 11:02 y una lista donde la respuesta queda apuntada con fecha. A las 8 tú confirmas. ¿Qué dato le pedirías tú primero?"
       },
-      "alt": "Portada: octubre cierra calles. nadie va a ir a verte; este mes tu cliente no cruza lima."
+      "alt": "Pantalla de celular de noche con el titular sobre cómo entra un pedido solo a las 11, minuto a minuto."
     },
     {
-      "slug": "04-catalogo",
+      "slug": "04-tres-se-contestan-solos-uno-nunca",
       "slides": [
         {
           "role": "cover",
-          "h": "Un catálogo en tu WhatsApp contesta mientras duermes",
-          "emoji": "😴"
+          "photo": "restaurante-cocina",
+          "h": "3 mensajes que se contestan solos y *uno que nunca*"
         },
         {
           "role": "value",
-          "h": "El catálogo de WhatsApp Business se arma en una tarde",
-          "b": "· Foto, nombre y dos líneas por producto\n· Herramientas para la empresa, Catálogo\n· Es gratis y casi nadie lo usa"
+          "label": "SOLO",
+          "h": "«¿Cuánto *cuesta*?»",
+          "b": "Rango y una pregunta, a cualquier hora."
         },
         {
           "role": "value",
-          "h": "Engánchalo a tu saludo",
-          "b": "El mensaje de bienvenida manda directo al catálogo: los «¿qué tienes?» empiezan a responderse solos."
+          "label": "SOLO",
+          "h": "«¿Hacen *delivery* a...?»",
+          "b": "Zonas y horario, sin que nadie lo tipee.",
+          "photo": "mostrador"
         },
         {
           "role": "value",
-          "h": "El catálogo informa, tú cierras",
-          "b": "Cuando el cliente elige, entra la persona: confirmar stock, cobrar, coordinar entrega. La máquina nunca cierra sola."
+          "label": "SOLO",
+          "h": "«¿Ya salió *mi pedido*?»",
+          "b": "El estado sale de tu lista, no de tu memoria."
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "NUNCA",
+          "h": "El *reclamo*",
+          "b": "Lo lee una persona en el momento. Siempre.",
+          "photo": "papeles"
         },
         {
-          "role": "stat",
-          "h": "Del catálogo, directo al sistema.",
-          "b": "Construimos el CRM a la medida de tu negocio: lo que el cliente elige entra como pedido registrado, con su seguimiento andando."
-        },
-        {
-          "role": "cta",
-          "h": "Una tarde de fotos, meses de respuestas.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Automatizar mal no es *automatizar*",
+          "b": "Escríbeme FUGA por DM y decidimos juntos qué entra solo en tu negocio y qué no."
         }
       ],
       "caption": {
-        "ig": "El catálogo de WhatsApp Business se arma en una tarde y contesta los «¿qué tienes?» por ti: cómo armarlo, engancharlo al saludo y dónde debe entrar el humano. Mándaselo a tu vendedor y que te diga qué haría. #whatsappbusiness #negocios #peru #catalogo",
-        "tt": "Tu catálogo puede contestar «¿qué tienes?» mientras duermes 😴 · mándaselo a tu vendedor y que te diga qué haría #whatsapp #negocios #peru",
-        "fb": "¿Cuántas veces al día respondes «¿qué tienes?»? El catálogo de WhatsApp Business es gratis, se arma en una tarde y contesta eso solo. Tú entras donde importa: al cierre."
+        "ig": "Qué mensajes de mi negocio pueden responderse solos y cuáles no. El cuánto cuesta, el delivery y el estado del pedido salen de tu lista sin que nadie tipee. El reclamo lo lee una persona en el momento, siempre: automatizar eso es automatizar mal. ¿Cuál dejarías tú a mano? Escríbeme FUGA por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Tres mensajes que se contestan solos y uno que nunca: el reclamo lo lee una persona, siempre. ¿Cuál dejarías tú a mano? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "Precio, delivery y estado del pedido pueden salir solos de tu lista. El reclamo no: lo lee una persona en el momento. Automatizar eso es automatizar mal. ¿Cuál dejarías tú a mano?"
       },
-      "alt": "Cómo armar el catálogo de WhatsApp Business y conectarlo al saludo."
+      "alt": "Cocina de restaurante en plena hora punta con el titular sobre los tres mensajes que se contestan solos y el que nunca."
     },
     {
-      "slug": "05-doble-venta",
+      "slug": "05-cuantas-preguntas-antes-del-precio",
       "slides": [
         {
           "role": "cover",
-          "h": "Vendiste el mismo carro dos veces",
-          "emoji": "😬"
+          "photo": "cuaderno",
+          "h": "¿Cuántas preguntas haces antes de dar un precio? Con *dos* basta"
         },
         {
           "role": "value",
-          "h": "La doble venta nace de dos cuadernos",
-          "b": "El vendedor A apuntó en su celular, el B en el suyo. Nadie vio al otro. El cliente sí vio el papelón."
+          "label": "EL PROBLEMA",
+          "h": "Diez es *un interrogatorio*",
+          "b": "El que pregunta se cansa y se va."
         },
         {
           "role": "value",
-          "h": "Un solo lugar para el estado de cada cosa",
-          "b": "Disponible, separado o vendido, con nombre de quien lo cambió. Vale igual para autos, fechas de boda y departamentos."
+          "label": "PREGUNTA 1",
+          "h": "*¿Para cuándo?*",
+          "b": "Separa al que compra del que mira.",
+          "photo": "mostrador"
         },
         {
           "role": "value",
-          "h": "El «separado» tiene reloj",
-          "b": "Sin confirmación en 48 horas vuelve a disponible, y el interesado anterior recibe el aviso primero."
+          "label": "PREGUNTA 2",
+          "h": "La que cambia *tu precio*",
+          "b": "Medida, cantidad, distrito: la tuya."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "Y RECIÉN",
+          "h": "Sale *el rango*",
+          "b": "El detalle, después del rango, no antes.",
+          "photo": "papeles"
         },
         {
-          "role": "stat",
-          "h": "Un solo inventario, para todos.",
-          "b": "Lo armamos para lotes de autos, bodas e inmobiliarias. Y para negocios como el tuyo."
-        },
-        {
-          "role": "cta",
-          "h": "¿Cuántos cuadernos tiene tu inventario?",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Dos preguntas y el precio *sale solo*",
+          "b": "Escríbeme PLAN por DM y dejamos tus dos preguntas corriendo en tu chat, con el rango detrás."
         }
       ],
       "caption": {
-        "ig": "La doble venta no es mala suerte: es inventario en dos cuadernos. El estado único (disponible, separado, vendido), el reloj del separado y quién recibe el aviso. Mándaselo a quien atiende cuando tú no estás. #inventario #negocios #peru #crm",
-        "tt": "Vender lo mismo dos veces: el papelón que sí se puede evitar 😬 · mándaselo a quien atiende cuando tú no estás #negocios #peru",
-        "fb": "Dos vendedores, dos celulares, un solo carro… vendido dos veces. El arreglo: UN solo estado por producto, con nombre y reloj."
+        "ig": "Cómo dar precios por WhatsApp sin hacer un interrogatorio. Dos preguntas bastan: para cuándo, que separa al que compra del que mira, y la que cambia tu precio, medida, cantidad o distrito. Recién ahí sale el rango y el detalle va después. ¿Cuántas haces tú antes de dar un precio? Escríbeme PLAN por DM. #ventasporwhatsapp #emprendedoresperu",
+        "tt": "Cómo dar precios por WhatsApp sin interrogatorio: para cuándo, la pregunta que cambia tu precio, y recién el rango. ¿Cuántas preguntas haces tú? Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "Diez preguntas antes de un precio es un interrogatorio y el cliente se va. Dos bastan: para cuándo, y la que de verdad cambia tu precio. ¿Cuántas haces tú?"
       },
-      "alt": "Estado único de inventario para evitar la doble venta."
+      "alt": "Cuaderno de apuntes de un negocio con el titular sobre cuántas preguntas hacer antes de dar un precio."
     },
     {
-      "slug": "06-fuga-en-chats-viejos",
+      "slug": "06-la-tabla-cuando-tu-precio-es-depende",
       "slides": [
         {
           "role": "cover",
-          "h": "Lee 20 chats viejos y vas a ver dónde se caen tus ventas",
-          "b": "la prueba te toma diez minutos",
-          "emoji": "🔍"
+          "photo": "papeles",
+          "h": "La tabla de precios para cuando tu precio es *«depende»*",
+          "b": "para que tu vendedor nuevo no invente"
         },
         {
           "role": "value",
-          "h": "Busca dónde se cortó cada conversación",
-          "b": "El historial de tu WhatsApp no miente: el corte casi siempre llega en el mismo punto. Márcalo."
+          "label": "FILA 1",
+          "h": "El precio *del caso típico*",
+          "b": "Uno. Escrito. El que das sin pensar."
         },
         {
           "role": "value",
-          "h": "Las 3 frases donde mueren tus ventas",
-          "b": "· El «cualquier cosa me escribes» de despedida\n· El «déjame consultar» sin retorno\n· El precio respondido sin pregunta de vuelta"
+          "label": "FILA 2",
+          "h": "Qué lo *sube* y cuánto",
+          "b": "· Más cantidad\n· Más lejos\n· Más urgente",
+          "photo": "cuaderno"
         },
         {
           "role": "value",
-          "h": "Cada fuga repetida pide una regla",
-          "b": "Quién retoma, cuándo y con qué mensaje. Una regla por fuga, escrita donde el equipo la vea."
+          "label": "FILA 3",
+          "h": "El *piso*",
+          "b": "Hasta dónde baja cada quien sin preguntarte."
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "LA REGLA",
+          "h": "Fuera de la tabla *nadie inventa*",
+          "b": "Lo que no está, se consulta.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "La auditoría, hecha sola.",
-          "b": "Registramos dónde se corta cada conversación y quién debe retomarla."
-        },
-        {
-          "role": "cta",
-          "h": "Veinte chats hoy. La fuga está ahí.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "«Depende» ya *tiene tabla*",
+          "b": "Escríbeme PRUEBA por DM y tu cotización sale de la tabla, sin que nadie la invente."
         }
       ],
       "caption": {
-        "ig": "Auditoría de chats en 30 minutos: lee 20 conversaciones viejas, marca dónde se cortaron y encuentra las 3 frases donde se te van las ventas. Guárdalo para hacerla esta semana. Mándaselo al que se queda a cargo el fin de semana. #ventas #negocios #peru #whatsapp",
-        "tt": "Tus chats viejos saben por qué no cierras 🔍 · mándaselo al que se queda a cargo el fin de semana #negocios #ventas #peru",
-        "fb": "Lee 20 chats viejos de tu negocio y marca dónde murió cada conversación. Casi siempre es la misma frase, dicha por ti. ¿Te atreves a buscarla?"
+        "ig": "Cómo hacer una tabla de precios cuando tu precio es depende. Tres filas: el precio del caso típico escrito, qué lo sube y cuánto, y el piso hasta donde cada quien puede bajar sin preguntarte. Fuera de la tabla nadie inventa. Mándaselo al que cotiza cuando tú no estás. Escríbeme PRUEBA por DM. #negociopropio #emprendedoresperu",
+        "tt": "Cómo hacer una tabla de precios cuando tu precio es depende: caso típico, qué lo sube, el piso. Mándaselo al que cotiza cuando tú no estás. Escríbeme PRUEBA por DM. #negociopropio",
+        "fb": "Si tu precio es depende, tu vendedor nuevo lo inventa. La tabla tiene tres filas: el caso típico, qué lo sube y hasta dónde puede bajar sin preguntarte. Mándaselo al que cotiza cuando tú no estás."
       },
-      "alt": "Auditoría de chats archivados para encontrar la frase donde se fugan las ventas."
+      "alt": "Papeles de cotización sobre un escritorio con el titular sobre la tabla de precios para cuando tu precio es depende."
     },
     {
-      "slug": "07-cita-de-feriado",
+      "slug": "07-los-3-que-preguntan-precio-y-el-que-compra",
       "slides": [
         {
           "role": "cover",
-          "h": "Mañana es feriado y tu cliente por fin tiene tiempo",
-          "kicker": "FERIADO LARGO",
-          "emoji": "🗓"
+          "photo": "taller",
+          "h": "Los 3 que preguntan «¿cuánto cuesta?» y *el único que compra*"
         },
         {
           "role": "value",
-          "h": "Entre semana no puede, el feriado sí",
-          "b": "· El test drive, la visita al depa, el local de la boda\n· Todo eso necesita tiempo, y mañana le sobra"
+          "label": "EL COMPARADOR",
+          "h": "Ya preguntó en *tres sitios*",
+          "b": "Compra al primero que le contesta."
         },
         {
           "role": "value",
-          "h": "La invitación se manda hoy, a tus cotizados",
-          "b": "«Mañana feriado, ¿te animas a verlo con calma? Estoy de 10 a 4.» Corto y de víspera: mañana ya es tarde."
+          "label": "EL SOÑADOR",
+          "h": "Pregunta *para el otro año*",
+          "b": "Guárdalo con fecha. Vuelve.",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "Mañana no coordinas, atiendes",
-          "b": "· Cada sí queda hoy con su hora y su dirección\n· El feriado rinde por lo que dejaste amarrado la víspera"
+          "label": "EL CURIOSO",
+          "h": "Pregunta y *desaparece*",
+          "b": "No pierdas más de un mensaje con él."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "EL QUE COMPRA",
+          "h": "Te dice *para cuándo*",
+          "b": "Sin que se lo preguntes. Atiéndelo ya.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "La lista de cotizados sale en un clic.",
-          "b": "Construimos CRMs donde tus interesados viven etiquetados: la invitación de feriado se manda en minutos."
-        },
-        {
-          "role": "cta",
-          "h": "Manda la invitación hoy antes de las 7.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "Al que compra lo reconoce *tu proceso*",
+          "b": "Escríbeme FUGA por DM y armamos la pregunta que separa a los cuatro antes de que llegues tú."
         }
       ],
       "caption": {
-        "ig": "Víspera de feriado: tus cotizados por fin tienen tiempo mañana. La invitación de una línea que convierte chats pendientes en visitas de feriado, para autos, depas y locales de eventos. Mándaselo al del negocio de al lado, le pasa igual. #feriado #ventas #peru #negocios",
-        "tt": "El feriado tu cliente SÍ tiene tiempo de ir a verte 🗓 · mándaselo al del negocio de al lado, le pasa igual #feriado #peru #negocios",
-        "fb": "El feriado es el único día en que tu interesado tiene tiempo de ir a ver el auto, el depa o el local. La invitación se manda hoy, no mañana."
+        "ig": "Cómo saber cuál de los que preguntan precio por WhatsApp va a comprar. El comparador ya preguntó en tres sitios, el soñador pregunta para el otro año, el curioso desaparece, y el que compra te dice para cuándo sin que se lo preguntes. ¿Cuál te escribe más? Escríbeme FUGA por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Los 3 que preguntan cuánto cuesta y el único que compra: el que te dice para cuándo sin que se lo preguntes. ¿Cuál te escribe más? Escríbeme FUGA por DM. #ventasporwhatsapp",
+        "fb": "El comparador, el soñador, el curioso y el que compra escriben el mismo mensaje. Solo uno te dice para cuándo sin que se lo preguntes. ¿Cuál te escribe más?"
       },
-      "alt": "Invitación de víspera para convertir cotizados en visitas de feriado."
+      "alt": "Taller con herramientas y el titular sobre los tres que preguntan cuánto cuesta y el único que compra."
     },
     {
-      "slug": "08-armys-numeradas",
+      "slug": "08-el-chico-que-te-hizo-el-sistema",
       "slides": [
         {
           "role": "cover",
-          "h": "Las fans de BTS acampan días, tu cliente no espera ni diez minutos",
-          "kicker": "BTS EN LIMA",
-          "img": "evento-bts.jpg",
-          "emoji": "💜"
+          "photo": "tienda-cerrada",
+          "h": "El chico que te hizo el sistema *ya no contesta*",
+          "b": "y tu equipo volvió al cuaderno"
         },
         {
           "role": "value",
-          "h": "La cola aguanta cuando tiene número",
-          "b": "· Afuera del estadio se numeran en el brazo con plumón\n· Nadie pelea: cada una sabe su lugar"
+          "label": "LO QUE PASÓ",
+          "h": "No falló *el sistema*",
+          "b": "Falló que nadie se quedó a hacerlo andar."
         },
         {
           "role": "value",
-          "h": "Dale número a tu bandeja del feriado",
-          "b": "«Recibido, eres el pedido 6, te confirmo a las 3:40.» El que sabe su turno espera tranquilo."
+          "label": "HOY",
+          "h": "Tienes *dos negocios*",
+          "b": "El del sistema y el del cuaderno.",
+          "photo": "cuaderno"
         },
         {
           "role": "value",
-          "h": "El número vale si el orden se respeta",
-          "b": "Se atiende por turno, no por el que más insiste. Saltarse uno mata la fila entera."
+          "label": "PREGUNTA",
+          "h": "*Quién se queda*",
+          "b": "Quién lo opera el mes dos y a quién le escribes."
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "Y PUEDES",
+          "h": "*Cortarlo* cuando quieras",
+          "b": "Si no puedes salir, no entres.",
+          "photo": "papeles"
         },
         {
-          "role": "stat",
-          "h": "Cada pedido recibe su número al entrar.",
-          "b": "Automatizamos la fila: turno asignado, confirmación con su hora y lo serio pasa al frente."
-        },
-        {
-          "role": "cta",
-          "h": "Numera tu fila como las ARMYs.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Hablas con quien *lo construye*",
+          "b": "Escríbeme PLAN por DM: hablas directo con quien lo arma y se queda el mes dos."
         }
       ],
       "caption": {
-        "ig": "Feriado con BTS en Lima: las colas del estadio funcionan porque tienen número y orden. Tu bandeja llena de feriado se calma igual: turno visible y promesa cumplida. Mándaselo a tu equipo, no a tu bandeja. #bts #feriado #negocios #peru",
-        "tt": "Las ARMYs se numeran con plumón y tu bandeja es una guerra 💜 · mándaselo a tu equipo, no a tu bandeja #btsenlima #peru #negocios",
-        "fb": "Las fans llevan días organizadas con número en el brazo y nadie pelea. ¿Tu fila de pedidos tiene orden o gana el que más grita?"
+        "ig": "Qué hacer cuando el sistema que compraste para tu negocio quedó abandonado. Casi nunca falla el software: falla que nadie se quedó a hacerlo andar y el equipo volvió al cuaderno. Antes del próximo pregunta quién lo opera el mes dos, a quién le escribes y si puedes cortarlo. ¿Cuánto duró el tuyo? Escríbeme PLAN por DM. #negociopropio #emprendedoresperu",
+        "tt": "El chico que te hizo el sistema ya no contesta y tu equipo volvió al cuaderno. Antes del próximo: quién se queda el mes dos y si puedes cortarlo. ¿Cuánto duró el tuyo? Escríbeme PLAN por DM. #negociopropio",
+        "fb": "Pagaste una web, un sistema o un bot y hoy nadie lo abre. No falló el software: falló que nadie se quedó a hacerlo andar. ¿Cuánto duró el tuyo?"
       },
-      "alt": "Sistema de turnos numerados para la bandeja llena, inspirado en las colas de BTS."
+      "alt": "Tienda con la reja cerrada y el titular sobre el chico que te hizo el sistema y ya no contesta."
     },
     {
-      "slug": "09-lomo-saltado",
+      "slug": "09-instalado-no-es-implementado",
       "slides": [
         {
           "role": "cover",
-          "h": "Tu cliente elige almuerzo en 5 minutos y tu servicio en semanas",
-          "kicker": "DÍA DEL LOMO SALTADO",
-          "emoji": "🍽"
+          "photo": "papeles",
+          "h": "Por qué el sistema que compraste murió *el mes dos*"
         },
         {
           "role": "value",
-          "h": "Lo caro no se decide en un mensaje",
-          "b": "Un auto, una boda o un departamento se deciden después de comparar tres proveedores."
+          "label": "LA REGLA",
+          "h": "Instalado no es *implementado*",
+          "b": "Implementado es que lo usen sin ti."
         },
         {
           "role": "value",
-          "h": "Lo que tu cliente sí decide rápido",
-          "b": "· A quién le escribe primero\n· A quién le vuelve a escribir\n· A quién deja en visto"
+          "label": "MES DOS",
+          "h": "Un *dueño* con nombre",
+          "b": "Alguien lo abre cada mañana. Uno, no todos.",
+          "photo": "mostrador"
         },
         {
           "role": "value",
-          "h": "Tu ventaja no es el precio, es el turno",
-          "b": "El 78% le compra al primero que le responde. No al mejor: al primero.",
-          "emoji": "⏱"
+          "label": "MES DOS",
+          "h": "El cuaderno *se cierra*",
+          "b": "Dos lugares para apuntar: gana el viejo."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "SEMANA 4",
+          "h": "Se *revisa* con el equipo",
+          "b": "Qué se usó, qué no, qué se cambia.",
+          "photo": "cuaderno"
         },
         {
-          "role": "stat",
-          "h": "Tu WhatsApp puede contestar mientras almuerzas",
-          "b": "Te armamos un asistente sobre tu mismo WhatsApp: hace las preguntas de siempre, califica y te pasa al cliente listo."
-        },
-        {
-          "role": "cta",
-          "h": "Hoy no pierdas el turno.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "Lo instalamos y *nos quedamos* el mes dos",
+          "b": "Escríbeme PRUEBA por DM y empezamos por algo chico y medible, con su dueño."
         }
       ],
       "caption": {
-        "ig": "Hoy el Perú elige dónde almuerza en 5 minutos y tu producto se decide en semanas. Pero hay algo que tu cliente sí decide rápido: a quién le escribe primero y a quién deja en visto. Guárdalo para la próxima consulta que te llegue tarde. Mándaselo al que contesta tu WhatsApp. #ventas #whatsapp #negociosperu #atencionalcliente",
-        "tt": "Elegir almuerzo toma 5 minutos. Elegirte a ti, no 🍽 · mándaselo al que contesta tu WhatsApp #negociosperu #ventas",
-        "fb": "Hoy medio Perú decide en cinco minutos dónde almuerza. Lo que tú vendes no se decide así — pero a quién le escriben primero, sí. Ahí se pierde o se gana la venta."
+        "ig": "Por qué el sistema que compraste para ordenar tu negocio dejó de usarse al segundo mes. Instalado no es implementado: implementado es que lo usen sin ti. Eso pide un dueño con nombre que lo abra cada mañana, cerrar el cuaderno para que no haya dos lugares donde apuntar, y revisarlo con el equipo en la semana cuatro. ¿Tu equipo volvió al cuaderno? Escríbeme PRUEBA por DM. #negociopropio",
+        "tt": "Por qué el sistema murió el mes dos: instalado no es implementado. Un dueño con nombre, el cuaderno se cierra, y se revisa en la semana 4. ¿Tu equipo volvió al cuaderno? Escríbeme PRUEBA por DM. #negociopropio",
+        "fb": "Instalado no es implementado. Implementado es que lo usen sin ti, y eso pide un dueño que lo abra cada mañana y un cuaderno que se cierra. ¿Tu equipo volvió al cuaderno?"
       },
-      "alt": "Portada: elegir almuerzo toma 5 minutos. elegirte a ti, no; lo caro no se decide en un mensaje."
+      "alt": "Documentos y papeles de un negocio con el titular sobre por qué el sistema que compraste murió el mes dos."
     },
     {
-      "slug": "10-lista-espera",
+      "slug": "10-esta-noche-una-sola-cosa",
       "slides": [
         {
           "role": "cover",
-          "h": "Vendiste el producto y no le avisaste al que también lo quería",
-          "emoji": "📋"
+          "photo": "celular-noche",
+          "h": "Esta noche automatiza *una sola cosa* de tu negocio en 10 minutos"
         },
         {
           "role": "value",
-          "h": "«Ya no está disponible» cierra la conversación",
-          "b": "El cliente no quería ESE. Quería uno como ese, y estaba dispuesto a pagar."
+          "label": "MINUTO 1",
+          "h": "Busca tu mensaje *más repetido*",
+          "b": "El que escribiste ayer y anteayer."
         },
         {
           "role": "value",
-          "h": "La respuesta que no lo suelta",
-          "b": "«Ese ya salió. Me entra algo parecido en unos días, ¿te aviso a ti primero?»"
+          "label": "MINUTO 3",
+          "h": "Escríbelo *una vez*, completo",
+          "b": "Con la pregunta de vuelta al final.",
+          "photo": "cuaderno"
         },
         {
           "role": "value",
-          "h": "Arma tu lista de espera",
-          "b": "· Anota qué buscaba y su presupuesto\n· Ponle fecha para volver a escribirle\n· Avísale antes de publicarlo"
+          "label": "MINUTO 6",
+          "h": "Guárdalo como *respuesta rápida*",
+          "b": "Está en WhatsApp Business, es gratis."
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "MINUTO 10",
+          "h": "Escribe *«/»* y sale",
+          "b": "Cuenta cuántas veces lo usas esta semana.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "Una lista de espera que se llena sola",
-          "b": "Te armamos un asistente sobre tu mismo WhatsApp que registra qué buscaba cada cliente y te lo recuerda cuando entra algo parecido."
-        },
-        {
-          "role": "cta",
-          "h": "Rescata al de la semana pasada.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Una cosa hoy, *el proceso* después",
+          "b": "Escríbeme FUGA por DM cuando quieras que lo que sigue a ese mensaje también entre solo."
         }
       ],
       "caption": {
-        "ig": "Cuando respondes «ya no está disponible», cierras la venta tú mismo. El cliente no quería ese: quería uno como ese. La respuesta que lo deja anotado en tu lista de espera está en el post. Guárdalo. Mándaselo a tu socio antes del lunes. #ventas #negociosperu #whatsapp #seguimiento",
-        "tt": "Ya lo vendiste, y el que preguntaba seguía ahí 📋 · mándaselo a tu socio antes del lunes #negociosperu #ventas",
-        "fb": "«Ya no está disponible» suena honesto y te cuesta ventas. El cliente no quería ese, quería uno como ese. Anótalo y avísale antes de publicar el siguiente."
+        "ig": "Cómo empezar a ordenar mi negocio con una sola cosa esta noche. Busca el mensaje que más repites, escríbelo una vez completo con la pregunta de vuelta al final, lo dejas como respuesta rápida en WhatsApp Business y escribes «/» para usarlo. Cuenta cuántas veces sale esta semana. ¿Cuál es tu mensaje más repetido? Escríbeme FUGA por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Esta noche automatiza una sola cosa en 10 minutos: tu mensaje más repetido, como respuesta rápida en WhatsApp Business. ¿Cuál es tu mensaje más repetido? Escríbeme FUGA por DM. #ventasporwhatsapp",
+        "fb": "Ordenar el negocio empieza por una sola cosa: el mensaje que escribiste ayer y anteayer, escrito una vez y usado con «/». Diez minutos esta noche. ¿Cuál es tu mensaje más repetido?"
       },
-      "alt": "Portada: ya lo vendiste, y el que preguntaba seguía ahí; «ya no está disponible» cierra la conversación."
+      "alt": "Celular de noche sobre una mesa con el titular sobre automatizar una sola cosa del negocio en diez minutos."
     },
     {
-      "slug": "11-clientes-anuales",
+      "slug": "11-el-cliente-del-ano-pasado",
       "slides": [
         {
           "role": "cover",
-          "h": "Tienes clientes que te compran cada año y no los llamas",
-          "emoji": "🔁"
+          "photo": "llaves-casa",
+          "h": "El mensaje que trae de vuelta al cliente *del año pasado*"
         },
         {
           "role": "value",
-          "h": "La recompra tiene calendario",
-          "b": "El service del auto es cada año. El aniversario de la boda, también. El contrato de alquiler vence. ¿Quién lo apunta?"
+          "label": "POR QUÉ",
+          "h": "Toca *otra vez*",
+          "b": "· Service del auto\n· Aniversario\n· Contrato que vence"
         },
         {
           "role": "value",
-          "h": "La ficha con fecha de regreso",
-          "b": "A cada venta, una fecha futura: «volver a escribir en [mes]». Tres campos: qué compró, cuándo, cuándo tocaría de nuevo."
+          "label": "AL VENDER",
+          "h": "Apunta *la fecha de regreso*",
+          "b": "Qué compró y cuándo toca de nuevo.",
+          "photo": "cuaderno"
         },
         {
           "role": "value",
-          "h": "El mensaje de aniversario",
-          "b": "«Hace un año te llevaste [X], ¿cómo va? Ya toca [servicio].» Nadie más se lo va a recordar por él."
+          "label": "ESE DÍA",
+          "h": "Cópialo *tal cual*",
+          "b": "«Un año ya con lo tuyo. ¿Cómo va? Ya toca»"
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "LA REGLA",
+          "h": "Nadie más se lo *va a recordar*",
+          "b": "Ni él. Tú tienes la fecha.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "La fecha de regreso no depende de tu memoria.",
-          "b": "Guardamos qué compró cada cliente y cuándo toca escribirle otra vez."
-        },
-        {
-          "role": "cta",
-          "h": "Tu calendario de recompra empieza hoy.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "La fecha de regreso *te avisa a ti*",
+          "b": "Escríbeme PLAN por DM y cada venta sale con su fecha de volver a escribir, sin que nadie apunte."
         }
       ],
       "caption": {
-        "ig": "Tienes clientes que vuelven cada año, si alguien se los recuerda: la ficha con fecha de regreso y el mensaje de aniversario que trae la recompra sin perseguir a nadie. Mándaselo a tu vendedor y que te diga qué haría. #crm #ventas #peru #negocios",
-        "tt": "Tus clientes anuales existen, tu calendario no 🔁 · mándaselo a tu vendedor y que te diga qué haría #negocios #ventas #peru",
-        "fb": "El service del auto, el aniversario de la boda, el contrato que vence: la recompra tiene fecha exacta y casi nadie la apunta. Tres campos por cliente y el próximo año se vende con calendario."
+        "ig": "Cómo llevar el control de los clientes que compran cada año. El service del auto, el aniversario, el contrato que vence: al vender apuntas qué compró y cuándo toca de nuevo, y ese día le escribes «un año ya con lo tuyo, ¿cómo va? ya toca». Nadie más se lo va a recordar, ni él. ¿Qué vendes que se repite? Escríbeme PLAN por DM. #negociopropio #emprendedoresperu",
+        "tt": "El mensaje que trae de vuelta al cliente del año pasado: «un año ya con lo tuyo, ¿cómo va? ya toca». Apunta la fecha de regreso al vender. ¿Qué vendes que se repite? Escríbeme PLAN por DM. #negociopropio",
+        "fb": "Lo que vendes se repite: el service, el aniversario, el contrato que vence. Nadie se lo va a recordar al cliente, ni él mismo. Tú tienes la fecha. ¿Qué vendes que se repite?"
       },
-      "alt": "Ficha con fecha de regreso y mensaje de aniversario para recompra."
+      "alt": "Llaves de casa sobre una mesa con el titular sobre el mensaje que trae de vuelta al cliente del año pasado."
     },
     {
-      "slug": "12-lunes-post-feriado",
+      "slug": "12-cuatro-dias-de-chats",
       "slides": [
         {
           "role": "cover",
-          "h": "Cuatro días de chats te esperan esta mañana",
+          "photo": "mostrador",
           "kicker": "LUNES POST FERIADO",
-          "emoji": "😅"
+          "h": "Cuatro días de chats te esperan: *contéstalos en este orden*"
         },
         {
           "role": "value",
-          "h": "Primero los que tienen fecha hoy",
-          "b": "· Pedidos para hoy y citas de esta semana se contestan ya\n· El resto puede esperar dos horas; ellos no"
+          "label": "PRIMERO",
+          "h": "Los que tienen *fecha hoy*",
+          "b": "Pedidos para hoy y citas de esta semana."
         },
         {
           "role": "value",
-          "h": "La amnistía para los chats del feriado",
-          "b": "«Recién salgo del feriado y vi tu mensaje. ¿Sigue en pie? Hoy te atiendo con prioridad.» Sin drama ni excusas largas."
+          "label": "SEGUNDO",
+          "h": "Los que *preguntaron precio*",
+          "b": "Ya compararon. Contesta con pregunta.",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "El feriado se liquida hoy",
-          "b": "Cada chat acumulado sale con respuesta o con cita. Mañana la bandeja amanece en cero."
+          "label": "LA AMNISTÍA",
+          "h": "Cópiala *tal cual*",
+          "b": "«Recién te leo. ¿Sigue en pie? Hoy te atiendo.»"
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "AL FINAL",
+          "h": "Bandeja *en cero*",
+          "b": "Cada chat con respuesta o con cita.",
+          "photo": "cuaderno"
         },
         {
-          "role": "stat",
-          "h": "El lunes post feriado, ya ordenado.",
-          "b": "Lo automatizamos para que llegues a cerrar, no a ordenar: cada chat del feriado entró registrado y clasificado por prioridad."
-        },
-        {
-          "role": "cta",
-          "h": "Empieza por los de fecha. La amnistía después.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "El próximo feriado los chats entran *ordenados*",
+          "b": "Escríbeme PRUEBA por DM y cada mensaje entra con su prioridad mientras descansas."
         }
       ],
       "caption": {
-        "ig": "Lunes después del feriado largo: cuatro días de chats acumulados. El orden correcto (primero los que tienen fecha) y el mensaje de amnistía para retomar sin pedir perdón. Guárdalo para el próximo feriado. Mándaselo a quien atiende cuando tú no estás. #negocios #whatsapp #peru #ventas",
-        "tt": "Cuatro días de chats sin abrir y es lunes 😅 · mándaselo a quien atiende cuando tú no estás #negocios #peru #whatsapp",
-        "fb": "El lunes después de un feriado largo se atiende por urgencia del cliente: primero los que tienen fecha hoy, después la amnistía para el resto."
+        "ig": "Cómo organizar los mensajes de WhatsApp acumulados después del feriado largo. Primero los que tienen fecha hoy, después los que preguntaron precio, y para el resto la amnistía: «recién te leo, ¿sigue en pie? hoy te atiendo». La bandeja termina el día en cero: cada chat con respuesta o con cita. ¿Con cuántos chats amaneciste hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Cuatro días de chats después del feriado: primero los que tienen fecha hoy, después los de precio, y la amnistía para el resto. ¿Con cuántos chats amaneciste hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+        "fb": "El lunes después del feriado no se contesta en orden de llegada. Primero los que tienen fecha hoy, después los que preguntaron precio, y la amnistía para el resto. ¿Con cuántos chats amaneciste?"
       },
-      "alt": "Triaje del lunes post feriado: primero los pedidos con fecha, luego el mensaje de amnistía."
+      "alt": "Mostrador de un negocio el lunes por la mañana con el titular sobre los cuatro días de chats que esperan."
     },
     {
-      "slug": "13-simulacro-celular",
+      "slug": "13-los-4-que-te-yapean",
       "slides": [
         {
           "role": "cover",
-          "h": "Tu negocio entero vive en un solo celular",
-          "b": "el simulacro de 10 minutos que lo protege",
-          "kicker": "SIMULACRO NOCTURNO",
-          "img": "evento-simulacro.jpg",
-          "emoji": "🚨"
+          "photo": "restaurante-cocina",
+          "h": "Los 4 clientes que te dicen *«ahorita te yapeo»*"
         },
         {
           "role": "value",
-          "h": "Lo que se va si el celular se va",
-          "b": "· Todos los chats y acuerdos\n· Los números de tus clientes\n· Las fotos de pedidos y comprobantes",
-          "emoji": "😱"
+          "label": "EL OLVIDADIZO",
+          "h": "Lo dice *de corazón*",
+          "b": "Y a las 6 se le fue. Recuérdale con hora."
         },
         {
           "role": "value",
-          "h": "El simulacro de esta noche, 10 minutos",
-          "b": "· Verificación en dos pasos de WhatsApp: actívala\n· Copia de seguridad del historial: revísala\n· Bloqueo del equipo: pruébalo"
+          "label": "EL QUE ESPERA",
+          "h": "Nunca le mandaste *el número*",
+          "b": "Está esperando tu Yape, no el suyo.",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "El negocio no puede vivir en un aparato",
-          "b": "Chats, fichas y acuerdos con copia fuera del celular. El equipo se repone; la historia de tus clientes no."
+          "label": "EL FANTASMA",
+          "h": "Captura *sin nombre*, ¿de quién?",
+          "b": "Pídelo en el mismo mensaje."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "EL QUE YAPEA",
+          "h": "Recibió *todo* junto",
+          "b": "Número, titular, y qué mandar de vuelta.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "Con sistema, el robo es solo un mal día.",
-          "b": "Construimos CRMs donde todo vive en la nube: repones el equipo y sigues atendiendo."
-        },
-        {
-          "role": "cta",
-          "h": "Hoy el país ensaya. Ensaya tu negocio.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Todos yapean si el cobro *sale completo*",
+          "b": "Escríbeme FUGA por DM y armamos tu cobro: número, confirmación y pedido registrado, solos."
         }
       ],
       "caption": {
-        "ig": "Simulacro nocturno: mientras el país ensaya el sismo, hazle el simulacro a tu negocio. Si esta noche te roban el celular, ¿pierdes todos tus chats, clientes y acuerdos? Checklist de 10 minutos. Guárdalo para hacerlo hoy. Mándaselo al que se queda a cargo el fin de semana. #simulacro #negocios #peru #whatsapp",
-        "tt": "Tu negocio entero vive en un solo celular 🚨 el simulacro de 10 minutos · mándaselo al que se queda a cargo el fin de semana #simulacro #peru #negocios",
-        "fb": "Esta noche suena la alerta del simulacro. Aprovecha y hazle uno a tu negocio: si mañana no tuvieras tu celular, ¿pierdes cada chat, cada acuerdo y cada número? ¿Tu negocio pasa la prueba?"
+        "ig": "Cómo cobrar por Yape en mi negocio sin perseguir a nadie. Cuatro clientes dicen «ahorita te yapeo»: el olvidadizo, el que espera que tú mandes el número, el fantasma de la captura sin nombre y el que sí yapea porque recibió todo junto en un mensaje. ¿Cuál te toca más? Escríbeme FUGA por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Los 4 que te dicen «ahorita te yapeo»: el olvidadizo, el que espera tu número, el fantasma de la captura sin nombre y el que sí yapea. ¿Cuál te toca más? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "Cuatro clientes dicen «ahorita te yapeo». Solo uno lo hace en dos minutos: el que recibió número, titular y qué mandar de vuelta en un solo mensaje. ¿Cuál te toca más?"
       },
-      "alt": "Portada: tu negocio entero vive en un solo celular; el simulacro de 10 minutos que lo protege."
+      "alt": "Cocina de restaurante con el titular sobre los cuatro clientes que dicen ahorita te yapeo."
     },
     {
-      "slug": "14-plantillas-de-cierre",
+      "slug": "14-el-mensaje-de-cobro-que-si-se-paga",
       "slides": [
         {
           "role": "cover",
-          "h": "Tu mejor vendedor es un mensaje guardado",
-          "b": "las 3 plantillas, listas para copiar",
-          "emoji": "💬"
+          "photo": "cuaderno",
+          "h": "El mensaje de cobro que sí se paga, *listo para copiar*"
         },
         {
           "role": "value",
-          "h": "Los cierres también tienen plantilla",
-          "b": "No solo respondes preguntas: cierras. «¿Lo separamos de una vez?» vende más que esperar a que el cliente se anime."
+          "label": "LÍNEA 1",
+          "h": "El número y *el titular*",
+          "b": "«Yape al 9XX XXX XXX, a nombre de [tu nombre]»"
         },
         {
           "role": "value",
-          "h": "Las 3 que cierran",
-          "b": "· Opciones: «tengo A y B, ¿cuál va contigo?»\n· Agenda: «¿mañana o el jueves?», reina en clínicas y talleres\n· Última unidad, solo si es verdad"
+          "label": "LÍNEA 2",
+          "h": "Qué mandar *de vuelta*",
+          "b": "«Mándame la captura y tu nombre completo»",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "LÍNEA 3",
+          "h": "Qué pasa *después*",
+          "b": "«Te confirmo al toque y queda separado»"
         },
         {
-          "role": "stat",
-          "h": "Tus cierres, listos en cada chat.",
-          "b": "Metemos tus cierres al proceso: cada chat llega ordenado, con su plantilla lista."
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Todo en *un solo* mensaje",
+          "b": "Cada ida y vuelta enfría el antojo.",
+          "photo": "mostrador"
         },
         {
-          "role": "cta",
-          "h": "Guarda las 3 hoy.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "La captura llega y *se confirma sola*",
+          "b": "Escríbeme PLAN por DM y el cobro queda con su confirmación y su pedido, sin ida y vuelta."
         }
       ],
       "caption": {
-        "ig": "Respuestas guardadas de WhatsApp: no son solo para el precio, los CIERRES también tienen plantilla. Las 3 que convierten (opciones, agenda, última unidad) y cuándo dispararlas. Mándaselo al del negocio de al lado, le pasa igual. #ventas #whatsapp #peru #negocios",
-        "tt": "El mensaje guardado que cierra ventas por ti 💬 las 3 plantillas adentro, cópialas · mándaselo al del negocio de al lado, le pasa igual #ventas #peru #negocios",
-        "fb": "Muchos negocios tienen guardada la respuesta del precio pero cierran cada venta improvisando. Los cierres también tienen plantilla: opciones, agenda o última unidad."
+        "ig": "Cómo cobrar por WhatsApp con un solo mensaje. Tres líneas: el número y el titular, qué mandar de vuelta (la captura y el nombre completo) y qué pasa después (te confirmo al toque y queda separado). Cada ida y vuelta enfría el antojo. Mándaselo a quien cobra por ti los fines de semana. Escríbeme PLAN por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "El mensaje de cobro que sí se paga: número y titular, qué mandar de vuelta, qué pasa después. Todo junto. Mándaselo a quien cobra por ti los fines de semana. Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "El cobro que sí se paga va en un solo mensaje: número y titular, qué mandar de vuelta y qué pasa después. Cada ida y vuelta enfría el antojo. Mándaselo a quien cobra por ti los fines de semana."
       },
-      "alt": "Plantillas de cierre para WhatsApp."
+      "alt": "Cuaderno de cuentas de un negocio con el titular sobre el mensaje de cobro listo para copiar."
     },
     {
-      "slug": "15-cuando-cobre",
+      "slug": "15-el-que-dijo-cuando-cobre-cobra-hoy",
       "slides": [
         {
           "role": "cover",
-          "h": "El que te dijo «cuando cobre» cobra hoy",
+          "photo": "mostrador",
           "kicker": "QUINCENA",
-          "emoji": "💸"
+          "h": "El que te dijo «cuando cobre» cobra hoy: *escríbele así*"
         },
         {
           "role": "value",
-          "h": "«Cuando cobre» es un sí con fecha",
-          "b": "No te rechazó: te dio el día exacto. La quincena y el fin de mes son sus fechas."
+          "label": "PRIMERO",
+          "h": "«Cuando cobre» es un *sí con fecha*",
+          "b": "No te rechazó. Te dio el día."
         },
         {
           "role": "value",
-          "h": "Apúntalo para el 15 en el momento",
-          "b": "Apenas alguien diga «después de la quincena», su chat se agenda: escribirle el 15. Hoy abres la agenda y ahí están."
+          "label": "HOY",
+          "h": "Cópialo *tal cual*",
+          "b": "«¿Seguimos con lo que viste? Hoy lo dejo listo»",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "El mensaje de hoy, sin presionar",
-          "b": "«¿Seguimos con [lo que vio]? Si confirmas hoy te lo dejo listo.» Ni un reproche: la puerta abierta el día correcto."
+          "label": "SIN",
+          "h": "Sin *reproche*",
+          "b": "Nada de «te escribí hace dos semanas»."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "SI PATEA",
+          "h": "Pide *la fecha nueva*",
+          "b": "«¿Te escribo a fin de mes?» y lo apuntas.",
+          "photo": "cuaderno"
         },
         {
-          "role": "stat",
-          "h": "El día prometido te avisa a ti.",
-          "b": "Agendamos cada «cuando cobre» y te lo ponemos al frente el día que sí hay."
-        },
-        {
-          "role": "cta",
-          "h": "Hoy es el día que te dijo. Escríbele.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Cada «cuando cobre» *te avisa* el día que sí hay",
+          "b": "Escríbeme PRUEBA por DM y agendamos cada «cuando cobre» sin que nadie apunte."
         }
       ],
       "caption": {
-        "ig": "Quincena: hoy cobró el que te dijo «cuando cobre». Cómo agendar cada promesa de pago en el momento y el mensaje exacto para volver el día 15 sin presionar. Mándaselo a tu equipo, no a tu bandeja. #quincena #ventas #peru #negocios",
-        "tt": "«Cuando cobre» dijo… y hoy cobró 💸 · mándaselo a tu equipo, no a tu bandeja #quincena #ventas #peru",
-        "fb": "Cada «ahorita no, cuando cobre» que te dijeron este mes tenía fecha: hoy. Los negocios que apuntan esas promesas saludan el día 15 con la lista lista."
+        "ig": "Cómo hacer seguimiento a un cliente que dijo cuando cobre. Hoy es su día: no te rechazó, te dio la fecha. Escríbele «¿seguimos con lo que viste? hoy lo dejo listo», sin reproche, y si patea otra vez pide la fecha nueva y la apuntas. ¿A quién le escribes hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp #emprendedoresperu",
+        "tt": "El que te dijo «cuando cobre» cobra hoy. Escríbele así: «¿seguimos con lo que viste? hoy lo dejo listo». Sin reproche, y si patea, fecha nueva. ¿A quién le escribes hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+        "fb": "«Cuando cobre» no es un no: es un sí con fecha. Hoy es esa fecha. Un mensaje sin reproche, y si patea otra vez, la fecha nueva queda apuntada. ¿A quién le escribes hoy?"
       },
-      "alt": "Agendar los «cuando cobre» y escribirles el día de quincena."
+      "alt": "Mostrador de tienda el día de quincena con el titular sobre el cliente que dijo cuando cobre."
     },
     {
-      "slug": "16-contestar-no-es-atender",
+      "slug": "16-cierran-el-centro-agenda-la-visita",
       "slides": [
         {
           "role": "cover",
-          "h": "Contestar «sí hay» no es atender a tu cliente",
-          "emoji": "💥"
-        },
-        {
-          "role": "value",
-          "h": "«Sí hay» es media respuesta",
-          "b": "· «Sí hay, ¿para qué lo necesitas?»\n· Una pregunta de vuelta y el chat cambia de dueño"
-        },
-        {
-          "role": "value",
-          "h": "El guion corto de 3 pasos",
-          "b": "· Responde lo preguntado\n· Pregunta el uso\n· Ofrece máximo dos opciones con su siguiente paso"
-        },
-        {
-          "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
-        },
-        {
-          "role": "stat",
-          "h": "El guion se vuelve proceso.",
-          "b": "Lo automatizamos para lotes de autos, bodas, clínicas y tiendas: la consulta entra calificada y tú entras al cierre."
-        },
-        {
-          "role": "cta",
-          "h": "Atiende, no contestes.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
-        }
-      ],
-      "caption": {
-        "ig": "«Sí hay» es media respuesta. Atender es guiar la venta: el guion corto de 3 pasos (responder, preguntar el uso, dos opciones máximo) que convierte consultas en cierres. Mándaselo al que contesta tu WhatsApp. #ventas #atencion #peru #negocios",
-        "tt": "Contestar no es atender: el guion de 3 pasos 💥 · mándaselo al que contesta tu WhatsApp #ventas #peru #negocios",
-        "fb": "«Sí hay» deja al cliente solo con su duda; la pregunta de vuelta lo lleva de la mano. Tres pasos, dos opciones máximo, y el chat cambia de dueño."
-      },
-      "alt": "Mini guion de atención en 3 pasos."
-    },
-    {
-      "slug": "17-anticuchos",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "El anticucho se pide de noche. Tus clientes preguntan a esa hora.",
-          "kicker": "DÍA DEL ANTICUCHO",
-          "emoji": "🌙"
-        },
-        {
-          "role": "value",
-          "h": "Tu hora pico no es la del negocio",
-          "b": "Entre las 9 de la noche y la medianoche la gente por fin tiene tiempo de preguntar precios."
-        },
-        {
-          "role": "value",
-          "h": "Lo que pasa a esa hora",
-          "b": "· «Hola, ¿me pasas precio?»\n· Nadie contesta\n· A las 9am ya preguntó en otros tres lados",
-          "emoji": "😐"
-        },
-        {
-          "role": "value",
-          "h": "Contestar tarde cuesta caro",
-          "b": "A los 30 minutos ya se enfrió la mayor parte del interés. A las cuatro horas no queda nada."
-        },
-        {
-          "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
-        },
-        {
-          "role": "stat",
-          "h": "De noche tu WhatsApp puede seguir atendiendo",
-          "b": "Te armamos un asistente sobre tu mismo WhatsApp: responde lo básico a las 11pm, agenda y te deja el cliente listo para la mañana."
-        },
-        {
-          "role": "cta",
-          "h": "Esta noche que no se te caiga ninguno.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
-        }
-      ],
-      "caption": {
-        "ig": "Los mensajes de «¿me pasas precio?» llegan de noche, cuando el cliente por fin tiene tiempo — y se contestan al día siguiente, cuando ya preguntó en otros tres lados. Guárdalo para revisar tus mensajes sin responder de esta semana. Mándaselo a tu socio antes del lunes. #whatsapp #ventas #negociosperu",
-        "tt": "El anticucho se pide de noche. Tus clientes preguntan a esa hora 🌙 · mándaselo a tu socio antes del lunes #negociosperu #ventas",
-        "fb": "Abre tu WhatsApp y mira la hora de los mensajes que no respondiste: casi todos son de noche. No es flojera, es que a esa hora ya cerraste. El problema es que el cliente no."
-      },
-      "alt": "Portada: el anticucho se pide de noche. tus clientes preguntan a esa hora; tu hora pico no es la del negocio."
-    },
-    {
-      "slug": "18-cien-mil",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Cien mil personas pasan frente a tu local",
+          "photo": "tienda-cerrada",
           "kicker": "MES MORADO",
-          "img": "evento-procesion-noche.jpg",
-          "emoji": "🟣"
+          "h": "Cierran el centro y tu cliente no va a ir: *agenda la visita*"
         },
         {
           "role": "value",
-          "h": "El tráfico no es venta si no lo capturas",
-          "b": "El que pasó, pasó, salvo que se lleve tu WhatsApp. QR grande en la puerta: «pide por aquí y evita la cola»."
+          "label": "ESTE MES",
+          "h": "La visita se posterga *sola*",
+          "b": "Desvíos y tráfico: «la otra semana»."
         },
         {
           "role": "value",
-          "h": "El saludo hace el resto",
-          "b": "El QR aterriza en tu bienvenida y tu catálogo. De transeúnte a contacto etiquetado en dos toques."
+          "label": "PERO",
+          "h": "Sigue *preguntando*",
+          "b": "· Precios\n· Fotos\n· Si vale la pena ir",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "Después de la procesión, la lista queda",
-          "b": "Los que escribieron ese finde son tu campaña de noviembre. El tráfico se fue; los contactos no."
+          "label": "EL MENSAJE",
+          "h": "Cópialo *tal cual*",
+          "b": "«¿Te va el jueves a las 4? Te reservo la hora»"
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "POR QUÉ",
+          "h": "Hora fija *cierra*",
+          "b": "«Cuando quieras» no cierra nunca.",
+          "photo": "autos-lote"
         },
         {
-          "role": "stat",
-          "h": "El transeúnte queda registrado.",
-          "b": "Lo automatizamos así: cada contacto entra con su etiqueta y su fecha de recontacto."
-        },
-        {
-          "role": "cta",
-          "h": "La procesión pasa una vez al año.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "La visita se agenda *sin ti*",
+          "b": "Escríbeme FUGA por DM y armamos que tu chat proponga día y hora y la deje en tu agenda."
         }
       ],
       "caption": {
-        "ig": "La procesión pone multitudes frente a tu local. Un QR en la puerta convierte tráfico en contactos etiquetados, y ese finde en tu campaña de noviembre. Mándaselo a tu vendedor y que te diga qué haría. #mesmorado #peru #negocios #ventas",
-        "tt": "Cien mil pasan por tu puerta y no capturas ni uno 🟣 · mándaselo a tu vendedor y que te diga qué haría #mesmorado #peru",
-        "fb": "El Señor de los Milagros mueve multitudes por tu cuadra este finde. Tráfico sin captura es tráfico regalado: el QR de la puerta se imprime hoy."
+        "ig": "Cómo agendar visitas de clientes por WhatsApp cuando el centro está cerrado por la procesión. Este mes la visita se posterga sola, pero el cliente sigue preguntando precios y fotos. «¿Te va el jueves a las 4? Te reservo la hora» cierra; «cuando quieras» no cierra nunca. ¿Cuántas visitas se te cayeron este mes? Escríbeme FUGA por DM. #negociopropio #emprendedoresperu",
+        "tt": "Cierran el centro y tu cliente no va a ir. Agenda la visita: «¿te va el jueves a las 4? te reservo la hora». Hora fija cierra, «cuando quieras» no. ¿Cuántas visitas se te cayeron este mes? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "Con el centro cerrado la visita se posterga sola, pero el cliente sigue preguntando. Hora fija y reserva cierran; «cuando quieras te esperamos» no cierra nunca. ¿Cuántas visitas se te cayeron este mes?"
       },
-      "alt": "QR de captura de tráfico en la puerta durante la procesión."
+      "alt": "Calle con tiendas cerradas durante el mes morado y el titular sobre agendar la visita del cliente."
     },
     {
-      "slug": "19-referidos",
+      "slug": "17-la-procesion-pasa-frente-a-tu-local",
       "slides": [
         {
           "role": "cover",
-          "h": "Nadie te recomienda solo, hay que pedirlo",
-          "emoji": "🤝"
+          "photo": "mostrador",
+          "kicker": "MES MORADO",
+          "h": "Pasa la procesión frente a tu local y *nadie te deja su número*"
         },
         {
           "role": "value",
-          "h": "El mejor momento dura 10 segundos",
-          "b": "Justo después del «gracias, todo perfecto»: «¿Conoces a alguien más buscando esto? Preséntamelo y lo atiendo igual.»"
+          "label": "EN LA PUERTA",
+          "h": "Un QR *grande*",
+          "b": "«Pide por aquí y evita la cola»"
         },
         {
           "role": "value",
-          "h": "El referido se apunta con padrino",
-          "b": "Ficha nueva con quién lo trajo. Cuando compre, el padrino recibe un gracias de verdad, y refiere de nuevo."
+          "label": "AL ESCANEAR",
+          "h": "Cae en tu *saludo*",
+          "b": "Nombre, qué tienes hoy, y una pregunta.",
+          "photo": "papeles"
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "CADA CONTACTO",
+          "h": "Entra con *etiqueta*",
+          "b": "«Procesión» y fecha para volver a escribir.",
+          "photo": "celular-noche"
         },
         {
-          "role": "stat",
-          "h": "El padrino queda anotado.",
-          "b": "Guardamos quién trajo a quién, y cuándo toca agradecerlo."
+          "role": "value",
+          "label": "EN NOVIEMBRE",
+          "h": "Esa lista es *tu campaña*",
+          "b": "El tráfico se fue. Los contactos no."
         },
         {
-          "role": "cta",
-          "h": "Pide un referido esta semana.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Los que pasan *quedan registrados*",
+          "b": "Escríbeme PLAN por DM y cada contacto entra con etiqueta y fecha, sin que nadie apunte."
         }
       ],
       "caption": {
-        "ig": "Los referidos no caen del cielo: se piden en los 10 segundos después del «gracias, todo perfecto». El mensaje que no incomoda y la ficha con padrino. Mándaselo a quien atiende cuando tú no estás. #referidos #ventas #peru #negocios",
-        "tt": "El referido se pide, no se espera 🤝 · mándaselo a quien atiende cuando tú no estás #ventas #peru #negocios",
-        "fb": "El momento perfecto para pedir un referido dura 10 segundos: justo después del «todo perfecto». Ni antes ni después, y siempre con el padrino anotado."
+        "ig": "Cómo aprovechar el público de la procesión si tienes un local en la ruta. Un QR grande en la puerta que diga «pide por aquí y evita la cola», que caiga en tu saludo con una pregunta, y cada contacto entra con etiqueta y fecha para escribirle otra vez. En noviembre esa lista es tu campaña. Mándaselo al que tiene local en la ruta de la procesión. Escríbeme PLAN por DM. #negociopropio #emprendedoresperu",
+        "tt": "Pasa la procesión frente a tu local y nadie te deja su número. Un QR grande en la puerta, un saludo con pregunta, y cada contacto con etiqueta. Mándaselo al que tiene local en la ruta. Escríbeme PLAN por DM. #negociopropio",
+        "fb": "El tráfico de la procesión se va el mismo día. Los contactos no, si el QR de la puerta los deja en tu saludo con etiqueta y fecha. Mándaselo al que tiene local en la ruta."
       },
-      "alt": "Cómo pedir referidos y registrarlos con padrino."
+      "alt": "Mostrador de un negocio en una calle de mucho tránsito con el titular sobre la procesión que pasa frente al local."
     },
     {
-      "slug": "20-cyber-wow-rampa",
+      "slug": "18-el-audio-de-3-minutos",
       "slides": [
         {
           "role": "cover",
-          "h": "Tu competencia va a bajar el precio. Tú no tienes que hacerlo.",
-          "kicker": "SEMANA DE OFERTAS",
-          "emoji": "🏷"
+          "photo": "celular-noche",
+          "h": "Contesta el audio de 3 minutos *sin escucharlo dos veces*"
         },
         {
           "role": "value",
-          "h": "Bajar el precio es la jugada más cara",
-          "b": "Regalas margen para ganarle a alguien que solo te ganaba en velocidad."
+          "label": "PRIMERA VEZ",
+          "h": "Escucha con *el dedo listo*",
+          "b": "Apunta qué pide, para cuándo, dónde."
         },
         {
           "role": "value",
-          "h": "Responder rápido vende más que descontar",
-          "b": "Al que le contestan primero deja de comparar. Al que espera, el descuento ya no le alcanza."
+          "label": "RESPONDE",
+          "h": "En texto, *numerado*",
+          "b": "«Te confirmo: 1) torta 2) sábado 3) San Miguel»",
+          "photo": "cuaderno"
         },
         {
           "role": "value",
-          "h": "Qué hacer esta semana",
-          "b": "· Contesta en minutos, no en horas\n· Da precio o da hora\n· Haz seguimiento a los de la semana pasada"
+          "label": "ÉL CORRIGE",
+          "h": "En *segundos*",
+          "b": "Y queda escrito. Lo hablado no existe."
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "LA REGLA",
+          "h": "Si quedó en audio, *no quedó*",
+          "b": "Fecha y dirección, de vuelta en texto.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "La velocidad se puede automatizar; el descuento se paga",
-          "b": "Te armamos un asistente sobre tu mismo WhatsApp que responde al toque, califica y te avisa cuando vale la pena que entres tú."
-        },
-        {
-          "role": "cta",
-          "h": "Esta semana gana rápido, no barato.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "El audio entra y *sale escrito*",
+          "b": "Escríbeme PRUEBA por DM y el audio se vuelve pedido registrado, sin que nadie transcriba."
         }
       ],
       "caption": {
-        "ig": "Semana de ofertas: todos van a bajar el precio. Bajar el precio es la jugada más cara que tienes, porque regalas margen contra alguien que solo te ganaba en velocidad. Guárdalo antes de armar tu promo. Mándaselo al que se queda a cargo el fin de semana. #ventas #negociosperu #precios #whatsapp",
-        "tt": "Tu competencia va a bajar el precio. Tú no tienes que hacerlo 🏷 · mándaselo al que se queda a cargo el fin de semana #negociosperu #ventas",
-        "fb": "Cuando todos bajan el precio, el que responde primero se lleva la venta igual. Bajar el precio es la jugada más cara que tienes. Esta semana prueba la otra."
+        "ig": "Cómo organizar los pedidos que llegan por audio de WhatsApp. Escúchalo una vez con el dedo listo apuntando qué pide, para cuándo y dónde, y responde en texto numerado: «te confirmo: 1) torta 2) sábado 3) San Miguel». Él corrige en segundos y queda escrito. Si quedó en audio, no quedó. ¿Audio o texto? Escríbeme PRUEBA por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Contesta el audio de 3 minutos sin escucharlo dos veces: apunta qué, cuándo y dónde, y responde en texto numerado. Si quedó en audio, no quedó. ¿Audio o texto? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+        "fb": "El audio de tres minutos también es un pedido. Se escucha una vez con el dedo listo y se confirma en texto numerado. Lo hablado no existe hasta que se escribe. ¿Audio o texto?"
       },
-      "alt": "Portada: tu competencia va a bajar el precio. tú no tienes que hacerlo; bajar el precio es la jugada más cara."
+      "alt": "Celular de noche reproduciendo un audio largo con el titular sobre contestarlo sin escucharlo dos veces."
     },
     {
-      "slug": "21-chifa-tiempo-honesto",
+      "slug": "19-vendiste-lo-mismo-dos-veces",
       "slides": [
         {
           "role": "cover",
-          "h": "El chifa te dice 25 minutos. Tú no dices nada.",
-          "kicker": "DÍA DEL CHIFA",
-          "emoji": "⏳"
+          "photo": "papeles",
+          "kicker": "ORDENANDO EL NEGOCIO",
+          "h": "Vendiste lo mismo dos veces y *los dos clientes* ya vienen",
+          "b": "parte 1 de 4"
         },
         {
           "role": "value",
-          "h": "No espanta la demora, espanta no saber",
-          "b": "El cliente aguanta esperar un precio. No aguanta no saber si le vas a responder."
+          "label": "POR QUÉ",
+          "h": "Dos *cuadernos*",
+          "b": "Uno apuntó en su celular, el otro en el suyo."
         },
         {
           "role": "value",
-          "h": "La frase que te compra tiempo",
-          "b": "«Te paso el precio hoy antes de las 6.» Con hora, el cliente espera. Sin hora, escribe a otro."
+          "label": "LA REGLA",
+          "h": "*Una sola* lista donde se escribe",
+          "b": "Las demás solo se leen.",
+          "photo": "cuaderno"
         },
         {
           "role": "value",
-          "h": "Cómo se cumple",
-          "b": "· Di cuándo\n· Cumple la hora\n· Si se te cae, avisa antes de que venza"
+          "label": "CADA COSA",
+          "h": "Con *estado* y nombre",
+          "b": "Libre, separado o vendido. Y quién lo cambió."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "EJEMPLOS",
+          "h": "Lo que se vende *una vez*",
+          "b": "· Un carro\n· Una fecha de boda\n· Un depa",
+          "photo": "autos-lote"
         },
         {
-          "role": "stat",
-          "h": "Un acuse de recibo que sale solo",
-          "b": "Armamos en tu mismo WhatsApp la respuesta automática que da hora y toma los datos, para que tú llegues con la cotización y no con la disculpa."
-        },
-        {
-          "role": "cta",
-          "h": "Hoy dile a alguien a qué hora.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "Una lista, *un estado*, cero papelones",
+          "b": "Escríbeme FUGA por DM y armamos tu inventario en un solo lugar, para todo el equipo."
         }
       ],
       "caption": {
-        "ig": "El chifa te dice 25 minutos y cumple; tú recibes un «¿cuánto cuesta?» y no dices nada hasta mañana. La frase que compra tiempo cabe en una línea. Guárdalo para la próxima cotización que te va a tomar dos días. Mándaselo al del negocio de al lado, le pasa igual. #atencionalcliente #ventas #negociosperu #whatsapp",
-        "tt": "El chifa te dice 25 minutos. Tú no dices nada ⏳ · mándaselo al del negocio de al lado, le pasa igual #negociosperu #atencionalcliente",
-        "fb": "Cuando pides chifa te dicen 25 minutos y por eso esperas tranquilo. Cuando alguien te pide un precio, ¿le dices cuándo se lo mandas? Esa sola frase decide si te espera o le escribe a otro."
+        "ig": "Cómo llevar el control del inventario de mi negocio para no vender lo mismo dos veces. La doble venta nace de dos cuadernos: uno apuntó en su celular y el otro en el suyo. Una sola lista donde se escribe y las demás solo se leen, cada cosa con su estado (libre, separado, vendido) y quién lo cambió. Parte 1 de ordenando el negocio. ¿Te pasó? Escríbeme FUGA por DM. #negociopropio #emprendedoresperu",
+        "tt": "Vendiste lo mismo dos veces y los dos clientes ya vienen. Una sola lista donde se escribe, las demás solo se leen. Ordenando el negocio, parte 1. ¿Te pasó? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "La doble venta no es descuido: es tener dos cuadernos. Una sola lista donde se escribe, con estado y con nombre de quien lo cambió. ¿Te pasó?"
       },
-      "alt": "Portada: el chifa te dice 25 minutos. tú no dices nada; no espanta la demora, espanta no saber."
+      "alt": "Papeles y apuntes de un negocio con el titular sobre vender lo mismo dos veces, parte 1 de ordenando el negocio."
     },
     {
-      "slug": "22-primero-cobra",
+      "slug": "20-ya-no-hay-regala-la-venta",
       "slides": [
         {
           "role": "cover",
-          "h": "El que contesta primero cobra",
-          "kicker": "SEMANA DE OFERTAS",
-          "emoji": "⚡"
+          "photo": "mostrador",
+          "kicker": "ORDENANDO EL NEGOCIO",
+          "h": "Respondes «ya no hay» y *regalas la venta*",
+          "b": "parte 2 de 4"
         },
         {
           "role": "value",
-          "h": "El cliente compara mientras te escribe",
-          "b": "El mismo mensaje que te mandó a ti se lo mandó a dos más. Está esperando en tres chats a la vez."
+          "label": "OJO",
+          "h": "«Ya no hay» es *un no completo*",
+          "b": "Venía decidido. Le cerraste la puerta."
         },
         {
           "role": "value",
-          "h": "El 78% le compra al primero que responde",
-          "b": "No al que tiene mejor producto ni mejor precio. Al primero.",
-          "emoji": "⏱"
+          "label": "COPIA",
+          "h": "Con *salida*",
+          "b": "«Ese salió. Tengo dos parecidos, ¿te paso fotos?»",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "Qué mirar hoy",
-          "b": "· ¿En cuánto contestas de verdad?\n· ¿Y un sábado?\n· ¿Y a las 11 de la noche?"
+          "label": "SI NO HAY",
+          "h": "*Lista de espera*",
+          "b": "«Me entra algo así en días, ¿te aviso primero?»"
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "LA REGLA",
+          "h": "Lo agotado *sale del catálogo*",
+          "b": "Antes de que lo pidan, no después.",
+          "photo": "cuaderno"
         },
         {
-          "role": "stat",
-          "h": "Contestar primero se puede volver automático",
-          "b": "Te armamos un asistente sobre tu mismo WhatsApp: contesta en segundos, hace las preguntas de siempre y te lo pasa calificado."
-        },
-        {
-          "role": "cta",
-          "h": "Mide tu tiempo de respuesta hoy.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "Nunca más un «ya no hay» *pelado*",
+          "b": "Escríbeme PLAN por DM y tu stock y tu chat se ponen de acuerdo solos."
         }
       ],
       "caption": {
-        "ig": "Tiempo de respuesta en WhatsApp: el mensaje que te mandaron se lo mandaron a dos más, y el 78% le compra al primero que responde. Mide en cuánto contestas un sábado y a las 11pm. Escríbeme y te digo por dónde se te está yendo. Mándaselo al que contesta tu WhatsApp. #ventas #whatsapp #negociosperu",
-        "tt": "El que contesta primero cobra ⚡ · mándaselo al que contesta tu WhatsApp #negociosperu #ventas",
-        "fb": "El cliente que te escribió le escribió a dos más y está esperando en tres chats a la vez. Gana el primero que responde, no el que tiene mejor precio. ¿En cuánto contestas tú un sábado? Mándaselo al que contesta tu WhatsApp."
+        "ig": "Qué responder por WhatsApp cuando se acabó el producto. «Ya no hay» es un no completo a alguien que venía decidido. La respuesta con salida: «ese salió, tengo dos parecidos, ¿te paso fotos?», y si no hay parecido, lista de espera: «me entra algo así en días, ¿te aviso primero?». Parte 2 de ordenando el negocio. ¿Qué respondes cuando se acabó? Escríbeme PLAN por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Respondes «ya no hay» y regalas la venta. La respuesta con salida y la lista de espera, listas para copiar. Ordenando el negocio, parte 2. ¿Qué respondes cuando se acabó? Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "El cliente venía decidido y «ya no hay» le cerró la puerta sin ofrecerle la de al lado. Dos parecidos o una lista de espera, siempre. ¿Qué respondes cuando se acabó?"
       },
-      "alt": "Portada: el que contesta primero cobra; el cliente compara mientras te escribe."
+      "alt": "Mostrador con estantes casi vacíos y el titular sobre responder ya no hay, parte 2 de ordenando el negocio."
     },
     {
-      "slug": "23-compra-hasta-enero",
+      "slug": "21-cuanto-dura-un-te-lo-separo",
       "slides": [
         {
           "role": "cover",
-          "h": "El «solo preguntaba» también compra, pero en diciembre",
-          "emoji": "📈"
+          "photo": "llaves-casa",
+          "kicker": "ORDENANDO EL NEGOCIO",
+          "h": "¿Cuánto tiempo dura un «te lo separo»? *Ponle reloj*",
+          "b": "parte 3 de 4"
         },
         {
           "role": "value",
-          "h": "En campaña, preguntar ya es intención",
-          "b": "Preguntó precio, comparó, no cerró ese día. Se pierde solo si nadie lo vuelve a tocar."
+          "label": "SIN RELOJ",
+          "h": "El separado *no vende ni libera*",
+          "b": "Ni a él ni al siguiente."
         },
         {
           "role": "value",
-          "h": "El calendario después de la ola",
-          "b": "· A la semana: «llegó de nuevo lo que preguntaste»\n· Al mes: tu campaña navideña\n· Tu lista de campaña vale hasta enero"
+          "label": "LA REGLA",
+          "h": "Separado *con vencimiento*",
+          "b": "«Te lo guardo hasta el jueves a las 6»",
+          "photo": "cuaderno"
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "AL VENCER",
+          "h": "Vuelve a *libre* solo",
+          "b": "Y el segundo de la fila recibe el aviso."
         },
         {
-          "role": "stat",
-          "h": "Cada curioso queda guardado.",
-          "b": "Registramos a cada interesado con su fecha de recontacto, sin que nadie apunte."
+          "role": "value",
+          "label": "EL PLAZO",
+          "h": "Por *rubro*",
+          "b": "· Torta: horas\n· Auto: días\n· Depa: semana",
+          "photo": "autos-llaves"
         },
         {
-          "role": "cta",
-          "h": "Guarda cada «solo preguntaba».",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "El «te lo separo» *tiene reloj*",
+          "b": "Escríbeme PRUEBA por DM y el separado vence y avisa al siguiente, sin que nadie mire el reloj."
         }
       ],
       "caption": {
-        "ig": "El «solo preguntaba» de campaña es demanda real con fecha flexible: cómo etiquetarlo y el calendario de retoque que lo convierte en tu venta de navidad. Mándaselo a tu socio antes del lunes. #cyberwow #ventas #peru #crm",
-        "tt": "El «solo preguntaba» también compra 📈 pero en diciembre · mándaselo a tu socio antes del lunes #cyberwow #ventas #peru",
-        "fb": "En campaña, muchos solo preguntan. Botarlos es el error: son demanda real con fecha flexible. Etiquetados y retocados a la semana y al mes, son tu diciembre. Mándaselo a tu socio antes del lunes."
+        "ig": "Cuánto tiempo mantener un producto separado para un cliente. Sin reloj, el separado no vende ni libera. La regla: separado con vencimiento («te lo guardo hasta el jueves a las 6»), al vencer vuelve a libre solo y el segundo de la fila recibe el aviso. El plazo depende del rubro. Parte 3 de ordenando el negocio. ¿Cuánto das tú? Escríbeme PRUEBA por DM. #negociopropio #emprendedoresperu",
+        "tt": "¿Cuánto dura un «te lo separo»? Ponle reloj: vence, vuelve a libre y avisa al siguiente. Ordenando el negocio, parte 3. ¿Cuánto das tú? Escríbeme PRUEBA por DM. #negociopropio",
+        "fb": "Un «te lo separo» sin vencimiento no vende ni libera: ni a él ni al siguiente. Con hora de vencimiento vuelve a libre solo y el segundo en la fila se entera primero. ¿Cuánto das tú?"
       },
-      "alt": "Cosecha de contactos de campaña para la venta navideña."
+      "alt": "Llaves sobre una mesa con el titular sobre cuánto dura un te lo separo, parte 3 de ordenando el negocio."
     },
     {
-      "slug": "24-agotado-con-alternativa",
+      "slug": "22-asi-se-ve-un-pedido-ordenado",
       "slides": [
         {
           "role": "cover",
-          "h": "Respondes «ya no hay» y regalas la venta",
-          "emoji": "🛒"
+          "photo": "restaurante-cocina",
+          "kicker": "ORDENANDO EL NEGOCIO",
+          "h": "Así se ve un pedido cuando tu negocio *está ordenado*",
+          "b": "parte 4 de 4: de «hola» a entregado"
         },
         {
           "role": "value",
-          "h": "«Ya no hay» es un no completo",
-          "b": "El cliente venía decidido a comprar. Le cerraste la puerta sin ofrecerle la de al lado."
+          "label": "ENTRA",
+          "h": "Con fecha y *dueño*",
+          "b": "Quién lo atiende, para cuándo, en tu lista."
         },
         {
           "role": "value",
-          "h": "La respuesta con salida",
-          "b": "«Ese ya se comprometió. Tengo dos parecidos en el mismo rango, ¿te paso fotos?»"
+          "label": "SE COBRA",
+          "h": "Y se *confirma solo*",
+          "b": "Captura recibida, pedido apartado.",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Ten lista tu alternativa",
-          "b": "· Dos opciones parecidas siempre a la mano\n· Una en el mismo rango, otra un poco arriba\n· Y la fecha en que entra algo nuevo"
+          "label": "SE ENTREGA",
+          "h": "Con *aviso* antes",
+          "b": "«Sale hoy a las 4» sin que nadie lo escriba."
         },
         {
-          "role": "stat",
-          "h": "Stock y chat, presentados.",
-          "b": "Sincronizamos lo que queda con lo que tu WhatsApp ofrece. Lo agotado sale de la conversación solo."
+          "role": "value",
+          "label": "AL DÍA SIGUIENTE",
+          "h": "Sale el *«¿llegó bien?»*",
+          "b": "Y ahí nace la segunda venta.",
+          "photo": "mostrador"
         },
         {
-          "role": "cta",
-          "h": "Nunca más un «ya no hay» pelado.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "De «hola» a «llegó bien» *sin apuntar nada*",
+          "b": "Escríbeme FUGA por DM y armamos el proceso completo, empezando por un paso chico."
         }
       ],
       "caption": {
-        "ig": "Cuando respondes «ya no hay», el cliente que venía decidido se va con las manos vacías. La respuesta con salida y las dos alternativas que deberías tener siempre listas. Guárdalo. Mándaselo a tu socio antes del lunes. #ventas #negociosperu #whatsapp",
-        "tt": "«Ya no hay»… y el cliente se fue con tu venta 🛒 · mándaselo a tu socio antes del lunes #negocios #ventas #peru",
-        "fb": "Cuando algo se agota hay dos respuestas: «ya no hay» (venta regalada) o «se acabó el A, pero el B hace lo mismo y hay» (venta salvada). La diferencia es una frase."
+        "ig": "Cómo organizar los pedidos de mi negocio de principio a fin. Entra con fecha y dueño, se cobra y se confirma solo con la captura, se entrega con aviso antes y al día siguiente sale el «¿llegó bien?» donde nace la segunda venta. Parte 4 de ordenando el negocio. ¿En qué paso se te cae? Escríbeme FUGA por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Así se ve un pedido cuando el negocio está ordenado: entra con dueño, se cobra solo, se entrega con aviso y al día siguiente pregunta si llegó bien. Parte 4. ¿En qué paso se te cae? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "De «hola» a «llegó bien» sin que nadie apunte nada: fecha y dueño al entrar, confirmación sola al cobrar, aviso al entregar y el mensaje del día siguiente. ¿En qué paso se te cae?"
       },
-      "alt": "Responder el agotado con alternativa en la misma frase."
+      "alt": "Cocina de restaurante en orden con el titular sobre cómo se ve un pedido cuando el negocio está ordenado, parte 4."
     },
     {
-      "slug": "25-te-yapeo",
+      "slug": "23-las-3-plantillas-de-cierre",
       "slides": [
         {
           "role": "cover",
-          "h": "Te dijeron «ahorita te yapeo» y ahí quedó",
-          "emoji": "💳"
+          "photo": "cuaderno",
+          "h": "Las 3 plantillas de cierre, *listas para copiar*",
+          "b": "tu mejor vendedor es un mensaje guardado"
         },
         {
           "role": "value",
-          "h": "El pago se cierra en el mismo chat",
-          "b": "Entre el «lo llevo» y el pago hay minutos de vida. Cada hora que pasa, el antojo se enfría."
+          "label": "OPCIONES",
+          "h": "Cópiala *tal cual*",
+          "b": "«Tengo A y B. ¿Cuál va contigo?»"
         },
         {
           "role": "value",
-          "h": "El mensaje de cobro completo",
-          "b": "«[Número], a nombre de [titular]. Mándame la captura y te confirmo al toque.» Todo en un mensaje, sin ida y vuelta."
+          "label": "AGENDA",
+          "h": "La que *más cierra*",
+          "b": "«¿Mañana o el jueves? Te reservo»",
+          "photo": "mostrador"
         },
         {
           "role": "value",
-          "h": "La captura se contesta al instante",
-          "b": "Después de pagar, el cliente está más nervioso que nunca. El «¡confirmado, sale hoy!» inmediato lo tranquiliza y lo hace volver."
+          "label": "SEPARAR",
+          "h": "El *empujón*",
+          "b": "«¿Lo separamos de una vez?»"
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "NUNCA",
+          "h": "«Última unidad» *si no es verdad*",
+          "b": "Se nota, y no vuelven.",
+          "photo": "papeles"
         },
         {
-          "role": "stat",
-          "h": "El cobro con su flujo completo.",
-          "b": "Le damos camino a cada cobro: datos completos, confirmación inmediata y pedido registrado."
-        },
-        {
-          "role": "cta",
-          "h": "Que ningún «te yapeo» se quede en promesa.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Los cierres *salen solos* en cada chat",
+          "b": "Escríbeme PLAN por DM y cada chat llega con su plantilla de cierre lista."
         }
       ],
       "caption": {
-        "ig": "El «ahorita te yapeo» que nunca llega se evita cerrando el pago en el mismo chat: datos completos en un mensaje y la captura confirmada al instante. Mándaselo a tu vendedor y que te diga qué haría. #ventas #yape #peru #negocios",
-        "tt": "«Ahorita te yapeo»… narrador: nunca yapeó 💳 · mándaselo a tu vendedor y que te diga qué haría #ventas #peru #negocios",
-        "fb": "Entre el «lo llevo» y el pago hay minutos de vida. Los datos completos en un solo mensaje y la confirmación inmediata de la captura cierran lo que el «ahorita te yapeo» deja abierto."
+        "ig": "Cómo cerrar ventas por WhatsApp con tres mensajes listos para copiar. Opciones: «tengo A y B, ¿cuál va contigo?». Agenda: «¿mañana o el jueves? te reservo». El empujón: «¿lo separamos de una vez?». Y nunca «última unidad» si no es verdad, porque se nota. ¿Cuál usas más? Escríbeme PLAN por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Las 3 plantillas de cierre listas para copiar: opciones, agenda y el empujón. Nunca «última unidad» si no es verdad. ¿Cuál usas más? Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "Tu mejor vendedor es un mensaje que ya tienes escrito: «tengo A y B, ¿cuál va contigo?», «¿mañana o el jueves?», «¿lo separamos de una vez?». ¿Cuál usas más?"
       },
-      "alt": "Cerrar el pago en el mismo chat: mensaje de cobro completo y confirmación de captura."
+      "alt": "Cuaderno abierto con mensajes apuntados y el titular sobre las tres plantillas de cierre listas para copiar."
     },
     {
-      "slug": "26-balon-de-oro",
+      "slug": "24-tu-respuesta-automatica-espanta",
       "slides": [
         {
           "role": "cover",
-          "h": "El Balón de Oro se gana entrenando un martes cualquiera",
-          "kicker": "BALÓN DE ORO",
-          "emoji": "🏆"
+          "photo": "celular-noche",
+          "h": "Tu respuesta automática dice «estimado usuario» y *espanta*"
         },
         {
           "role": "value",
-          "h": "Nadie gana por una jugada",
-          "b": "Los cracks entrenan cuando nadie mira. Tu versión: quince minutos de bandeja cada mañana, sin excepción."
+          "label": "ASÍ NO",
+          "h": "«Estimado usuario, *mensaje procesado*»",
+          "b": "Nadie habla así. Ni tú."
         },
         {
           "role": "value",
-          "h": "El ritual 5·5·5",
-          "b": "· 5 nuevos respondidos a fondo\n· 5 fríos retomados\n· 5 antiguos saludados con motivo\n· Quince minutos, nada más"
+          "label": "ASÍ SÍ",
+          "h": "Tu nombre y *una hora*",
+          "b": "«Soy Carla. Te respondo antes de las 9»",
+          "photo": "mostrador"
         },
         {
           "role": "value",
-          "h": "Registra el ritual",
-          "b": "Apunta un check por día y cuenta los cierres a fin de mes. Con tu propio número decides si sigue."
+          "label": "ASÍ NO",
+          "h": "Diez preguntas *de formulario*",
+          "b": "Es un interrogatorio de madrugada."
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "ASÍ SÍ",
+          "h": "*Una* pregunta",
+          "b": "«¿Para cuándo? Si es urgente, escribe URGENTE»",
+          "photo": "cuaderno"
         },
         {
-          "role": "stat",
-          "h": "La lista del día, servida.",
-          "b": "Te armamos cada mañana los cinco nuevos, cinco fríos y cinco antiguos que tocan."
-        },
-        {
-          "role": "cta",
-          "h": "Hoy dan el balón. Tú entrena tu 5·5·5.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Automático por fuera, *tú* por dentro",
+          "b": "Escríbeme PRUEBA por DM y escribimos tu guion: suena a ti y siempre termina en una persona."
         }
       ],
       "caption": {
-        "ig": "Hoy dan el Balón de Oro: se gana entrenando martes, no con una jugada. El ritual 5·5·5 de quince minutos diarios (nuevos, fríos, antiguos) y el check que lo mide. Mándaselo a quien atiende cuando tú no estás. #balondeoro #ventas #peru #negocios",
-        "tt": "El Balón de Oro de las ventas: 15 minutos diarios 🏆 · mándaselo a quien atiende cuando tú no estás #balondeoro #ventas #peru",
-        "fb": "Mientras dan el Balón de Oro: en ventas también gana el que entrena a diario. 5 nuevos, 5 fríos y 5 antiguos cada mañana. ¿Aceptas el reto por un mes?"
+        "ig": "Cómo escribir el mensaje automático de WhatsApp Business de mi negocio. Así no: «estimado usuario, mensaje procesado» y diez preguntas de formulario. Así sí: tu nombre, una hora en la que respondes y una sola pregunta con salida a persona si es urgente. ¿Qué dice el tuyo hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Tu respuesta automática dice «estimado usuario» y espanta. Así sí: tu nombre, una hora y una sola pregunta. ¿Qué dice el tuyo hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+        "fb": "«Estimado usuario, mensaje procesado». Nadie habla así, ni tú. El mensaje automático que funciona lleva tu nombre, una hora y una sola pregunta. ¿Qué dice el tuyo hoy?"
       },
-      "alt": "Ritual diario 5·5·5 de seguimiento comercial."
+      "alt": "Celular de noche mostrando un mensaje automático y el titular sobre la respuesta que dice estimado usuario."
     },
     {
-      "slug": "27-guion-asistente",
+      "slug": "25-el-llego-bien-del-dia-siguiente",
       "slides": [
         {
           "role": "cover",
-          "h": "Tu respuesta automática también necesita un guion",
-          "emoji": "🎭"
+          "photo": "taller",
+          "h": "El mensaje del día siguiente que casi nadie manda: *«¿llegó bien?»*"
         },
         {
           "role": "value",
-          "h": "Suena a tu negocio o estorba",
-          "b": "Así no: «estimado usuario, mensaje procesado»\nAsí sí: tu nombre, tiempo honesto, salida a persona"
+          "label": "DÍA SIGUIENTE",
+          "h": "Cópialo *tal cual*",
+          "b": "«¿Llegó todo bien? ¿Alguna duda con lo tuyo?»"
         },
         {
           "role": "value",
-          "h": "Califica, no interroga",
-          "b": "Así no: diez preguntas de formulario\nAsí sí: ¿para cuándo, para qué uso, cómo pagas?"
+          "label": "SI CONTESTA FELIZ",
+          "h": "Pide *ahí mismo*",
+          "b": "«¿Conoces a alguien buscando esto?»",
+          "photo": "mostrador"
         },
         {
           "role": "value",
-          "h": "Lo que nunca responde solo",
-          "b": "Así no: reclamos contestados por máquina\nAsí sí: reclamo detectado, humano al instante"
+          "label": "SI HAY PROBLEMA",
+          "h": "Lo salvas *antes* del reclamo",
+          "b": "En privado, no en tu Instagram."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "POR QUÉ",
+          "h": "El atendido *después de pagar*",
+          "b": "Es el que te recomienda.",
+          "photo": "papeles"
         },
         {
-          "role": "stat",
-          "h": "El guion no viene de fábrica.",
-          "b": "Lo construimos contigo: suena a tu negocio y siempre hay una persona al final."
-        },
-        {
-          "role": "cta",
-          "h": "Automático por fuera, tú por dentro.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "El «¿llegó bien?» *sale solo* al día siguiente",
+          "b": "Escríbeme FUGA por DM y cada entrega dispara su mensaje y guarda la respuesta."
         }
       ],
       "caption": {
-        "ig": "Un asistente automático sin guion espanta: debe sonar a tu negocio con tiempo honesto, calificar con tres preguntas en vez de interrogar y pasar los reclamos a una persona al instante. Mándaselo al que se queda a cargo el fin de semana. #automatizacion #whatsapp #negocios #peru #ia",
-        "tt": "Lo que responde solo por ti necesita guion 🎭 · mándaselo al que se queda a cargo el fin de semana #whatsapp #automatizacion #peru",
-        "fb": "Automatizar sin guion es poner un robot antipático en tu puerta. El asistente que funciona suena a tu negocio, califica con tres preguntas y deriva los reclamos a una persona de inmediato."
+        "ig": "Cómo conseguir recomendaciones de clientes en mi negocio con un solo mensaje. Al día siguiente de entregar: «¿llegó todo bien? ¿alguna duda con lo tuyo?». Si contesta feliz, pides ahí mismo si conoce a alguien buscando esto; si hay problema, lo salvas en privado antes del reclamo público. El atendido después de pagar es el que te recomienda. ¿Tú lo mandas? Escríbeme FUGA por DM. #negociopropio #emprendedoresperu",
+        "tt": "El «¿llegó bien?» del día siguiente vende más que tu publicidad: si contesta feliz pides el referido ahí mismo, si hay problema lo salvas antes del reclamo. ¿Tú lo mandas? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "El cliente atendido después de pagar es el que te recomienda. Un mensaje al día siguiente de entregar abre el referido o salva el reclamo antes de que sea público. ¿Tú lo mandas?"
       },
-      "alt": "Reglas de guion para asistentes automáticos: tono propio, calificar sin interrogar, reclamos con humano."
+      "alt": "Taller con un trabajo terminado y el titular sobre el mensaje del día siguiente que vende más que la publicidad."
     },
     {
-      "slug": "28-base-limpia",
+      "slug": "26-no-bajes-tu-precio-contesta-primero",
       "slides": [
         {
           "role": "cover",
-          "h": "Tu lista de contactos tiene más números muertos que clientes",
-          "emoji": "🧹"
+          "photo": "mostrador",
+          "h": "No bajes tu precio para ganar la venta. *Contesta primero.*"
         },
         {
           "role": "value",
-          "h": "La limpieza antes de Navidad",
-          "b": "Último contacto hace más de un año y sin compra: archivar. Duplicados: fusionar. Sin nombre: bautizar o borrar."
+          "label": "LO CARO",
+          "h": "Bajar el precio *regala margen*",
+          "b": "Al que solo te ganó en velocidad."
         },
         {
           "role": "value",
-          "h": "Etiquetas que sirvan en diciembre",
-          "b": "«Compró 2026», «preguntó y nada», «recurrente». Tres etiquetas bastan para que la campaña navideña no salga al voleo."
+          "label": "LO BARATO",
+          "h": "Contestar *primero*",
+          "b": "Al que le contestan primero deja de comparar.",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "ESTA SEMANA",
+          "h": "Precio *o* hora",
+          "b": "Si no tienes el número, da la hora."
         },
         {
-          "role": "stat",
-          "h": "Una base que se limpia sola.",
-          "b": "Fusionamos, etiquetamos y guardamos la historia de cada cliente."
+          "role": "value",
+          "label": "Y MIDE",
+          "h": "En cuánto *contestas* de verdad",
+          "b": "Un sábado. A las 11 de la noche.",
+          "photo": "cuaderno"
         },
         {
-          "role": "cta",
-          "h": "Limpia 20 contactos hoy.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Contestar primero *se automatiza*, el descuento se paga",
+          "b": "Escríbeme PLAN por DM y armamos que la primera respuesta salga sola con su pregunta, y el cliente entre calificado a tu lista."
         }
       ],
       "caption": {
-        "ig": "Antes de la campaña navideña: limpieza de base. Qué archivar, qué fusionar y las 3 etiquetas que hacen que diciembre no salga al voleo. Guárdalo para esta semana. Mándaselo al del negocio de al lado, le pasa igual. #crm #navidad #peru #negocios",
-        "tt": "Tu lista está llena de fantasmas 🧹 · mándaselo al del negocio de al lado, le pasa igual #negocios #crm #peru",
-        "fb": "La campaña de diciembre rinde según la base de noviembre: archivar los muertos, fusionar los duplicados y tres etiquetas que ordenan todo. Empieza con 20 contactos hoy."
+        "ig": "Cómo vender más por WhatsApp sin bajar el precio. Bajar el precio regala margen a alguien que solo te ganó en velocidad: al que le contestan primero deja de comparar. Esta semana da precio o da hora, nunca silencio, y mide en cuánto contestas de verdad un sábado a las 11 de la noche. ¿Precio o rapidez? Escríbeme PLAN por DM. #ventasporwhatsapp #emprendedoresperu",
+        "tt": "No bajes tu precio, contesta primero: al que le contestan primero deja de comparar. Precio o hora, nunca silencio. ¿Precio o rapidez? Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "El descuento es la jugada más cara: regalas margen a alguien que solo te ganaba en velocidad. Al que le contestan primero deja de comparar. ¿Precio o rapidez?"
       },
-      "alt": "Limpieza y etiquetado de base de clientes antes de Navidad."
+      "alt": "Mostrador de negocio con el titular sobre no bajar el precio y contestar primero."
     },
     {
-      "slug": "29-apartado-navideno",
+      "slug": "27-vende-hoy-lo-que-entregas-en-diciembre",
       "slides": [
         {
           "role": "cover",
-          "h": "Vende hoy lo que entregas en diciembre",
+          "photo": "cuaderno",
           "kicker": "CAMPAÑA NAVIDEÑA",
-          "emoji": "🎁"
+          "h": "Vende hoy lo que entregas en diciembre: *el apartado navideño*"
         },
         {
           "role": "value",
-          "h": "El regalo grande se decide temprano",
-          "b": "· La bici, el anillo, la consola\n· En octubre tu cliente compara con calma; en diciembre compra apurado y donde sea"
+          "label": "POR QUÉ HOY",
+          "h": "Lo grande *se decide antes*",
+          "b": "En diciembre compra apurado, donde sea."
         },
         {
           "role": "value",
-          "h": "El guion del apartado navideño",
-          "b": "«¿Te lo aparto para Navidad? Queda a tu nombre y lo recoges en diciembre listo para regalar.» El sí temprano no se escapa."
+          "label": "EL MENSAJE",
+          "h": "Cópialo *tal cual*",
+          "b": "«¿Te lo aparto para Navidad? Queda a tu nombre»",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "Todo apartado vive en una lista con fecha",
-          "b": "· Qué es, de quién, cuándo lo recoge\n· Una semana antes, el aviso: «tu regalo te espera»"
+          "label": "CADA APARTADO",
+          "h": "En una lista *con fecha*",
+          "b": "Qué es, de quién, cuándo lo recoge."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "UNA SEMANA ANTES",
+          "h": "El *aviso*",
+          "b": "«Tu regalo te espera». Y viene.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "Cada apartado guarda su fecha de aviso.",
-          "b": "Registramos cada apartado y disparamos el recordatorio cuando toca."
-        },
-        {
-          "role": "cta",
-          "h": "Ofrece el primer apartado navideño hoy.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "El apartado navideño *se avisa solo*",
+          "b": "Escríbeme PRUEBA por DM y cada apartado queda registrado con su recordatorio, sin que nadie apunte."
         }
       ],
       "caption": {
-        "ig": "La campaña navideña empieza en octubre: el guion del apartado («queda a tu nombre, lo recoges en diciembre») y la lista con fecha de recojo y aviso. Guárdalo para tu primera venta de mañana. Mándaselo a tu equipo, no a tu bandeja. #navidad #ventas #peru #negocios",
-        "tt": "La Navidad se vende desde octubre 🎁 · mándaselo a tu equipo, no a tu bandeja #navidad #ventas #peru",
-        "fb": "El regalo grande se decide en octubre, con calma. El negocio que ofrece apartarlo hoy se lleva la venta que diciembre habría repartido a cualquiera."
+        "ig": "Cómo organizar los apartados navideños de mi negocio desde octubre. El regalo grande se decide antes: en diciembre tu cliente compra apurado y donde sea. «¿Te lo aparto para Navidad? Queda a tu nombre», cada apartado en una lista con fecha y una semana antes el aviso de que su regalo lo espera. ¿Ya te pidieron algo para Navidad? Escríbeme PRUEBA por DM. #negociopropio #emprendedoresperu",
+        "tt": "Vende hoy lo que entregas en diciembre: «¿te lo aparto para Navidad? queda a tu nombre», lista con fecha y aviso una semana antes. ¿Ya te pidieron algo para Navidad? Escríbeme PRUEBA por DM. #negociopropio",
+        "fb": "El regalo grande se decide en octubre con calma; en diciembre se compra apurado y donde sea. El apartado navideño con lista y aviso se lleva el sí temprano. ¿Ya te pidieron algo para Navidad?"
       },
-      "alt": "Guion del apartado navideño y lista con fecha de recojo."
+      "alt": "Cuaderno de apartados de un negocio con el titular sobre vender hoy lo que se entrega en diciembre."
     },
     {
-      "slug": "30-halloween",
+      "slug": "28-el-solo-preguntaba-compra-en-diciembre",
       "slides": [
         {
           "role": "cover",
-          "h": "Compraste un sistema y hoy nadie lo abre",
-          "kicker": "HALLOWEEN",
-          "emoji": "🕸"
+          "photo": "celular-noche",
+          "kicker": "CAMPAÑA NAVIDEÑA",
+          "h": "El que «solo preguntaba» en octubre *compra en diciembre*"
         },
         {
           "role": "value",
-          "h": "La cicatriz de casi todo negocio",
-          "b": "Pagaste una web, un sistema o un bot. Hoy nadie entra ahí. Y te quedó la sensación de haber botado la plata.",
-          "emoji": "😤"
+          "label": "EN CAMPAÑA",
+          "h": "Preguntar ya es *intención*",
+          "b": "Comparó y no cerró. Falta que vuelvas."
         },
         {
           "role": "value",
-          "h": "Casi nunca falla el software",
-          "b": "Falla que nadie se quedó a hacerlo funcionar el segundo mes, cuando el equipo vuelve a su cuaderno."
+          "label": "HOY",
+          "h": "Apúntalo *con fecha*",
+          "b": "Qué preguntó y cuándo escribirle.",
+          "photo": "cuaderno"
         },
         {
           "role": "value",
-          "h": "Las 3 preguntas antes de comprar el siguiente",
-          "b": "· ¿Quién lo opera el mes 2?\n· ¿A quién le escribo si se cae?\n· ¿Lo puedo cortar cuando quiera?"
+          "label": "A LA SEMANA",
+          "h": "Vuelve con *algo nuevo*",
+          "b": "«Llegó de nuevo lo que preguntaste»"
         },
         {
           "role": "value",
-          "mention": "B",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Venta de lotes y terrenos\n· Constructoras y arquitectos\n· Cocinas y closets a medida\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "EN DICIEMBRE",
+          "h": "Tu campaña ya *tiene nombres*",
+          "b": "Los de hoy. Vale hasta enero.",
+          "photo": "mostrador"
         },
         {
-          "role": "stat",
-          "h": "Nosotros nos quedamos después de entregarlo",
-          "b": "No te vendemos un sistema y desaparecemos: operamos tus automatizaciones mes a mes, sobre el WhatsApp que ya usas."
-        },
-        {
-          "role": "cta",
-          "h": "Que no te vuelva a pasar.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «FUGA» por DM."
+          "role": "closer",
+          "h": "Cada «solo preguntaba» *queda guardado*",
+          "b": "Escríbeme FUGA por DM y cada interesado entra con su fecha de recontacto, sin que nadie apunte."
         }
       ],
       "caption": {
-        "ig": "Lo que de verdad asusta en un negocio: el sistema que pagaste y que hoy nadie abre. Casi nunca falla el software, falla que nadie se queda a hacerlo funcionar. Las 3 preguntas que deberías hacer antes de comprar el siguiente. Mándaselo al que contesta tu WhatsApp. #tecnologia #pymes #negociosperu #automatizacion",
-        "tt": "El sistema que compraste y hoy nadie abre 🕸 · mándaselo al que contesta tu WhatsApp #negociosperu #pymes",
-        "fb": "Todos tenemos uno: la web, el sistema o el bot que pagamos y que hoy nadie abre. No fallaste tú y casi nunca falló el software: falló que nadie se quedó a hacerlo funcionar. Antes de comprar el siguiente, hazte estas tres preguntas."
+        "ig": "Cómo hacer seguimiento a los clientes que preguntaron y no compraron antes de la campaña navideña. En campaña preguntar ya es intención: comparó y no cerró, solo falta que vuelvas. Apúntalo con fecha, a la semana vuelve con algo nuevo, y en diciembre tu campaña ya tiene nombres. ¿Cuántos te preguntaron y no compraron? Escríbeme FUGA por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "El que «solo preguntaba» en octubre compra en diciembre. Apúntalo con fecha, vuelve con algo nuevo, y tu campaña ya tiene nombres. ¿Cuántos te preguntaron y no compraron? Escríbeme FUGA por DM. #ventasporwhatsapp",
+        "fb": "En campaña preguntar ya es intención. El que comparó y no cerró en octubre compra en diciembre si alguien vuelve con algo nuevo. ¿Cuántos te preguntaron y no compraron?"
       },
-      "alt": "Portada: el sistema que compraste y hoy nadie abre; la cicatriz de casi todo negocio."
+      "alt": "Celular de noche con chats abiertos y el titular sobre el que solo preguntaba en octubre y compra en diciembre."
     },
     {
-      "slug": "31-estamos-en-cyber-wow",
+      "slug": "29-tres-etiquetas-antes-de-la-campana",
       "slides": [
         {
           "role": "cover",
-          "h": "De nada sirve el descuento si nadie contesta el chat",
-          "kicker": "SEMANA DE OFERTAS",
-          "emoji": "💸"
+          "photo": "papeles",
+          "kicker": "CAMPAÑA NAVIDEÑA",
+          "h": "Esta noche etiqueta 20 contactos con *estas 3 etiquetas*"
         },
         {
           "role": "value",
-          "h": "Pagaste dos veces por ese cliente",
-          "b": "Una en publicidad para que te escriba, otra en margen para convencerlo. Y se fue igual."
+          "label": "ETIQUETA 1",
+          "h": "*Compró* este año",
+          "b": "Le escribes primero en diciembre."
         },
         {
           "role": "value",
-          "h": "La fuga está al final, no al inicio",
-          "b": "Tu contenido y tus anuncios sí funcionan: traen mensajes. El problema empieza cuando llegan."
+          "label": "ETIQUETA 2",
+          "h": "*Preguntó* y nada",
+          "b": "Le escribes con algo nuevo.",
+          "photo": "celular-noche"
         },
         {
           "role": "value",
-          "h": "Antes de subir el presupuesto",
-          "b": "· Cuenta los «hola» sin responder\n· Cuenta las cotizaciones sin seguimiento\n· Recién ahí, invierte más"
+          "label": "ETIQUETA 3",
+          "h": "*Recurrente*",
+          "b": "Le escribes para agradecer, no para vender."
         },
         {
           "role": "value",
-          "mention": "A",
-          "h": "Dónde vemos esto todos los días",
-          "b": "· Lotes de autos\n· Bodas y eventos\n· Inmobiliarias\n· Y cualquier negocio que venda por WhatsApp"
+          "label": "Y LOS DEMÁS",
+          "h": "Sin nombre: *bautiza o borra*",
+          "b": "Más de un año sin hablar: archiva.",
+          "photo": "cuaderno"
         },
         {
-          "role": "stat",
-          "h": "Primero tapa la fuga, después acelera",
-          "b": "Te armamos un asistente sobre tu mismo WhatsApp para que ningún mensaje que ya pagaste se quede sin respuesta."
-        },
-        {
-          "role": "cta",
-          "h": "Cuenta tus mensajes sin responder.",
-          "b": "Es tu mismo WhatsApp: no instalas nada.\nEscríbeme «DEPENDE» por DM."
+          "role": "closer",
+          "h": "Las etiquetas *se ponen solas* al entrar",
+          "b": "Escríbeme PLAN por DM y cada contacto entra clasificado, con su historia y su fecha."
         }
       ],
       "caption": {
-        "ig": "Antes de subir el presupuesto de anuncios: abre tu WhatsApp y cuenta los «hola, información» sin responder. Conseguir el mensaje te costó plata; perderlo fue gratis. Guárdalo para antes de tu próxima campaña. Mándaselo a tu socio antes del lunes. #publicidad #ventas #negociosperu #whatsapp",
-        "tt": "Descuento sin respuesta es descuento regalado 💸 · mándaselo a tu socio antes del lunes #negociosperu #ventas",
-        "fb": "Pagas anuncios para que te escriban y das descuento para convencerlos. Si el mensaje se queda sin responder, pagaste dos veces por un cliente que igual se fue."
+        "ig": "Cómo ordenar los contactos de WhatsApp de mi negocio antes de la campaña navideña. Tres etiquetas bastan: compró este año (le escribes primero), preguntó y nada (le escribes con algo nuevo) y recurrente (le escribes para agradecer, no para vender). Los sin nombre se bautizan o se borran. Guárdalo para la noche que limpies tus contactos. Escríbeme PLAN por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Esta noche etiqueta 20 contactos con 3 etiquetas: compró este año, preguntó y nada, recurrente. Los sin nombre, bautiza o borra. ¿Cuántos contactos sin nombre tienes? Escríbeme PLAN por DM. #negociopropio",
+        "fb": "La campaña navideña sale al voleo si la lista no tiene etiquetas. Tres bastan: compró este año, preguntó y nada, recurrente. Los sin nombre se bautizan o se borran. ¿Cuántos contactos sin nombre tienes?"
       },
-      "alt": "Portada: descuento sin respuesta es descuento regalado; pagaste dos veces por ese cliente."
+      "alt": "Papeles con listas de contactos y el titular sobre etiquetar veinte contactos esta noche con tres etiquetas."
+    },
+    {
+      "slug": "30-cuenta-los-hola-informacion",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "celular-noche",
+          "h": "Abre tu WhatsApp y cuenta los *«hola, información»* sin responder"
+        },
+        {
+          "role": "value",
+          "label": "AHORA",
+          "h": "Busca *«información»*",
+          "b": "La lupa del WhatsApp. Cuenta los sin respuesta."
+        },
+        {
+          "role": "value",
+          "label": "ESE NÚMERO",
+          "h": "Es lo que *ya pagaste*",
+          "b": "Cada uno vino de un post o de un anuncio.",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "HOY",
+          "h": "Escríbeles *sin excusa*",
+          "b": "«Recién te leo, disculpa. ¿Aún lo necesitas?»"
+        },
+        {
+          "role": "value",
+          "label": "MAÑANA",
+          "h": "Que *ninguno* quede sin dueño",
+          "b": "Cada «hola» con quién contesta y cuándo.",
+          "photo": "mostrador"
+        },
+        {
+          "role": "closer",
+          "h": "Los «hola, información» *ya no se acumulan*",
+          "b": "Escríbeme PRUEBA por DM y cada mensaje que ya pagaste entra con respuesta y con dueño."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo saber cuántas ventas se me están cayendo en WhatsApp este mes. Busca «información» en la lupa y cuenta los que quedaron sin respuesta: cada uno vino de un post o de un anuncio que ya pagaste. Hoy les escribes «recién te leo, disculpa, ¿aún lo necesitas?» y desde mañana ninguno queda sin dueño. ¿Cuántos contaste? Escríbeme PRUEBA por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Abre tu WhatsApp, busca «información» y cuenta los que quedaron sin respuesta. Ese número es lo que ya pagaste. ¿Cuántos contaste? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+        "fb": "Busca «información» en la lupa de tu WhatsApp y cuenta los que quedaron sin respuesta. Cada uno vino de un post o de un anuncio que ya pagaste. ¿Cuántos contaste?"
+      },
+      "alt": "Celular de noche con la búsqueda de WhatsApp abierta y el titular sobre contar los hola información sin responder."
+    },
+    {
+      "slug": "31-cobra-el-fin-de-mes-sin-pelear",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "mostrador",
+          "kicker": "FIN DE MES",
+          "h": "Cobra el fin de mes sin pelear: *el recordatorio va antes*"
+        },
+        {
+          "role": "value",
+          "label": "ANTES",
+          "h": "Tres días *antes*",
+          "b": "«El viernes vence lo tuyo. ¿Te mando el número?»"
+        },
+        {
+          "role": "value",
+          "label": "EL DÍA",
+          "h": "Sin *reproche*",
+          "b": "«Hoy vence. Con la captura te confirmo al toque»",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "SI NO PAGA",
+          "h": "Termina con *fecha nueva*",
+          "b": "«¿El lunes te queda bien?» y lo apuntas."
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Cobrar es una *secuencia*",
+          "b": "No un impulso cuando te acuerdas.",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "closer",
+          "h": "El recordatorio *sale antes* sin que te acuerdes",
+          "b": "Escríbeme FUGA por DM y armamos tu cobranza: antes, el día y la fecha nueva, solos."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo cobrar a clientes a fin de mes sin pelear. El recordatorio va tres días antes («el viernes vence lo tuyo, ¿te mando el número?»), el día sin reproche («hoy vence, con la captura te confirmo al toque») y si no paga termina con fecha nueva apuntada. Cobrar es una secuencia, no un impulso cuando te acuerdas. ¿Cobras antes o después? Escríbeme FUGA por DM. #negociopropio #emprendedoresperu",
+        "tt": "Cobra el fin de mes sin pelear: recordatorio tres días antes, el día sin reproche, y si no paga, fecha nueva. Cobrar es una secuencia. ¿Cobras antes o después? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "Cobrar es una secuencia, no un impulso cuando te acuerdas: tres días antes, el día, y una fecha nueva si no paga. Ninguno de los tres mensajes pelea. ¿Cobras antes o después?"
+      },
+      "alt": "Mostrador de negocio a fin de mes con el titular sobre cobrar sin pelear porque el recordatorio va antes."
     }
   ]
 }

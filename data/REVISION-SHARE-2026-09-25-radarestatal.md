@@ -1,0 +1,48 @@
+# Radar Estatal · octubre · revisión RONDA 7 (test del scroll aburrido)
+
+**Fecha:** 2026-09-25 · **Archivo:** `brands/radarestatal/posts/oct.json` (31 posts, formato F1)
+**Validador:** `python tools/validate_f1.py radarestatal oct` → 31 posts, 0 errores, 0 warnings.
+
+Diagnóstico de partida: los 31 posts viejos eran «dato de manual sin asimetría» (patrón muerto nº4, banda @bial.licitaciones ~208) y 13 de ellos usaban mecanismos que NO están en `RESEARCH-RADAR-2026-09.md` ni en `BRAND.md` (catálogos de Perú Compras, penalidad 10%, adelantos, arbitraje, impedidos, orden de prelación, cancelación, proforma, marcas en EETT, relación de ítems, comportamiento de entidades en el cierre). Esos temas se cambiaron; nada se publica sin fuente.
+
+Razones: **a** = para un tercero · **b** = asimetría (casi nadie lo sabe) · **c** = reconocimiento · **d** = emoción alta verificable.
+
+| Día | Portada nueva | Razón (letra + una línea) | Comentario esperado |
+|---|---|---|---|
+| 01 | Venderle al Estado empieza con *dos papeles* que ya casi tienes | a. serie «desde cero» 1/4: se manda al socio que cree que licitar es para grandes | «parte 2 ya» |
+| 02 | Una empresa chica le vende al Estado por *dos puertas* | a+b. 2/4: contrato menor por invitación en plataforma vs proceso con registro gratis | «contrato menor» |
+| 03 | Al Estado no siempre le gana el *más barato* | b. 3/4: el precio pesa máx. 40/100; en subasta inversa gana el menor monto | «me entero hoy» |
+| 04 | Entregaste al Estado y todavía *no te deben* nada | a. 4/4: recibir ≠ conformidad; 7 días calendario + 10 hábiles; va a quien factura | «así es» |
+| 05 | Hay licitaciones del Estado donde *nadie se presenta* | b+d. mito «todo arreglado» vs las tres causas de desierto, verificables en el SEACE | «no sabía» |
+| 06 | Sin estos *cuatro papeles* tu oferta al Estado ni se lee | a. objeto: checklist de admisión (art. 69.1) para quien arma la oferta | «¿pacto de integridad?» |
+| 07 | Una licitación tarda *22 días hábiles* como mínimo | b. cierre fiscal 1/2: la cuenta regresiva sale de los plazos mínimos de la norma | «recién hoy» |
+| 08 | El feriado frena tu plazo de oferta, *no* tu plazo de entrega | b+a. cierre fiscal 2/2 (jueves de Angamos): hábiles en selección, calendario en ejecución | «¿y el sábado?» |
+| 09 | Lo que tu socio de consorcio *firma sin leer* | a. promesa de consorcio, calificación, RNP y lista de sancionados: se manda al socio | «se lo mando» |
+| 10 | Si el Estado te paga tarde, la ley dice *de quién es la falta* | d. indignación con fuente: 10 días hábiles, intereses, falta grave del funcionario | «después, siempre» |
+| 11 | Una MYPE puede firmar con el Estado *sin carta fianza* | b. «usted SÍ puede»: retención de pago sin límite de monto (Ley 32069) | «no sabía» |
+| 12 | La ley nueva cambió *cuatro reglas* que le importan a una MYPE | b. ley nueva 1/2: norma con nombre, cuatro cambios concretos | «la 3» |
+| 13 | El reglamento cambió *104 artículos* y tu PDF puede ser el viejo | b+a. ley nueva 2/2: DS 001-2026-EF, bases estándar nuevas; va a quien arma ofertas | «¿dónde descargo?» |
+| 14 | Hay entidades que publican lo que van a comprar *antes* de convocar | b+c. difusión del requerimiento, indagación, reuniones; «si te pidieron cotizar, ya postulaste» | «sí, varias veces» |
+| 15 | Hay licitaciones donde *no puedes preguntar* nada | b. consultas y observaciones: quién, cuánto, y que no existe en subasta inversa ni comparación | «me entero hoy» |
+| 16 | Hay licitaciones donde gana el *menor precio* y punto | b. subasta inversa: sin tope de 40, una sola persona evalúa, hora exacta en lances | «subasta» |
+| 17 | Por qué perdiste la buena pro *está escrito* y es público | b+c. sustento de la buena pro y acceso del postor al expediente | «solo el resultado» |
+| 18 | Con una sola oferta, la licitación *también se adjudica* | b. «usted SÍ puede»: una oferta válida basta, consentimiento el mismo día | «sí, una vez» |
+| 19 | Cuando cambian al funcionario, revisa *tres registros* públicos | a+b. designación en El Peruano, cronograma, registro de visitas; cero insinuación | «se lo mando» |
+| 20 | Si te equivocas en una suma, los evaluadores la *corrigen* por ti | b. error aritmético de oficio, precio unitario firme, omisión subsanable 2+2 días | «no sabía» |
+| 21 | Al Estado le importan *cinco requisitos* y tu oficina no es uno | b. los cinco requisitos de calificación (art. 72.3) matan el mito de la fachada | «la experiencia» |
+| 22 | En enero cada entidad publica su *lista de compras* del año | b. PAC 2027: cuatro datos por ítem, se modifica, estar ahí no es requisito | «nunca» |
+| 23 | Tu experiencia ante el Estado se mide en *soles facturados* | b. experiencia 1/2: monto facturado, diez años, tope 3× cuantía, veinte contrataciones | «¿cuenta subcontrato?» |
+| 24 | Tu factura a un privado vale ante el Estado solo *pagada* | a+b. experiencia 2/2: la trampa del comprobante cancelado; MYPE 25%; va al contador | «se lo mando» |
+| 25 | La entidad puede postergar la licitación, *tú no* puedes | c+b. reconocimiento del oficio: ventana 00:01–23:59, nunca la víspera | «sí, dos veces» |
+| 26 | Apelar una buena pro le cuesta a una MYPE *seis veces menos* | b. 0.5% vs 3%, 8/5 días hábiles, Tribunal >50 UIT, las bases no se apelan | «no sabía» |
+| 27 | Las compras chicas del Estado se publican *hasta el último pago* | b. contratos menores: ciclo completo registrado, orden de compra, no impugnables | «me entero hoy» |
+| 28 | Entre la buena pro y la firma corren *cuatro plazos* | a. apelación, papeles, firma, verificación posterior; va a quien lleva los papeles | «se lo mando» |
+| 29 | Si tu competidor ganó con un papel *inexacto*, pierde la buena pro | d. alivio verificable: verificación posterior sin muestreo, nulidad, Tribunal, lista pública | «no sabía» |
+| 30 | Cuatro palabras para hablar como *proveedor del Estado* | a+b. diccionario 1/2: objeto para guardar (convocatoria, bases, buena pro, desierto) | «desierto» |
+| 31 | Cuatro palabras más para hablar como *proveedor del Estado* | a+b. diccionario 2/2: participante, postor, cuantía (corrige valor referencial), RNP | «consorcio» |
+
+**Resumen.** Cinco mini-series de días seguidos (desde cero 01–04, cierre fiscal 07–08, ley nueva 12–13, experiencia 23–24, diccionario 30–31) y 20 unidades con razón de compartir en la portada; 9 captions piden envío a UNA persona (socio, contador, quien factura, quien arma la oferta), 20 hacen una pregunta respondible en tres palabras, 2 (solo IG) piden guardado con ocasión; ningún TT pide guardado, ninguno pide likes. Kickers: 27 «PROVEEDOR DEL ESTADO», 07–08 «CIERRE DEL AÑO FISCAL», 12–13 «LEY 32069», 22 «PAC 2027»; cero fechas impresas, cero humor, cero festividades, cero emojis en láminas.
+
+**Verificado contra `RESEARCH-RADAR-2026-09.md` y `BRAND.md` (todo lo afirmado):** cuantía no publicada por regla (Regl. 53.4) · precio ≤40/100 y excepciones subasta inversa/comparación (75.1) · orden admisión→calificación→técnica→económica y los cuatro documentos de admisión (69.1, 70.2) · cinco requisitos de calificación (72.3) · evaluadores: oficial de compra una persona, comité, jurado (56–60) · consultas ≥7 días hábiles, 3 en abreviadas, solo participantes, bases integradas definitivas, inexistente en SIE y comparación (62, 64.1, 66) · 22 días hábiles convocatoria→ofertas, postergación registrada, ventana 00:01–23:59, hábiles en selección y calendario en ejecución (64, bases estándar, 62.2, 105.3) · subsanación: omisión de documento preexistente, errores aritméticos de oficio sin variar precios unitarios, 2+2 días hábiles (78) · buena pro con sustento, expediente para participantes y postores sin ofertas no admitidas (80, 79.2) · consentimiento mismo día con una sola oferta, 8/5 días hábiles para documentos, firma ≤3 (+4) (82, 90) · verificación posterior al ganador en 10 días hábiles, nulidad, TCP, lista de sancionados 5 años pública (83, Ley 87/90/92.6) · experiencia: monto facturado, diez años en bienes, ≤3× cuantía, veinte contrataciones, comprobante pagado obligatorio con privados, MYPE ≤25% en abreviada (bases estándar RD 0001-2026, Regl. 131) · apelación: 8/5 días hábiles, TCP >50 UIT, garantía 3% / MYPE 0.5% (Ley 73–74, Regl. 304, 309 + Ley 32187) · conformidad 7/20 días calendario, «la sola recepción no constituye conformidad», pago ≤10 días hábiles +5, intereses, falta grave, factura negociable (Regl. 144, Ley 67) · contratos menores ≤8 UIT: dentro de la ley, registro de todo el ciclo, cotización por plataforma a RNP del rubro, orden de compra, no impugnables (Ley 34, Regl. 226.2, 228, 303.b) · desierto: tres causas (84.1) · interacción con el mercado: difusión del requerimiento en Pladicop, indagación no publicada, reuniones, igualdad de trato (47–51, 56.6) · PAC: tipo, cuantía, mes referencial, modificable, inclusión no requisito (RD 0006-2025 §4.4–4.5) · designaciones en El Peruano y Registro de Visitas en tiempo real con motivo tipificado (DS 120-2019-PCM) · DS 001-2026-EF 104 artículos vigente 14/01/2026, bases estándar RD 0001-2026, OSCE→OECE, Pladicop→SEACE progresivo, compendio OECE en gob.pe · garantías MYPE por retención de pago sin límite, fideicomiso y seguro (BRAND §8) · RNP indefinido, se cae por RUC no habido o inhabilitación (BRAND §2). El post 31 corrige el error viejo: «valor estimado / referencial» → «cuantía de la contratación». No se imprime la UIT en soles ni ninguna cifra agregada de mercado (no verificadas en esta pasada).
+
+**Nota de esquema:** `alt` va a nivel de post (no dentro de `caption`), como en `sep.json`, porque `tools/render_f1.py:400` y `captions_*.py` lo leen de `post["alt"]`.

@@ -1,5 +1,13 @@
 # affiliate/ — the US accounts
 
+> **2026-09-14 — account B (`@theservicestack` / `@thestradestack`, Service
+> Stack) is gone too.** Its post queue (`brands/servicestack/posts/*.json`),
+> renders and bucket media were deleted; the account itself is being closed.
+> The brand folder stays (`brand.json`, photos, plates) only because the
+> bio-link site reads its palette from there. **No affiliate account is live
+> any more; this folder is an archive.** Recover the copy from git history
+> (`git show HEAD~1:brands/servicestack/posts/sep.json`).
+
 > **2026-09-06 — account A (`@cheapfixdaily` / Cheap Fix Daily) is gone.** The
 > brand folder, its 20 rendered posts, its bucket media, its profile pictures and
 > its playbook (`ACCOUNT-A-FINDS.md`) were deleted. Everything below that talks
@@ -24,6 +32,32 @@ English. The five brand docs stay in Spanish.
 | [`ACCOUNT-B-STACK.md`](ACCOUNT-B-STACK.md) | Lane B playbook: same, for the AI-stack account. |
 | [`PROGRAMS.md`](PROGRAMS.md) | Every offer: rate, cookie, payout rail, what paperwork it wants, join URL, status. |
 | [`COMPLIANCE.md`](COMPLIANCE.md) | The rules that can kill an account or a program: FTC, image rights, AI labels, multi-account hygiene. |
+
+## Where the bio-link site lives
+
+The `/stack` and `/fix` pages the bios point at are **not in this repo**. They
+are a Next.js app in its own checkout:
+
+```
+C:\Users\Personal\Desktop\Carlos\Apps\Works\affiliate-site
+```
+
+(moved there 2026-09-06 from the Desktop root — that old path is dead.)
+
+It replaces the systeme.io page editor; systeme.io stays underneath as the place
+the emails live and the list gets sent from. A signup posts to `/api/subscribe`,
+which forwards it to the systeme.io contacts API, and **delivery of the PDF is an automation inside
+systeme.io triggered by the tag** — that app never sends mail.
+
+It is the consumer of two things in this folder, so a change here can break it:
+
+- `brands/<b>/brand.json` — the page palettes and display fonts, so a slide
+  and the page it leads to read as one thing.
+- [`PROGRAMS.md`](PROGRAMS.md) — the offer links. A missing link means **that
+  button is not rendered at all**; an empty `href` is worse than no button.
+
+Read its `README.md` before touching it. Its own git repo — never mix a commit
+there with a carousels commit.
 
 ## The two lanes in one line each
 

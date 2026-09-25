@@ -1,1239 +1,1486 @@
 {
   "series": "oct",
   "brand": "comehometag",
+  "format": "f1",
   "posts": [
     {
-      "slug": "01-chequeo-del-abuelo",
+      "slug": "01-se-va-a-perder-una-vez",
       "slides": [
         {
           "role": "cover",
-          "kicker": "DÍA DE LAS PERSONAS MAYORES",
-          "emoji": "🧓",
-          "h": "Hoy abraza a tu abuelo y hazle este chequeo",
-          "b": "5 minutos, en su día"
+          "photo": "abuelo",
+          "h": "Tu papá con demencia se va a *perder* una vez, casi seguro"
         },
         {
           "role": "value",
-          "h": "Revísale estas tres cosas",
-          "b": "· Lentes: ¿la medida es de hace 5 años?\n· Oídos: ¿escucha el timbre y el claxon?\n· Zapatos: ¿la suela ya está lisa?"
+          "label": "EL DATO",
+          "h": "6 de cada 10 se *pierden*",
+          "b": "Con demencia, al menos una vez"
         },
         {
           "role": "value",
-          "h": "Perderse empieza por los sentidos",
-          "b": "· No leyó el letrero, no oyó que lo llamaban\n· La cita de vista y oído se agenda hoy\n· Y vas con él"
+          "photo": "abuela",
+          "label": "HOY EN CASA",
+          "h": "Llaves y abrigo fuera de la *vista*",
+          "b": "Lo que invita a salir no se ve"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "El seguro que no depende de los sentidos",
-          "b": "Por eso el abuelo sale con su «pulsera» ComeHomeTag: un QR que dice tu número si alguien lo ve desorientado. Sin batería."
+          "role": "value",
+          "label": "AL ATARDECER",
+          "h": "Casa *clara* y sin TV fuerte",
+          "b": "A esa hora se confunde y camina más"
         },
         {
-          "role": "cta",
-          "emoji": "💜",
-          "h": "El mejor regalo de hoy no se envuelve.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "SU HORA",
+          "h": "La tarde se llena de *algo*",
+          "b": "Mira a qué hora se inquieta y programa eso"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Para esa *primera* vez",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: la primera persona que vea a tu papá desorientado lo escanea con su celular, ve tu número y te llama."
         }
       ],
       "caption": {
-        "ig": "Día de las Personas Mayores: el chequeo de 5 minutos que sí protege. Lentes con medida vigente, oídos que escuchen el claxon, zapatos con suela viva. Perderse empieza por los sentidos, y se corrige con una cita. Guárdalo para la visita de hoy. Mándaselo a quien maneja el carro de la familia. #adultomayor #abuelos #peru #familia",
-        "tt": "Hoy abraza a tu abuelo y hazle este chequeo 🧓💜 · mándaselo a quien maneja el carro de la familia #adultomayor #abuelos #peru",
-        "fb": "Hoy es el Día de las Personas Mayores. El regalo que nadie piensa: revisar sus lentes (¿de cuándo es la medida?), sus oídos y la suela de sus zapatos. Un abuelo que ve y oye bien se pierde menos. ¿Cuándo fue su último chequeo de vista?"
+        "ig": "Abuelo con demencia que se pierde: seis de cada diez personas con demencia deambulan al menos una vez, y muchas lo repiten. Lo que cambia hoy en la casa: llaves y abrigo fuera de la vista, luz clara al atardecer sin televisión fuerte, y la hora en que se inquieta llena con algo que hacer. ¿A tu papá ya le pasó una vez? #alzheimer #adultomayor",
+        "tt": "Abuelo con demencia: seis de cada diez se pierden al menos una vez. Llaves y abrigo fuera de la vista, casa clara al atardecer y su hora de inquietud llena con algo. ¿Al tuyo ya le pasó una vez? #alzheimer #adultomayor",
+        "fb": "Seis de cada diez personas con demencia deambulan al menos una vez. No es si pasa, es cuándo. Lo más barato que se hace hoy: llaves y abrigo fuera de su vista, la casa bien iluminada al atardecer y esa hora en que se inquieta llena con algo que hacer. ¿A tu papá ya le pasó una vez?"
       },
-      "alt": "Chequeo de lentes, oídos y zapatos para el adulto mayor en su día internacional."
+      "alt": "Cuatro cambios en la casa para un adulto mayor con demencia que puede deambular: llaves fuera de la vista, luz al atardecer y su hora de inquietud."
     },
     {
-      "slug": "02-seis-salidas",
+      "slug": "02-no-esperes-24-horas",
       "slides": [
         {
           "role": "cover",
-          "emoji": "👀",
-          "h": "El mall tiene 6 salidas y tu hijo conoce 1",
-          "b": ""
+          "photo": "noche-calle",
+          "h": "Te dicen que esperes *24 horas* para denunciar y es falso"
         },
         {
           "role": "value",
-          "h": "La regla de nadie sale",
-          "b": "«Si nos perdemos, ninguno de los dos sale del edificio. Se busca adentro.» Un niño con regla no se pone a dar vueltas."
+          "label": "LA LEY",
+          "h": "Se *denuncia* al instante",
+          "b": "Ley 29685: niños y abuelos, sin esperar"
         },
         {
           "role": "value",
-          "h": "Adentro, seguridad gana en un minuto",
-          "b": "El personal del mall cubre las seis puertas por radio. Tú solo puedes mirar una."
+          "photo": "abuelo",
+          "label": "MINUTO 15",
+          "h": "Con demencia, *15* minutos",
+          "b": "Buscas cerca, a los 15 denuncias"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "¿Y si lo encuentra un extraño antes que un guardia?",
-          "b": "La «pulsera» ComeHomeTag de tu hijo le muestra tu número al primer escaneo. Sin apps, sin batería."
+          "role": "value",
+          "label": "QUÉ DICES",
+          "h": "«Tiene *demencia*» o «es menor»",
+          "b": "Nadie deja por escrito que te frenó"
         },
         {
-          "role": "cta",
-          "h": "Nadie sale del edificio. Séllalo hoy.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "SI TE FRENAN",
+          "h": "Pídelo por *escrito*",
+          "b": "Nadie deja escrito que te hizo esperar"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Sin esperar *ni una* hora",
+          "b": "La «pulsera» ComeHomeTag de niños y abuelos lleva un QR: quien los encuentre lo escanea con su celular, ve tu número y te llama."
         }
       ],
       "caption": {
-        "ig": "Niño perdido en el mall: la regla de nadie sale. Ninguno de los dos abandona el edificio y se busca adentro, donde la radio de seguridad cubre todas las puertas y tú solo una. Guárdala para la salida del fin de semana. Mándaselo a quien recoge a tus hijos. #seguridadinfantil #mall #peru #niños",
-        "tt": "El mall tiene 6 salidas y tu hijo conoce 1 👀 · mándaselo a quien recoge a tus hijos #niños #mall #peru",
-        "fb": "En un mall grande hay más salidas de las que crees. La regla que ordena todo: si se pierden, nadie sale del edificio. Adentro, seguridad cubre todas las puertas por radio; afuera, la calle no tiene radio. ¿Tus hijos conocen la regla?"
+        "ig": "Cuánto esperar para denunciar a un niño o a un adulto mayor desaparecido en Perú: nada. La Ley 29685 y el Decreto Legislativo 1428 obligan a atender la denuncia de inmediato y con prioridad. Con demencia, buscas cerca y a los quince minutos vas a la comisaría diciendo que tiene demencia. Si alguien te dice que esperes, pide que te lo pongan por escrito. ¿A ti te lo dijeron alguna vez? #adultomayor #seguridadinfantil",
+        "tt": "Denunciar a un niño o abuelo desaparecido en Perú: la Ley 29685 obliga a atenderte de inmediato, sin esperar 24 horas. Con demencia, a los 15 minutos ya denuncias. ¿A ti te dijeron que esperaras? #adultomayor #seguridadinfantil",
+        "fb": "Lo de esperar 24 horas para denunciar a un desaparecido es un mito que todavía se repite en ventanilla. En Perú, para menores y adultos mayores, la Ley 29685 y el Decreto Legislativo 1428 obligan a atender la denuncia de inmediato. Si te dicen que esperes, pide que lo pongan por escrito. ¿A ti te lo dijeron alguna vez?"
       },
-      "alt": "La regla de nadie sale del edificio para niños perdidos en malls."
+      "alt": "La denuncia por un niño o adulto mayor desaparecido se atiende de inmediato en Perú: sin esperar 24 horas y a los 15 minutos si tiene demencia."
     },
     {
-      "slug": "03-pense-que-estaba-contigo",
+      "slug": "03-kit-mochila-parte-1",
       "slides": [
         {
           "role": "cover",
-          "emoji": "😨",
-          "h": "«Pensé que estaba contigo»",
-          "b": "así se pierde un niño en un paseo familiar"
+          "photo": "nino-mochila",
+          "kicker": "EL KIT",
+          "h": "El kit que tu hijo lleva en la *mochila* desde hoy"
         },
         {
           "role": "value",
-          "h": "El encargo al aire no existe",
-          "b": "«Míralo un ratito» dicho a nadie: diez adultos lo oyeron, ninguno aceptó."
+          "label": "PIEZA 1",
+          "h": "Una tarjeta con *dos* teléfonos",
+          "b": "El tuyo y uno que sí contesta"
         },
         {
           "role": "value",
-          "h": "La entrega en mano",
-          "b": "· Como una posta: tocando al adulto\n· «Te paso a Mati» y el otro responde «lo tengo»\n· Sin respuesta no hubo entrega"
+          "photo": "nino-mano",
+          "label": "PIEZA 2",
+          "h": "Un *silbato* al cuello",
+          "b": "Dos pitidos: dónde estás. Tres: ven ya"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "El respaldo para el «ratito» que falló",
-          "b": "Cualquier adulto escanea la «pulsera» ComeHomeTag de tu hijo y te llama. Las familias grandes ya salen con ella puesta."
+          "role": "value",
+          "label": "PIEZA 3",
+          "h": "La *frase* escrita",
+          "b": "Disculpe, necesito ayuda, me perdí"
         },
         {
-          "role": "cta",
-          "h": "«Lo tengo.» Sin esa respuesta no hay entrega.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "Y CADA LUNES",
+          "h": "Se *revisa* que siga ahí",
+          "b": "Tarjeta, silbato y frase. Un minuto"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "La pieza que va en su *muñeca*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: quien encuentre a tu hijo lo escanea con cualquier celular y ve tu número al instante."
         }
       ],
       "caption": {
-        "ig": "«Pensé que estaba contigo»: la frase con la que empiezan casi todos los sustos en reuniones. El antídoto es la entrega en mano, como una posta: «te paso a Mati» y el otro contesta «lo tengo». Sin respuesta no hubo entrega. Guárdalo para la reunión de este sábado. ¿Quién dijo esa frase la última vez en tu familia? Mándaselo a la persona que los cuida cuando tú no estás. #seguridadinfantil #familia #peru #papas",
-        "tt": "«Pensé que estaba contigo» 😨 la entrega en mano · mándaselo a la persona que los cuida cuando tú no estás #familia #peru #papas",
-        "fb": "En toda reunión hay un momento en que el niño «está con todos». O sea con nadie. La posta que lo arregla: entregar en mano, con nombre y con respuesta: «te lo paso» y «lo tengo». ¿Cuántas veces se ha dicho en tu casa «pensé que estaba contigo»?"
+        "ig": "Kit de seguridad para la mochila del colegio, parte 1. Una tarjeta con dos teléfonos, el tuyo y uno que sí conteste. Un silbato al cuello con código: dos pitidos «dónde estás», tres pitidos «ven ya». Y la frase escrita que ensaya: «Disculpe, necesito ayuda, me perdí». Cada lunes se revisa que siga todo ahí. Guárdalo para armarlo este fin de semana. #seguridadinfantil #mochila",
+        "tt": "Kit de seguridad para la mochila del colegio, parte 1: tarjeta con dos teléfonos, silbato con código y la frase escrita «Disculpe, necesito ayuda, me perdí». ¿Qué le agregarías en la parte 2? #seguridadinfantil #niños",
+        "fb": "El kit de la mochila, parte 1. Tres piezas que se arman en diez minutos: una tarjeta con dos teléfonos (el tuyo y uno que sí conteste), un silbato al cuello con código de dos y tres pitidos, y la frase escrita para pedir ayuda. Cada lunes se revisa que siga ahí. ¿Qué le agregarías tú?"
       },
-      "alt": "La entrega en mano como una posta para que un niño nunca quede encargado al aire."
+      "alt": "Kit de seguridad para la mochila de un niño: tarjeta con dos teléfonos, silbato con código y la frase para pedir ayuda."
     },
     {
-      "slug": "04-no-llora-se-congela",
+      "slug": "04-kit-mochila-parte-2",
       "slides": [
         {
           "role": "cover",
-          "emoji": "🥶",
-          "h": "Un niño perdido no llora, se congela",
-          "b": "por eso no lo escuchas"
+          "photo": "nino-mano",
+          "kicker": "EL KIT",
+          "h": "Kit de la mochila, parte 2: lo que va en su *cabeza*"
         },
         {
           "role": "value",
-          "h": "El miedo real no hace ruido",
-          "b": "Callado, quieto, chiquito contra una pared. Mientras todos lo buscan a gritos, él no contesta ni a su nombre.",
-          "emoji": "😨"
+          "label": "REGLA 1",
+          "h": "Se queda donde *está*",
+          "b": "Así le das chance de encontrarlo tú"
         },
         {
           "role": "value",
-          "h": "Enséñale a hacerse ver",
-          "b": "Una sola instrucción física, ensayada: «párate en un lugar abierto y levanta la mano». El cuerpo asustado no grita, pero la mano sí sube."
+          "photo": "mercado",
+          "label": "REGLA 2",
+          "h": "Busca una señora con *niños*",
+          "b": "O a alguien con fotocheck, o a un policía"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Él no va a poder hablar. Su «pulsera» sí.",
-          "b": "El QR de su ComeHomeTag dice su nombre y tu número por él."
+          "role": "value",
+          "label": "REGLA 3",
+          "h": "«Tengo que preguntar *primero*»",
+          "b": "Antes de irse con quien no esperaba"
         },
         {
-          "role": "cta",
-          "h": "Ensaya la mano arriba hoy en el parque.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "SE ENSAYA",
+          "h": "En el mercado *real*, no en casa",
+          "b": "Que se acerque al personal y lo diga"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Lo que va en su *muñeca*, parte 2",
+          "b": "Con la «pulsera» ComeHomeTag puesta, quien encuentre a tu hijo escanea su QR y ve tu número, aunque él no recuerde ninguna regla."
         }
       ],
       "caption": {
-        "ig": "Niños perdidos: buscas un llanto, pero un niño perdido casi nunca llora. Se congela en silencio contra una pared. La instrucción que sí funciona: lugar abierto y mano arriba, ensayada como juego. El cuerpo asustado no grita, la mano sí sube. Guárdalo para el paseo del domingo. Mándaselo a tus hermanos, esto no se decide solo. #seguridadinfantil #niños #peru #papas",
-        "tt": "Un niño perdido no llora, se congela 🥶 · mándaselo a tus hermanos, esto no se decide solo #niños #peru #seguridadinfantil",
-        "fb": "Cuesta creerlo: el niño perdido no hace ruido. Se queda callado y quieto mientras todos lo buscan a gritos. Por eso se le enseña una instrucción física: lugar abierto y mano arriba. Asustado no puede gritar, pero levantar la mano sí. ¿Tu hijo la conoce?"
+        "ig": "Kit de seguridad para la mochila, parte 2: las tres reglas que van en la cabeza. Se queda donde está para que tú lo encuentres. Pide ayuda a una señora con niños, a alguien con fotocheck o a un policía uniformado. Y dice «tengo que preguntar primero» antes de irse con alguien que no esperaba. Se ensaya en el mercado real, no en la sala. ¿Cuál de las tres le cuesta más al tuyo? #seguridadinfantil #niños",
+        "tt": "Kit de la mochila, parte 2: se queda donde está, pide ayuda a una señora con niños y dice «tengo que preguntar primero». Se ensaya en el mercado real. ¿Cuál le cuesta más al tuyo? #seguridadinfantil #niños",
+        "fb": "Parte 2 del kit de la mochila: lo que no se compra. Quedarse donde está, pedir ayuda a una señora con niños (o a alguien con fotocheck, o a un policía) y decir «tengo que preguntar primero» antes de irse con alguien. Y se ensaya en el mercado real, no en casa. ¿Cuál regla le cuesta más a tu hijo?"
       },
-      "alt": "Por qué un niño perdido se congela en silencio y la instrucción de la mano arriba."
+      "alt": "Tres reglas que un niño ensaya por si se pierde: quedarse donde está, a quién pedir ayuda y preguntar primero antes de irse con alguien."
     },
     {
-      "slug": "05-movilidad-nadie-abre",
+      "slug": "05-kit-mochila-parte-3-movilidad",
       "slides": [
         {
           "role": "cover",
-          "emoji": "🚌",
-          "h": "Dos cosas que dejar claras con la movilidad del colegio",
-          "b": "la segunda evita el peor susto del año"
+          "photo": "familia-parque",
+          "kicker": "EL KIT",
+          "h": "Parte 3: el mensaje para el chofer de la *movilidad*, cópialo"
         },
         {
           "role": "value",
-          "h": "La vereda nunca es opción",
-          "b": "Un niño esperando solo en la puerta es el peor plan. Mejor ruta completa o de vuelta al colegio."
+          "label": "COPIA ESTO",
+          "h": "«Si nadie *abre*, no lo bajes»",
+          "b": "Se queda en la movilidad y me llamas"
         },
         {
           "role": "value",
-          "h": "El mensaje para el chofer, cópialo",
-          "b": "«Si un día nadie abre, Mati se queda en la movilidad y vuelve al colegio. Y arranque recién cuando lo vea entrar.»",
-          "emoji": "📱"
+          "photo": "nino-mochila",
+          "label": "LÍNEA 2",
+          "h": "«Nunca en la *vereda* solo»",
+          "b": "Ni un minuto, ni porque ya casi llego"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Para la cuadra equivocada",
-          "b": "La movilidad también se equivoca de puerta. La «pulsera» ComeHomeTag de tu hijo dice tu número a quien lo encuentre."
+          "role": "value",
+          "label": "LÍNEA 3",
+          "h": "«Solo baja con quien yo *nombré*»",
+          "b": "Hoy: la abuela. Si cambia, te escribo"
         },
         {
-          "role": "cta",
-          "h": "Llama hoy a la movilidad y pacta los dos puntos.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "Y TÚ",
+          "h": "Guarda el celular del *chofer*",
+          "b": "No el de la empresa: el de quien maneja"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "La pieza que viaja en la *movilidad*",
+          "b": "La «pulsera» ComeHomeTag va en la muñeca de tu hijo: si un día se baja en la cuadra equivocada, quien lo vea escanea el QR y te llama."
         }
       ],
       "caption": {
-        "ig": "Movilidad escolar: ¿qué pasa si toca el timbre y en casa no hay nadie? El acuerdo correcto: el niño se queda EN la movilidad y termina la ruta o vuelve al colegio. Nunca la vereda. Y el chofer arranca recién cuando lo vio entrar. Guárdalo para llamar a tu movilidad esta semana. Mándaselo al grupo del salón. #movilidadescolar #colegio #peru #niños",
-        "tt": "Los dos acuerdos que se pactan con la movilidad 🚌 · mándaselo al grupo del salón #colegio #peru #niños",
-        "fb": "La movilidad escolar también se equivoca: de puerta, de cuadra, de hora. Dos acuerdos que evitan el susto: el chofer arranca cuando vio al niño ENTRAR a casa, y si nadie abre, el niño se queda en la movilidad. Jamás en la vereda. ¿Tu movilidad tiene estas dos reglas?"
+        "ig": "Movilidad escolar, el mensaje para el chofer, parte 3 del kit de la mochila. Si nadie abre, no lo baja: se queda en la movilidad y te llama. Nunca en la vereda solo, ni un minuto. Solo baja con la persona que tú nombraste, y si cambia, le escribes. Y tú anotas el celular de quien maneja, no el de la empresa. Mándaselo hoy a la persona que maneja la movilidad de tu hijo. #movilidadescolar #seguridadinfantil",
+        "tt": "Movilidad escolar, el mensaje para el chofer: si nadie abre no lo baja, nunca en la vereda solo, y solo baja con quien tú nombraste. Mándaselo a quien maneja la movilidad de tu hijo. #movilidadescolar #niños",
+        "fb": "Parte 3 del kit de la mochila y es un mensaje, no un objeto. Se lo mandas al chofer de la movilidad: si nadie abre, no lo bajes y llámame; nunca lo dejes en la vereda solo; solo baja con la persona que yo nombré. Y anota el celular de quien maneja, no el de la empresa. Pásaselo hoy a la movilidad de tu hijo."
       },
-      "alt": "Acuerdos con la movilidad escolar para el día en que nadie abre la puerta."
+      "alt": "El mensaje de tres líneas que se le manda al chofer de la movilidad escolar: no bajarlo si nadie abre, nunca en la vereda solo y solo con quien fue nombrado."
     },
     {
-      "slug": "06-armys-acampando",
+      "slug": "06-dejala-acampar",
       "slides": [
         {
           "role": "cover",
+          "photo": "noche-calle",
           "kicker": "BTS EN LIMA",
-          "img": "evento-army.jpg",
-          "emoji": "⛺",
-          "h": "Las fans de BTS ya acampan en San Marcos",
-          "b": "y tu hija quiere ir"
+          "h": "Sí, déjala acampar por BTS, con estas *tres* condiciones"
         },
         {
           "role": "value",
-          "h": "El peligro llega con la madrugada",
-          "b": "De día la cola se cuida sola. Dormir ahí, solo con un adulto que TÚ conozcas de antes."
+          "label": "CONDICIÓN 1",
+          "h": "De noche, un adulto *tuyo*",
+          "b": "Alguien de tu casa, no de otra carpa"
         },
         {
           "role": "value",
-          "h": "El número correcto no es el del grupo",
-          "b": "Pide el celular de las 2 amigas de SU carpa. El grupo de 40 no lo contesta nadie."
+          "photo": "familia-parque",
+          "label": "CONDICIÓN 2",
+          "h": "El número de sus *dos* amigas",
+          "b": "Las de su carpa, no el grupo de 40"
         },
         {
           "role": "value",
-          "h": "El desayuno de las 7",
-          "b": "Alguien de casa pasa cada mañana: la ve, deja termo y pan, y confirma en qué punto de la cola va la carpa."
+          "label": "CONDICIÓN 3",
+          "h": "Alguien pasa *cada* mañana",
+          "b": "Deja el termo y ve dónde quedó"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "El estadio entero y una sola hija tuya",
-          "b": "ComeHomeTag también va en «llavero» para su mochila: quien lo escanee te llama a ti."
+          "role": "value",
+          "label": "SI SE MUEVE",
+          "h": "Si la cola *cambia*, avisa",
+          "b": "Una foto del sitio nuevo al chat de casa"
         },
         {
-          "role": "cta",
-          "h": "Que acampe con plan y cante con todo.",
-          "b": "comehometag.com"
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Que acampe con plan y cante con *todo*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: si en esa cola se desmaya o se pierde, quien la asista lo escanea con su celular y ve tu número."
         }
       ],
       "caption": {
-        "ig": "BTS en Lima: las ARMYs ya acampan afuera de San Marcos y tu hija quiere ir. El plan: madrugada solo con un adulto que tú conozcas, el número de las 2 amigas de su carpa (no el grupo de 40) y el desayuno de las 7, la visita diaria de alguien de casa. Guárdalo para negociarlo hoy con ella. Mándaselo a quien se queda con ellos este fin de semana. #bts #btsenlima #army #peru #conciertos",
-        "tt": "Las ARMYs ya acampan en San Marcos ⛺💜 el plan para tu hija · mándaselo a quien se queda con ellos este fin de semana #bts #army #peru",
-        "fb": "El campamento ARMY ya empezó en San Marcos. Si tu hija quiere ir: de día la cola se cuida sola, la madrugada solo con un adulto conocido, los números de las 2 de su carpa y una visita de casa cada mañana con termo. Que lo viva, con plan. ¿La dejarías acampar?"
+        "ig": "Hijas acampando por BTS en Lima: sí, con tres condiciones. De noche hay un adulto tuyo en la carpa, no el tío de una amiga. Tienes el celular de las dos amigas de su carpa, porque el grupo de cuarenta no lo contesta nadie. Y alguien de casa pasa cada mañana, deja el termo y ve dónde quedó. Si la cola cambia de sitio, manda una foto al chat. ¿La dejas acampar o no? #btsenlima #army",
+        "tt": "Acampar por BTS en Lima: déjala, con tres condiciones. Un adulto tuyo de noche, el número de sus dos amigas de carpa y alguien que pasa cada mañana. ¿La dejas o no? #btsenlima #army",
+        "fb": "La pregunta de esta semana en muchas casas: ¿la dejo acampar por BTS? Sí, con tres condiciones. De noche hay un adulto tuyo en la carpa. Tienes el celular de las dos amigas de su carpa, no del grupo de cuarenta. Y alguien de casa pasa cada mañana, deja el termo y confirma dónde quedó. ¿Tú la dejas o no?"
       },
-      "alt": "Plan familiar para el campamento de fans antes del concierto de BTS en Lima."
+      "alt": "Tres condiciones para dejar que una hija adolescente acampe por un concierto: un adulto conocido de noche, el número de sus amigas de carpa y una visita cada mañana."
     },
     {
-      "slug": "07-terminal-antes-que-buses",
+      "slug": "07-mensaje-hermana-mayor",
       "slides": [
         {
           "role": "cover",
+          "photo": "nino-mano",
+          "kicker": "BTS EN LIMA",
+          "h": "Mensaje para tu hija *mayor* que lleva a la menor a BTS"
+        },
+        {
+          "role": "value",
+          "label": "COPIA ESTO",
+          "h": "«No se separan ni para *agua*»",
+          "b": "Una va, las dos van"
+        },
+        {
+          "role": "value",
+          "photo": "noche-calle",
+          "label": "LÍNEA 2",
+          "h": "«A las *10* me contestas»",
+          "b": "Un mensaje, no una llamada larga"
+        },
+        {
+          "role": "value",
+          "label": "LÍNEA 3",
+          "h": "«Si se pierden, *10* minutos»",
+          "b": "Después avisas al personal del estadio"
+        },
+        {
+          "role": "value",
+          "label": "LÍNEA 4",
+          "h": "«El punto tiene *nombre*»",
+          "b": "La puerta por la que entraron, no «afuera»"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Le diste una entrada y una *responsabilidad*",
+          "b": "La «pulsera» ComeHomeTag va en la muñeca de la menor: si la marea las separa, quien la asista escanea el QR y te llama a ti, no a su hermana."
+        }
+      ],
+      "caption": {
+        "ig": "Hermana mayor que lleva a la menor al concierto de BTS en Lima: el mensaje que le mandas. No se separan ni para comprar agua. A las diez te contesta con un mensaje. Si se pierden, se buscan diez minutos y después avisan al personal del estadio. Y el punto de encuentro tiene nombre: la puerta por la que entraron, no «afuera». Mándaselo a tu hija mayor antes de que salgan. #btsenlima #concierto",
+        "tt": "Hermana mayor que lleva a la menor a BTS en Lima: no se separan ni para agua, a las 10 contesta, y si se pierden avisan al personal en 10 minutos. Mándaselo a tu hija mayor antes de salir. #btsenlima #concierto",
+        "fb": "A la hija mayor le diste una entrada y una responsabilidad. Este es el mensaje que se le manda antes del concierto: no se separan ni para comprar agua, a las diez contesta con un mensaje, si se pierden se buscan diez minutos y después avisan al personal del estadio, y el punto de encuentro es la puerta por la que entraron. Pásaselo antes de que salgan."
+      },
+      "alt": "Cuatro líneas que se le mandan a una hija adolescente que lleva a su hermana menor a un concierto: no separarse, contestar a una hora, avisar al personal y un punto con nombre."
+    },
+    {
+      "slug": "08-cuatro-papas-del-terminal",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "mercado",
           "kicker": "FERIADO LARGO",
-          "emoji": "🧳",
-          "h": "Mañana el terminal se llena y ahí se sueltan los niños",
-          "b": ""
+          "h": "Los 4 papás del terminal en feriado y cuál *eres* tú"
         },
         {
           "role": "value",
-          "h": "El asiento se sabe antes de bajar del taxi",
-          "b": "Cada uno conoce su número de asiento. Si el terminal los traga, el que lo sabe camina a SU bus."
+          "label": "PAPÁ 1",
+          "h": "El que cuenta *cabezas* 40 veces",
+          "b": "Y a la 41 se le va uno al baño"
         },
         {
           "role": "value",
-          "h": "La regla de la parada",
-          "b": "· Nadie baja solo en las paradas\n· Alguien quedó abajo: se avisa al chofer\n· El bus espera; la carretera no",
-          "emoji": "😨"
+          "photo": "familia-parque",
+          "label": "PAPÁ 2",
+          "h": "El «ahí *nomás* está»",
+          "b": "Está a tres puestos de golosinas"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Viajar con niños es contar cabezas 40 veces",
-          "b": "La «pulsera» ComeHomeTag lleva tu contacto puesto, por si una vez cuentas mal. En muñeca o en mochila."
+          "role": "value",
+          "label": "PAPÁ 3",
+          "h": "El que manda al mayor por *agua*",
+          "b": "Con el menor de la mano, sin celular"
         },
         {
-          "role": "cta",
-          "h": "Asientos sabidos y regla de parada dicha.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "PAPÁ 4",
+          "h": "El del *asiento* sabido",
+          "b": "Cada hijo sabe su número de asiento y bus"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Sé el papá 4, con *respaldo*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: si en el terminal cuentas mal una sola vez, quien encuentre a tu hijo lo escanea y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Feriado por Angamos: el terminal terrestre a las 6am es la multitud más apurada del Perú. Cada niño sabe su número de asiento antes de bajar del taxi, nadie baja solo en las paradas y cualquier separación se avisa al chofer al instante. Guárdalo para el viaje de mañana. Mándaselo a la abuela que los recoge del colegio. #feriado #viajes #peru #niños",
-        "tt": "Mañana los terminales se llenan antes que los buses 🧳 · mándaselo a la abuela que los recoge del colegio #feriado #peru #viajes",
-        "fb": "Este feriado medio Perú viaja. La regla de la parada: nadie baja solo, y si alguien queda abajo se avisa al chofer al instante, porque el bus espera y la carretera no espera a nadie. ¿Viajan este feriado?"
+        "ig": "Viajar con niños en feriado largo por terminal terrestre: hay cuatro papás. El que cuenta cabezas cuarenta veces y a la cuarenta y uno se le va uno al baño. El del «ahí nomás está». El que manda al mayor por agua con el menor de la mano. Y el del asiento sabido: cada hijo conoce su número de asiento y de bus, y si el terminal los separa, el que lo sabe llega al bus. ¿Cuál eres, 1, 2, 3 o 4? #feriadolargo #viajarconniños",
+        "tt": "Viajar con niños en feriado largo por el terminal: el que cuenta cabezas 40 veces, el del «ahí nomás», el que manda al mayor por agua y el del asiento sabido. ¿Cuál eres, 1, 2, 3 o 4? #feriadolargo #niños",
+        "fb": "Terminal terrestre en feriado largo. Papá 1 cuenta cabezas cuarenta veces. Papá 2 dice «ahí nomás está». Papá 3 manda al mayor por agua con el menor de la mano. Papá 4 hizo que cada hijo sepa su número de asiento y de bus, y si el terminal los separa, el que lo sabe llega al bus solo. ¿Cuál eres?"
       },
-      "alt": "Viaje interprovincial en feriado: asiento sabido de memoria y la regla de la parada."
+      "alt": "Cuatro tipos de papá en un terminal terrestre en feriado y el que hace que cada hijo sepa su número de asiento y de bus."
     },
     {
-      "slug": "08-hermana-mayor",
+      "slug": "09-salida-del-estadio",
       "slides": [
         {
           "role": "cover",
+          "photo": "noche-calle",
           "kicker": "BTS EN LIMA",
-          "emoji": "😅",
-          "h": "Tu hija mayor lleva a la menor al concierto",
-          "b": "y no es su niñera"
+          "h": "A la salida del estadio el niño va *adelante*, nunca atrás"
         },
         {
           "role": "value",
-          "h": "El pacto de las dos",
-          "b": "· No se separan ni para comprar agua\n· La mayor contesta el check-in de las 10\n· Aunque suene su canción favorita"
+          "label": "ADELANTE",
+          "h": "Lo ves y lo agarras del *hombro*",
+          "b": "Atrás tuyo desaparece en tres pasos"
         },
         {
           "role": "value",
-          "h": "Si se separan, manda el plan",
-          "b": "Diez minutos de búsqueda como máximo y se avisa al personal del estadio. Nunca una hora de pánico en silencio."
+          "photo": "mercado",
+          "label": "EL BORDE",
+          "h": "Por el *borde*, nunca el centro",
+          "b": "El centro empuja, el borde deja parar"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Le diste una entrada y una responsabilidad",
-          "b": "La «pulsera» ComeHomeTag va en la muñeca de la menor. La mayor disfruta más cuando no carga todo sola."
+          "role": "value",
+          "label": "SEPARADOS",
+          "h": "Nadie va *contra* la corriente",
+          "b": "Diagonal a la pared y ahí se espera"
         },
         {
-          "role": "cta",
-          "h": "El pacto se firma antes de salir de casa.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "SALGAN TARDE",
+          "h": "Que salga *primero* la marea",
+          "b": "Diez minutos y la escalera se vacía"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "La marea no pregunta *nombres*",
+          "b": "El QR de la «pulsera» ComeHomeTag sí los dice: quien asista a tu hijo lo escanea con su celular y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Concierto de BTS y la hermana mayor lleva a la menor. El pacto justo: no se separan ni para comprar agua, la mayor contesta el check-in de las 10pm, y si se pierden hay tope: 10 minutos de búsqueda y se avisa al personal. Guárdalo para firmarlo antes del concierto. Mándaselo al papá que lo va a leer de noche. #bts #btsenlima #hermanas #army #peru",
-        "tt": "La hermana mayor no es niñera con entrada 😅 el pacto · mándaselo al papá que lo va a leer de noche #bts #peru",
-        "fb": "Cuando la mayor lleva a la menor al concierto, le estás dando una entrada y una responsabilidad enorme. El pacto que la alivia: reglas claras para las dos, un check-in a las 10pm y un tope de 10 minutos antes de avisar al personal. Así la mayor también canta. ¿Tus hijas tienen su pacto?"
+        "ig": "Salir del estadio con niños después del concierto de BTS en Lima: el menor va adelante, nunca atrás. Adelante lo ves y lo agarras del hombro; atrás tuyo desaparece en tres pasos. Se sale por el borde, nunca por el centro. Si la marea los separa, nadie va contra la corriente: en diagonal hasta la pared y ahí se espera. O se quedan sentados diez minutos y la escalera se vacía sola. ¿Adelante o al hombro? #btsenlima #concierto",
+        "tt": "Salida del estadio con niños: el menor va adelante, agarrado del hombro, por el borde y nunca contra la corriente. O diez minutos sentados y la escalera se vacía. ¿Adelante o al hombro? #btsenlima #concierto",
+        "fb": "Sesenta mil personas salen a la vez. El niño va adelante, no atrás: adelante lo ves y lo agarras del hombro, atrás desaparece en tres pasos. Se sale por el borde. Si los separa, nadie va contra la corriente: en diagonal a la pared y se espera. ¿Tú lo llevas adelante o al hombro?"
       },
-      "alt": "El pacto entre hermanas para la noche del concierto: check-ins y tope de búsqueda."
+      "alt": "Cómo salir de un estadio lleno con un niño: adelante y del hombro, por el borde, sin ir contra la corriente."
     },
     {
-      "slug": "09-marea-de-salida",
-      "slides": [
-        {
-          "role": "story",
-          "kicker": "BTS EN LIMA",
-          "plate": "cine-15-concierto",
-          "emoji": "🌊",
-          "h": "Esta noche 60 mil salen del estadio a la vez",
-          "b": "la entrada tiene horario, la salida no"
-        },
-        {
-          "role": "value",
-          "h": "El menor va adelante, nunca atrás",
-          "b": "Adelante lo ves y lo agarras del hombro. Atrás tuyo desaparece en tres pasos y ni lo notas."
-        },
-        {
-          "role": "value",
-          "h": "A la marea no se le pelea",
-          "b": "· Si los separa, nadie va contra la corriente\n· Déjate llevar en diagonal hasta el borde\n· Por el borde se camina; por el centro no"
-        },
-        {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "La marea no pregunta nombres",
-          "b": "El QR de su ComeHomeTag sí los dice: quien la asista lo escanea y te llama."
-        },
-        {
-          "role": "cta",
-          "h": "Adelante tuyo y por el borde. Feliz concierto.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Salida de conciertos masivos: 60 mil personas dejan el estadio al mismo tiempo. Las dos reglas de marea humana: el menor va siempre ADELANTE (atrás desaparece en tres pasos) y a la corriente no se le pelea, se sale en diagonal hacia el borde. Guárdalo para la salida de esta noche. Mándaselo a quien maneja el carro de la familia. #bts #conciertos #estadio #peru",
-        "tt": "Esta noche 60 mil salen a la vez 🌊 las reglas de la marea · mándaselo a quien maneja el carro de la familia #bts #peru",
-        "fb": "La entrada a un concierto tiene horario; la salida son 60 mil personas a la vez. Dos reglas que cambian la noche: el menor camina adelante, nunca atrás, y si la marea los separa, no se pelea contra la corriente: se sale en diagonal hacia el borde. ¿Alguien de tu casa fue al concierto?"
-      },
-      "alt": "Reglas de marea humana para la salida del estadio: el menor adelante y salir por el borde."
-    },
-    {
-      "slug": "10-tiembla-de-noche",
+      "slug": "10-tiembla-y-no-estas",
       "slides": [
         {
           "role": "cover",
+          "photo": "familia-parque",
           "kicker": "SIMULACRO NOCTURNO",
-          "emoji": "🌙",
-          "h": "¿Y si tiembla de noche y tus hijos están dormidos?",
-          "b": "el martes a las 8pm el Perú lo ensaya"
+          "h": "Tiembla a las 8pm y no estás: ¿quién *saca* a tus hijos?"
         },
         {
           "role": "value",
-          "h": "Tu plan diurno no sirve a oscuras",
-          "b": "A las 8pm los niños duermen, la luz se corta y el pasillo es negro. Nadie ha ensayado ESA casa."
+          "label": "COPIA ESTO",
+          "h": "Para quien se *queda* con ellos",
+          "b": "Abuela, nana o hermano mayor"
         },
         {
           "role": "value",
-          "h": "El reparto de brazos",
-          "b": "· Quién carga al bebé: papá\n· Quién va por la abuela: mamá\n· Quién toma al de 7: su hermana\n· Por nombre y decidido hoy"
+          "photo": "abuela",
+          "label": "BRAZO 1",
+          "h": "Quién carga al *bebé*",
+          "b": "Siempre la misma persona, dicho hoy"
         },
         {
           "role": "value",
-          "h": "Las puertas de los cuartos, entreabiertas",
-          "b": "Un sismo traba las puertas cerradas. Entreabiertas: escuchas a los niños y el camino no se cierra."
+          "label": "BRAZO 2",
+          "h": "Quién toma al de *cuatro* años",
+          "b": "De noche no encuentra la puerta solo"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "¿Y si pasa de verdad y el caos los separa?",
-          "b": "La «pulsera» ComeHomeTag de niños y abuelos duerme puesta: su QR dice tu número cuando nadie puede hablar."
+          "role": "value",
+          "label": "LA ZONA",
+          "h": "Dónde se *paran* a esperar",
+          "b": "Un sitio con nombre: la columna del patio"
         },
         {
-          "role": "cta",
-          "h": "El martes a las 8pm se ensaya en serio.",
-          "b": "comehometag.com"
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Para esa noche en que no *estás*",
+          "b": "La «pulsera» ComeHomeTag duerme puesta: si un sismo real separa a tus hijos de quien los cuida, quien los encuentre escanea el QR y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Simulacro nocturno: el martes 8pm el Perú ensaya un sismo DE NOCHE. Tu plan diurno no sirve con niños dormidos y luz cortada. Lo que se decide desde hoy: el reparto de brazos (quién carga a quién, por nombre) y las puertas de los cuartos entreabiertas. Guárdalo para armar el plan este fin de semana. Mándaselo a quien recoge a tus hijos. #simulacronocturno #sismo #indeci #peru #familia",
-        "tt": "¿Y si tiembla de noche y tus hijos duermen? 🌙 el martes se ensaya · mándaselo a quien recoge a tus hijos #simulacro #peru",
-        "fb": "El martes a las 8pm es el simulacro NOCTURNO nacional. Pregunta seria: ¿tu familia ensayó alguna vez un sismo de noche, o solo el de las 10 de la mañana? De noche todo cambia: niños que no despiertan, pasillos negros, puertas trabadas. El reparto de brazos se decide hoy: quién carga a quién, por nombre."
+        "ig": "Simulacro nocturno de sismo con niños y tú no estás en casa: el plan para quien se queda con ellos. Quién carga al bebé, siempre la misma persona. Quién toma al de cuatro años, porque de noche no encuentra la puerta solo. Y dónde se paran a esperar: un sitio con nombre, como la columna del patio. Mándaselo hoy a quien se queda con tus hijos de noche. #simulacro #sismo",
+        "tt": "Simulacro nocturno: si tiembla a las 8pm y no estás, este es el plan para quien se queda con tus hijos. Quién carga al bebé, quién toma al de cuatro y dónde esperan. Mándaselo a quien los cuida de noche. #simulacro #sismo",
+        "fb": "El simulacro es de noche y muchos no vamos a estar en casa a esa hora. El plan no es para ti, es para quien se queda con ellos: quién carga al bebé, quién toma al de cuatro años y en qué sitio con nombre se paran a esperar. Pásaselo hoy a la abuela, a la nana o al hermano mayor."
       },
-      "alt": "Preparación del sismo nocturno: el reparto de brazos y las puertas entreabiertas."
+      "alt": "El reparto de brazos para un sismo de noche cuando los papás no están: quién carga al bebé, quién toma al niño pequeño y dónde esperan."
     },
     {
-      "slug": "11-al-lado-de-tu-cama",
+      "slug": "11-kit-de-cada-cama",
       "slides": [
         {
           "role": "cover",
+          "photo": "noche-calle",
           "kicker": "SIMULACRO NOCTURNO",
-          "emoji": "🥿",
-          "h": "Entre tú y tus hijos hay un pasillo a oscuras",
-          "b": "lo que dejes al lado de tu cama decide si lo cruzas"
+          "h": "Parte 2: lo que va al lado de cada *cama* desde hoy"
         },
         {
           "role": "value",
-          "h": "El trío de cada cama",
-          "b": "· Zapatos cerrados apuntando a la puerta\n· Linterna en el MISMO sitio siempre\n· Los lentes del que no ve sin ellos"
+          "label": "PIEZA 1",
+          "h": "*Zapatos* cerrados, apuntando a la puerta",
+          "b": "El piso se llena de vidrio"
         },
         {
           "role": "value",
-          "h": "El celular no es la linterna",
-          "b": "A esa hora carga en otro cuarto o va al 6%. Y el piso se llena de vidrio: descalzo no cruzas tu propia sala."
+          "photo": "abuelo",
+          "label": "PIEZA 2",
+          "h": "*Linterna* en el mismo sitio siempre",
+          "b": "El celular carga lejos y al 6%"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Lo que también duerme puesto",
-          "b": "La «pulsera» ComeHomeTag no se quita de noche: tu contacto sigue puesto mientras la familia duerme."
+          "role": "value",
+          "label": "PIEZA 3",
+          "h": "Los *lentes* del abuelo",
+          "b": "Sin ellos no ve la puerta ni la escalera"
         },
         {
-          "role": "cta",
-          "h": "Esta noche: zapatos, linterna y lentes en su sitio.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "PIEZA 4",
+          "h": "La *llave* de la reja",
+          "b": "Colgada en el mismo clavo, no en un bolsillo"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Lo que también duerme *puesto*",
+          "b": "La «pulsera» ComeHomeTag no se quita de noche: si el sismo los separa, quien encuentre a tu hijo o a tu papá escanea el QR y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Sismo nocturno: la pregunta que vale oro es qué hay al lado de cada cama. El trío que no se negocia: zapatos cerrados apuntando a la puerta, linterna en el mismo sitio siempre y los lentes del que no ve sin ellos. El celular no cuenta: a esa hora carga en otro cuarto. Guárdalo para revisar cada cama esta noche. Mándaselo a la persona que los cuida cuando tú no estás. #simulacro #sismo #peru #familia",
-        "tt": "Entre tú y tus hijos hay un pasillo a oscuras 🥿 el trío de cada cama · mándaselo a la persona que los cuida cuando tú no estás #sismo #peru",
-        "fb": "Si esta noche tiembla, lo único que tienes es lo que está al alcance de tu cama. El trío por cuarto: zapatos cerrados (el piso se llena de vidrio), linterna en sitio fijo y los lentes de quien no ve sin ellos. El celular no cuenta como linterna: a esa hora está al 6% o en otro cuarto. ¿Tu cama pasa la prueba?"
+        "ig": "Kit de sismo para la noche, parte 2: lo que va al lado de cada cama. Zapatos cerrados apuntando a la puerta, porque el piso se llena de vidrio. Una linterna en el mismo sitio siempre, porque el celular a esa hora carga en otro cuarto. Los lentes del abuelo, sin ellos no ve la escalera. Y la llave de la reja colgada en el mismo clavo. ¿Cuál falta al lado de tu cama? #simulacro #sismo",
+        "tt": "Kit de sismo de noche, parte 2, al lado de cada cama: zapatos cerrados, linterna fija, los lentes del abuelo y la llave de la reja. ¿Cuál falta al lado de la tuya? #simulacro #sismo",
+        "fb": "Parte 2 del plan para el simulacro nocturno: cuatro cosas al lado de cada cama. Zapatos cerrados apuntando a la puerta, linterna en el mismo sitio siempre (el celular no es la linterna: a esa hora carga lejos), los lentes del abuelo y la llave de la reja en su clavo. ¿Cuál te falta esta noche?"
       },
-      "alt": "El trío de cada cama para un sismo de noche: zapatos, linterna y lentes."
+      "alt": "Cuatro cosas al lado de cada cama para un sismo de noche: zapatos cerrados, linterna fija, los lentes del abuelo y la llave de la reja."
     },
     {
-      "slug": "12-ensayo-a-ojos-cerrados",
+      "slug": "12-ensayo-a-oscuras",
       "slides": [
         {
           "role": "cover",
+          "photo": "nino-mano",
           "kicker": "SIMULACRO NOCTURNO",
-          "emoji": "🔦",
-          "h": "¿Y si tiembla y no ves ni tus propias manos?",
-          "b": "mañana el Perú ensaya de noche, hoy ensaya tu casa"
+          "h": "Parte 3: apaga la luz y cronometra a tu *familia*"
         },
         {
           "role": "value",
-          "h": "El ensayo de ojos cerrados",
-          "b": "Cada uno desde su cama, con la luz apagada, contando pasos hasta la puerta. Los pasos contados vuelven solos en el apagón."
+          "label": "EL ENSAYO",
+          "h": "Cada uno desde su *cama*",
+          "b": "Luz apagada, contando pasos a la puerta"
         },
         {
           "role": "value",
-          "h": "El plan de apagón",
-          "b": "· Nada de fuego hasta revisar el gas\n· Quién cierra la llave del gas y dónde está\n· Linternas, nunca velas"
+          "photo": "noche-calle",
+          "label": "EL NÚMERO",
+          "h": "Segundos hasta la zona *segura*",
+          "b": "Se apunta en la refri y se mejora"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Lo que no necesita luz para funcionar",
-          "b": "El QR de ComeHomeTag se lee con la linterna de cualquier celular: tu número disponible aunque la cuadra esté negra."
+          "role": "value",
+          "label": "EL GAS",
+          "h": "Quién cierra la *llave* y dónde está",
+          "b": "Nada de fuego hasta revisarla"
         },
         {
-          "role": "cta",
-          "h": "Hoy a oscuras, mañana en serio.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "LA VOZ",
+          "h": "Cada uno grita su *nombre* al llegar",
+          "b": "Así sabes quién falta sin ver"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Lo que se lee sin *luz*",
+          "b": "El QR de la «pulsera» ComeHomeTag se lee con la linterna de cualquier celular: quien encuentre a tu hijo ve tu número al instante."
         }
       ],
       "caption": {
-        "ig": "Víspera del simulacro nocturno: el ensayo que sí prepara se hace a ojos cerrados. Cada uno desde su cama, luz apagada, contando los pasos hasta la puerta. Y el plan de apagón: nada de fuego hasta revisar el gas, y todos saben quién cierra la llave. Guárdalo para el ensayo de esta noche. Mándaselo a tus hermanos, esto no se decide solo. #simulacronocturno #sismo #indeci #peru",
-        "tt": "¿Y si tiembla y no ves ni tus manos? 🔦 ensaya hoy a ojos cerrados · mándaselo a tus hermanos, esto no se decide solo #simulacro #peru",
-        "fb": "Mañana 8pm el Perú ensaya el simulacro nocturno. El truco de esta noche: recorrer la casa a ojos cerrados contando pasos, porque los pasos contados vuelven solos en el apagón. Y una pregunta que casi nadie puede responder: ¿quién cierra la llave del gas en tu casa y dónde está?"
+        "ig": "Ensayo de sismo a oscuras con niños, parte 3: apaga la luz y cronometra. Cada uno sale desde su cama contando pasos hasta la puerta. Los segundos hasta la zona segura se apuntan en la refri y se mejoran en el siguiente ensayo. Alguien fijo cierra la llave del gas y todos saben dónde está. Y cada uno grita su nombre al llegar, para saber quién falta sin ver. ¿Cuántos segundos hizo tu familia? #simulacro #sismo",
+        "tt": "Ensayo de sismo a oscuras, parte 3: cada uno desde su cama, luz apagada, cronómetro hasta la zona segura y cada uno grita su nombre al llegar. ¿Cuántos segundos hizo tu familia? #simulacro #sismo",
+        "fb": "Parte 3: el ensayo con la luz apagada. Cada uno desde su cama, contando pasos hasta la puerta, con cronómetro hasta la zona segura. El número se apunta en la refri. Alguien fijo cierra el gas. Y al llegar, cada uno grita su nombre: así sabes quién falta sin ver nada. ¿Cuántos segundos hizo tu familia?"
       },
-      "alt": "El ensayo a ojos cerrados y el plan de apagón para la víspera del simulacro nocturno."
+      "alt": "Ensayo de sismo con la luz apagada: cada uno desde su cama, cronómetro hasta la zona segura, quién cierra el gas y gritar el nombre al llegar."
     },
     {
-      "slug": "13-hoy-8pm-de-verdad",
+      "slug": "13-hoy-8pm-no-estan-juntos",
       "slides": [
         {
           "role": "cover",
+          "photo": "abuela",
           "kicker": "SIMULACRO NOCTURNO",
-          "emoji": "🚨",
-          "h": "Hoy a las 8pm es el simulacro y no estarán juntos",
-          "b": "cada uno arranca desde donde esté, con la luz apagada"
+          "h": "Hoy a las 8pm tiembla y no están *juntos*: el plan"
         },
         {
           "role": "value",
-          "h": "Desde las posiciones reales",
-          "b": "En pijama y cada uno donde estaría un martes 8pm: uno en la ducha, otra con audífonos. De ahí se arranca."
+          "label": "TÚ AFUERA",
+          "h": "No *llames*, escribe una vez",
+          "b": "La línea se satura, el texto entra"
         },
         {
           "role": "value",
-          "h": "Cronometren: ese es el número de tu familia",
-          "b": "Cuántos segundos de las camas a la zona segura. Se apunta en la refri y se mejora en el próximo ensayo."
+          "photo": "abuelo",
+          "label": "EN CASA",
+          "h": "Quien se queda *manda*, no tú",
+          "b": "Dicho hoy: la abuela decide y saca"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Las familias que ensayan a oscuras duermen distinto",
-          "b": "Y salen con su ComeHomeTag puesto: si un sismo real los separa, el QR habla por ellos."
+          "role": "value",
+          "label": "EL ENCUENTRO",
+          "h": "Un sitio con *nombre* propio",
+          "b": "El parque de la esquina, no «afuera»"
         },
         {
-          "role": "cta",
-          "h": "8pm. Luz apagada. Cronómetro listo.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "8PM",
+          "h": "Cada uno donde *estaría* un martes",
+          "b": "Uno en la ducha, otra con audífonos"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Para cuando pasa de verdad y los *separa*",
+          "b": "Los niños y abuelos con la «pulsera» ComeHomeTag llevan un QR: quien los encuentre lo escanea y te llama, estés donde estés."
         }
       ],
       "caption": {
-        "ig": "HOY 8pm: simulacro nacional nocturno. Hazlo valer: luz apagada de verdad, cada uno arranca desde su posición real (pijama, ducha, audífonos) y se cronometra cuántos segundos toma llegar de las camas a la zona segura. Ese número se apunta en la refri. Guárdalo para esta noche. Mándaselo al grupo del salón. #simulacronocturno #indeci #sismo #peru #familia",
-        "tt": "HOY 8pm tiembla el Perú y no estarán juntos 🚨 luz apagada y cronómetro · mándaselo al grupo del salón #simulacro #peru",
-        "fb": "Hoy a las 8pm es el simulacro nocturno. Solo vale si lo hacen con la luz APAGADA, desde las posiciones reales de un martes por la noche. Y cronometrar: cuántos segundos tarda tu familia de las camas a la zona segura. Ese número dice más que cualquier charla. ¿Participan esta noche?"
+        "ig": "Simulacro nacional nocturno hoy a las 8pm y tu familia no va a estar junta: el plan. Tú, afuera, no llamas: escribes una vez, porque la línea se satura y el texto entra. En casa manda quien se queda, dicho desde hoy. El punto de encuentro tiene nombre propio: el parque de la esquina, no «afuera». Y se ensaya desde donde cada uno estaría un martes a esa hora. Mándaselo a quien está con tus hijos hoy a las 8pm. #simulacro #sismo",
+        "tt": "Simulacro nocturno hoy 8pm y no están juntos: tú escribes una vez en vez de llamar, en casa manda quien se queda y el punto de encuentro tiene nombre propio. Mándaselo a quien está con tus hijos esta noche. #simulacro #sismo",
+        "fb": "Hoy a las 8pm es el simulacro y la mayoría no vamos a estar con nuestros hijos a esa hora. El plan: el que está afuera escribe una vez en vez de llamar (la línea se satura, el texto entra), en casa manda quien se queda, y el punto de encuentro tiene nombre propio. Pásaselo a quien está con tus hijos esta noche."
       },
-      "alt": "Cómo ejecutar el simulacro nocturno: luz apagada, posiciones reales y cronómetro."
+      "alt": "Plan de sismo para una familia que no está junta a la hora del simulacro: escribir en vez de llamar, quién manda en casa y un punto de encuentro con nombre."
     },
     {
-      "slug": "14-diez-estadios",
+      "slug": "14-abuelo-no-va-a-la-procesion",
       "slides": [
         {
           "role": "cover",
+          "photo": "abuelo",
           "kicker": "MES MORADO",
-          "emoji": "💜",
-          "img": "evento-procesion.jpg",
-          "h": "El Señor de los Milagros junta más gente que 10 estadios",
-          "b": "y tu familia estará ahí"
+          "h": "Tu papá con demencia no va a la *procesión*. No es crueldad"
         },
         {
           "role": "value",
-          "h": "La hora de llegada decide el día",
-          "b": "Las primeras dos horas se camina y se ve el suelo. Después la multitud es un solo cuerpo."
+          "label": "LA RAZÓN",
+          "h": "La *multitud* lo pone nervioso",
+          "b": "Y un sitio nuevo lo desorienta"
         },
         {
           "role": "value",
-          "h": "El anda parte Lima en dos",
-          "b": "La familia entra, se ubica y sale por el MISMO lado del recorrido. Cruzar al otro lado toma horas."
+          "photo": "mercado",
+          "label": "LO QUE SÍ",
+          "h": "La misa en su *parroquia*",
+          "b": "El sitio que conoce, a la hora tranquila"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Cientos de miles caminando juntos, y ahí los tuyos",
-          "b": "Las familias de la procesión ya llevan su «pulsera» ComeHomeTag: un QR con tu contacto en niños y abuelos."
+          "role": "value",
+          "label": "SI IGUAL VA",
+          "h": "Un *brazo* fijo con nombre",
+          "b": "Yo hasta la iglesia, después tú"
         },
         {
-          "role": "cta",
-          "h": "Mismo lado y temprano. Empieza el mes.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "LA SEÑAL",
+          "h": "«Ya *recé*» es «ya nos vamos»",
+          "b": "Él nunca va a decir «estoy cansado»"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Para el que reza donde *siempre* rezó",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: si en el mar morado se aleja, quien lo vea desorientado lo escanea con su celular y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Mes Morado: la procesión del Señor de los Milagros junta más gente que 10 estadios llenos, y tu familia va a estar ahí. Las dos decisiones que ordenan el día: llegar en las primeras dos horas y entrar, ubicarse y salir por el MISMO lado del recorrido, porque el anda parte Lima en dos. Guárdalo para planear las salidas del mes. Mándaselo a quien se queda con ellos este fin de semana. #señordelosmilagros #mesmorado #procesion #lima #peru",
-        "tt": "Más gente que 10 estadios 💜 empieza el Mes Morado · mándaselo a quien se queda con ellos este fin de semana #mesmorado #lima",
-        "fb": "Empieza el Mes Morado. Si van en familia a la procesión: las primeras dos horas se camina, después la multitud es un solo cuerpo. Y la regla que pocos saben: el anda parte la ciudad en dos, así que se entra y se sale por el mismo lado del recorrido. ¿Tu familia va este año?"
+        "ig": "Adulto mayor con demencia en la procesión del Señor de los Milagros: no llevarlo no es crueldad. Ponerse nervioso en sitios llenos de gente y desorientarse en lugares nuevos son señales de riesgo de deambular. Lo que sí: la misa en su parroquia, el sitio que conoce, a la hora tranquila. Y si igual va, un brazo fijo con nombre y una señal digna para volver: «ya recé». ¿Lo llevas o no lo llevas? #señordelosmilagros #alzheimer",
+        "tt": "Abuelo con demencia y la procesión del Señor de los Milagros: la multitud lo pone nervioso y el sitio nuevo lo desorienta. Lo que sí: la misa en su parroquia. ¿Lo llevas o no lo llevas? #señordelosmilagros #alzheimer",
+        "fb": "Es el mes morado y en muchas casas se discute lo mismo: ¿llevamos al abuelo? Con demencia, la multitud y el sitio nuevo son dos señales de riesgo de que se pierda. Dejarlo en la misa de su parroquia no es crueldad, es cuidado. Y si igual va: un brazo fijo con nombre, y la señal «ya recé» para volver sin que diga que está cansado. ¿Ustedes lo llevan o no?"
       },
-      "alt": "Plan familiar para el Mes Morado: llegar temprano y salir por el mismo lado del recorrido."
+      "alt": "Por qué un adulto mayor con demencia puede no ir a la procesión, qué hacer en su lugar y el plan si igual va."
     },
     {
-      "slug": "15-grande-no-avisa",
+      "slug": "15-tu-hijo-puede-gritar",
       "slides": [
         {
           "role": "cover",
-          "emoji": "📱",
-          "h": "Tu hijo grande también se pierde, solo que no avisa",
-          "b": ""
+          "photo": "mercado",
+          "h": "Tu hijo perdido *puede* gritar en el mercado, dile hoy"
         },
         {
           "role": "value",
-          "h": "A los 15 se llama incomunicado",
-          "b": "Batería muerta, el plan cambió tres veces, no había pasaje. Para ti, a las 11pm, es lo mismo.",
-          "emoji": "😬"
+          "label": "PRIMERO",
+          "h": "Se queda donde *está*",
+          "b": "Un lugar abierto, no detrás de un puesto"
         },
         {
           "role": "value",
-          "h": "El trato sin pelea",
-          "b": "· Él comparte ubicación las noches que sale\n· Tú no escribes si la ves moverse normal\n· Solo si la señal desaparece, llamas"
+          "photo": "nino-mano",
+          "label": "SEGUNDO",
+          "h": "*Grita* «mamá» o «papá»",
+          "b": "El nombre lo oyes tú, no todo el mercado"
         },
         {
-          "role": "stat",
-          "shot": "llavero.png",
-          "h": "Confianza con red de seguridad",
-          "b": "El «llavero» ComeHomeTag va en sus llaves: si el celular murió, quien lo asista escanea y te llama."
+          "role": "value",
+          "label": "TERCERO",
+          "h": "Levanta la *mano* y no la baja",
+          "b": "Sobre las cabezas se ve, entre ellas no"
         },
         {
-          "role": "cta",
-          "h": "Propón el trato esta semana, sin sermón.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "CUÁNTO",
+          "h": "Hasta que lo *encuentres*",
+          "b": "Nunca sale a buscarte a la calle"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Cuando la voz no *alcanza*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: quien encuentre a tu hijo lo escanea con su celular y ve tu número sin que él diga nada."
         }
       ],
       "caption": {
-        "ig": "Adolescentes: a los 15 no se pierden, se incomunican. Batería muerta, plan cambiado, sin pasaje. El trato sin pelea: él comparte ubicación las noches que sale y tú no escribes si todo se ve normal. Información a cambio de cero interrogatorio. Guárdalo para proponerlo esta semana. Mándaselo a la abuela que los recoge del colegio. #adolescentes #crianza #peru #papas",
-        "tt": "Tu hijo grande también se pierde, solo que no avisa 📱 · mándaselo a la abuela que los recoge del colegio #adolescentes #peru",
-        "fb": "Con hijos grandes el miedo cambia de forma: ya no es la mano suelta, es el celular muerto a las 11pm. El trato que sí aceptan: ubicación compartida las noches de salida a cambio de cero interrogatorio mientras todo se vea normal. ¿Funcionaría con el tuyo?"
+        "ig": "Qué hace un niño que se pierde en el mercado: puede gritar, y hay que decírselo hoy. Se queda donde está, en un lugar abierto, para que tú lo encuentres. Grita «mamá» o «papá», porque ese nombre lo oyes tú entre todo el ruido. Levanta la mano y no la baja: sobre las cabezas se ve. Y nunca sale a buscarte a la calle. ¿Tu hijo grita o se calla? #seguridadinfantil #niños",
+        "tt": "Niño perdido en el mercado: se queda donde está, grita «mamá» o «papá», levanta la mano y no sale a la calle. Muchos se callan porque nadie les dio permiso. ¿El tuyo grita o se calla? #seguridadinfantil #niños",
+        "fb": "A los niños les enseñamos a no gritar en público y después esperamos que griten cuando se pierden. Hay que darles el permiso hoy: se queda donde está, grita «mamá» o «papá», levanta la mano sobre las cabezas y no sale a buscarte a la calle. ¿El tuyo grita o se calla?"
       },
-      "alt": "El trato de ubicación compartida sin interrogatorios para adolescentes que salen de noche."
+      "alt": "Permiso y plan para un niño que se pierde en un mercado: quedarse donde está, gritar mamá o papá, levantar la mano y no salir a la calle."
     },
     {
-      "slug": "16-nombre-en-la-mochila",
+      "slug": "16-nombre-afuera-de-la-mochila",
       "slides": [
         {
           "role": "cover",
-          "emoji": "🎒",
-          "h": "Si su nombre va en la mochila, un extraño puede llamarlo",
-          "b": ""
+          "photo": "nino-mochila",
+          "h": "Si su nombre va *afuera* de la mochila, un extraño lo llama"
         },
         {
           "role": "value",
-          "h": "El «¡Mati, ven!» que desarma todo",
-          "b": "Un niño que escucha su nombre asume que lo conocen. La confianza entera, regalada en un bordado.",
-          "emoji": "😨"
+          "label": "EL TRUCO",
+          "h": "«¡Mati, ven!» y él *va*",
+          "b": "Un niño que oye su nombre asume que lo conocen"
         },
         {
           "role": "value",
-          "h": "Dónde sí va el nombre",
-          "b": "· Dentro de la mochila y la lonchera\n· En la etiqueta interior de la casaca\n· Afuera, jamás: ni bordado ni en stickers"
+          "photo": "nino-mano",
+          "label": "DÓNDE SÍ",
+          "h": "*Adentro* de mochila y lonchera",
+          "b": "Y en la etiqueta interior de la casaca"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Tu contacto viaja escondido",
-          "b": "El QR de la «pulsera» ComeHomeTag no muestra nada a simple vista: habla recién cuando alguien lo escanea."
+          "role": "value",
+          "label": "EL BORDADO",
+          "h": "El uniforme con nombre se *tapa*",
+          "b": "Casaca encima de camino a casa"
         },
         {
-          "role": "cta",
-          "h": "Esta noche revisa mochilas y loncheras.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "SÍ VA",
+          "h": "Tu *número*, no su nombre",
+          "b": "Adentro, para quien ya lo encontró"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Tu contacto viaja *escondido*",
+          "b": "El QR de la «pulsera» ComeHomeTag no muestra nada a simple vista: habla recién cuando alguien lo escanea, y ahí ve tu número."
         }
       ],
       "caption": {
-        "ig": "Seguridad infantil: el nombre bordado en la mochila le da ventaja a cualquier extraño. Un niño que escucha «¡Mati, ven!» asume que lo conocen y baja la guardia entera. El nombre va DENTRO de la mochila y en etiquetas interiores, nunca visible. Guárdalo para revisar mochilas esta noche. ¿Tú le pondrías el nombre afuera? Mándaselo al papá que lo va a leer de noche. #seguridadinfantil #colegio #peru #papas",
-        "tt": "El nombre en la mochila ayuda al extraño 🎒 revísala hoy · mándaselo al papá que lo va a leer de noche #seguridadinfantil #peru",
-        "fb": "Suena inocente: la mochila con su nombre bordado. Pero un extraño que lee «Mati» ya puede llamarlo por su nombre, y un niño que escucha su nombre asume que lo conocen. El nombre va adentro; afuera, nada. ¿Habías caído en este detalle?"
+        "ig": "Nombre del niño en la mochila: si va afuera, cualquier extraño lo puede llamar por su nombre, y un niño que oye su nombre asume que lo conocen. El nombre va adentro de la mochila y la lonchera, y en la etiqueta interior de la casaca. El uniforme bordado se tapa con la casaca de camino a casa. Lo que sí va: tu número, adentro, para quien ya lo encontró. ¿El tuyo lleva su nombre afuera? #seguridadinfantil #niños",
+        "tt": "Nombre del niño afuera de la mochila: un extraño lo llama por su nombre y él va, porque asume que lo conocen. El nombre va adentro; afuera no va nada. ¿El tuyo lleva su nombre afuera? #seguridadinfantil #niños",
+        "fb": "Un niño que escucha su nombre asume que quien lo llama lo conoce. Por eso el nombre no va afuera de la mochila, ni de la lonchera, ni en la casaca a la vista: va adentro. El bordado del uniforme se tapa con la casaca al salir del colegio. Y lo único que sí conviene que lleve es tu número, adentro. ¿Tu hijo lleva su nombre afuera?"
       },
-      "alt": "Por qué el nombre visible en mochilas es un riesgo y dónde marcar la ropa."
+      "alt": "Por qué el nombre de un niño no va visible en la mochila ni el uniforme, dónde sí va y qué dato conviene que lleve adentro."
     },
     {
-      "slug": "17-antes-de-la-procesion",
+      "slug": "17-mensaje-hermano-lleva-al-abuelo",
       "slides": [
         {
           "role": "cover",
+          "photo": "abuela",
           "kicker": "MES MORADO",
-          "emoji": "🙏",
-          "h": "Qué hacer hoy si mañana van a la procesión",
-          "b": ""
+          "h": "El mensaje para tu *hermano* que lleva al abuelo a la procesión"
         },
         {
           "role": "value",
-          "h": "El brazo del abuelo tiene turnos",
-          "b": "«Del arranque a la iglesia lo llevo yo; después tú.» El relevo se pacta con nombres, la víspera."
+          "label": "COPIA ESTO",
+          "h": "«Su brazo es *tuyo* hasta la iglesia»",
+          "b": "Luego el mío. Nunca «alguien»"
         },
         {
           "role": "value",
-          "h": "Dos decisiones más, tomadas hoy",
-          "b": "· Banca o descanso ubicado cada hora\n· Hora de salida fija: la procesión sigue, ustedes vuelven a la hora dicha"
+          "photo": "abuelo",
+          "label": "LÍNEA 2",
+          "h": "«Cada hora, una *banca*»",
+          "b": "Él no va a decir que está cansado"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "La devoción se acompaña con plan",
-          "b": "El abuelo sale con su «pulsera» ComeHomeTag puesta: cualquier persona que lo asista escanea el QR y marca tu número."
+          "role": "value",
+          "label": "LÍNEA 3",
+          "h": "«Salen cuando el anda *descansa*»",
+          "b": "Policía, y dices «tiene demencia»"
         },
         {
-          "role": "cta",
-          "h": "Turnos, banca y hora. Mañana, la fe.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "LÍNEA 4",
+          "h": "«Si no lo ves *15* minutos, avisas»",
+          "b": "Policía, y dices que tiene demencia"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Para el hermano que lo *lleva* hoy",
+          "b": "El abuelo sale con su «pulsera» ComeHomeTag: si se aleja a rezar donde siempre rezó, quien lo asista escanea el QR y te llama."
         }
       ],
       "caption": {
-        "ig": "Procesión del Señor de los Milagros: lo que se decide la víspera. Los turnos del brazo del abuelo (relevo con nombres, pactado antes), una banca ubicada cada hora y la hora de salida fija, dicha antes de salir. Guárdalo para preparar la salida de mañana. Mándaselo a quien maneja el carro de la familia. #señordelosmilagros #mesmorado #abuelos #lima #peru",
-        "tt": "Mañana van a la procesión 🙏 esto se decide hoy · mándaselo a quien maneja el carro de la familia #mesmorado #lima #peru",
-        "fb": "Mañana es día fuerte de procesión. La decisión que más familias olvidan: el brazo del abuelo se releva por turnos, con nombres. «Del arranque a la iglesia lo llevo yo; después tú.» Con nombres y pactado la víspera. ¿Quién toma el primer turno en tu familia?"
+        "ig": "Llevar al abuelo a la procesión del Señor de los Milagros: el mensaje para el hermano que lo lleva. Su brazo es tuyo hasta la iglesia y después el mío, con nombre, nunca «alguien». Cada hora una banca, porque él no va a decir que está cansado. Salen cuando el anda descansa, antes de que la multitud decida. Y si no lo ves quince minutos, avisas a la policía diciendo que tiene demencia. Mándaselo a quien lleva al abuelo a la procesión este año. #señordelosmilagros #adultomayor",
+        "tt": "Llevar al abuelo a la procesión: su brazo tiene dueño con nombre, cada hora una banca, salen cuando el anda descansa y a los 15 minutos sin verlo se avisa. Mándaselo a quien lo lleva este año. #señordelosmilagros #adultomayor",
+        "fb": "Al abuelo lo lleva tu hermano y nadie le dijo cómo. Este es el mensaje: su brazo es tuyo hasta la iglesia y después el mío, con nombre y no «alguien»; cada hora una banca, porque él no va a decir que está cansado; salen cuando el anda descansa; y si no lo ves quince minutos, avisas a la policía diciendo que tiene demencia. Pásaselo a quien lo lleva este año."
       },
-      "alt": "La víspera de la procesión: turnos del brazo del abuelo, descansos y hora de salida fija."
+      "alt": "Cuatro líneas para quien lleva a un adulto mayor a una procesión: turnos del brazo con nombre, una banca cada hora, cuándo salir y cuándo avisar."
     },
     {
-      "slug": "18-mira-lo-alto",
+      "slug": "18-cuatro-ninos-de-la-procesion",
       "slides": [
         {
-          "role": "story",
+          "role": "cover",
+          "photo": "familia-parque",
           "kicker": "MES MORADO",
-          "plate": "cine-06-procesion",
-          "emoji": "🕯",
-          "h": "En la procesión no vas a ver ni las esquinas",
-          "b": "elige algo alto para reencontrarse"
+          "h": "Los 4 niños de la procesión y cuál es el *tuyo*"
         },
         {
           "role": "value",
-          "h": "El punto alto se elige al entrar",
-          "b": "Señalen juntos UNA cosa sobre las cabezas: la torre, el letrero grande. «Si nos separamos, caminamos hacia eso.»"
+          "label": "NIÑO 1",
+          "h": "El del *turrón*",
+          "b": "Ve el puesto y ya cruzó tres filas"
         },
         {
           "role": "value",
-          "h": "El hombro también es plan",
-          "b": "Niño cansado va al hombro: él te ve y tú lo ves. Cuando pasa el anda y la gente se aprieta, cargado siempre."
+          "photo": "mercado",
+          "label": "NIÑO 2",
+          "h": "El que sigue a la *banda*",
+          "b": "Camina detrás del bombo, no de ti"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Para el mar morado de hoy",
-          "b": "Niños y abuelos con su «pulsera» ComeHomeTag: cualquiera del tumulto la escanea y te llama."
+          "role": "value",
+          "label": "NIÑO 3",
+          "h": "El de la *vereda*",
+          "b": "Se cansó y se sentó donde estaba"
         },
         {
-          "role": "cta",
-          "h": "Miren lo alto antes de entrar.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "NIÑO 4",
+          "h": "El del *hombro*",
+          "b": "Te ve, lo ves, y mira la torre que eligieron"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "El niño 4 va con *respaldo*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: si el tuyo resulta ser el 1, quien lo encuentre entre el tumulto lo escanea y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Día de procesión: entre cien mil personas las esquinas desaparecen, solo se ve lo que está en alto. Al entrar, señalen juntos UNA cosa sobre las cabezas (la torre, el letrero grande): si se separan, todos caminan hacia eso. Y cuando pasa el anda, los niños van cargados. Guárdalo para la salida de hoy. Mándaselo a quien recoge a tus hijos. #señordelosmilagros #mesmorado #procesion #lima #peru",
-        "tt": "En la procesión nadie ve las esquinas 🕯 miren lo alto · mándaselo a quien recoge a tus hijos #mesmorado #lima",
-        "fb": "Truco de procesión que las familias con experiencia conocen: adentro de la multitud las esquinas no existen, solo se ve lo que sobresale. Por eso el punto se elige mirando ARRIBA: la torre, el letrero grande. Y en el paso del anda, cuando la gente se aprieta, los niños van al hombro. ¿Van hoy al recorrido?"
+        "ig": "Niños en la procesión del Señor de los Milagros: hay cuatro. El del turrón, que ve el puesto y ya cruzó tres filas. El que sigue a la banda y camina detrás del bombo. El de la vereda, que se cansó y se sentó donde estaba. Y el del hombro: te ve, lo ves, y los dos miran la torre que eligieron al entrar por si se separan. ¿Cuál es el tuyo? #señordelosmilagros #niños",
+        "tt": "Los 4 niños de la procesión: el del turrón, el que sigue a la banda, el de la vereda y el del hombro, que mira la torre que eligieron al entrar. ¿Cuál es el tuyo? #señordelosmilagros #niños",
+        "fb": "En la procesión hay cuatro niños. El del turrón cruza tres filas por un puesto. El que sigue a la banda camina detrás del bombo. El de la vereda se cansó y se sentó donde estaba. El del hombro te ve, lo ves, y los dos saben cuál es la torre que eligieron al entrar por si se separan. ¿Cuál es el tuyo?"
       },
-      "alt": "El punto alto visible sobre las cabezas y el hombro como plan en la procesión."
+      "alt": "Cuatro tipos de niño en una procesión multitudinaria y el que va al hombro mirando un punto alto elegido al entrar."
     },
     {
-      "slug": "19-cuatro-generaciones",
+      "slug": "19-el-coche-no-entra",
       "slides": [
         {
-          "role": "story",
+          "role": "cover",
+          "photo": "mercado",
           "kicker": "MES MORADO",
-          "plate": "cine-03-abuelo",
-          "emoji": "🟣",
-          "h": "A la procesión van cuatro generaciones juntas",
-          "b": "y el abuelo es el que más se pierde"
+          "h": "El *coche* del bebé no entra a la procesión"
         },
         {
           "role": "value",
-          "h": "El abuelo tiene su propia procesión",
-          "b": "Se aleja a saludar, a rezar donde siempre rezó. No está perdido en su cabeza, pero sí en la tuya."
+          "label": "LA ISLA",
+          "h": "No avanza y nadie lo *ve*",
+          "b": "La gente tropieza encima y no hay salida"
         },
         {
           "role": "value",
-          "h": "La señal de «ya recé»",
-          "b": "Él nunca va a decir «estoy cansado». Acuerden la señal digna: cuando diga «ya recé», la familia sale sin discutir."
+          "photo": "familia-parque",
+          "label": "EN VEZ",
+          "h": "*Fular* o mochila portabebé",
+          "b": "El bebé a la altura de tu cara"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Para el que reza donde siempre rezó",
-          "b": "El QR del abuelo lleva tu contacto y sus datos: ComeHomeTag, sin batería, legible con cualquier celular."
+          "role": "value",
+          "label": "TURNOS",
+          "h": "Dos adultos se lo *pasan*",
+          "b": "Cada hora, sin ponerlo en el piso"
         },
         {
-          "role": "cta",
-          "h": "«Ya recé» y todos a casa.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "EL BORDE",
+          "h": "Siempre por la *vereda* del recorrido",
+          "b": "Y por el mismo lado que entraron"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Los hermanitos que sí *caminan*",
+          "b": "Llevan su «pulsera» ComeHomeTag: un QR que, si el mar morado los separa, quien los encuentre escanea con su celular y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Procesión en familia: van el bisabuelo, la abuela, tú y tus hijos, y la generación de arriba es la que más se aleja: a saludar, a rezar donde siempre. El acuerdo digno que salva la tarde: la señal de «ya recé». Cuando él la diga, la familia sale sin discutir, sin obligarlo a admitir cansancio. Guárdalo para la próxima salida del mes. Mándaselo a la persona que los cuida cuando tú no estás. #mesmorado #abuelos #señordelosmilagros #lima #peru",
-        "tt": "La generación de arriba es la que más se pierde 🟣 · mándaselo a la persona que los cuida cuando tú no estás #mesmorado #abuelos #lima",
-        "fb": "En la procesión el abuelo tiene su propio mapa: otra época, otros amigos, el rincón donde siempre rezó. Y jamás va a decir «estoy cansado». Por eso se acuerda la señal digna: cuando diga «ya recé», todos salen sin discutir. ¿Tu abuelo también aguanta de más?"
+        "ig": "Bebé en la procesión del Señor de los Milagros: el coche no entra. En el tumulto el coche es una isla: no avanza, nadie lo ve y la gente tropieza encima. Va en fular o mochila portabebé, a la altura de tu cara. Dos adultos se lo pasan cada hora sin ponerlo en el piso. Y siempre por la vereda, por el mismo lado por el que entraron. ¿Coche o fular? #señordelosmilagros #bebé",
+        "tt": "Bebé en la procesión: el coche no entra, es una isla en el tumulto. Fular o mochila portabebé, turnos entre dos adultos y siempre por la vereda. ¿Coche o fular? #señordelosmilagros #bebé",
+        "fb": "El coche del bebé en la procesión no avanza, no retrocede y nadie lo ve: la gente tropieza encima. Va en fular o mochila portabebé a la altura de tu cara, dos adultos se lo pasan cada hora, y siempre por la vereda del recorrido, por el mismo lado por el que entraron. ¿Ustedes van con coche o con fular?"
       },
-      "alt": "El abuelo en la procesión: su propia ruta y la señal digna para volver a casa."
+      "alt": "Por qué el coche del bebé no sirve en una procesión multitudinaria y qué usar en su lugar: fular, turnos y el borde del recorrido."
     },
     {
-      "slug": "20-ahi-nomas",
+      "slug": "20-ahi-nomas-esta",
       "slides": [
         {
           "role": "cover",
-          "emoji": "🍬",
-          "h": "Los niños se pierden en el «ahí nomás»",
-          "b": "a 30 metros, no a 30 cuadras"
+          "photo": "nino-mano",
+          "h": "«Ahí nomás está» es la frase que se dice *antes* de perderlo"
         },
         {
           "role": "value",
-          "h": "Octubre llena las esquinas de imanes",
-          "b": "Turroneras, anticucheras, picarones. Cada puesto es un imán con azúcar: a los puestos se va acompañado, siempre."
+          "label": "LA FRASE",
+          "h": "Todos la *decimos*",
+          "b": "Y mientras, él ya dobló la esquina"
         },
         {
           "role": "value",
-          "h": "La regla del brazo",
-          "b": "En calle llena, si está a más de un brazo tuyo, ya está lejos. Suena exagerado hasta que la vereda se llena."
+          "photo": "mercado",
+          "label": "LA REGLA",
+          "h": "A más de un *brazo*, ya está lejos",
+          "b": "En calle llena, no en el parque"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Octubre huele a turrón y a calles llenas",
-          "b": "La «pulsera» ComeHomeTag lleva tu contacto en su muñeca, por si el imán del azúcar gana una vez."
+          "role": "value",
+          "label": "LOS IMANES",
+          "h": "Turrón, picarones, *globos*",
+          "b": "Cada puesto lo jala un metro más"
         },
         {
-          "role": "cta",
-          "h": "Al puesto van juntos. Y compran doble.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "AL PUESTO",
+          "h": "Van *juntos* y compran doble",
+          "b": "El que se queda «cuidando» no cuida"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Para el «ahí nomás» que *falló*",
+          "b": "La «pulsera» ComeHomeTag lleva tu número en su muñeca: quien lo encuentre escanea el QR con su celular y te llama."
         }
       ],
       "caption": {
-        "ig": "Niños perdidos: casi nunca es lejos, es en el «ahí nomás». A 30 metros, junto al puesto de turrón que nadie acompañó. En octubre cada esquina tiene un imán con azúcar: al puesto se va junto, y en calle llena rige la regla del brazo: a más de un brazo, ya está lejos. Guárdalo para las salidas del mes. Mándaselo a tus hermanos, esto no se decide solo. #mesmorado #turron #lima #peru #niños",
-        "tt": "Se pierden en el «ahí nomás» 🍬 a 30 metros · mándaselo a tus hermanos, esto no se decide solo #niños #lima #peru",
-        "fb": "El turrón de Doña Pepa en cada esquina y los niños magnetizados. El dato serio: los niños no se pierden a 30 cuadras, se pierden a 30 metros, en el «ahí nomás» que nadie acompañó. En calle llena: más de un brazo de distancia ya es lejos. ¿Antojo de turrón hoy?"
+        "ig": "Niños que se pierden en calles llenas en octubre: la frase que se dice justo antes es «ahí nomás está». Todos la decimos, y mientras, él ya dobló la esquina. La regla: en calle llena, a más de un brazo tuyo ya está lejos. Turrón, picarones y globos son imanes que lo jalan un metro más cada vez. Al puesto van juntos y compran doble. ¿Quién la dice en tu casa? #seguridadinfantil #niños",
+        "tt": "«Ahí nomás está» es lo que se dice antes de perder a un niño en una calle llena. La regla: a más de un brazo tuyo ya está lejos. Al puesto de turrón van juntos. ¿Quién la dice en tu casa? #seguridadinfantil #niños",
+        "fb": "«Ahí nomás está». Todos la hemos dicho, y mientras la decimos el niño ya dobló la esquina detrás de un globo. En calle llena la regla es una: a más de un brazo tuyo ya está lejos. Al puesto de turrón van juntos, y el que se queda «cuidando» no cuida. ¿Quién la dice en tu casa?"
       },
-      "alt": "El peligro del ahí nomás: los puestos de octubre y la regla del brazo."
+      "alt": "La frase que se dice antes de perder a un niño en una calle llena y la regla del brazo para octubre."
     },
     {
-      "slug": "21-volvio-solo",
+      "slug": "21-cuatro-mamas-11pm",
       "slides": [
         {
           "role": "cover",
-          "emoji": "😳",
-          "h": "Tu hijo volvió solo del colegio sin que nadie lo decidiera",
-          "b": ""
+          "photo": "noche-calle",
+          "h": "4 mamás cuando el hijo de 15 no contesta a las *11pm*"
         },
         {
           "role": "value",
-          "h": "Las 3 pruebas antes del sí",
-          "b": "· Conoce 2 rutas, no 1\n· Sabe a qué vecino tocar si no hay nadie\n· Cruza mirando sin que se lo recuerden"
+          "label": "MAMÁ 1",
+          "h": "La de las 20 *llamadas*",
+          "b": "Batería muerta y ella marcando"
         },
         {
           "role": "value",
-          "h": "El ensayo con sombra",
-          "b": "Las primeras 3 veces vuelve «solo» contigo a media cuadra. Ves qué le falta antes de que se lo enseñe la calle."
+          "photo": "nino-mochila",
+          "label": "MAMÁ 2",
+          "h": "La del grupo de *mamás*",
+          "b": "«¿Alguien sabe algo de Mati?»"
         },
         {
           "role": "value",
-          "h": "El acuerdo del cambio de plan",
-          "b": "Cualquier cambio se avisa ANTES de moverse, no llegando. Vale para él y también para papá."
+          "label": "MAMÁ 3",
+          "h": "La que sale a *buscarlo*",
+          "b": "En pijama, a la casa del amigo"
         },
         {
-          "role": "stat",
-          "shot": "llavero.png",
-          "h": "Crecer es volver solo, con sistema",
-          "b": "El «llavero» ComeHomeTag va en su mochila: habla por él si un día el plan falla."
+          "role": "value",
+          "label": "MAMÁ 4",
+          "h": "La del *trato*",
+          "b": "Él activa su ubicación, ella no escribe"
         },
         {
-          "role": "cta",
-          "h": "Toma la decisión, no la dejes pasar.",
-          "b": "comehometag.com"
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "El trato, con *respaldo*",
+          "b": "La «pulsera» ComeHomeTag va en su muñeca: si el celular murió, quien lo asista escanea el QR y ve tu número, no el de un amigo."
         }
       ],
       "caption": {
-        "ig": "Volver solo del colegio: la decisión que casi nadie toma, solo pasa. Las pruebas antes del sí (2 rutas, el vecino al que toca, cruza sin recordatorio), el ensayo con sombra (tú a media cuadra las primeras 3 veces) y el acuerdo de avisar ANTES de cambiar el plan. Guárdalo para cuando toque decidir. Mándaselo al grupo del salón. #colegio #crianza #peru #niños",
-        "tt": "Volvió solo y nadie lo decidió 😳 las pruebas del sí · mándaselo al grupo del salón #crianza #peru",
-        "fb": "«¿Desde cuándo vuelves solo?» «Desde hoy pues.» La decisión de volver solo no debería tomarla el niño por default. Las pruebas del sí, el ensayo con sombra a media cuadra y una regla que vale para toda la familia: el cambio de plan se avisa antes de moverse. ¿A qué edad soltaste tú?"
+        "ig": "Hijo adolescente que no contesta el celular de noche: hay cuatro mamás. La de las veinte llamadas a un celular con batería muerta. La del grupo de mamás preguntando si alguien sabe algo. La que sale en pijama a la casa del amigo. Y la del trato: él activa su ubicación las noches que sale y ella no escribe si lo ve moverse. ¿Cuál mamá eres? #adolescentes #mamás",
+        "tt": "Hijo de 15 no contesta a las 11pm: la de las 20 llamadas, la del grupo de mamás, la que sale a buscarlo en pijama y la del trato de ubicación activada. ¿Cuál mamá eres? #adolescentes #mamás",
+        "fb": "Son las once y el de quince no contesta. Mamá 1 hace veinte llamadas a un celular muerto. Mamá 2 escribe al grupo de mamás. Mamá 3 sale en pijama a la casa del amigo. Mamá 4 tiene un trato: él activa su ubicación las noches que sale y ella no escribe si lo ve moverse. ¿Cuál eres?"
       },
-      "alt": "Cuándo puede volver solo del colegio: pruebas, ensayo con sombra y aviso de cambios."
+      "alt": "Cuatro tipos de mamá cuando un adolescente no contesta de noche y el trato de ubicación activada que evita la pelea."
     },
     {
-      "slug": "22-feria-luces",
+      "slug": "22-el-trato-parte-2",
       "slides": [
         {
           "role": "cover",
-          "emoji": "🎡",
-          "h": "En la feria tu hijo sigue las luces, no tu voz",
-          "b": ""
+          "photo": "nino-mochila",
+          "h": "Trato con tu hijo de 15, parte 2: lo que *tú* prometes"
         },
         {
           "role": "value",
-          "h": "El imán tiene nombre",
-          "b": "Pregúntale AL LLEGAR qué juego quiere. Si desaparece, ya sabes a dónde caminó: hacia lo que quería."
+          "label": "PROMESA 1",
+          "h": "No escribes si lo ves *moverse*",
+          "b": "El punto en el mapa ya te contestó"
         },
         {
           "role": "value",
-          "h": "Su adulto fijo de la feria",
-          "b": "El señor del juego que quería: tiene parlante, ve desde arriba y es el único que no se mueve de su sitio."
+          "photo": "noche-calle",
+          "label": "PROMESA 2",
+          "h": "Una llamada, no *veinte*",
+          "b": "Si no contesta, esperas la hora pactada"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Luces, música y mil personas por hora",
-          "b": "Los papás de feria ya conocen la «pulsera» ComeHomeTag: quien encuentre al niño escanea su QR y te llama."
+          "role": "value",
+          "label": "PROMESA 3",
+          "h": "«Llegué» y *cero* preguntas",
+          "b": "Las preguntas son al desayuno"
         },
         {
-          "role": "cta",
-          "h": "Pregúntale su juego al llegar.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "LO DE ÉL",
+          "h": "Ubicación *activada* al salir",
+          "b": "Se prende una vez y él no hace nada"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "El trato, con la parte de *ambos*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: si el celular murió y alguien lo asiste, lo escanea y ve tu número, sin que él haga nada."
         }
       ],
       "caption": {
-        "ig": "Ferias de octubre: tu hijo no sigue tu voz, sigue las luces. El truco de entrada: pregúntale qué juego quiere apenas lleguen. Ese juego es su imán y tu primer lugar de búsqueda. Y el operador de ese juego es su adulto fijo: parlante, altura y no se mueve de su sitio. Guárdalo para la feria del fin de semana. Mándaselo a quien se queda con ellos este fin de semana. #ferias #niños #peru #seguridadinfantil",
-        "tt": "En la feria sigue las luces, no tu voz 🎡 · mándaselo a quien se queda con ellos este fin de semana #ferias #niños #peru",
-        "fb": "En la feria hay luces, música y mil personas por hora. Dos trucos de papá con experiencia: preguntar al llegar qué juego quiere (si desaparece, caminó hacia allá) y presentarle al operador de ese juego como su adulto fijo. ¿Van a alguna feria este mes?"
+        "ig": "Trato de ubicación con hijo adolescente, parte 2: lo que promete el papá. No escribes si lo ves moverse en el mapa, porque el punto ya te contestó. Una llamada, no veinte: si no contesta, esperas la hora pactada. Y cuando llega y dice «llegué», cero preguntas hasta el desayuno. Lo de él: ubicación activada las noches que sale, se prende una vez y no hace nada más. Mándaselo a tu mamá si eres el de 15. #adolescentes #mamás",
+        "tt": "Trato de ubicación con tu hijo de 15, parte 2, lo que prometes tú: no escribes si lo ves moverse, una llamada y no veinte, y cero preguntas al «llegué». Mándaselo a tu mamá si eres el de 15. #adolescentes #mamás",
+        "fb": "Parte 2 del trato. Él activa su ubicación las noches que sale. Tú prometes tres cosas: no escribir si lo ves moverse en el mapa, una llamada y no veinte, y cero preguntas cuando escribe «llegué» (las preguntas son al desayuno). Si eres el de quince, pásaselo a tu mamá."
       },
-      "alt": "El juego imán como primer lugar de búsqueda y el operador como adulto fijo en ferias."
+      "alt": "Las tres promesas del papá en el trato de ubicación con un hijo adolescente: no escribir si se mueve, una sola llamada y cero preguntas al llegar."
     },
     {
-      "slug": "23-silbato",
+      "slug": "23-preguntale-al-entrar-a-la-feria",
       "slides": [
         {
           "role": "cover",
-          "emoji": "📣",
-          "h": "Un silbato encuentra a tu hijo más rápido que tus gritos",
-          "b": ""
+          "photo": "familia-parque",
+          "h": "Pregúntale esto al entrar a la feria y sabrás dónde *buscarlo*"
         },
         {
           "role": "value",
-          "h": "Tu voz no viaja en multitud",
-          "b": "El nombre gritado compite con parlantes y mil conversaciones. El silbato corta en otra frecuencia y no se cansa."
+          "label": "LA PREGUNTA",
+          "h": "«¿Qué juego *quieres*?»",
+          "b": "Si desaparece, caminó hacia ese"
         },
         {
           "role": "value",
-          "h": "El código de tu familia",
-          "b": "· Dos pitidos: «¿dónde estás?»\n· Tres pitidos: «ven ya»\n· Al cuello los días de multitud, y se ensaya en el parque"
+          "photo": "noche-calle",
+          "label": "EL FIJO",
+          "h": "El señor de ese *juego*",
+          "b": "Tiene parlante y ve desde arriba"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Sonido para encontrarse cerca, QR para lo demás",
-          "b": "Si lo encuentra alguien más, la «pulsera» ComeHomeTag le dice a quién llamar."
+          "role": "value",
+          "label": "EL PUNTO",
+          "h": "Un sitio con *nombre*",
+          "b": "«La rueda», no «la entrada»"
         },
         {
-          "role": "cta",
-          "h": "Dos silbatos, un código.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "LAS LUCES",
+          "h": "De noche te sigue la *luz*, no tu voz",
+          "b": "Tú vas detrás, no adelante"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Luces, música y tu *número*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: quien encuentre a tu hijo entre los juegos lo escanea con su celular y ve tu contacto al instante."
         }
       ],
       "caption": {
-        "ig": "Truco de multitudes: gritar su nombre es competir contra parlantes y mil conversaciones; un silbato corta todo en otra frecuencia y no gasta la voz. El código familiar: dos pitidos pregunta, tres pitidos llamada, y ensayo en el parque. Guárdalo para las procesiones y ferias que vienen. Mándaselo a la abuela que los recoge del colegio. #seguridadinfantil #multitudes #peru #niños",
-        "tt": "Un silbato vale más que cien gritos 📣 el código · mándaselo a la abuela que los recoge del colegio #niños #peru",
-        "fb": "En el mes de las multitudes, un dato barato: la voz no viaja, el silbato sí. Cuesta dos soles, corta cualquier bulla y con un código de familia (dos pitidos pregunta, tres llamada) se vuelve un walkie talkie sin batería. ¿Lo probarías con tus hijos?"
+        "ig": "Niño perdido en la feria: la pregunta que se hace al entrar es «¿qué juego quieres?». Si desaparece, ya sabes hacia dónde caminó. El señor de ese juego es su adulto fijo: tiene parlante y ve desde arriba. El punto de encuentro tiene nombre, «la rueda», no «la entrada». Y de noche el niño sigue la luz, no tu voz: tú vas detrás de él. ¿Qué juego pediría el tuyo? #feria #seguridadinfantil",
+        "tt": "Al entrar a la feria pregúntale qué juego quiere: si desaparece, caminó hacia ese. El señor del juego tiene parlante y el punto de encuentro tiene nombre. ¿Qué juego pediría el tuyo? #feria #niños",
+        "fb": "En la feria el niño sigue las luces, no tu voz. Por eso la pregunta se hace al entrar: «¿qué juego quieres?». Si desaparece, ya sabes hacia dónde caminó, y el señor de ese juego tiene parlante y ve desde arriba. El punto de encuentro tiene nombre propio. ¿Qué juego pediría el tuyo?"
       },
-      "alt": "El silbato con código familiar de pitidos para días de multitud."
+      "alt": "La pregunta que se le hace a un niño al entrar a una feria para saber dónde buscarlo si se pierde, y el punto de encuentro con nombre."
     },
     {
       "slug": "24-primero-el-agua",
       "slides": [
         {
           "role": "cover",
-          "emoji": "😰",
-          "h": "Si tu hijo se pierde cerca del agua, mira el agua primero",
-          "b": "la regla que ojalá nunca uses"
+          "photo": "nino-mano",
+          "h": "Si tu hijo se pierde cerca del agua, mira el agua *primero*"
         },
         {
           "role": "value",
-          "h": "El ahogo no hace ruido",
-          "b": "Ni grito ni chapoteo de película: la boca apenas sale y los brazos no saludan. Por eso nadie voltea."
+          "label": "EL ORDEN",
+          "h": "Piscina, pileta o tanque *primero*",
+          "b": "Después el resto del local"
         },
         {
           "role": "value",
-          "h": "El orden de los primeros minutos",
-          "b": "· Piscina, pileta o tanque: se revisa PRIMERO\n· Después el resto del local\n· En la playa, la orilla antes que la arena"
+          "photo": "familia-parque",
+          "label": "SIN RUIDO",
+          "h": "No hay grito de *película*",
+          "b": "La boca apenas sale, los brazos no saludan"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "El otro plan se lleva puesto",
-          "b": "El plan de agua se aprende; el de perderse va en su muñeca: la «pulsera» ComeHomeTag con tu número."
+          "role": "value",
+          "label": "UN ADULTO",
+          "h": "El que *mira* el agua no conversa",
+          "b": "Turnos cortos, dichos en voz alta"
         },
         {
-          "role": "cta",
-          "h": "Primero el agua. Ojalá jamás.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "AL LLEGAR",
+          "h": "La regla del *borde*",
+          "b": "Del agua se está a más de un brazo tuyo"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Primero el agua, y *ojalá* jamás",
+          "b": "El plan de agua se aprende; el de perderse va puesto: la «pulsera» ComeHomeTag lleva un QR que quien lo encuentre escanea y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Regla de búsqueda que salva vidas: si un niño se pierde donde hay agua, el agua se revisa PRIMERO. El ahogo no hace ruido: ni grito ni chapoteo, la boca apenas sale. Piscina, pileta o tanque antes que el resto; en la playa, la orilla antes que la arena. Empiezan los días de sol: guárdala para la primera piscina de la temporada. ¿Conocías este orden? Mándaselo al papá que lo va a leer de noche. #seguridadinfantil #piscina #verano #peru #niños",
-        "tt": "Si se pierde cerca del agua, mira el agua PRIMERO 😰 · mándaselo al papá que lo va a leer de noche #seguridadinfantil #peru",
-        "fb": "Esto casi nadie lo sabe y cambia finales: un niño que se ahoga no grita ni chapotea, se hunde en silencio. Por eso, si se pierde donde hay agua, el agua se revisa primero y el resto después. Arranca la temporada de piscinas: compártelo con quien organiza el primer paseo."
+        "ig": "Niño perdido cerca de una piscina: se revisa el agua primero. Piscina, pileta o tanque antes que el resto del local, porque ahogarse no suena como en las películas: la boca apenas sale y los brazos no saludan. Un adulto mira el agua y no conversa, en turnos cortos dichos en voz alta. Y al llegar, la regla del borde: del agua se está a más de un brazo tuyo. ¿Quién mira el agua en tu familia? #seguridadinfantil #piscina",
+        "tt": "Niño perdido cerca del agua: piscina, pileta o tanque se revisan primero. Ahogarse no hace ruido, y un adulto mira el agua sin conversar. ¿Quién mira el agua en tu familia? #seguridadinfantil #piscina",
+        "fb": "Si un niño se pierde en un local con piscina, el orden de búsqueda es uno: el agua primero, después todo lo demás. Ahogarse no suena como en las películas. Y desde que llegan, un adulto mira el agua y no conversa, en turnos cortos dichos en voz alta. ¿Quién mira el agua en tu familia?"
       },
-      "alt": "La regla de mirar primero el agua cuando un niño se pierde cerca de piscinas."
+      "alt": "El orden de búsqueda cuando un niño se pierde cerca de una piscina: el agua primero, un adulto que mira sin conversar y la regla del borde."
     },
     {
-      "slug": "25-disfraz-de-noche",
+      "slug": "25-tres-pruebas-del-disfraz",
       "slides": [
         {
-          "role": "story",
+          "role": "cover",
+          "photo": "noche-calle",
           "kicker": "HALLOWEEN",
-          "plate": "cine-13-halloween",
-          "emoji": "🎃",
-          "h": "Haz que tu hijo camine de noche con el disfraz puesto",
-          "b": "quedan 6 días para probarlo"
+          "h": "3 pruebas que el *disfraz* de tu hijo pasa antes de salir"
         },
         {
           "role": "value",
-          "h": "El ensayo general nocturno",
-          "b": "Disfraz completo, en la calle, a las 8pm: ¿ve por la máscara?, ¿camina sin pisarse la capa?, ¿aguanta el frío?"
+          "label": "PRUEBA 1",
+          "h": "Ve por la *máscara*",
+          "b": "Caminando de noche, no en la sala"
         },
         {
           "role": "value",
-          "h": "Cinta reflectiva, sí o sí",
-          "b": "Dos tiras de cinta reflectiva en zapatillas y bolsa de dulces: el chofer lo ve a una cuadra, no a tres metros."
+          "photo": "nino-mano",
+          "label": "PRUEBA 2",
+          "h": "No pisa la *capa*",
+          "b": "Sube una vereda sin las manos"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "El disfraz más lindo no dice quién es",
-          "b": "La «pulsera» ComeHomeTag sí: quien lo asista escanea su QR y marca tu número."
+          "role": "value",
+          "label": "PRUEBA 3",
+          "h": "El chofer lo *ve*",
+          "b": "Cinta reflectiva en zapatillas y bolsa"
         },
         {
-          "role": "cta",
-          "h": "Esta noche: ensayo general con linterna.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "EL ENSAYO",
+          "h": "En la calle, a la *hora* real",
+          "b": "Disfraz completo y tú detrás"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "El disfraz más lindo no dice *quién* es",
+          "b": "La «pulsera» ComeHomeTag sí: lleva un QR y quien asista a tu hijo lo escanea con su celular y marca tu número."
         }
       ],
       "caption": {
-        "ig": "Halloween en 6 días y el disfraz solo se ha probado de día. El ensayo general nocturno: disfraz completo en la calle a las 8pm (¿ve?, ¿camina?, ¿aguanta?) y dos tiras de cinta reflectiva en zapatillas y bolsa, porque el disfraz más lindo es invisible para un chofer. Guárdalo para el ensayo de esta semana. Mándaselo a quien maneja el carro de la familia. #halloween #niños #peru #disfraces",
-        "tt": "El disfraz aún no camina de noche 🎃 ensáyalo esta semana · mándaselo a quien maneja el carro de la familia #halloween #peru",
-        "fb": "El disfraz se compra de día, se prueba de día... y se usa de noche. Ahí está el error. Esta semana toca ensayo general nocturno: disfraz completo en la calle, y cinta reflectiva en zapatillas y bolsa de dulces. ¿Ya está listo el disfraz de tus hijos?"
+        "ig": "Disfraz de Halloween seguro para niños: tres pruebas antes de salir. Que vea por la máscara caminando de noche, no en la sala. Que no pise la capa: sube una vereda sin usar las manos. Que el chofer lo vea: cinta reflectiva en zapatillas y en la bolsa de dulces. Se ensaya en la calle a la hora real, con el disfraz completo y tú detrás. ¿Cuál prueba falla el de tu hijo? #halloween #niños",
+        "tt": "Disfraz de Halloween: tres pruebas antes de salir. Ve por la máscara de noche, no pisa la capa y el chofer lo ve con cinta reflectiva. ¿Cuál falla el de tu hijo? #halloween #niños",
+        "fb": "El disfraz se prueba en la calle, de noche, antes del día. Tres pruebas: ve por la máscara caminando, no pisa la capa al subir una vereda, y el chofer lo ve gracias a la cinta reflectiva en zapatillas y bolsa. Con el disfraz completo y tú caminando detrás. ¿Cuál prueba falla el de tu hijo?"
       },
-      "alt": "Ensayo nocturno del disfraz de Halloween y cinta reflectiva para ser visible."
+      "alt": "Tres pruebas para un disfraz infantil antes de salir de noche: visión con la máscara, no pisar la capa y cinta reflectiva."
     },
     {
-      "slug": "26-coche-al-tumulto",
+      "slug": "26-la-foto-de-la-puerta",
       "slides": [
         {
           "role": "cover",
+          "photo": "familia-parque",
           "kicker": "MES MORADO",
-          "emoji": "🍼",
-          "h": "El coche del bebé no entra a la procesión",
-          "b": ""
+          "h": "Toma esta *foto* en la puerta antes de ir a la procesión"
         },
         {
           "role": "value",
-          "h": "En el tumulto el coche es una isla",
-          "b": "No avanza, no retrocede y nadie lo ve: la gente tropieza encima. Y no hay por dónde sacarlo."
+          "label": "CUERPO ENTERO",
+          "h": "Con la ropa que *lleva* hoy",
+          "b": "De pie y de frente, con zapatillas"
         },
         {
           "role": "value",
-          "h": "Con bebé, el plan es otro",
-          "b": "· Fular o mochila portabebé\n· Turnos de carga entre dos adultos\n· Siempre el borde del recorrido, nunca el centro"
+          "photo": "nino-mano",
+          "label": "LA CARA",
+          "h": "Otra de *cerca*, sin gorra",
+          "b": "Con la gorra puesta no lo reconocen"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Los hermanitos que sí caminan llevan la suya",
-          "b": "La «pulsera» ComeHomeTag con tu contacto: en el mar de gente, los niños de a pie son los que se sueltan."
+          "role": "value",
+          "label": "EL ABUELO",
+          "h": "También la *suya*",
+          "b": "La foto de este mes, no la del carnet"
         },
         {
-          "role": "cta",
-          "h": "El coche se queda, el borde se camina.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "AL CHAT",
+          "h": "Se manda al grupo de la *familia*",
+          "b": "Todos la tienen antes de entrar"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "La foto que ojalá no *uses*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: quien encuentre a tu hijo o a tu papá lo escanea y ve tu número antes de que tú busques la foto."
         }
       ],
       "caption": {
-        "ig": "Procesión con bebé: el coche no entra. En el tumulto se vuelve una isla que no avanza ni retrocede y con la que todos tropiezan. El plan correcto: fular o mochila portabebé, turnos de carga entre dos adultos y siempre el borde del recorrido. Guárdalo si van con bebé al día central. Mándaselo a quien recoge a tus hijos. #mesmorado #señordelosmilagros #bebes #lima #peru",
-        "tt": "El coche del bebé no entra a la procesión 🍼 · mándaselo a quien recoge a tus hijos #mesmorado #lima #peru",
-        "fb": "Consejo de familias que ya lo vivieron: a la procesión no se entra con coche de bebé. Adentro no avanza, no retrocede y nadie lo ve. Con bebé: fular o portabebé, turnos de carga entre dos adultos y el borde del recorrido, nunca el centro. ¿Van con bebé este mes?"
+        "ig": "Foto de tu hijo antes de la procesión del Señor de los Milagros: se toma en la puerta, con la ropa que lleva hoy. Una de cuerpo entero, de pie y de frente, zapatillas incluidas. Otra de cerca sin gorra, porque con la gorra puesta no lo reconocen. Al abuelo también: la foto de este mes, no la del carnet. Y se manda al grupo de la familia antes de entrar. Guárdalo para la mañana de la procesión. #señordelosmilagros #niños",
+        "tt": "Antes de la procesión, la foto en la puerta: cuerpo entero con la ropa de hoy, otra de cerca sin gorra, y la del abuelo de este mes. Al grupo de la familia antes de entrar. ¿Ya tienes la foto de este mes? #señordelosmilagros #niños",
+        "fb": "Hay una foto que se toma en la puerta antes de salir a la procesión: cuerpo entero con la ropa que lleva hoy, y otra de cerca sin gorra. Al abuelo también, la de este mes y no la del carnet. Se manda al grupo de la familia antes de entrar, y ojalá nadie la necesite. ¿Ya tienes la foto de este mes?"
       },
-      "alt": "Por qué el coche de bebé no entra al tumulto y el plan de carga por turnos."
+      "alt": "La foto de cuerpo entero con la ropa del día que se toma en la puerta antes de ir a una procesión, del niño y del abuelo."
     },
     {
-      "slug": "27-la-puerta-antes-de-salir",
+      "slug": "27-cinco-palabras-parte-2",
       "slides": [
         {
           "role": "cover",
+          "photo": "nino-mochila",
           "kicker": "MES MORADO",
-          "emoji": "⛪",
-          "h": "Mañana sale el Señor y sale medio Lima",
-          "b": "esto se dice en la puerta antes de salir"
+          "h": "Las 5 palabras que describen a tu hijo *hoy*, parte 2"
         },
         {
           "role": "value",
-          "h": "El inventario en voz alta",
-          "b": "En la puerta, cada adulto dice qué lleva puesto su niño y su abuelo. Lo que dices en voz alta se te queda; lo que solo miraste, no."
+          "label": "LA FRASE",
+          "h": "«Niño, 6 años, casaca *roja*, jean»",
+          "b": "Color, prenda, edad. Nada más"
         },
         {
           "role": "value",
-          "h": "El carro se queda en casa",
-          "b": "Transporte público hasta donde llegue y el resto a pie. El carro «cerquita» queda atrapado hasta la noche."
+          "photo": "mercado",
+          "label": "POR QUÉ 5",
+          "h": "Se entiende en un *segundo*",
+          "b": "El que la oye lo puede visualizar"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "El día grande merece el plan grande",
-          "b": "Mañana el centro se viste de morado: ComeHomeTag puesto en cada muñeca de la familia."
+          "role": "value",
+          "label": "SE DICE",
+          "h": "En la puerta, en voz *alta*",
+          "b": "Cada adulto repite la del niño que lleva"
         },
         {
-          "role": "cta",
-          "h": "Dicho en la puerta, vueltos completos.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "SI PASA",
+          "h": "Es lo primero que *dices*",
+          "b": "Al personal, al policía, al del megáfono"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Las 5 palabras y un *número*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: quien encuentre a tu hijo entre la multitud lo escanea y ve tu contacto sin que nadie describa nada."
         }
       ],
       "caption": {
-        "ig": "Víspera del recorrido grande del Señor de los Milagros. Dos costumbres que ordenan el día: el inventario en voz alta en la puerta (cada adulto dice qué lleva puesto su niño y su abuelo, porque lo dicho se recuerda) y el carro se queda en casa: el centro se cierra por horas. Guárdalo para mañana temprano. Mándaselo a la persona que los cuida cuando tú no estás. #señordelosmilagros #mesmorado #lima #peru #procesion",
-        "tt": "Mañana sale el Señor y sale medio Lima ⛪ · mándaselo a la persona que los cuida cuando tú no estás #mesmorado #lima",
-        "fb": "Mañana es el día grande y el centro se transforma: calles cerradas y la ciudad vestida de morado. La costumbre que más ayuda cuesta un minuto: en la puerta, antes de salir, cada adulto dice en voz alta qué lleva puesto su niño y su abuelo. Diez horas después, esa frase vale oro. ¿Van mañana?"
+        "ig": "Cómo describir a un niño perdido en una multitud, parte 2 de la foto de la puerta: cinco palabras. «Niño, seis años, casaca roja, jean». Color, prenda y edad, nada más, porque el que la oye lo tiene que visualizar en un segundo. Se dice en la puerta en voz alta y cada adulto repite la del niño que lleva. Si pasa, es lo primero que dices al personal, al policía o al del megáfono. ¿Cuáles son las 5 de tu hijo hoy? #señordelosmilagros #niños",
+        "tt": "Parte 2: las 5 palabras que describen a tu hijo hoy. «Niño, 6 años, casaca roja, jean». Se dicen en la puerta en voz alta y son lo primero que dices si pasa. ¿Cuáles son las 5 del tuyo hoy? #señordelosmilagros #niños",
+        "fb": "Ayer la foto de la puerta. Hoy, las cinco palabras que la acompañan: «niño, seis años, casaca roja, jean». Color, prenda y edad, para que quien la oiga lo visualice en un segundo. Cada adulto las dice en voz alta en la puerta por el niño que lleva. Si pasa, es lo primero que dices al personal o al policía. ¿Cuáles son las cinco de tu hijo hoy?"
       },
-      "alt": "La víspera del día grande: el inventario en voz alta y dejar el carro en casa."
+      "alt": "Las cinco palabras con las que se describe a un niño en una multitud: edad, prenda y color, dichas en voz alta antes de entrar."
     },
     {
-      "slug": "28-dia-grande",
+      "slug": "28-no-sueltes-la-mano",
       "slides": [
         {
           "role": "cover",
+          "photo": "mercado",
           "kicker": "MES MORADO",
-          "emoji": "🙌",
-          "img": "evento-procesion-noche.jpg",
-          "h": "Hoy no sueltes la mano ni para persignarte",
-          "b": ""
+          "h": "Hoy no sueltes la *mano* ni para persignarte"
         },
         {
           "role": "value",
-          "h": "Hoy la mano es el plan entero",
-          "b": "Mano al niño en el tumulto, brazo al abuelo en su turno, y el que carga no suelta para nada."
+          "label": "HOY",
+          "h": "La mano es el plan *entero*",
+          "b": "Niño de la mano, abuelo del brazo"
         },
         {
           "role": "value",
-          "h": "La procesión dura más que ustedes",
-          "b": "Salgan cuando el anda entra a descansar, antes que la multitud entera decida lo mismo."
+          "photo": "abuelo",
+          "label": "EL TURNO",
+          "h": "El que carga no *suelta*",
+          "b": "Ni para comprar, ni para la foto"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Que la fe los junte y el plan los regrese",
-          "b": "Las familias devotas ya llevan su ComeHomeTag puesto: el QR habla si la multitud los separa."
+          "role": "value",
+          "label": "LA SALIDA",
+          "h": "Cuando el anda *descansa*",
+          "b": "Antes de que la multitud decida por ti"
         },
         {
-          "role": "cta",
-          "h": "Manos firmes. Buen día grande.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "EL LADO",
+          "h": "Se sale por donde se *entró*",
+          "b": "Cruzar al otro lado del anda no se puede"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Que la fe los junte y el plan los *regrese*",
+          "b": "Las familias devotas ya salen con la «pulsera» ComeHomeTag: un QR que, si la multitud los separa, quien los encuentre escanea y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Día central del Señor de los Milagros. Hoy la regla es una sola: la mano no se suelta, ni para persignarte. Y el secreto de la vuelta: salir cuando el anda entra a descansar, antes que la multitud entera decida lo mismo. Guárdalo para la salida de hoy. Mándaselo a tus hermanos, esto no se decide solo. #señordelosmilagros #mesmorado #lima #peru #procesion",
-        "tt": "Hoy no sueltes la mano ni para persignarte 🙌 · mándaselo a tus hermanos, esto no se decide solo #señordelosmilagros #lima",
-        "fb": "Día grande del Señor de los Milagros. Hoy no hay listas largas: mano al niño, brazo al abuelo, y la vuelta se decide antes de estar agotados, cuando el anda entra a descansar. Que la fe los junte y el plan los regrese completos. 💜"
+        "ig": "Día central del Señor de los Milagros con niños y abuelos: hoy la mano es el plan entero. Niño de la mano, abuelo del brazo, y el que carga no suelta ni para comprar ni para la foto. Se sale cuando el anda descansa, antes de que la multitud decida por ti. Y se sale por el mismo lado por el que se entró: cruzar al otro lado del anda no se puede. ¿A qué hora salen hoy? #señordelosmilagros #familia",
+        "tt": "Día central del Señor de los Milagros: hoy no sueltes la mano ni para persignarte. El que carga no suelta, se sale cuando el anda descansa y por el mismo lado por el que entraron. ¿A qué hora salen hoy? #señordelosmilagros #familia",
+        "fb": "Hoy es el día grande y el plan cabe en una frase: no sueltes la mano ni para persignarte. Niño de la mano, abuelo del brazo, el que carga no suelta ni para la foto. Se sale cuando el anda descansa y por el mismo lado por el que entraron. ¿A qué hora salen ustedes?"
       },
-      "alt": "El día grande de la procesión: la mano constante y salir cuando el anda descansa."
+      "alt": "El plan de un solo gesto para el día central de la procesión con niños y abuelos: la mano no se suelta, y cuándo y por dónde salir."
     },
     {
-      "slug": "29-perro-halloween",
-      "slides": [
-        {
-          "role": "story",
-          "plate": "cine-11-perro",
-          "emoji": "🐶",
-          "h": "En Halloween tu puerta se abre 30 veces y tu perro escapa",
-          "b": ""
-        },
-        {
-          "role": "value",
-          "h": "La puerta más abierta del año",
-          "b": "El 31 tu puerta se abre 30 veces para los dulces. Al perro asustado le basta UNA: esa noche, cuarto cerrado y lejos.",
-          "emoji": "😨"
-        },
-        {
-          "role": "value",
-          "h": "La foto de esta semana, no la del año pasado",
-          "b": "De cuerpo entero y de cara: el pelaje cambia más de lo que crees. Tómala hoy, dos segundos."
-        },
-        {
-          "role": "stat",
-          "shot": "llavero.png",
-          "h": "Él no puede decir dónde vive",
-          "b": "El «llavero» ComeHomeTag va en su collar: quien lo encuentre escanea y te llama. Sin placa que se borra."
-        },
-        {
-          "role": "cta",
-          "h": "El 31: cuarto cerrado y collar puesto.",
-          "b": "comehometag.com"
-        }
-      ],
-      "caption": {
-        "ig": "Mascotas en Halloween: es la noche que más perros se escapan. La puerta se abre 30 veces para los dulces y al asustado le basta una. El plan: cuarto cerrado lejos de la puerta esa noche, y esta semana la foto actualizada de cuerpo entero y cara. Guárdalo para preparar el 31. Mándaselo al grupo del salón. #mascotas #halloween #perros #peru",
-        "tt": "Tu perro odia Halloween y ya lo sabe 🐶 · mándaselo al grupo del salón #mascotas #halloween #peru",
-        "fb": "El 31 tu puerta se abre treinta veces, y a un perro asustado por ruidos y disfraces le basta una para desaparecer. Esa noche él va en un cuarto cerrado con su cama. Y esta semana: foto actualizada, porque el pelaje cambia más de lo que crees. ¿Tu engreído le teme a Halloween?"
-      },
-      "alt": "Mascotas el 31: cuarto cerrado, foto actualizada de la semana y QR en el collar."
-    },
-    {
-      "slug": "30-puertas-de-desconocidos",
+      "slug": "29-perro-puerta-de-los-dulces",
       "slides": [
         {
           "role": "cover",
+          "photo": "perro-cara",
           "kicker": "HALLOWEEN",
-          "emoji": "🚪",
-          "h": "Mañana tu hijo tocará puertas de desconocidos",
-          "b": "y tú se lo vas a pedir"
+          "h": "En Halloween tu perro se escapa por la puerta de los *dulces*"
         },
         {
           "role": "value",
-          "h": "El umbral es la frontera",
-          "b": "Los dulces se reciben EN la puerta. No se entra a ninguna casa, ni al jardín, ni «un ratito»."
+          "label": "EL DATO",
+          "h": "1 de cada 5 mascotas perdidas huyó por *ruido*",
+          "b": "Timbre, gritos, cohetes"
         },
         {
           "role": "value",
-          "h": "La ruta se acuerda hoy, no mañana",
-          "b": "Cinco cuadras conocidas, en orden, ida y vuelta. El grupo que tiene ruta no termina siguiendo al grupo equivocado."
+          "photo": "perro-calle",
+          "label": "ESA NOCHE",
+          "h": "En un cuarto *cerrado*, lejos de la puerta",
+          "b": "Con su cama y radio bajita"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "El plan B cabe en su muñeca",
-          "b": "ComeHomeTag: el QR con tu número que mañana sale a pedir dulces con él."
+          "role": "value",
+          "label": "SI SE VA",
+          "h": "No lo *llames*, siéntate",
+          "b": "Correr tras él lo aleja más"
         },
         {
-          "role": "cta",
-          "h": "La puerta es la frontera. Díselo hoy.",
-          "b": "comehometag.com"
+          "role": "value",
+          "label": "HOY",
+          "h": "Su *foto* de esta semana",
+          "b": "Cuerpo entero y cara, para el cartel"
+        },
+        {
+          "role": "closer",
+          "img": "llavero.png",
+          "h": "La puerta de los dulces, con *respaldo*",
+          "b": "El «llavero» ComeHomeTag va en su collar: lleva un QR que quien lo encuentre escanea con su celular y ve tu número."
         }
       ],
       "caption": {
-        "ig": "Halloween es la única noche del año en que le pedimos a los niños tocar puertas de desconocidos. Las dos reglas de la víspera: los dulces se reciben EN la puerta (a ninguna casa se entra, ni al jardín, ni un ratito) y la ruta de cinco cuadras conocidas se acuerda HOY. Guárdalo para hablarlo hoy en la cena. ¿Tus hijos saldrán mañana? Mándaselo a quien se queda con ellos este fin de semana. #halloween #niños #peru #seguridadinfantil",
-        "tt": "Mañana tocará puertas de desconocidos 🚪 el umbral es la frontera · mándaselo a quien se queda con ellos este fin de semana #halloween #peru",
-        "fb": "Halloween es la única noche en que nosotros mismos mandamos a los niños a tocar puertas ajenas. Por eso la regla se dice HOY, con calma, no mañana entre disfraces: los dulces se reciben en la puerta y a ninguna casa se entra. El umbral es la frontera. ¿Ya la hablaron en casa?"
+        "ig": "Perro que se escapa en Halloween: la puerta se abre una y otra vez para los dulces y una sola basta. Casi una de cada cinco mascotas perdidas huyó por un ruido fuerte: timbre, gritos, cohetes. Esa noche va en un cuarto cerrado lejos de la puerta, con su cama y una radio bajita. Si se va, no lo llames ni corras tras él: siéntate y deja que se acerque. Y hoy tómale la foto de esta semana, cuerpo entero y cara. ¿El tuyo se esconde o se escapa? #perros #halloween",
+        "tt": "Perro en Halloween: la puerta de los dulces se abre y una vez basta. Casi 1 de cada 5 mascotas perdidas huyó por un ruido. Cuarto cerrado esa noche, y si se va, no lo llames: siéntate. ¿El tuyo se esconde o se escapa? #perros #halloween",
+        "fb": "En Halloween la puerta de tu casa se abre más veces que en todo el año, y al perro asustado le basta una. Casi una de cada cinco mascotas perdidas huyó por un ruido fuerte. Esa noche va en un cuarto cerrado con su cama y una radio bajita. Si se escapa, no lo llames ni lo persigas: siéntate y deja que se acerque. ¿El tuyo se esconde o se escapa?"
       },
-      "alt": "La regla de la puerta y la ruta acordada para la víspera de Halloween."
+      "alt": "Cómo evitar que un perro escape la noche de Halloween: cuarto cerrado, no llamarlo si se va y una foto reciente lista."
     },
     {
-      "slug": "31-todos-a-la-vez",
+      "slug": "30-tres-cosas-antes-de-la-primera-puerta",
       "slides": [
         {
           "role": "cover",
+          "photo": "nino-mano",
           "kicker": "HALLOWEEN",
-          "emoji": "🕸",
-          "img": "evento-halloween.jpg",
-          "h": "Esta noche salen todos los niños de Lima a la vez",
-          "b": "y también es noche criolla"
+          "h": "3 cosas que tu hijo sabe antes de tocar la primera *puerta*"
         },
         {
           "role": "value",
-          "h": "Un adulto cada 4 niños",
-          "b": "Con más de 4, el adulto es decorativo. Los grupos grandes se parten en dos, con un mayor responsable cada uno."
+          "label": "UNO",
+          "h": "Los dulces se reciben en la *puerta*",
+          "b": "No entra a ninguna casa ni al jardín"
         },
         {
           "role": "value",
-          "h": "El adulto baja primero a la pista",
-          "b": "La emoción cruza corriendo. En cada esquina el grupo se junta y cruza en bloque, con el adulto adelante."
+          "photo": "noche-calle",
+          "label": "DOS",
+          "h": "«Tengo que preguntar *primero*»",
+          "b": "Si un vecino lo invita a pasar"
         },
         {
           "role": "value",
-          "h": "La última casa se pacta antes del primer dulce",
-          "b": "«A las 9 tocamos la última y volvemos cantando.» Avisada desde temprano, a las 9 nadie llora."
+          "label": "TRES",
+          "h": "Siempre con un *amigo*",
+          "b": "Al baño, a la casa de al lado, a todo"
         },
         {
-          "role": "stat",
-          "shot": "pulsera.png",
-          "h": "Noche de brujas y de valses, calles llenas",
-          "b": "La «pulsera» ComeHomeTag en cada muñeca del grupo: quien encuentre a uno, te llama."
+          "role": "value",
+          "label": "Y LA RUTA",
+          "h": "Cuadras *conocidas*, en orden",
+          "b": "Se acuerda hoy, no en la puerta"
         },
         {
-          "role": "cta",
-          "h": "4 niños, 1 adulto, última casa a las 9.",
-          "b": "comehometag.com"
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "El plan B cabe en su *muñeca*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR con tu número: si mañana se aleja del grupo, quien lo encuentre lo escanea y te llama."
         }
       ],
       "caption": {
-        "ig": "Halloween y Canción Criolla la misma noche: todos los niños de Lima en la calle a la vez. El sistema: un adulto cada 4 niños, en cada esquina se cruza en bloque con el adulto adelante, y la última casa se pacta antes del primer dulce. Feliz noche doble. Guárdalo para el grupo de esta noche. Mándaselo a la abuela que los recoge del colegio. #halloween #cancioncriolla #lima #peru #niños",
-        "tt": "Esta noche salen todos los niños de Lima a la vez 🕸 · mándaselo a la abuela que los recoge del colegio #halloween #peru",
-        "fb": "Hoy es la noche doble: Halloween para los chicos, criolla para los grandes, calles llenas para todos. Tres cosas y a disfrutar: un adulto cada cuatro niños, los cruces en bloque con el adulto adelante, y la última casa pactada desde temprano. Que la pasen lindo y vuelvan todos. 🎃"
+        "ig": "Pedir dulces en Halloween con niños: tres cosas que tu hijo sabe antes de tocar la primera puerta. Los dulces se reciben en la puerta, no entra a ninguna casa ni al jardín. Si un vecino lo invita a pasar, dice «tengo que preguntar primero». Y siempre va con un amigo, al baño y a la casa de al lado también. La ruta de cuadras conocidas se acuerda hoy, no en la puerta. ¿El tuyo ya sabe las tres? #halloween #niños",
+        "tt": "Pedir dulces en Halloween: los dulces se reciben en la puerta, «tengo que preguntar primero» si lo invitan a pasar, y siempre con un amigo. ¿El tuyo ya sabe las tres? #halloween #niños",
+        "fb": "Mañana tocan puertas de desconocidos y hay tres cosas que se dicen hoy: los dulces se reciben en la puerta y no se entra a ninguna casa ni al jardín; si un vecino lo invita a pasar, dice «tengo que preguntar primero»; y siempre va con un amigo, al baño y a la casa de al lado también. ¿El tuyo ya sabe las tres?"
       },
-      "alt": "El sistema de Halloween: ratio de adultos, cruces en bloque y la hora de la última casa."
+      "alt": "Tres reglas para un niño que pide dulces en Halloween: recibirlos en la puerta, preguntar primero antes de entrar y andar siempre con un amigo."
+    },
+    {
+      "slug": "31-plan-para-quien-saca-al-grupo",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "noche-calle",
+          "kicker": "HALLOWEEN",
+          "h": "El plan para quien saca al grupo esta *noche*, cópialo"
+        },
+        {
+          "role": "value",
+          "label": "EL GRUPO",
+          "h": "El que cabe en tu *vista*",
+          "b": "Si no los cuentas de un vistazo, se parte"
+        },
+        {
+          "role": "value",
+          "photo": "familia-parque",
+          "label": "LA PISTA",
+          "h": "El adulto baja *primero*",
+          "b": "El grupo cruza en bloque, nunca corriendo"
+        },
+        {
+          "role": "value",
+          "label": "LA FOTO",
+          "h": "Del grupo, en la *puerta*",
+          "b": "Disfraz puesto, antes del primer dulce"
+        },
+        {
+          "role": "value",
+          "label": "LA ÚLTIMA",
+          "h": "«A las 9 la última *casa*»",
+          "b": "Dicha temprano, nadie pelea a las 9"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Noche de brujas, calles *llenas*",
+          "b": "La «pulsera» ComeHomeTag en cada muñeca del grupo: quien encuentre a uno escanea el QR con su celular y ve tu número."
+        }
+      ],
+      "caption": {
+        "ig": "Sacar a un grupo de niños a pedir dulces en Halloween: el plan para el adulto que los lleva. El grupo es el que cabe en tu vista: si no los cuentas de un vistazo, se parte en dos con un adulto cada uno. En cada esquina el adulto baja primero a la pista y el grupo cruza en bloque. Foto del grupo en la puerta con el disfraz puesto, antes del primer dulce. Y la última casa se dice temprano: a las nueve, y nadie pelea a las nueve. Mándaselo a quien saca a los chicos esta noche. #halloween #niños",
+        "tt": "Plan para quien saca al grupo de niños esta noche: el grupo que cabe en tu vista, el adulto baja primero a la pista, foto del grupo en la puerta y la última casa dicha temprano. Mándaselo a quien los saca hoy. #halloween #niños",
+        "fb": "Esta noche alguien saca al grupo entero y casi nunca es el que hizo el plan. Este es el plan: el grupo es el que cabe en tu vista, o se parte; el adulto baja primero a la pista y cruzan en bloque; foto del grupo en la puerta antes del primer dulce; y la última casa se dice temprano, a las nueve. Pásaselo a quien saca a los chicos hoy."
+      },
+      "alt": "El plan para el adulto que lleva a un grupo de niños a pedir dulces: tamaño del grupo, cómo cruzar, la foto en la puerta y la hora de la última casa."
     }
   ]
 }

@@ -1,5 +1,8 @@
 # Warm-up — the 3 days before the first post
 
+> **2026-09-14: both lanes are closed** (A deleted 2026-09-06, B deleted
+> 2026-09-14). This doc is kept as the record of the warm-up method only.
+
 > **Status 2026-08-17:** four accounts created, PFPs uploaded, **day 1 done**
 > (follows + likes, no comments yet). Day 2 starts the comments. Nothing has
 > been posted on any account.

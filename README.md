@@ -1,9 +1,14 @@
 # posts-carrousels
 
 Carruseles listos para publicar en Instagram, TikTok, Facebook y LinkedIn
-para las marcas activas: **ComeHomeTag**, **Qolca** y **Radar Estatal**, más
-la cuenta de afiliados en inglés **Service Stack** (ver
-[`affiliate/`](affiliate/README.md)).
+para las tres marcas activas: **ComeHomeTag**, **Qolca** y **Radar Estatal**.
+
+> **Baja del 14-09-2026: Service Stack (`servicestack`, la cuenta B de
+> afiliados) deja de publicar y la cuenta se elimina.** Se le borró la cola
+> entera (los 4 JSON, `out/`, `public/` y su prefijo del bucket). La marca
+> sigue en `brands/servicestack/` —`brand.json`, fotos, plantillas— porque el
+> sitio de bio-link (`affiliate-site`) lee su paleta de ahí. Con esto no queda
+> ninguna cuenta de afiliados viva; `affiliate/` es archivo.
 
 > **Bajas del 06-09-2026.**
 >
@@ -68,6 +73,8 @@ COLORES.md       el sistema de color por marca (teoría aplicada) + cómo se
                  separan las dos marcas azules (Radar Estatal y Diplomy)
 PLAN-180.md      la estrategia completa y el porqué de cada serie
 STRATEGY.md      la investigación base (algoritmos, formatos, virality)
+CONTENT-PLAN/    el plan de 15 días (jul-2026) del que sale STRATEGY.md —
+                 .docx + .html, tácticas superadas por el sistema F1
 WEB.md           cómo correr y desplegar la app
 ```
 

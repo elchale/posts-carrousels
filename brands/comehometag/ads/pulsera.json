@@ -1,0 +1,72 @@
+{
+  "brand": "comehometag",
+  "nota": "Creatividades del ad del centro comercial (accounts/ComeHomeTag/renders/comehometag_ad_final.mp4). Copy en SEGUNDA persona por decision de Carlos (2026-09-19): directo, 'tu hij@', el producto se nombra en la portada. Riesgo asumido: Meta puede rechazar por 'atributos personales'; si cae un anuncio, esa es la primera linea a cambiar, no la foto.",
+  "ads": [
+    {
+      "id": "01-frase",
+      "layout": "hook",
+      "photo": "mall-nino.png",
+      "kicker": "lo único que sabe decir",
+      "h": "«No encuentro a mi *mamá»*",
+      "sub": "Esta pulsera lleva tu número puesto. La escanean y te llaman.",
+      "cta": "Ver cómo funciona",
+      "anchor": 0.2,
+      "tag": "Pago contra entrega"
+    },
+    {
+      "id": "02-ningun-numero",
+      "layout": "hook",
+      "photo": "mall-solo.png",
+      "kicker": "si se llega a perder",
+      "h": "Tu hij@ debe llevar tu *número* consigo",
+      "sub": "Usa esta pulsera: se escanea con cualquier celular y te llaman.",
+      "cta": "Ver cómo funciona",
+      "anchor": 0.35,
+      "tag": "Pago contra entrega"
+    },
+    {
+      "id": "03-comparacion",
+      "layout": "split",
+      "a": {
+        "photo": "mall-solo.png",
+        "label": "sin pulsera",
+        "h": "Nadie sabe cómo llamarte",
+        "anchor": 0.28
+      },
+      "b": {
+        "photo": "mall-escaneo.png",
+        "label": "con pulsera",
+        "h": "Escanean la pulsera y te llaman",
+        "anchor": 0.58
+      },
+      "h": "Esta pulsera ayuda a que tu hij@ pueda encontrarte si se pierde.",
+      "cta": "Pídela ahora",
+      "tag": "Pago contra entrega"
+    },
+    {
+      "id": "04-pasos",
+      "layout": "pasos",
+      "h": "Así te encuentra tu hij@ si se *pierde*",
+      "steps": [
+        "Tu hij@ sale con la pulsera puesta, con su código",
+        "Quien lo encuentra la escanea con su celular",
+        "Te llama o te escribe al instante"
+      ],
+      "img": "pulsera.png",
+      "cta": "Pídela ahora",
+      "tag": "Pago contra entrega"
+    },
+    {
+      "id": "05-objeciones",
+      "layout": "oferta",
+      "h": "Pulsera para proteger a tu *hij@*",
+      "bullets": [
+        "Lleva tu número y tu contacto",
+        "Se escanea con cualquier celular, sin app",
+        "Delivery a todo el Perú, pago contra entrega"
+      ],
+      "img": "pulsera.png",
+      "cta": "Pídela ahora"
+    }
+  ]
+}

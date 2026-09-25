@@ -4,8 +4,10 @@ Research date: **2026-07-28**. Scope: what actually makes a carousel spread on
 IG / TikTok / FB (+ LinkedIn for B2B), how they're designed, and a concrete
 per-brand strategy for **Propaga**, **ComeHomeTag** and **Qolca**.
 
-Companion to `CONTENT-PLAN\Plan-Contenido-15-Dias-3-Marcas` (the 15-day plan
+Companion to `CONTENT-PLAN/Plan-Contenido-15-Dias-3-Marcas` (the 15-day plan
 that already committed to "2 videos per brand, everything else carousels").
+Ese plan vivía suelto en `Desktop/Carlos/CONTENT-PLAN`; desde el 2026-09-06
+está aquí al lado, en `CONTENT-PLAN/` — ver su README.
 
 > **2026-07-28 round 2 → see `PLAN-180.md`**: the full 60-per-brand production
 > plan, the cinematic-plate system (celebrity likeness verdict: real celebs NO
