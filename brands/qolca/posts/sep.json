@@ -1,243 +1,102 @@
 {
-  "series": "sep",
-  "brand": "qolca",
-  "format": "f1",
-  "posts": [
+ "series": "sep",
+ "brand": "qolca",
+ "format": "f1",
+ "posts": [
+  {
+   "slug": "29-el-control-desde-el-celular",
+   "slides": [
     {
-      "slug": "26-el-reclamo",
-      "slides": [
-        {
-          "role": "cover",
-          "photo": "mostrador",
-          "h": "Llega un reclamo y cada uno responde *como puede*"
-        },
-        {
-          "role": "value",
-          "label": "PRIMERO",
-          "h": "El que reclama *quiere quedarse*",
-          "b": "El que se va, se va callado."
-        },
-        {
-          "role": "value",
-          "label": "EL MISMO DÍA",
-          "h": "Escucha, *fecha y solución*",
-          "b": "En ese orden, sin prometer de más.",
-          "photo": "papeles"
-        },
-        {
-          "role": "value",
-          "label": "Y DESPUÉS",
-          "h": "Arregla *el paso* que falló",
-          "b": "Si no, el mismo reclamo vuelve."
-        },
-        {
-          "role": "value",
-          "label": "OJO",
-          "h": "Resolverlo no te deja *mejor que antes*",
-          "b": "Solo evita que se vaya.",
-          "photo": "cuaderno"
-        },
-        {
-          "role": "closer",
-          "h": "Cada reclamo *entra con dueño*",
-          "b": "Escríbeme PRUEBA por DM y armamos tu posventa."
-        }
-      ],
-      "caption": {
-        "ig": "Cómo organizar la atención de un reclamo en tu negocio sin improvisar. Ojo con la idea de que un reclamo bien resuelto te deja mejor que si nada hubiera pasado: la investigación en servicio dice que eso casi nunca ocurre. Escríbeme PRUEBA por DM. #pymesperu #negociosperu",
-        "tt": "Cómo organizar la atención de un reclamo. Dueño, fecha y solución el mismo día, y después arreglar el paso que falló. Escríbeme PRUEBA por DM. #pymesperu #negociosperu",
-        "fb": "El que reclama todavía quiere quedarse contigo. Resolverlo no te deja mejor que antes: evita que se vaya, y eso ya vale."
-      },
-      "alt": "Persona atendiendo en un mostrador, con el titular sobre el reclamo que cada uno responde como puede."
+     "role": "cover",
+     "photo": "mostrador",
+     "kicker": "ORDENANDO EL NEGOCIO",
+     "h": "Lleva el control de tu negocio desde *el celular*"
     },
     {
-      "slug": "27-el-pdf-y-el-visto",
-      "slides": [
-        {
-          "role": "cover",
-          "photo": "papeles",
-          "h": "Mandas el PDF de tu propuesta y te dejan *en visto*"
-        },
-        {
-          "role": "value",
-          "label": "POR QUÉ",
-          "h": "Ocho páginas *en el celular*",
-          "b": "Nadie las abre en la cola del banco."
-        },
-        {
-          "role": "value",
-          "label": "EL ARREGLO",
-          "h": "Tres líneas *antes del PDF*",
-          "b": "Qué es, qué implica y qué recomiendas.",
-          "photo": "celular-noche"
-        },
-        {
-          "role": "value",
-          "label": "Y UNA PREGUNTA",
-          "h": "Termina *preguntando*",
-          "b": "Un mensaje sin pregunta no tiene vuelta."
-        },
-        {
-          "role": "value",
-          "label": "LA REGLA",
-          "h": "El PDF *no vende solo*",
-          "b": "Deciden por lo que va encima.",
-          "photo": "cuaderno"
-        },
-        {
-          "role": "closer",
-          "h": "La propuesta *sale armada*",
-          "b": "Escríbeme PLAN por DM y la dejamos lista para tu chat."
-        }
-      ],
-      "caption": {
-        "ig": "Hacer cotizaciones a clientes por WhatsApp sin que te dejen en visto. Esas tres líneas son el resumen de tu propuesta: qué es, qué implica y qué recomiendas hacer ahora. Escríbeme PLAN por DM. #cotizaciones #pymesperu",
-        "tt": "Hacer cotizaciones a clientes por WhatsApp. Escribe encima del PDF qué es, qué implica y qué recomiendas, y termina con una pregunta. Escríbeme PLAN por DM. #cotizaciones #pymesperu",
-        "fb": "Nadie abre ocho páginas en la cola del banco. Se decide por las tres líneas que van encima del archivo."
-      },
-      "alt": "Propuesta impresa junto a un celular, con el titular sobre el PDF que te dejan en visto."
+     "role": "value",
+     "label": "NÚMERO 1",
+     "h": "Cuántos *te escribieron* hoy",
+     "b": "Y cuántos siguen sin respuesta."
     },
     {
-      "slug": "28-donde-se-cae-la-venta",
-      "slides": [
-        {
-          "role": "cover",
-          "photo": "autos-lote",
-          "h": "4 puntos donde se te cae la venta *sin darte cuenta*"
-        },
-        {
-          "role": "value",
-          "label": "PUNTO 1",
-          "h": "*La primera hora* sin respuesta",
-          "b": "Ahí se decide a quién le compra."
-        },
-        {
-          "role": "value",
-          "label": "PUNTO 2",
-          "h": "El precio *que no llega*",
-          "b": "Porque hay que preguntarle a alguien.",
-          "photo": "celular-noche"
-        },
-        {
-          "role": "value",
-          "label": "PUNTO 3",
-          "h": "La cita *que nadie confirma*",
-          "b": "Se cae la víspera y nadie avisa."
-        },
-        {
-          "role": "value",
-          "label": "PUNTO 4",
-          "h": "El silencio *después del no*",
-          "b": "El que dijo luego, nunca vuelve solo.",
-          "photo": "mostrador"
-        },
-        {
-          "role": "closer",
-          "h": "Tapamos *los cuatro puntos*",
-          "b": "Escríbeme FUGA por DM y vemos cuál te duele más."
-        }
-      ],
-      "caption": {
-        "ig": "Cómo llevar el control de tus ventas para ver dónde se te están cayendo. Cuatro puntos, y ninguno aparece en un reporte: la primera hora, el precio que no llega, la cita sin confirmar y el silencio después del luego. Escríbeme FUGA por DM. #pymesperu #negociosperu",
-        "tt": "Cómo llevar el control de tus ventas y ver dónde se caen: la primera hora, el precio, la cita y el silencio. Escríbeme FUGA por DM. #pymesperu #negociosperu",
-        "fb": "La venta rara vez se pierde de golpe. Se cae en la primera hora, en el precio que no llega y en la cita que nadie confirma."
-      },
-      "alt": "Autos en un lote de venta al atardecer, con el titular sobre los cuatro puntos donde se cae la venta."
+     "role": "value",
+     "label": "NÚMERO 2",
+     "h": "Cuántas cotizaciones *salieron*",
+     "b": "Y cuántas tienen fecha de regreso.",
+     "photo": "papeles"
     },
     {
-      "slug": "29-el-control-desde-el-celular",
-      "slides": [
-        {
-          "role": "cover",
-          "photo": "mostrador",
-          "kicker": "ORDENANDO EL NEGOCIO",
-          "h": "Lleva el control de tu negocio desde *el celular*"
-        },
-        {
-          "role": "value",
-          "label": "NÚMERO 1",
-          "h": "Cuántos *te escribieron* hoy",
-          "b": "Y cuántos siguen sin respuesta."
-        },
-        {
-          "role": "value",
-          "label": "NÚMERO 2",
-          "h": "Cuántas cotizaciones *salieron*",
-          "b": "Y cuántas tienen fecha de regreso.",
-          "photo": "papeles"
-        },
-        {
-          "role": "value",
-          "label": "NÚMERO 3",
-          "h": "Qué se *entrega mañana*",
-          "b": "Con nombre, hora y quién responde."
-        },
-        {
-          "role": "value",
-          "label": "LA REGLA",
-          "h": "Un número que *no miras*, no existe",
-          "b": "Míralos siempre a la misma hora.",
-          "photo": "cuaderno"
-        },
-        {
-          "role": "closer",
-          "h": "Tus tres números, *solos cada mañana*",
-          "b": "Escríbeme FUGA por DM y armamos el tuyo con lo que ya tienes."
-        }
-      ],
-      "caption": {
-        "ig": "Cómo llevar el control de tu negocio desde el celular. Tres números al día: cuántos te escribieron y siguen sin respuesta, cuántas cotizaciones salieron con fecha de regreso y qué se entrega mañana. Escríbeme FUGA por DM. #pymesperu #negociosperu",
-        "tt": "Cómo llevar el control de tu negocio desde el celular. Tres números, siempre a la misma hora. Escríbeme FUGA por DM. #pymesperu #negociosperu",
-        "fb": "Tres números alcanzan para saber cómo va el día: cuántos escribieron y siguen sin respuesta, cuántas cotizaciones salieron con fecha y qué se entrega mañana."
-      },
-      "alt": "Mostrador de un negocio con un celular sobre el mesón, y el titular sobre llevar el control del negocio desde el celular."
+     "role": "value",
+     "label": "NÚMERO 3",
+     "h": "Qué se *entrega mañana*",
+     "b": "Con nombre, hora y quién responde."
     },
     {
-      "slug": "30-lo-que-ya-esta-automatico",
-      "slides": [
-        {
-          "role": "cover",
-          "photo": "celular-noche",
-          "h": "Tu mensaje automático *promete algo que nadie cumple*"
-        },
-        {
-          "role": "value",
-          "label": "LA ESCENA",
-          "h": "«En breve *te atendemos*»",
-          "b": "Y nadie vuelve hasta el otro día."
-        },
-        {
-          "role": "value",
-          "label": "EL DAÑO",
-          "h": "Un automático que *no cumple*",
-          "b": "Le enseña a tu cliente a no esperarte.",
-          "photo": "mostrador"
-        },
-        {
-          "role": "value",
-          "label": "ARRÉGLALO",
-          "h": "Que diga *cuándo*, no pronto",
-          "b": "«Mañana antes de las diez», y se cumple."
-        },
-        {
-          "role": "value",
-          "label": "LA REGLA",
-          "h": "Automático que *no cierra* el paso",
-          "b": "No es automatización, es un adorno.",
-          "photo": "papeles"
-        },
-        {
-          "role": "closer",
-          "h": "Automatizamos *el proceso*, no el saludo",
-          "b": "Escríbeme PRUEBA por DM y revisamos lo que ya tienes corriendo."
-        }
-      ],
-      "caption": {
-        "ig": "Cómo automatizar tu negocio empezando por lo que ya tienes corriendo. Un mensaje automático que promete «en breve» y no vuelve hasta mañana le enseña a tu cliente a no esperarte. Que diga cuándo, y que se cumpla. Escríbeme PRUEBA por DM. #pymesperu #automatizacion",
-        "tt": "Cómo automatizar tu negocio sin que el automático te haga daño. «En breve te atendemos» y nadie vuelve hasta mañana. Que diga cuándo, y que se cumpla. Escríbeme PRUEBA por DM. #pymesperu #automatizacion",
-        "fb": "Un mensaje automático que promete «en breve te atendemos» y no vuelve hasta el día siguiente le enseña a tu cliente a no esperarte. Que diga cuándo, y que se cumpla."
-      },
-      "alt": "Un celular iluminado de noche sobre una mesa, con el titular sobre el mensaje automático que promete y no cumple."
+     "role": "value",
+     "label": "LA REGLA",
+     "h": "Un número que *no miras*, no existe",
+     "b": "Míralos siempre a la misma hora.",
+     "photo": "cuaderno"
+    },
+    {
+     "role": "closer",
+     "h": "Tus tres números, *solos cada mañana*",
+     "b": "Escríbeme FUGA por DM y armamos el tuyo con lo que ya tienes."
     }
-  ]
+   ],
+   "caption": {
+    "ig": "Cómo llevar el control de tu negocio desde el celular. Tres números al día: cuántos te escribieron y siguen sin respuesta, cuántas cotizaciones salieron con fecha de regreso y qué se entrega mañana. Escríbeme FUGA por DM. #pymesperu #negociosperu",
+    "tt": "Cómo llevar el control de tu negocio desde el celular. Tres números, siempre a la misma hora. Escríbeme FUGA por DM. #pymesperu #negociosperu",
+    "fb": "Tres números alcanzan para saber cómo va el día: cuántos escribieron y siguen sin respuesta, cuántas cotizaciones salieron con fecha y qué se entrega mañana."
+   },
+   "alt": "Mostrador de un negocio con un celular sobre el mesón, y el titular sobre llevar el control del negocio desde el celular."
+  },
+  {
+   "slug": "30-lo-que-ya-esta-automatico",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "celular-noche",
+     "h": "Tu mensaje automático *promete algo que nadie cumple*"
+    },
+    {
+     "role": "value",
+     "label": "LA ESCENA",
+     "h": "«En breve *te atendemos*»",
+     "b": "Y nadie vuelve hasta el otro día."
+    },
+    {
+     "role": "value",
+     "label": "EL DAÑO",
+     "h": "Un automático que *no cumple*",
+     "b": "Le enseña a tu cliente a no esperarte.",
+     "photo": "mostrador"
+    },
+    {
+     "role": "value",
+     "label": "ARRÉGLALO",
+     "h": "Que diga *cuándo*, no pronto",
+     "b": "«Mañana antes de las diez», y se cumple."
+    },
+    {
+     "role": "value",
+     "label": "LA REGLA",
+     "h": "Automático que *no cierra* el paso",
+     "b": "No es automatización, es un adorno.",
+     "photo": "papeles"
+    },
+    {
+     "role": "closer",
+     "h": "Automatizamos *el proceso*, no el saludo",
+     "b": "Escríbeme PRUEBA por DM y revisamos lo que ya tienes corriendo."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo automatizar tu negocio empezando por lo que ya tienes corriendo. Un mensaje automático que promete «en breve» y no vuelve hasta mañana le enseña a tu cliente a no esperarte. Que diga cuándo, y que se cumpla. Escríbeme PRUEBA por DM. #pymesperu #automatizacion",
+    "tt": "Cómo automatizar tu negocio sin que el automático te haga daño. «En breve te atendemos» y nadie vuelve hasta mañana. Que diga cuándo, y que se cumpla. Escríbeme PRUEBA por DM. #pymesperu #automatizacion",
+    "fb": "Un mensaje automático que promete «en breve te atendemos» y no vuelve hasta el día siguiente le enseña a tu cliente a no esperarte. Que diga cuándo, y que se cumpla."
+   },
+   "alt": "Un celular iluminado de noche sobre una mesa, con el titular sobre el mensaje automático que promete y no cumple."
+  }
+ ]
 }

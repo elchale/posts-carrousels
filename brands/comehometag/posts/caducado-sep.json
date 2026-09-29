@@ -1,56 +1,203 @@
 {
-  "series": "sep",
-  "brand": "comehometag",
-  "posts": [
+ "series": "sep",
+ "brand": "comehometag",
+ "posts": [
+  {
+   "slug": "06-gato-se-fue",
+   "slides": [
     {
-      "slug": "06-gato-se-fue",
-      "slides": [
-        {
-          "role": "cover",
-          "photo": "gato",
-          "h": "Tu gato no se fue lejos: está *escondido*"
-        },
-        {
-          "role": "value",
-          "label": "POR QUÉ",
-          "h": "No va a *maullar*",
-          "b": "El gato con miedo se esconde callado"
-        },
-        {
-          "role": "value",
-          "photo": "gato",
-          "label": "BUSCA ASÍ",
-          "h": "Panza al *piso*",
-          "b": "Bajo autos, escaleras y techos bajos"
-        },
-        {
-          "role": "value",
-          "photo": "noche-calle",
-          "label": "PIDE PERMISO",
-          "h": "El patio del *vecino*",
-          "b": "Nadie se va a agachar a mirar por ti"
-        },
-        {
-          "role": "value",
-          "label": "NO SIRVE",
-          "h": "Su *arena* usada afuera",
-          "b": "Atrae gatos que lo sacan del escondite"
-        },
-        {
-          "role": "closer",
-          "img": "llavero.png",
-          "h": "El gato que sí *vuelve*",
-          "b": "El «llavero» ComeHomeTag va en su collar de seguridad: quien lo vea escanea el QR y te escribe."
-        }
-      ],
-      "caption": {
-        "ig": "Mascota perdida: dónde está de verdad un gato que se salió. En el estudio más grande que existe, tres de cada cuatro gatos aparecieron a menos de quinientos metros del sitio por donde se salieron, y los de interior mucho más cerca todavía. No va a maullar, porque el gato asustado se esconde en silencio. Panza al piso, bajo autos y escaleras, y pide permiso para entrar a los patios de al lado. Guárdalo por si un día se te sale. #mascotasperu #tenenciaresponsable",
-        "tt": "Mascota perdida: tu gato no se fue lejos, está escondido y callado, casi siempre a menos de 500 metros. Mándaselo a quien tiene gato de interior en casa. #mascotasperu #tenenciaresponsable",
-        "fb": "La mayoría de gatos perdidos aparecen a pocos metros de su casa, escondidos y en silencio. Por eso gritar el nombre no sirve y la arena usada en la puerta tampoco: lo que funciona es agacharse y mirar debajo de todo, patio por patio."
-      },
-      "alt": "Dónde buscar a un gato perdido: cerca, escondido y en silencio, mirando debajo de todo en los patios vecinos."
+     "role": "cover",
+     "photo": "gato",
+     "h": "Tu gato no se fue lejos: está *escondido*"
+    },
+    {
+     "role": "value",
+     "label": "POR QUÉ",
+     "h": "No va a *maullar*",
+     "b": "El gato con miedo se esconde callado"
+    },
+    {
+     "role": "value",
+     "photo": "gato",
+     "label": "BUSCA ASÍ",
+     "h": "Panza al *piso*",
+     "b": "Bajo autos, escaleras y techos bajos"
+    },
+    {
+     "role": "value",
+     "photo": "noche-calle",
+     "label": "PIDE PERMISO",
+     "h": "El patio del *vecino*",
+     "b": "Nadie se va a agachar a mirar por ti"
+    },
+    {
+     "role": "value",
+     "label": "NO SIRVE",
+     "h": "Su *arena* usada afuera",
+     "b": "Atrae gatos que lo sacan del escondite"
+    },
+    {
+     "role": "closer",
+     "img": "llavero.png",
+     "h": "El gato que sí *vuelve*",
+     "b": "El «llavero» ComeHomeTag va en su collar de seguridad: quien lo vea escanea el QR y te escribe."
     }
-  ],
-  "archivedAt": "2026-09-06",
-  "reason": "reemplazado: la cuenta iba muy cargada de mascotas (decision 2026-09-06)"
+   ],
+   "caption": {
+    "ig": "Mascota perdida: dónde está de verdad un gato que se salió. En el estudio más grande que existe, tres de cada cuatro gatos aparecieron a menos de quinientos metros del sitio por donde se salieron, y los de interior mucho más cerca todavía. No va a maullar, porque el gato asustado se esconde en silencio. Panza al piso, bajo autos y escaleras, y pide permiso para entrar a los patios de al lado. Guárdalo por si un día se te sale. #mascotasperu #tenenciaresponsable",
+    "tt": "Mascota perdida: tu gato no se fue lejos, está escondido y callado, casi siempre a menos de 500 metros. Mándaselo a quien tiene gato de interior en casa. #mascotasperu #tenenciaresponsable",
+    "fb": "La mayoría de gatos perdidos aparecen a pocos metros de su casa, escondidos y en silencio. Por eso gritar el nombre no sirve y la arena usada en la puerta tampoco: lo que funciona es agacharse y mirar debajo de todo, patio por patio."
+   },
+   "alt": "Dónde buscar a un gato perdido: cerca, escondido y en silencio, mirando debajo de todo en los patios vecinos."
+  },
+  {
+   "slug": "26-hacia-su-mano-buena",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "abuelo",
+     "h": "Si tu papá no llega, sal hacia el lado de su *mano buena*"
+    },
+    {
+     "role": "value",
+     "label": "MINUTO 1",
+     "h": "Revisa *dentro* de la casa",
+     "b": "Azotea, patio y detrás de las puertas"
+    },
+    {
+     "role": "value",
+     "photo": "noche-calle",
+     "label": "MINUTO 3",
+     "h": "Sal hacia su mano *buena*",
+     "b": "Quien deambula dobla hacia ese lado"
+    },
+    {
+     "role": "value",
+     "label": "MINUTO 5",
+     "h": "Mira cerca del *agua*",
+     "b": "Acequias, parques, arbustos del barrio"
+    },
+    {
+     "role": "value",
+     "photo": "abuela",
+     "label": "MINUTO 15",
+     "h": "*Denuncia* y di que tiene demencia",
+     "b": "No esperes ni una hora más"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Los 15 minutos que no *tienes*",
+     "b": "Con la «pulsera» ComeHomeTag la primera persona que vea a tu papá escanea su QR y te llama antes de que empieces a buscar."
+    }
+   ],
+   "caption": {
+    "ig": "Abuelo con alzhéimer se pierde, qué hacer en los primeros quince minutos. Revisa la casa entera, azotea y detrás de las puertas. Sal en la dirección de su mano dominante, porque quien deambula suele doblar hacia el lado con el que escribe. Mira cerca del agua, los parques y los arbustos del barrio. Y a los quince minutos denuncia diciendo que tiene demencia: la ley obliga a atenderla de inmediato. ¿Sabías lo de la mano dominante? #alzheimer #adultomayor",
+    "tt": "Abuelo con alzhéimer se pierde: revisa la casa, sal hacia el lado de su mano dominante, mira cerca del agua y a los 15 minutos denuncia diciendo que tiene demencia. ¿Sabías lo de la mano dominante? #alzheimer #adultomayor",
+    "fb": "Hay un detalle que casi nadie sabe y que usan los equipos de búsqueda: quien deambula tiende a doblar hacia el lado de su mano dominante. Y lo de esperar 24 horas para denunciar es un mito: en estos casos la denuncia se atiende de inmediato. ¿Conocías el dato de la mano?"
+   },
+   "alt": "Qué hacer en los primeros quince minutos cuando un adulto mayor con demencia no llega a casa, empezando por la mano dominante.",
+   "expiredAt": "2026-09-29T07:06:45.191Z"
+  },
+  {
+   "slug": "27-un-senor-perdido",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "mercado",
+     "h": "Un señor perdido te pregunta por su casa y no debes *corregirlo*"
+    },
+    {
+     "role": "value",
+     "label": "PASO 1",
+     "h": "Ponte *delante* y di tu nombre",
+     "b": "Despacio, una pregunta por vez"
+    },
+    {
+     "role": "value",
+     "photo": "abuelo",
+     "label": "PASO 2",
+     "h": "No lo *corrijas*",
+     "b": "Aunque esa dirección ya no exista"
+    },
+    {
+     "role": "value",
+     "label": "PASO 3",
+     "h": "Mira sus *muñecas*",
+     "b": "Pulsera, tarjeta o QR con un número"
+    },
+    {
+     "role": "value",
+     "photo": "noche-calle",
+     "label": "PASO 4",
+     "h": "*Quédate* y llama",
+     "b": "Di que puede tener demencia"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Si el señor fuera tu *papá*",
+     "b": "La «pulsera» ComeHomeTag lleva un QR con tu contacto: quien encuentre a tu papá lo escanea con su celular y te llama en segundos."
+    }
+   ],
+   "caption": {
+    "ig": "Adulto mayor desorientado en la calle: qué se hace primero. Ponte delante de él y di tu nombre antes que nada, despacio y una pregunta por vez. No lo corrijas aunque la dirección que da ya no exista, porque corregir asusta y no ayuda. Mírale las muñecas por si lleva pulsera, tarjeta o QR con un contacto. Y quédate con él mientras llamas, avisando que puede tener demencia. Mándaselo a quien atiende la bodega de tu cuadra. #alzheimer #adultomayor",
+    "tt": "Adulto mayor desorientado en la calle: ponte delante, di tu nombre, no lo corrijas, mírale las muñecas y quédate con él mientras llamas. Mándaselo a quien atiende la bodega de tu cuadra. #alzheimer #adultomayor",
+    "fb": "Contradecir a alguien que está desorientado solo lo asusta. Lo que enseñan los especialistas es ponerse delante, presentarse, no corregir, revisar si lleva algo con un contacto y quedarse con él mientras se pide ayuda. Es lo que el bodeguero o el vigilante de tu cuadra deberían saber."
+   },
+   "alt": "Cuatro pasos para ayudar a un adulto mayor desorientado que te pregunta por su casa en la calle.",
+   "expiredAt": "2026-09-29T07:06:45.191Z"
+  },
+  {
+   "slug": "28-el-celular-no-lo-salva",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "abuelo",
+     "h": "El *celular* no salva a tu papá el día que se pierde"
+    },
+    {
+     "role": "value",
+     "label": "PRUEBA 1",
+     "h": "Pídele que te *llame* ahora",
+     "b": "Delante de ti y sin ayuda"
+    },
+    {
+     "role": "value",
+     "photo": "abuela",
+     "label": "PRUEBA 2",
+     "h": "Pregúntale la *clave*",
+     "b": "Si duda, en la calle ya no sirve"
+    },
+    {
+     "role": "value",
+     "label": "LO QUE SÍ SIRVE",
+     "h": "Su *ubicación* compartida",
+     "b": "Se activa una vez y él no hace nada"
+    },
+    {
+     "role": "value",
+     "photo": "mercado",
+     "label": "AUN ASÍ",
+     "h": "El celular no le habla al *que lo ve*",
+     "b": "No dice su nombre ni tu número"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Sin batería y sin *clave*",
+     "b": "La «pulsera» ComeHomeTag lleva tu contacto en un QR: cualquier celular ajeno lo lee. Sin batería, sin apps, sin clave."
+    }
+   ],
+   "caption": {
+    "ig": "Celular para adulto mayor con alzhéimer: por qué no basta. Haz dos pruebas hoy: pídele que te llame delante de ti sin ayuda, y pregúntale la clave. Si duda, en la calle ese celular ya no le sirve para pedir ayuda. Lo que sí sirve es la ubicación compartida, que se activa una vez y no depende de él. Y aun así el celular no le habla a quien lo encuentra: no dice su nombre ni tu número. ¿Tu papá pasó las dos pruebas? #alzheimer #adultomayor",
+    "tt": "Celular para adulto mayor con alzhéimer: pídele que te llame sin ayuda y pregúntale la clave. Lo que sí sirve es la ubicación compartida, que no depende de él. ¿Tu papá pasó las dos pruebas? #alzheimer #adultomayor",
+    "fb": "Le compramos un celular y quedamos tranquilos. Sirve, pero de otra manera: la ubicación compartida se activa una vez y no depende de él; llamar y desbloquear sí dependen de él, y en la calle, desorientado, no le salen. ¿El tuyo pasa las dos pruebas del post?"
+   },
+   "alt": "Dos pruebas con el celular del abuelo, lo que sí sirve del celular y lo que no le dice a quien lo encuentra.",
+   "expiredAt": "2026-09-29T07:06:45.191Z"
+  }
+ ],
+ "archivedAt": "2026-09-06",
+ "reason": "reemplazado: la cuenta iba muy cargada de mascotas (decision 2026-09-06)"
 }

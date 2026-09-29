@@ -20,24 +20,14 @@
     },
     {
      "role": "value",
-     "h": "Dash, Victoria's King Charles *spaniel*",
-     "b": "Landseer painted him for her 17th birthday."
-    },
-    {
-     "role": "value",
-     "h": "Crowned at 19, then home to bathe *Dash*",
-     "b": "She wrote it in her own journal."
-    },
-    {
-     "role": "value",
-     "label": "On his grave",
-     "h": "His attachment was without *selfishness*",
-     "b": "His playfulness without malice."
-    },
-    {
-     "role": "value",
+     "label": "Windsor, 1840",
      "h": "His fidelity without *deceit*",
-     "b": "Dash died on Christmas Eve, 1840."
+     "b": "The last line on the grave of Dash."
+    },
+    {
+     "role": "value",
+     "phrase": true,
+     "h": "The ones who love us best never *learn our titles*"
     },
     {
      "role": "closer",
@@ -69,26 +59,14 @@
     },
     {
      "role": "value",
-     "photo": "pd-arnolfini.jpg",
-     "hang": true,
      "label": "1434",
-     "h": "The Arnolfini *Portrait*",
-     "b": "A couple, a mirror, and a small brown dog."
-    },
-    {
-     "role": "value",
      "h": "A dog in a marriage portrait meant *faithfulness*",
-     "b": "So says the National Gallery."
+     "b": "The National Gallery, London."
     },
     {
      "role": "value",
-     "h": "His thumbprint sits by the shadow of the *dog's leg*",
-     "b": "Still there, in the paint."
-    },
-    {
-     "role": "value",
-     "h": "A small dog, looking straight out at *you*",
-     "b": "Almost six centuries later."
+     "phrase": true,
+     "h": "Everything we love carries our *fingerprints*"
     },
     {
      "role": "closer",
@@ -122,23 +100,13 @@
     {
      "role": "value",
      "label": "1745",
-     "h": "Hogarth painted himself as a small *oval*",
-     "b": "Propped on Shakespeare, Milton and Swift."
+     "h": "His real pug sits beside it, *just as big*",
+     "b": "The Painter and his Pug, Tate Britain."
     },
     {
      "role": "value",
-     "h": "His real pug sits *beside it*",
-     "b": "Drawn as large as the painter himself."
-    },
-    {
-     "role": "value",
-     "h": "He worked on the picture for about *ten years*",
-     "b": "He even changed his own clothes in it."
-    },
-    {
-     "role": "value",
-     "h": "It hangs today at Tate *Britain*",
-     "b": "Look up The Painter and his Pug."
+     "phrase": true,
+     "h": "Every self portrait worth keeping has *someone else* in it"
     },
     {
      "role": "closer",
@@ -172,23 +140,13 @@
     {
      "role": "value",
      "label": "1837",
-     "h": "The Old Shepherd's Chief *Mourner*",
-     "b": "Painted by Edwin Landseer."
-    },
-    {
-     "role": "value",
      "h": "A Highland cottage, a coffin, and one *collie*",
-     "b": "His head rests on his shepherd's coat."
+     "b": "The mourners have gone. He stays."
     },
     {
      "role": "value",
-     "h": "At first, almost no one *noticed* it",
-     "b": "Another Landseer painting took the attention."
-    },
-    {
-     "role": "value",
-     "h": "Then the critic John Ruskin praised *it*",
-     "b": "And the painting became legendary."
+     "phrase": true,
+     "h": "Loyalty is what stays after *everyone leaves*"
     },
     {
      "role": "closer",
@@ -221,23 +179,13 @@
     },
     {
      "role": "value",
-     "h": "Gainsborough painted portraits for a *living*",
-     "b": "Britain's most sought after portraitist."
-    },
-    {
-     "role": "value",
      "h": "This one nobody *commissioned*",
-     "b": "Tristram and Fox, painted around 1775 to 1785."
+     "b": "Traditionally, the painter's own two dogs."
     },
     {
      "role": "value",
-     "h": "Tristram, the dark spaniel, *dozing*",
-     "b": "Traditionally said to be his own dog."
-    },
-    {
-     "role": "value",
-     "h": "Fox, the white one, *wide awake*",
-     "b": "Every house has one of each."
+     "phrase": true,
+     "h": "What we make for free tells the truth about *what we love*"
     },
     {
      "role": "closer",
@@ -269,26 +217,13 @@
     },
     {
      "role": "value",
-     "photo": "pd-goyadog-head.jpg",
      "h": "Just a dog's head, looking *up*",
-     "b": "Around it, almost nothing at all."
+     "b": "Goya never gave it a title."
     },
     {
      "role": "value",
-     "h": "Goya painted it late in life and never gave it a *title*",
-     "b": "Today it is called The Dog."
-    },
-    {
-     "role": "value",
-     "label": "",
-     "h": "A Prado curator says painters *pray* before it",
-     "b": "Her name is Manuela Mena."
-    },
-    {
-     "role": "value",
-     "label": "",
-     "h": "Some see loneliness. Some see *hope*",
-     "b": "What do you see?"
+     "phrase": true,
+     "h": "The smallest thing in the room is often the one *still hoping*"
     },
     {
      "role": "closer",
@@ -321,25 +256,14 @@
     },
     {
      "role": "value",
-     "label": "May 1889",
-     "h": "Van Gogh checks himself into an *asylum*",
-     "b": "Saint Paul, in Saint Rémy, France."
-    },
-    {
-     "role": "value",
+     "label": "1889",
      "h": "\"Nothing but the morning *star\"*",
-     "b": "His letter to Theo, spring 1889."
+     "b": "His letter about the view from his window."
     },
     {
      "role": "value",
-     "h": "The morning star was *Venus*",
-     "b": "He saw it from his window before sunrise."
-    },
-    {
-     "role": "value",
-     "label": "MoMA",
-     "h": "Painted in sessions *by day*",
-     "b": "The village was not visible from his window."
+     "phrase": true,
+     "h": "Memory paints better than *the eye*"
     },
     {
      "role": "closer",
@@ -372,24 +296,14 @@
     },
     {
      "role": "value",
-     "label": "31 January 1890",
-     "h": "Theo's son is born. They name him *Vincent*",
-     "b": "After his uncle, the painter."
+     "label": "1890",
+     "h": "Painted for the new parents' *bedroom*",
+     "b": "That baby later founded his museum."
     },
     {
      "role": "value",
-     "h": "\"I started right away to make a painting for *him\"*",
-     "b": "Van Gogh, in a letter to his mother."
-    },
-    {
-     "role": "value",
-     "h": "White almond blossom against a *blue sky*",
-     "b": "To hang in the parents' bedroom."
-    },
-    {
-     "role": "value",
-     "h": "That baby grew up to found the Van Gogh *Museum*",
-     "b": "The painting hangs there today."
+     "phrase": true,
+     "h": "Love is making something for someone who can't *thank you* yet"
     },
     {
      "role": "closer",
@@ -422,24 +336,14 @@
     },
     {
      "role": "value",
-     "label": "January 1891",
-     "h": "Theo dies, months after *Vincent*",
-     "b": "His wife Jo is left with a baby."
+     "label": "",
+     "h": "His brother's widow kept every *painting*",
+     "b": "Then published the brothers' letters."
     },
     {
      "role": "value",
-     "h": "And about 200 of Vincent's *paintings*",
-     "b": "They were worth almost nothing then."
-    },
-    {
-     "role": "value",
-     "h": "Jo organised shows and published the brothers' *letters*",
-     "b": "The letters came out in 1914."
-    },
-    {
-     "role": "value",
-     "h": "She moved Theo's grave to lie beside *Vincent*",
-     "b": "Ivy from Dr Gachet's garden covers both."
+     "phrase": true,
+     "h": "Some people are remembered because someone *refused to forget*"
     },
     {
      "role": "closer",
@@ -472,25 +376,14 @@
     },
     {
      "role": "value",
-     "label": "1871",
-     "h": "Whistler planned to paint her *standing*",
-     "b": "His mother, Anna."
-    },
-    {
-     "role": "value",
-     "h": "She found it too tiring, so he painted her *seated*",
-     "b": "Hands folded. Eyes ahead."
-    },
-    {
-     "role": "value",
      "label": "1934",
      "h": "She became a Mother's Day *stamp*",
-     "b": "\"In memory and in honor of the mothers of America.\""
+     "b": "For the mothers of America."
     },
     {
      "role": "value",
-     "h": "She hangs in the Musée d'Orsay, in *Paris*",
-     "b": "Back home this month after a stay in London."
+     "phrase": true,
+     "h": "The most famous portrait of a mother is of a mother *resting*"
     },
     {
      "role": "closer",
@@ -523,24 +416,14 @@
     },
     {
      "role": "value",
-     "label": "12 November 1918",
-     "h": "Monet writes to *Clemenceau*",
-     "b": "The day after the Armistice."
+     "label": "1918",
+     "h": "After the Armistice, he offered them to *France*",
+     "b": "Painted while losing his sight."
     },
     {
      "role": "value",
-     "h": "Two panels \"to honour the victory and *peace\"*",
-     "b": "That was his first offer."
-    },
-    {
-     "role": "value",
-     "h": "The gift grew to *19 panels*",
-     "b": "Painted while he was losing his sight to cataracts."
-    },
-    {
-     "role": "value",
-     "h": "The rooms opened in 1927, months after his *death*",
-     "b": "Musée de l'Orangerie, Paris."
+     "phrase": true,
+     "h": "After a war, give people something *still* to look at"
     },
     {
      "role": "closer",
@@ -573,29 +456,19 @@
     },
     {
      "role": "value",
-     "label": "Vienna, 1908",
-     "h": "Klimt shows The Kiss at the *Kunstschau*",
-     "b": "Oil and real gold leaf on canvas."
-    },
-    {
-     "role": "value",
-     "h": "The Austrian state buys it right *there*",
-     "b": "Still unfinished."
-    },
-    {
-     "role": "value",
+     "label": "1903",
      "h": "The gold began with a trip to *Ravenna*",
-     "b": "Klimt saw its Byzantine mosaics in 1903."
+     "b": "Where Klimt saw the Byzantine mosaics."
     },
     {
      "role": "value",
-     "h": "Today it hangs in the *Belvedere*",
-     "b": "In Vienna, the city where it was first shown."
+     "phrase": true,
+     "h": "Some things you know are yours *before they're finished*"
     },
     {
      "role": "closer",
      "photo": "tas-room-02.jpg",
-     "h": "Some things you know are yours at first *sight*",
+     "h": "Keep the *beautiful* unfinished things",
      "b": "Framed canvas art and portraits, made to order.",
      "hang": true
     }
@@ -622,25 +495,14 @@
     },
     {
      "role": "value",
-     "label": "Around 1658",
-     "h": "The Little Street, by *Vermeer*",
-     "b": "A doorway, a courtyard, a woman at work."
-    },
-    {
-     "role": "value",
-     "h": "For centuries, scholars argued over *where*",
-     "b": "Somewhere in Delft, but which street?"
-    },
-    {
-     "role": "value",
      "label": "2015",
-     "h": "An old canal tax register gave the *address*",
-     "b": "Vlamingstraat 40 to 42, Delft."
+     "h": "A canal tax register revealed the *address*",
+     "b": "His aunt lived there with her children."
     },
     {
      "role": "value",
-     "h": "The house on the right was his aunt's *home*",
-     "b": "She lived there with her children."
+     "phrase": true,
+     "h": "Every masterpiece was once *somebody's home*"
     },
     {
      "role": "closer",
@@ -673,24 +535,13 @@
     },
     {
      "role": "value",
-     "label": "Copenhagen",
-     "h": "Strandgade 30, from 1898 to *1908*",
-     "b": "Home of the painter Vilhelm Hammershøi."
-    },
-    {
-     "role": "value",
      "h": "Grey rooms, white doors, *sunlight* on the floor",
-     "b": "Painted again and again."
+     "b": "And Ida, almost always with her back to us."
     },
     {
      "role": "value",
-     "h": "The only person in them is *Ida*",
-     "b": "His wife, almost always with her back to us."
-    },
-    {
-     "role": "value",
-     "h": "Maybe the most painted home in *art history*",
-     "b": "An ordinary apartment, made forever."
+     "phrase": true,
+     "h": "Home is the room you could paint *a hundred times*"
     },
     {
      "role": "closer",
@@ -724,25 +575,13 @@
     {
      "role": "value",
      "label": "1737",
-     "h": "The Paris Salon opens in the Salon *Carré*",
-     "b": "A room of the Louvre. Held every year."
+     "h": "The Paris Salon hung paintings floor to *ceiling*",
+     "b": "In the Louvre's Salon Carré."
     },
     {
      "role": "value",
-     "photo": "pd-salon1787.jpg",
-     "hang": true,
-     "h": "Paintings hung floor to *ceiling*",
-     "b": "Rows up to several metres high."
-    },
-    {
-     "role": "value",
-     "h": "The room gave the show its name: the *Salon*",
-     "b": "And the wall its style: salon style."
-    },
-    {
-     "role": "value",
-     "h": "The gallery wall at home is its *grandchild*",
-     "b": "Frames of every size, sharing one wall."
+     "phrase": true,
+     "h": "A wall with many frames is a life with *many loves*"
     },
     {
      "role": "closer",
@@ -775,25 +614,13 @@
     },
     {
      "role": "value",
-     "label": "Mid 1800s",
-     "h": "Museums turn to *reddish* walls",
-     "b": "They set off paintings better."
+     "h": "Red made old *gold frames* glow",
+     "b": "So says the Milwaukee Art Museum."
     },
     {
      "role": "value",
-     "h": "Red flatters old *gold frames*",
-     "b": "The Milwaukee Art Museum explains it this way."
-    },
-    {
-     "role": "value",
-     "label": "The Louvre",
-     "h": "The Red Rooms date from *1863*",
-     "b": "Red and gold, under Napoleon III."
-    },
-    {
-     "role": "value",
-     "h": "Their red today was chosen by a *painter*",
-     "b": "Pierre Soulages, in 1969, after Pompeian red."
+     "phrase": true,
+     "h": "What surrounds a thing decides *how it shines*"
     },
     {
      "role": "closer",
@@ -826,22 +653,12 @@
     {
      "role": "value",
      "h": "Light damage *adds up*",
-     "b": "How bright, times how long. It never resets."
+     "b": "Conservators keep art away from windows."
     },
     {
      "role": "value",
-     "h": "Sun and strong lamps are the *enemies*",
-     "b": "Canada's Conservation Institute says so."
-    },
-    {
-     "role": "value",
-     "h": "Lamps clipped on frames rarely *work*",
-     "b": "The same institute says so."
-    },
-    {
-     "role": "value",
-     "h": "Museums keep painting light *low*",
-     "b": "Around 50 to 150 lux. Softer than you think."
+     "phrase": true,
+     "h": "Even beautiful things fade under *too much light*"
     },
     {
      "role": "closer",
@@ -874,25 +691,14 @@
     },
     {
      "role": "value",
-     "label": "Sundborn, Sweden",
-     "h": "Carl and Karin Larsson's *cottage*",
-     "b": "A house from Karin's father."
-    },
-    {
-     "role": "value",
-     "h": "Karin designed the furniture, textiles and *colours*",
-     "b": "Carl painted the rooms."
-    },
-    {
-     "role": "value",
      "label": "1899",
-     "h": "26 watercolours become a book: *A Home*",
-     "b": "Ett hem, in Swedish."
+     "h": "Karin designed the rooms. Carl *painted them*",
+     "b": "Their book, A Home, shaped Swedish style."
     },
     {
      "role": "value",
-     "h": "Their house is a *museum* today",
-     "b": "Carl Larsson's house, open to visitors."
+     "phrase": true,
+     "h": "The best rooms are made for *the people* in them"
     },
     {
      "role": "closer",
@@ -925,24 +731,13 @@
     },
     {
      "role": "value",
-     "label": "Arles, 1888",
-     "h": "His small room in the Yellow *House*",
-     "b": "A bed, two chairs, a window."
-    },
-    {
-     "role": "value",
-     "h": "\"This time it's simply my *bedroom\"*",
-     "b": "His letter of 16 October 1888."
-    },
-    {
-     "role": "value",
-     "h": "\"Suggestive here of rest or of *sleep\"*",
-     "b": "That was the whole idea."
-    },
-    {
-     "role": "value",
      "h": "\"Looking at the painting should rest the *mind\"*",
-     "b": "Van Gogh, on what a room should do."
+     "b": "Van Gogh, about his bedroom, 1888."
+    },
+    {
+     "role": "value",
+     "phrase": true,
+     "h": "Choose the walls that *let you rest*"
     },
     {
      "role": "closer",
@@ -974,25 +769,14 @@
     },
     {
      "role": "value",
-     "label": "Number one",
-     "h": "57 to 60 *inches*",
-     "b": "From the floor to the center of the art."
+     "label": "The designer's rule",
+     "h": "Center art at 57 to 60 *inches*",
+     "b": "About two thirds the width of the sofa."
     },
     {
      "role": "value",
-     "h": "Measure to the center, not the *top*",
-     "b": "Eye level lands in the middle of the piece."
-    },
-    {
-     "role": "value",
-     "label": "Number two",
-     "h": "About *two thirds*",
-     "b": "The art's width compared to the sofa below it."
-    },
-    {
-     "role": "value",
-     "h": "Both are designer rules of thumb, not *laws*",
-     "b": "Start there, then trust your eye."
+     "phrase": true,
+     "h": "Art should meet you *at eye level*"
     },
     {
      "role": "closer",
@@ -1025,24 +809,13 @@
     },
     {
      "role": "value",
-     "h": "Eos, Prince Albert's black *greyhound*",
-     "b": "She came with him from Germany."
+     "h": "Landseer painted her guarding his *top hat*",
+     "b": "It hung in Albert's dressing room."
     },
     {
      "role": "value",
-     "h": "Landseer painted her guarding his top *hat*",
-     "b": "Plus his gloves and his cane."
-    },
-    {
-     "role": "value",
-     "label": "Christmas 1841",
-     "h": "Victoria gave it to *Albert*",
-     "b": "A present, from wife to husband."
-    },
-    {
-     "role": "value",
-     "h": "It hung in his dressing *room*",
-     "b": "In Buckingham Palace."
+     "phrase": true,
+     "h": "The best gifts say: I noticed *what you love*"
     },
     {
      "role": "closer",
@@ -1075,24 +848,13 @@
     },
     {
      "role": "value",
-     "label": "Around 1831",
-     "h": "The most famous wave in the world *appears*",
-     "b": "Hokusai is in his seventies."
-    },
-    {
-     "role": "value",
      "h": "\"Nothing that I drew was *worthy* of notice\"",
      "b": "Hokusai at 75, about everything before 70."
     },
     {
      "role": "value",
-     "h": "\"Every dot and every stroke... as though *alive\"*",
-     "b": "His hope for the age of 110."
-    },
-    {
-     "role": "value",
-     "h": "He never reached 110. He reached *88*",
-     "b": "He died in 1849."
+     "phrase": true,
+     "h": "Seventy is a fine age to *make your masterpiece*"
     },
     {
      "role": "closer",
@@ -1121,15 +883,8 @@
      "photo": "pd-dash.jpg",
      "hang": true,
      "kicker": "Loved in paint",
-     "h": "Find your dog in the old *masters*"
-    },
-    {
-     "role": "value",
-     "photo": "pd-dash.jpg",
-     "hang": true,
-     "label": "Number 1",
-     "h": "The one who waits by the *door*",
-     "b": "Dash, Queen Victoria's spaniel."
+     "h": "Find your dog in the old *masters*",
+     "b": "Number 1: the one who waits by the door."
     },
     {
      "role": "value",
@@ -1149,11 +904,8 @@
     },
     {
      "role": "value",
-     "photo": "pd-charles.jpg",
-     "hang": true,
-     "label": "Number 4",
-     "h": "The one who stands beside the *boss*",
-     "b": "Emperor Charles V's hound, by Titian."
+     "phrase": true,
+     "h": "Every house has one royal, and *it isn't you*"
     },
     {
      "role": "closer",
@@ -1186,24 +938,14 @@
     },
     {
      "role": "value",
-     "label": "Paris, 1852",
-     "h": "Women could not wear *trousers*",
-     "b": "Rosa Bonheur needed them to work."
+     "label": "1852",
+     "h": "Police gave her a permit to wear *trousers*",
+     "b": "To sketch at the horse market."
     },
     {
      "role": "value",
-     "h": "The police gave her a *permit*",
-     "b": "Valid for six months."
-    },
-    {
-     "role": "value",
-     "h": "She sketched at the horse market twice a *week*",
-     "b": "For about a year and a half."
-    },
-    {
-     "role": "value",
-     "h": "The result is five metres *wide*",
-     "b": "The Horse Fair, now at the Met in New York."
+     "phrase": true,
+     "h": "The rules change when someone *shows up anyway*"
     },
     {
      "role": "closer",
@@ -1236,24 +978,13 @@
     {
      "role": "value",
      "label": "1851",
-     "h": "The Monarch of the Glen, by *Landseer*",
-     "b": "A red deer stag above the Highland mist."
-    },
-    {
-     "role": "value",
      "h": "The stag that became the *Highlands*",
-     "b": "For many, the image of Scotland itself."
+     "b": "Bought for Scotland in 2017."
     },
     {
      "role": "value",
-     "label": "2017",
-     "h": "Scotland's galleries paid *£4 million*",
-     "b": "Half from Diageo. The rest, lottery and public."
-    },
-    {
-     "role": "value",
-     "h": "Voters named it the UK's favourite *acquisition*",
-     "b": "Art Fund's vote, the same year."
+     "phrase": true,
+     "h": "A nation keeps what it can't stop *looking at*"
     },
     {
      "role": "closer",
@@ -1286,24 +1017,14 @@
     },
     {
      "role": "value",
-     "h": "Caillebotte was a painter with *money*",
-     "b": "His Impressionist friends had little."
-    },
-    {
-     "role": "value",
-     "h": "So he bought their work and *backed* them",
-     "b": "Manet, Monet, Renoir and more."
-    },
-    {
-     "role": "value",
      "label": "1894",
-     "h": "He left his collection to *France*",
-     "b": "Gérôme called it filth."
+     "h": "He left them all to *France*",
+     "b": "About half became the heart of the Orsay."
     },
     {
      "role": "value",
-     "h": "The state took about half. Today, it's the heart of the *Orsay*",
-     "b": "First shown in 1897."
+     "phrase": true,
+     "h": "Believe in your friends before *the world* does"
     },
     {
      "role": "closer",
@@ -1336,24 +1057,13 @@
     },
     {
      "role": "value",
-     "label": "Paris, 1896",
-     "h": "Steinlen's poster for *Le Chat Noir*",
-     "b": "A cabaret in Montmartre."
-    },
-    {
-     "role": "value",
-     "h": "Many call it the first modern *cabaret*",
-     "b": "The poster announced its tour."
-    },
-    {
-     "role": "value",
      "h": "Steinlen drew cats all his *life*",
-     "b": "He sculpted them and made a whole book of them."
+     "b": "This one advertised a Montmartre cabaret."
     },
     {
      "role": "value",
-     "h": "His cat is still printed around the *world*",
-     "b": "130 years later."
+     "phrase": true,
+     "h": "Cats don't become icons. They wait for us *to notice*"
     },
     {
      "role": "closer",
@@ -1386,27 +1096,14 @@
     },
     {
      "role": "value",
-     "label": "21 August 1911",
-     "h": "A former worker takes the Mona *Lisa*",
-     "b": "Vincenzo Peruggia."
+     "label": "1911",
+     "h": "Even Franz *Kafka* came to look",
+     "b": "At four iron hooks on a bare wall."
     },
     {
      "role": "value",
-     "h": "When it reopened, thousands came to see the *gap*",
-     "b": "Four iron hooks on a bare wall."
-    },
-    {
-     "role": "value",
-     "h": "One of the visitors was Franz *Kafka*",
-     "b": "In Paris with his friend Max Brod."
-    },
-    {
-     "role": "value",
-     "photo": "pd-mona.jpg",
-     "hang": true,
-     "label": "January 1914",
-     "h": "She came *home*",
-     "b": "Found in Florence, back on the wall."
+     "phrase": true,
+     "h": "You only know what a wall held *once it's gone*"
     },
     {
      "role": "closer",
@@ -1439,24 +1136,14 @@
     },
     {
      "role": "value",
-     "label": "London, 1884",
-     "h": "Louis Wain marries *Emily*",
-     "b": "Soon after, she falls ill with cancer."
+     "label": "1886",
+     "h": "His wife told him to *publish* them",
+     "b": "She died weeks later."
     },
     {
      "role": "value",
-     "h": "To cheer her up, he drew their kitten, *Peter*",
-     "b": "A black and white kitten."
-    },
-    {
-     "role": "value",
-     "h": "Emily told him to *publish* them",
-     "b": "His cats appeared at Christmas, 1886."
-    },
-    {
-     "role": "value",
-     "h": "She died soon after. The cats made him *famous*",
-     "b": "H.G. Wells: \"He has made the cat his own.\""
+     "phrase": true,
+     "h": "What we make to comfort someone can *outlive us both*"
     },
     {
      "role": "closer",
@@ -1489,25 +1176,13 @@
     },
     {
      "role": "value",
-     "label": "England, 1885",
      "h": "The light he wanted lasted *minutes*",
-     "b": "So he painted only then."
+     "b": "So he painted only then, every evening."
     },
     {
      "role": "value",
-     "h": "He set up his easel before the light *came*",
-     "b": "Two girls, paper lanterns, lilies."
-    },
-    {
-     "role": "value",
-     "h": "When the flowers died, he used *fake* ones",
-     "b": "He finished the next year."
-    },
-    {
-     "role": "value",
-     "label": "October 1886",
-     "h": "Carnation, Lily, Lily, *Rose*",
-     "b": "Finished. Tate bought it a year later."
+     "phrase": true,
+     "h": "Beautiful things are made of *patient evenings*"
     },
     {
      "role": "closer",
@@ -1540,24 +1215,14 @@
     },
     {
      "role": "value",
-     "h": "At 72, Goya moved outside *Madrid*",
-     "b": "Deaf, and living alone."
+     "label": "1819",
+     "h": "Deaf at 72, he moved to the *Deaf Man's Villa*",
+     "b": "The murals hang in the Prado."
     },
     {
      "role": "value",
-     "h": "The house was known as the Deaf Man's *Villa*",
-     "b": "The Quinta del Sordo."
-    },
-    {
-     "role": "value",
-     "h": "He painted *14 murals* on its walls",
-     "b": "Today called the Black Paintings."
-    },
-    {
-     "role": "value",
-     "label": "1874",
-     "h": "The walls were moved onto *canvas*",
-     "b": "They hang in the Prado today."
+     "phrase": true,
+     "h": "Everyone keeps one room for *their darkness*"
     },
     {
      "role": "closer",

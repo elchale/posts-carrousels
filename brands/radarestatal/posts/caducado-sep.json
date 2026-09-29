@@ -1,0 +1,156 @@
+{
+ "series": "sep",
+ "brand": "radarestatal",
+ "format": "f1",
+ "posts": [
+  {
+   "slug": "26-tdr-o-eett",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "documentos",
+     "h": "Hay una parte de las bases que *decide todo*",
+     "b": "Y es la que casi nadie lee entera.",
+     "kicker": "PROVEEDOR DEL ESTADO"
+    },
+    {
+     "role": "value",
+     "label": "EN BIENES",
+     "h": "Son las *especificaciones técnicas*",
+     "b": "Detallan el producto exacto."
+    },
+    {
+     "role": "value",
+     "photo": "almacen",
+     "label": "EN SERVICIOS",
+     "h": "Son los *términos de referencia*",
+     "b": "Dicen qué harás y en qué plazo."
+    },
+    {
+     "role": "value",
+     "label": "AHÍ SALE",
+     "h": "Cantidad, plazo y *lugar de entrega*",
+     "b": "Con eso ya puedes costear."
+    },
+    {
+     "role": "value",
+     "photo": "oficina-reunion",
+     "label": "OJO",
+     "h": "Contra ese papel *te reciben*",
+     "b": "El área usuaria firma ahí la conformidad."
+    },
+    {
+     "role": "closer",
+     "h": "Nosotros te acercamos *solo lo que calza*",
+     "b": "Radar Estatal mira los procesos del SEACE y te recomienda los que van con lo que tu empresa vende."
+    }
+   ],
+   "caption": {
+    "ig": "Licitaciones del Estado de bienes y de servicios: dónde se decide todo. En bienes son las especificaciones técnicas, que detallan el producto exacto. En servicios son los términos de referencia, que dicen qué harás y en qué plazo. Ahí sale la cantidad, el plazo y el lugar de entrega, que es lo que te permite costear de verdad. Y contra ese mismo papel el área usuaria firma después la conformidad. Guárdalo para revisar tu próxima licitación. #mype #osce",
+    "tt": "Licitaciones del Estado: especificaciones técnicas en bienes, términos de referencia en servicios, y contra ese papel te reciben. Mándaselo a quien lee las bases contigo. #mype #osce",
+    "fb": "Las especificaciones técnicas y los términos de referencia describen qué compra la entidad, y son el documento contra el que el área usuaria otorga la conformidad."
+   },
+   "alt": "Carrusel que explica qué son las especificaciones técnicas y los términos de referencia dentro de unas bases.",
+   "expiredAt": "2026-09-29T07:06:45.191Z"
+  },
+  {
+   "slug": "27-cierre-en-punto",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "oficina-reunion",
+     "h": "Tu oferta se puede subir hasta las *23:59* del último día",
+     "b": "Tienes el día entero, no una hora."
+    },
+    {
+     "role": "value",
+     "label": "CÓMO ES",
+     "h": "La oferta se sube *en línea*",
+     "b": "Por el SEACE, sin ir a mesa de partes."
+    },
+    {
+     "role": "value",
+     "photo": "documentos",
+     "label": "LA VENTANA",
+     "h": "Va de *00:01 a 23:59*",
+     "b": "Hora peruana, la del sistema."
+    },
+    {
+     "role": "value",
+     "label": "PASA",
+     "h": "Archivos pesados *tardan* en subir",
+     "b": "Y el internet se cae justo ahí."
+    },
+    {
+     "role": "value",
+     "photo": "archivo",
+     "label": "HAZ ESTO",
+     "h": "Sube *temprano* ese día",
+     "b": "Con todo escaneado desde la víspera."
+    },
+    {
+     "role": "closer",
+     "h": "Nosotros te avisamos *con días*, no con horas",
+     "b": "Radar Estatal es la app que vigila el SEACE y te avisa cuando aparece un proceso de tu rubro."
+    }
+   ],
+   "caption": {
+    "ig": "Licitaciones del Estado: hasta qué hora se sube tu oferta. La presentación es electrónica, por la plataforma y sin ir a mesa de partes, y la ventana va de las 00:01 a las 23:59 hora peruana de la fecha del cronograma, con la hora del sistema. Tienes el día entero, no una hora, pero los archivos pesados tardan en subir y el internet se cae justo ahí. Se sube temprano, con todo escaneado desde la víspera. Guárdalo para tu próxima presentación. #mype #seace",
+    "tt": "Licitaciones del Estado: la presentación de ofertas cierra a las 23:59 del día programado, con la hora del sistema. Mándaselo a quien sube tus ofertas. #mype #seace",
+    "fb": "La presentación de ofertas es electrónica y va de las 00:01 a las 23:59 hora peruana de la fecha prevista en el cronograma. Subir temprano ese día evita perder el proceso."
+   },
+   "alt": "Carrusel sobre la presentación electrónica de ofertas y la ventana horaria del día programado en el cronograma.",
+   "expiredAt": "2026-09-29T07:06:45.191Z"
+  },
+  {
+   "slug": "28-ferreteria",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "almacen",
+     "h": "Cómo ser proveedor del Estado *sin conocer a nadie*",
+     "b": "Es una ruta de cuatro pasos.",
+     "kicker": "PROVEEDOR DEL ESTADO"
+    },
+    {
+     "role": "value",
+     "label": "PASO 1",
+     "h": "RUC activo y *habido* en SUNAT",
+     "b": "Sin eso no corre nada más."
+    },
+    {
+     "role": "value",
+     "photo": "documentos",
+     "label": "PASO 2",
+     "h": "Inscribirse en el *RNP*",
+     "b": "El registro de proveedores del Estado."
+    },
+    {
+     "role": "value",
+     "label": "PASO 3",
+     "h": "Buscar *su rubro* en el SEACE",
+     "b": "Y leer las bases de dos procesos."
+    },
+    {
+     "role": "value",
+     "photo": "oficina-reunion",
+     "label": "PASO 4",
+     "h": "Apuntar a *municipios y colegios*",
+     "b": "Con el rubro correcto en tu RNP."
+    },
+    {
+     "role": "closer",
+     "h": "El «*radar*» hace ese paso tres todos los días",
+     "b": "Radar Estatal es la app peruana que vigila el SEACE y te avisa qué compra el Estado en tu rubro."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo ser proveedor del Estado desde cero: los cuatro pasos, en orden. RUC activo y habido en SUNAT, porque sin eso no corre nada más. Inscripción en el Registro Nacional de Proveedores con el rubro correcto. Buscar ese rubro en el SEACE y leerse las bases de dos procesos completos. Y apuntar a los municipios y colegios de tu distrito, que compran por la plataforma. Guárdalo si recién vas a empezar. #mype #estadoperuano",
+    "tt": "Cómo ser proveedor del Estado desde cero: RUC habido, RNP con tu rubro, buscar en el SEACE y apuntar a municipios y colegios. Mándaselo a quien tiene un negocio chico. #mype #estadoperuano",
+    "fb": "La ruta para empezar a venderle al Estado: RUC activo y habido, inscripción en el RNP con el rubro correcto, búsqueda de ese rubro en el SEACE y las entidades chicas del distrito como primer objetivo."
+   },
+   "alt": "Carrusel con la ruta de cuatro pasos para que una MYPE empiece a venderle al Estado peruano.",
+   "expiredAt": "2026-09-29T07:06:45.191Z"
+  }
+ ]
+}
