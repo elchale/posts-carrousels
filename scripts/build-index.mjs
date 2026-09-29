@@ -96,6 +96,8 @@ const BRAND_CHROME = {
   /* Las dos cuentas afiliadas de EE.UU. (affiliate/) — en inglés, y por eso su
    * etiqueta también: es lo único del chasis que dice en qué idioma se publica. */
   servicestack: { accent: '#5be0a5', accent2: '#8a93a0', label: 'AI stack for solos' },
+  /* Tienda de arte POD (pod_store/), en inglés: el latón de su paleta "gallery at dusk". */
+  theartistsalon: { accent: '#c9a46a', accent2: '#f1eada', label: 'Art & portraits' },
 }
 
 /* The best name for a series is the one already written on its covers: every post in

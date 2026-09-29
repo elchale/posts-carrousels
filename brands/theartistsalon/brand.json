@@ -1,0 +1,12 @@
+{
+  "name": "The Artist Salon",
+  "tag": "The Artist Salon",
+  "logo": "logo.png",
+  "lang": "en",
+  "display_font": "CormorantGaramond[wght].ttf",
+  "display_weight": 600,
+  "accent_font": "CormorantGaramond-Italic[wght].ttf",
+  "body_font": "Inter[opsz,wght].ttf",
+  "f1": {"accent": "#C9A46A", "flat_bg": "#1C1A17", "flat_text": "#F1EADA"},
+  "roles_note": "gallery at dusk: ink #1C1A17, parchment #F1EADA, brass #B8925A (lifted to #C9A46A for legibility on near black), oxblood #6E2B2B. Accent = brass + italic Cormorant. Paintings are HUNG (contained in a thin brass frame on ink), never cropped."
+}

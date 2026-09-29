@@ -48,6 +48,7 @@
 /* Las dos cuentas afiliadas en inglés (affiliate/): ámbar y menta, dos huecos
    que ninguna de las cinco marcas ocupa — en la grilla se distinguen solas. */
 [data-brand="servicestack"] { --accent: #5be0a5; --accent-2: #8a93a0; }
+[data-brand="theartistsalon"] { --accent: #c9a46a; --accent-2: #f1eada; }
 
 * { box-sizing: border-box; }
 
