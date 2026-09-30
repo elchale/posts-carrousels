@@ -11,7 +11,7 @@
       "slides": [
         {
           "role": "cover",
-          "h": "La hackathon futurX 2026 en 5 datos",
+          "h": "¿Qué es la hackathon futurX 2026?",
           "hechos": [
             {
               "t": "Fecha",
@@ -26,38 +26,38 @@
         {
           "role": "value",
           "h": "Es gratis",
-          "b": "La inscripción y la participación no cuestan nada."
+          "b": "No pagas nada por inscribirte ni por participar."
         },
         {
           "role": "value",
-          "h": "Es en línea",
-          "b": "Solo la jornada final del 24 de octubre es presencial, y es opcional."
+          "h": "Es virtual",
+          "b": "Solo la final del 24 de octubre es presencial, y no es obligatoria."
         },
         {
           "role": "value",
           "cita": true,
-          "h": "No necesitas programar.",
-          "b": "La fase 1 se gana describiendo bien un problema real."
+          "h": "No necesitas saber programar.",
+          "b": "En la fase 1 solo tienes que explicar bien un problema real."
         },
         {
           "role": "stat",
           "label": "Vacantes",
           "cifra": "500",
-          "rotulo": "cupos en total",
-          "h": "Se inscribe con el correo de tu universidad o instituto.",
-          "b": "Cierra el sábado 10 de octubre al mediodía, o antes si se llenan."
+          "rotulo": "cupos",
+          "h": "Te inscribes con el correo de tu universidad o instituto.",
+          "b": "Las inscripciones cierran el sábado 10 de octubre al mediodía, o antes si se llenan."
         },
         {
           "role": "closer",
           "h": "Inscríbete gratis",
-          "b": "Aprende IA con expertos internacionales y resuelve un problema real.",
           "cta": "Inscribirme gratis",
-          "url": "futurx.pe/hackathon/2026"
+          "url": "futurx.pe/hackathon/2026",
+          "b": "Del 14 al 24 de octubre."
         }
       ],
       "caption": {
-        "ig": "Hackathon futurX 2026: gratis, en línea, del 14 al 24 de octubre, con final en la UTP. ¿Con quién te inscribirías?",
-        "tt": "Hackathon futurX 2026, gratis y en línea. ¿Con quién te inscribirías? #hackathon #inteligenciaartificial"
+        "ig": "Hackathon futurX 2026, del 14 al 24 de octubre. Es gratis, es virtual y la final es en la UTP. ¿Con quién te inscribirías?",
+        "tt": "La hackathon futurX 2026 es gratis y virtual. ¿Con quién te inscribirías? #hackathon #inteligenciaartificial"
       },
       "alt": "Carrusel de futurX con cinco datos de la hackathon futurX 2026: fechas, sede, que es gratis, en línea y que hay 500 cupos."
     },
@@ -68,44 +68,44 @@
       "slides": [
         {
           "role": "cover",
-          "h": "Si estudias letras, derecho o salud, esta hackathon también es tuya"
+          "h": "Si estudias letras, derecho o salud, esta hackathon es para ti"
         },
         {
           "role": "value",
           "cita": true,
           "h": "No necesitas saber de IA ni programar.",
-          "b": "La fase 1 la gana quien mejor describe un problema real."
+          "b": "En la fase 1 gana quien mejor explica un problema real."
         },
         {
           "role": "value",
-          "h": "Tu mirada vale tanto como el código",
-          "b": "Compiten estudiantes de letras y programadores por igual."
+          "h": "Compites igual que un programador",
+          "b": "Estudiantes de letras y de ingeniería concursan en las mismas condiciones."
         },
         {
           "role": "value",
-          "h": "El equipo pone la parte técnica",
-          "b": "En la fase 2 los equipos se arman alrededor de los desafíos elegidos."
+          "h": "En la fase 2 armas un equipo",
+          "b": "Alguien del equipo se encarga de la parte técnica."
         },
         {
           "role": "value",
-          "h": "Lo que sí necesitas",
+          "h": "Lo único que necesitas",
           "items": [
-            "Un problema real que conozcas bien",
+            "Conocer bien un problema real",
             "Tu correo institucional",
-            "Ganas de aprender IA"
+            "Ganas de aprender"
           ]
         },
         {
           "role": "closer",
-          "h": "Tu carrera también resuelve problemas",
-          "b": "Inscripción gratuita, del 14 al 24 de octubre.",
+          "h": "Inscríbete gratis",
           "cta": "Inscribirme gratis",
-          "url": "futurx.pe/hackathon/2026"
+          "url": "futurx.pe/hackathon/2026",
+          "b": "Del 14 al 24 de octubre, en línea."
         }
       ],
       "caption": {
-        "ig": "Hackathon para estudiantes de letras, derecho, educación, salud o diseño: la fase 1 se gana describiendo un problema, no programando. Mándaselo a tu amigo de letras que cree que la IA no es para él.",
-        "tt": "Una hackathon donde también gana la gente de letras. ¿Qué estudias tú? #hackathon #universitarios"
+        "ig": "Hackathon para estudiantes de letras, derecho, educación, salud o diseño. En la fase 1 no se programa, se explica un problema. Mándaselo a tu amigo de letras que cree que la IA no es para él.",
+        "tt": "Si estudias letras, esta hackathon es para ti. ¿Qué estudias tú? #hackathon #universitarios"
       },
       "alt": "Carrusel de futurX que explica que en la hackathon no hace falta programar y que compiten estudiantes de cualquier carrera."
     },
@@ -116,44 +116,44 @@
       "slides": [
         {
           "role": "cover",
-          "h": "El calendario de la hackathon, fecha por fecha",
-          "b": "Guárdalo para no perderte ninguna entrega."
+          "h": "Las fechas de la hackathon futurX",
+          "b": "Guárdalo para tenerlas a mano."
         },
         {
           "role": "value",
           "label": "Miércoles 14 de octubre",
-          "h": "Empiezan las capacitaciones",
-          "b": "Masterclasses internacionales sobre el potencial de la IA."
+          "h": "Empiezan las clases",
+          "b": "Masterclasses en línea con expertos internacionales."
         },
         {
           "role": "value",
-          "label": "Del 19 al 20 de octubre",
-          "h": "Envías tu propuesta individual",
-          "b": "De mediodía a mediodía, hora de Perú."
+          "label": "19 y 20 de octubre",
+          "h": "Mandas tu propuesta",
+          "b": "Desde el lunes 19 al mediodía hasta el martes 20 al mediodía."
         },
         {
           "role": "value",
           "label": "21 y 22 de octubre",
-          "h": "Se publican los desafíos y armas tu equipo",
-          "b": "El registro de equipos cierra el jueves 22 al mediodía."
+          "h": "Salen los desafíos elegidos y armas tu equipo",
+          "b": "Registras tu equipo hasta el jueves 22 al mediodía."
         },
         {
           "role": "value",
           "label": "Sábado 24 de octubre",
-          "h": "Entregas tu prototipo y llega el Demo Day",
-          "b": "Los 8 finalistas presentan a las 4 de la tarde."
+          "h": "Entregas tu prototipo y es el Demo Day",
+          "b": "Los 8 equipos finalistas presentan a las 4 de la tarde."
         },
         {
           "role": "closer",
-          "h": "Primera fecha: 14 de octubre",
-          "b": "Las inscripciones cierran el sábado 10 al mediodía.",
+          "h": "Empezamos el 14 de octubre",
           "cta": "Inscribirme gratis",
-          "url": "futurx.pe/hackathon/2026"
+          "url": "futurx.pe/hackathon/2026",
+          "b": "Puedes inscribirte hasta el sábado 10 al mediodía."
         }
       ],
       "caption": {
-        "ig": "Calendario de la hackathon futurX 2026: capacitaciones desde el 14 de octubre, propuestas el 19 y 20, equipos hasta el 22 y Demo Day el sábado 24. Guárdalo para tenerlo a mano cuando empiece.",
-        "tt": "Las fechas de la hackathon futurX 2026. ¿Cuál te preocupa más? #hackathon #inteligenciaartificial"
+        "ig": "Fechas de la hackathon futurX 2026: clases desde el 14 de octubre, propuestas el 19 y 20, equipos hasta el 22 y Demo Day el sábado 24. Guárdalo para cuando empiece.",
+        "tt": "Las fechas de la hackathon futurX 2026. ¿Cuál se te va a pasar? #hackathon #inteligenciaartificial"
       },
       "alt": "Carrusel de futurX con el calendario de la hackathon: 14, 19, 20, 21, 22 y 24 de octubre."
     },
@@ -164,46 +164,46 @@
       "slides": [
         {
           "role": "cover",
-          "h": "Cómo funciona la hackathon, en dos fases",
-          "b": "La primera se gana con una buena idea. La segunda, construyendo."
+          "h": "La hackathon futurX tiene dos fases",
+          "b": "Primero propones una idea tú solo. Después la construyes en equipo."
         },
         {
           "role": "value",
           "n": 1,
           "h": "Capacitación y diagnóstico social",
-          "b": "Individual y en línea. Propones una idea que resuelva una necesidad real."
+          "b": "Es individual y en línea. Propones una idea para una necesidad real."
         },
         {
           "role": "value",
-          "label": "Al terminar la fase 1",
+          "label": "Después de la fase 1",
           "h": "El jurado elige los mejores desafíos",
-          "b": "Cerca de 10, según lo que el jurado considere necesario."
+          "b": "Serán alrededor de 10."
         },
         {
           "role": "value",
           "n": 2,
           "h": "Hackathon y creación de prototipos",
-          "b": "En equipos de 2 a 4 personas, construyes una solución con IA."
+          "b": "En equipos de 2 a 4 personas, construyen una solución con IA."
         },
         {
           "role": "value",
-          "h": "Lo que entregas en la fase 2",
+          "h": "Qué se entrega en la fase 2",
           "items": [
-            "El enlace a tu prototipo funcionando",
-            "Un pitch de 3 a 5 láminas",
-            "Sin nombres ni universidades: el jurado evalúa a ciegas"
+            "El enlace a tu prototipo",
+            "Una presentación de 3 a 5 láminas",
+            "Sin nombres ni universidades, para que el jurado no sepa de quién es"
           ]
         },
         {
           "role": "closer",
-          "h": "Toda persona que entra a la fase 1 puede competir en la fase 2",
+          "h": "Todos los que participan en la fase 1 pueden entrar a la fase 2",
           "cta": "Inscribirme gratis",
           "url": "futurx.pe/hackathon/2026"
         }
       ],
       "caption": {
-        "ig": "Cómo funciona la hackathon futurX: fase 1 individual con tu idea, fase 2 en equipo construyendo un prototipo con IA. ¿Te sientes más de fase 1 o de fase 2?",
-        "tt": "La hackathon futurX en dos fases. ¿Tú eres más de idea o de construir? #hackathon #ia"
+        "ig": "Cómo funciona la hackathon futurX: en la fase 1 propones una idea tú solo y en la fase 2 la construyes en equipo con IA. ¿Tú eres más de pensar la idea o de construirla?",
+        "tt": "Las dos fases de la hackathon futurX. ¿Eres más de idea o de construir? #hackathon #ia"
       },
       "alt": "Carrusel de futurX que explica las dos fases de la hackathon y lo que se entrega en cada una."
     },
@@ -215,14 +215,14 @@
         {
           "role": "cover",
           "kicker": "Parte 1 de 2",
-          "h": "Así califica el jurado tu idea en la fase 1",
-          "b": "Está en las bases, y casi nadie las lee."
+          "h": "Cómo califica el jurado tu idea en la fase 1",
+          "b": "Esto dicen las bases."
         },
         {
           "role": "stat",
           "label": "Demanda en la sociedad",
           "cifra": "40",
-          "rotulo": "por ciento del puntaje",
+          "rotulo": "por ciento de la nota",
           "barra": 0.4,
           "h": "Qué tan real y urgente es el problema en tu país o en Latinoamérica."
         },
@@ -230,35 +230,35 @@
           "role": "stat",
           "label": "Aplicación de la IA",
           "cifra": "30",
-          "rotulo": "por ciento del puntaje",
+          "rotulo": "por ciento de la nota",
           "barra": 0.3,
-          "h": "Si la IA es de verdad la herramienta correcta para ese problema."
+          "h": "Si la IA sirve de verdad para resolver ese problema."
         },
         {
           "role": "stat",
           "label": "Factibilidad económica",
           "cifra": "30",
-          "rotulo": "por ciento del puntaje",
+          "rotulo": "por ciento de la nota",
           "barra": 0.3,
-          "h": "Que se pueda empezar sin una inversión cuantiosa."
+          "h": "Que se pueda empezar sin mucha inversión."
         },
         {
           "role": "value",
           "cita": true,
-          "h": "Gana el problema mejor elegido, no la idea más compleja.",
-          "b": "La demanda real pesa más que cualquier otro criterio."
+          "h": "Lo que más pesa es elegir bien el problema.",
+          "b": "Vale el 40 por ciento de tu nota."
         },
         {
           "role": "closer",
-          "h": "Las bases completas, en la web",
-          "b": "Mañana, la parte 2: cómo se califica tu prototipo.",
+          "h": "Lee las bases completas",
           "cta": "Ver bases",
-          "url": "futurx.pe/hackathon/2026"
+          "url": "futurx.pe/hackathon/2026",
+          "b": "Mañana publicamos cómo se califica el prototipo."
         }
       ],
       "caption": {
-        "ig": "Criterios de calificación de la hackathon futurX, fase 1: demanda en la sociedad 40 por ciento, aplicación de la IA 30 y factibilidad económica 30. ¿Qué problema de tu ciudad propondrías?",
-        "tt": "Cómo te califica el jurado en la hackathon futurX. ¿Qué problema propondrías? #hackathon #ia"
+        "ig": "Criterios de calificación de la fase 1 de la hackathon futurX: demanda en la sociedad 40 por ciento, aplicación de la IA 30 y factibilidad económica 30. ¿Qué problema de tu ciudad propondrías?",
+        "tt": "Así te califica el jurado en la fase 1 de la hackathon futurX. ¿Qué problema propondrías? #hackathon #ia"
       },
       "alt": "Carrusel de futurX con los tres criterios de la fase 1 de la hackathon y su peso: 40, 30 y 30 por ciento."
     },
@@ -270,49 +270,49 @@
         {
           "role": "cover",
           "kicker": "Parte 2 de 2",
-          "h": "Así califica el jurado tu prototipo en la fase 2"
+          "h": "Cómo califica el jurado tu prototipo en la fase 2"
         },
         {
           "role": "stat",
           "label": "Solución al desafío",
           "cifra": "50",
-          "rotulo": "por ciento del puntaje",
+          "rotulo": "por ciento de la nota",
           "barra": 0.5,
-          "h": "Si el prototipo funciona, usa IA y ataca la necesidad de verdad."
+          "h": "Si el prototipo funciona, usa IA y resuelve el problema."
         },
         {
           "role": "stat",
           "label": "Pitch y presentación",
           "cifra": "20",
-          "rotulo": "por ciento del puntaje",
+          "rotulo": "por ciento de la nota",
           "barra": 0.2,
-          "h": "La claridad para explicar cómo mejora la situación real."
+          "h": "Qué tan claro explican cómo ayuda su solución."
         },
         {
           "role": "stat",
           "label": "Facilidad de uso",
           "cifra": "20",
-          "rotulo": "por ciento del puntaje",
+          "rotulo": "por ciento de la nota",
           "barra": 0.2,
-          "h": "Que cualquier persona lo entienda sin manual."
+          "h": "Que cualquiera lo pueda usar sin instrucciones."
         },
         {
           "role": "stat",
           "label": "Puntos por difusión",
           "cifra": "10",
-          "rotulo": "por ciento del puntaje",
+          "rotulo": "por ciento de la nota",
           "barra": 0.1,
-          "h": "Los puntos del cupón de referidos de todo tu equipo."
+          "h": "Los puntos que tu equipo sumó con el cupón de referidos."
         },
         {
           "role": "closer",
-          "h": "Un prototipo que funciona vale la mitad de la nota",
+          "h": "La mitad de la nota depende de que tu prototipo funcione",
           "cta": "Ver bases",
           "url": "futurx.pe/hackathon/2026"
         }
       ],
       "caption": {
-        "ig": "Criterios de la fase 2 de la hackathon futurX: solución 50 por ciento, pitch 20, facilidad de uso 20 y difusión 10. ¿Te sorprende cuánto pesa el pitch?",
+        "ig": "Criterios de la fase 2 de la hackathon futurX: solución 50 por ciento, pitch 20, facilidad de uso 20 y difusión 10. ¿Pensabas que el pitch pesaba más?",
         "tt": "Lo que más pesa en la fase 2 de la hackathon futurX. ¿Lo esperabas? #hackathon #ia"
       },
       "alt": "Carrusel de futurX con los cuatro criterios de la fase 2 de la hackathon: 50, 20, 20 y 10 por ciento."
@@ -324,43 +324,43 @@
       "slides": [
         {
           "role": "cover",
-          "h": "Los 4 perfiles de un buen equipo de hackathon. ¿Cuál eres tú?"
+          "h": "¿Cuál eres tú en un equipo de hackathon?"
         },
         {
           "role": "value",
           "label": "El que conoce el problema",
-          "h": "Sabe por qué duele",
-          "b": "Lo vio en su barrio, en su familia o en su carrera."
+          "h": "Lo ha vivido de cerca",
+          "b": "En su barrio, en su familia o en su carrera."
         },
         {
           "role": "value",
           "label": "El que diseña",
-          "h": "Hace que se entienda sin manual",
-          "b": "La facilidad de uso vale 20 por ciento de la nota."
+          "h": "Hace que cualquiera lo entienda",
+          "b": "La facilidad de uso es el 20 por ciento de la nota."
         },
         {
           "role": "value",
           "label": "El que programa",
           "h": "Hace que funcione",
-          "b": "Con herramientas de IA, el prototipo sale en días."
+          "b": "Con herramientas de IA, un prototipo se arma en pocos días."
         },
         {
           "role": "value",
           "label": "El que presenta",
-          "h": "Lo cuenta en 3 a 5 láminas",
-          "b": "En el Demo Day, el jurado escucha el pitch en vivo."
+          "h": "Explica la idea en el pitch",
+          "b": "El jurado lo escucha en vivo en el Demo Day."
         },
         {
           "role": "closer",
-          "h": "Equipos de 2 a 4 personas",
-          "b": "La conformación es libre y te ayudamos a encontrar el tuyo.",
+          "h": "Los equipos son de 2 a 4 personas",
           "cta": "Inscribirme gratis",
-          "url": "futurx.pe/hackathon/2026"
+          "url": "futurx.pe/hackathon/2026",
+          "b": "Tú eliges con quién, y te ayudamos a encontrar compañeros."
         }
       ],
       "caption": {
-        "ig": "Cómo armar un equipo para una hackathon: el que conoce el problema, el que diseña, el que programa y el que presenta. ¿Cuál eres tú?",
-        "tt": "Los 4 perfiles de un equipo de hackathon. ¿Cuál eres tú? #hackathon #universitarios"
+        "ig": "Cómo armar un equipo para una hackathon: alguien que conoce el problema, alguien que diseña, alguien que programa y alguien que presenta. ¿Cuál eres tú?",
+        "tt": "¿Cuál eres tú en un equipo de hackathon? #hackathon #universitarios"
       },
       "alt": "Carrusel de futurX con los cuatro perfiles de un equipo de hackathon: problema, diseño, programación y presentación."
     },
@@ -371,33 +371,33 @@
       "slides": [
         {
           "role": "cover",
-          "h": "Tu cupón de referidos te suma puntos. Así funciona",
-          "b": "Y también le suma a quien invitas."
+          "h": "Cómo sumar puntos con tu cupón de referidos",
+          "b": "Ganan tú y la persona que invitas."
         },
         {
           "role": "value",
           "n": 1,
-          "h": "Te inscribes y recibes tu cupón",
-          "b": "Son 6 dígitos y llegan a tu correo de bienvenida."
+          "h": "Te inscribes",
+          "b": "Tu cupón de 6 dígitos llega en el correo de bienvenida."
         },
         {
           "role": "value",
           "n": 2,
           "h": "Se lo pasas a un amigo",
-          "b": "Lo escribe al inscribirse, en el campo del cupón."
+          "b": "Lo escribe cuando se inscribe."
         },
         {
           "role": "value",
           "n": 3,
-          "h": "Suman un punto los dos",
-          "b": "Para la fase 2 de la hackathon."
+          "h": "Los dos ganan un punto",
+          "b": "Cuenta para la fase 2 de la hackathon."
         },
         {
           "role": "stat",
-          "label": "El tope",
+          "label": "El máximo",
           "cifra": "10",
           "rotulo": "puntos por equipo",
-          "h": "Cuenta el esfuerzo de difundir, sin tapar el trabajo técnico."
+          "h": "Es lo más que puede sumar un equipo con los cupones."
         },
         {
           "role": "closer",
@@ -407,8 +407,8 @@
         }
       ],
       "caption": {
-        "ig": "Cupón de referidos de la hackathon futurX: te inscribes, compartes tus 6 dígitos y suman un punto los dos, hasta 10 por equipo. Mándaselo a quien quieres en tu equipo.",
-        "tt": "Cómo sumar puntos antes de que empiece la hackathon futurX. #hackathon #universitarios"
+        "ig": "Cupón de referidos de la hackathon futurX: te inscribes, compartes tus 6 dígitos y los dos ganan un punto, hasta 10 por equipo. Mándaselo a quien quieres en tu equipo.",
+        "tt": "Así sumas puntos antes de que empiece la hackathon futurX. #hackathon #universitarios"
       },
       "alt": "Carrusel de futurX que explica en tres pasos cómo funciona el cupón de referidos y su tope de 10 puntos por equipo."
     },
@@ -419,19 +419,19 @@
       "slides": [
         {
           "role": "cover",
-          "h": "Lo que se lleva cada equipo en la hackathon futurX"
+          "h": "Estos son los premios de la hackathon futurX"
         },
         {
           "role": "stat",
-          "label": "Primer puesto del Demo Day",
+          "label": "Primer puesto",
           "cifra": "400",
           "rotulo": "dólares en efectivo",
-          "h": "Para el equipo ganador."
+          "h": "Para el equipo que gane el Demo Day."
         },
         {
           "role": "value",
           "label": "Primer, segundo y tercer puesto",
-          "h": "Para seguir construyendo",
+          "h": "Los tres primeros reciben",
           "items": [
             "Dos licencias de Claude por 6 meses",
             "Un servidor Azure de US$ 200 por 3 meses",
@@ -441,10 +441,10 @@
         {
           "role": "value",
           "label": "Los 8 equipos finalistas",
-          "h": "Para los que llegan al Demo Day",
+          "h": "Los finalistas reciben",
           "items": [
             "Membresía en futurX por 6 meses",
-            "Visita a la computadora cuántica de Inducontrol, en Lima",
+            "Una visita a la computadora cuántica de Inducontrol, en Lima",
             "Certificado internacional verificable"
           ]
         },
@@ -452,18 +452,18 @@
           "role": "value",
           "label": "Para todos",
           "h": "Certificado de JGM Innovation y futurX",
-          "b": "Si asistes a la mitad de las charlas y entregas tu prototipo."
+          "b": "Lo recibes si asistes a la mitad de las charlas y entregas tu prototipo."
         },
         {
           "role": "closer",
-          "h": "La inscripción es gratis",
-          "b": "Y los premios, reales.",
+          "h": "Inscríbete gratis",
           "cta": "Inscribirme gratis",
-          "url": "futurx.pe/hackathon/2026"
+          "url": "futurx.pe/hackathon/2026",
+          "b": "Hasta el sábado 10 de octubre."
         }
       ],
       "caption": {
-        "ig": "Premios de la hackathon futurX 2026: US$ 400 al primer puesto, licencias de Claude y servidores Azure a los tres primeros, y una visita a una computadora cuántica para los finalistas. ¿Cuál quieres tú?",
+        "ig": "Premios de la hackathon futurX 2026: US$ 400 para el primer puesto, licencias de Claude y servidores Azure para los tres primeros, y una visita a una computadora cuántica para los finalistas. ¿Cuál quieres tú?",
         "tt": "Los premios de la hackathon futurX 2026. ¿Cuál quieres? #hackathon #inteligenciaartificial"
       },
       "alt": "Carrusel de futurX con los premios de la hackathon por puesto: efectivo, licencias, servidores, asesoría, membresía, visita y certificados."
@@ -482,21 +482,21 @@
         },
         {
           "role": "value",
-          "h": "Empezó en 2023",
-          "b": "Un grupo de universitarios no quiso esperar a que alguien les enseñara IA.",
+          "h": "Empezamos en 2023",
+          "b": "Éramos universitarios que queríamos aprender IA sin esperar a que alguien nos la enseñara.",
           "photo": "openpucp_lanzamiento.webp",
           "pie": "Lanzamiento en el anfiteatro de OpenPucp, junio de 2023."
         },
         {
           "role": "value",
-          "h": "Llegamos a Arequipa",
-          "b": "En la cumbre Techsuyo nació la idea de una red en varias ciudades.",
+          "h": "También estamos en Arequipa",
+          "b": "En 2023 fuimos a la cumbre Techsuyo, y hoy estamos en Lima y en Arequipa.",
           "photo": "techsuyo_arequipa.webp",
           "pie": "El equipo en Techsuyo, Arequipa, setiembre de 2023."
         },
         {
           "role": "value",
-          "h": "Lo que hacemos",
+          "h": "Qué hacemos",
           "items": [
             "Clubes universitarios de inteligencia artificial",
             "Proyectos con impacto social",
@@ -511,15 +511,15 @@
         },
         {
           "role": "closer",
-          "h": "¿No hay club en tu universidad?",
-          "b": "Cuéntanos de tu campus y armamos el primero contigo.",
+          "h": "¿En tu universidad no hay club?",
           "cta": "Quiero entrar a futurX",
-          "url": "futurx.pe"
+          "url": "futurx.pe",
+          "b": "Escríbenos y armamos el primero contigo."
         }
       ],
       "caption": {
-        "ig": "futurX: organización estudiantil peruana que aprende inteligencia artificial en comunidad desde 2023, en Lima y Arequipa. ¿En qué universidad estudias?",
-        "tt": "Universitarios peruanos aprendiendo IA en comunidad. ¿En qué universidad estudias? #inteligenciaartificial #universitarios"
+        "ig": "futurX es una organización estudiantil peruana que aprende inteligencia artificial en comunidad desde 2023, en Lima y Arequipa. ¿En qué universidad estudias?",
+        "tt": "Universitarios peruanos que aprenden IA juntos. ¿En qué universidad estudias? #inteligenciaartificial #universitarios"
       },
       "alt": "Carrusel de futurX con fotos del equipo, del lanzamiento en OpenPucp y de la cumbre Techsuyo en Arequipa."
     }

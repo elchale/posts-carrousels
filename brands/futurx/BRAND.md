@@ -132,6 +132,34 @@ Es la sección 7 de la dirección de diseño del sitio, aplicada a los posts:
 - Lo que el sitio ya dice bien se reutiliza tal cual: «La nueva era es nuestra»,
   «No necesitas saber de IA ni programar».
 
+### Que no suene a IA (Carlos, 2026-09-30)
+
+Se escribe como hablaría un universitario peruano explicándole algo a un amigo,
+no como un titular de plantilla. Corregido sobre la primera tanda:
+
+| Suena a IA | Suena a persona |
+|---|---|
+| La hackathon futurX 2026 en 5 datos | ¿Qué es la hackathon futurX 2026? |
+| Esta hackathon también es tuya | Esta hackathon es para ti |
+| Cómo funciona la hackathon, en dos fases | La hackathon futurX tiene dos fases |
+| El calendario, fecha por fecha | Las fechas de la hackathon futurX |
+| Gana el problema mejor elegido, no la idea más compleja | Lo que más pesa es elegir bien el problema |
+| Y los premios, reales. | Hasta el sábado 10 de octubre. |
+
+Lo que se evita, en general:
+
+- Fórmulas de titular: «X en N datos», «fecha por fecha», «todo lo que necesitas
+  saber», «así funciona», «lo que nadie te dice».
+- El contraste «no es X, es Y» y las frases en espejo («La primera se gana con…
+  La segunda, …»).
+- Coletillas de marco pegadas al final («…, en dos fases», «…, paso a paso»).
+- Cierres con remate ingenioso o poético y frases abstractas («Sabe por qué
+  duele»). Se dice el dato: la fecha, el cupo, qué hacer.
+- Posesivos y adornos de más («también es tuya», «tu mirada vale tanto como el
+  código»).
+
+La prueba: si un amigo lo diría así en voz alta por WhatsApp, pasa.
+
 ## Render
 
 ```bash
