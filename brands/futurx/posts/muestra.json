@@ -1,0 +1,104 @@
+{
+  "brand": "futurX",
+  "series": "muestra",
+  "format": "futurx",
+  "nota": "Serie de MUESTRA para aprobar el diseno. Todo el copy sale de lo que ya publica futurx.pe. No se publica.",
+  "posts": [
+    {
+      "slug": "01-hackathon-lo-que-tienes-que-saber",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Lo esencial de la hackathon futurX 2026",
+          "hechos": [
+            {
+              "t": "Fecha",
+              "v": "14 al 24 de octubre de 2026"
+            },
+            {
+              "t": "Sede de la jornada final",
+              "v": "UTP, Facultad de Medicina, Lima"
+            }
+          ]
+        },
+        {
+          "role": "value",
+          "cita": true,
+          "h": "No necesitas saber de IA ni programar.",
+          "b": "La fase 1 se gana describiendo bien un problema real de tu entorno."
+        },
+        {
+          "role": "value",
+          "n": 1,
+          "h": "Capacitación y diagnóstico social",
+          "b": "Todo en línea. Propones un desafío real y el jurado elige los mejores."
+        },
+        {
+          "role": "value",
+          "n": 2,
+          "h": "Hackathon y creación de prototipos",
+          "b": "En equipos de 2 a 4 personas, construyes una solución con IA."
+        },
+        {
+          "role": "stat",
+          "label": "Premio para el primer puesto",
+          "cifra": "400",
+          "rotulo": "dólares en efectivo",
+          "h": "Los tres primeros puestos también reciben licencias de Claude y servidores Azure."
+        },
+        {
+          "role": "closer",
+          "h": "Inscríbete gratis con tu correo institucional",
+          "b": "Hasta el sábado 10 de octubre o hasta llenar los 500 cupos.",
+          "cta": "Inscribirme gratis",
+          "url": "futurx.pe/hackathon/2026"
+        }
+      ],
+      "caption": {
+        "ig": "Hackathon futurX 2026: del 14 al 24 de octubre, gratis y en línea, con final presencial en la UTP. ¿Qué problema de tu entorno resolverías con IA?",
+        "tt": "Hackathon futurX 2026, gratis y en línea. ¿Qué problema resolverías con IA? #hackathon #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX con las fechas, las dos fases y los premios de la hackathon futurX 2026."
+    },
+    {
+      "slug": "02-que-es-futurx",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "La nueva era es nuestra",
+          "photo": "portada_equipo.webp",
+          "pie": "Integrantes de futurX. Archivo de la revista futurA, 2024.",
+          "foco": "50% 40%"
+        },
+        {
+          "role": "value",
+          "h": "Empezó en 2023",
+          "b": "Un grupo de universitarios no quiso esperar a que alguien les enseñara IA.",
+          "photo": "openpucp_lanzamiento.webp",
+          "pie": "Lanzamiento en el anfiteatro de OpenPucp, junio de 2023."
+        },
+        {
+          "role": "value",
+          "h": "Lo que hacemos",
+          "items": [
+            "Clubes universitarios de inteligencia artificial",
+            "Proyectos con impacto social",
+            "Presencia en Lima y en Arequipa"
+          ]
+        },
+        {
+          "role": "closer",
+          "h": "Aprende IA con nosotros",
+          "b": "Nos reconoces por la camiseta azul.",
+          "cta": "Quiero entrar a futurX",
+          "url": "futurx.pe"
+        }
+      ],
+      "caption": {
+        "ig": "futurX: universitarios peruanos que aprenden inteligencia artificial en comunidad desde 2023. ¿En qué universidad estudias?",
+        "tt": "Universitarios peruanos aprendiendo IA en comunidad. #inteligenciaartificial #universitarios"
+      },
+      "alt": "Carrusel de futurX con fotos del equipo y del lanzamiento en OpenPucp."
+    }
+  ]
+}

@@ -49,6 +49,8 @@
    que ninguna de las cinco marcas ocupa — en la grilla se distinguen solas. */
 [data-brand="servicestack"] { --accent: #5be0a5; --accent-2: #8a93a0; }
 [data-brand="theartistsalon"] { --accent: #c9a46a; --accent-2: #f1eada; }
+/* futurX: el coral de su logo y el navy claro de su sitio (brands/futurx/BRAND.md). */
+[data-brand="futurx"] { --accent: #ea5046; --accent-2: #c3cee6; }
 
 * { box-sizing: border-box; }
 

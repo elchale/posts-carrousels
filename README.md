@@ -58,6 +58,8 @@ brands/
   comehometag/   💜 protección QR para niños, abuelos y mascotas
   qolca/         🔷 automatización e IA para empresas (incluye PDF LinkedIn)
   radarestatal/  📡 compras del Estado peruano (SEACE) — sin humor ni cultura pop
+  futurx/        🔴 comunidad universitaria de IA — diseño = el de futurx.pe, NO F1
+                 (su propio render: tools/render_futurx.mjs, ver brands/futurx/BRAND.md)
   propaga/       ⏸ parada — marketing para negocios (SaaS), sin posts
   diplomy/       ⏸ parada — certificados verificables (Open Badges), sin posts
     posts/       las 6 series en JSON (el contenido fuente)

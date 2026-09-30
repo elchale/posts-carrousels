@@ -1,0 +1,353 @@
+/* ==========================================================================
+   futurX, laminas de carrusel. EL MISMO sistema visual que www.futurx.pe.
+
+   Fuente de verdad: futurx/web/app/globals.css (tokens) y los componentes de
+   futurx/web/components/ (Logo, ChevronMotif, SectionHeader, FactsLine,
+   PhaseCard, IndicadoresVivos, Button). Si el sitio cambia un token, se
+   cambia aca con el mismo nombre. Nada de colores ni medidas inventadas.
+
+   LA UNIDAD: cada lamina se maqueta como una pagina del sitio a 360 px de
+   ancho, que es el ancho para el que el sitio se disena primero, y se
+   fotografia a 3x. Por eso los px de abajo son los del sitio en movil, tal
+   cual: 360 x 450 da 1080 x 1350 (Instagram) y 360 x 640 da 1080 x 1920
+   (TikTok). Un filete de 1 px del sitio es un filete de 3 px en la lamina,
+   igual que en la pantalla de un telefono.
+   ========================================================================== */
+
+@font-face {
+  font-family: "Outfit";
+  src: url("{{FONTS}}/Outfit%5Bwght%5D.ttf") format("truetype");
+  font-weight: 100 900;
+}
+/* Texto corrido. El sitio usa la pila del sistema, y en los telefonos
+   Android del publico esa pila ES Roboto. Se fija el archivo para que la
+   lamina salga igual en cualquier maquina que la renderice. */
+@font-face {
+  font-family: "Roboto";
+  src: url("{{FONTS}}/Roboto%5Bwdth,wght%5D.ttf") format("truetype");
+  font-weight: 100 900;
+}
+
+:root {
+  /* Paleta cruda del sitio (globals.css, @theme). */
+  --color-fx-navy: #1b2d51;
+  --color-fx-navy-deep: #101b33;
+  --color-fx-navy-700: #223a66;
+  --color-fx-navy-400: #5e77ad;
+  --color-fx-navy-300: #8fa3cd;
+  --color-fx-navy-200: #c3cee6;
+  --color-fx-navy-100: #e6eaf3;
+  --color-fx-navy-050: #f0f3f9;
+  --color-fx-coral: #ea5046;
+  --color-fx-coral-ink: #d23b28;
+  --color-fx-coral-800: #b0301f;
+  --color-fx-coral-050: #fff1ed;
+  --color-fx-white: #ffffff;
+  --color-fx-paper: #f4f6fa;
+  --color-fx-ink-2: #4a5567;
+  --color-fx-line: #dde2ec;
+  --color-fx-line-strong: #98a3b8;
+
+  /* Tokens semanticos, un solo juego: el claro. */
+  --bg: var(--color-fx-white);
+  --bg-alt: var(--color-fx-paper);
+  --text: var(--color-fx-navy);
+  --text-2: var(--color-fx-ink-2);
+  --accent: var(--color-fx-coral);
+  --accent-ink: var(--color-fx-coral-ink);
+  --line: var(--color-fx-line);
+  --line-strong: var(--color-fx-line-strong);
+
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+
+  --font-display: "Outfit", system-ui, sans-serif;
+  --font-text: "Roboto", system-ui, sans-serif;
+
+  /* Canal lateral. El sitio usa 20 px en movil; la lamina no tiene barra de
+     desplazamiento ni pulgar al costado, asi que respira un poco mas. */
+  --gut: 28px;
+  --top: 32px;
+  --bot: 32px;
+  --gut-r: var(--gut);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 360px; background: var(--bg); }
+body {
+  font-family: var(--font-text);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-synthesis: none;
+}
+
+/* --------------------------------------------------------------- lamina */
+.lamina {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  width: 360px;
+  height: 450px;
+  padding: var(--top) var(--gut-r) var(--bot) var(--gut);
+  display: flex;
+  flex-direction: column;
+  background: var(--bg);
+}
+/* TikTok. La interfaz tapa arriba las pestanas (~10%), abajo el caption y
+   la musica (~22%) y a la derecha la columna de botones (~12%). El bloque
+   vive dentro de lo que queda; el fondo sigue siendo de la marca. */
+.lamina.tt {
+  height: 640px;
+  --top: 72px;
+  --bot: 141px;
+  --gut-r: 44px;
+}
+
+/* La banda de papel del sitio (.fx-band): la superficie base ES el papel y
+   las tarjetas pasan a blanco, porque papel sobre papel no se ve. */
+.lamina.banda {
+  --bg: var(--color-fx-paper);
+  --bg-alt: var(--color-fx-white);
+  --accent-ink: var(--color-fx-coral-800);
+}
+
+/* ------------------------------------------------------------- motivo */
+/* Filetes diagonales a 36 grados (.fx-rays): casi invisibles, solo textura. */
+.rays {
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  background-image: repeating-linear-gradient(
+    144deg,
+    var(--color-fx-navy-100) 0 1px,
+    transparent 1px 34px
+  );
+  -webkit-mask-image: linear-gradient(100deg, transparent 12%, black 72%);
+  mask-image: linear-gradient(100deg, transparent 12%, black 72%);
+}
+/* La X abierta (ChevronMotif): UNA vez, en la portada, saliendo por el
+   borde derecho, nunca con texto encima que dependa de ella. */
+.motivo {
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  right: 0;
+  height: 74%;
+  width: auto;
+  transform: translate(31%, -50%);
+}
+
+/* -------------------------------------------------------------- marca */
+.marca { display: block; height: 30px; width: auto; flex: none; }
+.marca-chica { height: 22px; }
+
+/* ---------------------------------------------------------- tipografia */
+/* Escala del sitio en su extremo movil. La portada sube el d1 de 40 a 44
+   px: en el feed compite con fotos, en el sitio no. */
+.d1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 1.02;
+  letter-spacing: -0.03em;
+  text-wrap: balance;
+  color: var(--text);
+}
+.d2 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1.06;
+  letter-spacing: -0.025em;
+  text-wrap: balance;
+  color: var(--text);
+}
+.h2 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+  color: var(--text);
+}
+.h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 1.22;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+  color: var(--text);
+}
+.lead {
+  font-size: 18px;
+  line-height: 1.5;
+  color: var(--text-2);
+  text-wrap: pretty;
+}
+.body {
+  font-size: 16.5px;
+  line-height: 1.55;
+  color: var(--text-2);
+  text-wrap: pretty;
+}
+/* Antetitulo: una linea de texto plana, del color del cuerpo, sin caja,
+   sin fondo, sin versalitas. Es lo unico que el sitio permite encima de un
+   titulo, y lo preferible es no ponerlo. */
+.meta {
+  font-size: 13px;
+  line-height: 1.45;
+  letter-spacing: 0.01em;
+  color: var(--text-2);
+}
+.tabular { font-variant-numeric: tabular-nums; }
+
+.stack > * + * { margin-top: 16px; }
+.stack > .lead, .stack > .body { margin-top: 14px; }
+.stack > .meta + * { margin-top: 10px; }
+
+/* ------------------------------------------------------------- listas */
+/* La vineta es el chevron del sitio (.list > li::before), no un punto. */
+.lista { list-style: none; }
+.lista > li {
+  position: relative;
+  padding-left: 22px;
+  font-size: 16.5px;
+  line-height: 1.5;
+  color: var(--text);
+}
+.lista > li + li { margin-top: 12px; }
+.lista > li::before {
+  content: "";
+  position: absolute;
+  left: 2px;
+  top: 0.75em;
+  width: 9px;
+  height: 9px;
+  border-right: 2px solid var(--accent);
+  border-top: 2px solid var(--accent);
+  transform: translateY(-50%) rotate(36deg);
+}
+
+/* ------------------------------------------------------------ paneles */
+/* Panel de papel (.fx-paper): radio 16, sin sombra, sin borde. */
+.papel {
+  background: var(--bg-alt);
+  border-radius: var(--radius-lg);
+  padding: 22px 20px;
+}
+
+/* La tira de datos del heroe del hackathon (FactsLine). */
+.hechos { list-style: none; }
+.hechos > li { position: relative; padding-left: 22px; }
+.hechos > li + li { margin-top: 14px; }
+.hechos > li::before {
+  content: "";
+  position: absolute;
+  left: 2px;
+  top: 0.62em;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--accent);
+  border-top: 2px solid var(--accent);
+  transform: translateY(-50%) rotate(36deg);
+}
+.hechos .t { font-size: 13px; line-height: 1.4; color: var(--text-2); }
+.hechos .v {
+  font-size: 16px;
+  line-height: 1.35;
+  font-weight: 600;
+  color: var(--text);
+  margin-top: 2px;
+}
+
+/* El numero de un paso (PhaseCard, referidos): Outfit suelto en coral, sin
+   circulo ni fondo detras. Solo donde de verdad hay una secuencia. */
+.paso-n {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 1;
+  color: var(--accent-ink);
+  font-variant-numeric: tabular-nums;
+}
+
+/* La cifra de los indicadores (IndicadoresVivos): numero grande navy, su
+   rotulo al lado y la barra coral debajo. */
+.cifra {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 104px;
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+.cifra-fila { display: flex; align-items: flex-end; gap: 14px; }
+.cifra-rotulo {
+  font-size: 16px;
+  line-height: 1.35;
+  color: var(--text-2);
+  padding-bottom: 10px;
+  max-width: 14ch;
+}
+.barra {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--color-fx-navy-100);
+  overflow: hidden;
+}
+.barra > i { display: block; height: 100%; background: var(--accent); border-radius: 3px; }
+
+/* El mensaje clave: filete coral de 3 px a la izquierda, titular d2. */
+.cita { border-left: 3px solid var(--accent); padding-left: 20px; }
+
+/* ------------------------------------------------------------ medios */
+/* Foto del archivo de futurX. Radio 12 como en el sitio, sin texto encima
+   (el sitio nunca pone texto sobre foto en movil), con su pie de foto que
+   dice de cuando es: ninguna foto puede pasar por algo que no ocurrio. */
+.foto { display: flex; flex-direction: column; min-height: 0; }
+.foto img {
+  display: block;
+  width: 100%;
+  flex: 1 1 auto;
+  min-height: 0;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+}
+.foto figcaption { margin-top: 10px; }
+
+/* ------------------------------------------------------------- boton */
+/* El boton primario del sitio: coral oscuro con texto blanco (4.78:1),
+   radio 12, nunca pildora, nunca flecha al final. */
+.boton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0 24px;
+  border-radius: var(--radius-md);
+  background: var(--color-fx-coral-ink);
+  color: var(--color-fx-white);
+  font-family: var(--font-text);
+  font-weight: 600;
+  font-size: 16px;
+}
+
+/* ------------------------------------------------------------- orden */
+.arriba { flex: none; }
+.llena { flex: 1 1 auto; min-height: 0; display: flex; flex-direction: column; }
+.abajo { margin-top: auto; flex: none; }
+.pie {
+  flex: none;
+  margin-top: auto;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

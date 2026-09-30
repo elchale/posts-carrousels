@@ -1,0 +1,15 @@
+{
+  "name": "futurX",
+  "tag": "futurx.pe",
+  "instagram": "@futurxcentral",
+  "logo": "logo.png",
+  "logo_svg": "logo.svg",
+  "lang": "es",
+  "format": "futurx",
+  "renderer": "tools/render_futurx.mjs",
+  "display_font": "Outfit[wght].ttf",
+  "display_weight": 700,
+  "body_font": "Roboto[wdth,wght].ttf",
+  "f1": {"accent": "#ea5046", "flat_bg": "#ffffff", "flat_text": "#1b2d51", "flat_dark_text": true},
+  "roles_note": "NO es F1: las laminas son paginas de www.futurx.pe (ver BRAND.md). Un solo tema claro: blanco #FFFFFF y papel #F4F6FA, texto navy #1B2D51, cuerpo #4A5567, coral #EA5046 como UNICO acento grafico y #D23B28 para texto y boton. Outfit en titulares, Roboto en cuerpo. Filetes #DDE2EC. Cero fotos con velo, cero palabras de coral en el titular, cero emoji, cero guiones."
+}
