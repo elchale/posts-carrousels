@@ -233,6 +233,9 @@ try {
         // pinta con Segoe UI sin avisar.
         fs.writeFileSync(TMP, lamina(s, i, post.slides.length, fmt, donde))
         await page.goto(pathToFileURL(TMP).href, { waitUntil: 'load' })
+        // Se piden las dos a mano: Chromium solo baja una fuente cuando algun
+        // texto la usa, y una portada sin cuerpo nunca pide Roboto.
+        await page.evaluate(() => Promise.all(['700 40px Outfit', '400 16px Roboto'].map((f) => document.fonts.load(f))))
         await page.evaluate(() => document.fonts.ready)
         const sinCargar = await page.evaluate(() => {
           const malas = [...document.images].filter((im) => !im.complete || im.naturalWidth === 0).map((im) => im.src)

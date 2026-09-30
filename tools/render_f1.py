@@ -112,18 +112,39 @@ def scrim(im: Image.Image, H: int) -> None:
     im.paste(Image.new("RGB", (W, H), (0, 0, 0)), (0, 0), ramp.resize((W, H)))
 
 
-def parse_accent(text: str) -> list[tuple[str, bool]]:
-    """'ven *ya* aqui' -> [('ven',F),('ya',T),('aqui',F)] word-level."""
-    out: list[tuple[str, bool]] = []
-    pos = 0
+def parse_accent(text: str) -> list[tuple[str, object]]:
+    """'ven *ya* aqui' -> [('ven',F),('ya',T),('aqui',F)] word-level.
+
+    Words are split on WHITESPACE of the original text, never at the asterisks.
+    Before 2026-09-30 an accent span closed the word, so '*inquieta*?' drew as
+    'inquieta ?' and '«*dije*»' as 'dije »' (85 slides in sep+oct). Now a word
+    that is only partly accented comes back as (word, (a, b)): characters a..b
+    in accent, the rest (punctuation glued to it) in the normal colour.
+    `acc` is still truthy for any accented word, so callers that only test it
+    (render_ads.py, pod_store/tools/render_ig.py) keep working.
+    """
+    out: list[tuple[str, object]] = []
+    # Plain text with the accent spans recorded as character ranges.
+    plain, spans, pos = [], [], 0
     for m in ACCENT_RE.finditer(text):
-        for wd in text[pos:m.start()].split():
-            out.append((wd, False))
-        for wd in m.group(1).split():
-            out.append((wd, True))
+        plain.append(text[pos:m.start()])
+        a = sum(len(x) for x in plain)
+        plain.append(m.group(1))
+        spans.append((a, a + len(m.group(1))))
         pos = m.end()
-    for wd in text[pos:].split():
-        out.append((wd, False))
+    plain.append(text[pos:])
+    flat = "".join(plain)
+    for m in re.finditer(r"\S+", flat):
+        w0, w1 = m.start(), m.end()
+        hit = [(max(a, w0), min(b, w1)) for a, b in spans if a < w1 and b > w0]
+        if not hit:
+            out.append((m.group(), False))
+            continue
+        a, b = hit[0][0], hit[-1][1]
+        if a == w0 and b == w1:
+            out.append((m.group(), True))
+        else:
+            out.append((m.group(), (a - w0, b - w0)))
     return out
 
 
@@ -161,6 +182,15 @@ def draw_lines(draw, lines, fnt, lh, y, color, accent, align="center", x0=0):
         total = sum(draw.textlength(w, font=fnt) for w, _ in line) + space * (len(line) - 1)
         x = (W - total) / 2 if align == "center" else x0
         for wd, acc in line:
+            if isinstance(acc, tuple):
+                # partly accented: draw the three runs so kerning stays per run
+                a, b = acc
+                for part, col in ((wd[:a], color), (wd[a:b], accent), (wd[b:], color)):
+                    if part:
+                        draw.text((x, y), part, font=fnt, fill=col)
+                        x += draw.textlength(part, font=fnt)
+                x += space
+                continue
             draw.text((x, y), wd, font=fnt, fill=accent if acc else color)
             x += draw.textlength(wd, font=fnt) + space
         y += lh
