@@ -45,46 +45,7 @@
   },
   {
    "date": "2026-10-02",
-   "slug": "02-van-eyck-thumbprint",
-   "src": "4",
-   "series": "Loved in paint",
-   "share": "b: the thing almost nobody noticed",
-   "comment": "Zoomed in / I see it",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "pd-arnolfini-dog.jpg",
-     "kicker": "Look closer",
-     "h": "Van Eyck left his *thumbprint* next to this dog"
-    },
-    {
-     "role": "value",
-     "label": "1434",
-     "h": "A dog in a marriage portrait meant *faithfulness*",
-     "b": "The National Gallery, London."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Everything we love carries our *fingerprints*"
-    },
-    {
-     "role": "closer",
-     "photo": "tas-pet-01.jpg",
-     "hang": true,
-     "h": "The loyal ones deserve their *portrait* too",
-     "b": "Pet portraits in classic oil style, made from your photo."
-    }
-   ],
-   "caption": {
-    "ig": "Arnolfini Portrait dog, Jan van Eyck, 1434. The National Gallery notes the painter's thumbprint by the shadow of the dog's leg. Save this for the next time you are in London.",
-    "tt": "The Arnolfini Portrait dog and Van Eyck's thumbprint. Did you ever notice the dog was looking at you? #arthistory"
-   },
-   "alt": "Detail of the small brown dog at the feet of the couple in Van Eyck's Arnolfini Portrait."
-  },
-  {
-   "date": "2026-10-03",
-   "slug": "03-a-custom-pet-portrait",
+   "slug": "02-a-custom-pet-portrait",
    "src": "custom-pet-portrait-framed-canvas",
    "series": "Made from your photo",
    "share": "a: for the friend whose dog has a following",
@@ -125,8 +86,8 @@
    "alt": "A shiba inu painted in classic oil style with a lace collar and green velvet, in a black frame on a white wall."
   },
   {
-   "date": "2026-10-03",
-   "slug": "03-b-last-light-on-the-loch",
+   "date": "2026-10-02",
+   "slug": "02-b-last-light-on-the-loch",
    "src": "last-light-on-the-loch-framed-canvas-highland-dusk",
    "series": "Wall art",
    "share": "a: for the friend who never stopped talking about Scotland",
@@ -167,8 +128,8 @@
    "alt": "A painting of a Highland loch at dusk, mountains on both sides, framed and hung above a white dresser."
   },
   {
-   "date": "2026-10-04",
-   "slug": "04-a-together-at-last",
+   "date": "2026-10-03",
+   "slug": "03-a-together-at-last",
    "src": "together-at-last-two-pet-portrait-framed-canvas",
    "series": "Made from your photo",
    "share": "d: tenderness, the dog you have and the one before",
@@ -203,14 +164,14 @@
     }
    ],
    "caption": {
-    "ig": "Two pet portrait from two photos, for the dog you have now and the one who came before. It felt right for World Animal Day. What were their names? #petportrait #petmemorial #worldanimalday",
+    "ig": "Two pet portrait from two photos, for the dog you have now and the one who came before. What were their names? #petportrait #petmemorial",
     "tt": "Two pet portrait for two dogs who never met, painted together from two photos. What were their names? #petmemorial #petportrait"
    },
    "alt": "A golden retriever and a black lab painted together on a red velvet sofa in classic oil style, lace collars, framed on a white wall."
   },
   {
-   "date": "2026-10-04",
-   "slug": "04-b-royal-crest-sweatshirt",
+   "date": "2026-10-03",
+   "slug": "03-b-royal-crest-sweatshirt",
    "src": "the-royal-crest-crewneck-sweatshirt",
    "series": "Wear your pet",
    "share": "c: this is you and your dog",
@@ -251,8 +212,8 @@
    "alt": "A sand colored crewneck sweatshirt with a small crest on the chest: a dog in a crown and royal collar, name on a ribbon."
   },
   {
-   "date": "2026-10-05",
-   "slug": "05-a-ancestral-gallery",
+   "date": "2026-10-04",
+   "slug": "04-a-ancestral-gallery",
    "src": "the-ancestor-knight-the-ancestral-gallery-framed-canvas",
    "series": "Made from your photo",
    "share": "c: which one is your pet",
@@ -293,8 +254,8 @@
    "alt": "A dog painted as a knight in armor with a red sash, classic oil style, framed and hung on a white wall."
   },
   {
-   "date": "2026-10-05",
-   "slug": "05-b-coffee-and-dogs-tee",
+   "date": "2026-10-04",
+   "slug": "04-b-coffee-and-dogs-tee",
    "src": "coffee-and-dogs-comfort-colors-tee",
    "series": "Wear your pet",
    "share": "c: coffee person and dog person in one",
@@ -335,8 +296,8 @@
    "alt": "An ivory tee folded on a linen throw, printed with a puppy peeking over the rim of a steaming coffee mug."
   },
   {
-   "date": "2026-10-06",
-   "slug": "06-a-pet-almanac-2027",
+   "date": "2026-10-05",
+   "slug": "05-a-pet-almanac-2027",
    "src": "the-pet-almanac-2027-wall-calendar",
    "series": "Made from your photo",
    "share": "b: twelve portraits from one photo",
@@ -377,8 +338,8 @@
    "alt": "Pages of a wall calendar laid on a desk, each with a spaniel painted in a different role: a king in ermine, a scholar, a Christmas king."
   },
   {
-   "date": "2026-10-06",
-   "slug": "06-b-late-reading",
+   "date": "2026-10-05",
+   "slug": "05-b-late-reading",
    "src": "late-reading-framed-canvas",
    "series": "Wall art",
    "share": "c: the reader who forgets to eat",
@@ -419,8 +380,8 @@
    "alt": "A dark still life of stacked old books, a lit candle and a peeled orange, framed on a charcoal wall."
   },
   {
-   "date": "2026-10-07",
-   "slug": "07-a-crossing-the-alps",
+   "date": "2026-10-06",
+   "slug": "06-a-crossing-the-alps",
    "src": "crossing-the-alps-heroic-pet-portrait-framed-canvas",
    "series": "Made from your photo",
    "share": "c: the small dog who gives the orders",
@@ -461,8 +422,8 @@
    "alt": "A small dog painted as a general on a rearing white horse, red cape, stormy mountains, framed on a white wall."
   },
   {
-   "date": "2026-10-07",
-   "slug": "07-b-dachshund-tee",
+   "date": "2026-10-06",
+   "slug": "06-b-dachshund-tee",
    "src": "dachshund-comfort-colors-tee",
    "series": "Wear your pet",
    "share": "a: for the friend who brings up her dachshund",
@@ -503,8 +464,8 @@
    "alt": "A butter yellow tee folded on a linen throw, printed with a dachshund drawn as a one color vintage engraving."
   },
   {
-   "date": "2026-10-08",
-   "slug": "08-a-winter-charger-horse",
+   "date": "2026-10-07",
+   "slug": "07-a-winter-charger-horse",
    "src": "the-winter-charger-custom-horse-portrait-framed-canvas",
    "series": "Made from your photo",
    "share": "a: for the friend who lives at the barn",
@@ -545,8 +506,8 @@
    "alt": "A grey horse in a red winter blanket standing in fresh snow at dusk, pine trees behind, framed on a white wall."
   },
   {
-   "date": "2026-10-08",
-   "slug": "08-b-night-train",
+   "date": "2026-10-07",
+   "slug": "07-b-night-train",
    "src": "night-train-framed-canvas",
    "series": "Wall art",
    "share": "d+a: for the one who takes the long way home",
@@ -587,8 +548,8 @@
    "alt": "A poster style painting of a steam train crossing a trestle bridge over a red desert canyon at night, framed on a dark wall."
   },
   {
-   "date": "2026-10-09",
-   "slug": "09-a-the-ears-sweatshirt",
+   "date": "2026-10-08",
+   "slug": "08-a-the-ears-sweatshirt",
    "src": "the-ears-crewneck-sweatshirt",
    "series": "Wear your pet",
    "share": "c: you would know those ears anywhere",
@@ -629,8 +590,8 @@
    "alt": "A brown crewneck sweatshirt folded on a knit throw, printed with a corgi's ears and eyes peeking up under the name Biscuit."
   },
   {
-   "date": "2026-10-09",
-   "slug": "09-b-herbarium",
+   "date": "2026-10-08",
+   "slug": "08-b-herbarium",
    "src": "herbarium-framed-canvas",
    "series": "Wall art",
    "share": "a: for the friend who names her plants",
@@ -669,6 +630,48 @@
     "tt": "Botanical dark academia still life, framed canvas. How many plants do you have right now? #planttok"
    },
    "alt": "A dark still life of a pressed plant specimen on old paper with a magnifying glass and brass scales, framed on a white wall."
+  },
+  {
+   "date": "2026-10-09",
+   "slug": "09-wild-horses",
+   "src": "wild-horses-framed-canvas",
+   "series": "Western Nights",
+   "share": "a: for the friend who wants to quit and move out west",
+   "comment": "Me in 5 years",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "prod-wild-horses-framed-canvas-0.jpg",
+     "hang": true,
+     "kicker": "Framed canvas",
+     "h": "For the friend who keeps saying she'll move *out west*"
+    },
+    {
+     "role": "value",
+     "photo": "prod-wild-horses-framed-canvas-16.jpg",
+     "hang": true,
+     "label": "Western Nights",
+     "h": "A herd running the shallows at *sundown*",
+     "b": "Like an old travel poster."
+    },
+    {
+     "role": "value",
+     "phrase": true,
+     "h": "Nobody owns them. *Nobody ever will*"
+    },
+    {
+     "role": "closer",
+     "photo": "prod-wild-horses-framed-canvas-3.jpg",
+     "hang": true,
+     "h": "A little open country for a *city wall*",
+     "b": "Wild Horses, framed canvas at The Artist Salon."
+    }
+   ],
+   "caption": {
+    "ig": "Wild horses framed canvas: a herd running through the shallows under a desert sunset, painted in the style of the old western travel posters. Three sizes, four frame colors, made to order. Send this to the friend who keeps threatening to move to Montana. #westerndecor #wildhorses",
+    "tt": "Wild horses at sundown, painted like an old travel poster. Send it to the friend who wants to move out west. #westerndecor"
+   },
+   "alt": "A framed canvas of wild horses galloping through shallow water under an orange desert sunset."
   },
   {
    "date": "2026-10-10",
