@@ -322,22 +322,7 @@ body {
 }
 .foto figcaption { margin-top: 10px; }
 
-/* ------------------------------------------------------------- boton */
-/* El boton primario del sitio: coral oscuro con texto blanco (4.78:1),
-   radio 12, nunca pildora, nunca flecha al final. */
-.boton {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 48px;
-  padding: 0 24px;
-  border-radius: var(--radius-md);
-  background: var(--color-fx-coral-ink);
-  color: var(--color-fx-white);
-  font-family: var(--font-text);
-  font-weight: 600;
-  font-size: 16px;
-}
+/* Sin boton: los posts de futurX no llevan boton (BRAND.md, 2026-10-02). */
 
 /* ------------------------------------------------------------- orden */
 .arriba { flex: none; }

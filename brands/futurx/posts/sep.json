@@ -2,7 +2,7 @@
   "brand": "futurX",
   "series": "sep",
   "format": "futurx",
-  "nota": "Tanda de lanzamiento del 30 de setiembre de 2026: 10 posts. Todo dato sale de futurx.pe o de las bases oficiales v1.0 (futurx.pe/documentos/bases_hackathon_futurx_2026.pdf). Nada de cifras que cambian solas (inscritos).",
+  "nota": "Tanda de lanzamiento del 30 de setiembre de 2026: 10 posts. Todo dato sale de futurx.pe o de las bases oficiales v1.0 (futurx.pe/documentos/bases_hackathon_futurx_2026.pdf). Nada de cifras que cambian solas (inscritos). Al 2 de octubre se completaron los 500 cupos (futurx.pe): los posts que salen después ya no piden inscribirse.",
   "posts": [
     {
       "slug": "30-a-la-hackathon-en-5-datos",
@@ -50,7 +50,6 @@
         {
           "role": "closer",
           "h": "Inscríbete gratis",
-          "cta": "Inscribirme gratis",
           "url": "futurx.pe/hackathon/2026",
           "b": "Del 14 al 24 de octubre."
         }
@@ -98,7 +97,6 @@
         {
           "role": "closer",
           "h": "Inscríbete gratis",
-          "cta": "Inscribirme gratis",
           "url": "futurx.pe/hackathon/2026",
           "b": "Del 14 al 24 de octubre, en línea."
         }
@@ -146,7 +144,6 @@
         {
           "role": "closer",
           "h": "Empezamos el 14 de octubre",
-          "cta": "Inscribirme gratis",
           "url": "futurx.pe/hackathon/2026",
           "b": "Puedes inscribirte hasta el sábado 10 al mediodía."
         }
@@ -197,7 +194,6 @@
         {
           "role": "closer",
           "h": "Todos los que participan en la fase 1 pueden entrar a la fase 2",
-          "cta": "Inscribirme gratis",
           "url": "futurx.pe/hackathon/2026"
         }
       ],
@@ -215,8 +211,7 @@
         {
           "role": "cover",
           "kicker": "Parte 1 de 2",
-          "h": "Cómo califica el jurado tu idea en la fase 1",
-          "b": "Esto dicen las bases."
+          "h": "Cómo califica el jurado tu idea en la fase 1"
         },
         {
           "role": "stat",
@@ -244,14 +239,12 @@
         },
         {
           "role": "value",
-          "cita": true,
-          "h": "Lo que más pesa es elegir bien el problema.",
-          "b": "Vale el 40 por ciento de tu nota."
+          "h": "Si eligen tu desafío, igual puedes trabajar en otro",
+          "b": "En la fase 2, cada equipo escoge entre todos los desafíos seleccionados."
         },
         {
           "role": "closer",
           "h": "Lee las bases completas",
-          "cta": "Ver bases",
           "url": "futurx.pe/hackathon/2026",
           "b": "Mañana publicamos cómo se califica el prototipo."
         }
@@ -260,7 +253,8 @@
         "ig": "Criterios de calificación de la fase 1 de la hackathon futurX: demanda en la sociedad 40 por ciento, aplicación de la IA 30 y factibilidad económica 30. ¿Qué problema de tu ciudad propondrías?",
         "tt": "Así te califica el jurado en la fase 1 de la hackathon futurX. ¿Qué problema propondrías? #hackathon #ia"
       },
-      "alt": "Carrusel de futurX con los tres criterios de la fase 1 de la hackathon y su peso: 40, 30 y 30 por ciento."
+      "alt": "Carrusel de futurX con los tres criterios de la fase 1 de la hackathon y su peso: 40, 30 y 30 por ciento.",
+      "date": "2026-10-03"
     },
     {
       "slug": "30-f-asi-califica-el-jurado-parte-2",
@@ -306,8 +300,8 @@
         },
         {
           "role": "closer",
-          "h": "La mitad de la nota depende de que tu prototipo funcione",
-          "cta": "Ver bases",
+          "h": "En el Demo Day, el jurado califica sobre 90",
+          "b": "Los puntos por difusión no cuentan en la final.",
           "url": "futurx.pe/hackathon/2026"
         }
       ],
@@ -315,7 +309,8 @@
         "ig": "Criterios de la fase 2 de la hackathon futurX: solución 50 por ciento, pitch 20, facilidad de uso 20 y difusión 10. ¿Pensabas que el pitch pesaba más?",
         "tt": "Lo que más pesa en la fase 2 de la hackathon futurX. ¿Lo esperabas? #hackathon #ia"
       },
-      "alt": "Carrusel de futurX con los cuatro criterios de la fase 2 de la hackathon: 50, 20, 20 y 10 por ciento."
+      "alt": "Carrusel de futurX con los cuatro criterios de la fase 2 de la hackathon: 50, 20, 20 y 10 por ciento.",
+      "date": "2026-10-04"
     },
     {
       "slug": "30-g-los-4-perfiles-de-un-equipo",
@@ -336,33 +331,33 @@
           "role": "value",
           "label": "El que diseña",
           "h": "Hace que cualquiera lo entienda",
-          "b": "La facilidad de uso es el 20 por ciento de la nota."
+          "b": "Que se pueda usar sin manual. Eso pide el jurado."
         },
         {
           "role": "value",
           "label": "El que programa",
           "h": "Hace que funcione",
-          "b": "Con herramientas de IA, un prototipo se arma en pocos días."
+          "b": "La solución al desafío es la mitad de la nota."
         },
         {
           "role": "value",
           "label": "El que presenta",
           "h": "Explica la idea en el pitch",
-          "b": "El jurado lo escucha en vivo en el Demo Day."
+          "b": "Si su equipo llega a la final, presenta en vivo el sábado 24 de octubre."
         },
         {
           "role": "closer",
           "h": "Los equipos son de 2 a 4 personas",
-          "cta": "Inscribirme gratis",
-          "url": "futurx.pe/hackathon/2026",
-          "b": "Tú eliges con quién, y te ayudamos a encontrar compañeros."
+          "b": "Se registran hasta el jueves 22 de octubre al mediodía.",
+          "url": "futurx.pe/hackathon/2026"
         }
       ],
       "caption": {
         "ig": "Cómo armar un equipo para una hackathon: alguien que conoce el problema, alguien que diseña, alguien que programa y alguien que presenta. ¿Cuál eres tú?",
         "tt": "¿Cuál eres tú en un equipo de hackathon? #hackathon #universitarios"
       },
-      "alt": "Carrusel de futurX con los cuatro perfiles de un equipo de hackathon: problema, diseño, programación y presentación."
+      "alt": "Carrusel de futurX con los cuatro perfiles de un equipo de hackathon: problema, diseño, programación y presentación.",
+      "date": "2026-10-05"
     },
     {
       "slug": "30-h-tu-cupon-suma-puntos",
@@ -402,7 +397,6 @@
         {
           "role": "closer",
           "h": "Inscríbete y recibe tu cupón",
-          "cta": "Inscribirme gratis",
           "url": "futurx.pe/hackathon/2026"
         }
       ],
@@ -444,7 +438,16 @@
           "h": "Los finalistas reciben",
           "items": [
             "Membresía en futurX por 6 meses",
-            "Una visita a la computadora cuántica de Inducontrol, en Lima",
+            "Visita a la computadora cuántica de Inducontrol, si estás en Lima",
+            "Certificado internacional verificable"
+          ]
+        },
+        {
+          "role": "value",
+          "label": "Si eligen tu desafío en la fase 1",
+          "h": "Los autores de los desafíos elegidos reciben",
+          "items": [
+            "Membresía en futurX por 6 meses",
             "Certificado internacional verificable"
           ]
         },
@@ -456,17 +459,17 @@
         },
         {
           "role": "closer",
-          "h": "Inscríbete gratis",
-          "cta": "Inscribirme gratis",
-          "url": "futurx.pe/hackathon/2026",
-          "b": "Hasta el sábado 10 de octubre."
+          "h": "Los premios se entregan el sábado 24 de octubre",
+          "b": "En Lima y con transmisión en línea.",
+          "url": "futurx.pe/hackathon/2026"
         }
       ],
       "caption": {
         "ig": "Premios de la hackathon futurX 2026: US$ 400 para el primer puesto, licencias de Claude y servidores Azure para los tres primeros, y una visita a una computadora cuántica para los finalistas. ¿Cuál quieres tú?",
         "tt": "Los premios de la hackathon futurX 2026. ¿Cuál quieres? #hackathon #inteligenciaartificial"
       },
-      "alt": "Carrusel de futurX con los premios de la hackathon por puesto: efectivo, licencias, servidores, asesoría, membresía, visita y certificados."
+      "alt": "Carrusel de futurX con los premios de la hackathon por puesto: efectivo, licencias, servidores, asesoría, membresía, visita y certificados.",
+      "date": "2026-10-06"
     },
     {
       "slug": "30-j-que-es-futurx",
@@ -512,7 +515,6 @@
         {
           "role": "closer",
           "h": "¿En tu universidad no hay club?",
-          "cta": "Quiero entrar a futurX",
           "url": "futurx.pe",
           "b": "Escríbenos y armamos el primero contigo."
         }

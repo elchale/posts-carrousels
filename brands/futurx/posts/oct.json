@@ -1,0 +1,652 @@
+{
+  "brand": "futurX",
+  "series": "oct",
+  "format": "futurx",
+  "nota": "Serie del 7 al 20 de octubre de 2026: 4 posts de misión y cultura (solo lo que publica futurx.pe) y 10 consejos para aprender IA con fuente verificable (ver brands/futurx/RESEARCH-2026-10.md). Los 500 cupos de la hackathon ya se llenaron: nada de pedir inscripción. Cierres sin botón.",
+  "posts": [
+    {
+      "slug": "07-como-entrar-a-futurx",
+      "date": "2026-10-07",
+      "share": "a: para el amigo que quiere aprender IA y no sabe por dónde entrar",
+      "comment": "de la UNSA",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "¿Cómo se entra a futurX?",
+          "b": "No hay examen de admisión ni cuota de ingreso."
+        },
+        {
+          "role": "value",
+          "n": 1,
+          "h": "Nos escribes",
+          "b": "Te contamos qué se está armando en tu ciudad y en tu universidad."
+        },
+        {
+          "role": "value",
+          "n": 2,
+          "h": "Vienes a una sesión",
+          "b": "Entras a la siguiente reunión del club o a un taller abierto. Miras, preguntas y decides si te quedas."
+        },
+        {
+          "role": "value",
+          "n": 3,
+          "h": "Armas algo",
+          "b": "Te sumas a un proyecto que ya está corriendo o levantas el tuyo con quienes se apunten."
+        },
+        {
+          "role": "closer",
+          "h": "Escríbenos por WhatsApp",
+          "b": "Y cuéntanos de qué universidad vienes.",
+          "url": "WhatsApp +51 936 282 808"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo entrar a futurX, la comunidad de universitarios peruanos que aprenden inteligencia artificial: sin examen y sin cuota, nos escribes y vienes a una sesión. ¿De qué universidad eres?",
+        "tt": "Cómo entrar a futurX sin examen ni cuota. ¿De qué universidad eres? #inteligenciaartificial #universitarios"
+      },
+      "alt": "Carrusel de futurX con los tres pasos para entrar a la comunidad: escribir, ir a una sesión y armar un proyecto."
+    },
+    {
+      "slug": "08-que-es-un-token",
+      "date": "2026-10-08",
+      "share": "b: el que lo manda queda como el que sabe; objeto para guardar",
+      "comment": "falta la palabra agente",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "¿Qué significa token, prompt o alucinación?",
+          "b": "Son palabras que vas a leer en cualquier tutorial de IA."
+        },
+        {
+          "role": "value",
+          "label": "Prompt",
+          "h": "Lo que le escribes a la IA",
+          "b": "Tu pedido, con el contexto y los ejemplos que le des."
+        },
+        {
+          "role": "value",
+          "label": "Token",
+          "h": "Los pedacitos de texto que la IA lee y escribe",
+          "b": "Una palabra o un trozo de ella. En español se gastan más tokens que en inglés para decir lo mismo."
+        },
+        {
+          "role": "value",
+          "label": "Ventana de contexto",
+          "h": "Todo lo que la IA puede tener en cuenta a la vez",
+          "b": "Se mide en tokens. Un chat muy largo puede pasarse de ese límite."
+        },
+        {
+          "role": "value",
+          "label": "Alucinación",
+          "h": "Cuando la IA inventa algo y lo dice muy segura",
+          "b": "Según OpenAI, pasa porque al entrenarla se premió más adivinar que decir «no sé»."
+        },
+        {
+          "role": "closer",
+          "h": "¿Qué otra palabra de IA nunca te explicaron?",
+          "b": "Déjala en los comentarios para la parte 2."
+        }
+      ],
+      "caption": {
+        "ig": "Qué es un token, un prompt, la ventana de contexto y una alucinación en inteligencia artificial, explicado en simple. ¿Qué palabra agregarías?",
+        "tt": "Qué es un token y otras palabras de IA. ¿Cuál agregarías? #inteligenciaartificial #aprendeia"
+      },
+      "alt": "Carrusel de futurX que explica cuatro palabras de inteligencia artificial: prompt, token, ventana de contexto y alucinación."
+    },
+    {
+      "slug": "09-pidele-como-a-un-companero-nuevo",
+      "date": "2026-10-09",
+      "share": "b: el consejo sale de la guía oficial de quien hace el modelo, casi nadie la lee",
+      "comment": "no sabía lo del final",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Pídele las cosas a la IA como a un compañero nuevo",
+          "b": "Es el consejo de la guía de Anthropic, la empresa que hace Claude."
+        },
+        {
+          "role": "value",
+          "label": "La prueba",
+          "h": "Lee tu pedido como si no supieras nada del curso",
+          "b": "Si un compañero nuevo no lo entendería, la IA tampoco."
+        },
+        {
+          "role": "value",
+          "h": "Dile para qué lo quieres",
+          "b": "«Es para una exposición de 5 minutos» cambia toda la respuesta."
+        },
+        {
+          "role": "value",
+          "h": "Pégale un ejemplo de lo que esperas",
+          "b": "Un par de ejemplos marcan el formato y el tono mejor que una explicación larga."
+        },
+        {
+          "role": "value",
+          "h": "Con un documento largo, la pregunta va al final",
+          "b": "Primero pegas el texto y abajo escribes qué quieres. Así lo recomienda la misma guía."
+        },
+        {
+          "role": "closer",
+          "h": "¿Cuál de estos no hacías?"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo escribir un buen prompt para ChatGPT, Claude o Gemini según la guía oficial de Anthropic: contexto, para qué es, ejemplos y la pregunta al final. ¿Cuál no hacías?",
+        "tt": "Cómo pedirle las cosas a la IA según la guía de Anthropic. ¿Cuál no hacías? #prompt #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX con cuatro consejos para escribirle a la IA, tomados de la guía de prompts de Anthropic."
+    },
+    {
+      "slug": "10-revisa-las-citas-de-la-ia",
+      "date": "2026-10-10",
+      "share": "a: para el amigo que está con su tesis o su trabajo final",
+      "comment": "me pasó en la tesis",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Revisa esto antes de citar una fuente que te dio la IA"
+        },
+        {
+          "role": "value",
+          "label": "Lo que pasa",
+          "h": "La IA puede inventar referencias que parecen reales",
+          "b": "Un estudio de 2023 encontró autores que sí existen con títulos que no."
+        },
+        {
+          "role": "value",
+          "n": 1,
+          "h": "Busca el título exacto",
+          "b": "Pégalo entre comillas en Google Académico."
+        },
+        {
+          "role": "value",
+          "n": 2,
+          "h": "Si tiene DOI, ábrelo",
+          "b": "El DOI es el código único de un artículo. Pégalo en doi.org y mira a dónde te lleva."
+        },
+        {
+          "role": "value",
+          "n": 3,
+          "h": "Busca la frase dentro de la fuente",
+          "b": "Abre el documento y comprueba que de verdad dice lo que la IA te contó."
+        },
+        {
+          "role": "closer",
+          "h": "Si no la encuentras en ningún lado, bórrala",
+          "b": "Aunque suene perfecta."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo verificar las referencias que te da ChatGPT antes de ponerlas en tu tesis: el título en Google Académico, el DOI y la frase dentro de la fuente. Mándaselo a quien está con su tesis.",
+        "tt": "Revisa esto antes de citar una fuente que te dio la IA. ¿Te pasó alguna vez? #tesis #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX con tres pasos para comprobar que una referencia que dio la IA existe: título, DOI y la frase en la fuente."
+    },
+    {
+      "slug": "11-que-se-hace-en-un-club",
+      "date": "2026-10-11",
+      "share": "c: el que quiere un grupo así se reconoce y lo manda a su promo",
+      "comment": "quiero uno en la UNI",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "¿Qué se hace en un club de futurX?"
+        },
+        {
+          "role": "value",
+          "h": "Te juntas cada semana con gente de tu campus",
+          "b": "A probar herramientas de IA, equivocarte rápido y construir algo tuyo.",
+          "photo": "equipo_cuatro.webp",
+          "foco": "50% 35%",
+          "pie": "Integrantes de futurX. Revista futurA, enero de 2024."
+        },
+        {
+          "role": "value",
+          "h": "Hay lugar para letras, diseño, ingeniería y salud",
+          "b": "No necesitas saber programar para entrar."
+        },
+        {
+          "role": "value",
+          "h": "Lo que aprendes termina en un problema real",
+          "b": "Del lugar donde vives. Ahí se aprende a hacerse cargo y a trabajar con otros."
+        },
+        {
+          "role": "closer",
+          "h": "Pregúntanos qué se está armando en tu universidad",
+          "url": "WhatsApp +51 936 282 808"
+        }
+      ],
+      "caption": {
+        "ig": "Club universitario de inteligencia artificial en Lima y Arequipa: en futurX te juntas cada semana a probar herramientas y armar proyectos, estudies lo que estudies. ¿En qué universidad quisieras uno?",
+        "tt": "Así es un club de IA de futurX. ¿En qué universidad quisieras uno? #inteligenciaartificial #universitarios"
+      },
+      "alt": "Carrusel de futurX con una foto de cuatro integrantes y lo que se hace en sus clubes universitarios de inteligencia artificial."
+    },
+    {
+      "slug": "12-estudiar-con-ia-parte-1",
+      "date": "2026-10-12",
+      "share": "b: dato medido que casi nadie conoce y que cambia cómo estudias",
+      "comment": "yo le pido pistas",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "Parte 1 de 2",
+          "h": "Estudiar con ChatGPT te puede bajar la nota del examen",
+          "b": "Depende de cómo lo uses."
+        },
+        {
+          "role": "value",
+          "label": "El estudio",
+          "h": "Casi mil escolares practicaron matemática con GPT 4",
+          "b": "Fue en colegios de Turquía. Lo publicó la revista PNAS en 2025."
+        },
+        {
+          "role": "value",
+          "h": "Mientras practicaban con la IA, les fue mejor",
+          "b": "Muchos le pedían la respuesta y pasaban al siguiente ejercicio."
+        },
+        {
+          "role": "stat",
+          "label": "En el examen sin IA",
+          "cifra": "17",
+          "rotulo": "por ciento menos",
+          "h": "Los que usaron un ChatGPT normal sacaron menos que los que nunca lo usaron."
+        },
+        {
+          "role": "value",
+          "h": "Una versión que daba pistas casi no tuvo ese problema",
+          "b": "No soltaba la respuesta. Guiaba paso a paso."
+        },
+        {
+          "role": "closer",
+          "h": "Mañana: cómo estudiar con IA sin que te pase esto"
+        }
+      ],
+      "caption": {
+        "ig": "Estudiar con ChatGPT puede bajarte la nota si solo le pides respuestas: un estudio publicado en PNAS con casi mil escolares lo midió. ¿Tú le pides la respuesta o pistas?",
+        "tt": "¿Estudiar con ChatGPT te baja la nota? ¿Respuesta o pistas? #estudiantes #chatgpt"
+      },
+      "alt": "Carrusel de futurX sobre un estudio publicado en PNAS: los escolares que practicaron con ChatGPT sin guía sacaron 17 por ciento menos en el examen sin IA."
+    },
+    {
+      "slug": "13-estudiar-con-ia-parte-2",
+      "date": "2026-10-13",
+      "share": "a: tres pedidos para copiar y pasarle al grupo de estudio",
+      "comment": "la 1 para el parcial",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "Parte 2 de 2",
+          "h": "Tres formas de estudiar con IA que sí te dejan algo"
+        },
+        {
+          "role": "value",
+          "n": 1,
+          "h": "Pídele que te tome examen",
+          "b": "«Hazme 5 preguntas sobre este tema, una por una, y corrígeme.»"
+        },
+        {
+          "role": "stat",
+          "label": "Un experimento con universitarios",
+          "cifra": "61",
+          "rotulo": "por ciento del texto",
+          "barra": 0.61,
+          "h": "Eso recordaban a la semana los que se tomaron examen. Los que solo releyeron, 40.",
+          "b": "Roediger y Karpicke, 2006."
+        },
+        {
+          "role": "value",
+          "n": 2,
+          "h": "Explícale el tema y pídele que te corrija",
+          "b": "Si no puedes explicarlo sin mirar tus apuntes, todavía no lo tienes."
+        },
+        {
+          "role": "value",
+          "n": 3,
+          "h": "Usa el modo para estudiar",
+          "b": "ChatGPT, Claude y Gemini tienen uno: te guía con preguntas en vez de darte la respuesta."
+        },
+        {
+          "role": "closer",
+          "h": "¿Cuál vas a probar para tu próximo parcial?"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo estudiar con inteligencia artificial sin que te haga la tarea: que te tome examen, explicarle el tema y usar el modo para estudiar. Guárdalo para la semana de parciales.",
+        "tt": "Tres formas de estudiar con IA que sí funcionan. ¿Cuál pruebas primero? #estudiantes #chatgpt"
+      },
+      "alt": "Carrusel de futurX con tres formas de estudiar con IA: pedirle preguntas, explicarle el tema y usar su modo para estudiar."
+    },
+    {
+      "slug": "14-hoy-empieza-la-hackathon",
+      "date": "2026-10-14",
+      "share": "b: el día que empieza, para el que se inscribió y para el que se la perdió",
+      "comment": "nos vemos el 24",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Hoy empieza la hackathon futurX",
+          "b": "Del 14 al 24 de octubre, junto a JGM Innovation."
+        },
+        {
+          "role": "value",
+          "cita": true,
+          "h": "Aprendemos lo que recién está llegando y lo devolvemos al lugar donde vivimos."
+        },
+        {
+          "role": "value",
+          "label": "Esta semana",
+          "h": "Seis masterclasses en línea desde Perú y EE. UU.",
+          "b": "Sobre qué puede y qué no puede hacer la IA hoy."
+        },
+        {
+          "role": "value",
+          "label": "19 y 20 de octubre",
+          "h": "Cada participante describe un problema real de su entorno",
+          "b": "El jurado elige los desafíos más urgentes."
+        },
+        {
+          "role": "value",
+          "label": "Sábado 24 de octubre",
+          "h": "Demo Day en la UTP, en Lima",
+          "b": "Los 8 equipos finalistas presentan ante jurados de Perú y EE. UU."
+        },
+        {
+          "role": "closer",
+          "h": "Se llenaron los 500 cupos",
+          "b": "Síguenos en Instagram y YouTube para ver cómo avanza."
+        }
+      ],
+      "caption": {
+        "ig": "Hackathon futurX 2026: hoy empiezan las masterclasses y el sábado 24 es el Demo Day en la UTP. ¿Qué problema de tu ciudad propondrías tú?",
+        "tt": "Hoy empieza la hackathon futurX. ¿Qué problema propondrías? #hackathon #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX por el inicio de la hackathon: masterclasses, entrega de problemas el 19 y 20 de octubre y Demo Day el 24."
+    },
+    {
+      "slug": "15-pregunta-a-tus-separatas",
+      "date": "2026-10-15",
+      "share": "b: herramienta gratis que casi nadie en la promo usa todavía",
+      "comment": "subo estadística",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Hazle preguntas a tus separatas con Gemini Notebook",
+          "b": "Es la herramienta de Google que antes se llamaba NotebookLM."
+        },
+        {
+          "role": "value",
+          "h": "Gemini Notebook responde con lo que tú subiste",
+          "b": "Si algo no está en tus documentos, no lo saca de otro lado."
+        },
+        {
+          "role": "value",
+          "h": "Cada respuesta te dice de dónde la sacó",
+          "b": "Tocas el número y te lleva al párrafo exacto de tu PDF."
+        },
+        {
+          "role": "value",
+          "label": "Qué le puedes subir",
+          "h": "Casi todo el material de un curso",
+          "items": [
+            "PDF y diapositivas",
+            "Páginas web",
+            "Videos de YouTube"
+          ]
+        },
+        {
+          "role": "value",
+          "h": "Junta las separatas de todo el ciclo en un solo cuaderno",
+          "b": "Así le preguntas en qué clase se vio cada tema."
+        },
+        {
+          "role": "closer",
+          "h": "Entras con tu cuenta de Google",
+          "b": "Búscalo como Gemini Notebook."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo usar Gemini Notebook, antes NotebookLM, para estudiar con tus separatas y PDF: responde con tus fuentes y te marca de dónde sacó cada cosa. ¿Qué curso subirías primero?",
+        "tt": "Estudia con tus separatas en Gemini Notebook. ¿Qué curso subirías? #estudiantes #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX que explica cómo usar Gemini Notebook, antes NotebookLM, para estudiar con tus propios documentos."
+    },
+    {
+      "slug": "16-tres-cursos-gratis-de-ia",
+      "date": "2026-10-16",
+      "share": "a: lista para guardar y pasar al amigo que dice que quiere aprender IA",
+      "comment": "empiezo con el 1",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Tres cursos gratis para aprender IA desde cero"
+        },
+        {
+          "role": "value",
+          "label": "En español",
+          "h": "Elementos de la IA",
+          "items": [
+            "De la Universidad de Helsinki",
+            "Sin matemática complicada ni programación",
+            "Con certificado al terminar"
+          ]
+        },
+        {
+          "role": "value",
+          "label": "En inglés",
+          "h": "AI Fluency: Framework & Foundations",
+          "items": [
+            "De Anthropic, la empresa de Claude",
+            "Qué tareas darle a la IA y cómo revisar lo que te da",
+            "Con certificado al terminar"
+          ]
+        },
+        {
+          "role": "value",
+          "label": "En YouTube",
+          "h": "Deep Dive into LLMs like ChatGPT",
+          "items": [
+            "De Andrej Karpathy, del equipo fundador de OpenAI",
+            "Cómo funciona ChatGPT por dentro, en tres horas y media",
+            "LLM quiere decir modelo de lenguaje grande"
+          ]
+        },
+        {
+          "role": "value",
+          "h": "Por cuál empezar",
+          "b": "Si nunca has visto nada de IA, por Elementos de la IA. Si ya la usas todos los días, por AI Fluency."
+        },
+        {
+          "role": "closer",
+          "h": "¿Qué otro curso gratis recomiendas?"
+        }
+      ],
+      "caption": {
+        "ig": "Cursos gratis de inteligencia artificial para empezar desde cero: Elementos de la IA de la Universidad de Helsinki, AI Fluency de Anthropic y el video de Andrej Karpathy. Guárdalo para las vacaciones.",
+        "tt": "Tres cursos gratis de IA para empezar desde cero. ¿Cuál recomiendas tú? #aprendeia #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX con tres cursos gratis de inteligencia artificial: Elementos de la IA, AI Fluency y el video de Andrej Karpathy."
+    },
+    {
+      "slug": "17-lo-que-no-pegas-en-un-chat-de-ia",
+      "date": "2026-10-17",
+      "share": "a: para el amigo de salud o derecho que ya está en prácticas",
+      "comment": "no sabía lo del entrenamiento",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Lo que no deberías pegar en un chat de IA",
+          "b": "Sobre todo si estudias salud o derecho."
+        },
+        {
+          "role": "value",
+          "label": "Datos de otras personas",
+          "h": "Historias clínicas, expedientes y números de DNI",
+          "b": "En el Perú, los datos de salud son datos sensibles según la Ley 29733."
+        },
+        {
+          "role": "value",
+          "h": "Si igual necesitas ayuda con un caso, quita los nombres primero",
+          "b": "Pon «paciente A» y borra fechas y direcciones."
+        },
+        {
+          "role": "value",
+          "h": "Apaga la opción de entrenar con tus chats",
+          "b": "En ChatGPT está en Configuración, Controles de datos. En Claude, en Configuración, Privacidad."
+        },
+        {
+          "role": "value",
+          "h": "Para algo delicado, usa un chat temporal",
+          "b": "En ChatGPT no queda en tu historial, se borra a los 30 días y no se usa para entrenar."
+        },
+        {
+          "role": "closer",
+          "h": "¿Sabías que tus chats se podían usar para entrenar a la IA?"
+        }
+      ],
+      "caption": {
+        "ig": "Qué no pegar en ChatGPT o Claude si estudias salud o derecho, y cómo apagar la opción de entrenar con tus chats. Mándaselo a quien ya está haciendo sus prácticas.",
+        "tt": "Lo que no deberías pegar en un chat de IA. ¿Ya lo apagaste? #privacidad #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX sobre qué datos no pegar en un chat de IA y cómo desactivar que usen tus conversaciones para entrenar."
+    },
+    {
+      "slug": "18-en-el-vr-day-peru",
+      "date": "2026-10-18",
+      "share": "c: el que estuvo ahí o conoce a alguien de la foto lo manda",
+      "comment": "yo estuve ahí",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "En el VR Day Perú fuimos la única organización estudiantil"
+        },
+        {
+          "role": "value",
+          "h": "Y armamos el stand más numeroso",
+          "b": "Con los polos azules puestos.",
+          "photo": "vrday_stand.webp",
+          "pie": "Stand de futurX en el VR Day Perú. Revista futurA, enero de 2024."
+        },
+        {
+          "role": "value",
+          "h": "El VR Day lo organiza la comunidad XR Perú",
+          "b": "VR es realidad virtual. XR junta la realidad virtual con la aumentada.",
+          "photo": "vrday_grupo.webp",
+          "pie": "El equipo en el VR Day Perú. Revista futurA, enero de 2024."
+        },
+        {
+          "role": "value",
+          "h": "Lo contamos en futurA, nuestra revista",
+          "b": "Doce páginas escritas por la comunidad. Salió el 15 de enero de 2024."
+        },
+        {
+          "role": "closer",
+          "h": "La revista futurA está entera en futurx.pe",
+          "b": "Puedes leerla en PDF o página por página."
+        }
+      ],
+      "caption": {
+        "ig": "futurX en el VR Day Perú: la única organización estudiantil del evento y el stand más numeroso, con los polos azules. ¿Tú fuiste al VR Day?",
+        "tt": "futurX en el VR Day Perú. ¿Tú fuiste? #realidadvirtual #universitarios"
+      },
+      "alt": "Carrusel de futurX con fotos de su stand en el VR Day Perú y la revista futurA de enero de 2024."
+    },
+    {
+      "slug": "19-como-leer-un-paper",
+      "date": "2026-10-19",
+      "share": "a: para el amigo que tiene que leer papers para su curso o su tesis",
+      "comment": "yo leía de corrido",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Un paper no se lee de corrido",
+          "b": "Un paper es un artículo científico. S. Keshav propone leerlo en tres pasadas."
+        },
+        {
+          "role": "value",
+          "n": 1,
+          "h": "Primera pasada, de 5 a 10 minutos",
+          "items": [
+            "Título, resumen e introducción",
+            "Solo los subtítulos",
+            "Las conclusiones"
+          ]
+        },
+        {
+          "role": "value",
+          "n": 2,
+          "h": "Segunda pasada, hasta una hora",
+          "b": "Miras con calma las figuras y las tablas. Las demostraciones las saltas."
+        },
+        {
+          "role": "value",
+          "n": 3,
+          "h": "Tercera pasada, solo si lo vas a usar",
+          "b": "Es rehacer el trabajo en tu cabeza. Las primeras veces puede tomarte 4 o 5 horas."
+        },
+        {
+          "role": "value",
+          "h": "Dónde te ayuda la IA",
+          "b": "Pídele que te explique un término o una figura. Las conclusiones léelas tú."
+        },
+        {
+          "role": "closer",
+          "h": "¿Cuántos papers te dejan leer por ciclo?"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo leer un paper o artículo científico en tres pasadas, el método de S. Keshav: 10 minutos, una hora o a fondo. Guárdalo para tu próximo trabajo de investigación.",
+        "tt": "Cómo leer un paper sin leerlo de corrido. ¿Cuántos te dejan por ciclo? #tesis #universitarios"
+      },
+      "alt": "Carrusel de futurX con el método de tres pasadas de S. Keshav para leer un artículo científico."
+    },
+    {
+      "slug": "20-tu-primer-proyecto-con-ia",
+      "date": "2026-10-20",
+      "share": "b: la pregunta de Andrew Ng que le sirve a cualquier carrera",
+      "comment": "en derecho hay mil",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Antes de tu primer proyecto con IA, hazle esta pregunta a alguien",
+          "b": "Es la que usa Andrew Ng."
+        },
+        {
+          "role": "value",
+          "cita": true,
+          "h": "«¿Cuáles son las tres cosas que quisieras que funcionen mejor? ¿Por qué todavía no funcionan?»",
+          "b": "Ng, fundador de DeepLearning.AI, se la hace a quien conoce un oficio desde adentro."
+        },
+        {
+          "role": "value",
+          "label": "A quién se la puedes hacer",
+          "h": "A alguien que trabaja en lo que estudias",
+          "items": [
+            "Al abogado del estudio donde practicas",
+            "A la enfermera de tu turno",
+            "Al profe que corrige todo a mano"
+          ]
+        },
+        {
+          "role": "value",
+          "h": "Primero el problema, después la IA",
+          "b": "Ng recomienda pensar varias soluciones antes de quedarte con la primera."
+        },
+        {
+          "role": "value",
+          "h": "Empieza por algo chico",
+          "b": "Para Ng, los primeros proyectos sirven para aprender. Los grandes llegan después."
+        },
+        {
+          "role": "closer",
+          "h": "¿Qué problema de tu carrera resolverías con IA?"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo encontrar la idea para tu primer proyecto con inteligencia artificial, según Andrew Ng: pregúntale a alguien de tu carrera qué no funciona. ¿Qué problema resolverías tú?",
+        "tt": "La pregunta de Andrew Ng antes de tu primer proyecto con IA. ¿Qué resolverías? #inteligenciaartificial #universitarios"
+      },
+      "alt": "Carrusel de futurX con la pregunta que Andrew Ng recomienda hacer antes de empezar un proyecto con inteligencia artificial."
+    }
+  ]
+}

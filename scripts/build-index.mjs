@@ -98,6 +98,8 @@ const BRAND_CHROME = {
   servicestack: { accent: '#5be0a5', accent2: '#8a93a0', label: 'AI stack for solos' },
   /* Tienda de arte POD (pod_store/), en inglés: el latón de su paleta "gallery at dusk". */
   theartistsalon: { accent: '#c9a46a', accent2: '#f1eada', label: 'Art & portraits' },
+  /* Segunda tienda POD (pumpkin_art/), en inglés: el naranja calabaza de su logo. */
+  pumpkinartco: { accent: '#f0781e', accent2: '#fce9c5', label: 'Halloween art' },
   /* futurX: láminas con el sistema de futurx.pe, no F1 (brands/futurx/BRAND.md). */
   futurx: { accent: '#ea5046', accent2: '#c3cee6', label: 'IA para universitarios' },
 }

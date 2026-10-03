@@ -22,7 +22,7 @@ El diseño no se inventa acá, se copia. Estas son las fuentes, en orden:
 | Reglas de diseño y la lista contra el look de IA | `uncommited/docs/02_direccion_de_diseno.md`, secciones 4, 5 y 7 |
 | Logo | `public/logo.svg`, copiado a `brands/futurx/logo.svg` |
 | El motivo de la X | `components/ui/chevron-motif.tsx` |
-| Cabecera de sección, tarjeta de fase, tira de datos, cifras, botón | `components/ui/section-header.tsx`, `components/event/PhaseCard.tsx`, `FactsLine`, `components/hackaton/indicadores-vivos.tsx`, `components/ui/button.tsx` |
+| Cabecera de sección, tarjeta de fase, tira de datos, cifras | `components/ui/section-header.tsx`, `components/event/PhaseCard.tsx`, `FactsLine`, `components/hackaton/indicadores-vivos.tsx`, `components/ui/button.tsx` |
 | Fotos | `public/revista/fotos/`, el archivo real de futurX (revista futurA n.º 1) |
 
 `plantilla/futurx.css` copia esos tokens **con los mismos nombres**. Si el sitio
@@ -54,12 +54,12 @@ en el sitio.
 | Titulares y texto fuerte | `--color-fx-navy` | `#1B2D51` |
 | Cuerpo | `--color-fx-ink-2` | `#4A5567` |
 | Acento gráfico: chevrones, filetes, barra | `--color-fx-coral` | `#EA5046` |
-| Texto coral y relleno del botón | `--color-fx-coral-ink` | `#D23B28` |
+| Texto coral | `--color-fx-coral-ink` | `#D23B28` |
 | Filetes | `--color-fx-line` | `#DDE2EC` |
 | Motivo de la X (casi invisible) | `--color-fx-navy-050` y `-100` | `#F0F3F9`, `#E6EAF3` |
 
 El coral es **el único acento** y aparece poco: un chevron, un filete, un número
-de paso, el botón. Nunca como fondo de una lámina y nunca en más del 5 % del área.
+de paso. Nunca como fondo de una lámina y nunca en más del 5 % del área.
 
 ## Tipografía
 
@@ -86,7 +86,7 @@ El JSON está en `posts/<serie>.json`. El esquema completo está en la cabecera 
 | `value` + `n` | La tarjeta de una fase o de un paso: número en coral dentro de un panel de papel | `n`, `h`, `b` |
 | `value` + `cita` | El mensaje clave: filete coral de 3 px a la izquierda | `h`, `b` |
 | `stat` | Los indicadores: cifra grande, su rótulo al lado y la barra coral opcional | `cifra`, `rotulo`, `barra` (0 a 1), `h`, `b` |
-| `closer` | El cierre: logo, titular, botón primario y la dirección | `h`, `b`, `cta`, `url` |
+| `closer` | El cierre: logo, titular y la dirección en texto plano. **Sin botón** | `h`, `b`, `url` |
 
 - **El logo va en la portada y en el cierre**, igual que en el resto de marcas.
   El cierre lleva además un pie con `futurx.pe` y `@futurxcentral`.
@@ -112,13 +112,18 @@ Es la sección 7 de la dirección de diseño del sitio, aplicada a los posts:
    también corta. Se reescribe la frase con coma o con dos puntos.
 5. **Foto a sangre con velo, degradados y fondos de color.** El único fondo es
    blanco o papel.
-6. **Contadores de lámina** («1/6»), flechas de «desliza» y flecha al final del botón.
+6. **Contadores de lámina** («1/6») y flechas de «desliza».
 7. **Números 1, 2, 3 cuando no hay una secuencia.** Las dos fases de la hackathon
    sí la tienen.
 8. **Iconos de cohete, bombilla, chispa o cerebro**, e ilustraciones de banco.
 9. **Cifras inventadas.** Una cifra en un post es una que el sitio ya publica, o
    una medida con fecha. Las que cambian solas (los inscritos) no se imprimen en
    un post que va a vivir semanas.
+10. **Botones en los posts** (Carlos, 2026-10-02: «la última lámina siempre
+    tiene un botón, no hacen falta botones en los posts, es ridículo»). Un post
+    no es una página: nadie puede tocar ese botón. El cierre lleva el titular,
+    una línea opcional y la dirección en texto plano. El render corta si una
+    lámina trae un campo `cta`.
 
 ## Copy
 

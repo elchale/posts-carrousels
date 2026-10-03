@@ -24,12 +24,16 @@
  *         { "role": "value",  "n": 1, "h", "b"?, "items"? }         -> tarjeta de paso
  *         { "role": "value",  "cita": true, "h", "b"? }            -> mensaje clave
  *         { "role": "stat",   "label"?, "cifra", "rotulo", "barra"?: 0..1, "h"?, "b"? },
- *         { "role": "closer", "h", "b"?, "cta", "url" }
+ *         { "role": "closer", "h", "b"?, "url"? }               -> SIN boton
  *       ] } ] }
  *
  *   - "foco": object-position de la foto ("50% 30%"), para no cortar caras.
  *   - "tono": "banda" | "blanco" fuerza la superficie; si no, portada y cierre van
  *     en blanco y las interiores alternan papel y blanco, como las secciones.
+ *   - El cierre NO lleva boton (Carlos, 2026-10-02: "no hacen falta botones en
+ *     los posts, es ridiculo": un post no es una pagina y nadie puede tocarlo).
+ *     Lleva logo, h, b opcional y la direccion en texto plano. Un campo "cta"
+ *     en cualquier lamina CORTA el render. No se vuelve a agregar.
  *   - *asteriscos* NO pintan palabras de coral: el sitio lo prohibe (una palabra
  *     del titular en otro color es el punto 15 de su lista contra el look de IA).
  *     Se quitan y se avisa.
@@ -37,6 +41,7 @@
  * Comprobaciones que CORTAN el render (una lamina asi no sale):
  *   - texto que se sale de la lamina o de su zona segura (TikTok incluida)
  *   - guiones o rayas en el copy visible (regla del sitio) y emoji en la lamina
+ *   - un campo "cta" (boton) en cualquier lamina
  *
  * Uso:  node tools/render_futurx.mjs <serie> [slug1,slug2]
  *       node tools/render_futurx.mjs <serie> --hoja     ademas, out/<serie>/_hoja.jpg
@@ -120,6 +125,7 @@ function lamina(s, i, total, fmt, donde) {
   const tono = s.tono ?? (interior && i % 2 === 1 ? 'banda' : 'blanco')
   const clases = ['lamina', fmt, tono === 'banda' ? 'banda' : '', `rol-${s.role}`].filter(Boolean).join(' ')
   let cuerpo = ''
+  if (s.cta != null) errores.push(`${donde}: lleva "cta": futurX no pone botones en los posts (BRAND.md)`)
 
   if (s.role === 'cover') {
     const hechos = s.hechos?.length
@@ -140,8 +146,7 @@ function lamina(s, i, total, fmt, donde) {
       <div class="stack" style="margin:auto 0">
         <h2 class="d2">${txt(s.h, donde + '.h')}</h2>
         ${s.b ? `<p class="lead">${txt(s.b, donde + '.b')}</p>` : ''}
-        ${s.cta ? `<div class="boton" style="margin-top:28px">${txt(s.cta, donde + '.cta')}</div>` : ''}
-        ${s.url && s.url !== brand.tag ? `<p class="meta" style="margin-top:12px">${txt(s.url, donde + '.url')}</p>` : ''}
+        ${s.url && s.url !== brand.tag ? `<p class="meta" style="margin-top:20px">${txt(s.url, donde + '.url')}</p>` : ''}
       </div>
       <div class="pie"><span class="meta">${esc(brand.tag)}</span><span class="meta">${esc(brand.instagram)}</span></div>`
   } else if (s.role === 'stat') {
@@ -197,7 +202,7 @@ async function revisarCaja(page) {
       bottom: r.bottom - parseFloat(cs.paddingBottom) + 0.5,
     }
     const fuera = []
-    for (const el of l.querySelectorAll('h1,h2,p,li,img,.boton,.papel,.barra,.marca,figure')) {
+    for (const el of l.querySelectorAll('h1,h2,p,li,img,.papel,.barra,.marca,figure')) {
       const b = el.getBoundingClientRect()
       if (b.width === 0 || b.height === 0) continue
       const sale = b.top < zona.top || b.left < zona.left || b.right > zona.right || b.bottom > zona.bottom

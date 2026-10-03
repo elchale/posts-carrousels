@@ -1,0 +1,13 @@
+{
+  "name": "Pumpkin Art Co",
+  "tag": "@pumpkinartco",
+  "logo": "logo.png",
+  "lang": "en",
+  "display_font": "BagelFatOne-Regular.ttf",
+  "display_weight": 400,
+  "accent_font": "BagelFatOne-Regular.ttf",
+  "body_font": "Inter[opsz,wght].ttf",
+  "frame": "#F0781E",
+  "f1": {"accent": "#F0781E", "flat_bg": "#0C0906", "flat_text": "#FCE9C5"},
+  "roles_note": "read off the logo (pumpkin mascot with a brush): near black #0C0906, cream #FCE9C5, pumpkin orange #F0781E (accent words + the thin frame). Display = Bagel Fat One (round retro like the logo lettering); accent words switch to orange, same font. Art and mockups HANG contained in a thin orange frame, never cropped."
+}
