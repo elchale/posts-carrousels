@@ -71,8 +71,8 @@
         {
           "role": "value",
           "n": 1,
-          "h": "Nos escribes",
-          "b": "Te contamos qué se está armando en tu ciudad y en tu universidad."
+          "h": "Entras a futurx.pe",
+          "b": "Ahí ves qué se está armando en tu ciudad y en tu universidad."
         },
         {
           "role": "value",
@@ -88,16 +88,15 @@
         },
         {
           "role": "closer",
-          "h": "Escríbenos por WhatsApp",
-          "b": "Y cuéntanos de qué universidad vienes.",
-          "url": "WhatsApp +51 936 282 808"
+          "h": "Empieza en futurx.pe",
+          "b": "Y busca qué hay en tu universidad."
         }
       ],
       "caption": {
-        "ig": "Cómo entrar a futurX, la comunidad de universitarios peruanos que aprenden inteligencia artificial: sin examen y sin cuota, nos escribes y vienes a una sesión. ¿De qué universidad eres?",
+        "ig": "Cómo entrar a futurX, la comunidad de universitarios peruanos que aprenden inteligencia artificial: sin examen y sin cuota, entras a futurx.pe y vienes a una sesión. ¿De qué universidad eres?",
         "tt": "Cómo entrar a futurX sin examen ni cuota. ¿De qué universidad eres? #inteligenciaartificial #universitarios"
       },
-      "alt": "Carrusel de futurX con los tres pasos para entrar a la comunidad: escribir, ir a una sesión y armar un proyecto."
+      "alt": "Carrusel de futurX con los tres pasos para entrar a la comunidad: entrar a futurx.pe, ir a una sesión y armar un proyecto."
     },
     {
       "slug": "03-a-asi-califica-el-jurado-parte-2",
@@ -433,8 +432,8 @@
         },
         {
           "role": "closer",
-          "h": "Pregúntanos qué se está armando en tu universidad",
-          "url": "WhatsApp +51 936 282 808"
+          "h": "Mira qué se está armando en tu universidad",
+          "b": "Todo está en futurx.pe."
         }
       ],
       "caption": {
@@ -1252,8 +1251,7 @@
         {
           "role": "closer",
           "h": "¿Todavía no tienes equipo?",
-          "b": "Escríbenos y te ayudamos a encontrar uno.",
-          "url": "WhatsApp +51 936 282 808"
+          "b": "Los equipos se registran hasta el jueves 22 al mediodía. Todo está en futurx.pe."
         }
       ],
       "caption": {
@@ -1466,8 +1464,7 @@
         {
           "role": "closer",
           "h": "¿Te quedaste con ganas de seguir?",
-          "b": "Escríbenos y te contamos qué hay en tu universidad.",
-          "url": "WhatsApp +51 936 282 808"
+          "b": "Mira en futurx.pe qué hay en tu universidad."
         }
       ],
       "caption": {
