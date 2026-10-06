@@ -403,194 +403,183 @@
       "alt": "Carrusel de futurX con tres pasos para comprobar que una referencia que dio la IA existe: título, DOI y la frase en la fuente."
     },
     {
-      "slug": "06-a-que-se-hace-en-un-club",
+      "slug": "06-a-jurado-waldo-guevara",
       "date": "2026-10-06",
-      "share": "c: el que quiere un grupo así se reconoce y lo manda a su promo",
-      "comment": "quiero uno en la UNI",
+      "share": "b: el que va a presentar quiere saber ante quién",
+      "comment": "nervios desde ya",
       "slides": [
         {
           "role": "cover",
-          "h": "¿Qué se hace en un club de futurX?"
+          "kicker": "Jurado de la hackathon futurX",
+          "h": "Waldo Guevara",
+          "photo": "jurado_waldo_guevara.webp",
+          "foco": "50% 50%",
+          "pie": "Waldo Guevara, Nueva York."
         },
         {
           "role": "value",
-          "h": "Te juntas cada semana con gente de tu campus",
-          "b": "A probar herramientas de IA, equivocarte rápido y construir algo tuyo.",
-          "photo": "equipo_cuatro.webp",
-          "foco": "50% 35%",
-          "pie": "Integrantes de futurX. Revista futurA, enero de 2024."
+          "label": "Hoy",
+          "h": "Director de Producto en Morgan Stanley",
+          "b": "Dirige equipos que suman inteligencia artificial a las herramientas internas de la firma."
         },
         {
           "role": "value",
-          "h": "Hay lugar para letras, diseño, ingeniería y salud",
-          "b": "No necesitas saber programar para entrar."
+          "label": "Antes",
+          "h": "Casi diez años en Moody's",
+          "b": "Después pasó por Silicon Valley Bank. Es licenciado en Finanzas por St. John's University."
         },
         {
           "role": "value",
-          "h": "Lo que aprendes termina en un problema real",
-          "b": "Del lugar donde vives. Ahí se aprende a hacerse cargo y a trabajar con otros."
+          "h": "Fundó JGM Innovation",
+          "b": "La organización sin fines de lucro que organiza la hackathon junto con futurX."
         },
         {
           "role": "closer",
-          "h": "Mira qué se está armando en tu universidad",
-          "b": "Todo está en futurx.pe."
+          "h": "Los 8 equipos finalistas le presentan su demo",
+          "b": "En el Demo Day, el sábado 24 de octubre.",
+          "url": "futurx.pe/hackathon/2026"
         }
       ],
       "caption": {
-        "ig": "Club universitario de inteligencia artificial en Lima y Arequipa: en futurX te juntas cada semana a probar herramientas y armar proyectos, estudies lo que estudies. ¿En qué universidad quisieras uno?",
-        "tt": "Así es un club de IA de futurX. ¿En qué universidad quisieras uno? #inteligenciaartificial #universitarios"
+        "ig": "Waldo Guevara, Director de Producto en Morgan Stanley y fundador de JGM Innovation, es jurado de la hackathon futurX 2026. Los equipos finalistas le presentan su demo el sábado 24 de octubre. ¿Qué le preguntarías?",
+        "tt": "Waldo Guevara de Morgan Stanley es jurado de la hackathon futurX. #hackathon #inteligenciaartificial"
       },
-      "alt": "Carrusel de futurX con una foto de cuatro integrantes y lo que se hace en sus clubes universitarios de inteligencia artificial."
+      "alt": "Carrusel de futurX que presenta a Waldo Guevara, Director de Producto en Morgan Stanley y fundador de JGM Innovation, jurado de la hackathon futurX 2026."
     },
     {
-      "slug": "06-b-tres-cursos-gratis-de-ia",
+      "slug": "06-b-jurado-gary-urteaga",
       "date": "2026-10-06",
-      "share": "a: lista para guardar y pasar al amigo que dice que quiere aprender IA",
-      "comment": "empiezo con el 1",
+      "share": "c: el que quiere emprender reconoce a Cinepapaya y lo comparte",
+      "comment": "usaba Cinepapaya",
       "slides": [
         {
           "role": "cover",
-          "h": "Tres cursos gratis para aprender IA desde cero"
+          "kicker": "Jurado de la hackathon futurX",
+          "h": "Gary Urteaga",
+          "photo": "jurado_gary_urteaga.webp",
+          "foco": "50% 30%",
+          "pie": "Gary Urteaga, Miami."
         },
         {
           "role": "value",
-          "label": "En español",
-          "h": "Elementos de la IA",
+          "label": "Su startup",
+          "h": "Cofundó Cinepapaya",
+          "b": "Fandango, de NBCUniversal, la compró en 2016."
+        },
+        {
+          "role": "value",
+          "label": "Hoy",
+          "h": "Preside Jenesiz Capital",
+          "b": "Un fondo que invierte en startups en etapa semilla. Ha invertido o asesorado a más de 50."
+        },
+        {
+          "role": "value",
+          "h": "Cofundó la Asociación de Emprendedores del Perú",
           "items": [
-            "De la Universidad de Helsinki",
-            "Sin matemática complicada ni programación",
-            "Con certificado al terminar"
+            "Emprendedor Endeavor",
+            "Embajador de la Marca Perú",
+            "Se formó en Harvard y en Stanford"
           ]
-        },
-        {
-          "role": "value",
-          "label": "En inglés",
-          "h": "AI Fluency: Framework & Foundations",
-          "items": [
-            "De Anthropic, la empresa de Claude",
-            "Qué tareas darle a la IA y cómo revisar lo que te da",
-            "Con certificado al terminar"
-          ]
-        },
-        {
-          "role": "value",
-          "label": "En YouTube",
-          "h": "Deep Dive into LLMs like ChatGPT",
-          "items": [
-            "De Andrej Karpathy, del equipo fundador de OpenAI",
-            "Cómo funciona ChatGPT por dentro, en tres horas y media",
-            "LLM quiere decir modelo de lenguaje grande"
-          ]
-        },
-        {
-          "role": "value",
-          "h": "Por cuál empezar",
-          "b": "Si nunca has visto nada de IA, por Elementos de la IA. Si ya la usas todos los días, por AI Fluency."
         },
         {
           "role": "closer",
-          "h": "¿Qué otro curso gratis recomiendas?"
+          "h": "Los 8 equipos finalistas le presentan su demo",
+          "b": "En el Demo Day, el sábado 24 de octubre.",
+          "url": "futurx.pe/hackathon/2026"
         }
       ],
       "caption": {
-        "ig": "Cursos gratis de inteligencia artificial para empezar desde cero: Elementos de la IA de la Universidad de Helsinki, AI Fluency de Anthropic y el video de Andrej Karpathy. Guárdalo para las vacaciones.",
-        "tt": "Tres cursos gratis de IA para empezar desde cero. ¿Cuál recomiendas tú? #aprendeia #inteligenciaartificial"
+        "ig": "Gary Urteaga, cofundador de Cinepapaya y presidente de Jenesiz Capital, es jurado de la hackathon futurX 2026. Ha invertido o asesorado a más de 50 startups. ¿Te acuerdas de Cinepapaya?",
+        "tt": "El cofundador de Cinepapaya es jurado de la hackathon futurX. #emprendimiento #hackathon"
       },
-      "alt": "Carrusel de futurX con tres cursos gratis de inteligencia artificial: Elementos de la IA, AI Fluency y el video de Andrej Karpathy."
+      "alt": "Carrusel de futurX que presenta a Gary Urteaga, cofundador de Cinepapaya y presidente de Jenesiz Capital, jurado de la hackathon futurX 2026."
     },
     {
-      "slug": "07-a-pregunta-a-tus-separatas",
+      "slug": "07-a-jurado-yelfri-de-leon",
       "date": "2026-10-07",
-      "share": "b: herramienta gratis que casi nadie en la promo usa todavía",
-      "comment": "subo estadística",
+      "share": "b: lo que busca el jurado, contado por el jurado",
+      "comment": "a construir entonces",
       "slides": [
         {
           "role": "cover",
-          "h": "Hazle preguntas a tus separatas con Gemini Notebook",
-          "b": "Es la herramienta de Google que antes se llamaba NotebookLM."
+          "kicker": "Jurado de la hackathon futurX",
+          "h": "Yelfri De Leon",
+          "photo": "jurado_yelfri_de_leon.webp",
+          "foco": "50% 30%",
+          "pie": "Yelfri De Leon, Nueva York."
         },
         {
           "role": "value",
-          "h": "Gemini Notebook responde con lo que tú subiste",
-          "b": "Si algo no está en tus documentos, no lo saca de otro lado."
+          "label": "Hoy",
+          "h": "Vicepresidente en JPMorganChase",
+          "b": "Lidera programas de inteligencia artificial, machine learning y plataformas de datos."
         },
         {
           "role": "value",
-          "h": "Cada respuesta te dice de dónde la sacó",
-          "b": "Tocas el número y te lleva al párrafo exacto de tu PDF."
+          "h": "Ve de cerca cómo un agente de IA pasa de idea a uso real",
+          "b": "Lleva más de diez años al frente de proyectos de tecnología en servicios financieros."
         },
         {
           "role": "value",
-          "label": "Qué le puedes subir",
-          "h": "Casi todo el material de un curso",
-          "items": [
-            "PDF y diapositivas",
-            "Páginas web",
-            "Videos de YouTube"
-          ]
-        },
-        {
-          "role": "value",
-          "h": "Junta las separatas de todo el ciclo en un solo cuaderno",
-          "b": "Así le preguntas en qué clase se vio cada tema."
+          "cita": true,
+          "h": "Quiere ver cómo usan la IA para resolver problemas reales",
+          "b": "Y cómo una buena idea termina en algo que funciona."
         },
         {
           "role": "closer",
-          "h": "Entras con tu cuenta de Google",
-          "b": "Búscalo como Gemini Notebook."
+          "h": "Los 8 equipos finalistas le presentan su demo",
+          "b": "En el Demo Day, el sábado 24 de octubre.",
+          "url": "futurx.pe/hackathon/2026"
         }
       ],
       "caption": {
-        "ig": "Cómo usar Gemini Notebook, antes NotebookLM, para estudiar con tus separatas y PDF: responde con tus fuentes y te marca de dónde sacó cada cosa. ¿Qué curso subirías primero?",
-        "tt": "Estudia con tus separatas en Gemini Notebook. ¿Qué curso subirías? #estudiantes #inteligenciaartificial"
+        "ig": "Yelfri De Leon, Vicepresidente en JPMorganChase, es jurado de la hackathon futurX 2026. Lidera programas de IA y quiere ver cómo los equipos usan la IA para resolver problemas reales. ¿Qué problema elegirías tú?",
+        "tt": "Yelfri De Leon de JPMorganChase es jurado de la hackathon futurX. #hackathon #inteligenciaartificial"
       },
-      "alt": "Carrusel de futurX que explica cómo usar Gemini Notebook, antes NotebookLM, para estudiar con tus propios documentos."
+      "alt": "Carrusel de futurX que presenta a Yelfri De Leon, Vicepresidente en JPMorganChase, jurado de la hackathon futurX 2026."
     },
     {
-      "slug": "07-b-estudiar-con-ia-parte-1",
+      "slug": "07-b-jurado-luis-ortiz",
       "date": "2026-10-07",
-      "share": "b: dato medido que casi nadie conoce y que cambia cómo estudias",
-      "comment": "yo le pido pistas",
+      "share": "a: para el que estudia economía o datos y quiere ver a dónde se llega",
+      "comment": "economía también",
       "slides": [
         {
           "role": "cover",
-          "kicker": "Parte 1 de 2",
-          "h": "Estudiar con ChatGPT te puede bajar la nota del examen",
-          "b": "Depende de cómo lo uses."
+          "kicker": "Jurado de la hackathon futurX",
+          "h": "Luis Ortiz",
+          "photo": "jurado_luis_ortiz.webp",
+          "foco": "50% 50%",
+          "pie": "Luis Ortiz, Nueva York."
         },
         {
           "role": "value",
-          "label": "El estudio",
-          "h": "Casi mil escolares practicaron matemática con GPT 4",
-          "b": "Fue en colegios de Turquía. Lo publicó la revista PNAS en 2025."
+          "label": "Hoy",
+          "h": "Director en Moody's Analytics",
+          "b": "Lidera equipos globales que aplican IA generativa a las operaciones de datos financieros."
         },
         {
           "role": "value",
-          "h": "Mientras practicaban con la IA, les fue mejor",
-          "b": "Muchos le pedían la respuesta y pasaban al siguiente ejercicio."
-        },
-        {
-          "role": "stat",
-          "label": "En el examen sin IA",
-          "cifra": "17",
-          "rotulo": "por ciento menos",
-          "h": "Los que usaron un ChatGPT normal sacaron menos que los que nunca lo usaron."
+          "h": "Más de diez años escalando plataformas de datos",
+          "b": "Con equipos en Asia Pacífico, Europa y América."
         },
         {
           "role": "value",
-          "h": "Una versión que daba pistas casi no tuvo ese problema",
-          "b": "No soltaba la respuesta. Guiaba paso a paso."
+          "h": "Estudió Economía",
+          "b": "Es licenciado por St. John's University, en Nueva York."
         },
         {
           "role": "closer",
-          "h": "Mañana: cómo estudiar con IA sin que te pase esto"
+          "h": "Los 8 equipos finalistas le presentan su demo",
+          "b": "En el Demo Day, el sábado 24 de octubre.",
+          "url": "futurx.pe/hackathon/2026"
         }
       ],
       "caption": {
-        "ig": "Estudiar con ChatGPT puede bajarte la nota si solo le pides respuestas: un estudio publicado en PNAS con casi mil escolares lo midió. ¿Tú le pides la respuesta o pistas?",
-        "tt": "¿Estudiar con ChatGPT te baja la nota? ¿Respuesta o pistas? #estudiantes #chatgpt"
+        "ig": "Luis Ortiz, Director en Moody's Analytics, es jurado de la hackathon futurX 2026. Lidera equipos que aplican IA generativa a datos financieros en tres continentes. ¿Quién de tu promo estudia Economía?",
+        "tt": "Luis Ortiz de Moody's Analytics es jurado de la hackathon futurX. #hackathon #economia"
       },
-      "alt": "Carrusel de futurX sobre un estudio publicado en PNAS: los escolares que practicaron con ChatGPT sin guía sacaron 17 por ciento menos en el examen sin IA."
+      "alt": "Carrusel de futurX que presenta a Luis Ortiz, Director en Moody's Analytics, jurado de la hackathon futurX 2026."
     },
     {
       "slug": "08-a-estudiar-con-ia-parte-2",
@@ -600,7 +589,6 @@
       "slides": [
         {
           "role": "cover",
-          "kicker": "Parte 2 de 2",
           "h": "Tres formas de estudiar con IA que sí te dejan algo"
         },
         {
