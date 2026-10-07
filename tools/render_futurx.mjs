@@ -19,7 +19,7 @@
  *   { "brand": "futurX", "series": "<id>", "format": "futurx", "posts": [ {
  *       "slug", "date"?, "caption": {ig, tt}, "alt",
  *       "slides": [
- *         { "role": "cover",  "kicker"?, "h", "nombre"?, "b"?, "hechos"?: [{t, v}], "photo"?, "pie"?, "foco"?, "sinLogo"?, "ciudad"?, "icono"? },
+ *         { "role": "cover",  "kicker"?, "h", "nombre"?, "b"?, "hechos"?: [{t, v}], "photo"?, "pie"?, "foco"?, "sinLogo"?, "ciudad"? },
  *         { "role": "value",  "label"?, "h", "b"?, "items"?: [..], "photo"?, "pie"? },
  *         { "role": "value",  "n": 1, "h", "b"?, "items"? }         -> tarjeta de paso
  *         { "role": "value",  "cita": true, "h", "b"? }            -> mensaje clave
@@ -79,21 +79,13 @@ const LOGO = fs.readFileSync(path.join(BRAND, brand.logo_svg), 'utf8')
   .replace('<svg ', '<svg class="marca" aria-hidden="true" ')
 
 /* La X abierta, copiada de web/components/ui/chevron-motif.tsx. */
-/* Icono 3D de ciudad, arriba a la derecha de la foto de la portada del jurado
- * (Carlos, 2026-10-06). Son los Fluent Emoji 3D de Microsoft (licencia MIT),
- * en brands/futurx/plantilla/iconos/<clave>.png: la estatua de la Libertad
- * para Nueva York y una palmera para Miami. Van sobre un circulo blanco para
- * leerse encima de cualquier foto. Excepcion a la regla de cero emoji: es una
- * imagen sobre la foto, no texto de la lamina. */
-const ICONOS_DIR = path.join(BRAND, 'plantilla', 'iconos')
-const icono = (k, donde) => {
-  const f = path.join(ICONOS_DIR, `${k}.png`)
-  if (!fs.existsSync(f)) {
-    errores.push(`${donde}: no existe plantilla/iconos/${k}.png`)
-    return ''
-  }
-  return `<span style="position:absolute;top:10px;right:10px;width:54px;height:54px;border-radius:999px;background:#fff;box-shadow:0 2px 8px rgba(27,45,81,.18);display:flex;align-items:center;justify-content:center"><img class="icono3d" src="${pathToFileURL(f).href}" alt="" style="width:40px;height:40px;flex:none;object-fit:contain;border-radius:0"></span>`
-}
+/* Sello de ciudad de la portada del jurado (Carlos, 2026-10-06): el nombre de
+ * la ciudad como un logo chico, en Outfit sobre coral, girado a la derecha y
+ * con el centro justo en la esquina superior derecha de la foto. La foto se
+ * corre 16 px a la izquierda para que la mitad que sobresale no se salga de
+ * la lamina. "Nueva York" se parte en dos lineas para que quede compacto. */
+const sello = (ciudad, donde) =>
+  `<span class="sello" style="position:absolute;top:0;right:0;transform:translate(50%,-50%) rotate(10deg);background:var(--color-fx-coral);color:#fff;border:2px solid #fff;border-radius:10px;padding:7px 10px 8px;font-family:var(--font-display);font-weight:700;font-size:16px;line-height:.95;letter-spacing:-0.02em;text-align:center;white-space:nowrap;box-shadow:0 3px 10px rgba(27,45,81,.25)">${txt(ciudad, donde).replace(' ', '<br>')}</span>`
 
 const MOTIVO = `<svg class="motivo" viewBox="0 0 78 64" aria-hidden="true">
   <polygon fill="var(--color-fx-navy-050)" points="43,2 2,32 43,62 43,45 26,32 43,19"/>
@@ -132,8 +124,9 @@ function foto(s, donde) {
   }
   const pie = s.pie ? `<figcaption class="meta">${txt(s.pie, donde + '.pie')}</figcaption>` : ''
   const foco = s.foco ? ` style="object-position:${esc(String(s.foco))}"` : ''
-  const marca = s.icono ? icono(s.icono, donde + '.icono') : ''
-  return `<figure class="foto llena" style="margin-top:22px;position:relative"><img src="${pathToFileURL(src).href}" alt=""${foco}>${marca}${pie}</figure>`
+  const marca = s.ciudad ? sello(s.ciudad, donde + '.ciudad') : ''
+  const corrida = s.ciudad ? ';position:relative;margin-right:16px' : ''
+  return `<figure class="foto llena" style="margin-top:${s.ciudad ? 30 : 22}px${corrida}"><img src="${pathToFileURL(src).href}" alt=""${foco}>${marca}${pie}</figure>`
 }
 
 /* ------------------------------------------------------------- laminas */
@@ -162,7 +155,6 @@ function lamina(s, i, total, fmt, donde) {
         ${s.kicker ? `<p class="meta">${txt(s.kicker, donde + '.kicker')}</p>` : ''}
         <h1 class="${s.nombre ? 'd2' : 'd1'}">${txt(s.h, donde + '.h')}</h1>
         ${s.nombre ? `<p class="h3" style="margin-top:12px">${txt(s.nombre, donde + '.nombre')}</p>` : ''}
-        ${s.ciudad ? `<p class="body" style="margin-top:6px;display:flex;align-items:center;gap:8px;color:var(--text)"><span>${txt(s.ciudad, donde + '.ciudad')}</span></p>` : ''}
         ${s.b ? `<p class="lead">${txt(s.b, donde + '.b')}</p>` : ''}
       </div>
       ${foto(s, donde)}${hechos}`
@@ -236,7 +228,7 @@ async function revisarCaja(page) {
         el.setAttribute('data-fuera', '')
         fuera.push(`${el.tagName.toLowerCase()} «${(el.textContent || '').trim().slice(0, 40)}» (${Math.round(b.bottom - zona.bottom)} px abajo)`)
       }
-      if (el.tagName === 'IMG' && !el.classList.contains('icono3d') && b.height < 150) fuera.push(`foto aplastada a ${Math.round(b.height)} px de alto`)
+      if (el.tagName === 'IMG' && b.height < 150) fuera.push(`foto aplastada a ${Math.round(b.height)} px de alto`)
     }
     return fuera
   })
