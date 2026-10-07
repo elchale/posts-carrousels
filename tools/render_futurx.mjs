@@ -19,7 +19,7 @@
  *   { "brand": "futurX", "series": "<id>", "format": "futurx", "posts": [ {
  *       "slug", "date"?, "caption": {ig, tt}, "alt",
  *       "slides": [
- *         { "role": "cover",  "kicker"?, "h", "b"?, "hechos"?: [{t, v}], "photo"?, "pie"?, "foco"? },
+ *         { "role": "cover",  "kicker"?, "h", "nombre"?, "b"?, "hechos"?: [{t, v}], "photo"?, "pie"?, "foco"?, "sinLogo"? },
  *         { "role": "value",  "label"?, "h", "b"?, "items"?: [..], "photo"?, "pie"? },
  *         { "role": "value",  "n": 1, "h", "b"?, "items"? }         -> tarjeta de paso
  *         { "role": "value",  "cita": true, "h", "b"? }            -> mensaje clave
@@ -133,11 +133,18 @@ function lamina(s, i, total, fmt, donde) {
           .map((h, k) => `<li><p class="t">${txt(h.t, `${donde}.hechos${k}.t`)}</p><p class="v">${txt(h.v, `${donde}.hechos${k}.v`)}</p></li>`)
           .join('')}</ul></div>`
       : ''
+    // sinLogo y nombre: excepcion de Carlos (2026-10-06) para los posts del
+    // jurado, que se distinguen del resto y ganan espacio para la foto. El
+    // logo sigue en el cierre. Con nombre debajo, el titular baja al d2 del
+    // sitio: en d1 ocupa tres lineas y la foto queda aplastada.
+    const arriba = s.sinLogo ? '' : `<div class="arriba">${LOGO}</div>`
+    const margen = s.sinLogo ? 0 : s.photo || s.hechos?.length ? 32 : 44
     cuerpo = `<div class="rays"></div>${MOTIVO}
-      <div class="arriba">${LOGO}</div>
-      <div class="stack" style="margin-top:${s.photo || s.hechos?.length ? 32 : 44}px">
+      ${arriba}
+      <div class="stack" style="margin-top:${margen}px">
         ${s.kicker ? `<p class="meta">${txt(s.kicker, donde + '.kicker')}</p>` : ''}
-        <h1 class="d1">${txt(s.h, donde + '.h')}</h1>
+        <h1 class="${s.nombre ? 'd2' : 'd1'}">${txt(s.h, donde + '.h')}</h1>
+        ${s.nombre ? `<p class="h3" style="margin-top:12px">${txt(s.nombre, donde + '.nombre')}</p>` : ''}
         ${s.b ? `<p class="lead">${txt(s.b, donde + '.b')}</p>` : ''}
       </div>
       ${foto(s, donde)}${hechos}`

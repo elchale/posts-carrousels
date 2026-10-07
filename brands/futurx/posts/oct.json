@@ -410,8 +410,9 @@
       "slides": [
         {
           "role": "cover",
-          "kicker": "Jurado de la hackathon futurX",
-          "h": "Waldo Guevara",
+          "sinLogo": true,
+          "h": "Conoce al jurado de la hackathon futurX",
+          "nombre": "Waldo Guevara",
           "photo": "jurado_waldo_guevara.webp",
           "foco": "50% 8%",
           "pie": "Waldo Guevara, Nueva York."
@@ -454,8 +455,9 @@
       "slides": [
         {
           "role": "cover",
-          "kicker": "Jurado de la hackathon futurX",
-          "h": "Gary Urteaga",
+          "sinLogo": true,
+          "h": "Conoce al jurado de la hackathon futurX",
+          "nombre": "Gary Urteaga",
           "photo": "jurado_gary_urteaga.webp",
           "foco": "50% 8%",
           "pie": "Gary Urteaga, Miami."
@@ -502,8 +504,9 @@
       "slides": [
         {
           "role": "cover",
-          "kicker": "Jurado de la hackathon futurX",
-          "h": "Yelfri De Leon",
+          "sinLogo": true,
+          "h": "Conoce al jurado de la hackathon futurX",
+          "nombre": "Yelfri De Leon",
           "photo": "jurado_yelfri_de_leon.webp",
           "foco": "50% 8%",
           "pie": "Yelfri De Leon, Nueva York."
@@ -546,8 +549,9 @@
       "slides": [
         {
           "role": "cover",
-          "kicker": "Jurado de la hackathon futurX",
-          "h": "Luis Ortiz",
+          "sinLogo": true,
+          "h": "Conoce al jurado de la hackathon futurX",
+          "nombre": "Luis Ortiz",
           "photo": "jurado_luis_ortiz.webp",
           "foco": "50% 8%",
           "pie": "Luis Ortiz, Nueva York."
