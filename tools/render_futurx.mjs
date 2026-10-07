@@ -79,20 +79,20 @@ const LOGO = fs.readFileSync(path.join(BRAND, brand.logo_svg), 'utf8')
   .replace('<svg ', '<svg class="marca" aria-hidden="true" ')
 
 /* La X abierta, copiada de web/components/ui/chevron-motif.tsx. */
-/* Iconos de ciudad para la portada del jurado (Carlos, 2026-10-06). Trazo de
- * linea en coral, como los chevrones: nada de relleno ni de dibujo de banco.
- * Nueva York es el Empire State entre dos edificios; Miami, una palmera
- * sobre olas. */
-const ICONOS = {
-  'nueva-york': '<path d="M12 1.5V4M10.5 7V4h3v3M9.5 10V7h5v3M8.5 22V10h7v12M3 22v-8h5.5M15.5 16H21v6M2 22h20M10.5 13h3M10.5 16h3M10.5 19h3"/>',
-  miami: '<path d="M11.5 19c0-4 .6-7.6 2-10.5M13.5 8.5C11.3 6.3 8 6.1 5.5 7.8M13.5 8.5c-.8-2.8-3.3-4.7-6.4-4.9M13.5 8.5c1.1-2.8 3.8-4.3 6.8-4M13.5 8.5c2.5-.8 5.2.3 6.5 2.6M2 21.5c1.7-1 3.3-1 5 0s3.3 1 5 0 3.3-1 5 0 3.3 1 5 0"/>',
-}
+/* Icono 3D de ciudad, arriba a la derecha de la foto de la portada del jurado
+ * (Carlos, 2026-10-06). Son los Fluent Emoji 3D de Microsoft (licencia MIT),
+ * en brands/futurx/plantilla/iconos/<clave>.png: la estatua de la Libertad
+ * para Nueva York y una palmera para Miami. Van sobre un circulo blanco para
+ * leerse encima de cualquier foto. Excepcion a la regla de cero emoji: es una
+ * imagen sobre la foto, no texto de la lamina. */
+const ICONOS_DIR = path.join(BRAND, 'plantilla', 'iconos')
 const icono = (k, donde) => {
-  if (!ICONOS[k]) {
-    errores.push(`${donde}: no hay icono "${k}" (hay: ${Object.keys(ICONOS).join(', ')})`)
+  const f = path.join(ICONOS_DIR, `${k}.png`)
+  if (!fs.existsSync(f)) {
+    errores.push(`${donde}: no existe plantilla/iconos/${k}.png`)
     return ''
   }
-  return `<svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="var(--color-fx-coral)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex:none">${ICONOS[k]}</svg>`
+  return `<span style="position:absolute;top:10px;right:10px;width:54px;height:54px;border-radius:999px;background:#fff;box-shadow:0 2px 8px rgba(27,45,81,.18);display:flex;align-items:center;justify-content:center"><img class="icono3d" src="${pathToFileURL(f).href}" alt="" style="width:40px;height:40px;flex:none;object-fit:contain;border-radius:0"></span>`
 }
 
 const MOTIVO = `<svg class="motivo" viewBox="0 0 78 64" aria-hidden="true">
@@ -132,7 +132,8 @@ function foto(s, donde) {
   }
   const pie = s.pie ? `<figcaption class="meta">${txt(s.pie, donde + '.pie')}</figcaption>` : ''
   const foco = s.foco ? ` style="object-position:${esc(String(s.foco))}"` : ''
-  return `<figure class="foto llena" style="margin-top:22px"><img src="${pathToFileURL(src).href}" alt=""${foco}>${pie}</figure>`
+  const marca = s.icono ? icono(s.icono, donde + '.icono') : ''
+  return `<figure class="foto llena" style="margin-top:22px;position:relative"><img src="${pathToFileURL(src).href}" alt=""${foco}>${marca}${pie}</figure>`
 }
 
 /* ------------------------------------------------------------- laminas */
@@ -161,7 +162,7 @@ function lamina(s, i, total, fmt, donde) {
         ${s.kicker ? `<p class="meta">${txt(s.kicker, donde + '.kicker')}</p>` : ''}
         <h1 class="${s.nombre ? 'd2' : 'd1'}">${txt(s.h, donde + '.h')}</h1>
         ${s.nombre ? `<p class="h3" style="margin-top:12px">${txt(s.nombre, donde + '.nombre')}</p>` : ''}
-        ${s.ciudad ? `<p class="body" style="margin-top:6px;display:flex;align-items:center;gap:8px;color:var(--text)">${s.icono ? icono(s.icono, donde + '.icono') : ''}<span>${txt(s.ciudad, donde + '.ciudad')}</span></p>` : ''}
+        ${s.ciudad ? `<p class="body" style="margin-top:6px;display:flex;align-items:center;gap:8px;color:var(--text)"><span>${txt(s.ciudad, donde + '.ciudad')}</span></p>` : ''}
         ${s.b ? `<p class="lead">${txt(s.b, donde + '.b')}</p>` : ''}
       </div>
       ${foto(s, donde)}${hechos}`
@@ -235,7 +236,7 @@ async function revisarCaja(page) {
         el.setAttribute('data-fuera', '')
         fuera.push(`${el.tagName.toLowerCase()} «${(el.textContent || '').trim().slice(0, 40)}» (${Math.round(b.bottom - zona.bottom)} px abajo)`)
       }
-      if (el.tagName === 'IMG' && b.height < 150) fuera.push(`foto aplastada a ${Math.round(b.height)} px de alto`)
+      if (el.tagName === 'IMG' && !el.classList.contains('icono3d') && b.height < 150) fuera.push(`foto aplastada a ${Math.round(b.height)} px de alto`)
     }
     return fuera
   })
