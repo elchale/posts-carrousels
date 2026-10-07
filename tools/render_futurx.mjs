@@ -19,7 +19,7 @@
  *   { "brand": "futurX", "series": "<id>", "format": "futurx", "posts": [ {
  *       "slug", "date"?, "caption": {ig, tt}, "alt",
  *       "slides": [
- *         { "role": "cover",  "kicker"?, "h", "nombre"?, "b"?, "hechos"?: [{t, v}], "photo"?, "pie"?, "foco"?, "sinLogo"? },
+ *         { "role": "cover",  "kicker"?, "h", "nombre"?, "b"?, "hechos"?: [{t, v}], "photo"?, "pie"?, "foco"?, "sinLogo"?, "ciudad"?, "icono"? },
  *         { "role": "value",  "label"?, "h", "b"?, "items"?: [..], "photo"?, "pie"? },
  *         { "role": "value",  "n": 1, "h", "b"?, "items"? }         -> tarjeta de paso
  *         { "role": "value",  "cita": true, "h", "b"? }            -> mensaje clave
@@ -79,6 +79,22 @@ const LOGO = fs.readFileSync(path.join(BRAND, brand.logo_svg), 'utf8')
   .replace('<svg ', '<svg class="marca" aria-hidden="true" ')
 
 /* La X abierta, copiada de web/components/ui/chevron-motif.tsx. */
+/* Iconos de ciudad para la portada del jurado (Carlos, 2026-10-06). Trazo de
+ * linea en coral, como los chevrones: nada de relleno ni de dibujo de banco.
+ * Nueva York es el Empire State entre dos edificios; Miami, una palmera
+ * sobre olas. */
+const ICONOS = {
+  'nueva-york': '<path d="M12 1.5V4M10.5 7V4h3v3M9.5 10V7h5v3M8.5 22V10h7v12M3 22v-8h5.5M15.5 16H21v6M2 22h20M10.5 13h3M10.5 16h3M10.5 19h3"/>',
+  miami: '<path d="M11.5 19c0-4 .6-7.6 2-10.5M13.5 8.5C11.3 6.3 8 6.1 5.5 7.8M13.5 8.5c-.8-2.8-3.3-4.7-6.4-4.9M13.5 8.5c1.1-2.8 3.8-4.3 6.8-4M13.5 8.5c2.5-.8 5.2.3 6.5 2.6M2 21.5c1.7-1 3.3-1 5 0s3.3 1 5 0 3.3-1 5 0 3.3 1 5 0"/>',
+}
+const icono = (k, donde) => {
+  if (!ICONOS[k]) {
+    errores.push(`${donde}: no hay icono "${k}" (hay: ${Object.keys(ICONOS).join(', ')})`)
+    return ''
+  }
+  return `<svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="var(--color-fx-coral)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex:none">${ICONOS[k]}</svg>`
+}
+
 const MOTIVO = `<svg class="motivo" viewBox="0 0 78 64" aria-hidden="true">
   <polygon fill="var(--color-fx-navy-050)" points="43,2 2,32 43,62 43,45 26,32 43,19"/>
   <polygon fill="none" stroke="var(--color-fx-navy-100)" stroke-width="1.4"
@@ -145,6 +161,7 @@ function lamina(s, i, total, fmt, donde) {
         ${s.kicker ? `<p class="meta">${txt(s.kicker, donde + '.kicker')}</p>` : ''}
         <h1 class="${s.nombre ? 'd2' : 'd1'}">${txt(s.h, donde + '.h')}</h1>
         ${s.nombre ? `<p class="h3" style="margin-top:12px">${txt(s.nombre, donde + '.nombre')}</p>` : ''}
+        ${s.ciudad ? `<p class="body" style="margin-top:6px;display:flex;align-items:center;gap:8px;color:var(--text)">${s.icono ? icono(s.icono, donde + '.icono') : ''}<span>${txt(s.ciudad, donde + '.ciudad')}</span></p>` : ''}
         ${s.b ? `<p class="lead">${txt(s.b, donde + '.b')}</p>` : ''}
       </div>
       ${foto(s, donde)}${hechos}`
