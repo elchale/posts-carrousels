@@ -753,8 +753,75 @@
       "alt": "Carrusel de futurX con el método de tres pasadas de S. Keshav para leer un artículo científico."
     },
     {
-      "slug": "10-la-ia-te-da-la-razon",
-      "date": "2026-10-10",
+      "slug": "11-masterclass-ayaka-nagai",
+      "date": "2026-10-11",
+      "share": "a: para el que se inscribió y no quiere perderse la primera masterclass",
+      "comment": "ahí estaré",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "Masterclass de la hackathon",
+          "h": "Ayaka Nagai",
+          "b": "Miércoles 14 de octubre, 8:00 p. m.",
+          "photo": "expositora_ayaka_nagai.webp",
+          "foco": "50% 22%",
+          "pais": {
+            "nombre": "Japón",
+            "bandera": "jp"
+          },
+          "credenciales": [
+            {
+              "t": "Estudió en",
+              "v": "Universidad de Waseda"
+            },
+            {
+              "t": "Enseña con",
+              "v": "MIT App Inventor"
+            }
+          ]
+        },
+        {
+          "role": "value",
+          "label": "Hoy",
+          "h": "Chief Policy Officer de IRODORI y directora de Wagamama Lab",
+          "b": "Trabaja con escuelas y gobiernos locales de Japón para que los jóvenes usen la tecnología a su favor."
+        },
+        {
+          "role": "value",
+          "cita": true,
+          "h": "Wagamama: los deseos que nadie dice en voz alta",
+          "b": "Su trabajo parte de esa idea. Busca que se vean las necesidades de quienes casi nunca son escuchados."
+        },
+        {
+          "role": "stat",
+          "label": "Sus programas",
+          "cifra": "740",
+          "rotulo": "apps creadas por jóvenes",
+          "h": "Más de 2000 jóvenes participaron",
+          "b": "En los Japan Wagamama Awards y otros programas de Wagamama Lab."
+        },
+        {
+          "role": "value",
+          "label": "Del aula al MIT",
+          "h": "Acompaña a estudiantes a presentar sus proyectos en el MIT",
+          "b": "Y expuso su trabajo en ISTR 2026, una conferencia académica en Lisboa."
+        },
+        {
+          "role": "closer",
+          "h": "Miércoles 14 de octubre, 8:00 p. m.",
+          "b": "Hora de Perú. A los participantes les enviaremos el enlace de la reunión por correo.",
+          "url": "futurx.pe/hackathon/2026"
+        }
+      ],
+      "caption": {
+        "ig": "La primera masterclass de la hackathon futurX la da Ayaka Nagai, desde Japón. Es el miércoles 14 de octubre a las 8:00 p. m., hora de Perú.\n\nAyaka estudió en la Universidad de Waseda. Es Chief Policy Officer de IRODORI y directora de Wagamama Lab, donde trabaja con escuelas y gobiernos locales para que los jóvenes usen la tecnología a su favor. En sus programas, más de 2000 jóvenes han creado 740 apps, y algunos han llegado a presentar sus proyectos en el MIT.\n\nSi te inscribiste, te enviaremos el enlace de la reunión a tu correo. Revisa también la carpeta de spam.",
+        "tt": "Masterclass con Ayaka Nagai, desde Japón. Miércoles 14 de octubre, 8:00 p. m. hora de Perú. El enlace les llega por correo a los participantes. #hackathon #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX que anuncia la masterclass de Ayaka Nagai, de IRODORI y Wagamama Lab en Japón, el miércoles 14 de octubre a las 8:00 p. m. hora de Perú."
+    },
+    {
+      "slug": "12-a-la-ia-te-da-la-razon",
+      "date": "2026-10-12",
       "share": "b: lo que casi nadie sabe de por qué la IA te sigue la corriente",
       "comment": "me pasa siempre",
       "slides": [
@@ -801,8 +868,8 @@
       "alt": "Carrusel de futurX sobre la tendencia de los asistentes de IA a darle la razón al usuario y cómo pedirles una crítica honesta."
     },
     {
-      "slug": "11-escribe-el-primer-borrador-tu",
-      "date": "2026-10-11",
+      "slug": "12-b-escribe-el-primer-borrador-tu",
+      "date": "2026-10-12",
       "share": "b: un estudio que cambia cómo usas la IA para escribir",
       "comment": "yo empiezo con el chat",
       "slides": [
@@ -839,8 +906,8 @@
       "alt": "Carrusel de futurX sobre un estudio preliminar del MIT Media Lab: escribir primero sin IA ayuda a recordar y sentir propio el texto."
     },
     {
-      "slug": "12-repasa-en-dias-separados",
-      "date": "2026-10-12",
+      "slug": "13-a-repasa-en-dias-separados",
+      "date": "2026-10-13",
       "share": "a: método para copiar y pasar al grupo de estudio",
       "comment": "para anatomía",
       "slides": [
@@ -883,7 +950,7 @@
       "alt": "Carrusel de futurX con tres pasos para hacer tarjetas de repaso con IA y repasarlas en Anki en días separados."
     },
     {
-      "slug": "13-dile-a-la-ia-quien-eres",
+      "slug": "13-b-dile-a-la-ia-quien-eres",
       "date": "2026-10-13",
       "share": "b: una configuración que casi nadie toca",
       "comment": "le puse que soy de enfermería",

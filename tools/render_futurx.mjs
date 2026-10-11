@@ -19,7 +19,8 @@
  *   { "brand": "futurX", "series": "<id>", "format": "futurx", "posts": [ {
  *       "slug", "date"?, "caption": {ig, tt}, "alt",
  *       "slides": [
- *         { "role": "cover",  "kicker"?, "h", "nombre"?, "b"?, "hechos"?: [{t, v}], "photo"?, "pie"?, "foco"?, "sinLogo"?, "ciudad"? },
+ *         { "role": "cover",  "kicker"?, "h", "nombre"?, "b"?, "hechos"?: [{t, v}], "photo"?, "pie"?, "foco"?, "sinLogo"?, "ciudad"?,
+ *           "pais"?: {nombre, bandera}, "credenciales"?: [{t, v}] },
  *         { "role": "value",  "label"?, "h", "b"?, "items"?: [..], "photo"?, "pie"? },
  *         { "role": "value",  "n": 1, "h", "b"?, "items"? }         -> tarjeta de paso
  *         { "role": "value",  "cita": true, "h", "b"? }            -> mensaje clave
@@ -28,6 +29,11 @@
  *       ] } ] }
  *
  *   - "foco": object-position de la foto ("50% 30%"), para no cortar caras.
+ *   - "pais" y/o "credenciales": portada de expositor (fichaExpositor).
+ *     Retrato vertical a la izquierda; a la derecha un circulo con la
+ *     bandera dibujada en SVG (no emoji: el render los corta) y el nombre
+ *     del pais, y los datos que se resaltan (rotulo chico + valor en
+ *     Outfit). "bandera" es una clave de BANDERAS.
  *   - "tono": "banda" | "blanco" fuerza la superficie; si no, portada y cierre van
  *     en blanco y las interiores alternan papel y blanco, como las secciones.
  *   - El cierre NO lleva boton (Carlos, 2026-10-02: "no hacen falta botones en
@@ -86,6 +92,33 @@ const LOGO = fs.readFileSync(path.join(BRAND, brand.logo_svg), 'utf8')
  * la lamina. "Nueva York" se parte en dos lineas para que quede compacto. */
 const sello = (ciudad, donde) =>
   `<span class="sello" style="position:absolute;top:0;right:0;transform:translate(50%,-50%) rotate(10deg);background:var(--color-fx-coral);color:#fff;border:2px solid #fff;border-radius:10px;padding:7px 10px 8px;font-family:var(--font-display);font-weight:700;font-size:16px;line-height:.95;letter-spacing:-0.02em;text-align:center;white-space:nowrap;box-shadow:0 3px 10px rgba(27,45,81,.25)">${txt(ciudad, donde).replace(' ', '<br>')}</span>`
+
+/* Banderas en un circulo de 100 x 100. Solo las que se usan. */
+const BANDERAS = {
+  jp: '<rect width="100" height="100" fill="#fff"/><circle cx="50" cy="50" r="24" fill="#BC002D"/>',
+  pe: '<rect width="100" height="100" fill="#fff"/><rect width="33.4" height="100" fill="#D91023"/><rect x="66.6" width="33.4" height="100" fill="#D91023"/>',
+}
+/* Portada de expositor (Carlos, 2026-10-11): retrato vertical a la
+ * izquierda y, a la derecha, el pais (circulo con la bandera + nombre) y los
+ * dos datos que se resaltan, cada uno con el filete coral de la cita. En
+ * formato ancho la foto quedaba aplastada a una franja de 70 px. */
+function fichaExpositor(s, donde) {
+  const src = path.join(BRAND, 'photos', s.photo ?? '')
+  if (!s.photo || !fs.existsSync(src)) errores.push(`${donde}: la portada de expositor necesita "photo" en photos/`)
+  const dibujo = s.pais ? BANDERAS[s.pais.bandera] : ''
+  if (s.pais && !dibujo) errores.push(`${donde}: no hay bandera "${s.pais.bandera}" en BANDERAS`)
+  const pais = s.pais
+    ? `<p style="display:flex;align-items:center;gap:9px"><svg viewBox="0 0 100 100" width="34" height="34" style="flex:none;border-radius:50%;box-shadow:0 2px 6px rgba(27,45,81,.22)" aria-hidden="true"><clipPath id="c"><circle cx="50" cy="50" r="50"/></clipPath><g clip-path="url(#c)">${dibujo}</g><circle cx="50" cy="50" r="48.5" fill="none" stroke="#d7dbe3" stroke-width="3"/></svg><span style="font-family:var(--font-display);font-weight:700;font-size:19px;letter-spacing:-0.01em;color:var(--text)">${txt(s.pais.nombre, donde + '.pais')}</span></p>`
+    : ''
+  const datos = (s.credenciales ?? [])
+    .map((c, k) => `<div style="border-left:3px solid var(--accent);padding-left:11px"><p class="meta">${txt(c.t, `${donde}.credenciales${k}.t`)}</p><p style="margin-top:2px;font-family:var(--font-display);font-weight:700;font-size:18px;line-height:1.12;letter-spacing:-0.015em;color:var(--text)">${txt(c.v, `${donde}.credenciales${k}.v`)}</p></div>`)
+    .join('')
+  const foco = s.foco ? `;object-position:${esc(String(s.foco))}` : ''
+  return `<div class="llena" style="margin-top:22px;flex-direction:row;gap:16px">
+      <figure style="flex:0 0 47%;display:flex;min-height:0"><img src="${pathToFileURL(src).href}" alt="" style="width:100%;height:100%;object-fit:cover;border-radius:var(--radius-md)${foco}"></figure>
+      <div style="flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:12px">${pais}${datos}</div>
+    </div>`
+}
 
 const MOTIVO = `<svg class="motivo" viewBox="0 0 78 64" aria-hidden="true">
   <polygon fill="var(--color-fx-navy-050)" points="43,2 2,32 43,62 43,45 26,32 43,19"/>
@@ -157,7 +190,7 @@ function lamina(s, i, total, fmt, donde) {
         ${s.nombre ? `<p class="h3" style="margin-top:12px">${txt(s.nombre, donde + '.nombre')}</p>` : ''}
         ${s.b ? `<p class="lead">${txt(s.b, donde + '.b')}</p>` : ''}
       </div>
-      ${foto(s, donde)}${hechos}`
+      ${s.pais || s.credenciales ? fichaExpositor(s, donde) : foto(s, donde)}${hechos}`
   } else if (s.role === 'closer') {
     cuerpo = `<div class="arriba">${LOGO}</div>
       <div class="stack" style="margin:auto 0">
