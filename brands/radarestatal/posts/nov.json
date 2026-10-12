@@ -1,0 +1,106 @@
+{
+  "series": "nov",
+  "brand": "radarestatal",
+  "format": "f1",
+  "posts": [
+    {
+      "slug": "01-diccionario-parte-1",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "oficina-reunion",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Cuatro palabras para hablar como *proveedor del Estado*",
+          "b": "Diccionario mínimo, parte 1. Las del proceso."
+        },
+        {
+          "role": "value",
+          "label": "CONVOCATORIA",
+          "h": "El *anuncio* del proceso",
+          "b": "Con cronograma y bases."
+        },
+        {
+          "role": "value",
+          "label": "BASES",
+          "h": "Las *reglas* del proceso",
+          "b": "Integradas, son las definitivas.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "BUENA PRO",
+          "h": "El acto que *declara al ganador*",
+          "b": "Se publica con su sustento."
+        },
+        {
+          "role": "value",
+          "label": "DESIERTO",
+          "h": "Cuando *no hay* oferta válida",
+          "b": "O nadie ofertó, o nadie firmó.",
+          "photo": "archivo"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» habla este idioma todos los días",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. En el feed ves estas palabras con contexto, gratis.",
+          "img": "shot-feed.png"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo ser proveedor del estado: diccionario mínimo, parte 1, las palabras del proceso. Convocatoria: el anuncio del proceso, con cronograma y bases. Bases: las reglas del proceso, y las bases integradas son las definitivas. Buena pro: el acto que declara al ganador, publicado con su sustento. Desierto: cuando no hay oferta válida, porque nadie ofertó, ninguna cumplió o nadie firmó. Mañana la parte 2. Guárdalo para tu primera lectura de bases. #proveedordelestado #seace",
+        "tt": "Cómo ser proveedor del estado: diccionario mínimo, parte 1. Convocatoria, bases, buena pro y desierto, explicadas en una línea cada una. Mañana la parte 2. ¿Cuál de las cuatro no conocías? #proveedordelestado #seace",
+        "fb": "Diccionario mínimo del proveedor del Estado, parte 1: convocatoria, bases, buena pro y desierto, cada una explicada en una línea."
+      },
+      "alt": "Carrusel diccionario con cuatro términos del proceso de selección del Estado. Parte 1 de 2."
+    },
+    {
+      "slug": "02-diccionario-parte-2",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "documentos",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Cuatro palabras más para hablar como *proveedor del Estado*",
+          "b": "Diccionario mínimo, parte 2. Las que separan al que sabe."
+        },
+        {
+          "role": "value",
+          "label": "PARTICIPANTE",
+          "h": "Se *registró* en el proceso",
+          "b": "Gratis, con RNP. Puede preguntar."
+        },
+        {
+          "role": "value",
+          "label": "POSTOR",
+          "h": "Presentó *oferta*",
+          "b": "Registrarse no obliga a serlo.",
+          "photo": "archivo"
+        },
+        {
+          "role": "value",
+          "label": "CUANTÍA",
+          "h": "El *monto* que calcula la entidad",
+          "b": "Ya no existe el valor referencial."
+        },
+        {
+          "role": "value",
+          "label": "RNP",
+          "h": "Tu *registro* de proveedor",
+          "b": "No vence. Se cae por RUC no habido.",
+          "photo": "oficina-reunion"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te lo dice con las palabras de hoy",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Sin lenguaje de abogado, con los nombres de la ley vigente."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo ser proveedor del estado: diccionario mínimo, parte 2, las palabras que separan al que sabe. Participante: se registró en el proceso, gratis y con RNP, y puede hacer consultas. Postor: presentó oferta, y registrarse no obliga a serlo. Cuantía de la contratación: el monto que calcula la entidad, y con la Ley 32069 ya no existen el valor estimado ni el valor referencial. RNP: tu registro de proveedor, que no vence y se cae por RUC no habido o inhabilitación. ¿Cuál palabra agregarías a la parte 3? #proveedordelestado #rnp",
+        "tt": "Cómo ser proveedor del estado: diccionario mínimo, parte 2. Participante, postor, cuantía y RNP. Ya no existe el valor referencial: hoy es cuantía. ¿Cuál palabra agregarías a la parte 3? #proveedordelestado #rnp",
+        "fb": "Diccionario mínimo del proveedor del Estado, parte 2: participante, postor, cuantía de la contratación y RNP. Con la Ley 32069 los términos valor estimado y valor referencial ya no existen."
+      },
+      "alt": "Carrusel diccionario con cuatro términos que distinguen al proveedor del Estado experimentado, con la corrección de valor referencial a cuantía. Parte 2 de 2."
+    }
+  ]
+}

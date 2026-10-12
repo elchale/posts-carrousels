@@ -299,7 +299,8 @@ async function revisarCaja(page) {
 }
 
 /* ---------------------------------------------------------------- main */
-const posts = datos.posts.filter((p) => !soloSlugs || soloSlugs.includes(p.slug))
+// "render": el post lo dibuja otro script (p. ej. render_futurx_ptw.mjs); aqui se salta.
+const posts = datos.posts.filter((p) => !p.render && (!soloSlugs || soloSlugs.includes(p.slug)))
 const navegador = await chromium.launch()
 const hechos = []
 

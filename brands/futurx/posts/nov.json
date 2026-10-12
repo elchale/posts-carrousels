@@ -1,0 +1,184 @@
+{
+  "brand": "futurX",
+  "series": "nov",
+  "format": "futurx",
+  "posts": [
+    {
+      "slug": "01-la-ia-te-da-la-razon",
+      "date": "2026-11-01",
+      "share": "b: lo que casi nadie sabe de por qué la IA te sigue la corriente",
+      "comment": "me pasa siempre",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "La IA tiende a darte la razón",
+          "b": "Anthropic lo midió en cinco asistentes de IA en 2023."
+        },
+        {
+          "role": "value",
+          "h": "Si le dices que se equivocó, a veces te cree aunque tenía razón",
+          "b": "Y cambia una respuesta correcta por una incorrecta."
+        },
+        {
+          "role": "value",
+          "h": "Si le cuentas que te gusta tu texto, lo critica menos",
+          "b": "Su opinión se acerca a la tuya."
+        },
+        {
+          "role": "value",
+          "label": "Abril de 2025",
+          "h": "OpenAI retiró una versión de ChatGPT por complaciente",
+          "b": "Elogiaba casi cualquier idea. La retiró a los pocos días."
+        },
+        {
+          "role": "value",
+          "label": "Qué hacer",
+          "h": "Cómo pedirle una crítica de verdad",
+          "items": [
+            "No digas qué respuesta esperas",
+            "Pídele los tres puntos más débiles",
+            "Pásale tu trabajo como si fuera de otro"
+          ]
+        },
+        {
+          "role": "closer",
+          "h": "¿Te cambió una respuesta solo porque insististe?"
+        }
+      ],
+      "caption": {
+        "ig": "Por qué ChatGPT y Claude te dan la razón aunque te equivoques, y cómo pedirles una crítica de verdad. ¿Te cambió una respuesta solo porque insististe?",
+        "tt": "La IA tiende a darte la razón. ¿Te pasó? #chatgpt #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX sobre la tendencia de los asistentes de IA a darle la razón al usuario y cómo pedirles una crítica honesta."
+    },
+    {
+      "slug": "02-escribe-el-primer-borrador-tu",
+      "date": "2026-11-02",
+      "share": "b: un estudio que cambia cómo usas la IA para escribir",
+      "comment": "yo empiezo con el chat",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Escribe tu primer borrador sin IA",
+          "b": "Y recién después pídele ayuda."
+        },
+        {
+          "role": "value",
+          "label": "El estudio",
+          "h": "54 universitarios escribieron ensayos con ChatGPT, con Google o solos",
+          "b": "Lo hizo el MIT Media Lab en 2025. Todavía es un estudio preliminar."
+        },
+        {
+          "role": "value",
+          "h": "Los que usaron ChatGPT casi no podían citar su propio ensayo",
+          "b": "Y eran los que menos sentían que el texto era suyo."
+        },
+        {
+          "role": "value",
+          "h": "Los que escribieron solos y después usaron la IA recordaban más",
+          "b": "Primero pensaron ellos. La IA llegó a mejorar algo que ya existía."
+        },
+        {
+          "role": "closer",
+          "h": "¿Tú empiezas con la hoja en blanco o con el chat?"
+        }
+      ],
+      "caption": {
+        "ig": "Usar ChatGPT para escribir ensayos: un estudio preliminar del MIT Media Lab encontró que escribir primero sin IA te deja recordar más tu propio texto. ¿Tú empiezas con la hoja en blanco o con el chat?",
+        "tt": "Escribe tu primer borrador sin IA. ¿Cómo empiezas tú? #universitarios #chatgpt"
+      },
+      "alt": "Carrusel de futurX sobre un estudio preliminar del MIT Media Lab: escribir primero sin IA ayuda a recordar y sentir propio el texto."
+    },
+    {
+      "slug": "03-repasa-en-dias-separados",
+      "date": "2026-11-03",
+      "share": "a: método para copiar y pasar al grupo de estudio",
+      "comment": "para anatomía",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Haz tus tarjetas de repaso con IA y repásalas en días distintos"
+        },
+        {
+          "role": "value",
+          "h": "Repasar en días separados te deja más que una amanecida",
+          "b": "Lo confirmó una revisión de 317 experimentos de Cepeda y otros, en 2006."
+        },
+        {
+          "role": "value",
+          "n": 1,
+          "h": "Pégale tus apuntes y pídele tarjetas",
+          "b": "«Hazme 20 tarjetas de pregunta y respuesta, una idea por tarjeta.»"
+        },
+        {
+          "role": "value",
+          "n": 2,
+          "h": "Revísalas antes de estudiar",
+          "b": "Si una respuesta está mal, la vas a memorizar mal."
+        },
+        {
+          "role": "value",
+          "n": 3,
+          "h": "Pásalas a Anki",
+          "b": "Es gratis en Android y en computadora. Cada vez que aciertas, te la vuelve a mostrar más tarde."
+        },
+        {
+          "role": "closer",
+          "h": "¿Para qué curso las harías primero?"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo hacer tarjetas de repaso o flashcards con IA y estudiar con repetición espaciada en Anki. Guárdalo para tus finales.",
+        "tt": "Tarjetas de repaso con IA y Anki. ¿Para qué curso las harías? #estudiantes #anki"
+      },
+      "alt": "Carrusel de futurX con tres pasos para hacer tarjetas de repaso con IA y repasarlas en Anki en días separados."
+    },
+    {
+      "slug": "04-dile-a-la-ia-quien-eres",
+      "date": "2026-11-04",
+      "share": "b: una configuración que casi nadie toca",
+      "comment": "le puse que soy de enfermería",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Dile a la IA una sola vez qué estudias",
+          "b": "Y deja de explicárselo en cada chat."
+        },
+        {
+          "role": "value",
+          "h": "ChatGPT tiene instrucciones personalizadas",
+          "b": "Le cuentas quién eres y cómo quieres que te responda. Vale para todos tus chats."
+        },
+        {
+          "role": "value",
+          "h": "Claude tiene preferencias en tu perfil",
+          "b": "Están en Configuración y se aplican a cada conversación."
+        },
+        {
+          "role": "value",
+          "label": "Qué poner",
+          "h": "Lo que te conviene contarle",
+          "items": [
+            "Tu carrera y tu ciclo",
+            "Si quieres respuestas cortas o con ejemplos",
+            "Que te avise cuando no está seguro"
+          ]
+        },
+        {
+          "role": "value",
+          "h": "Cámbialas cuando empiece el ciclo",
+          "b": "Si no, te va a seguir respondiendo para los cursos del ciclo pasado."
+        },
+        {
+          "role": "closer",
+          "h": "¿Qué le pondrías tú?"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo configurar las instrucciones personalizadas de ChatGPT y las preferencias de Claude para que te respondan según tu carrera. ¿Qué le pondrías tú?",
+        "tt": "Dile a la IA una sola vez qué estudias. ¿Qué le pondrías? #chatgpt #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX que explica las instrucciones personalizadas de ChatGPT y las preferencias de perfil de Claude."
+    }
+  ]
+}

@@ -1,1601 +1,1517 @@
 {
- "format": "f1",
- "brand": "The Artist Salon",
- "note": "October 2026, EN, US audience. 01 and 02 are artsy posts (facts in ig/RESEARCH-2026-10.md). From 03 on: pure product posts (2 a day 03 to 09, then 1 a day), facts from the live product pages; `src` = product handle. Images: ig/brand/photos (prod-* = Shopify product mockups). No dashes, no prices, no AI, brand only on the closer.",
- "posts": [
-  {
-   "date": "2026-10-01",
-   "slug": "01-dash-epitaph",
-   "src": "1",
-   "series": "Loved in paint",
-   "share": "d+a: tenderness; sent to the dog person in your life",
-   "comment": "Your dog's name",
-   "slides": [
+  "format": "f1",
+  "brand": "The Artist Salon",
+  "note": "October 2026, EN, US audience. 01 and 02 are artsy posts (facts in ig/RESEARCH-2026-10.md). From 03 on: pure product posts (2 a day 03 to 09, then 1 a day), facts from the live product pages; `src` = product handle. Images: ig/brand/photos (prod-* = Shopify product mockups). No dashes, no prices, no AI, brand only on the closer.",
+  "posts": [
     {
-     "role": "cover",
-     "photo": "pd-dash.jpg",
-     "hang": true,
-     "kicker": "Loved in paint",
-     "h": "The words on the grave of Queen Victoria's *dog*"
+      "date": "2026-10-01",
+      "slug": "01-dash-epitaph",
+      "src": "1",
+      "series": "Loved in paint",
+      "share": "d+a: tenderness; sent to the dog person in your life",
+      "comment": "Your dog's name",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "pd-dash.jpg",
+          "hang": true,
+          "kicker": "Loved in paint",
+          "h": "The words on the grave of Queen Victoria's *dog*"
+        },
+        {
+          "role": "value",
+          "label": "Windsor, 1840",
+          "h": "His fidelity without *deceit*",
+          "b": "The last line on the grave of Dash."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "The ones who love us best never *learn our titles*"
+        },
+        {
+          "role": "closer",
+          "photo": "tas-pet-spaniel.jpg",
+          "hang": true,
+          "h": "Every love deserves a *portrait*",
+          "b": "Portraits of the ones you love, made from your photo."
+        }
+      ],
+      "caption": {
+        "ig": "Queen Victoria's dog Dash, painted by Edwin Landseer in 1836. He is buried at Windsor under an epitaph any dog lover would want for their own. What is your dog's name? #arthistory #kingcharlesspaniel",
+        "tt": "Queen Victoria's dog Dash and the epitaph on his grave at Windsor. What is your dog's name? #arthistory"
+      },
+      "alt": "Landseer's 1836 portrait of Dash, Queen Victoria's King Charles spaniel, hung in a thin brass frame on a dark wall."
     },
     {
-     "role": "value",
-     "label": "Windsor, 1840",
-     "h": "His fidelity without *deceit*",
-     "b": "The last line on the grave of Dash."
+      "date": "2026-10-02",
+      "slug": "02-a-custom-pet-portrait",
+      "src": "custom-pet-portrait-framed-canvas",
+      "series": "Made from your photo",
+      "share": "a: for the friend whose dog has a following",
+      "comment": "My dog, obviously",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-custom-pet-portrait-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the friend whose dog has his own *Instagram*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-custom-pet-portrait-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "How it works",
+          "h": "One photo of your *pet*",
+          "b": "Classic oil style, approved by you before print."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Photos scroll away. A portrait stays *on the wall*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-custom-pet-portrait-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "Their best photo, *framed in oils*",
+          "b": "At The Artist Salon, made to order from your photo."
+        }
+      ],
+      "caption": {
+        "ig": "Custom pet portrait from a photo, classic oil style, framed and ready to hang. You send one photo, we email a preview, you ask for changes, and we only print once you approve. Whose dog has the most followers in your life? #petportrait #custompetportrait #dogsofinstagram",
+        "tt": "Custom pet portrait from your photo, classic oil style. Send this to the friend whose dog has his own account. #petportrait #dogtok"
+      },
+      "alt": "A shiba inu painted in classic oil style with a lace collar and green velvet, in a black frame on a white wall."
     },
     {
-     "role": "value",
-     "phrase": true,
-     "h": "The ones who love us best never *learn our titles*"
+      "date": "2026-10-02",
+      "slug": "02-b-last-light-on-the-loch",
+      "src": "last-light-on-the-loch-framed-canvas-highland-dusk",
+      "series": "Wall art",
+      "share": "a: for the friend who never stopped talking about Scotland",
+      "comment": "Isle of Skye",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-last-light-on-the-loch-framed-canvas-highland-dusk-19.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the friend who still talks about her trip to *Scotland*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-last-light-on-the-loch-framed-canvas-highland-dusk-0.jpg",
+          "hang": true,
+          "label": "The painting",
+          "h": "A Highland loch at *dusk*",
+          "b": "Vertical canvas, four frame colors."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "The sun is already behind the mountains. The water *hasn't been told*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-last-light-on-the-loch-framed-canvas-highland-dusk-18.jpg",
+          "hang": true,
+          "h": "A window to the *north*",
+          "b": "Highland Dusk, framed at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Scottish Highlands wall art: a loch at dusk on a framed canvas, part of our Highland Dusk collection. Which trip do you still talk about years later? #scottishhighlands #moodyart #wallart",
+        "tt": "Scottish Highlands framed canvas, a loch at dusk. Send this to the friend who still talks about Scotland. #scotland"
+      },
+      "alt": "A painting of a Highland loch at dusk, mountains on both sides, framed and hung above a white dresser."
     },
     {
-     "role": "closer",
-     "photo": "tas-pet-spaniel.jpg",
-     "hang": true,
-     "h": "Every love deserves a *portrait*",
-     "b": "Portraits of the ones you love, made from your photo."
+      "date": "2026-10-03",
+      "slug": "03-a-together-at-last",
+      "src": "together-at-last-two-pet-portrait-framed-canvas",
+      "series": "Made from your photo",
+      "share": "d: tenderness, the dog you have and the one before",
+      "comment": "Max and Bella",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-together-at-last-two-pet-portrait-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Two pet portrait",
+          "h": "Two dogs who never met, together in *one painting*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-together-at-last-two-pet-portrait-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "Two photos",
+          "h": "From *different years* is fine",
+          "b": "One photo of each pet, painted side by side."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Some of them never shared a room. Now they *share a wall*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-together-at-last-two-pet-portrait-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "The picture no *camera* could take",
+          "b": "Made from your photos at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Two pet portrait from two photos, for the dog you have now and the one who came before. What were their names? #petportrait #petmemorial",
+        "tt": "Two pet portrait for two dogs who never met, painted together from two photos. What were their names? #petmemorial #petportrait"
+      },
+      "alt": "A golden retriever and a black lab painted together on a red velvet sofa in classic oil style, lace collars, framed on a white wall."
+    },
+    {
+      "date": "2026-10-03",
+      "slug": "03-b-royal-crest-sweatshirt",
+      "src": "the-royal-crest-crewneck-sweatshirt",
+      "series": "Wear your pet",
+      "share": "c: this is you and your dog",
+      "comment": "Waffles, obviously",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-royal-crest-crewneck-sweatshirt-11.jpg",
+          "hang": true,
+          "kicker": "Crewneck sweatshirt",
+          "h": "A club with two members: you and your *dog*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-royal-crest-crewneck-sweatshirt-design.jpg",
+          "hang": true,
+          "label": "The crest",
+          "h": "Your pet in a *tiny crown*",
+          "b": "Drawn from your photo, their name on the ribbon."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Every family has a crest. Yours just has *more fur*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-royal-crest-crewneck-sweatshirt-10.jpg",
+          "hang": true,
+          "h": "Their name, *over your heart*",
+          "b": "The Royal Crest, made to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom pet crest sweatshirt: your dog or cat in a tiny crown with their name on the ribbon, drawn to look like embroidery. Which name goes on the ribbon? #dogmom #custompet",
+        "tt": "Custom pet crest sweatshirt with your dog's name, from your photo. Which name goes on the ribbon? #dogmom"
+      },
+      "alt": "A sand colored crewneck sweatshirt with a small crest on the chest: a dog in a crown and royal collar, name on a ribbon."
+    },
+    {
+      "date": "2026-10-04",
+      "slug": "04-a-ancestral-gallery",
+      "src": "the-ancestor-knight-the-ancestral-gallery-framed-canvas",
+      "series": "Made from your photo",
+      "share": "c: which one is your pet",
+      "comment": "The duchess, clearly",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-ancestor-knight-the-ancestral-gallery-framed-canvas-5.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "Your dog as the knight, the duchess and the *scholar*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-ancestor-duchess-the-ancestral-gallery-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "One photo",
+          "h": "Three family *ancestors*",
+          "b": "All three painted from one photo of your pet."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Every house has a founder. In yours it *sheds*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-ancestor-scholar-the-ancestral-gallery-framed-canvas-4.jpg",
+          "hang": true,
+          "h": "Hang the whole *family line*",
+          "b": "The Ancestral Gallery, at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Pet portrait gallery wall: your dog or cat painted as the knight, the duchess and the scholar of the family. Which one is your pet? #petportrait #gallerywall #dogsofinstagram",
+        "tt": "Your pet as three family ancestors, from one photo. Knight, duchess or scholar? #petportrait"
+      },
+      "alt": "A dog painted as a knight in armor with a red sash, classic oil style, framed and hung on a white wall."
+    },
+    {
+      "date": "2026-10-04",
+      "slug": "04-b-coffee-and-dogs-tee",
+      "src": "coffee-and-dogs-comfort-colors-tee",
+      "series": "Wear your pet",
+      "share": "c: coffee person and dog person in one",
+      "comment": "Coffee, always",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-coffee-and-dogs-comfort-colors-tee-8.jpg",
+          "hang": true,
+          "kicker": "Comfort Colors tee",
+          "h": "The tee for people who need coffee before the *dog walk*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-coffee-and-dogs-comfort-colors-tee-0.jpg",
+          "hang": true,
+          "label": "The design",
+          "h": "A puppy in a *coffee mug*",
+          "b": "Garment dyed cotton, soft from the first wash."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Coffee and dogs, the two reasons *mornings exist*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-coffee-and-dogs-comfort-colors-tee-10.jpg",
+          "hang": true,
+          "h": "Two good reasons to *get up*",
+          "b": "Coffee and Dogs, printed to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Dog lover tee with a puppy peeking out of a coffee mug, garment dyed Comfort Colors cotton. Coffee first or walk first? #doglover #coffeeanddogs",
+        "tt": "Coffee and dogs tee, garment dyed Comfort Colors. Coffee first or walk first? #doglover"
+      },
+      "alt": "An ivory tee folded on a linen throw, printed with a puppy peeking over the rim of a steaming coffee mug."
+    },
+    {
+      "date": "2026-10-05",
+      "slug": "05-a-pet-almanac-2027",
+      "src": "the-pet-almanac-2027-wall-calendar",
+      "series": "Made from your photo",
+      "share": "b: twelve portraits from one photo",
+      "comment": "Sea Captain",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-pet-almanac-2027-wall-calendar-4.jpg",
+          "hang": true,
+          "kicker": "2027 wall calendar",
+          "h": "Your pet in a new role every *month* of 2027"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-pet-almanac-2027-wall-calendar-0.jpg",
+          "hang": true,
+          "label": "Twelve roles",
+          "h": "From the *Snow King* to Santa",
+          "b": "Twelve portraits from one photo of your pet."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "A year is kinder with a familiar face on *every page*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-pet-almanac-2027-wall-calendar-7.jpg",
+          "hang": true,
+          "h": "Twelve months of *one face*",
+          "b": "The Pet Almanac, made to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom pet calendar 2027: twelve classic portraits of your pet, a new role every month, all from one photo. Sea Captain or Vampire Count, which one is your pet? #petcalendar #custompet",
+        "tt": "Custom pet calendar 2027, your pet in a new role every month. Sea Captain or Vampire Count? #petcalendar"
+      },
+      "alt": "Pages of a wall calendar laid on a desk, each with a spaniel painted in a different role: a king in ermine, a scholar, a Christmas king."
+    },
+    {
+      "date": "2026-10-05",
+      "slug": "05-b-late-reading",
+      "src": "late-reading-framed-canvas",
+      "series": "Wall art",
+      "share": "c: the reader who forgets to eat",
+      "comment": "Rereading Dune",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-late-reading-framed-canvas-20.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the one who forgets lunch when the book gets *good*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-late-reading-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "Late Reading",
+          "h": "Three books, one *candle*",
+          "b": "And the orange that was supposed to be lunch."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "The best hours are the ones a book *steals from you*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-late-reading-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "A still life for *readers*",
+          "b": "From The Reading Room at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Dark academia wall art: a candlelit still life of old books and an orange, framed canvas for book lovers. What are you reading right now? #darkacademia #booklover #bookstagram",
+        "tt": "Dark academia still life for book lovers, framed canvas. What are you reading right now? #booktok"
+      },
+      "alt": "A dark still life of stacked old books, a lit candle and a peeled orange, framed on a charcoal wall."
+    },
+    {
+      "date": "2026-10-06",
+      "slug": "06-a-crossing-the-alps",
+      "src": "crossing-the-alps-heroic-pet-portrait-framed-canvas",
+      "series": "Made from your photo",
+      "share": "c: the small dog who gives the orders",
+      "comment": "The chihuahua",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-crossing-the-alps-heroic-pet-portrait-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Heroic pet portrait",
+          "h": "For the small dog who thinks he runs the *army*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-crossing-the-alps-heroic-pet-portrait-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "The scene",
+          "h": "A rearing *white horse*",
+          "b": "Cape in the wind, your pet pointing up the mountain."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "The smallest ones always had the *biggest plans*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-crossing-the-alps-heroic-pet-portrait-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "Command of the *living room*",
+          "b": "Made from your photo at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Heroic pet portrait from your photo: your dog as the general crossing the Alps on a rearing white horse, framed canvas. Which dog in your family gives the orders? #petportrait #funnydogs",
+        "tt": "Your dog as the general crossing the Alps, painted from your photo. Which dog gives the orders at home? #petportrait"
+      },
+      "alt": "A small dog painted as a general on a rearing white horse, red cape, stormy mountains, framed on a white wall."
+    },
+    {
+      "date": "2026-10-06",
+      "slug": "06-b-dachshund-tee",
+      "src": "dachshund-comfort-colors-tee",
+      "series": "Wear your pet",
+      "share": "a: for the friend who brings up her dachshund",
+      "comment": "Mini, always",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-dachshund-comfort-colors-tee-10.jpg",
+          "hang": true,
+          "kicker": "Comfort Colors tee",
+          "h": "For the friend who brings up her *dachshund* in every chat"
+        },
+        {
+          "role": "value",
+          "photo": "prod-dachshund-comfort-colors-tee-0.jpg",
+          "hang": true,
+          "label": "The design",
+          "h": "A vintage *engraving*",
+          "b": "A one color dachshund with the breed name below."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Some love is *long and low*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-dachshund-comfort-colors-tee-9.jpg",
+          "hang": true,
+          "h": "Built long, loved *longer*",
+          "b": "Dachshund tee, printed to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Dachshund tee with a vintage engraving, garment dyed Comfort Colors cotton. Send this to the friend who brings up her dachshund in every conversation. #dachshund #doxie",
+        "tt": "Dachshund tee, vintage engraving style. Standard or mini at your house? #dachshund"
+      },
+      "alt": "A butter yellow tee folded on a linen throw, printed with a dachshund drawn as a one color vintage engraving."
+    },
+    {
+      "date": "2026-10-07",
+      "slug": "07-a-winter-charger-horse",
+      "src": "the-winter-charger-custom-horse-portrait-framed-canvas",
+      "series": "Made from your photo",
+      "share": "a: for the friend who lives at the barn",
+      "comment": "Biscuit, his barn name",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-winter-charger-custom-horse-portrait-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Custom horse portrait",
+          "h": "For the friend who spends every weekend at the *barn*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-winter-charger-custom-horse-portrait-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "The photos",
+          "h": "Every *marking*, right",
+          "b": "Both sides of the head, one full body shot."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Some friendships are measured in *hands high*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-winter-charger-custom-horse-portrait-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "Snow, dusk and your *horse*",
+          "b": "The Winter Charger, made at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom horse portrait from your photos: your horse in fresh snow at dusk under a red winter blanket, framed canvas. What is your horse's barn name? #equestrian #horsesofinstagram #horseportrait",
+        "tt": "Custom horse portrait in the snow, made from your photos. What is your horse's barn name? #equestrian #horsetok"
+      },
+      "alt": "A grey horse in a red winter blanket standing in fresh snow at dusk, pine trees behind, framed on a white wall."
+    },
+    {
+      "date": "2026-10-07",
+      "slug": "07-b-night-train",
+      "src": "night-train-framed-canvas",
+      "series": "Wall art",
+      "share": "d+a: for the one who takes the long way home",
+      "comment": "Amtrak, every time",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-night-train-framed-canvas-20.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the one who always takes the long way *home*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-night-train-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "Night Train",
+          "h": "A *desert canyon* after dark",
+          "b": "Painted like the old travel posters."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "One lit window. Somebody in there is *going home*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-night-train-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "Six nights in the *desert*",
+          "b": "Western Nights, framed at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Western wall art: a night train crossing a desert canyon under the moon, vintage travel poster style, framed canvas. Train, car or plane, how do you go home? #westerndecor #desertart",
+        "tt": "Night train over a desert canyon, vintage travel poster style. How do you go home: train, car or plane? #westerndecor"
+      },
+      "alt": "A poster style painting of a steam train crossing a trestle bridge over a red desert canyon at night, framed on a dark wall."
+    },
+    {
+      "date": "2026-10-08",
+      "slug": "08-a-the-ears-sweatshirt",
+      "src": "the-ears-crewneck-sweatshirt",
+      "series": "Wear your pet",
+      "share": "c: you would know those ears anywhere",
+      "comment": "Those corgi ears",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-ears-crewneck-sweatshirt-13.jpg",
+          "hang": true,
+          "kicker": "Crewneck sweatshirt",
+          "h": "Everyone who knows your dog will know these *ears*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-ears-crewneck-sweatshirt-0.jpg",
+          "hang": true,
+          "label": "The design",
+          "h": "Ears, eyes and their *name*",
+          "b": "Painted from your photo, peeking over the edge."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "You'd know them from the *ears alone*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-ears-crewneck-sweatshirt-12.jpg",
+          "hang": true,
+          "h": "Peeking up, *all day*",
+          "b": "The Ears, printed to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom dog ears sweatshirt with your pet's name, painted from your photo. Whose ears would you know anywhere? #custompet #dogmom #corgi",
+        "tt": "Custom dog ears sweatshirt with their name, from your photo. Whose ears would you know anywhere? #dogmom"
+      },
+      "alt": "A brown crewneck sweatshirt folded on a knit throw, printed with a corgi's ears and eyes peeking up under the name Biscuit."
+    },
+    {
+      "date": "2026-10-08",
+      "slug": "08-b-herbarium",
+      "src": "herbarium-framed-canvas",
+      "series": "Wall art",
+      "share": "a: for the friend who names her plants",
+      "comment": "Fourteen and counting",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-herbarium-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the friend who has a name for every *houseplant*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-herbarium-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "Herbarium",
+          "h": "A pressed plant, *a century old*",
+          "b": "Still waiting to be named."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Some things we keep just so we can *keep looking*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-herbarium-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "A study for the *plant people*",
+          "b": "Part of The Reading Room at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Botanical still life wall art: a pressed plant with a magnifying glass and brass scales, dark academia framed canvas. How many plants do you have right now? #plantlover #botanicalart #darkacademia",
+        "tt": "Botanical dark academia still life, framed canvas. How many plants do you have right now? #planttok"
+      },
+      "alt": "A dark still life of a pressed plant specimen on old paper with a magnifying glass and brass scales, framed on a white wall."
+    },
+    {
+      "date": "2026-10-09",
+      "slug": "09-wild-horses",
+      "src": "wild-horses-framed-canvas",
+      "series": "Western Nights",
+      "share": "a: for the friend who wants to quit and move out west",
+      "comment": "Me in 5 years",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-wild-horses-framed-canvas-0.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the friend who keeps saying she'll move *out west*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-wild-horses-framed-canvas-16.jpg",
+          "hang": true,
+          "label": "Western Nights",
+          "h": "A herd running the shallows at *sundown*",
+          "b": "Like an old travel poster."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Nobody owns them. *Nobody ever will*"
+        },
+        {
+          "role": "closer",
+          "photo": "prod-wild-horses-framed-canvas-3.jpg",
+          "hang": true,
+          "h": "A little open country for a *city wall*",
+          "b": "Wild Horses, framed canvas at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Wild horses framed canvas: a herd running through the shallows under a desert sunset, painted in the style of the old western travel posters. Three sizes, four frame colors, made to order. Send this to the friend who keeps threatening to move to Montana. #westerndecor #wildhorses",
+        "tt": "Wild horses at sundown, painted like an old travel poster. Send it to the friend who wants to move out west. #westerndecor"
+      },
+      "alt": "A framed canvas of wild horses galloping through shallow water under an orange desert sunset."
+    },
+    {
+      "date": "2026-10-12",
+      "slug": "12-bootleg-tour-sweatshirt",
+      "src": "the-bootleg-tour-crewneck-sweatshirt",
+      "series": "Wear your pet",
+      "share": "c: your dog is the headliner",
+      "comment": "Gotcha day",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-bootleg-tour-crewneck-sweatshirt-16.jpg",
+          "hang": true,
+          "kicker": "Crewneck sweatshirt",
+          "h": "Your dog, headlining a 90s *world tour*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-bootleg-tour-crewneck-sweatshirt-0.jpg",
+          "hang": true,
+          "label": "The tour dates",
+          "h": "Birthday, *gotcha day*, anything",
+          "b": "Name on top, halftone portrait below."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Every dog is a legend to *one fan*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-bootleg-tour-crewneck-sweatshirt-13.jpg",
+          "hang": true,
+          "h": "The only tour you'd *never miss*",
+          "b": "The Bootleg Tour, made to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom bootleg tour sweatshirt with your dog's face, name and tour dates, like a 90s concert tee. What date goes on your dog's tour? #bootlegtee #dogmom",
+        "tt": "Your dog on a 90s bootleg tour sweatshirt, made from your photo. What date goes on the tour? #dogmom"
+      },
+      "alt": "A forest green crewneck sweatshirt on a knit throw, printed with a crowned dog in a royal cape under the name Biscuit in tour lettering."
+    },
+    {
+      "date": "2026-10-13",
+      "slug": "13-lighthouse-keeper",
+      "src": "the-lighthouse-keeper-heroic-pet-portrait-framed-canvas",
+      "series": "Made from your photo",
+      "share": "c: the dog who checks every door",
+      "comment": "Every single night",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-lighthouse-keeper-heroic-pet-portrait-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Heroic pet portrait",
+          "h": "For the dog who checks every door before *bed*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-lighthouse-keeper-heroic-pet-portrait-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "The scene",
+          "h": "Oilskins and a *lantern*",
+          "b": "Your pet on watch while the storm hits the rocks."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Some of them were born to *keep watch*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-lighthouse-keeper-heroic-pet-portrait-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "The keeper of *your house*",
+          "b": "Painted from your photo at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Heroic pet portrait from your photo: your dog as a lighthouse keeper with a lantern in a storm, framed canvas. Does your dog do the last round of the house too? #petportrait #lighthouse",
+        "tt": "Your dog as a lighthouse keeper in a storm, painted from your photo. Does yours check the doors too? #petportrait"
+      },
+      "alt": "A dog in a yellow oilskin coat holding a lit lantern on storm battered rocks, a lighthouse behind, framed on a white wall."
+    },
+    {
+      "date": "2026-10-14",
+      "slug": "14-the-two-of-them",
+      "src": "the-two-of-them-two-pet-portrait-framed-canvas",
+      "series": "Made from your photo",
+      "share": "c: the dog and cat who pretend to hate each other",
+      "comment": "The cat started it",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-two-of-them-two-pet-portrait-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Two pet portrait",
+          "h": "The dog and the cat who pretend they're not *friends*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-two-of-them-two-pet-portrait-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "How it works",
+          "h": "One *velvet chair*",
+          "b": "One photo of each pet, painted side by side."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Love is sharing the chair and *pretending* you didn't."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-two-of-them-two-pet-portrait-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "Finally sitting *still*, together",
+          "b": "The Two of Them, at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Dog and cat portrait from two photos, painted together on one velvet chair, framed canvas. Who started it, the dog or the cat? #dogandcat #petportrait",
+        "tt": "Dog and cat painted together from two photos. Who started it, the dog or the cat? #dogandcat"
+      },
+      "alt": "A beagle and a tabby cat in dark velvet jackets sitting together on a red chair, classic oil style, framed on a white wall."
+    },
+    {
+      "date": "2026-10-15",
+      "slug": "15-woven-portrait-blanket",
+      "src": "the-portrait-woven-woven-cotton-blanket",
+      "series": "Made from your photo",
+      "share": "a+c: the dog who steals the blanket",
+      "comment": "My side, always",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-portrait-woven-woven-cotton-blanket-0.jpg",
+          "hang": true,
+          "kicker": "Woven cotton blanket",
+          "h": "Your dog's portrait, woven into the blanket he *steals*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-portrait-woven-woven-cotton-blanket-4.jpg",
+          "hang": true,
+          "label": "Woven, not printed",
+          "h": "Soft like a *tapestry*",
+          "b": "Cotton, fringed edges, two sizes."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Home is the spot on the couch they *already took*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-portrait-woven-woven-cotton-blanket-1.jpg",
+          "hang": true,
+          "h": "For the sofa, the bed or the *wall*",
+          "b": "The Portrait, Woven at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom pet blanket: your pet's portrait woven into heavy cotton with fringed edges, made from your photo. Couch or bed, where does your dog sleep? #petblanket #custompet",
+        "tt": "Your pet's portrait woven into a cotton blanket. Couch or bed, where does your dog sleep? #custompet"
+      },
+      "alt": "A woven cotton blanket with fringed edges showing a shiba inu portrait in a lace collar, in soft tapestry tones."
+    },
+    {
+      "date": "2026-10-16",
+      "slug": "16-golden-retriever-tee",
+      "src": "golden-retriever-comfort-colors-tee",
+      "series": "Wear your pet",
+      "share": "a: for the golden owner covered in fur",
+      "comment": "Fur on everything",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-golden-retriever-comfort-colors-tee-13.jpg",
+          "hang": true,
+          "kicker": "Comfort Colors tee",
+          "h": "For the golden retriever owner with fur on every *sweater*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-golden-retriever-comfort-colors-tee-0.jpg",
+          "hang": true,
+          "label": "The design",
+          "h": "A golden in *one color*",
+          "b": "Drawn like a vintage engraving, breed name below."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Gold is a color. Golden is a *personality*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-golden-retriever-comfort-colors-tee-9.jpg",
+          "hang": true,
+          "h": "Wear the *good boy*",
+          "b": "Golden Retriever tee, printed to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Golden retriever tee with a vintage engraving, garment dyed Comfort Colors cotton. Send this to the golden owner who is covered in fur right now. #goldenretriever #goldensofinstagram",
+        "tt": "Golden retriever tee, vintage engraving style. Send this to the golden owner covered in fur. #goldenretriever"
+      },
+      "alt": "A sandstone tee folded on a linen throw, printed with a sitting golden retriever drawn as a vintage engraving."
+    },
+    {
+      "date": "2026-10-17",
+      "slug": "17-champion-of-the-field",
+      "src": "champion-of-the-field-heroic-pet-portrait-framed-canvas",
+      "series": "Made from your photo",
+      "share": "a: for the hunter and his bird dog",
+      "comment": "German shorthair",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-champion-of-the-field-heroic-pet-portrait-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Heroic pet portrait",
+          "h": "For the bird dog who lives for *October*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-champion-of-the-field-heroic-pet-portrait-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "The scene",
+          "h": "On point in a *golden field*",
+          "b": "Painted like the old sporting canvases."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Some dogs were made for *wide open country*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-champion-of-the-field-heroic-pet-portrait-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "The hero of every *season*",
+          "b": "Champion of the Field, at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Hunting dog portrait from your photo: your pointer, setter or lab on point in a golden field under a sky full of birds, framed canvas. What breed hunts with you? #birddog #huntingdog #petportrait",
+        "tt": "Your bird dog on point, painted from your photo like the old sporting canvases. What breed hunts with you? #birddog"
+      },
+      "alt": "A spotted pointer on point in a golden autumn field as pheasants take off, sporting painting style, framed on a white wall."
+    },
+    {
+      "date": "2026-10-18",
+      "slug": "18-sea-stacks-storm-coming",
+      "src": "sea-stacks-storm-coming-framed-canvas-highland-dusk",
+      "series": "Wall art",
+      "share": "c: the one who loves a storm",
+      "comment": "Storm, every time",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-sea-stacks-storm-coming-framed-canvas-highland-dusk-19.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the one who loves a storm more than a *sunny day*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-sea-stacks-storm-coming-framed-canvas-highland-dusk-0.jpg",
+          "hang": true,
+          "label": "Sea Stacks",
+          "h": "A northern coast at *dusk*",
+          "b": "Vertical framed canvas, three sizes."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Some of us feel calmest when the *storm comes*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-sea-stacks-storm-coming-framed-canvas-highland-dusk-18.jpg",
+          "hang": true,
+          "h": "Bring the *weather* inside",
+          "b": "Highland Dusk, made to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Moody coastal wall art: sea stacks under a storm sky, framed canvas from our Highland Dusk collection. Storm or sunshine, which one is yours? #moodyart #coastaldecor #wallart",
+        "tt": "Moody sea stacks under a storm sky, framed canvas. Storm or sunshine, which one is yours? #moodyart"
+      },
+      "alt": "A painting of tall sea stacks off a cliff coast under heavy storm clouds, framed and hung above a white dresser."
+    },
+    {
+      "date": "2026-10-19",
+      "slug": "19-merry-woofmas-sweatshirt",
+      "src": "merry-woofmas-crewneck-sweatshirt",
+      "series": "Wear your pet",
+      "share": "c: everyone will try to borrow it",
+      "comment": "My sister, for sure",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-merry-woofmas-crewneck-sweatshirt-10.jpg",
+          "hang": true,
+          "kicker": "Crewneck sweatshirt",
+          "h": "The Christmas sweatshirt everyone will try to *borrow*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-merry-woofmas-crewneck-sweatshirt-0.jpg",
+          "hang": true,
+          "label": "The design",
+          "h": "Your pet in a *Santa hat*",
+          "b": "Round gold frame, Merry Woofmas underneath."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Christmas starts when the dog *gets a hat*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-merry-woofmas-crewneck-sweatshirt-13.jpg",
+          "hang": true,
+          "h": "Your dog, the *main event*",
+          "b": "Merry Woofmas, made to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom Christmas dog sweatshirt with your pet painted in a Santa hat, made from your photo. Order by December 8 for delivery before the 25th. Who in your family would steal this first? #christmassweater #dogmom",
+        "tt": "Custom Christmas sweatshirt with your pet in a Santa hat. Who in your family would steal it first? #christmas"
+      },
+      "alt": "A maroon crewneck sweatshirt on a knit throw, printed with a dog in a Santa hat inside a round gold frame."
+    },
+    {
+      "date": "2026-10-20",
+      "slug": "20-the-duchess",
+      "src": "the-ancestor-duchess-the-ancestral-gallery-framed-canvas",
+      "series": "Made from your photo",
+      "share": "c: the pet who runs the house",
+      "comment": "The cat, obviously",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-ancestor-duchess-the-ancestral-gallery-framed-canvas-5.jpg",
+          "hang": true,
+          "kicker": "Pet portrait",
+          "h": "For the pet who runs the house and *knows it*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-ancestor-duchess-the-ancestral-gallery-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "The Duchess",
+          "h": "Pearls and a *lace collar*",
+          "b": "Painted from one photo of your pet."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Some were born to rule. Others just *sit like it*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-ancestor-duchess-the-ancestral-gallery-framed-canvas-4.jpg",
+          "hang": true,
+          "h": "Long live *the duchess*",
+          "b": "The Ancestral Gallery, at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Pet portrait as a duchess in pearls and a lace collar, made from your photo, framed canvas. Who really runs your house? #petportrait #catsofinstagram",
+        "tt": "Your pet as a duchess in pearls, painted from your photo. Who really runs your house? #petportrait"
+      },
+      "alt": "A long haired dog painted as a duchess in a black gown, pearls and a white lace collar, framed on a white wall."
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "21-astronomers-desk",
+      "src": "the-astronomers-desk-framed-canvas",
+      "series": "Wall art",
+      "share": "a: for the friend who knows every constellation",
+      "comment": "Orion, every time",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-astronomers-desk-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the friend who knows every *constellation*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-astronomers-desk-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "The scene",
+          "h": "Star charts and a *telescope*",
+          "b": "And the tea he forgot while trying."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Charts of a sky he *never quite reached*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-astronomers-desk-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "For the ones who *look up*",
+          "b": "The Reading Room, framed at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Astronomy wall art: a dark academia still life of star charts and a brass telescope, framed canvas. Send this to the friend who points out Orion every single time. #astronomy #darkacademia",
+        "tt": "Astronomy still life, star charts and a brass telescope on a framed canvas. Which constellation can you find? #astronomy"
+      },
+      "alt": "A dark still life of a brass telescope resting on old star charts by candlelight, framed on a white wall."
+    },
+    {
+      "date": "2026-10-22",
+      "slug": "22-dog-mom-sweatshirt",
+      "src": "dog-mom-crewneck-sweatshirt",
+      "series": "Wear your pet",
+      "share": "c: signs cards from the dog",
+      "comment": "Every single card",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-dog-mom-crewneck-sweatshirt-16.jpg",
+          "hang": true,
+          "kicker": "Crewneck sweatshirt",
+          "h": "For the one who signs cards from the *dog* too"
+        },
+        {
+          "role": "value",
+          "photo": "prod-dog-mom-crewneck-sweatshirt-0.jpg",
+          "hang": true,
+          "label": "The design",
+          "h": "A *paw print* for the O",
+          "b": "Drawn to look like real embroidery."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Love never checked *the species*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-dog-mom-crewneck-sweatshirt-12.jpg",
+          "hang": true,
+          "h": "Signed, *the dog*",
+          "b": "Dog Mom, printed to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Dog mom sweatshirt with a paw print for the O, embroidered look. Do you sign birthday cards from the dog too? #dogmom #dogmomlife",
+        "tt": "Dog mom sweatshirt, paw print for the O. Do you sign cards from the dog too? #dogmom"
+      },
+      "alt": "A forest green crewneck sweatshirt on a knit throw with Dog Mom across the chest and a paw print in place of the O."
+    },
+    {
+      "date": "2026-10-23",
+      "slug": "23-the-knight",
+      "src": "the-knight-heroic-pet-portrait-framed-canvas",
+      "series": "Made from your photo",
+      "share": "c: the dog who guards the house from the mailman",
+      "comment": "The mailman",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-knight-heroic-pet-portrait-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Heroic pet portrait",
+          "h": "The knight who guards your couch from the *mailman*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-knight-heroic-pet-portrait-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "The scene",
+          "h": "*Polished armor*, banner raised",
+          "b": "Your pet on a white charger, from your photo."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Every house needs someone who *guards the door*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-knight-heroic-pet-portrait-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "Knighted for *barking*",
+          "b": "The Knight, painted from your photo at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Knight pet portrait from your photo: your dog in polished armor on a white horse, banner raised, framed canvas. What does your dog protect the house from? #petportrait #funnydogs",
+        "tt": "Your dog as a knight in armor, painted from your photo. What does yours guard the house from? #petportrait"
+      },
+      "alt": "A dog in polished armor riding a rearing white horse with a red banner, a castle behind, framed on a white wall."
+    },
+    {
+      "date": "2026-10-24",
+      "slug": "24-rider-under-the-moon",
+      "src": "rider-under-the-moon-framed-canvas",
+      "series": "Wall art",
+      "share": "c: the cowboy at heart in the city",
+      "comment": "Wyoming, someday",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-rider-under-the-moon-framed-canvas-20.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the cowboy at heart who lives in the *city*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-rider-under-the-moon-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "The rider",
+          "h": "One man, one *horse*",
+          "b": "And a moon too big to argue with."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Some people are only home *out there*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-rider-under-the-moon-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "A little desert for the *wall*",
+          "b": "Western Nights, made to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Western wall art: a lone rider under a full moon in the desert, vintage travel poster style, framed canvas. City or ranch, where did you grow up? #westerndecor #cowboyart",
+        "tt": "A lone rider under a desert moon, vintage poster style framed canvas. City or ranch, where did you grow up? #westerndecor"
+      },
+      "alt": "A poster style painting of a cowboy on horseback on a hill under a huge full moon, saguaros and red mesas around, framed on a dark wall."
+    },
+    {
+      "date": "2026-10-25",
+      "slug": "25-rescue-portrait-canvas",
+      "src": "custom-pet-portrait-canvas-no-frame",
+      "series": "Made from your photo",
+      "share": "d: from shelter dog to royalty",
+      "comment": "Six years ago",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-custom-pet-portrait-canvas-no-frame-4.jpg",
+          "hang": true,
+          "kicker": "Canvas, no frame",
+          "h": "For the rescue who went from shelter dog to *royalty*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-custom-pet-portrait-canvas-no-frame-1.jpg",
+          "hang": true,
+          "label": "No frame",
+          "h": "Wrapped on a *pine stretcher*",
+          "b": "Hanging hardware on the back, ready to hang."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "From the shelter to *the portrait wall*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-custom-pet-portrait-canvas-no-frame-9.jpg",
+          "hang": true,
+          "h": "Royalty by *adoption*",
+          "b": "Painted from your photo at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom pet portrait canvas from your photo, for the rescue dog who made it all the way to royalty. October is Adopt a Shelter Dog Month. How long ago did you adopt yours? #adoptdontshop #rescuedog #petportrait",
+        "tt": "For the rescue who went from shelter dog to royalty, a portrait from your photo. How long ago did you adopt? #rescuedog"
+      },
+      "alt": "A shiba inu painted in classic oil style with a lace collar, on an unframed canvas hung above a white shelf."
+    },
+    {
+      "date": "2026-10-26",
+      "slug": "26-almanac-for-grandparents",
+      "src": "the-pet-almanac-2027-wall-calendar",
+      "series": "Made from your photo",
+      "share": "a: Christmas gift for the grandparents of the dog",
+      "comment": "My mom, definitely",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-pet-almanac-2027-wall-calendar-3.jpg",
+          "hang": true,
+          "kicker": "2027 wall calendar",
+          "h": "For the grandparents who call the dog their *grandchild*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-pet-almanac-2027-wall-calendar-december.jpg",
+          "hang": true,
+          "label": "December 2027",
+          "h": "Santa, painted like a *king*",
+          "b": "One of twelve portraits from one photo."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "The fridge was never big enough for *that much love*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-pet-almanac-2027-wall-calendar-7.jpg",
+          "hang": true,
+          "h": "Grandpup, all *year long*",
+          "b": "The Pet Almanac, made to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom pet calendar 2027 as a Christmas gift for grandparents: twelve portraits of their grandpup from one photo. Order by December 12 for delivery before the 25th. Send this to whoever is buying for grandma this year. #christmasgift #petcalendar",
+        "tt": "Christmas gift for the grandparents of your dog: a 2027 calendar with twelve portraits of their grandpup. #christmasgift"
+      },
+      "alt": "Two pages of a wall calendar on a desk, a spaniel painted as a king in ermine on one and as Santa on a throne on the other."
+    },
+    {
+      "date": "2026-10-27",
+      "slug": "27-the-ears-kids-tee",
+      "src": "the-ears-kids-tee",
+      "series": "Wear your pet",
+      "share": "a: for the kid whose best friend is the dog",
+      "comment": "Pancake, he chose it",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-ears-kids-tee-1.jpg",
+          "hang": true,
+          "kicker": "Kids tee",
+          "h": "For the kid whose best friend is the family *dog*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-ears-kids-tee-0.jpg",
+          "hang": true,
+          "label": "The design",
+          "h": "Their dog's *ears and name*",
+          "b": "From your photo, on a soft cotton kids tee."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "The first best friend has *four legs*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-ears-kids-tee-9.jpg",
+          "hang": true,
+          "h": "Small shirt, *big friendship*",
+          "b": "The Ears in kids sizes, at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Kids tee with the family dog's ears and name, made from your photo. What did your kid name the dog? #dogsandkids #custompet",
+        "tt": "Kids tee with the family dog's ears and name. What did your kid name the dog? #dogsandkids"
+      },
+      "alt": "A black kids tee printed with a corgi's ears and eyes peeking up under the name Biscuit."
+    },
+    {
+      "date": "2026-10-28",
+      "slug": "28-longhorn",
+      "src": "longhorn-framed-canvas",
+      "series": "Wall art",
+      "share": "c: the Texan far from home",
+      "comment": "Austin, born there",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-longhorn-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the Texan who moved away and misses the *big sky*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-longhorn-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "Longhorn",
+          "h": "A skull on a *fence post*",
+          "b": "Desert at sunset, vintage travel poster style."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "The fence outlasted the ranch. The skull *outlasted the fence*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-longhorn-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "Some *Texas* for the wall",
+          "b": "Western Nights, framed at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Longhorn skull wall art, a western desert at sunset in vintage travel poster style, framed canvas. Where are you from originally? #texas #westerndecor",
+        "tt": "Longhorn skull at sunset, vintage poster style framed canvas. Where are you from originally? #texas"
+      },
+      "alt": "A poster style painting of a longhorn skull on a fence post in a red desert at sunset, mesas behind, framed on a white wall."
+    },
+    {
+      "date": "2026-10-29",
+      "slug": "29-black-cat-portrait",
+      "src": "custom-pet-portrait-framed-canvas",
+      "series": "Made from your photo",
+      "share": "c: the black cat who never shows up in photos",
+      "comment": "Pure void",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "tas-pet-black-cat.jpg",
+          "hang": true,
+          "kicker": "Custom pet portrait",
+          "h": "For the black cat who never shows up in *photos*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-custom-pet-portrait-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "The photo",
+          "h": "One clear photo is *enough*",
+          "b": "Well lit, eye level, face and both ears."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Black cats were always made for *oil paint*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-custom-pet-portrait-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "Velvet, pearls and *black fur*",
+          "b": "Painted from your photo at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Black cat portrait from your photo, classic oil style, for Black Cat Day. You approve the preview before we print. What is your black cat's name? #blackcat #blackcatsofinstagram #catportrait",
+        "tt": "Black cat portrait from your photo, classic oil style, for Black Cat Day. What is your black cat's name? #blackcat #cattok"
+      },
+      "alt": "A black cat painted in classic oil style wearing pearls and a green velvet cape, a window behind."
+    },
+    {
+      "date": "2026-10-30",
+      "slug": "30-french-bulldog-tee",
+      "src": "french-bulldog-comfort-colors-tee",
+      "series": "Wear your pet",
+      "share": "c: the frenchie who snores",
+      "comment": "The dog, by far",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-french-bulldog-comfort-colors-tee-7.jpg",
+          "hang": true,
+          "kicker": "Comfort Colors tee",
+          "h": "For the frenchie owner whose dog snores louder than *you*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-french-bulldog-comfort-colors-tee-0.jpg",
+          "hang": true,
+          "label": "The design",
+          "h": "A frenchie, *engraved*",
+          "b": "Garment dyed cotton in five soft colors."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Small dog. *Whole personality*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-french-bulldog-comfort-colors-tee-9.jpg",
+          "hang": true,
+          "h": "Ears up, *always*",
+          "b": "French Bulldog tee, printed to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "French bulldog tee in vintage engraving style, garment dyed Comfort Colors cotton. Who snores louder in your house? #frenchie #frenchbulldog",
+        "tt": "French bulldog tee, vintage engraving style. Who snores louder in your house? #frenchie"
+      },
+      "alt": "An ivory tee folded on a linen throw, printed with a sitting French bulldog drawn as a vintage engraving."
+    },
+    {
+      "date": "2026-10-31",
+      "slug": "31-cat-mom-tee",
+      "src": "cat-mom-comfort-colors-tee",
+      "series": "Wear your pet",
+      "share": "c: the cat mom who apologizes to her cat",
+      "comment": "Stepped on her tail",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-cat-mom-comfort-colors-tee-13.jpg",
+          "hang": true,
+          "kicker": "Comfort Colors tee",
+          "h": "For the one who has said sorry to her *cat* today"
+        },
+        {
+          "role": "value",
+          "photo": "prod-cat-mom-comfort-colors-tee-0.jpg",
+          "hang": true,
+          "label": "The design",
+          "h": "A *cat ear* for the O",
+          "b": "Embroidered look on garment dyed cotton."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Cats don't need us. They *choose us* anyway."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-cat-mom-comfort-colors-tee-9.jpg",
+          "hang": true,
+          "h": "Chosen by a *cat*",
+          "b": "Cat Mom, printed to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Cat mom tee for National Cat Day, with a cat ear for the O, garment dyed Comfort Colors cotton. What did you apologize to your cat for today? #catmom #nationalcatday",
+        "tt": "Cat mom tee for National Cat Day. What did you apologize to your cat for today? #catmom"
+      },
+      "alt": "A moss green tee folded on a linen throw with Cat Mom printed across it, a cat ear shape for the O."
     }
-   ],
-   "caption": {
-    "ig": "Queen Victoria's dog Dash, painted by Edwin Landseer in 1836. He is buried at Windsor under an epitaph any dog lover would want for their own. What is your dog's name? #arthistory #kingcharlesspaniel",
-    "tt": "Queen Victoria's dog Dash and the epitaph on his grave at Windsor. What is your dog's name? #arthistory"
-   },
-   "alt": "Landseer's 1836 portrait of Dash, Queen Victoria's King Charles spaniel, hung in a thin brass frame on a dark wall."
-  },
-  {
-   "date": "2026-10-02",
-   "slug": "02-a-custom-pet-portrait",
-   "src": "custom-pet-portrait-framed-canvas",
-   "series": "Made from your photo",
-   "share": "a: for the friend whose dog has a following",
-   "comment": "My dog, obviously",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-custom-pet-portrait-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the friend whose dog has his own *Instagram*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-custom-pet-portrait-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "How it works",
-     "h": "One photo of your *pet*",
-     "b": "Classic oil style, approved by you before print."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Photos scroll away. A portrait stays *on the wall*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-custom-pet-portrait-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "Their best photo, *framed in oils*",
-     "b": "At The Artist Salon, made to order from your photo."
-    }
-   ],
-   "caption": {
-    "ig": "Custom pet portrait from a photo, classic oil style, framed and ready to hang. You send one photo, we email a preview, you ask for changes, and we only print once you approve. Whose dog has the most followers in your life? #petportrait #custompetportrait #dogsofinstagram",
-    "tt": "Custom pet portrait from your photo, classic oil style. Send this to the friend whose dog has his own account. #petportrait #dogtok"
-   },
-   "alt": "A shiba inu painted in classic oil style with a lace collar and green velvet, in a black frame on a white wall."
-  },
-  {
-   "date": "2026-10-02",
-   "slug": "02-b-last-light-on-the-loch",
-   "src": "last-light-on-the-loch-framed-canvas-highland-dusk",
-   "series": "Wall art",
-   "share": "a: for the friend who never stopped talking about Scotland",
-   "comment": "Isle of Skye",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-last-light-on-the-loch-framed-canvas-highland-dusk-19.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the friend who still talks about her trip to *Scotland*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-last-light-on-the-loch-framed-canvas-highland-dusk-0.jpg",
-     "hang": true,
-     "label": "The painting",
-     "h": "A Highland loch at *dusk*",
-     "b": "Vertical canvas, four frame colors."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "The sun is already behind the mountains. The water *hasn't been told*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-last-light-on-the-loch-framed-canvas-highland-dusk-18.jpg",
-     "hang": true,
-     "h": "A window to the *north*",
-     "b": "Highland Dusk, framed at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Scottish Highlands wall art: a loch at dusk on a framed canvas, part of our Highland Dusk collection. Which trip do you still talk about years later? #scottishhighlands #moodyart #wallart",
-    "tt": "Scottish Highlands framed canvas, a loch at dusk. Send this to the friend who still talks about Scotland. #scotland"
-   },
-   "alt": "A painting of a Highland loch at dusk, mountains on both sides, framed and hung above a white dresser."
-  },
-  {
-   "date": "2026-10-03",
-   "slug": "03-a-together-at-last",
-   "src": "together-at-last-two-pet-portrait-framed-canvas",
-   "series": "Made from your photo",
-   "share": "d: tenderness, the dog you have and the one before",
-   "comment": "Max and Bella",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-together-at-last-two-pet-portrait-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Two pet portrait",
-     "h": "Two dogs who never met, together in *one painting*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-together-at-last-two-pet-portrait-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "Two photos",
-     "h": "From *different years* is fine",
-     "b": "One photo of each pet, painted side by side."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Some of them never shared a room. Now they *share a wall*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-together-at-last-two-pet-portrait-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "The picture no *camera* could take",
-     "b": "Made from your photos at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Two pet portrait from two photos, for the dog you have now and the one who came before. What were their names? #petportrait #petmemorial",
-    "tt": "Two pet portrait for two dogs who never met, painted together from two photos. What were their names? #petmemorial #petportrait"
-   },
-   "alt": "A golden retriever and a black lab painted together on a red velvet sofa in classic oil style, lace collars, framed on a white wall."
-  },
-  {
-   "date": "2026-10-03",
-   "slug": "03-b-royal-crest-sweatshirt",
-   "src": "the-royal-crest-crewneck-sweatshirt",
-   "series": "Wear your pet",
-   "share": "c: this is you and your dog",
-   "comment": "Waffles, obviously",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-royal-crest-crewneck-sweatshirt-11.jpg",
-     "hang": true,
-     "kicker": "Crewneck sweatshirt",
-     "h": "A club with two members: you and your *dog*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-royal-crest-crewneck-sweatshirt-design.jpg",
-     "hang": true,
-     "label": "The crest",
-     "h": "Your pet in a *tiny crown*",
-     "b": "Drawn from your photo, their name on the ribbon."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Every family has a crest. Yours just has *more fur*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-royal-crest-crewneck-sweatshirt-10.jpg",
-     "hang": true,
-     "h": "Their name, *over your heart*",
-     "b": "The Royal Crest, made to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom pet crest sweatshirt: your dog or cat in a tiny crown with their name on the ribbon, drawn to look like embroidery. Which name goes on the ribbon? #dogmom #custompet",
-    "tt": "Custom pet crest sweatshirt with your dog's name, from your photo. Which name goes on the ribbon? #dogmom"
-   },
-   "alt": "A sand colored crewneck sweatshirt with a small crest on the chest: a dog in a crown and royal collar, name on a ribbon."
-  },
-  {
-   "date": "2026-10-04",
-   "slug": "04-a-ancestral-gallery",
-   "src": "the-ancestor-knight-the-ancestral-gallery-framed-canvas",
-   "series": "Made from your photo",
-   "share": "c: which one is your pet",
-   "comment": "The duchess, clearly",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-ancestor-knight-the-ancestral-gallery-framed-canvas-5.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "Your dog as the knight, the duchess and the *scholar*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-ancestor-duchess-the-ancestral-gallery-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "One photo",
-     "h": "Three family *ancestors*",
-     "b": "All three painted from one photo of your pet."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Every house has a founder. In yours it *sheds*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-ancestor-scholar-the-ancestral-gallery-framed-canvas-4.jpg",
-     "hang": true,
-     "h": "Hang the whole *family line*",
-     "b": "The Ancestral Gallery, at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Pet portrait gallery wall: your dog or cat painted as the knight, the duchess and the scholar of the family. Which one is your pet? #petportrait #gallerywall #dogsofinstagram",
-    "tt": "Your pet as three family ancestors, from one photo. Knight, duchess or scholar? #petportrait"
-   },
-   "alt": "A dog painted as a knight in armor with a red sash, classic oil style, framed and hung on a white wall."
-  },
-  {
-   "date": "2026-10-04",
-   "slug": "04-b-coffee-and-dogs-tee",
-   "src": "coffee-and-dogs-comfort-colors-tee",
-   "series": "Wear your pet",
-   "share": "c: coffee person and dog person in one",
-   "comment": "Coffee, always",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-coffee-and-dogs-comfort-colors-tee-8.jpg",
-     "hang": true,
-     "kicker": "Comfort Colors tee",
-     "h": "The tee for people who need coffee before the *dog walk*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-coffee-and-dogs-comfort-colors-tee-0.jpg",
-     "hang": true,
-     "label": "The design",
-     "h": "A puppy in a *coffee mug*",
-     "b": "Garment dyed cotton, soft from the first wash."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Coffee and dogs, the two reasons *mornings exist*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-coffee-and-dogs-comfort-colors-tee-10.jpg",
-     "hang": true,
-     "h": "Two good reasons to *get up*",
-     "b": "Coffee and Dogs, printed to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Dog lover tee with a puppy peeking out of a coffee mug, garment dyed Comfort Colors cotton. Coffee first or walk first? #doglover #coffeeanddogs",
-    "tt": "Coffee and dogs tee, garment dyed Comfort Colors. Coffee first or walk first? #doglover"
-   },
-   "alt": "An ivory tee folded on a linen throw, printed with a puppy peeking over the rim of a steaming coffee mug."
-  },
-  {
-   "date": "2026-10-05",
-   "slug": "05-a-pet-almanac-2027",
-   "src": "the-pet-almanac-2027-wall-calendar",
-   "series": "Made from your photo",
-   "share": "b: twelve portraits from one photo",
-   "comment": "Sea Captain",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-pet-almanac-2027-wall-calendar-4.jpg",
-     "hang": true,
-     "kicker": "2027 wall calendar",
-     "h": "Your pet in a new role every *month* of 2027"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-pet-almanac-2027-wall-calendar-0.jpg",
-     "hang": true,
-     "label": "Twelve roles",
-     "h": "From the *Snow King* to Santa",
-     "b": "Twelve portraits from one photo of your pet."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "A year is kinder with a familiar face on *every page*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-pet-almanac-2027-wall-calendar-7.jpg",
-     "hang": true,
-     "h": "Twelve months of *one face*",
-     "b": "The Pet Almanac, made to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom pet calendar 2027: twelve classic portraits of your pet, a new role every month, all from one photo. Sea Captain or Vampire Count, which one is your pet? #petcalendar #custompet",
-    "tt": "Custom pet calendar 2027, your pet in a new role every month. Sea Captain or Vampire Count? #petcalendar"
-   },
-   "alt": "Pages of a wall calendar laid on a desk, each with a spaniel painted in a different role: a king in ermine, a scholar, a Christmas king."
-  },
-  {
-   "date": "2026-10-05",
-   "slug": "05-b-late-reading",
-   "src": "late-reading-framed-canvas",
-   "series": "Wall art",
-   "share": "c: the reader who forgets to eat",
-   "comment": "Rereading Dune",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-late-reading-framed-canvas-20.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the one who forgets lunch when the book gets *good*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-late-reading-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "Late Reading",
-     "h": "Three books, one *candle*",
-     "b": "And the orange that was supposed to be lunch."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "The best hours are the ones a book *steals from you*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-late-reading-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "A still life for *readers*",
-     "b": "From The Reading Room at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Dark academia wall art: a candlelit still life of old books and an orange, framed canvas for book lovers. What are you reading right now? #darkacademia #booklover #bookstagram",
-    "tt": "Dark academia still life for book lovers, framed canvas. What are you reading right now? #booktok"
-   },
-   "alt": "A dark still life of stacked old books, a lit candle and a peeled orange, framed on a charcoal wall."
-  },
-  {
-   "date": "2026-10-06",
-   "slug": "06-a-crossing-the-alps",
-   "src": "crossing-the-alps-heroic-pet-portrait-framed-canvas",
-   "series": "Made from your photo",
-   "share": "c: the small dog who gives the orders",
-   "comment": "The chihuahua",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-crossing-the-alps-heroic-pet-portrait-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Heroic pet portrait",
-     "h": "For the small dog who thinks he runs the *army*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-crossing-the-alps-heroic-pet-portrait-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "The scene",
-     "h": "A rearing *white horse*",
-     "b": "Cape in the wind, your pet pointing up the mountain."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "The smallest ones always had the *biggest plans*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-crossing-the-alps-heroic-pet-portrait-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "Command of the *living room*",
-     "b": "Made from your photo at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Heroic pet portrait from your photo: your dog as the general crossing the Alps on a rearing white horse, framed canvas. Which dog in your family gives the orders? #petportrait #funnydogs",
-    "tt": "Your dog as the general crossing the Alps, painted from your photo. Which dog gives the orders at home? #petportrait"
-   },
-   "alt": "A small dog painted as a general on a rearing white horse, red cape, stormy mountains, framed on a white wall."
-  },
-  {
-   "date": "2026-10-06",
-   "slug": "06-b-dachshund-tee",
-   "src": "dachshund-comfort-colors-tee",
-   "series": "Wear your pet",
-   "share": "a: for the friend who brings up her dachshund",
-   "comment": "Mini, always",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-dachshund-comfort-colors-tee-10.jpg",
-     "hang": true,
-     "kicker": "Comfort Colors tee",
-     "h": "For the friend who brings up her *dachshund* in every chat"
-    },
-    {
-     "role": "value",
-     "photo": "prod-dachshund-comfort-colors-tee-0.jpg",
-     "hang": true,
-     "label": "The design",
-     "h": "A vintage *engraving*",
-     "b": "A one color dachshund with the breed name below."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Some love is *long and low*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-dachshund-comfort-colors-tee-9.jpg",
-     "hang": true,
-     "h": "Built long, loved *longer*",
-     "b": "Dachshund tee, printed to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Dachshund tee with a vintage engraving, garment dyed Comfort Colors cotton. Send this to the friend who brings up her dachshund in every conversation. #dachshund #doxie",
-    "tt": "Dachshund tee, vintage engraving style. Standard or mini at your house? #dachshund"
-   },
-   "alt": "A butter yellow tee folded on a linen throw, printed with a dachshund drawn as a one color vintage engraving."
-  },
-  {
-   "date": "2026-10-07",
-   "slug": "07-a-winter-charger-horse",
-   "src": "the-winter-charger-custom-horse-portrait-framed-canvas",
-   "series": "Made from your photo",
-   "share": "a: for the friend who lives at the barn",
-   "comment": "Biscuit, his barn name",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-winter-charger-custom-horse-portrait-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Custom horse portrait",
-     "h": "For the friend who spends every weekend at the *barn*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-winter-charger-custom-horse-portrait-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "The photos",
-     "h": "Every *marking*, right",
-     "b": "Both sides of the head, one full body shot."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Some friendships are measured in *hands high*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-winter-charger-custom-horse-portrait-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "Snow, dusk and your *horse*",
-     "b": "The Winter Charger, made at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom horse portrait from your photos: your horse in fresh snow at dusk under a red winter blanket, framed canvas. What is your horse's barn name? #equestrian #horsesofinstagram #horseportrait",
-    "tt": "Custom horse portrait in the snow, made from your photos. What is your horse's barn name? #equestrian #horsetok"
-   },
-   "alt": "A grey horse in a red winter blanket standing in fresh snow at dusk, pine trees behind, framed on a white wall."
-  },
-  {
-   "date": "2026-10-07",
-   "slug": "07-b-night-train",
-   "src": "night-train-framed-canvas",
-   "series": "Wall art",
-   "share": "d+a: for the one who takes the long way home",
-   "comment": "Amtrak, every time",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-night-train-framed-canvas-20.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the one who always takes the long way *home*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-night-train-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "Night Train",
-     "h": "A *desert canyon* after dark",
-     "b": "Painted like the old travel posters."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "One lit window. Somebody in there is *going home*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-night-train-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "Six nights in the *desert*",
-     "b": "Western Nights, framed at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Western wall art: a night train crossing a desert canyon under the moon, vintage travel poster style, framed canvas. Train, car or plane, how do you go home? #westerndecor #desertart",
-    "tt": "Night train over a desert canyon, vintage travel poster style. How do you go home: train, car or plane? #westerndecor"
-   },
-   "alt": "A poster style painting of a steam train crossing a trestle bridge over a red desert canyon at night, framed on a dark wall."
-  },
-  {
-   "date": "2026-10-08",
-   "slug": "08-a-the-ears-sweatshirt",
-   "src": "the-ears-crewneck-sweatshirt",
-   "series": "Wear your pet",
-   "share": "c: you would know those ears anywhere",
-   "comment": "Those corgi ears",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-ears-crewneck-sweatshirt-13.jpg",
-     "hang": true,
-     "kicker": "Crewneck sweatshirt",
-     "h": "Everyone who knows your dog will know these *ears*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-ears-crewneck-sweatshirt-0.jpg",
-     "hang": true,
-     "label": "The design",
-     "h": "Ears, eyes and their *name*",
-     "b": "Painted from your photo, peeking over the edge."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "You'd know them from the *ears alone*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-ears-crewneck-sweatshirt-12.jpg",
-     "hang": true,
-     "h": "Peeking up, *all day*",
-     "b": "The Ears, printed to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom dog ears sweatshirt with your pet's name, painted from your photo. Whose ears would you know anywhere? #custompet #dogmom #corgi",
-    "tt": "Custom dog ears sweatshirt with their name, from your photo. Whose ears would you know anywhere? #dogmom"
-   },
-   "alt": "A brown crewneck sweatshirt folded on a knit throw, printed with a corgi's ears and eyes peeking up under the name Biscuit."
-  },
-  {
-   "date": "2026-10-08",
-   "slug": "08-b-herbarium",
-   "src": "herbarium-framed-canvas",
-   "series": "Wall art",
-   "share": "a: for the friend who names her plants",
-   "comment": "Fourteen and counting",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-herbarium-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the friend who has a name for every *houseplant*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-herbarium-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "Herbarium",
-     "h": "A pressed plant, *a century old*",
-     "b": "Still waiting to be named."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Some things we keep just so we can *keep looking*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-herbarium-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "A study for the *plant people*",
-     "b": "Part of The Reading Room at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Botanical still life wall art: a pressed plant with a magnifying glass and brass scales, dark academia framed canvas. How many plants do you have right now? #plantlover #botanicalart #darkacademia",
-    "tt": "Botanical dark academia still life, framed canvas. How many plants do you have right now? #planttok"
-   },
-   "alt": "A dark still life of a pressed plant specimen on old paper with a magnifying glass and brass scales, framed on a white wall."
-  },
-  {
-   "date": "2026-10-09",
-   "slug": "09-wild-horses",
-   "src": "wild-horses-framed-canvas",
-   "series": "Western Nights",
-   "share": "a: for the friend who wants to quit and move out west",
-   "comment": "Me in 5 years",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-wild-horses-framed-canvas-0.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the friend who keeps saying she'll move *out west*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-wild-horses-framed-canvas-16.jpg",
-     "hang": true,
-     "label": "Western Nights",
-     "h": "A herd running the shallows at *sundown*",
-     "b": "Like an old travel poster."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Nobody owns them. *Nobody ever will*"
-    },
-    {
-     "role": "closer",
-     "photo": "prod-wild-horses-framed-canvas-3.jpg",
-     "hang": true,
-     "h": "A little open country for a *city wall*",
-     "b": "Wild Horses, framed canvas at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Wild horses framed canvas: a herd running through the shallows under a desert sunset, painted in the style of the old western travel posters. Three sizes, four frame colors, made to order. Send this to the friend who keeps threatening to move to Montana. #westerndecor #wildhorses",
-    "tt": "Wild horses at sundown, painted like an old travel poster. Send it to the friend who wants to move out west. #westerndecor"
-   },
-   "alt": "A framed canvas of wild horses galloping through shallow water under an orange desert sunset."
-  },
-  {
-   "date": "2026-10-12",
-   "slug": "12-bootleg-tour-sweatshirt",
-   "src": "the-bootleg-tour-crewneck-sweatshirt",
-   "series": "Wear your pet",
-   "share": "c: your dog is the headliner",
-   "comment": "Gotcha day",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-bootleg-tour-crewneck-sweatshirt-16.jpg",
-     "hang": true,
-     "kicker": "Crewneck sweatshirt",
-     "h": "Your dog, headlining a 90s *world tour*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-bootleg-tour-crewneck-sweatshirt-0.jpg",
-     "hang": true,
-     "label": "The tour dates",
-     "h": "Birthday, *gotcha day*, anything",
-     "b": "Name on top, halftone portrait below."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Every dog is a legend to *one fan*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-bootleg-tour-crewneck-sweatshirt-13.jpg",
-     "hang": true,
-     "h": "The only tour you'd *never miss*",
-     "b": "The Bootleg Tour, made to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom bootleg tour sweatshirt with your dog's face, name and tour dates, like a 90s concert tee. What date goes on your dog's tour? #bootlegtee #dogmom",
-    "tt": "Your dog on a 90s bootleg tour sweatshirt, made from your photo. What date goes on the tour? #dogmom"
-   },
-   "alt": "A forest green crewneck sweatshirt on a knit throw, printed with a crowned dog in a royal cape under the name Biscuit in tour lettering."
-  },
-  {
-   "date": "2026-10-12",
-   "slug": "12-lighthouse-keeper",
-   "src": "the-lighthouse-keeper-heroic-pet-portrait-framed-canvas",
-   "series": "Made from your photo",
-   "share": "c: the dog who checks every door",
-   "comment": "Every single night",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-lighthouse-keeper-heroic-pet-portrait-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Heroic pet portrait",
-     "h": "For the dog who checks every door before *bed*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-lighthouse-keeper-heroic-pet-portrait-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "The scene",
-     "h": "Oilskins and a *lantern*",
-     "b": "Your pet on watch while the storm hits the rocks."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Some of them were born to *keep watch*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-lighthouse-keeper-heroic-pet-portrait-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "The keeper of *your house*",
-     "b": "Painted from your photo at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Heroic pet portrait from your photo: your dog as a lighthouse keeper with a lantern in a storm, framed canvas. Does your dog do the last round of the house too? #petportrait #lighthouse",
-    "tt": "Your dog as a lighthouse keeper in a storm, painted from your photo. Does yours check the doors too? #petportrait"
-   },
-   "alt": "A dog in a yellow oilskin coat holding a lit lantern on storm battered rocks, a lighthouse behind, framed on a white wall."
-  },
-  {
-   "date": "2026-10-12",
-   "slug": "12-the-two-of-them",
-   "src": "the-two-of-them-two-pet-portrait-framed-canvas",
-   "series": "Made from your photo",
-   "share": "c: the dog and cat who pretend to hate each other",
-   "comment": "The cat started it",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-two-of-them-two-pet-portrait-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Two pet portrait",
-     "h": "The dog and the cat who pretend they're not *friends*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-two-of-them-two-pet-portrait-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "How it works",
-     "h": "One *velvet chair*",
-     "b": "One photo of each pet, painted side by side."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Love is sharing the chair and *pretending* you didn't."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-two-of-them-two-pet-portrait-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "Finally sitting *still*, together",
-     "b": "The Two of Them, at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Dog and cat portrait from two photos, painted together on one velvet chair, framed canvas. Who started it, the dog or the cat? #dogandcat #petportrait",
-    "tt": "Dog and cat painted together from two photos. Who started it, the dog or the cat? #dogandcat"
-   },
-   "alt": "A beagle and a tabby cat in dark velvet jackets sitting together on a red chair, classic oil style, framed on a white wall."
-  },
-  {
-   "date": "2026-10-13",
-   "slug": "13-woven-portrait-blanket",
-   "src": "the-portrait-woven-woven-cotton-blanket",
-   "series": "Made from your photo",
-   "share": "a+c: the dog who steals the blanket",
-   "comment": "My side, always",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-portrait-woven-woven-cotton-blanket-0.jpg",
-     "hang": true,
-     "kicker": "Woven cotton blanket",
-     "h": "Your dog's portrait, woven into the blanket he *steals*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-portrait-woven-woven-cotton-blanket-4.jpg",
-     "hang": true,
-     "label": "Woven, not printed",
-     "h": "Soft like a *tapestry*",
-     "b": "Cotton, fringed edges, two sizes."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Home is the spot on the couch they *already took*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-portrait-woven-woven-cotton-blanket-1.jpg",
-     "hang": true,
-     "h": "For the sofa, the bed or the *wall*",
-     "b": "The Portrait, Woven at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom pet blanket: your pet's portrait woven into heavy cotton with fringed edges, made from your photo. Couch or bed, where does your dog sleep? #petblanket #custompet",
-    "tt": "Your pet's portrait woven into a cotton blanket. Couch or bed, where does your dog sleep? #custompet"
-   },
-   "alt": "A woven cotton blanket with fringed edges showing a shiba inu portrait in a lace collar, in soft tapestry tones."
-  },
-  {
-   "date": "2026-10-14",
-   "slug": "14-golden-retriever-tee",
-   "src": "golden-retriever-comfort-colors-tee",
-   "series": "Wear your pet",
-   "share": "a: for the golden owner covered in fur",
-   "comment": "Fur on everything",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-golden-retriever-comfort-colors-tee-13.jpg",
-     "hang": true,
-     "kicker": "Comfort Colors tee",
-     "h": "For the golden retriever owner with fur on every *sweater*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-golden-retriever-comfort-colors-tee-0.jpg",
-     "hang": true,
-     "label": "The design",
-     "h": "A golden in *one color*",
-     "b": "Drawn like a vintage engraving, breed name below."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Gold is a color. Golden is a *personality*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-golden-retriever-comfort-colors-tee-9.jpg",
-     "hang": true,
-     "h": "Wear the *good boy*",
-     "b": "Golden Retriever tee, printed to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Golden retriever tee with a vintage engraving, garment dyed Comfort Colors cotton. Send this to the golden owner who is covered in fur right now. #goldenretriever #goldensofinstagram",
-    "tt": "Golden retriever tee, vintage engraving style. Send this to the golden owner covered in fur. #goldenretriever"
-   },
-   "alt": "A sandstone tee folded on a linen throw, printed with a sitting golden retriever drawn as a vintage engraving."
-  },
-  {
-   "date": "2026-10-15",
-   "slug": "15-champion-of-the-field",
-   "src": "champion-of-the-field-heroic-pet-portrait-framed-canvas",
-   "series": "Made from your photo",
-   "share": "a: for the hunter and his bird dog",
-   "comment": "German shorthair",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-champion-of-the-field-heroic-pet-portrait-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Heroic pet portrait",
-     "h": "For the bird dog who lives for *October*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-champion-of-the-field-heroic-pet-portrait-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "The scene",
-     "h": "On point in a *golden field*",
-     "b": "Painted like the old sporting canvases."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Some dogs were made for *wide open country*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-champion-of-the-field-heroic-pet-portrait-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "The hero of every *season*",
-     "b": "Champion of the Field, at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Hunting dog portrait from your photo: your pointer, setter or lab on point in a golden field under a sky full of birds, framed canvas. What breed hunts with you? #birddog #huntingdog #petportrait",
-    "tt": "Your bird dog on point, painted from your photo like the old sporting canvases. What breed hunts with you? #birddog"
-   },
-   "alt": "A spotted pointer on point in a golden autumn field as pheasants take off, sporting painting style, framed on a white wall."
-  },
-  {
-   "date": "2026-10-16",
-   "slug": "16-sea-stacks-storm-coming",
-   "src": "sea-stacks-storm-coming-framed-canvas-highland-dusk",
-   "series": "Wall art",
-   "share": "c: the one who loves a storm",
-   "comment": "Storm, every time",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-sea-stacks-storm-coming-framed-canvas-highland-dusk-19.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the one who loves a storm more than a *sunny day*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-sea-stacks-storm-coming-framed-canvas-highland-dusk-0.jpg",
-     "hang": true,
-     "label": "Sea Stacks",
-     "h": "A northern coast at *dusk*",
-     "b": "Vertical framed canvas, three sizes."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Some of us feel calmest when the *storm comes*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-sea-stacks-storm-coming-framed-canvas-highland-dusk-18.jpg",
-     "hang": true,
-     "h": "Bring the *weather* inside",
-     "b": "Highland Dusk, made to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Moody coastal wall art: sea stacks under a storm sky, framed canvas from our Highland Dusk collection. Storm or sunshine, which one is yours? #moodyart #coastaldecor #wallart",
-    "tt": "Moody sea stacks under a storm sky, framed canvas. Storm or sunshine, which one is yours? #moodyart"
-   },
-   "alt": "A painting of tall sea stacks off a cliff coast under heavy storm clouds, framed and hung above a white dresser."
-  },
-  {
-   "date": "2026-10-17",
-   "slug": "17-merry-woofmas-sweatshirt",
-   "src": "merry-woofmas-crewneck-sweatshirt",
-   "series": "Wear your pet",
-   "share": "c: everyone will try to borrow it",
-   "comment": "My sister, for sure",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-merry-woofmas-crewneck-sweatshirt-10.jpg",
-     "hang": true,
-     "kicker": "Crewneck sweatshirt",
-     "h": "The Christmas sweatshirt everyone will try to *borrow*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-merry-woofmas-crewneck-sweatshirt-0.jpg",
-     "hang": true,
-     "label": "The design",
-     "h": "Your pet in a *Santa hat*",
-     "b": "Round gold frame, Merry Woofmas underneath."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Christmas starts when the dog *gets a hat*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-merry-woofmas-crewneck-sweatshirt-13.jpg",
-     "hang": true,
-     "h": "Your dog, the *main event*",
-     "b": "Merry Woofmas, made to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom Christmas dog sweatshirt with your pet painted in a Santa hat, made from your photo. Order by December 8 for delivery before the 25th. Who in your family would steal this first? #christmassweater #dogmom",
-    "tt": "Custom Christmas sweatshirt with your pet in a Santa hat. Who in your family would steal it first? #christmas"
-   },
-   "alt": "A maroon crewneck sweatshirt on a knit throw, printed with a dog in a Santa hat inside a round gold frame."
-  },
-  {
-   "date": "2026-10-18",
-   "slug": "18-the-duchess",
-   "src": "the-ancestor-duchess-the-ancestral-gallery-framed-canvas",
-   "series": "Made from your photo",
-   "share": "c: the pet who runs the house",
-   "comment": "The cat, obviously",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-ancestor-duchess-the-ancestral-gallery-framed-canvas-5.jpg",
-     "hang": true,
-     "kicker": "Pet portrait",
-     "h": "For the pet who runs the house and *knows it*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-ancestor-duchess-the-ancestral-gallery-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "The Duchess",
-     "h": "Pearls and a *lace collar*",
-     "b": "Painted from one photo of your pet."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Some were born to rule. Others just *sit like it*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-ancestor-duchess-the-ancestral-gallery-framed-canvas-4.jpg",
-     "hang": true,
-     "h": "Long live *the duchess*",
-     "b": "The Ancestral Gallery, at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Pet portrait as a duchess in pearls and a lace collar, made from your photo, framed canvas. Who really runs your house? #petportrait #catsofinstagram",
-    "tt": "Your pet as a duchess in pearls, painted from your photo. Who really runs your house? #petportrait"
-   },
-   "alt": "A long haired dog painted as a duchess in a black gown, pearls and a white lace collar, framed on a white wall."
-  },
-  {
-   "date": "2026-10-19",
-   "slug": "19-astronomers-desk",
-   "src": "the-astronomers-desk-framed-canvas",
-   "series": "Wall art",
-   "share": "a: for the friend who knows every constellation",
-   "comment": "Orion, every time",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-astronomers-desk-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the friend who knows every *constellation*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-astronomers-desk-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "The scene",
-     "h": "Star charts and a *telescope*",
-     "b": "And the tea he forgot while trying."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Charts of a sky he *never quite reached*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-astronomers-desk-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "For the ones who *look up*",
-     "b": "The Reading Room, framed at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Astronomy wall art: a dark academia still life of star charts and a brass telescope, framed canvas. Send this to the friend who points out Orion every single time. #astronomy #darkacademia",
-    "tt": "Astronomy still life, star charts and a brass telescope on a framed canvas. Which constellation can you find? #astronomy"
-   },
-   "alt": "A dark still life of a brass telescope resting on old star charts by candlelight, framed on a white wall."
-  },
-  {
-   "date": "2026-10-20",
-   "slug": "20-dog-mom-sweatshirt",
-   "src": "dog-mom-crewneck-sweatshirt",
-   "series": "Wear your pet",
-   "share": "c: signs cards from the dog",
-   "comment": "Every single card",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-dog-mom-crewneck-sweatshirt-16.jpg",
-     "hang": true,
-     "kicker": "Crewneck sweatshirt",
-     "h": "For the one who signs cards from the *dog* too"
-    },
-    {
-     "role": "value",
-     "photo": "prod-dog-mom-crewneck-sweatshirt-0.jpg",
-     "hang": true,
-     "label": "The design",
-     "h": "A *paw print* for the O",
-     "b": "Drawn to look like real embroidery."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Love never checked *the species*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-dog-mom-crewneck-sweatshirt-12.jpg",
-     "hang": true,
-     "h": "Signed, *the dog*",
-     "b": "Dog Mom, printed to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Dog mom sweatshirt with a paw print for the O, embroidered look. Do you sign birthday cards from the dog too? #dogmom #dogmomlife",
-    "tt": "Dog mom sweatshirt, paw print for the O. Do you sign cards from the dog too? #dogmom"
-   },
-   "alt": "A forest green crewneck sweatshirt on a knit throw with Dog Mom across the chest and a paw print in place of the O."
-  },
-  {
-   "date": "2026-10-21",
-   "slug": "21-the-knight",
-   "src": "the-knight-heroic-pet-portrait-framed-canvas",
-   "series": "Made from your photo",
-   "share": "c: the dog who guards the house from the mailman",
-   "comment": "The mailman",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-knight-heroic-pet-portrait-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Heroic pet portrait",
-     "h": "The knight who guards your couch from the *mailman*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-knight-heroic-pet-portrait-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "The scene",
-     "h": "*Polished armor*, banner raised",
-     "b": "Your pet on a white charger, from your photo."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Every house needs someone who *guards the door*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-knight-heroic-pet-portrait-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "Knighted for *barking*",
-     "b": "The Knight, painted from your photo at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Knight pet portrait from your photo: your dog in polished armor on a white horse, banner raised, framed canvas. What does your dog protect the house from? #petportrait #funnydogs",
-    "tt": "Your dog as a knight in armor, painted from your photo. What does yours guard the house from? #petportrait"
-   },
-   "alt": "A dog in polished armor riding a rearing white horse with a red banner, a castle behind, framed on a white wall."
-  },
-  {
-   "date": "2026-10-22",
-   "slug": "22-rider-under-the-moon",
-   "src": "rider-under-the-moon-framed-canvas",
-   "series": "Wall art",
-   "share": "c: the cowboy at heart in the city",
-   "comment": "Wyoming, someday",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-rider-under-the-moon-framed-canvas-20.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the cowboy at heart who lives in the *city*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-rider-under-the-moon-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "The rider",
-     "h": "One man, one *horse*",
-     "b": "And a moon too big to argue with."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Some people are only home *out there*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-rider-under-the-moon-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "A little desert for the *wall*",
-     "b": "Western Nights, made to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Western wall art: a lone rider under a full moon in the desert, vintage travel poster style, framed canvas. City or ranch, where did you grow up? #westerndecor #cowboyart",
-    "tt": "A lone rider under a desert moon, vintage poster style framed canvas. City or ranch, where did you grow up? #westerndecor"
-   },
-   "alt": "A poster style painting of a cowboy on horseback on a hill under a huge full moon, saguaros and red mesas around, framed on a dark wall."
-  },
-  {
-   "date": "2026-10-23",
-   "slug": "23-rescue-portrait-canvas",
-   "src": "custom-pet-portrait-canvas-no-frame",
-   "series": "Made from your photo",
-   "share": "d: from shelter dog to royalty",
-   "comment": "Six years ago",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-custom-pet-portrait-canvas-no-frame-4.jpg",
-     "hang": true,
-     "kicker": "Canvas, no frame",
-     "h": "For the rescue who went from shelter dog to *royalty*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-custom-pet-portrait-canvas-no-frame-1.jpg",
-     "hang": true,
-     "label": "No frame",
-     "h": "Wrapped on a *pine stretcher*",
-     "b": "Hanging hardware on the back, ready to hang."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "From the shelter to *the portrait wall*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-custom-pet-portrait-canvas-no-frame-9.jpg",
-     "hang": true,
-     "h": "Royalty by *adoption*",
-     "b": "Painted from your photo at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom pet portrait canvas from your photo, for the rescue dog who made it all the way to royalty. October is Adopt a Shelter Dog Month. How long ago did you adopt yours? #adoptdontshop #rescuedog #petportrait",
-    "tt": "For the rescue who went from shelter dog to royalty, a portrait from your photo. How long ago did you adopt? #rescuedog"
-   },
-   "alt": "A shiba inu painted in classic oil style with a lace collar, on an unframed canvas hung above a white shelf."
-  },
-  {
-   "date": "2026-10-24",
-   "slug": "24-almanac-for-grandparents",
-   "src": "the-pet-almanac-2027-wall-calendar",
-   "series": "Made from your photo",
-   "share": "a: Christmas gift for the grandparents of the dog",
-   "comment": "My mom, definitely",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-pet-almanac-2027-wall-calendar-3.jpg",
-     "hang": true,
-     "kicker": "2027 wall calendar",
-     "h": "For the grandparents who call the dog their *grandchild*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-pet-almanac-2027-wall-calendar-december.jpg",
-     "hang": true,
-     "label": "December 2027",
-     "h": "Santa, painted like a *king*",
-     "b": "One of twelve portraits from one photo."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "The fridge was never big enough for *that much love*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-pet-almanac-2027-wall-calendar-7.jpg",
-     "hang": true,
-     "h": "Grandpup, all *year long*",
-     "b": "The Pet Almanac, made to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom pet calendar 2027 as a Christmas gift for grandparents: twelve portraits of their grandpup from one photo. Order by December 12 for delivery before the 25th. Send this to whoever is buying for grandma this year. #christmasgift #petcalendar",
-    "tt": "Christmas gift for the grandparents of your dog: a 2027 calendar with twelve portraits of their grandpup. #christmasgift"
-   },
-   "alt": "Two pages of a wall calendar on a desk, a spaniel painted as a king in ermine on one and as Santa on a throne on the other."
-  },
-  {
-   "date": "2026-10-25",
-   "slug": "25-the-ears-kids-tee",
-   "src": "the-ears-kids-tee",
-   "series": "Wear your pet",
-   "share": "a: for the kid whose best friend is the dog",
-   "comment": "Pancake, he chose it",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-ears-kids-tee-1.jpg",
-     "hang": true,
-     "kicker": "Kids tee",
-     "h": "For the kid whose best friend is the family *dog*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-ears-kids-tee-0.jpg",
-     "hang": true,
-     "label": "The design",
-     "h": "Their dog's *ears and name*",
-     "b": "From your photo, on a soft cotton kids tee."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "The first best friend has *four legs*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-ears-kids-tee-9.jpg",
-     "hang": true,
-     "h": "Small shirt, *big friendship*",
-     "b": "The Ears in kids sizes, at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Kids tee with the family dog's ears and name, made from your photo. What did your kid name the dog? #dogsandkids #custompet",
-    "tt": "Kids tee with the family dog's ears and name. What did your kid name the dog? #dogsandkids"
-   },
-   "alt": "A black kids tee printed with a corgi's ears and eyes peeking up under the name Biscuit."
-  },
-  {
-   "date": "2026-10-26",
-   "slug": "26-longhorn",
-   "src": "longhorn-framed-canvas",
-   "series": "Wall art",
-   "share": "c: the Texan far from home",
-   "comment": "Austin, born there",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-longhorn-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the Texan who moved away and misses the *big sky*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-longhorn-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "Longhorn",
-     "h": "A skull on a *fence post*",
-     "b": "Desert at sunset, vintage travel poster style."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "The fence outlasted the ranch. The skull *outlasted the fence*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-longhorn-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "Some *Texas* for the wall",
-     "b": "Western Nights, framed at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Longhorn skull wall art, a western desert at sunset in vintage travel poster style, framed canvas. Where are you from originally? #texas #westerndecor",
-    "tt": "Longhorn skull at sunset, vintage poster style framed canvas. Where are you from originally? #texas"
-   },
-   "alt": "A poster style painting of a longhorn skull on a fence post in a red desert at sunset, mesas behind, framed on a white wall."
-  },
-  {
-   "date": "2026-10-27",
-   "slug": "27-black-cat-portrait",
-   "src": "custom-pet-portrait-framed-canvas",
-   "series": "Made from your photo",
-   "share": "c: the black cat who never shows up in photos",
-   "comment": "Pure void",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "tas-pet-black-cat.jpg",
-     "hang": true,
-     "kicker": "Custom pet portrait",
-     "h": "For the black cat who never shows up in *photos*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-custom-pet-portrait-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "The photo",
-     "h": "One clear photo is *enough*",
-     "b": "Well lit, eye level, face and both ears."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Black cats were always made for *oil paint*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-custom-pet-portrait-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "Velvet, pearls and *black fur*",
-     "b": "Painted from your photo at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Black cat portrait from your photo, classic oil style, for Black Cat Day. You approve the preview before we print. What is your black cat's name? #blackcat #blackcatsofinstagram #catportrait",
-    "tt": "Black cat portrait from your photo, classic oil style, for Black Cat Day. What is your black cat's name? #blackcat #cattok"
-   },
-   "alt": "A black cat painted in classic oil style wearing pearls and a green velvet cape, a window behind."
-  },
-  {
-   "date": "2026-10-28",
-   "slug": "28-french-bulldog-tee",
-   "src": "french-bulldog-comfort-colors-tee",
-   "series": "Wear your pet",
-   "share": "c: the frenchie who snores",
-   "comment": "The dog, by far",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-french-bulldog-comfort-colors-tee-7.jpg",
-     "hang": true,
-     "kicker": "Comfort Colors tee",
-     "h": "For the frenchie owner whose dog snores louder than *you*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-french-bulldog-comfort-colors-tee-0.jpg",
-     "hang": true,
-     "label": "The design",
-     "h": "A frenchie, *engraved*",
-     "b": "Garment dyed cotton in five soft colors."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Small dog. *Whole personality*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-french-bulldog-comfort-colors-tee-9.jpg",
-     "hang": true,
-     "h": "Ears up, *always*",
-     "b": "French Bulldog tee, printed to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "French bulldog tee in vintage engraving style, garment dyed Comfort Colors cotton. Who snores louder in your house? #frenchie #frenchbulldog",
-    "tt": "French bulldog tee, vintage engraving style. Who snores louder in your house? #frenchie"
-   },
-   "alt": "An ivory tee folded on a linen throw, printed with a sitting French bulldog drawn as a vintage engraving."
-  },
-  {
-   "date": "2026-10-29",
-   "slug": "29-cat-mom-tee",
-   "src": "cat-mom-comfort-colors-tee",
-   "series": "Wear your pet",
-   "share": "c: the cat mom who apologizes to her cat",
-   "comment": "Stepped on her tail",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-cat-mom-comfort-colors-tee-13.jpg",
-     "hang": true,
-     "kicker": "Comfort Colors tee",
-     "h": "For the one who has said sorry to her *cat* today"
-    },
-    {
-     "role": "value",
-     "photo": "prod-cat-mom-comfort-colors-tee-0.jpg",
-     "hang": true,
-     "label": "The design",
-     "h": "A *cat ear* for the O",
-     "b": "Embroidered look on garment dyed cotton."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Cats don't need us. They *choose us* anyway."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-cat-mom-comfort-colors-tee-9.jpg",
-     "hang": true,
-     "h": "Chosen by a *cat*",
-     "b": "Cat Mom, printed to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Cat mom tee for National Cat Day, with a cat ear for the O, garment dyed Comfort Colors cotton. What did you apologize to your cat for today? #catmom #nationalcatday",
-    "tt": "Cat mom tee for National Cat Day. What did you apologize to your cat for today? #catmom"
-   },
-   "alt": "A moss green tee folded on a linen throw with Cat Mom printed across it, a cat ear shape for the O."
-  },
-  {
-   "date": "2026-10-30",
-   "slug": "30-almanac-vampire-count",
-   "src": "the-pet-almanac-2027-wall-calendar",
-   "series": "Made from your photo",
-   "share": "b+c: your dog as the Vampire Count",
-   "comment": "The cat, easily",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-the-pet-almanac-2027-wall-calendar-october.jpg",
-     "hang": true,
-     "kicker": "2027 wall calendar",
-     "h": "Next October, your dog is the *Vampire Count*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-the-pet-almanac-2027-wall-calendar-5.jpg",
-     "hang": true,
-     "label": "The calendar",
-     "h": "A wall calendar for *2027*",
-     "b": "Twelve roles, all painted from one photo."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Even the sweetest ones have a *dark side*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-the-pet-almanac-2027-wall-calendar-0.jpg",
-     "hang": true,
-     "h": "Eleven more roles *after this one*",
-     "b": "The Pet Almanac, made to order at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Custom pet calendar 2027: in October your pet becomes the Vampire Count, one of twelve roles painted from one photo. Which pet in your house would be the vampire? #halloweendog #petcalendar",
-    "tt": "In the 2027 Pet Almanac, October is the Vampire Count. Which pet in your house would be the vampire? #halloween"
-   },
-   "alt": "A spaniel painted as a vampire count in a black and red cape, candles and a castle under a full moon behind."
-  },
-  {
-   "date": "2026-10-31",
-   "slug": "31-memento",
-   "src": "memento-framed-canvas",
-   "series": "Wall art",
-   "share": "c: the friend who keeps Halloween all year",
-   "comment": "Skeleton stays up",
-   "slides": [
-    {
-     "role": "cover",
-     "photo": "prod-memento-framed-canvas-19.jpg",
-     "hang": true,
-     "kicker": "Framed canvas",
-     "h": "For the friend who keeps Halloween up all *year*"
-    },
-    {
-     "role": "value",
-     "photo": "prod-memento-framed-canvas-0.jpg",
-     "hang": true,
-     "label": "Memento",
-     "h": "Roses, a skull and *ink*",
-     "b": "A candlelit still life, framed and ready to hang."
-    },
-    {
-     "role": "value",
-     "phrase": true,
-     "h": "Everything on this table is *patient*."
-    },
-    {
-     "role": "closer",
-     "photo": "prod-memento-framed-canvas-18.jpg",
-     "hang": true,
-     "h": "A little dark, *on purpose*",
-     "b": "The Reading Room, at The Artist Salon."
-    }
-   ],
-   "caption": {
-    "ig": "Gothic still life wall art with a skull, dried roses and an open book, dark academia framed canvas. Do you keep any Halloween decor up all year? #darkacademia #gothicdecor #halloween",
-    "tt": "Gothic still life with a skull and roses, framed canvas. Do you keep any Halloween decor up all year? #gothictok"
-   },
-   "alt": "A dark still life of an open old book, a skull, dried roses and a quill, framed on a white wall."
-  }
- ]
+  ]
 }

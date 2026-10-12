@@ -8,7 +8,9 @@
  * colores y la tipografia de futurX: navy de fondo, coral como unico acento,
  * Outfit. Todo es SVG y CSS, sin imagenes generadas.
  *
- * Uso: node tools/render_futurx_ptw.mjs <salida.jpg>
+ * Uso: node tools/render_futurx_ptw.mjs <carpeta del post>
+ *   escribe ig/01.jpg (1080x1350), tt/01.jpg (1080x1920) y captions.txt (del
+ *   post 12-d de posts/oct.json). render_futurx.mjs salta ese post ("render").
  */
 import fs from 'node:fs'
 import os from 'node:os'
@@ -19,19 +21,19 @@ import { chromium } from 'playwright'
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const BRAND = path.join(ROOT, 'brands', 'futurx')
 const FONTS = pathToFileURL(path.resolve(ROOT, '..', 'shared', 'fonts')).href
-const [salida] = process.argv.slice(2)
-if (!salida) {
-  console.error('uso: node tools/render_futurx_ptw.mjs <salida.jpg>')
+const [carpeta] = process.argv.slice(2)
+if (!carpeta) {
+  console.error('uso: node tools/render_futurx_ptw.mjs <carpeta del post>')
   process.exit(1)
 }
 
 const W = 360
-const H = 450
 const url = (f) => pathToFileURL(path.join(BRAND, f)).href
 // Logo de futurX en blanco: el navy pasa a blanco, la X sigue coral.
 const logo = fs.readFileSync(path.join(BRAND, 'logo.svg'), 'utf8').replace(/#1B2D51/gi, '#FFFFFF')
 const logoSrc = 'data:image/svg+xml;base64,' + Buffer.from(logo).toString('base64')
 
+function pagina(H) {
 // Ciudad: edificios con alturas fijas (aleatorio con semilla para que no
 // cambie entre renders) y una red de nodos que une algunas azoteas.
 let semilla = 7
@@ -44,7 +46,7 @@ while (x < W + 4) {
   edificios.push({ x, w, h })
   x += w + 1.5
 }
-const BASE = 392
+const BASE = H - 58
 const ciudad = edificios
   .map((e, k) => {
     const ventanas = []
@@ -74,14 +76,14 @@ body { width: ${W}px; height: ${H}px; overflow: hidden; background: #0A1428; fon
   transform: perspective(160px) rotateX(62deg);
   background-image: linear-gradient(rgba(234,80,70,.55) 1px, transparent 1px), linear-gradient(90deg, rgba(234,80,70,.55) 1px, transparent 1px);
   background-size: 22px 22px; -webkit-mask-image: linear-gradient(to bottom, #000 0%, transparent 85%); }
-.halo { position: absolute; left: 0; right: 0; top: 270px; height: 130px;
+.halo { position: absolute; left: 0; right: 0; top: ${BASE - 122}px; height: 130px;
   background: radial-gradient(70% 100% at 65% 100%, rgba(234,80,70,.75), rgba(234,80,70,.15) 55%, transparent 75%); filter: blur(8px); }
 .contenido { position: absolute; inset: 0; padding: 28px 28px 0; }
 .arriba { display: flex; align-items: center; justify-content: space-between; }
 .arriba img.fx { height: 26px; }
 .arriba img.ptw { height: 22px; filter: brightness(0) invert(1); }
 .kicker { margin-top: 0; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: #FF8A7A; font-weight: 600; }
-h1 { margin-top: 40px; font-family: "Outfit", sans-serif; font-weight: 700; font-size: 31px; line-height: 1.06; letter-spacing: -0.025em;
+h1 { margin-top: ${40 + Math.round((H - 450) * 0.42)}px; font-family: "Outfit", sans-serif; font-weight: 700; font-size: 31px; line-height: 1.06; letter-spacing: -0.025em;
   text-shadow: 0 0 18px rgba(234,80,70,.35); }
 .ficha { margin-top: 26px; display: flex; align-items: center; gap: 14px; }
 .retrato { width: 92px; height: 92px; border-radius: 50%; flex: none; padding: 3px;
@@ -122,15 +124,35 @@ h1 { margin-top: 40px; font-family: "Outfit", sans-serif; font-weight: 700; font
     </div>
   </div>
 </div></body></html>`
+return html
+}
 
+const SLUG = path.basename(path.resolve(carpeta))
+const post = JSON.parse(fs.readFileSync(path.join(BRAND, 'posts', 'oct.json'), 'utf8')).posts.find((p) => p.slug === SLUG)
+if (!post) {
+  console.error(`no hay post "${SLUG}" en posts/oct.json`)
+  process.exit(1)
+}
 const navegador = await chromium.launch()
-const pagina = await navegador.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 3 })
-// Desde un archivo: con setContent la pagina es about:blank y no carga file://.
-const tmp = path.join(os.tmpdir(), 'futurx_ptw.html')
-fs.writeFileSync(tmp, html)
-await pagina.goto(pathToFileURL(tmp).href, { waitUntil: 'load' })
-await pagina.evaluate(() => document.fonts.ready)
-fs.mkdirSync(path.dirname(path.resolve(salida)), { recursive: true })
-await pagina.screenshot({ path: salida, type: 'jpeg', quality: 92 })
+for (const [fmt, H] of [['ig', 450], ['tt', 640]]) {
+  const pag = await navegador.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 3 })
+  // Desde un archivo: con setContent la pagina es about:blank y no carga file://.
+  const tmp = path.join(os.tmpdir(), 'futurx_ptw.html')
+  fs.writeFileSync(tmp, pagina(H))
+  await pag.goto(pathToFileURL(tmp).href, { waitUntil: 'load' })
+  await pag.evaluate(() => document.fonts.ready)
+  fs.mkdirSync(path.join(carpeta, fmt), { recursive: true })
+  await pag.screenshot({ path: path.join(carpeta, fmt, '01.jpg'), type: 'jpeg', quality: 92 })
+  await pag.close()
+}
 await navegador.close()
-console.log('listo:', salida)
+fs.writeFileSync(path.join(carpeta, 'captions.txt'), `== IG ==
+${post.caption.ig}
+
+== TT ==
+${post.caption.tt}
+
+== ALT ==
+${post.alt}
+`)
+console.log('listo:', carpeta)

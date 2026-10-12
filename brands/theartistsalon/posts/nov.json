@@ -1,0 +1,90 @@
+{
+  "format": "f1",
+  "brand": "The Artist Salon",
+  "posts": [
+    {
+      "date": "2026-11-01",
+      "slug": "01-almanac-vampire-count",
+      "src": "the-pet-almanac-2027-wall-calendar",
+      "series": "Made from your photo",
+      "share": "b+c: your dog as the Vampire Count",
+      "comment": "The cat, easily",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-pet-almanac-2027-wall-calendar-october.jpg",
+          "hang": true,
+          "kicker": "2027 wall calendar",
+          "h": "Next October, your dog is the *Vampire Count*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-the-pet-almanac-2027-wall-calendar-5.jpg",
+          "hang": true,
+          "label": "The calendar",
+          "h": "A wall calendar for *2027*",
+          "b": "Twelve roles, all painted from one photo."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Even the sweetest ones have a *dark side*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-pet-almanac-2027-wall-calendar-0.jpg",
+          "hang": true,
+          "h": "Eleven more roles *after this one*",
+          "b": "The Pet Almanac, made to order at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Custom pet calendar 2027: in October your pet becomes the Vampire Count, one of twelve roles painted from one photo. Which pet in your house would be the vampire? #halloweendog #petcalendar",
+        "tt": "In the 2027 Pet Almanac, October is the Vampire Count. Which pet in your house would be the vampire? #halloween"
+      },
+      "alt": "A spaniel painted as a vampire count in a black and red cape, candles and a castle under a full moon behind."
+    },
+    {
+      "date": "2026-11-02",
+      "slug": "02-memento",
+      "src": "memento-framed-canvas",
+      "series": "Wall art",
+      "share": "c: the friend who keeps Halloween all year",
+      "comment": "Skeleton stays up",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-memento-framed-canvas-19.jpg",
+          "hang": true,
+          "kicker": "Framed canvas",
+          "h": "For the friend who keeps Halloween up all *year*"
+        },
+        {
+          "role": "value",
+          "photo": "prod-memento-framed-canvas-0.jpg",
+          "hang": true,
+          "label": "Memento",
+          "h": "Roses, a skull and *ink*",
+          "b": "A candlelit still life, framed and ready to hang."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Everything on this table is *patient*."
+        },
+        {
+          "role": "closer",
+          "photo": "prod-memento-framed-canvas-18.jpg",
+          "hang": true,
+          "h": "A little dark, *on purpose*",
+          "b": "The Reading Room, at The Artist Salon."
+        }
+      ],
+      "caption": {
+        "ig": "Gothic still life wall art with a skull, dried roses and an open book, dark academia framed canvas. Do you keep any Halloween decor up all year? #darkacademia #gothicdecor #halloween",
+        "tt": "Gothic still life with a skull and roses, framed canvas. Do you keep any Halloween decor up all year? #gothictok"
+      },
+      "alt": "A dark still life of an open old book, a skull, dried roses and a quill, framed on a white wall."
+    }
+  ]
+}

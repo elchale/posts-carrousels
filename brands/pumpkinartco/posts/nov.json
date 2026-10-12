@@ -1,0 +1,88 @@
+{
+  "format": "f1",
+  "brand": "Pumpkin Art Co",
+  "posts": [
+    {
+      "date": "2026-11-01",
+      "slug": "01-coven-sisters",
+      "series": "Painted into Halloween",
+      "share": "a: for the sister",
+      "comment": "Sis we need this",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-the-coven-custom-halloween-portrait-from-1.jpg",
+          "hang": true,
+          "kicker": "Framed canvas portrait",
+          "h": "You and your sister, as the witches you *always were*"
+        },
+        {
+          "role": "value",
+          "photo": "art-coven.jpg",
+          "hang": true,
+          "label": "From your photo",
+          "h": "Two witches, one cauldron, a lot of *history*",
+          "b": "You approve the preview first."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Sisters are the first *coven* you ever join"
+        },
+        {
+          "role": "closer",
+          "photo": "prod-the-coven-custom-halloween-portrait-from-3.jpg",
+          "hang": true,
+          "h": "For the hallway, *not the closet*",
+          "b": "The Coven, by Pumpkin Art Co."
+        }
+      ],
+      "caption": {
+        "ig": "The Coven portrait: you and your sister, your mom or your best friend painted as witches from your photo, printed as a framed canvas. It hangs past Halloween. Send this to your sister. #sistergift #witchyvibes",
+        "tt": "You and your sister painted as witches. Send it to her. #sistergift"
+      },
+      "alt": "A framed canvas of two painted witches leaning over a glowing green cauldron."
+    },
+    {
+      "date": "2026-11-02",
+      "slug": "02-this-is-my-costume",
+      "series": "For the one who won't dress up",
+      "share": "c: Halloween day joke",
+      "comment": "Every year",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "prod-this-is-my-costume-soft-cotton-tee-1.jpg",
+          "hang": true,
+          "kicker": "Happy Halloween",
+          "h": "Halloween is today and you still have *no costume*"
+        },
+        {
+          "role": "value",
+          "photo": "art-this_is_my_costume.jpg",
+          "hang": true,
+          "label": "The shirt for today",
+          "h": "It says This Is My *Costume*",
+          "b": "Wear it now, wear it next year."
+        },
+        {
+          "role": "value",
+          "phrase": true,
+          "h": "Happy Halloween to everyone dressed as *themselves*"
+        },
+        {
+          "role": "closer",
+          "photo": "prod-this-is-my-costume-crewneck-sweatshirt-1.jpg",
+          "hang": true,
+          "h": "See you next *October*",
+          "b": "Pumpkin Art Co."
+        }
+      ],
+      "caption": {
+        "ig": "Happy Halloween from Pumpkin Art Co. If you are reading this with no costume, you are among friends: This Is My Costume, the shirt for people who show up as themselves. What are you dressed as tonight? #happyhalloween #halloween",
+        "tt": "Happy Halloween. What are you dressed as tonight? #happyhalloween"
+      },
+      "alt": "Retro orange text reading This Is My Costume over a pumpkin wearing sunglasses."
+    }
+  ]
+}

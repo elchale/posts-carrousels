@@ -1,0 +1,102 @@
+{
+  "series": "nov",
+  "brand": "qolca",
+  "format": "f1",
+  "posts": [
+    {
+      "slug": "01-cuenta-los-hola-informacion",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "celular-noche",
+          "h": "Abre tu WhatsApp y cuenta los *«hola, información»* sin responder"
+        },
+        {
+          "role": "value",
+          "label": "AHORA",
+          "h": "Busca *«información»*",
+          "b": "La lupa del WhatsApp. Cuenta los sin respuesta."
+        },
+        {
+          "role": "value",
+          "label": "ESE NÚMERO",
+          "h": "Es lo que *ya pagaste*",
+          "b": "Cada uno vino de un post o de un anuncio.",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "HOY",
+          "h": "Escríbeles *sin excusa*",
+          "b": "«Recién te leo, disculpa. ¿Aún lo necesitas?»"
+        },
+        {
+          "role": "value",
+          "label": "MAÑANA",
+          "h": "Que *ninguno* quede sin dueño",
+          "b": "Cada «hola» con quién contesta y cuándo.",
+          "photo": "mostrador"
+        },
+        {
+          "role": "closer",
+          "h": "Los «hola, información» *ya no se acumulan*",
+          "b": "Escríbeme PRUEBA por DM y cada mensaje que ya pagaste entra con respuesta y con dueño."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo saber cuántas ventas se me están cayendo en WhatsApp este mes. Busca «información» en la lupa y cuenta los que quedaron sin respuesta: cada uno vino de un post o de un anuncio que ya pagaste. Hoy les escribes «recién te leo, disculpa, ¿aún lo necesitas?» y desde mañana ninguno queda sin dueño. ¿Cuántos contaste? Escríbeme PRUEBA por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Abre tu WhatsApp, busca «información» y cuenta los que quedaron sin respuesta. Ese número es lo que ya pagaste. ¿Cuántos contaste? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+        "fb": "Busca «información» en la lupa de tu WhatsApp y cuenta los que quedaron sin respuesta. Cada uno vino de un post o de un anuncio que ya pagaste. ¿Cuántos contaste?"
+      },
+      "alt": "Celular de noche con la búsqueda de WhatsApp abierta y el titular sobre contar los hola información sin responder."
+    },
+    {
+      "slug": "02-cobra-el-fin-de-mes-sin-pelear",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "mostrador",
+          "kicker": "FIN DE MES",
+          "h": "Cobra el fin de mes sin pelear: *el recordatorio va antes*"
+        },
+        {
+          "role": "value",
+          "label": "ANTES",
+          "h": "Tres días *antes*",
+          "b": "«El viernes vence lo tuyo. ¿Te mando el número?»"
+        },
+        {
+          "role": "value",
+          "label": "EL DÍA",
+          "h": "Sin *reproche*",
+          "b": "«Hoy vence. Con la captura te confirmo al toque»",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "SI NO PAGA",
+          "h": "Termina con *fecha nueva*",
+          "b": "«¿El lunes te queda bien?» y lo apuntas."
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Cobrar es una *secuencia*",
+          "b": "No un impulso cuando te acuerdas.",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "closer",
+          "h": "El recordatorio *sale antes* sin que te acuerdes",
+          "b": "Escríbeme FUGA por DM y armamos tu cobranza: antes, el día y la fecha nueva, solos."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo cobrar a clientes a fin de mes sin pelear. El recordatorio va tres días antes («el viernes vence lo tuyo, ¿te mando el número?»), el día sin reproche («hoy vence, con la captura te confirmo al toque») y si no paga termina con fecha nueva apuntada. Cobrar es una secuencia, no un impulso cuando te acuerdas. ¿Cobras antes o después? Escríbeme FUGA por DM. #negociopropio #emprendedoresperu",
+        "tt": "Cobra el fin de mes sin pelear: recordatorio tres días antes, el día sin reproche, y si no paga, fecha nueva. Cobrar es una secuencia. ¿Cobras antes o después? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "Cobrar es una secuencia, no un impulso cuando te acuerdas: tres días antes, el día, y una fecha nueva si no paga. Ninguno de los tres mensajes pelea. ¿Cobras antes o después?"
+      },
+      "alt": "Mostrador de negocio a fin de mes con el titular sobre cobrar sin pelear porque el recordatorio va antes."
+    }
+  ]
+}
