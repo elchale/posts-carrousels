@@ -827,10 +827,11 @@
       "slides": [
         {
           "role": "cover",
-          "h": "Charla parte de la hackathon futurX",
+          "h": "Inteligencia Artificial Aplicada",
           "nombre": "Angel Feijoo",
           "b": "Jueves 15 de octubre, 7:00 p. m.",
-          "hora": "Hora de Perú"
+          "hora": "Hora de Perú",
+          "kicker": "Charla de la hackathon futurX"
         }
       ],
       "caption": {
@@ -847,11 +848,11 @@
       "slides": [
         {
           "role": "cover",
-          "h": "Charla parte de la hackathon futurX",
+          "h": "Inteligencia Artificial Aplicada",
           "b": "Jueves 15 de octubre, 7:00 p. m.",
           "aliado": "peru_tech_week.png",
           "photo": "expositor_angel_feijoo_terno.webp",
-          "foco": "50% 40%",
+          "foco": "50% 60%",
           "pais": {
             "nombre": "Perú",
             "bandera": "pe"
@@ -865,7 +866,8 @@
             }
           ],
           "nombre": "Angel Feijoo",
-          "hora": "Hora de Perú"
+          "hora": "Hora de Perú",
+          "kicker": "Charla de la hackathon futurX"
         },
         {
           "role": "value",
