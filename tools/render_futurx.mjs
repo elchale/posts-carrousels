@@ -202,7 +202,7 @@ function lamina(s, i, total, fmt, donde) {
     const expositor = s.pais || s.credenciales
     const cabecera = expositor
       ? `<div style="margin-top:${margen - 4}px">
-        <h1 class="d1" style="font-size:54px;line-height:1">${txt(s.h, donde + '.h')}</h1>
+        <h1 class="d1" style="font-size:34px;line-height:1.08">${txt(s.h, donde + '.h')}</h1>
         ${s.kicker ? `<p class="meta" style="margin-top:6px">${txt(s.kicker, donde + '.kicker')}</p>` : ''}
         ${s.nombre ? `<p class="h3" style="margin-top:14px;font-size:21px">${txt(s.nombre, donde + '.nombre')}</p>` : ''}
         ${s.b ? `<p style="margin-top:3px;font-size:14px;line-height:1.35;color:var(--text-2)">${txt(s.b, donde + '.b')}${s.hora ? ` <span class="meta" style="white-space:nowrap;font-size:11.5px">${txt(s.hora, donde + '.hora')}</span>` : ''}</p>` : ''}
