@@ -906,6 +906,60 @@
       "alt": "Carrusel de futurX sobre un estudio preliminar del MIT Media Lab: escribir primero sin IA ayuda a recordar y sentir propio el texto."
     },
     {
+      "slug": "12-c-charla-angel-feijoo",
+      "date": "2026-10-12",
+      "share": "a: para el que se inscribió y quiere escuchar al fundador de futurX",
+      "comment": "ahí estaré",
+      "slides": [
+        {
+          "role": "cover",
+          "kicker": "Charla de la hackathon",
+          "h": "Angel Feijoo",
+          "b": "Jueves 15 de octubre, 7:00 p. m.",
+          "aliado": "peru_tech_week.png",
+          "photo": "expositor_angel_feijoo.webp",
+          "foco": "50% 30%",
+          "pais": {
+            "nombre": "Perú",
+            "bandera": "pe"
+          },
+          "credenciales": [
+            {
+              "t": "Fundador de",
+              "v": "futurX"
+            },
+            {
+              "t": "Participó en",
+              "v": "MIT EmTech AI"
+            }
+          ]
+        },
+        {
+          "role": "value",
+          "label": "futurX",
+          "h": "Fundó futurX en 2023",
+          "b": "Empezó con un grupo de universitarios que no quiso esperar a que alguien les enseñara inteligencia artificial."
+        },
+        {
+          "role": "value",
+          "cita": true,
+          "h": "El Perú puede hacer desarrollos en IA con impacto global",
+          "b": "Es la idea que defendió en su charla de TEDx UNI."
+        },
+        {
+          "role": "closer",
+          "h": "Jueves 15 de octubre, 7:00 p. m.",
+          "b": "Hora de Perú. Es parte de la Perú Tech Week 2026. A los participantes les enviaremos el enlace de la reunión por correo.",
+          "url": "futurx.pe/hackathon/2026"
+        }
+      ],
+      "caption": {
+        "ig": "Este jueves 15 de octubre a las 7:00 p. m., hora de Perú, Angel Feijoo da su charla en la hackathon futurX, como parte de la Perú Tech Week 2026.\n\nAngel fundó futurX en 2023 y participó en MIT EmTech AI. En TEDx UNI habló de por qué el Perú puede hacer desarrollos en inteligencia artificial con impacto global.\n\nSi te inscribiste, te enviaremos el enlace de la reunión a tu correo. Revisa también la carpeta de spam.",
+        "tt": "Charla de Angel Feijoo, fundador de futurX. Jueves 15 de octubre, 7:00 p. m. hora de Perú, en la Perú Tech Week 2026. El enlace les llega por correo a los participantes. #hackathon #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX que anuncia la charla de Angel Feijoo, fundador de futurX, en la Perú Tech Week 2026, el jueves 15 de octubre a las 7:00 p. m. hora de Perú."
+    },
+    {
       "slug": "13-a-repasa-en-dias-separados",
       "date": "2026-10-13",
       "share": "a: método para copiar y pasar al grupo de estudio",

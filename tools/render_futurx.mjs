@@ -20,7 +20,7 @@
  *       "slug", "date"?, "caption": {ig, tt}, "alt",
  *       "slides": [
  *         { "role": "cover",  "kicker"?, "h", "nombre"?, "b"?, "hechos"?: [{t, v}], "photo"?, "pie"?, "foco"?, "sinLogo"?, "ciudad"?,
- *           "pais"?: {nombre, bandera}, "credenciales"?: [{t, v}] },
+ *           "pais"?: {nombre, bandera}, "credenciales"?: [{t, v}], "aliado"?: "<png en aliados/>" },
  *         { "role": "value",  "label"?, "h", "b"?, "items"?: [..], "photo"?, "pie"? },
  *         { "role": "value",  "n": 1, "h", "b"?, "items"? }         -> tarjeta de paso
  *         { "role": "value",  "cita": true, "h", "b"? }            -> mensaje clave
@@ -92,6 +92,15 @@ const LOGO = fs.readFileSync(path.join(BRAND, brand.logo_svg), 'utf8')
  * la lamina. "Nueva York" se parte en dos lineas para que quede compacto. */
 const sello = (ciudad, donde) =>
   `<span class="sello" style="position:absolute;top:0;right:0;transform:translate(50%,-50%) rotate(10deg);background:var(--color-fx-coral);color:#fff;border:2px solid #fff;border-radius:10px;padding:7px 10px 8px;font-family:var(--font-display);font-weight:700;font-size:16px;line-height:.95;letter-spacing:-0.02em;text-align:center;white-space:nowrap;box-shadow:0 3px 10px rgba(27,45,81,.25)">${txt(ciudad, donde).replace(' ', '<br>')}</span>`
+
+function aliado(archivo, donde) {
+  const src = path.join(BRAND, 'aliados', archivo)
+  if (!fs.existsSync(src)) {
+    errores.push(`${donde}: no existe aliados/${archivo}`)
+    return ''
+  }
+  return `<img class="aliado" src="${pathToFileURL(src).href}" alt="" style="height:24px;width:auto;flex:none">`
+}
 
 /* Banderas en un circulo de 100 x 100. Solo las que se usan. */
 const BANDERAS = {
@@ -180,7 +189,10 @@ function lamina(s, i, total, fmt, donde) {
     // jurado, que se distinguen del resto y ganan espacio para la foto. El
     // logo sigue en el cierre. Con nombre debajo, el titular baja al d2 del
     // sitio: en d1 ocupa tres lineas y la foto queda aplastada.
-    const arriba = s.sinLogo ? '' : `<div class="arriba">${LOGO}</div>`
+    // aliado: el logo del evento que acoge la charla (Peru Tech Week, Carlos,
+    // 2026-10-12), a la derecha del de futurX y a su misma altura. Sale de
+    // brands/futurx/aliados/.
+    const arriba = s.sinLogo ? '' : `<div class="arriba"${s.aliado ? ' style="display:flex;align-items:center;justify-content:space-between;gap:16px"' : ''}>${LOGO}${s.aliado ? aliado(s.aliado, donde) : ''}</div>`
     const margen = s.sinLogo ? 0 : s.photo || s.hechos?.length ? 32 : 44
     cuerpo = `<div class="rays"></div>${MOTIVO}
       ${arriba}
@@ -261,7 +273,7 @@ async function revisarCaja(page) {
         el.setAttribute('data-fuera', '')
         fuera.push(`${el.tagName.toLowerCase()} «${(el.textContent || '').trim().slice(0, 40)}» (${Math.round(b.bottom - zona.bottom)} px abajo)`)
       }
-      if (el.tagName === 'IMG' && b.height < 150) fuera.push(`foto aplastada a ${Math.round(b.height)} px de alto`)
+      if (el.tagName === 'IMG' && b.height < 150 && !el.classList.contains('aliado')) fuera.push(`foto aplastada a ${Math.round(b.height)} px de alto`)
     }
     return fuera
   })
