@@ -124,10 +124,14 @@ function fichaExpositor(s, donde) {
   const datos = (s.credenciales ?? [])
     .map((c, k) => `<div style="border-left:3px solid var(--accent);padding-left:10px"><p style="font-family:var(--font-display);font-weight:700;font-size:16px;line-height:1.15;letter-spacing:-0.015em;color:var(--text)">${txt(c.v, `${donde}.credenciales${k}.v`)}</p></div>`)
     .join('')
+  // Con titular largo ("sub"), nombre y fecha bajan a la columna de la foto.
+  const quien = s.sub && s.nombre
+    ? `<div><p class="h3" style="font-size:20px;line-height:1.1">${txt(s.nombre, donde + '.nombre')}</p>${s.b ? `<p style="margin-top:4px;font-size:13px;line-height:1.3;color:var(--text-2)">${txt(s.b, donde + '.b')}${s.hora ? `<br><span class="meta" style="font-size:11px">${txt(s.hora, donde + '.hora')}</span>` : ''}</p>` : ''}</div>`
+    : ''
   const foco = s.foco ? `;object-position:${esc(String(s.foco))}` : ''
   return `<div class="llena" style="margin-top:14px;flex-direction:row;gap:16px">
       <figure style="flex:0 0 47%;display:flex;min-height:0"><img src="${pathToFileURL(src).href}" alt="" style="width:100%;height:100%;object-fit:cover;border-radius:var(--radius-md)${foco}"></figure>
-      <div style="flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:12px">${pais}${datos}</div>
+      <div style="flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:${s.sub ? 8 : 12}px">${quien}${pais}${datos}</div>
     </div>`
 }
 
@@ -202,10 +206,11 @@ function lamina(s, i, total, fmt, donde) {
     const expositor = s.pais || s.credenciales
     const cabecera = expositor
       ? `<div style="margin-top:${margen - 4}px">
-        <h1 class="d1" style="font-size:34px;line-height:1.08">${txt(s.h, donde + '.h')}</h1>
+        <h1 class="d1" style="font-size:${s.sub ? 30 : 34}px;line-height:1.08">${txt(s.h, donde + '.h')}</h1>
+        ${s.sub ? `<p style="margin-top:6px;font-family:var(--font-display);font-weight:600;font-size:16px;line-height:1.2;letter-spacing:-0.01em;color:var(--text)">${txt(s.sub, donde + '.sub')}</p>` : ''}
         ${s.kicker ? `<p style="margin-top:8px;font-family:var(--font-display);font-weight:600;font-size:18px;line-height:1.2;letter-spacing:-0.01em;color:var(--accent)">${txt(s.kicker, donde + '.kicker')}</p>` : ''}
-        ${s.nombre ? `<p class="h3" style="margin-top:10px;font-size:21px">${txt(s.nombre, donde + '.nombre')}</p>` : ''}
-        ${s.b ? `<p style="margin-top:3px;font-size:14px;line-height:1.35;color:var(--text-2)">${txt(s.b, donde + '.b')}${s.hora ? ` <span class="meta" style="white-space:nowrap;font-size:11.5px">${txt(s.hora, donde + '.hora')}</span>` : ''}</p>` : ''}
+        ${s.nombre && !s.sub ? `<p class="h3" style="margin-top:10px;font-size:21px">${txt(s.nombre, donde + '.nombre')}</p>` : ''}
+        ${s.b && !s.sub ? `<p style="margin-top:3px;font-size:14px;line-height:1.35;color:var(--text-2)">${txt(s.b, donde + '.b')}${s.hora ? ` <span class="meta" style="white-space:nowrap;font-size:11.5px">${txt(s.hora, donde + '.hora')}</span>` : ''}</p>` : ''}
       </div>`
       : ''
     cuerpo = expositor

@@ -42,7 +42,7 @@ let x = -4
 const edificios = []
 while (x < W + 4) {
   const w = 10 + azar() * 18
-  const h = 22 + azar() * 52 + (Math.abs(x - 250) < 40 ? 22 : 0)
+  const h = 16 + azar() * 38 + (Math.abs(x - 250) < 40 ? 14 : 0)
   edificios.push({ x, w, h })
   x += w + 1.5
 }
@@ -83,11 +83,12 @@ body { width: ${W}px; height: ${H}px; overflow: hidden; background: #0A1428; fon
 .arriba img.fx { height: 26px; }
 .arriba img.ptw { height: 22px; filter: brightness(0) invert(1); }
 .kicker { margin-top: 0; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: #FF8A7A; font-weight: 600; }
-h1 { margin-top: ${40 + Math.round((H - 450) * 0.42)}px; font-family: "Outfit", sans-serif; font-weight: 700; font-size: 31px; line-height: 1.06; letter-spacing: -0.025em;
+h1 { margin-top: ${24 + Math.round((H - 450) * 0.42)}px; font-family: "Outfit", sans-serif; font-weight: 700; font-size: 29px; line-height: 1.06; letter-spacing: -0.025em;
   text-shadow: 0 0 18px rgba(234,80,70,.35); }
+.sub2 { margin-top: 8px; font-family: "Outfit", sans-serif; font-weight: 600; font-size: 16px; line-height: 1.2; color: #fff; }
 .sub { margin-top: 8px; font-family: "Outfit", sans-serif; font-weight: 600; font-size: 18px; color: #FF8A7A; }
-.ficha { margin-top: 24px; display: flex; align-items: center; gap: 14px; }
-.retrato { width: 92px; height: 92px; border-radius: 50%; flex: none; padding: 3px;
+.ficha { margin-top: 14px; display: flex; align-items: center; gap: 14px; }
+.retrato { width: 84px; height: 84px; border-radius: 50%; flex: none; padding: 3px;
   background: conic-gradient(from 200deg, #EA5046, #FFB199, #EA5046 60%, rgba(234,80,70,.2), #EA5046);
   box-shadow: 0 0 24px rgba(234,80,70,.55); }
 .retrato img { width: 100%; height: 100%; border-radius: 50%; object-fit: cover; object-position: 50% 45%; display: block; }
@@ -114,7 +115,8 @@ h1 { margin-top: ${40 + Math.round((H - 450) * 0.42)}px; font-family: "Outfit", 
   </svg>
   <div class="contenido">
     <div class="arriba"><img class="fx" src="${logoSrc}" alt=""><img class="ptw" src="${url('aliados/peru_tech_week.png')}" alt=""></div>
-    <h1>Inteligencia Artificial Aplicada</h1>
+    <h1>500 universitarios hackeando el futuro</h1>
+    <p class="sub2">Creando una nueva ola de startups de IA</p>
     <p class="sub">Charla de la hackathon futurX</p>
     <div class="ficha">
       <div class="retrato"><img src="${url('photos/expositor_angel_feijoo_terno.webp')}" alt=""></div>
