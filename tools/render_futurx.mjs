@@ -117,13 +117,15 @@ function fichaExpositor(s, donde) {
   const dibujo = s.pais ? BANDERAS[s.pais.bandera] : ''
   if (s.pais && !dibujo) errores.push(`${donde}: no hay bandera "${s.pais.bandera}" en BANDERAS`)
   const pais = s.pais
-    ? `<p style="display:flex;align-items:center;gap:9px"><svg viewBox="0 0 100 100" width="34" height="34" style="flex:none;border-radius:50%;box-shadow:0 2px 6px rgba(27,45,81,.22)" aria-hidden="true"><clipPath id="c"><circle cx="50" cy="50" r="50"/></clipPath><g clip-path="url(#c)">${dibujo}</g><circle cx="50" cy="50" r="48.5" fill="none" stroke="#d7dbe3" stroke-width="3"/></svg><span style="font-family:var(--font-display);font-weight:700;font-size:19px;letter-spacing:-0.01em;color:var(--text)">${txt(s.pais.nombre, donde + '.pais')}</span></p>`
+    ? `<p style="display:flex;align-items:center;gap:9px"><svg viewBox="0 0 100 100" width="28" height="28" style="flex:none;border-radius:50%;box-shadow:0 2px 6px rgba(27,45,81,.22)" aria-hidden="true"><clipPath id="c"><circle cx="50" cy="50" r="50"/></clipPath><g clip-path="url(#c)">${dibujo}</g><circle cx="50" cy="50" r="48.5" fill="none" stroke="#d7dbe3" stroke-width="3"/></svg><span style="font-family:var(--font-display);font-weight:700;font-size:16px;letter-spacing:-0.01em;color:var(--text)">${txt(s.pais.nombre, donde + '.pais')}</span></p>`
     : ''
+  // Sin rotulo ("Fundador de", "Estudio en"): Carlos (2026-10-12) prefiere
+  // dejarlo ambiguo, solo el valor. Si una credencial trae "t" se ignora.
   const datos = (s.credenciales ?? [])
-    .map((c, k) => `<div style="border-left:3px solid var(--accent);padding-left:11px"><p class="meta">${txt(c.t, `${donde}.credenciales${k}.t`)}</p><p style="margin-top:2px;font-family:var(--font-display);font-weight:700;font-size:18px;line-height:1.12;letter-spacing:-0.015em;color:var(--text)">${txt(c.v, `${donde}.credenciales${k}.v`)}</p></div>`)
+    .map((c, k) => `<div style="border-left:3px solid var(--accent);padding-left:10px"><p style="font-family:var(--font-display);font-weight:700;font-size:16px;line-height:1.15;letter-spacing:-0.015em;color:var(--text)">${txt(c.v, `${donde}.credenciales${k}.v`)}</p></div>`)
     .join('')
   const foco = s.foco ? `;object-position:${esc(String(s.foco))}` : ''
-  return `<div class="llena" style="margin-top:22px;flex-direction:row;gap:16px">
+  return `<div class="llena" style="margin-top:20px;flex-direction:row;gap:16px">
       <figure style="flex:0 0 47%;display:flex;min-height:0"><img src="${pathToFileURL(src).href}" alt="" style="width:100%;height:100%;object-fit:cover;border-radius:var(--radius-md)${foco}"></figure>
       <div style="flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:12px">${pais}${datos}</div>
     </div>`
@@ -194,7 +196,24 @@ function lamina(s, i, total, fmt, donde) {
     // brands/futurx/aliados/.
     const arriba = s.sinLogo ? '' : `<div class="arriba"${s.aliado ? ' style="display:flex;align-items:center;justify-content:space-between;gap:16px"' : ''}>${LOGO}${s.aliado ? aliado(s.aliado, donde) : ''}</div>`
     const margen = s.sinLogo ? 0 : s.photo || s.hechos?.length ? 32 : 44
-    cuerpo = `<div class="rays"></div>${MOTIVO}
+    // Expositor (Carlos, 2026-10-12): el tipo de sesion ("Charla",
+    // "Masterclass") es el titular grande; debajo, chico, de que es parte;
+    // luego el nombre y la fecha con "hora de Perú" chico al lado.
+    const expositor = s.pais || s.credenciales
+    const cabecera = expositor
+      ? `<div style="margin-top:${margen - 4}px">
+        <h1 class="d1" style="font-size:54px;line-height:1">${txt(s.h, donde + '.h')}</h1>
+        ${s.kicker ? `<p class="meta" style="margin-top:6px">${txt(s.kicker, donde + '.kicker')}</p>` : ''}
+        ${s.nombre ? `<p class="h3" style="margin-top:14px;font-size:21px">${txt(s.nombre, donde + '.nombre')}</p>` : ''}
+        ${s.b ? `<p style="margin-top:3px;font-size:14px;line-height:1.35;color:var(--text-2)">${txt(s.b, donde + '.b')}${s.hora ? ` <span class="meta" style="white-space:nowrap;font-size:11.5px">${txt(s.hora, donde + '.hora')}</span>` : ''}</p>` : ''}
+      </div>`
+      : ''
+    cuerpo = expositor
+      ? `<div class="rays"></div>${MOTIVO}
+      ${arriba}
+      ${cabecera}
+      ${fichaExpositor(s, donde)}`
+      : `<div class="rays"></div>${MOTIVO}
       ${arriba}
       <div class="stack" style="margin-top:${margen}px">
         ${s.kicker ? `<p class="meta">${txt(s.kicker, donde + '.kicker')}</p>` : ''}
