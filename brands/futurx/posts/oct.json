@@ -943,6 +943,182 @@
       "alt": "Carrusel de futurX por el inicio de la hackathon: masterclasses, entrega de problemas el 19 y 20 de octubre y Demo Day el 24."
     },
     {
+      "slug": "15-masterclass-diana-munoz",
+      "date": "2026-10-15",
+      "share": "a: para el que se inscribió y quiere ver la masterclass de esta noche",
+      "comment": "ahí estaré",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Masterclass de la hackathon futurX",
+          "b": "Jueves 15 de octubre, 9:00 p. m.",
+          "photo": "expositora_diana_munoz.webp",
+          "foco": "50% 22%",
+          "pais": {
+            "nombre": "Estados Unidos",
+            "bandera": "us"
+          },
+          "credenciales": [
+            {
+              "v": "Buivo"
+            },
+            {
+              "v": "Darden School of Business"
+            }
+          ],
+          "nombre": "Diana Muñoz",
+          "hora": "Hora de Perú"
+        },
+        {
+          "role": "value",
+          "label": "Hoy",
+          "h": "Cofundadora de Buivo, su nueva startup en San Francisco",
+          "b": "Trabaja en inteligencia artificial, desarrollo de productos e innovación."
+        },
+        {
+          "role": "value",
+          "label": "Su camino",
+          "h": "Ha llevado la IA a startups y a empresas",
+          "b": "Participó en proyectos que usan IA para transformar empresas, entre ellos en Ontop."
+        },
+        {
+          "role": "value",
+          "label": "Se formó en",
+          "h": "Darden School of Business, de la University of Virginia",
+          "b": "Estudió gestión de productos, analítica de datos y metodologías ágiles."
+        },
+        {
+          "role": "closer",
+          "h": "Hoy, 9:00 p. m.",
+          "b": "Jueves 15 de octubre, hora de Perú. A los participantes les enviaremos el enlace de la reunión por correo.",
+          "url": "futurx.pe/hackathon/2026"
+        }
+      ],
+      "caption": {
+        "ig": "Hoy jueves 15 de octubre a las 9:00 p. m., hora de Perú, Diana Muñoz da su masterclass en la hackathon futurX.\n\nDiana es cofundadora de Buivo, su nueva startup en San Francisco. Ha llevado la inteligencia artificial a startups y a empresas, entre ellas Ontop, y se formó en la Darden School of Business de la University of Virginia.\n\nSi te inscribiste, te enviaremos el enlace de la reunión a tu correo. Revisa también la carpeta de spam.",
+        "tt": "Masterclass con Diana Muñoz, cofundadora de Buivo en San Francisco. Hoy jueves 15 de octubre, 9:00 p. m. hora de Perú. El enlace les llega por correo a los participantes. #hackathon #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX que anuncia la masterclass de Diana Muñoz, cofundadora de Buivo en San Francisco, el jueves 15 de octubre a las 9:00 p. m. hora de Perú."
+    },
+    {
+      "slug": "15-masterclass-marisol-diaz",
+      "date": "2026-10-15",
+      "share": "a: para el que quiere crear apps o enseñar con IA",
+      "comment": "ahí estaré",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Masterclass de la hackathon futurX",
+          "b": "Viernes 16 de octubre, 5:00 p. m.",
+          "photo": "expositora_marisol_diaz.webp",
+          "foco": "50% 22%",
+          "pais": {
+            "nombre": "Estados Unidos",
+            "bandera": "us"
+          },
+          "credenciales": [
+            {
+              "v": "MIT App Inventor"
+            },
+            {
+              "v": "MIT RAISE"
+            }
+          ],
+          "nombre": "Marisol Díaz",
+          "hora": "Hora de Perú"
+        },
+        {
+          "role": "value",
+          "label": "Hoy",
+          "h": "Program Manager de MIT App Inventor y MIT RAISE",
+          "b": "MIT RAISE es la iniciativa del MIT sobre inteligencia artificial y educación."
+        },
+        {
+          "role": "stat",
+          "label": "En el MIT",
+          "cifra": "20",
+          "rotulo": "años coordinando proyectos",
+          "h": "Más de veinte años en el MIT",
+          "b": "Ha coordinado proyectos de distintas áreas del Massachusetts Institute of Technology."
+        },
+        {
+          "role": "value",
+          "label": "MIT App Inventor",
+          "h": "Apps hechas con bloques, sin escribir código",
+          "b": "Con esa herramienta, estudiantes de todo el mundo crean sus propias apps."
+        },
+        {
+          "role": "closer",
+          "h": "Mañana, 5:00 p. m.",
+          "b": "Viernes 16 de octubre, hora de Perú. A los participantes les enviaremos el enlace de la reunión por correo.",
+          "url": "futurx.pe/hackathon/2026"
+        }
+      ],
+      "caption": {
+        "ig": "Mañana viernes 16 de octubre a las 5:00 p. m., hora de Perú, Marisol Díaz da su masterclass en la hackathon futurX.\n\nMarisol lleva más de veinte años en el MIT. Hoy es Program Manager de MIT App Inventor, la herramienta con la que estudiantes de todo el mundo crean apps con bloques, y de MIT RAISE, la iniciativa del MIT sobre inteligencia artificial y educación.\n\nSi te inscribiste, te enviaremos el enlace de la reunión a tu correo. Revisa también la carpeta de spam.",
+        "tt": "Masterclass con Marisol Díaz, de MIT App Inventor y MIT RAISE. Viernes 16 de octubre, 5:00 p. m. hora de Perú. El enlace les llega por correo a los participantes. #hackathon #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX que anuncia la masterclass de Marisol Díaz, Program Manager de MIT App Inventor y MIT RAISE, el viernes 16 de octubre a las 5:00 p. m. hora de Perú."
+    },
+    {
+      "slug": "15-masterclass-federico-lara",
+      "date": "2026-10-15",
+      "share": "a: para el que le interesan los datos y las empresas",
+      "comment": "ahí estaré",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Masterclass de la hackathon futurX",
+          "b": "Viernes 16 de octubre, 7:00 p. m.",
+          "photo": "expositor_federico_lara.webp",
+          "foco": "50% 22%",
+          "pais": {
+            "nombre": "Estados Unidos",
+            "bandera": "us"
+          },
+          "credenciales": [
+            {
+              "v": "New Relic y Dynatrace"
+            },
+            {
+              "v": "FedEx"
+            }
+          ],
+          "nombre": "Federico Lara",
+          "hora": "Hora de Perú"
+        },
+        {
+          "role": "value",
+          "label": "Hoy",
+          "h": "Una de las voces principales en Business Observability",
+          "b": "Y en RTX, la transformación de las empresas en tiempo real."
+        },
+        {
+          "role": "value",
+          "label": "Su libro",
+          "h": "Six Steps to Achieve Business Observability",
+          "b": "También creó el concepto de Metric Monetization cuando era ejecutivo en New Relic y Dynatrace."
+        },
+        {
+          "role": "value",
+          "label": "Antes",
+          "h": "Dirigió Global Commerce en FedEx",
+          "b": "Lo reconocieron como pionero del comercio electrónico entre países."
+        },
+        {
+          "role": "closer",
+          "h": "Mañana, 7:00 p. m.",
+          "b": "Viernes 16 de octubre, hora de Perú. A los participantes les enviaremos el enlace de la reunión por correo.",
+          "url": "futurx.pe/hackathon/2026"
+        }
+      ],
+      "caption": {
+        "ig": "Mañana viernes 16 de octubre a las 7:00 p. m., hora de Perú, Federico Lara da su masterclass en la hackathon futurX.\n\nFederico es una de las voces principales en Business Observability. Escribió Six Steps to Achieve Business Observability y fue ejecutivo en New Relic y Dynatrace. Antes dirigió Global Commerce en FedEx, donde lo reconocieron como pionero del comercio electrónico entre países.\n\nSi te inscribiste, te enviaremos el enlace de la reunión a tu correo. Revisa también la carpeta de spam.",
+        "tt": "Masterclass con Federico Lara, ex ejecutivo de New Relic, Dynatrace y FedEx. Viernes 16 de octubre, 7:00 p. m. hora de Perú. El enlace les llega por correo a los participantes. #hackathon #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX que anuncia la masterclass de Federico Lara, autor de Six Steps to Achieve Business Observability, el viernes 16 de octubre a las 7:00 p. m. hora de Perú."
+    },
+    {
       "slug": "15-la-palabra-clave-de-tu-familia",
       "date": "2026-10-15",
       "share": "a: para el grupo de la familia, que la acuerden hoy",
