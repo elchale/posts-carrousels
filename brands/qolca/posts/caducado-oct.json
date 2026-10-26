@@ -1,0 +1,105 @@
+{
+ "series": "oct",
+ "brand": "qolca",
+ "format": "f1",
+ "posts": [
+  {
+   "slug": "14-cuatro-dias-de-chats",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "mostrador",
+     "kicker": "LUNES POST FERIADO",
+     "h": "Cuatro días de chats te esperan: *contéstalos en este orden*"
+    },
+    {
+     "role": "value",
+     "label": "PRIMERO",
+     "h": "Los que tienen *fecha hoy*",
+     "b": "Pedidos para hoy y citas de esta semana."
+    },
+    {
+     "role": "value",
+     "label": "SEGUNDO",
+     "h": "Los que *preguntaron precio*",
+     "b": "Ya compararon. Contesta con pregunta.",
+     "photo": "celular-noche"
+    },
+    {
+     "role": "value",
+     "label": "LA AMNISTÍA",
+     "h": "Cópiala *tal cual*",
+     "b": "«Recién te leo. ¿Sigue en pie? Hoy te atiendo.»"
+    },
+    {
+     "role": "value",
+     "label": "AL FINAL",
+     "h": "Bandeja *en cero*",
+     "b": "Cada chat con respuesta o con cita.",
+     "photo": "cuaderno"
+    },
+    {
+     "role": "closer",
+     "h": "El próximo feriado los chats entran *ordenados*",
+     "b": "Escríbeme PRUEBA por DM y cada mensaje entra con su prioridad mientras descansas."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo organizar los mensajes de WhatsApp acumulados después del feriado largo. Primero los que tienen fecha hoy, después los que preguntaron precio, y para el resto la amnistía: «recién te leo, ¿sigue en pie? hoy te atiendo». La bandeja termina el día en cero: cada chat con respuesta o con cita. ¿Con cuántos chats amaneciste hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp #negociopropio",
+    "tt": "Cuatro días de chats después del feriado: primero los que tienen fecha hoy, después los de precio, y la amnistía para el resto. ¿Con cuántos chats amaneciste hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+    "fb": "El lunes después del feriado no se contesta en orden de llegada. Primero los que tienen fecha hoy, después los que preguntaron precio, y la amnistía para el resto. ¿Con cuántos chats amaneciste?"
+   },
+   "alt": "Mostrador de un negocio el lunes por la mañana con el titular sobre los cuatro días de chats que esperan.",
+   "expiredAt": "2026-10-26"
+  },
+  {
+   "slug": "17-el-que-dijo-cuando-cobre-cobra-hoy",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "mostrador",
+     "kicker": "QUINCENA",
+     "h": "El que te dijo «cuando cobre» cobra hoy: *escríbele así*"
+    },
+    {
+     "role": "value",
+     "label": "PRIMERO",
+     "h": "«Cuando cobre» es un *sí con fecha*",
+     "b": "No te rechazó. Te dio el día."
+    },
+    {
+     "role": "value",
+     "label": "HOY",
+     "h": "Cópialo *tal cual*",
+     "b": "«¿Seguimos con lo que viste? Hoy lo dejo listo»",
+     "photo": "celular-noche"
+    },
+    {
+     "role": "value",
+     "label": "SIN",
+     "h": "Sin *reproche*",
+     "b": "Nada de «te escribí hace dos semanas»."
+    },
+    {
+     "role": "value",
+     "label": "SI PATEA",
+     "h": "Pide *la fecha nueva*",
+     "b": "«¿Te escribo a fin de mes?» y lo apuntas.",
+     "photo": "cuaderno"
+    },
+    {
+     "role": "closer",
+     "h": "Cada «cuando cobre» *te avisa* el día que sí hay",
+     "b": "Escríbeme PRUEBA por DM y agendamos cada «cuando cobre» sin que nadie apunte."
+    }
+   ],
+   "caption": {
+    "ig": "Cómo hacer seguimiento a un cliente que dijo cuando cobre. Hoy es su día: no te rechazó, te dio la fecha. Escríbele «¿seguimos con lo que viste? hoy lo dejo listo», sin reproche, y si patea otra vez pide la fecha nueva y la apuntas. ¿A quién le escribes hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp #emprendedoresperu",
+    "tt": "El que te dijo «cuando cobre» cobra hoy. Escríbele así: «¿seguimos con lo que viste? hoy lo dejo listo». Sin reproche, y si patea, fecha nueva. ¿A quién le escribes hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+    "fb": "«Cuando cobre» no es un no: es un sí con fecha. Hoy es esa fecha. Un mensaje sin reproche, y si patea otra vez, la fecha nueva queda apuntada. ¿A quién le escribes hoy?"
+   },
+   "alt": "Mostrador de tienda el día de quincena con el titular sobre el cliente que dijo cuando cobre.",
+   "expiredAt": "2026-10-26"
+  }
+ ]
+}

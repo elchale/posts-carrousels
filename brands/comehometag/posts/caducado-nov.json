@@ -1,0 +1,56 @@
+{
+ "series": "nov",
+ "brand": "comehometag",
+ "format": "f1",
+ "posts": [
+  {
+   "slug": "01-tres-cosas-antes-de-la-primera-puerta",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "nino-mano",
+     "kicker": "HALLOWEEN",
+     "h": "3 cosas que tu hijo sabe antes de tocar la primera *puerta*"
+    },
+    {
+     "role": "value",
+     "label": "UNO",
+     "h": "Los dulces se reciben en la *puerta*",
+     "b": "No entra a ninguna casa ni al jardín"
+    },
+    {
+     "role": "value",
+     "photo": "noche-calle",
+     "label": "DOS",
+     "h": "«Tengo que preguntar *primero*»",
+     "b": "Si un vecino lo invita a pasar"
+    },
+    {
+     "role": "value",
+     "label": "TRES",
+     "h": "Siempre con un *amigo*",
+     "b": "Al baño, a la casa de al lado, a todo"
+    },
+    {
+     "role": "value",
+     "label": "Y LA RUTA",
+     "h": "Cuadras *conocidas*, en orden",
+     "b": "Se acuerda hoy, no en la puerta"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "El plan B cabe en su *muñeca*",
+     "b": "La «pulsera» ComeHomeTag lleva un QR con tu número: si mañana se aleja del grupo, quien lo encuentre lo escanea y te llama."
+    }
+   ],
+   "caption": {
+    "ig": "Pedir dulces en Halloween con niños: tres cosas que tu hijo sabe antes de tocar la primera puerta. Los dulces se reciben en la puerta, no entra a ninguna casa ni al jardín. Si un vecino lo invita a pasar, dice «tengo que preguntar primero». Y siempre va con un amigo, al baño y a la casa de al lado también. La ruta de cuadras conocidas se acuerda hoy, no en la puerta. ¿El tuyo ya sabe las tres? #halloween #niños",
+    "tt": "Pedir dulces en Halloween: los dulces se reciben en la puerta, «tengo que preguntar primero» si lo invitan a pasar, y siempre con un amigo. ¿El tuyo ya sabe las tres? #halloween #niños",
+    "fb": "Mañana tocan puertas de desconocidos y hay tres cosas que se dicen hoy: los dulces se reciben en la puerta y no se entra a ninguna casa ni al jardín; si un vecino lo invita a pasar, dice «tengo que preguntar primero»; y siempre va con un amigo, al baño y a la casa de al lado también. ¿El tuyo ya sabe las tres?"
+   },
+   "alt": "Tres reglas para un niño que pide dulces en Halloween: recibirlos en la puerta, preguntar primero antes de entrar y andar siempre con un amigo.",
+   "expiredAt": "2026-10-26"
+  }
+ ]
+}

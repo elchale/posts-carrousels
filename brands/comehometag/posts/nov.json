@@ -4,100 +4,333 @@
   "format": "f1",
   "posts": [
     {
-      "slug": "01-tres-cosas-antes-de-la-primera-puerta",
+      "slug": "01-tu-hijo-puede-gritar",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "mercado",
+          "h": "Tu hijo perdido *puede* gritar en el mercado, dile hoy"
+        },
+        {
+          "role": "value",
+          "label": "PRIMERO",
+          "h": "Se queda donde *está*",
+          "b": "Un lugar abierto, no detrás de un puesto"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mano",
+          "label": "SEGUNDO",
+          "h": "*Grita* «mamá» o «papá»",
+          "b": "El nombre lo oyes tú, no todo el mercado"
+        },
+        {
+          "role": "value",
+          "label": "TERCERO",
+          "h": "Levanta la *mano* y no la baja",
+          "b": "Sobre las cabezas se ve, entre ellas no"
+        },
+        {
+          "role": "value",
+          "label": "CUÁNTO",
+          "h": "Hasta que lo *encuentres*",
+          "b": "Nunca sale a buscarte a la calle"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Cuando la voz no *alcanza*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: quien encuentre a tu hijo lo escanea con su celular y ve tu número sin que él diga nada."
+        }
+      ],
+      "caption": {
+        "ig": "Qué hace un niño que se pierde en el mercado: puede gritar, y hay que decírselo hoy. Se queda donde está, en un lugar abierto, para que tú lo encuentres. Grita «mamá» o «papá», porque ese nombre lo oyes tú entre todo el ruido. Levanta la mano y no la baja: sobre las cabezas se ve. Y nunca sale a buscarte a la calle. ¿Tu hijo grita o se calla? #seguridadinfantil #niños",
+        "tt": "Niño perdido en el mercado: se queda donde está, grita «mamá» o «papá», levanta la mano y no sale a la calle. Muchos se callan porque nadie les dio permiso. ¿El tuyo grita o se calla? #seguridadinfantil #niños",
+        "fb": "A los niños les enseñamos a no gritar en público y después esperamos que griten cuando se pierden. Hay que darles el permiso hoy: se queda donde está, grita «mamá» o «papá», levanta la mano sobre las cabezas y no sale a buscarte a la calle. ¿El tuyo grita o se calla?"
+      },
+      "alt": "Permiso y plan para un niño que se pierde en un mercado: quedarse donde está, gritar mamá o papá, levantar la mano y no salir a la calle."
+    },
+    {
+      "slug": "02-nombre-afuera-de-la-mochila",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "nino-mochila",
+          "h": "Si su nombre va *afuera* de la mochila, un extraño lo llama"
+        },
+        {
+          "role": "value",
+          "label": "EL TRUCO",
+          "h": "«¡Mati, ven!» y él *va*",
+          "b": "Un niño que oye su nombre asume que lo conocen"
+        },
+        {
+          "role": "value",
+          "photo": "nino-mano",
+          "label": "DÓNDE SÍ",
+          "h": "*Adentro* de mochila y lonchera",
+          "b": "Y en la etiqueta interior de la casaca"
+        },
+        {
+          "role": "value",
+          "label": "EL BORDADO",
+          "h": "El uniforme con nombre se *tapa*",
+          "b": "Casaca encima de camino a casa"
+        },
+        {
+          "role": "value",
+          "label": "SÍ VA",
+          "h": "Tu *número*, no su nombre",
+          "b": "Adentro, para quien ya lo encontró"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Tu contacto viaja *escondido*",
+          "b": "El QR de la «pulsera» ComeHomeTag no muestra nada a simple vista: habla recién cuando alguien lo escanea, y ahí ve tu número."
+        }
+      ],
+      "caption": {
+        "ig": "Nombre del niño en la mochila: si va afuera, cualquier extraño lo puede llamar por su nombre, y un niño que oye su nombre asume que lo conocen. El nombre va adentro de la mochila y la lonchera, y en la etiqueta interior de la casaca. El uniforme bordado se tapa con la casaca de camino a casa. Lo que sí va: tu número, adentro, para quien ya lo encontró. ¿El tuyo lleva su nombre afuera? #seguridadinfantil #niños",
+        "tt": "Nombre del niño afuera de la mochila: un extraño lo llama por su nombre y él va, porque asume que lo conocen. El nombre va adentro; afuera no va nada. ¿El tuyo lleva su nombre afuera? #seguridadinfantil #niños",
+        "fb": "Un niño que escucha su nombre asume que quien lo llama lo conoce. Por eso el nombre no va afuera de la mochila, ni de la lonchera, ni en la casaca a la vista: va adentro. El bordado del uniforme se tapa con la casaca al salir del colegio. Y lo único que sí conviene que lleve es tu número, adentro. ¿Tu hijo lleva su nombre afuera?"
+      },
+      "alt": "Por qué el nombre de un niño no va visible en la mochila ni el uniforme, dónde sí va y qué dato conviene que lleve adentro."
+    },
+    {
+      "slug": "03-ahi-nomas-esta",
       "slides": [
         {
           "role": "cover",
           "photo": "nino-mano",
-          "kicker": "HALLOWEEN",
-          "h": "3 cosas que tu hijo sabe antes de tocar la primera *puerta*"
+          "h": "«Ahí nomás está» es la frase que se dice *antes* de perderlo"
         },
         {
           "role": "value",
-          "label": "UNO",
-          "h": "Los dulces se reciben en la *puerta*",
-          "b": "No entra a ninguna casa ni al jardín"
+          "label": "LA FRASE",
+          "h": "Todos la *decimos*",
+          "b": "Y mientras, él ya dobló la esquina"
         },
         {
           "role": "value",
-          "photo": "noche-calle",
-          "label": "DOS",
-          "h": "«Tengo que preguntar *primero*»",
-          "b": "Si un vecino lo invita a pasar"
+          "photo": "mercado",
+          "label": "LA REGLA",
+          "h": "A más de un *brazo*, ya está lejos",
+          "b": "En calle llena, no en el parque"
         },
         {
           "role": "value",
-          "label": "TRES",
-          "h": "Siempre con un *amigo*",
-          "b": "Al baño, a la casa de al lado, a todo"
+          "label": "LOS IMANES",
+          "h": "Turrón, picarones, *globos*",
+          "b": "Cada puesto lo jala un metro más"
         },
         {
           "role": "value",
-          "label": "Y LA RUTA",
-          "h": "Cuadras *conocidas*, en orden",
-          "b": "Se acuerda hoy, no en la puerta"
+          "label": "AL PUESTO",
+          "h": "Van *juntos* y compran doble",
+          "b": "El que se queda «cuidando» no cuida"
         },
         {
           "role": "closer",
           "img": "pulsera.png",
-          "h": "El plan B cabe en su *muñeca*",
-          "b": "La «pulsera» ComeHomeTag lleva un QR con tu número: si mañana se aleja del grupo, quien lo encuentre lo escanea y te llama."
+          "h": "Para el «ahí nomás» que *falló*",
+          "b": "La «pulsera» ComeHomeTag lleva tu número en su muñeca: quien lo encuentre escanea el QR con su celular y te llama."
         }
       ],
       "caption": {
-        "ig": "Pedir dulces en Halloween con niños: tres cosas que tu hijo sabe antes de tocar la primera puerta. Los dulces se reciben en la puerta, no entra a ninguna casa ni al jardín. Si un vecino lo invita a pasar, dice «tengo que preguntar primero». Y siempre va con un amigo, al baño y a la casa de al lado también. La ruta de cuadras conocidas se acuerda hoy, no en la puerta. ¿El tuyo ya sabe las tres? #halloween #niños",
-        "tt": "Pedir dulces en Halloween: los dulces se reciben en la puerta, «tengo que preguntar primero» si lo invitan a pasar, y siempre con un amigo. ¿El tuyo ya sabe las tres? #halloween #niños",
-        "fb": "Mañana tocan puertas de desconocidos y hay tres cosas que se dicen hoy: los dulces se reciben en la puerta y no se entra a ninguna casa ni al jardín; si un vecino lo invita a pasar, dice «tengo que preguntar primero»; y siempre va con un amigo, al baño y a la casa de al lado también. ¿El tuyo ya sabe las tres?"
+        "ig": "Niños que se pierden en calles llenas: la frase que se dice justo antes es «ahí nomás está». Todos la decimos, y mientras, él ya dobló la esquina. La regla: en calle llena, a más de un brazo tuyo ya está lejos. Turrón, picarones y globos son imanes que lo jalan un metro más cada vez. Al puesto van juntos y compran doble. ¿Quién la dice en tu casa? #seguridadinfantil #niños",
+        "tt": "«Ahí nomás está» es lo que se dice antes de perder a un niño en una calle llena. La regla: a más de un brazo tuyo ya está lejos. Al puesto de turrón van juntos. ¿Quién la dice en tu casa? #seguridadinfantil #niños",
+        "fb": "«Ahí nomás está». Todos la hemos dicho, y mientras la decimos el niño ya dobló la esquina detrás de un globo. En calle llena la regla es una: a más de un brazo tuyo ya está lejos. Al puesto de turrón van juntos, y el que se queda «cuidando» no cuida. ¿Quién la dice en tu casa?"
       },
-      "alt": "Tres reglas para un niño que pide dulces en Halloween: recibirlos en la puerta, preguntar primero antes de entrar y andar siempre con un amigo."
+      "alt": "La frase que se dice antes de perder a un niño en una calle llena y la regla del brazo para octubre."
     },
     {
-      "slug": "02-plan-para-quien-saca-al-grupo",
+      "slug": "04-cuatro-mamas-11pm",
       "slides": [
         {
           "role": "cover",
           "photo": "noche-calle",
-          "kicker": "HALLOWEEN",
-          "h": "El plan para quien saca al grupo esta *noche*, cópialo"
+          "h": "4 mamás cuando el hijo de 15 no contesta a las *11pm*"
         },
         {
           "role": "value",
-          "label": "EL GRUPO",
-          "h": "El que cabe en tu *vista*",
-          "b": "Si no los cuentas de un vistazo, se parte"
+          "label": "MAMÁ 1",
+          "h": "La de las 20 *llamadas*",
+          "b": "Batería muerta y ella marcando"
         },
         {
           "role": "value",
-          "photo": "familia-parque",
-          "label": "LA PISTA",
-          "h": "El adulto baja *primero*",
-          "b": "El grupo cruza en bloque, nunca corriendo"
+          "photo": "nino-mochila",
+          "label": "MAMÁ 2",
+          "h": "La del grupo de *mamás*",
+          "b": "«¿Alguien sabe algo de Mati?»"
         },
         {
           "role": "value",
-          "label": "LA FOTO",
-          "h": "Del grupo, en la *puerta*",
-          "b": "Disfraz puesto, antes del primer dulce"
+          "label": "MAMÁ 3",
+          "h": "La que sale a *buscarlo*",
+          "b": "En pijama, a la casa del amigo"
         },
         {
           "role": "value",
-          "label": "LA ÚLTIMA",
-          "h": "«A las 9 la última *casa*»",
-          "b": "Dicha temprano, nadie pelea a las 9"
+          "label": "MAMÁ 4",
+          "h": "La del *trato*",
+          "b": "Él activa su ubicación, ella no escribe"
         },
         {
           "role": "closer",
           "img": "pulsera.png",
-          "h": "Noche de brujas, calles *llenas*",
-          "b": "La «pulsera» ComeHomeTag en cada muñeca del grupo: quien encuentre a uno escanea el QR con su celular y ve tu número."
+          "h": "El trato, con *respaldo*",
+          "b": "La «pulsera» ComeHomeTag va en su muñeca: si el celular murió, quien lo asista escanea el QR y ve tu número, no el de un amigo."
         }
       ],
       "caption": {
-        "ig": "Sacar a un grupo de niños a pedir dulces en Halloween: el plan para el adulto que los lleva. El grupo es el que cabe en tu vista: si no los cuentas de un vistazo, se parte en dos con un adulto cada uno. En cada esquina el adulto baja primero a la pista y el grupo cruza en bloque. Foto del grupo en la puerta con el disfraz puesto, antes del primer dulce. Y la última casa se dice temprano: a las nueve, y nadie pelea a las nueve. Mándaselo a quien saca a los chicos esta noche. #halloween #niños",
-        "tt": "Plan para quien saca al grupo de niños esta noche: el grupo que cabe en tu vista, el adulto baja primero a la pista, foto del grupo en la puerta y la última casa dicha temprano. Mándaselo a quien los saca hoy. #halloween #niños",
-        "fb": "Esta noche alguien saca al grupo entero y casi nunca es el que hizo el plan. Este es el plan: el grupo es el que cabe en tu vista, o se parte; el adulto baja primero a la pista y cruzan en bloque; foto del grupo en la puerta antes del primer dulce; y la última casa se dice temprano, a las nueve. Pásaselo a quien saca a los chicos hoy."
+        "ig": "Hijo adolescente que no contesta el celular de noche: hay cuatro mamás. La de las veinte llamadas a un celular con batería muerta. La del grupo de mamás preguntando si alguien sabe algo. La que sale en pijama a la casa del amigo. Y la del trato: él activa su ubicación las noches que sale y ella no escribe si lo ve moverse. ¿Cuál mamá eres? #adolescentes #mamás",
+        "tt": "Hijo de 15 no contesta a las 11pm: la de las 20 llamadas, la del grupo de mamás, la que sale a buscarlo en pijama y la del trato de ubicación activada. ¿Cuál mamá eres? #adolescentes #mamás",
+        "fb": "Son las once y el de quince no contesta. Mamá 1 hace veinte llamadas a un celular muerto. Mamá 2 escribe al grupo de mamás. Mamá 3 sale en pijama a la casa del amigo. Mamá 4 tiene un trato: él activa su ubicación las noches que sale y ella no escribe si lo ve moverse. ¿Cuál eres?"
       },
-      "alt": "El plan para el adulto que lleva a un grupo de niños a pedir dulces: tamaño del grupo, cómo cruzar, la foto en la puerta y la hora de la última casa."
+      "alt": "Cuatro tipos de mamá cuando un adolescente no contesta de noche y el trato de ubicación activada que evita la pelea."
+    },
+    {
+      "slug": "05-el-trato-parte-2",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "nino-mochila",
+          "h": "Trato con tu hijo de 15, parte 2: lo que *tú* prometes"
+        },
+        {
+          "role": "value",
+          "label": "PROMESA 1",
+          "h": "No escribes si lo ves *moverse*",
+          "b": "El punto en el mapa ya te contestó"
+        },
+        {
+          "role": "value",
+          "photo": "noche-calle",
+          "label": "PROMESA 2",
+          "h": "Una llamada, no *veinte*",
+          "b": "Si no contesta, esperas la hora pactada"
+        },
+        {
+          "role": "value",
+          "label": "PROMESA 3",
+          "h": "«Llegué» y *cero* preguntas",
+          "b": "Las preguntas son al desayuno"
+        },
+        {
+          "role": "value",
+          "label": "LO DE ÉL",
+          "h": "Ubicación *activada* al salir",
+          "b": "Se prende una vez y él no hace nada"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "El trato, con la parte de *ambos*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: si el celular murió y alguien lo asiste, lo escanea y ve tu número, sin que él haga nada."
+        }
+      ],
+      "caption": {
+        "ig": "Trato de ubicación con hijo adolescente, parte 2: lo que promete el papá. No escribes si lo ves moverse en el mapa, porque el punto ya te contestó. Una llamada, no veinte: si no contesta, esperas la hora pactada. Y cuando llega y dice «llegué», cero preguntas hasta el desayuno. Lo de él: ubicación activada las noches que sale, se prende una vez y no hace nada más. Mándaselo a tu mamá si eres el de 15. #adolescentes #mamás",
+        "tt": "Trato de ubicación con tu hijo de 15, parte 2, lo que prometes tú: no escribes si lo ves moverse, una llamada y no veinte, y cero preguntas al «llegué». Mándaselo a tu mamá si eres el de 15. #adolescentes #mamás",
+        "fb": "Parte 2 del trato. Él activa su ubicación las noches que sale. Tú prometes tres cosas: no escribir si lo ves moverse en el mapa, una llamada y no veinte, y cero preguntas cuando escribe «llegué» (las preguntas son al desayuno). Si eres el de quince, pásaselo a tu mamá."
+      },
+      "alt": "Las tres promesas del papá en el trato de ubicación con un hijo adolescente: no escribir si se mueve, una sola llamada y cero preguntas al llegar."
+    },
+    {
+      "slug": "06-preguntale-al-entrar-a-la-feria",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "familia-parque",
+          "h": "Pregúntale esto al entrar a la feria y sabrás dónde *buscarlo*"
+        },
+        {
+          "role": "value",
+          "label": "LA PREGUNTA",
+          "h": "«¿Qué juego *quieres*?»",
+          "b": "Si desaparece, caminó hacia ese"
+        },
+        {
+          "role": "value",
+          "photo": "noche-calle",
+          "label": "EL FIJO",
+          "h": "El señor de ese *juego*",
+          "b": "Tiene parlante y ve desde arriba"
+        },
+        {
+          "role": "value",
+          "label": "EL PUNTO",
+          "h": "Un sitio con *nombre*",
+          "b": "«La rueda», no «la entrada»"
+        },
+        {
+          "role": "value",
+          "label": "LAS LUCES",
+          "h": "De noche te sigue la *luz*, no tu voz",
+          "b": "Tú vas detrás, no adelante"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Luces, música y tu *número*",
+          "b": "La «pulsera» ComeHomeTag lleva un QR: quien encuentre a tu hijo entre los juegos lo escanea con su celular y ve tu contacto al instante."
+        }
+      ],
+      "caption": {
+        "ig": "Niño perdido en la feria: la pregunta que se hace al entrar es «¿qué juego quieres?». Si desaparece, ya sabes hacia dónde caminó. El señor de ese juego es su adulto fijo: tiene parlante y ve desde arriba. El punto de encuentro tiene nombre, «la rueda», no «la entrada». Y de noche el niño sigue la luz, no tu voz: tú vas detrás de él. ¿Qué juego pediría el tuyo? #feria #seguridadinfantil",
+        "tt": "Al entrar a la feria pregúntale qué juego quiere: si desaparece, caminó hacia ese. El señor del juego tiene parlante y el punto de encuentro tiene nombre. ¿Qué juego pediría el tuyo? #feria #niños",
+        "fb": "En la feria el niño sigue las luces, no tu voz. Por eso la pregunta se hace al entrar: «¿qué juego quieres?». Si desaparece, ya sabes hacia dónde caminó, y el señor de ese juego tiene parlante y ve desde arriba. El punto de encuentro tiene nombre propio. ¿Qué juego pediría el tuyo?"
+      },
+      "alt": "La pregunta que se le hace a un niño al entrar a una feria para saber dónde buscarlo si se pierde, y el punto de encuentro con nombre."
+    },
+    {
+      "slug": "07-primero-el-agua",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "nino-mano",
+          "h": "Si tu hijo se pierde cerca del agua, mira el agua *primero*"
+        },
+        {
+          "role": "value",
+          "label": "EL ORDEN",
+          "h": "Piscina, pileta o tanque *primero*",
+          "b": "Después el resto del local"
+        },
+        {
+          "role": "value",
+          "photo": "familia-parque",
+          "label": "SIN RUIDO",
+          "h": "No hay grito de *película*",
+          "b": "La boca apenas sale, los brazos no saludan"
+        },
+        {
+          "role": "value",
+          "label": "UN ADULTO",
+          "h": "El que *mira* el agua no conversa",
+          "b": "Turnos cortos, dichos en voz alta"
+        },
+        {
+          "role": "value",
+          "label": "AL LLEGAR",
+          "h": "La regla del *borde*",
+          "b": "Del agua se está a más de un brazo tuyo"
+        },
+        {
+          "role": "closer",
+          "img": "pulsera.png",
+          "h": "Primero el agua, y *ojalá* jamás",
+          "b": "El plan de agua se aprende; el de perderse va puesto: la «pulsera» ComeHomeTag lleva un QR que quien lo encuentre escanea y ve tu número."
+        }
+      ],
+      "caption": {
+        "ig": "Niño perdido cerca de una piscina: se revisa el agua primero. Piscina, pileta o tanque antes que el resto del local, porque ahogarse no suena como en las películas: la boca apenas sale y los brazos no saludan. Un adulto mira el agua y no conversa, en turnos cortos dichos en voz alta. Y al llegar, la regla del borde: del agua se está a más de un brazo tuyo. ¿Quién mira el agua en tu familia? #seguridadinfantil #piscina",
+        "tt": "Niño perdido cerca del agua: piscina, pileta o tanque se revisan primero. Ahogarse no hace ruido, y un adulto mira el agua sin conversar. ¿Quién mira el agua en tu familia? #seguridadinfantil #piscina",
+        "fb": "Si un niño se pierde en un local con piscina, el orden de búsqueda es uno: el agua primero, después todo lo demás. Ahogarse no suena como en las películas. Y desde que llegan, un adulto mira el agua y no conversa, en turnos cortos dichos en voz alta. ¿Quién mira el agua en tu familia?"
+      },
+      "alt": "El orden de búsqueda cuando un niño se pierde cerca de una piscina: el agua primero, un adulto que mira sin conversar y la regla del borde."
     }
   ]
 }

@@ -4,8 +4,319 @@
   "format": "futurx",
   "posts": [
     {
-      "slug": "01-la-ia-te-da-la-razon",
+      "slug": "01-tesis-peruanas-en-alicia",
       "date": "2026-11-01",
+      "share": "a: para el amigo que empieza su tesis y busca antecedentes",
+      "comment": "la mía es de educación",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Busca tesis peruanas sobre tu tema antes de preguntarle a la IA"
+        },
+        {
+          "role": "value",
+          "label": "ALICIA",
+          "h": "El repositorio de acceso libre de Concytec",
+          "b": "Junta tesis y artículos de universidades e instituciones peruanas."
+        },
+        {
+          "role": "value",
+          "label": "RENATI",
+          "h": "El registro de trabajos de investigación de Sunedu",
+          "b": "Reúne las tesis con las que se obtienen grados en el Perú."
+        },
+        {
+          "role": "value",
+          "h": "Mira la bibliografía de una tesis parecida a la tuya",
+          "b": "Esas fuentes existen y alguien ya las leyó."
+        },
+        {
+          "role": "value",
+          "h": "Después usa la IA para entenderlas",
+          "b": "Pídele que te explique un método o que compare dos tesis que encontraste tú."
+        },
+        {
+          "role": "closer",
+          "h": "¿De qué es tu tesis?"
+        }
+      ],
+      "caption": {
+        "ig": "Dónde buscar tesis peruanas gratis: ALICIA de Concytec y RENATI de Sunedu, antes de pedirle fuentes a ChatGPT. ¿De qué es tu tesis?",
+        "tt": "Tesis peruanas gratis en ALICIA y RENATI. ¿De qué es la tuya? #tesis #universitarios"
+      },
+      "alt": "Carrusel de futurX sobre ALICIA y RENATI, los repositorios peruanos donde buscar tesis antes de usar la IA."
+    },
+    {
+      "slug": "02-tu-primer-proyecto-con-ia",
+      "date": "2026-11-02",
+      "share": "b: la pregunta de Andrew Ng que le sirve a cualquier carrera",
+      "comment": "en derecho hay mil",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Antes de tu primer proyecto con IA, hazle esta pregunta a alguien",
+          "b": "Es la que usa Andrew Ng."
+        },
+        {
+          "role": "value",
+          "cita": true,
+          "h": "«¿Cuáles son las tres cosas que quisieras que funcionen mejor? ¿Por qué todavía no funcionan?»",
+          "b": "Ng, fundador de DeepLearning.AI, se la hace a quien conoce un oficio desde adentro."
+        },
+        {
+          "role": "value",
+          "label": "A quién se la puedes hacer",
+          "h": "A alguien que trabaja en lo que estudias",
+          "items": [
+            "Al abogado del estudio donde practicas",
+            "A la enfermera de tu turno",
+            "Al profe que corrige todo a mano"
+          ]
+        },
+        {
+          "role": "value",
+          "h": "Primero el problema, después la IA",
+          "b": "Ng recomienda pensar varias soluciones antes de quedarte con la primera."
+        },
+        {
+          "role": "value",
+          "h": "Empieza por algo chico",
+          "b": "Para Ng, los primeros proyectos sirven para aprender. Los grandes llegan después."
+        },
+        {
+          "role": "closer",
+          "h": "¿Qué problema de tu carrera resolverías con IA?"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo encontrar la idea para tu primer proyecto con inteligencia artificial, según Andrew Ng: pregúntale a alguien de tu carrera qué no funciona. ¿Qué problema resolverías tú?",
+        "tt": "La pregunta de Andrew Ng antes de tu primer proyecto con IA. ¿Qué resolverías? #inteligenciaartificial #universitarios"
+      },
+      "alt": "Carrusel de futurX con la pregunta que Andrew Ng recomienda hacer antes de empezar un proyecto con inteligencia artificial."
+    },
+    {
+      "slug": "03-como-citar-a-la-ia-en-apa",
+      "date": "2026-11-03",
+      "share": "a: objeto para guardar antes de entregar un trabajo",
+      "comment": "mi profe no acepta",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Cómo citar un chat de IA en APA",
+          "b": "APA actualizó su formato en setiembre de 2025."
+        },
+        {
+          "role": "value",
+          "label": "La referencia",
+          "h": "Empresa, fecha, título del chat, herramienta y enlace",
+          "b": "OpenAI. (2025, August 21). High school grammar concepts [Generative AI chat]. ChatGPT."
+        },
+        {
+          "role": "value",
+          "h": "El enlace sale de la opción de compartir",
+          "b": "ChatGPT y Claude te dan un enlace y un título para cada chat."
+        },
+        {
+          "role": "value",
+          "label": "En el texto",
+          "h": "(OpenAI, 2025)",
+          "b": "O dentro de la frase: «Según OpenAI (2025)»."
+        },
+        {
+          "role": "value",
+          "h": "Además, cuenta cómo la usaste",
+          "b": "APA pide describir el uso y, si aplica, poner el prompt que escribiste."
+        },
+        {
+          "role": "closer",
+          "h": "Revisa antes qué permite tu profesor",
+          "b": "Cada curso puede tener su propia regla sobre la IA."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo citar ChatGPT o Claude en APA con el formato nuevo de 2025: empresa, fecha, título del chat, herramienta y enlace. Guárdalo para tu próximo trabajo.",
+        "tt": "Cómo citar un chat de IA en APA. ¿Tu profe lo pide? #apa #tesis"
+      },
+      "alt": "Carrusel de futurX con el formato APA de 2025 para citar un chat de inteligencia artificial."
+    },
+    {
+      "slug": "04-los-detectores-de-ia-fallan",
+      "date": "2026-11-04",
+      "share": "b: dato que sirve para defenderse de una acusación injusta",
+      "comment": "a mi amiga le pasó",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Los detectores de texto hecho con IA se equivocan",
+          "b": "Hasta OpenAI apagó el suyo en 2023."
+        },
+        {
+          "role": "stat",
+          "label": "El detector de OpenAI",
+          "cifra": "26",
+          "rotulo": "por ciento",
+          "barra": 0.26,
+          "h": "De los textos hechos con IA, solo reconocía ese porcentaje.",
+          "b": "Y marcaba como IA a 9 de cada 100 textos escritos por personas."
+        },
+        {
+          "role": "value",
+          "h": "Con quien escribe en un idioma que no es el suyo, fallan más",
+          "b": "Un estudio de Stanford encontró que marcaban como IA textos en inglés de no nativos."
+        },
+        {
+          "role": "value",
+          "h": "Guarda cómo escribiste tu trabajo",
+          "b": "Google Docs y Word guardan el historial de versiones. Es tu prueba si te acusan."
+        },
+        {
+          "role": "closer",
+          "h": "¿A alguien de tu salón le pasó?"
+        }
+      ],
+      "caption": {
+        "ig": "¿Los detectores de IA funcionan? OpenAI cerró el suyo en 2023 por baja precisión. Si escribes tú, guarda el historial de versiones. Mándaselo a quien tiene que entregar un ensayo.",
+        "tt": "Los detectores de IA se equivocan. ¿A alguien de tu salón le pasó? #universitarios #chatgpt"
+      },
+      "alt": "Carrusel de futurX sobre la poca precisión de los detectores de texto hecho con IA y cómo guardar el historial de versiones."
+    },
+    {
+      "slug": "05-como-saber-si-una-imagen-es-de-ia",
+      "date": "2026-11-05",
+      "share": "a: para el tío que reenvía todo en el grupo de la familia",
+      "comment": "me la creí",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Cómo revisar si una imagen la hizo una IA",
+          "b": "No hay un método perfecto, pero estos ayudan."
+        },
+        {
+          "role": "value",
+          "n": 1,
+          "h": "Busca de dónde salió",
+          "b": "Con Google Lens ves dónde más se publicó y llegas a la fuente original."
+        },
+        {
+          "role": "value",
+          "n": 2,
+          "h": "Revisa sus credenciales de contenido",
+          "b": "OpenAI, Adobe y Microsoft marcan lo que genera su IA. Se revisa en verify.contentauthenticity.org"
+        },
+        {
+          "role": "value",
+          "n": 3,
+          "h": "Pregúntale a Gemini si tiene SynthID",
+          "b": "Es la marca invisible que Google pone en las imágenes que hace su IA."
+        },
+        {
+          "role": "value",
+          "h": "Si no encuentras ninguna marca, eso no prueba nada",
+          "b": "Una captura de pantalla borra las credenciales."
+        },
+        {
+          "role": "closer",
+          "h": "¿Cuál fue la última imagen falsa que te creíste?"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo saber si una imagen fue hecha con inteligencia artificial: Google Lens, credenciales de contenido y SynthID. ¿Cuál fue la última que te creíste?",
+        "tt": "Cómo revisar si una imagen es de IA. ¿Cuál te creíste? #inteligenciaartificial #desinformacion"
+      },
+      "alt": "Carrusel de futurX con tres formas de revisar si una imagen fue hecha con IA y sus límites."
+    },
+    {
+      "slug": "06-que-la-ia-calcule-con-codigo",
+      "date": "2026-11-06",
+      "share": "b: el error de cálculo que casi nadie revisa",
+      "comment": "lo uso para estadística",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "No le pidas a la IA que saque cuentas de memoria",
+          "b": "Pídele que las haga con código."
+        },
+        {
+          "role": "value",
+          "h": "Un modelo de lenguaje predice texto",
+          "b": "Por eso puede escribirte un promedio que suena bien y está mal."
+        },
+        {
+          "role": "value",
+          "h": "ChatGPT puede correr código sobre tu Excel",
+          "b": "Subes el archivo y calcula con Python, un lenguaje de programación."
+        },
+        {
+          "role": "value",
+          "label": "Para que salga bien",
+          "h": "Prepara bien tu archivo",
+          "items": [
+            "Columnas con nombres claros",
+            "Una fila por registro",
+            "Di qué quieres calcular"
+          ]
+        },
+        {
+          "role": "value",
+          "h": "Comprueba dos o tres filas a mano",
+          "b": "Si esas cuadran, puedes confiar más en el resto."
+        },
+        {
+          "role": "closer",
+          "h": "¿Qué cálculo le pedirías primero?"
+        }
+      ],
+      "caption": {
+        "ig": "Cómo usar ChatGPT para analizar datos de Excel sin errores: que calcule con código y que tú compruebes algunas filas. ¿Qué cálculo le pedirías primero?",
+        "tt": "Que la IA calcule con código, no de memoria. ¿Qué le pedirías? #excel #chatgpt"
+      },
+      "alt": "Carrusel de futurX sobre cómo pedirle a ChatGPT que calcule con código sobre un archivo de Excel."
+    },
+    {
+      "slug": "07-aprende-python-con-cs50",
+      "date": "2026-11-07",
+      "share": "a: para el amigo que dice que algún día va a aprender a programar",
+      "comment": "lo empiezo en diciembre",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Aprende a programar con un curso gratis de Harvard",
+          "b": "Se llama CS50P y no pide saber nada antes."
+        },
+        {
+          "role": "value",
+          "h": "Diez semanas de Python desde cero",
+          "b": "Clases en video, ejercicios y un proyecto final, a tu ritmo."
+        },
+        {
+          "role": "value",
+          "h": "Tiene un tutor de IA que no te da la respuesta",
+          "b": "El pato de CS50 te guía con preguntas hasta que lo resuelves tú."
+        },
+        {
+          "role": "value",
+          "h": "Es en inglés",
+          "b": "Los videos tienen subtítulos."
+        },
+        {
+          "role": "value",
+          "h": "También sirve si estudias letras o salud",
+          "b": "Para ordenar datos, automatizar algo repetitivo o entender qué hace la IA por dentro."
+        },
+        {
+          "role": "closer",
+          "h": "¿Lo harías en vacaciones?"
+        }
+      ],
+      "caption": {
+        "ig": "Curso gratis de Python de Harvard, CS50P, para aprender a programar desde cero con un tutor de IA que no te da las respuestas. Guárdalo para vacaciones.",
+        "tt": "Curso gratis de Python de Harvard. ¿Lo harías en vacaciones? #python #aprendeaprogramar"
+      },
+      "alt": "Carrusel de futurX sobre CS50P, el curso gratis de Python de Harvard, y su tutor de IA."
+    },
+    {
+      "slug": "08-la-ia-te-da-la-razon",
+      "date": "2026-11-08",
       "share": "b: lo que casi nadie sabe de por qué la IA te sigue la corriente",
       "comment": "me pasa siempre",
       "slides": [
@@ -52,8 +363,8 @@
       "alt": "Carrusel de futurX sobre la tendencia de los asistentes de IA a darle la razón al usuario y cómo pedirles una crítica honesta."
     },
     {
-      "slug": "02-escribe-el-primer-borrador-tu",
-      "date": "2026-11-02",
+      "slug": "09-escribe-el-primer-borrador-tu",
+      "date": "2026-11-09",
       "share": "b: un estudio que cambia cómo usas la IA para escribir",
       "comment": "yo empiezo con el chat",
       "slides": [
@@ -90,8 +401,8 @@
       "alt": "Carrusel de futurX sobre un estudio preliminar del MIT Media Lab: escribir primero sin IA ayuda a recordar y sentir propio el texto."
     },
     {
-      "slug": "03-repasa-en-dias-separados",
-      "date": "2026-11-03",
+      "slug": "10-repasa-en-dias-separados",
+      "date": "2026-11-10",
       "share": "a: método para copiar y pasar al grupo de estudio",
       "comment": "para anatomía",
       "slides": [
@@ -134,8 +445,8 @@
       "alt": "Carrusel de futurX con tres pasos para hacer tarjetas de repaso con IA y repasarlas en Anki en días separados."
     },
     {
-      "slug": "04-dile-a-la-ia-quien-eres",
-      "date": "2026-11-04",
+      "slug": "11-dile-a-la-ia-quien-eres",
+      "date": "2026-11-11",
       "share": "b: una configuración que casi nadie toca",
       "comment": "le puse que soy de enfermería",
       "slides": [

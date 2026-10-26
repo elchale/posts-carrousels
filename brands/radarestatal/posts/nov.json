@@ -4,7 +4,697 @@
   "format": "f1",
   "posts": [
     {
-      "slug": "01-diccionario-parte-1",
+      "slug": "01-subasta-inversa",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "camiones",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Hay licitaciones donde gana el *menor precio* y punto",
+          "b": "Se llama subasta inversa electrónica."
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Gana el *monto más bajo*",
+          "b": "Aquí no aplica el tope de 40 puntos."
+        },
+        {
+          "role": "value",
+          "label": "QUIÉN EVALÚA",
+          "h": "*Una persona*, el oficial de compra",
+          "b": "No un comité.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "LA HORA",
+          "h": "Los lances tienen *hora exacta*",
+          "b": "Es la única etapa con reloj."
+        },
+        {
+          "role": "value",
+          "label": "IGUAL",
+          "h": "En *comparación de precios*",
+          "b": "También evalúa una sola persona.",
+          "photo": "almacen"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» marca el tipo de proceso en tu feed",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. El feed del SEACE es gratis y sin cuenta.",
+          "img": "shot-feed.png"
+        }
+      ],
+      "caption": {
+        "ig": "Subasta inversa electrónica en licitaciones del estado peruano: gana el menor monto, aquí no aplica el tope de 40 puntos del precio. Evalúa una sola persona, el oficial de compra, no un comité. El periodo de lances es la única etapa de una licitación con hora exacta. En comparación de precios también evalúa una sola persona. ¿Tu rubro va por subasta inversa o por licitación con puntaje? #licitaciones #seace",
+        "tt": "Subasta inversa en licitaciones del estado: gana el menor monto, evalúa una sola persona y los lances tienen hora exacta. ¿Tu rubro va por subasta inversa o por licitación con puntaje? #licitaciones #seace",
+        "fb": "Subasta inversa electrónica: gana el menor monto que cumple, evalúa el oficial de compra como única persona y el periodo de lances es la única etapa con hora exacta. En comparación de precios también evalúa una sola persona."
+      },
+      "alt": "Carrusel que explica cómo funciona la subasta inversa electrónica del Estado y quién la evalúa."
+    },
+    {
+      "slug": "02-por-que-perdiste",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "archivo",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Por qué perdiste la buena pro *está escrito* y es público",
+          "b": "Casi nadie lo lee."
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "La buena pro *trae sustento*",
+          "b": "Los papeles de calificación y puntaje."
+        },
+        {
+          "role": "value",
+          "label": "SI OFERTASTE",
+          "h": "Puedes ver el *expediente* entero",
+          "b": "Como postor, tienes acceso.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "MENOS",
+          "h": "Las ofertas *no admitidas*",
+          "b": "Esas quedan fuera del expediente."
+        },
+        {
+          "role": "value",
+          "label": "DÓNDE",
+          "h": "En la *ficha del proceso*",
+          "b": "Buscador público del SEACE, sin cuenta.",
+          "photo": "oficina-reunion"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» guarda cómo terminó cada proceso",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Y el historial de quien te ganó, por RUC.",
+          "img": "shot-datos.png"
+        }
+      ],
+      "caption": {
+        "ig": "Licitaciones del estado peruano: por qué perdiste es público. La buena pro se publica con los documentos que sustentan la calificación y la evaluación, o sea con los papeles que explican quién ganó y por qué. Si presentaste oferta, como postor tienes acceso al expediente de contratación entero, menos las ofertas no admitidas. Lo abres en la ficha del proceso del buscador público del SEACE, sin cuenta. ¿Alguna vez leíste por qué perdiste, o solo viste el resultado? #licitaciones #seace",
+        "tt": "Licitaciones del estado: la buena pro se publica con su sustento y como postor puedes ver el expediente entero. Está en la ficha del proceso del SEACE. ¿Alguna vez leíste por qué perdiste, o solo viste el resultado? #licitaciones #seace",
+        "fb": "La buena pro se publica con los documentos que sustentan la calificación y la evaluación. Los participantes y postores tienen acceso al expediente de contratación, excepto las ofertas no admitidas. Se consulta en la ficha del proceso del buscador público del SEACE."
+      },
+      "alt": "Carrusel que explica que el sustento de una buena pro es público y cómo un postor accede al expediente para saber por qué perdió."
+    },
+    {
+      "slug": "03-postor-unico",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "carretera",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Con una sola oferta, la licitación *también se adjudica*",
+          "b": "No necesitas vencer a nadie."
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Una oferta *válida* basta",
+          "b": "Desierto es cuando no hay ninguna válida."
+        },
+        {
+          "role": "value",
+          "label": "EL PLAZO",
+          "h": "Consentimiento *el mismo día*",
+          "b": "Nadie más puede apelar.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "TU RIVAL",
+          "h": "Es el *papeleo*, no otro postor",
+          "b": "Te saca la admisión o la calificación."
+        },
+        {
+          "role": "value",
+          "label": "PISTA",
+          "h": "Busca los *desiertos* de tu rubro",
+          "b": "Donde nadie llegó, hay sitio.",
+          "photo": "obra"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te muestra cuáles quedaron desiertas",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Y cómo terminó cada una de tu rubro."
+        }
+      ],
+      "caption": {
+        "ig": "Postor único en licitaciones del estado peruano: con una sola oferta válida el proceso se adjudica igual. Desierto es cuando no hay ninguna oferta válida, no cuando hay una sola. Con un solo postor, el consentimiento de la buena pro se registra el mismo día, porque nadie más puede apelar. Tu rival real es el papeleo: la admisión y la calificación son lo que te saca. Busca los desiertos de tu rubro, donde nadie llegó hay sitio. ¿Te ha pasado ser el único postor? #licitaciones #proveedordelestado",
+        "tt": "Postor único en licitaciones del estado: con una sola oferta válida se adjudica igual, y el consentimiento es el mismo día. Tu rival es el papeleo. ¿Te ha pasado ser el único postor? #licitaciones #proveedordelestado",
+        "fb": "Postor único: con una sola oferta válida la licitación se adjudica; queda desierta solo si no hay ninguna oferta válida. Con una sola oferta el consentimiento de la buena pro se registra el mismo día de la notificación."
+      },
+      "alt": "Carrusel que explica que una licitación con un solo postor válido también se adjudica y qué la deja desierta."
+    },
+    {
+      "slug": "04-cambio-el-funcionario",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "lima",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Cuando cambian al funcionario, revisa *tres registros* públicos",
+          "b": "Sin llamar a nadie."
+        },
+        {
+          "role": "value",
+          "label": "REGISTRO 1",
+          "h": "La *designación*, en El Peruano",
+          "b": "Sale por resolución. Cargo y fecha."
+        },
+        {
+          "role": "value",
+          "label": "REGISTRO 2",
+          "h": "El *cronograma* de tu proceso",
+          "b": "Una postergación se registra ahí.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "REGISTRO 3",
+          "h": "El *registro de visitas*",
+          "b": "En tiempo real. Quién fue, cuándo y a qué."
+        },
+        {
+          "role": "value",
+          "label": "OJO",
+          "h": "No es motivo para *retirarte*",
+          "b": "Al proceso se entra por las bases.",
+          "photo": "oficina-reunion"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te avisa el día de la designación",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Te avisa cuando designan a un funcionario en una entidad que sigues, y cuando publica su registro de visitas."
+        }
+      ],
+      "caption": {
+        "ig": "Licitaciones del estado peruano y designaciones de funcionarios: tres registros públicos que revisas cuando cambia el jefe de una entidad que sigues. La designación sale por resolución en El Peruano, con cargo y fecha. El cronograma de tu proceso en el SEACE, porque una postergación se registra ahí. Y el registro de visitas en línea, en tiempo real: quién fue, cuándo y con qué motivo. Ninguno es un contacto, y no es motivo para retirarte, al proceso se entra por las bases. Mándaselo a quien sigue esa entidad contigo. #licitaciones #seace",
+        "tt": "Designaciones de funcionarios y licitaciones del estado: cuando cambia el jefe de una entidad, revisa la resolución en El Peruano, el cronograma de tu proceso y el registro de visitas en línea. Todo público. Mándaselo a quien sigue esa entidad contigo. #licitaciones",
+        "fb": "Cuando cambia un funcionario de una entidad que sigues, hay tres registros públicos: la resolución de designación en El Peruano, el cronograma del proceso en el SEACE y el registro de visitas en línea. No es motivo para retirarse de un proceso."
+      },
+      "alt": "Carrusel con los tres registros públicos que un proveedor revisa cuando designan a un funcionario nuevo en una entidad que sigue."
+    },
+    {
+      "slug": "05-error-de-suma",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "documentos",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Si te equivocas en una suma, los evaluadores la *corrigen* por ti",
+          "b": "Y tu precio unitario no cambia."
+        },
+        {
+          "role": "value",
+          "label": "DE OFICIO",
+          "h": "El *error aritmético* lo corrigen ellos",
+          "b": "Sin que lo pidas."
+        },
+        {
+          "role": "value",
+          "label": "FIRME",
+          "h": "Tu *precio unitario* queda igual",
+          "b": "La corrección no lo mueve.",
+          "photo": "archivo"
+        },
+        {
+          "role": "value",
+          "label": "SI FALTÓ",
+          "h": "Un papel *omitido* se subsana",
+          "b": "Si existía antes de la fecha de ofertas."
+        },
+        {
+          "role": "value",
+          "label": "EL PLAZO",
+          "h": "*2 días hábiles*, más 2 si los pides",
+          "b": "Te lo piden por la plataforma.",
+          "photo": "oficina-reunion"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te dice qué pide cada proceso antes de armar la oferta",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Su IA te explica los requisitos de cada proceso."
+        }
+      ],
+      "caption": {
+        "ig": "Subsanación de ofertas en licitaciones del estado peruano: el error aritmético en tu cuadro de precios lo corrigen de oficio los evaluadores, sin que lo pidas, y esa corrección no cambia tus precios unitarios. Un documento omitido se puede subsanar si ya existía antes de la fecha de presentación de ofertas. El plazo es de 2 días hábiles, ampliable 2 más a tu pedido, y te lo piden por la plataforma. ¿Sabías que el error aritmético lo corrigen de oficio, o te enteras hoy? #licitaciones #seace",
+        "tt": "Subsanación en licitaciones del estado: el error aritmético lo corrigen los evaluadores de oficio sin mover tu precio unitario, y el papel omitido se subsana si ya existía. 2 días hábiles, más 2. ¿Lo sabías o te enteras hoy? #licitaciones #seace",
+        "fb": "Subsanación de ofertas: los errores aritméticos los corrigen de oficio los evaluadores sin variar los precios unitarios ofertados; la omisión de un documento preexistente es subsanable en 2 días hábiles, ampliables 2 más."
+      },
+      "alt": "Carrusel que explica qué se subsana en una oferta al Estado, quién corrige los errores aritméticos y en qué plazo."
+    },
+    {
+      "slug": "06-cinco-requisitos",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "oficina-reunion",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Al Estado le importan *cinco requisitos* y tu oficina no es uno",
+          "b": "Requisitos de calificación, según la ley."
+        },
+        {
+          "role": "value",
+          "label": "1 Y 2",
+          "h": "Capacidad *legal* y técnica",
+          "b": "Cumple o no cumple, sin puntaje."
+        },
+        {
+          "role": "value",
+          "label": "3",
+          "h": "*Experiencia* en la especialidad",
+          "b": "Contratos y facturas, no años.",
+          "photo": "obra"
+        },
+        {
+          "role": "value",
+          "label": "4",
+          "h": "Condiciones del *consorcio*",
+          "b": "Solo si te presentas con otra empresa."
+        },
+        {
+          "role": "value",
+          "label": "5",
+          "h": "Capacidad *económica*",
+          "b": "Solo en procesos con precalificación.",
+          "photo": "almacen"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te dice si calzas antes de invertir la semana",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Su IA te explica qué pide cada proceso."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo ser proveedor del estado: los cinco requisitos de calificación que existen en la ley. Capacidad legal, capacidad técnica y profesional, experiencia del postor en la especialidad, condiciones de participación en consorcio y capacidad económica, esta última solo en procesos con precalificación. Son cumple o no cumple, sin puntaje. Ninguno es tu oficina, tu fachada ni tus contactos. ¿Cuál de los cinco te frena hoy? #proveedordelestado #licitaciones",
+        "tt": "Cómo ser proveedor del estado: la ley tiene cinco requisitos de calificación, legal, técnica, experiencia, consorcio y económica. Cumple o no cumple. Tu oficina no está en la lista. ¿Cuál de los cinco te frena hoy? #proveedordelestado #licitaciones",
+        "fb": "Los cinco requisitos de calificación en una licitación del Estado: capacidad legal, capacidad técnica y profesional, experiencia en la especialidad, condiciones de consorcio y capacidad económica (solo con precalificación). Son de cumplimiento, no de puntaje."
+      },
+      "alt": "Carrusel con los cinco requisitos de calificación que fija la ley para una oferta al Estado."
+    },
+    {
+      "slug": "07-pac-2027",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "obra",
+          "kicker": "PAC 2027",
+          "h": "En enero cada entidad publica su *lista de compras* del año",
+          "b": "Se llama PAC. Cuatro datos por ítem."
+        },
+        {
+          "role": "value",
+          "label": "DATO 1",
+          "h": "El *tipo de procedimiento*",
+          "b": "Licitación, subasta, comparación de precios."
+        },
+        {
+          "role": "value",
+          "label": "DATO 2",
+          "h": "La *cuantía*",
+          "b": "El monto que la entidad calcula.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "DATO 3",
+          "h": "El *mes* de convocatoria",
+          "b": "Referencial. Se modifica durante el año."
+        },
+        {
+          "role": "value",
+          "label": "OJO",
+          "h": "También convocan *lo no planeado*",
+          "b": "Estar en el plan no es requisito.",
+          "photo": "oficina-reunion"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te avisa cuando lo planeado se convoca",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Sigue las entidades que elijas.",
+          "img": "shot-herramientas.png"
+        }
+      ],
+      "caption": {
+        "ig": "PAC 2027, el plan anual de contrataciones: en enero cada entidad publica en el SEACE su lista de compras del año. Por cada ítem trae el tipo de procedimiento, la cuantía, el mes referencial de convocatoria y la cantidad. Se modifica en cualquier momento del año, y ojo: también convocan lo que no estaba en el plan, estar ahí no es requisito. Guárdalo para la primera semana de enero. #licitaciones #seace",
+        "tt": "PAC 2027: en enero cada entidad publica su plan anual de contrataciones con tipo de procedimiento, cuantía y mes referencial por ítem. Se modifica durante el año y también convocan lo no planeado. ¿Ya revisaste el PAC de tu entidad este año o nunca? #licitaciones #seace",
+        "fb": "El plan anual de contrataciones se publica en el SEACE y trae por ítem el tipo de procedimiento, la cuantía, el mes referencial de convocatoria y la cantidad. Se modifica durante el año y estar en el plan no es requisito para convocar."
+      },
+      "alt": "Carrusel que explica qué trae el plan anual de contrataciones de cada entidad y qué no garantiza."
+    },
+    {
+      "slug": "08-experiencia-parte-1",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "almacen",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Tu experiencia ante el Estado se mide en *soles facturados*",
+          "b": "Experiencia del postor, parte 1."
+        },
+        {
+          "role": "value",
+          "label": "QUÉ CUENTA",
+          "h": "Monto *facturado* en ventas iguales",
+          "b": "O similares a lo que piden."
+        },
+        {
+          "role": "value",
+          "label": "CUÁNTO ATRÁS",
+          "h": "*Diez años* en bienes",
+          "b": "Desde la conformidad o el comprobante.",
+          "photo": "camiones"
+        },
+        {
+          "role": "value",
+          "label": "EL TOPE",
+          "h": "Máximo *tres veces* la cuantía",
+          "b": "No te pueden pedir más que eso."
+        },
+        {
+          "role": "value",
+          "label": "CUÁNTAS",
+          "h": "Hasta *veinte* contrataciones",
+          "b": "Con conformidad o comprobante pagado.",
+          "photo": "documentos"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te dice cuánta experiencia pide cada proceso",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Su IA te explica los requisitos antes de abrir las bases."
+        }
+      ],
+      "caption": {
+        "ig": "Experiencia del postor en licitaciones del estado peruano, parte 1. Se mide en monto facturado por ventas iguales o similares a lo que piden. En bienes, cuenta lo de los últimos diez años, desde la conformidad o el comprobante de pago. La entidad no puede exigir más de tres veces la cuantía del proceso o del ítem. Se acredita con máximo veinte contrataciones, con conformidad o con comprobante pagado. Mañana la parte 2: tus ventas a clientes privados. ¿Qué duda te queda sobre la experiencia? #licitaciones #proveedordelestado",
+        "tt": "Experiencia del postor en licitaciones del estado, parte 1: monto facturado en ventas iguales o similares, diez años en bienes, máximo tres veces la cuantía, hasta veinte contrataciones. ¿Qué duda te queda sobre la experiencia? #licitaciones #proveedordelestado",
+        "fb": "Experiencia del postor en licitaciones de bienes: monto facturado por ventas iguales o similares en los últimos diez años, tope de tres veces la cuantía, acreditada con máximo veinte contrataciones con conformidad o comprobante pagado."
+      },
+      "alt": "Carrusel que explica cómo se mide la experiencia del postor ante el Estado. Parte 1 de 2."
+    },
+    {
+      "slug": "09-experiencia-parte-2",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "documentos",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Tu factura a un privado vale ante el Estado solo *pagada*",
+          "b": "Experiencia del postor, parte 2."
+        },
+        {
+          "role": "value",
+          "label": "CON PRIVADOS",
+          "h": "El contrato *no basta*",
+          "b": "Obligatorio el comprobante cancelado."
+        },
+        {
+          "role": "value",
+          "label": "LA PRUEBA",
+          "h": "Cancelación *documentada*",
+          "b": "Acreditada documental y fehacientemente.",
+          "photo": "archivo"
+        },
+        {
+          "role": "value",
+          "label": "CON EL ESTADO",
+          "h": "Contrato más *conformidad*",
+          "b": "O la orden de compra con constancia."
+        },
+        {
+          "role": "value",
+          "label": "SI ERES MYPE",
+          "h": "Te piden máximo *25% de la cuantía*",
+          "b": "En procesos abreviados.",
+          "photo": "oficina-reunion"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te acerca los procesos de tu talla",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Recomienda los que calzan con lo que tu empresa ya vendió."
+        }
+      ],
+      "caption": {
+        "ig": "Experiencia del postor en licitaciones del estado peruano, parte 2: tus ventas a privados. Con clientes privados el contrato con conformidad no basta: es obligatorio el comprobante de pago con la cancelación acreditada documental y fehacientemente. Con el Estado sí vale el contrato o la orden de compra con su conformidad o constancia. Y si eres MYPE, en procesos abreviados la experiencia exigida no supera el 25% de la cuantía. Mándaselo a tu contador antes de armar la experiencia. #licitaciones #proveedordelestado",
+        "tt": "Experiencia del postor, parte 2: con clientes privados solo vale el comprobante pagado, el contrato no basta. Con el Estado sí vale el contrato con conformidad. MYPE en abreviados: máximo 25% de la cuantía. Mándaselo a tu contador. #licitaciones #proveedordelestado",
+        "fb": "Experiencia del postor, parte 2. Las ventas a privados se acreditan obligatoriamente con comprobante de pago cancelado de forma documental y fehaciente. Para MYPE en modalidad abreviada la experiencia exigida no supera el 25% de la cuantía."
+      },
+      "alt": "Carrusel que explica cómo se acredita la experiencia con clientes privados y el tope para MYPE. Parte 2 de 2."
+    },
+    {
+      "slug": "10-postergacion",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "casco",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "La entidad puede postergar la licitación, *tú no* puedes",
+          "b": "Así funciona el cronograma."
+        },
+        {
+          "role": "value",
+          "label": "LA ENTIDAD",
+          "h": "Puede *postergar* etapas",
+          "b": "Y registra el cronograma nuevo en el SEACE."
+        },
+        {
+          "role": "value",
+          "label": "TÚ",
+          "h": "Sin *prórroga* para ofertar",
+          "b": "Ese día, de 00:01 a 23:59, hora peruana.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "NO ANTES",
+          "h": "No puedes subir tu oferta *la víspera*",
+          "b": "La ventana abre ese mismo día."
+        },
+        {
+          "role": "value",
+          "label": "AVISO",
+          "h": "Se notifica *el mismo día*",
+          "b": "Publicado en la plataforma, ya te notificaron.",
+          "photo": "obra"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te muestra el cronograma vigente",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Con el cronograma de cada proceso de tu rubro."
+        }
+      ],
+      "caption": {
+        "ig": "Cronograma de licitaciones del estado peruano: la entidad puede postergar etapas y lo registra en el SEACE con el cronograma nuevo. Tú no tienes prórroga: la oferta se sube el día programado, de 00:01 a 23:59 hora peruana, y no se puede subir la víspera porque la ventana abre ese mismo día. Todo lo publicado en la plataforma se entiende notificado el mismo día. ¿Te postergaron alguna vez un proceso a último minuto? #licitaciones #seace",
+        "tt": "Cronograma de licitaciones del estado: la entidad puede postergar y lo registra en el SEACE. Tú no: ofertas ese día de 00:01 a 23:59, nunca la víspera. ¿Te postergaron alguna vez un proceso a último minuto? #licitaciones #seace",
+        "fb": "La entidad puede postergar las etapas de un procedimiento registrándolo en el SEACE. El postor no tiene prórroga: presenta su oferta el día programado entre las 00:01 y las 23:59 hora peruana. Lo publicado en la plataforma se entiende notificado el mismo día."
+      },
+      "alt": "Carrusel que explica quién puede mover el cronograma de una licitación y cuál es la ventana real para presentar la oferta."
+    },
+    {
+      "slug": "11-apelar-como-mype",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "archivo",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Apelar una buena pro le cuesta a una MYPE *seis veces menos*",
+          "b": "Y hay algo que no puedes apelar."
+        },
+        {
+          "role": "value",
+          "label": "LA GARANTÍA",
+          "h": "*0.5%* de la cuantía para MYPE",
+          "b": "El resto paga 3%."
+        },
+        {
+          "role": "value",
+          "label": "EL PLAZO",
+          "h": "*8 días hábiles* desde la buena pro",
+          "b": "5 en los procesos abreviados.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "ANTE QUIÉN",
+          "h": "El *Tribunal* si pasa de 50 UIT",
+          "b": "Si no, la propia entidad."
+        },
+        {
+          "role": "value",
+          "label": "NO SE APELA",
+          "h": "Las *bases* ni su integración",
+          "b": "Eso se cuestiona en consultas, antes.",
+          "photo": "oficina-reunion"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te muestra quién ganó y con qué",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Y el historial de esa empresa por RUC.",
+          "img": "shot-datos.png"
+        }
+      ],
+      "caption": {
+        "ig": "Recurso de apelación en licitaciones del estado peruano para MYPE. La garantía es 0.5% de la cuantía si eres MYPE, contra 3% para el resto: seis veces menos. El plazo son 8 días hábiles desde la buena pro, 5 en los procedimientos abreviados. Se presenta ante el Tribunal si la cuantía pasa de 50 UIT, y ante la propia entidad si no. Lo que no se puede apelar: las bases ni su integración, eso se cuestiona antes, en consultas y observaciones. ¿Sabías que una MYPE paga menos garantía para apelar, o te enteras hoy? #licitaciones #proveedordelestado",
+        "tt": "Apelar una buena pro como MYPE: garantía de 0.5% en vez de 3%, 8 días hábiles, 5 en abreviados. Las bases no se apelan. ¿Sabías que una MYPE paga menos garantía para apelar, o te enteras hoy? #licitaciones #proveedordelestado",
+        "fb": "Recurso de apelación: la garantía es 3% de la cuantía y 0.5% para MYPE. El plazo es de 8 días hábiles desde la buena pro, 5 en procedimientos abreviados. Las bases y su integración no son impugnables."
+      },
+      "alt": "Carrusel que explica cuánto cuesta, cuándo y ante quién apela una MYPE una buena pro, y qué no se puede apelar."
+    },
+    {
+      "slug": "12-compras-chicas-publicas",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "almacen",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Las compras chicas del Estado se publican *hasta el último pago*",
+          "b": "Contratos menores, de hasta ocho UIT."
+        },
+        {
+          "role": "value",
+          "label": "EL CICLO",
+          "h": "Se registra *desde el inicio*",
+          "b": "Desde cotizar hasta el último pago."
+        },
+        {
+          "role": "value",
+          "label": "SIN PROCESO",
+          "h": "Se cierra con una *orden de compra*",
+          "b": "Notificada por la plataforma.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "SIN APELACIÓN",
+          "h": "Sus actos *no se impugnan*",
+          "b": "La ley los excluye del recurso."
+        },
+        {
+          "role": "value",
+          "label": "PARA TI",
+          "h": "Ves *a quién* le compran lo tuyo",
+          "b": "Entidad, objeto y proveedor, públicos.",
+          "photo": "oficina-reunion"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te muestra a quién le compra cada entidad",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Con el historial por RUC de cualquier proveedor."
+        }
+      ],
+      "caption": {
+        "ig": "Contratos menores del estado peruano, las compras de hasta ocho UIT: se publican enteras. La entidad está obligada a registrar en la plataforma desde las actuaciones preparatorias hasta el último pago. No hay proceso de selección, se perfeccionan con una orden de compra o de servicio notificada por la plataforma, y sus actos no son impugnables. Para ti es inteligencia: ves a qué entidad y a qué proveedor le compran lo tuyo. ¿Lo sabías o te enteras hoy? #licitaciones #seace",
+        "tt": "Contratos menores del estado, hasta ocho UIT: se registran desde la cotización hasta el último pago, se cierran con orden de compra y no se impugnan. Ves a quién le compran lo tuyo. ¿Lo sabías o te enteras hoy? #licitaciones #seace",
+        "fb": "Los contratos menores, hasta ocho UIT, se registran en la plataforma desde las actuaciones preparatorias hasta el último pago. Se perfeccionan con una orden de compra o de servicio y sus actuaciones no son impugnables."
+      },
+      "alt": "Carrusel que explica que los contratos menores del Estado se publican en todo su ciclo y qué inteligencia dan a un proveedor."
+    },
+    {
+      "slug": "13-ganar-no-es-firmar",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "carretera",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Entre la buena pro y la firma corren *cuatro plazos*",
+          "b": "Todos en días hábiles."
+        },
+        {
+          "role": "value",
+          "label": "PLAZO 1",
+          "h": "Apelación, *8 días hábiles*",
+          "b": "5 en abreviados. Luego, consentimiento."
+        },
+        {
+          "role": "value",
+          "label": "PLAZO 2",
+          "h": "Tus papeles, *8 días hábiles*",
+          "b": "5 si no te piden garantía.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "PLAZO 3",
+          "h": "La firma, hasta *3 días hábiles*",
+          "b": "4 más si observan algo."
+        },
+        {
+          "role": "value",
+          "label": "PLAZO 4",
+          "h": "Te revisan, *10 días hábiles*",
+          "b": "Verificación posterior al ganador.",
+          "photo": "oficina-reunion"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te sigue cada proceso hasta la firma",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Y te muestra cómo terminó cada proceso de tu rubro."
+        }
+      ],
+      "caption": {
+        "ig": "Licitaciones del estado peruano: entre la buena pro y la firma corren cuatro plazos. Uno, la apelación: 8 días hábiles, 5 en abreviados, y recién después el consentimiento. Dos, tus documentos para perfeccionar el contrato: 8 días hábiles desde el consentimiento, 5 si no te piden garantía. Tres, la firma: hasta 3 días hábiles, 4 más si observan algo. Cuatro, la verificación posterior al ganador: 10 días hábiles. Mándaselo a quien lleva tus papeles de firma. #licitaciones #proveedordelestado",
+        "tt": "Entre la buena pro y la firma con el estado corren cuatro plazos en días hábiles: apelación 8, tus papeles 8, firma 3 y verificación posterior 10. Mándaselo a quien lleva tus papeles de firma. #licitaciones #proveedordelestado",
+        "fb": "Entre la buena pro y la firma: 8 días hábiles de apelación (5 en abreviados) hasta el consentimiento, 8 días hábiles para presentar los documentos (5 sin garantía), hasta 3 días hábiles para la firma y 10 días hábiles de verificación posterior al ganador."
+      },
+      "alt": "Carrusel con los cuatro plazos que corren entre ganar la buena pro y firmar el contrato con el Estado."
+    },
+    {
+      "slug": "14-papel-inexacto-pierde",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "lima",
+          "kicker": "PROVEEDOR DEL ESTADO",
+          "h": "Si tu competidor ganó con un papel *inexacto*, pierde la buena pro",
+          "b": "Así funciona la verificación posterior."
+        },
+        {
+          "role": "value",
+          "label": "AL GANADOR",
+          "h": "Lo revisan en *10 días hábiles*",
+          "b": "Sin muestreo. A todos los ganadores."
+        },
+        {
+          "role": "value",
+          "label": "SI HAY FALSEDAD",
+          "h": "*Nulidad* de la buena pro",
+          "b": "O del contrato ya firmado.",
+          "photo": "documentos"
+        },
+        {
+          "role": "value",
+          "label": "Y DESPUÉS",
+          "h": "Va al *Tribunal* de Contrataciones",
+          "b": "Puede terminar inhabilitado."
+        },
+        {
+          "role": "value",
+          "label": "PÚBLICO",
+          "h": "La lista de *sancionados*",
+          "b": "Cinco años atrás, en el RNP.",
+          "photo": "archivo"
+        },
+        {
+          "role": "closer",
+          "h": "El «*radar*» te muestra el historial de quien te ganó",
+          "b": "Radar Estatal es la app que vigila las compras del Estado peruano y te avisa qué proceso le sirve a tu empresa. Con el historial ante el Estado de cualquier RUC."
+        }
+      ],
+      "caption": {
+        "ig": "Verificación posterior en licitaciones del estado peruano: si el ganador presentó un documento falso o inexacto, pierde la buena pro. La entidad revisa al ganador dentro de los 10 días hábiles siguientes al consentimiento, sin muestreo, a todos. Si hay falsedad o inexactitud, la buena pro o el contrato son nulos y el caso pasa al Tribunal de Contrataciones, que puede inhabilitarlo. La lista de sancionados de los últimos cinco años es pública en el RNP. ¿Sabías que al ganador lo revisan siempre, o te enteras hoy? #licitaciones #rnp",
+        "tt": "Verificación posterior en licitaciones del estado: al ganador lo revisan en 10 días hábiles, sin muestreo. Papel falso o inexacto es nulidad y Tribunal. La lista de sancionados es pública. ¿Sabías que al ganador lo revisan siempre, o te enteras hoy? #licitaciones",
+        "fb": "Verificación posterior a la oferta ganadora: la entidad la realiza dentro de los 10 días hábiles siguientes al consentimiento, sobre todos los ganadores. La falsedad o inexactitud acarrea nulidad de la buena pro o del contrato y comunicación al Tribunal. La lista de sancionados es pública en el RNP."
+      },
+      "alt": "Carrusel que explica la verificación posterior al ganador de una licitación y sus consecuencias públicas."
+    },
+    {
+      "slug": "15-diccionario-parte-1",
       "slides": [
         {
           "role": "cover",
@@ -54,7 +744,7 @@
       "alt": "Carrusel diccionario con cuatro términos del proceso de selección del Estado. Parte 1 de 2."
     },
     {
-      "slug": "02-diccionario-parte-2",
+      "slug": "16-diccionario-parte-2",
       "slides": [
         {
           "role": "cover",

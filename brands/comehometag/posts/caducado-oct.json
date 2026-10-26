@@ -1,0 +1,399 @@
+{
+ "series": "oct",
+ "brand": "comehometag",
+ "format": "f1",
+ "posts": [
+  {
+   "slug": "12-tiembla-y-no-estas",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "familia-parque",
+     "kicker": "SIMULACRO NOCTURNO",
+     "h": "Tiembla a las 8pm y no estás: ¿quién *saca* a tus hijos?"
+    },
+    {
+     "role": "value",
+     "label": "COPIA ESTO",
+     "h": "Para quien se *queda* con ellos",
+     "b": "Abuela, nana o hermano mayor"
+    },
+    {
+     "role": "value",
+     "photo": "abuela",
+     "label": "BRAZO 1",
+     "h": "Quién carga al *bebé*",
+     "b": "Siempre la misma persona, dicho hoy"
+    },
+    {
+     "role": "value",
+     "label": "BRAZO 2",
+     "h": "Quién toma al de *cuatro* años",
+     "b": "De noche no encuentra la puerta solo"
+    },
+    {
+     "role": "value",
+     "label": "LA ZONA",
+     "h": "Dónde se *paran* a esperar",
+     "b": "Un sitio con nombre: la columna del patio"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Para esa noche en que no *estás*",
+     "b": "La «pulsera» ComeHomeTag duerme puesta: si un sismo real separa a tus hijos de quien los cuida, quien los encuentre escanea el QR y ve tu número."
+    }
+   ],
+   "caption": {
+    "ig": "Simulacro nocturno de sismo con niños y tú no estás en casa: el plan para quien se queda con ellos. Quién carga al bebé, siempre la misma persona. Quién toma al de cuatro años, porque de noche no encuentra la puerta solo. Y dónde se paran a esperar: un sitio con nombre, como la columna del patio. Mándaselo hoy a quien se queda con tus hijos de noche. #simulacro #sismo",
+    "tt": "Simulacro nocturno: si tiembla a las 8pm y no estás, este es el plan para quien se queda con tus hijos. Quién carga al bebé, quién toma al de cuatro y dónde esperan. Mándaselo a quien los cuida de noche. #simulacro #sismo",
+    "fb": "El simulacro es de noche y muchos no vamos a estar en casa a esa hora. El plan no es para ti, es para quien se queda con ellos: quién carga al bebé, quién toma al de cuatro años y en qué sitio con nombre se paran a esperar. Pásaselo hoy a la abuela, a la nana o al hermano mayor."
+   },
+   "alt": "El reparto de brazos para un sismo de noche cuando los papás no están: quién carga al bebé, quién toma al niño pequeño y dónde esperan.",
+   "expiredAt": "2026-10-26"
+  },
+  {
+   "slug": "13-kit-de-cada-cama",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "noche-calle",
+     "kicker": "SIMULACRO NOCTURNO",
+     "h": "Parte 2: lo que va al lado de cada *cama* desde hoy"
+    },
+    {
+     "role": "value",
+     "label": "PIEZA 1",
+     "h": "*Zapatos* cerrados, apuntando a la puerta",
+     "b": "El piso se llena de vidrio"
+    },
+    {
+     "role": "value",
+     "photo": "abuelo",
+     "label": "PIEZA 2",
+     "h": "*Linterna* en el mismo sitio siempre",
+     "b": "El celular carga lejos y al 6%"
+    },
+    {
+     "role": "value",
+     "label": "PIEZA 3",
+     "h": "Los *lentes* del abuelo",
+     "b": "Sin ellos no ve la puerta ni la escalera"
+    },
+    {
+     "role": "value",
+     "label": "PIEZA 4",
+     "h": "La *llave* de la reja",
+     "b": "Colgada en el mismo clavo, no en un bolsillo"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Lo que también duerme *puesto*",
+     "b": "La «pulsera» ComeHomeTag no se quita de noche: si el sismo los separa, quien encuentre a tu hijo o a tu papá escanea el QR y ve tu número."
+    }
+   ],
+   "caption": {
+    "ig": "Kit de sismo para la noche, parte 2: lo que va al lado de cada cama. Zapatos cerrados apuntando a la puerta, porque el piso se llena de vidrio. Una linterna en el mismo sitio siempre, porque el celular a esa hora carga en otro cuarto. Los lentes del abuelo, sin ellos no ve la escalera. Y la llave de la reja colgada en el mismo clavo. ¿Cuál falta al lado de tu cama? #simulacro #sismo",
+    "tt": "Kit de sismo de noche, parte 2, al lado de cada cama: zapatos cerrados, linterna fija, los lentes del abuelo y la llave de la reja. ¿Cuál falta al lado de la tuya? #simulacro #sismo",
+    "fb": "Parte 2 del plan para el simulacro nocturno: cuatro cosas al lado de cada cama. Zapatos cerrados apuntando a la puerta, linterna en el mismo sitio siempre (el celular no es la linterna: a esa hora carga lejos), los lentes del abuelo y la llave de la reja en su clavo. ¿Cuál te falta esta noche?"
+   },
+   "alt": "Cuatro cosas al lado de cada cama para un sismo de noche: zapatos cerrados, linterna fija, los lentes del abuelo y la llave de la reja.",
+   "expiredAt": "2026-10-26"
+  },
+  {
+   "slug": "14-ensayo-a-oscuras",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "nino-mano",
+     "kicker": "SIMULACRO NOCTURNO",
+     "h": "Parte 3: apaga la luz y cronometra a tu *familia*"
+    },
+    {
+     "role": "value",
+     "label": "EL ENSAYO",
+     "h": "Cada uno desde su *cama*",
+     "b": "Luz apagada, contando pasos a la puerta"
+    },
+    {
+     "role": "value",
+     "photo": "noche-calle",
+     "label": "EL NÚMERO",
+     "h": "Segundos hasta la zona *segura*",
+     "b": "Se apunta en la refri y se mejora"
+    },
+    {
+     "role": "value",
+     "label": "EL GAS",
+     "h": "Quién cierra la *llave* y dónde está",
+     "b": "Nada de fuego hasta revisarla"
+    },
+    {
+     "role": "value",
+     "label": "LA VOZ",
+     "h": "Cada uno grita su *nombre* al llegar",
+     "b": "Así sabes quién falta sin ver"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Lo que se lee sin *luz*",
+     "b": "El QR de la «pulsera» ComeHomeTag se lee con la linterna de cualquier celular: quien encuentre a tu hijo ve tu número al instante."
+    }
+   ],
+   "caption": {
+    "ig": "Ensayo de sismo a oscuras con niños, parte 3: apaga la luz y cronometra. Cada uno sale desde su cama contando pasos hasta la puerta. Los segundos hasta la zona segura se apuntan en la refri y se mejoran en el siguiente ensayo. Alguien fijo cierra la llave del gas y todos saben dónde está. Y cada uno grita su nombre al llegar, para saber quién falta sin ver. ¿Cuántos segundos hizo tu familia? #simulacro #sismo",
+    "tt": "Ensayo de sismo a oscuras, parte 3: cada uno desde su cama, luz apagada, cronómetro hasta la zona segura y cada uno grita su nombre al llegar. ¿Cuántos segundos hizo tu familia? #simulacro #sismo",
+    "fb": "Parte 3: el ensayo con la luz apagada. Cada uno desde su cama, contando pasos hasta la puerta, con cronómetro hasta la zona segura. El número se apunta en la refri. Alguien fijo cierra el gas. Y al llegar, cada uno grita su nombre: así sabes quién falta sin ver nada. ¿Cuántos segundos hizo tu familia?"
+   },
+   "alt": "Ensayo de sismo con la luz apagada: cada uno desde su cama, cronómetro hasta la zona segura, quién cierra el gas y gritar el nombre al llegar.",
+   "expiredAt": "2026-10-26"
+  },
+  {
+   "slug": "15-hoy-8pm-no-estan-juntos",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "abuela",
+     "kicker": "SIMULACRO NOCTURNO",
+     "h": "Hoy a las 8pm tiembla y no están *juntos*: el plan"
+    },
+    {
+     "role": "value",
+     "label": "TÚ AFUERA",
+     "h": "No *llames*, escribe una vez",
+     "b": "La línea se satura, el texto entra"
+    },
+    {
+     "role": "value",
+     "photo": "abuelo",
+     "label": "EN CASA",
+     "h": "Quien se queda *manda*, no tú",
+     "b": "Dicho hoy: la abuela decide y saca"
+    },
+    {
+     "role": "value",
+     "label": "EL ENCUENTRO",
+     "h": "Un sitio con *nombre* propio",
+     "b": "El parque de la esquina, no «afuera»"
+    },
+    {
+     "role": "value",
+     "label": "8PM",
+     "h": "Cada uno donde *estaría* un martes",
+     "b": "Uno en la ducha, otra con audífonos"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Para cuando pasa de verdad y los *separa*",
+     "b": "Los niños y abuelos con la «pulsera» ComeHomeTag llevan un QR: quien los encuentre lo escanea y te llama, estés donde estés."
+    }
+   ],
+   "caption": {
+    "ig": "Simulacro nacional nocturno hoy a las 8pm y tu familia no va a estar junta: el plan. Tú, afuera, no llamas: escribes una vez, porque la línea se satura y el texto entra. En casa manda quien se queda, dicho desde hoy. El punto de encuentro tiene nombre propio: el parque de la esquina, no «afuera». Y se ensaya desde donde cada uno estaría un martes a esa hora. Mándaselo a quien está con tus hijos hoy a las 8pm. #simulacro #sismo",
+    "tt": "Simulacro nocturno hoy 8pm y no están juntos: tú escribes una vez en vez de llamar, en casa manda quien se queda y el punto de encuentro tiene nombre propio. Mándaselo a quien está con tus hijos esta noche. #simulacro #sismo",
+    "fb": "Hoy a las 8pm es el simulacro y la mayoría no vamos a estar con nuestros hijos a esa hora. El plan: el que está afuera escribe una vez en vez de llamar (la línea se satura, el texto entra), en casa manda quien se queda, y el punto de encuentro tiene nombre propio. Pásaselo a quien está con tus hijos esta noche."
+   },
+   "alt": "Plan de sismo para una familia que no está junta a la hora del simulacro: escribir en vez de llamar, quién manda en casa y un punto de encuentro con nombre.",
+   "expiredAt": "2026-10-26"
+  },
+  {
+   "slug": "16-abuelo-no-va-a-la-procesion",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "abuelo",
+     "kicker": "MES MORADO",
+     "h": "Tu papá con demencia no va a la *procesión*. No es crueldad"
+    },
+    {
+     "role": "value",
+     "label": "LA RAZÓN",
+     "h": "La *multitud* lo pone nervioso",
+     "b": "Y un sitio nuevo lo desorienta"
+    },
+    {
+     "role": "value",
+     "photo": "mercado",
+     "label": "LO QUE SÍ",
+     "h": "La misa en su *parroquia*",
+     "b": "El sitio que conoce, a la hora tranquila"
+    },
+    {
+     "role": "value",
+     "label": "SI IGUAL VA",
+     "h": "Un *brazo* fijo con nombre",
+     "b": "Yo hasta la iglesia, después tú"
+    },
+    {
+     "role": "value",
+     "label": "LA SEÑAL",
+     "h": "«Ya *recé*» es «ya nos vamos»",
+     "b": "Él nunca va a decir «estoy cansado»"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Para el que reza donde *siempre* rezó",
+     "b": "La «pulsera» ComeHomeTag lleva un QR: si en el mar morado se aleja, quien lo vea desorientado lo escanea con su celular y ve tu número."
+    }
+   ],
+   "caption": {
+    "ig": "Adulto mayor con demencia en la procesión del Señor de los Milagros: no llevarlo no es crueldad. Ponerse nervioso en sitios llenos de gente y desorientarse en lugares nuevos son señales de riesgo de deambular. Lo que sí: la misa en su parroquia, el sitio que conoce, a la hora tranquila. Y si igual va, un brazo fijo con nombre y una señal digna para volver: «ya recé». ¿Lo llevas o no lo llevas? #señordelosmilagros #alzheimer",
+    "tt": "Abuelo con demencia y la procesión del Señor de los Milagros: la multitud lo pone nervioso y el sitio nuevo lo desorienta. Lo que sí: la misa en su parroquia. ¿Lo llevas o no lo llevas? #señordelosmilagros #alzheimer",
+    "fb": "Es el mes morado y en muchas casas se discute lo mismo: ¿llevamos al abuelo? Con demencia, la multitud y el sitio nuevo son dos señales de riesgo de que se pierda. Dejarlo en la misa de su parroquia no es crueldad, es cuidado. Y si igual va: un brazo fijo con nombre, y la señal «ya recé» para volver sin que diga que está cansado. ¿Ustedes lo llevan o no?"
+   },
+   "alt": "Por qué un adulto mayor con demencia puede no ir a la procesión, qué hacer en su lugar y el plan si igual va.",
+   "expiredAt": "2026-10-26"
+  },
+  {
+   "slug": "19-mensaje-hermano-lleva-al-abuelo",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "abuela",
+     "kicker": "MES MORADO",
+     "h": "El mensaje para tu *hermano* que lleva al abuelo a la procesión"
+    },
+    {
+     "role": "value",
+     "label": "COPIA ESTO",
+     "h": "«Su brazo es *tuyo* hasta la iglesia»",
+     "b": "Luego el mío. Nunca «alguien»"
+    },
+    {
+     "role": "value",
+     "photo": "abuelo",
+     "label": "LÍNEA 2",
+     "h": "«Cada hora, una *banca*»",
+     "b": "Él no va a decir que está cansado"
+    },
+    {
+     "role": "value",
+     "label": "LÍNEA 3",
+     "h": "«Salen cuando el anda *descansa*»",
+     "b": "Policía, y dices «tiene demencia»"
+    },
+    {
+     "role": "value",
+     "label": "LÍNEA 4",
+     "h": "«Si no lo ves *15* minutos, avisas»",
+     "b": "Policía, y dices que tiene demencia"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Para el hermano que lo *lleva* hoy",
+     "b": "El abuelo sale con su «pulsera» ComeHomeTag: si se aleja a rezar donde siempre rezó, quien lo asista escanea el QR y te llama."
+    }
+   ],
+   "caption": {
+    "ig": "Llevar al abuelo a la procesión del Señor de los Milagros: el mensaje para el hermano que lo lleva. Su brazo es tuyo hasta la iglesia y después el mío, con nombre, nunca «alguien». Cada hora una banca, porque él no va a decir que está cansado. Salen cuando el anda descansa, antes de que la multitud decida. Y si no lo ves quince minutos, avisas a la policía diciendo que tiene demencia. Mándaselo a quien lleva al abuelo a la procesión este año. #señordelosmilagros #adultomayor",
+    "tt": "Llevar al abuelo a la procesión: su brazo tiene dueño con nombre, cada hora una banca, salen cuando el anda descansa y a los 15 minutos sin verlo se avisa. Mándaselo a quien lo lleva este año. #señordelosmilagros #adultomayor",
+    "fb": "Al abuelo lo lleva tu hermano y nadie le dijo cómo. Este es el mensaje: su brazo es tuyo hasta la iglesia y después el mío, con nombre y no «alguien»; cada hora una banca, porque él no va a decir que está cansado; salen cuando el anda descansa; y si no lo ves quince minutos, avisas a la policía diciendo que tiene demencia. Pásaselo a quien lo lleva este año."
+   },
+   "alt": "Cuatro líneas para quien lleva a un adulto mayor a una procesión: turnos del brazo con nombre, una banca cada hora, cuándo salir y cuándo avisar.",
+   "expiredAt": "2026-10-26"
+  },
+  {
+   "slug": "20-cuatro-ninos-de-la-procesion",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "familia-parque",
+     "kicker": "MES MORADO",
+     "h": "Los 4 niños de la procesión y cuál es el *tuyo*"
+    },
+    {
+     "role": "value",
+     "label": "NIÑO 1",
+     "h": "El del *turrón*",
+     "b": "Ve el puesto y ya cruzó tres filas"
+    },
+    {
+     "role": "value",
+     "photo": "mercado",
+     "label": "NIÑO 2",
+     "h": "El que sigue a la *banda*",
+     "b": "Camina detrás del bombo, no de ti"
+    },
+    {
+     "role": "value",
+     "label": "NIÑO 3",
+     "h": "El de la *vereda*",
+     "b": "Se cansó y se sentó donde estaba"
+    },
+    {
+     "role": "value",
+     "label": "NIÑO 4",
+     "h": "El del *hombro*",
+     "b": "Te ve, lo ves, y mira la torre que eligieron"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "El niño 4 va con *respaldo*",
+     "b": "La «pulsera» ComeHomeTag lleva un QR: si el tuyo resulta ser el 1, quien lo encuentre entre el tumulto lo escanea y ve tu número."
+    }
+   ],
+   "caption": {
+    "ig": "Niños en la procesión del Señor de los Milagros: hay cuatro. El del turrón, que ve el puesto y ya cruzó tres filas. El que sigue a la banda y camina detrás del bombo. El de la vereda, que se cansó y se sentó donde estaba. Y el del hombro: te ve, lo ves, y los dos miran la torre que eligieron al entrar por si se separan. ¿Cuál es el tuyo? #señordelosmilagros #niños",
+    "tt": "Los 4 niños de la procesión: el del turrón, el que sigue a la banda, el de la vereda y el del hombro, que mira la torre que eligieron al entrar. ¿Cuál es el tuyo? #señordelosmilagros #niños",
+    "fb": "En la procesión hay cuatro niños. El del turrón cruza tres filas por un puesto. El que sigue a la banda camina detrás del bombo. El de la vereda se cansó y se sentó donde estaba. El del hombro te ve, lo ves, y los dos saben cuál es la torre que eligieron al entrar por si se separan. ¿Cuál es el tuyo?"
+   },
+   "alt": "Cuatro tipos de niño en una procesión multitudinaria y el que va al hombro mirando un punto alto elegido al entrar.",
+   "expiredAt": "2026-10-26"
+  },
+  {
+   "slug": "21-el-coche-no-entra",
+   "slides": [
+    {
+     "role": "cover",
+     "photo": "mercado",
+     "kicker": "MES MORADO",
+     "h": "El *coche* del bebé no entra a la procesión"
+    },
+    {
+     "role": "value",
+     "label": "LA ISLA",
+     "h": "No avanza y nadie lo *ve*",
+     "b": "La gente tropieza encima y no hay salida"
+    },
+    {
+     "role": "value",
+     "photo": "familia-parque",
+     "label": "EN VEZ",
+     "h": "*Fular* o mochila portabebé",
+     "b": "El bebé a la altura de tu cara"
+    },
+    {
+     "role": "value",
+     "label": "TURNOS",
+     "h": "Dos adultos se lo *pasan*",
+     "b": "Cada hora, sin ponerlo en el piso"
+    },
+    {
+     "role": "value",
+     "label": "EL BORDE",
+     "h": "Siempre por la *vereda* del recorrido",
+     "b": "Y por el mismo lado que entraron"
+    },
+    {
+     "role": "closer",
+     "img": "pulsera.png",
+     "h": "Los hermanitos que sí *caminan*",
+     "b": "Llevan su «pulsera» ComeHomeTag: un QR que, si el mar morado los separa, quien los encuentre escanea con su celular y ve tu número."
+    }
+   ],
+   "caption": {
+    "ig": "Bebé en la procesión del Señor de los Milagros: el coche no entra. En el tumulto el coche es una isla: no avanza, nadie lo ve y la gente tropieza encima. Va en fular o mochila portabebé, a la altura de tu cara. Dos adultos se lo pasan cada hora sin ponerlo en el piso. Y siempre por la vereda, por el mismo lado por el que entraron. ¿Coche o fular? #señordelosmilagros #bebé",
+    "tt": "Bebé en la procesión: el coche no entra, es una isla en el tumulto. Fular o mochila portabebé, turnos entre dos adultos y siempre por la vereda. ¿Coche o fular? #señordelosmilagros #bebé",
+    "fb": "El coche del bebé en la procesión no avanza, no retrocede y nadie lo ve: la gente tropieza encima. Va en fular o mochila portabebé a la altura de tu cara, dos adultos se lo pasan cada hora, y siempre por la vereda del recorrido, por el mismo lado por el que entraron. ¿Ustedes van con coche o con fular?"
+   },
+   "alt": "Por qué el coche del bebé no sirve en una procesión multitudinaria y qué usar en su lugar: fular, turnos y el borde del recorrido.",
+   "expiredAt": "2026-10-26"
+  }
+ ]
+}

@@ -819,8 +819,8 @@
       "alt": "Carrusel de futurX que anuncia la masterclass de Ayaka Nagai, de IRODORI y Wagamama Lab en Japón, el miércoles 14 de octubre a las 8:00 p. m. hora de Perú."
     },
     {
-      "slug": "23-angel-feijoo-peru-tech-week",
-      "date": "2026-10-12",
+      "slug": "26-angel-feijoo-peru-tech-week",
+      "date": "2026-10-26",
       "render": "render_futurx_ptw.mjs",
       "share": "a: para el que sigue la Perú Tech Week y no sabía que hay una charla de la hackathon",
       "comment": "ahí estaré",
@@ -842,8 +842,8 @@
       "alt": "Lámina de futurX y la Perú Tech Week 2026 con una ciudad de noche: charla de Angel Feijoo, parte de la hackathon futurX, el jueves 15 de octubre a las 7:00 p. m. hora de Perú."
     },
     {
-      "slug": "23-charla-angel-feijoo",
-      "date": "2026-10-12",
+      "slug": "26-charla-angel-feijoo",
+      "date": "2026-10-26",
       "share": "a: para el que se inscribió y quiere escuchar al fundador de futurX",
       "comment": "ahí estaré",
       "slides": [
@@ -897,54 +897,8 @@
       "alt": "Carrusel de futurX que anuncia la charla de Angel Feijoo, parte de la hackathon futurX, en la Perú Tech Week 2026, el jueves 15 de octubre a las 7:00 p. m. hora de Perú."
     },
     {
-      "slug": "14-hoy-empieza-la-hackathon",
-      "date": "2026-10-14",
-      "share": "b: el día que empieza, para el que se inscribió y para el que se la perdió",
-      "comment": "nos vemos el 24",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Hoy empieza la hackathon futurX",
-          "b": "Del 14 al 24 de octubre, junto a JGM Innovation."
-        },
-        {
-          "role": "value",
-          "cita": true,
-          "h": "Aprendemos lo que recién está llegando y lo devolvemos al lugar donde vivimos."
-        },
-        {
-          "role": "value",
-          "label": "Esta semana",
-          "h": "Seis masterclasses en línea desde Perú y EE. UU.",
-          "b": "Sobre qué puede y qué no puede hacer la IA hoy."
-        },
-        {
-          "role": "value",
-          "label": "19 y 20 de octubre",
-          "h": "Cada participante describe un problema real de su entorno",
-          "b": "El jurado elige los desafíos más urgentes."
-        },
-        {
-          "role": "value",
-          "label": "Sábado 24 de octubre",
-          "h": "Demo Day en la UTP, en Lima",
-          "b": "Los 8 equipos finalistas presentan ante jurados de Perú y EE. UU."
-        },
-        {
-          "role": "closer",
-          "h": "Se llenaron los 500 cupos",
-          "b": "Síguenos en Instagram y YouTube para ver cómo avanza."
-        }
-      ],
-      "caption": {
-        "ig": "Hackathon futurX 2026: hoy empiezan las masterclasses y el sábado 24 es el Demo Day en la UTP. ¿Qué problema de tu ciudad propondrías tú?",
-        "tt": "Hoy empieza la hackathon futurX. ¿Qué problema propondrías? #hackathon #inteligenciaartificial"
-      },
-      "alt": "Carrusel de futurX por el inicio de la hackathon: masterclasses, entrega de problemas el 19 y 20 de octubre y Demo Day el 24."
-    },
-    {
-      "slug": "23-masterclass-diana-munoz",
-      "date": "2026-10-15",
+      "slug": "26-masterclass-diana-munoz",
+      "date": "2026-10-26",
       "share": "a: para el que se inscribió y quiere ver la masterclass de esta noche",
       "comment": "ahí estaré",
       "slides": [
@@ -1001,8 +955,8 @@
       "alt": "Carrusel de futurX que anuncia la masterclass de Diana Muñoz, cofundadora de Buivo en San Francisco, el jueves 15 de octubre a las 9:00 p. m. hora de Perú."
     },
     {
-      "slug": "23-masterclass-marisol-diaz",
-      "date": "2026-10-15",
+      "slug": "26-masterclass-marisol-diaz",
+      "date": "2026-10-26",
       "share": "a: para el que quiere crear apps o enseñar con IA",
       "comment": "ahí estaré",
       "slides": [
@@ -1061,8 +1015,8 @@
       "alt": "Carrusel de futurX que anuncia la masterclass de Marisol Díaz, Program Manager de MIT App Inventor y MIT RAISE, el viernes 16 de octubre a las 5:00 p. m. hora de Perú."
     },
     {
-      "slug": "23-masterclass-federico-lara",
-      "date": "2026-10-15",
+      "slug": "26-masterclass-federico-lara",
+      "date": "2026-10-26",
       "share": "a: para el que le interesan los datos y las empresas",
       "comment": "ahí estaré",
       "slides": [
@@ -1119,96 +1073,8 @@
       "alt": "Carrusel de futurX que anuncia la masterclass de Federico Lara, autor de Six Steps to Achieve Business Observability, el viernes 16 de octubre a las 7:00 p. m. hora de Perú."
     },
     {
-      "slug": "15-la-palabra-clave-de-tu-familia",
-      "date": "2026-10-15",
-      "share": "a: para el grupo de la familia, que la acuerden hoy",
-      "comment": "ya la acordamos",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Acuerda una palabra clave con tu familia",
-          "b": "Con IA ya se puede imitar la voz de una persona."
-        },
-        {
-          "role": "value",
-          "h": "La llamada de un familiar en apuros puede ser falsa",
-          "b": "El FBI advirtió en 2024 que se usan voces clonadas con IA para estafar."
-        },
-        {
-          "role": "value",
-          "n": 1,
-          "h": "Elijan una palabra que nadie más sepa",
-          "b": "Si te llaman pidiendo plata, la pides antes de hacer nada."
-        },
-        {
-          "role": "value",
-          "n": 2,
-          "h": "Cuelga y llama tú",
-          "b": "Al número que ya tienes guardado, no al que te llamó."
-        },
-        {
-          "role": "value",
-          "n": 3,
-          "h": "Fíjate en cómo habla",
-          "b": "El FBI recomienda escuchar con atención el tono y las palabras que usa."
-        },
-        {
-          "role": "closer",
-          "h": "¿Tu familia ya tiene una?"
-        }
-      ],
-      "caption": {
-        "ig": "Estafas con voz clonada por IA: acuerda una palabra clave con tu familia, como recomienda el FBI. Mándaselo al grupo de la familia.",
-        "tt": "Acuerda una palabra clave con tu familia. ¿Ya tienen una? #estafas #inteligenciaartificial"
-      },
-      "alt": "Carrusel de futurX con tres pasos para protegerse de llamadas con voz clonada por IA, según el FBI."
-    },
-    {
-      "slug": "16-la-fecha-de-corte-de-la-ia",
-      "date": "2026-10-16",
-      "share": "b: explica por qué la IA a veces responde con datos viejos",
-      "comment": "me dio un dato viejo",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "La IA no sabe lo que pasó ayer",
-          "b": "Salvo que busque en internet."
-        },
-        {
-          "role": "value",
-          "label": "Fecha de corte",
-          "h": "Cada modelo aprendió con textos hasta cierta fecha",
-          "b": "Lo que pasó después no lo sabe, aunque te responda muy seguro."
-        },
-        {
-          "role": "value",
-          "h": "Las empresas publican esa fecha",
-          "b": "Anthropic y OpenAI la ponen en la ficha de cada modelo."
-        },
-        {
-          "role": "value",
-          "h": "Lo más cercano a esa fecha lo sabe peor",
-          "b": "Anthropic distingue hasta dónde llegan sus datos y hasta dónde son confiables."
-        },
-        {
-          "role": "value",
-          "h": "Para algo reciente, pídele que busque",
-          "b": "Y que te dé los enlaces, para que abras la fuente tú."
-        },
-        {
-          "role": "closer",
-          "h": "¿Qué le preguntaste que ya estaba desactualizado?"
-        }
-      ],
-      "caption": {
-        "ig": "Qué es la fecha de corte de un modelo de IA y por qué ChatGPT o Claude pueden no saber lo que pasó la semana pasada. ¿Qué le preguntaste que ya estaba desactualizado?",
-        "tt": "La IA no sabe lo que pasó ayer. ¿Te pasó? #inteligenciaartificial #chatgpt"
-      },
-      "alt": "Carrusel de futurX que explica qué es la fecha de corte de un modelo de IA y qué hacer con preguntas recientes."
-    },
-    {
-      "slug": "23-masterclass-victor-laguna",
-      "date": "2026-10-16",
+      "slug": "26-masterclass-victor-laguna",
+      "date": "2026-10-26",
       "share": "a: para el que quiere armar una startup de IA",
       "comment": "ahí estaré",
       "slides": [
@@ -1265,8 +1131,8 @@
       "alt": "Carrusel de futurX que anuncia la masterclass de Víctor Laguna, fundador de PathPilot en Silicon Valley, el sábado 17 de octubre a las 11:00 a. m. hora de Perú."
     },
     {
-      "slug": "23-masterclass-orson-lazo",
-      "date": "2026-10-16",
+      "slug": "26-masterclass-orson-lazo",
+      "date": "2026-10-26",
       "share": "a: para el que estudia mecatrónica, minas o le gustan los robots",
       "comment": "ahí estaré",
       "slides": [
@@ -1323,8 +1189,133 @@
       "alt": "Carrusel de futurX que anuncia la masterclass de Orson Lazo, de Caterpillar, el sábado 17 de octubre a las 5:00 p. m. hora de Perú."
     },
     {
-      "slug": "17-en-el-vr-day-peru",
-      "date": "2026-10-17",
+      "slug": "27-despues-de-la-hackathon",
+      "date": "2026-10-27",
+      "share": "c: el que participó se reconoce y lo manda a su equipo",
+      "comment": "seguimos",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Terminó la hackathon futurX. ¿Y ahora?"
+        },
+        {
+          "role": "value",
+          "h": "Los proyectos ganadores tienen mentoría para seguir",
+          "b": "Mentoría internacional para los equipos que quieran continuar."
+        },
+        {
+          "role": "value",
+          "h": "Los finalistas tienen 6 meses en futurX",
+          "b": "La membresía es parte de su premio."
+        },
+        {
+          "role": "value",
+          "h": "Y lo que sigue son más clubes",
+          "b": "Para seguir aprendiendo IA cada semana con gente de tu campus."
+        },
+        {
+          "role": "closer",
+          "h": "¿Te quedaste con ganas de seguir?",
+          "b": "Mira en futurx.pe qué hay en tu universidad."
+        }
+      ],
+      "caption": {
+        "ig": "Qué pasa después de la hackathon futurX: mentoría para los proyectos ganadores, membresía para los finalistas y más clubes de IA. ¿Seguirías con tu proyecto?",
+        "tt": "Terminó la hackathon futurX. ¿Y ahora? #hackathon #universitarios"
+      },
+      "alt": "Carrusel de futurX sobre lo que sigue después de la hackathon: mentoría, membresía y clubes."
+    },
+    {
+      "slug": "28-la-palabra-clave-de-tu-familia",
+      "date": "2026-10-28",
+      "share": "a: para el grupo de la familia, que la acuerden hoy",
+      "comment": "ya la acordamos",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "Acuerda una palabra clave con tu familia",
+          "b": "Con IA ya se puede imitar la voz de una persona."
+        },
+        {
+          "role": "value",
+          "h": "La llamada de un familiar en apuros puede ser falsa",
+          "b": "El FBI advirtió en 2024 que se usan voces clonadas con IA para estafar."
+        },
+        {
+          "role": "value",
+          "n": 1,
+          "h": "Elijan una palabra que nadie más sepa",
+          "b": "Si te llaman pidiendo plata, la pides antes de hacer nada."
+        },
+        {
+          "role": "value",
+          "n": 2,
+          "h": "Cuelga y llama tú",
+          "b": "Al número que ya tienes guardado, no al que te llamó."
+        },
+        {
+          "role": "value",
+          "n": 3,
+          "h": "Fíjate en cómo habla",
+          "b": "El FBI recomienda escuchar con atención el tono y las palabras que usa."
+        },
+        {
+          "role": "closer",
+          "h": "¿Tu familia ya tiene una?"
+        }
+      ],
+      "caption": {
+        "ig": "Estafas con voz clonada por IA: acuerda una palabra clave con tu familia, como recomienda el FBI. Mándaselo al grupo de la familia.",
+        "tt": "Acuerda una palabra clave con tu familia. ¿Ya tienen una? #estafas #inteligenciaartificial"
+      },
+      "alt": "Carrusel de futurX con tres pasos para protegerse de llamadas con voz clonada por IA, según el FBI."
+    },
+    {
+      "slug": "29-la-fecha-de-corte-de-la-ia",
+      "date": "2026-10-29",
+      "share": "b: explica por qué la IA a veces responde con datos viejos",
+      "comment": "me dio un dato viejo",
+      "slides": [
+        {
+          "role": "cover",
+          "h": "La IA no sabe lo que pasó ayer",
+          "b": "Salvo que busque en internet."
+        },
+        {
+          "role": "value",
+          "label": "Fecha de corte",
+          "h": "Cada modelo aprendió con textos hasta cierta fecha",
+          "b": "Lo que pasó después no lo sabe, aunque te responda muy seguro."
+        },
+        {
+          "role": "value",
+          "h": "Las empresas publican esa fecha",
+          "b": "Anthropic y OpenAI la ponen en la ficha de cada modelo."
+        },
+        {
+          "role": "value",
+          "h": "Lo más cercano a esa fecha lo sabe peor",
+          "b": "Anthropic distingue hasta dónde llegan sus datos y hasta dónde son confiables."
+        },
+        {
+          "role": "value",
+          "h": "Para algo reciente, pídele que busque",
+          "b": "Y que te dé los enlaces, para que abras la fuente tú."
+        },
+        {
+          "role": "closer",
+          "h": "¿Qué le preguntaste que ya estaba desactualizado?"
+        }
+      ],
+      "caption": {
+        "ig": "Qué es la fecha de corte de un modelo de IA y por qué ChatGPT o Claude pueden no saber lo que pasó la semana pasada. ¿Qué le preguntaste que ya estaba desactualizado?",
+        "tt": "La IA no sabe lo que pasó ayer. ¿Te pasó? #inteligenciaartificial #chatgpt"
+      },
+      "alt": "Carrusel de futurX que explica qué es la fecha de corte de un modelo de IA y qué hacer con preguntas recientes."
+    },
+    {
+      "slug": "30-en-el-vr-day-peru",
+      "date": "2026-10-30",
       "share": "c: el que estuvo ahí o conoce a alguien de la foto lo manda",
       "comment": "yo estuve ahí",
       "slides": [
@@ -1362,569 +1353,6 @@
         "tt": "futurX en el VR Day Perú. ¿Tú fuiste? #realidadvirtual #universitarios"
       },
       "alt": "Carrusel de futurX con fotos de su stand en el VR Day Perú y la revista futurA de enero de 2024."
-    },
-    {
-      "slug": "18-como-describir-un-problema",
-      "date": "2026-10-18",
-      "share": "a: plantilla para copiar antes de mandar la propuesta de la fase 1",
-      "comment": "lo intento abajo",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Describe un problema real en una sola frase",
-          "b": "Con una plantilla de la d.school de Stanford."
-        },
-        {
-          "role": "value",
-          "cita": true,
-          "h": "[Persona] necesita [algo] porque [lo que descubriste].",
-          "b": "Así se arma un punto de vista en diseño."
-        },
-        {
-          "role": "value",
-          "label": "Por ejemplo",
-          "h": "Una vendedora del mercado necesita saber cuánto ganó en el día",
-          "b": "Porque anota todo en un cuaderno y nunca le da tiempo de sumar."
-        },
-        {
-          "role": "value",
-          "h": "La parte del «porque» es la que más cuenta",
-          "b": "Sale de hablar con la persona, no de suponer."
-        },
-        {
-          "role": "value",
-          "h": "Recién después piensa en la solución",
-          "b": "Con la frase lista, pregúntate cómo podría ayudar la IA."
-        },
-        {
-          "role": "closer",
-          "h": "Las propuestas de la fase 1 se entregan el 19 y 20 de octubre",
-          "b": "Hasta el martes 20 al mediodía.",
-          "url": "futurx.pe/hackathon/2026"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo describir un problema para una hackathon o un proyecto: la plantilla de punto de vista de la d.school de Stanford. ¿Qué problema escribirías tú?",
-        "tt": "Describe un problema real en una frase. ¿Cuál escribirías? #hackathon #designthinking"
-      },
-      "alt": "Carrusel de futurX con la plantilla de punto de vista de la d.school de Stanford para describir un problema real."
-    },
-    {
-      "slug": "19-tesis-peruanas-en-alicia",
-      "date": "2026-10-19",
-      "share": "a: para el amigo que empieza su tesis y busca antecedentes",
-      "comment": "la mía es de educación",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Busca tesis peruanas sobre tu tema antes de preguntarle a la IA"
-        },
-        {
-          "role": "value",
-          "label": "ALICIA",
-          "h": "El repositorio de acceso libre de Concytec",
-          "b": "Junta tesis y artículos de universidades e instituciones peruanas."
-        },
-        {
-          "role": "value",
-          "label": "RENATI",
-          "h": "El registro de trabajos de investigación de Sunedu",
-          "b": "Reúne las tesis con las que se obtienen grados en el Perú."
-        },
-        {
-          "role": "value",
-          "h": "Mira la bibliografía de una tesis parecida a la tuya",
-          "b": "Esas fuentes existen y alguien ya las leyó."
-        },
-        {
-          "role": "value",
-          "h": "Después usa la IA para entenderlas",
-          "b": "Pídele que te explique un método o que compare dos tesis que encontraste tú."
-        },
-        {
-          "role": "closer",
-          "h": "¿De qué es tu tesis?"
-        }
-      ],
-      "caption": {
-        "ig": "Dónde buscar tesis peruanas gratis: ALICIA de Concytec y RENATI de Sunedu, antes de pedirle fuentes a ChatGPT. ¿De qué es tu tesis?",
-        "tt": "Tesis peruanas gratis en ALICIA y RENATI. ¿De qué es la tuya? #tesis #universitarios"
-      },
-      "alt": "Carrusel de futurX sobre ALICIA y RENATI, los repositorios peruanos donde buscar tesis antes de usar la IA."
-    },
-    {
-      "slug": "20-tu-primer-proyecto-con-ia",
-      "date": "2026-10-20",
-      "share": "b: la pregunta de Andrew Ng que le sirve a cualquier carrera",
-      "comment": "en derecho hay mil",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Antes de tu primer proyecto con IA, hazle esta pregunta a alguien",
-          "b": "Es la que usa Andrew Ng."
-        },
-        {
-          "role": "value",
-          "cita": true,
-          "h": "«¿Cuáles son las tres cosas que quisieras que funcionen mejor? ¿Por qué todavía no funcionan?»",
-          "b": "Ng, fundador de DeepLearning.AI, se la hace a quien conoce un oficio desde adentro."
-        },
-        {
-          "role": "value",
-          "label": "A quién se la puedes hacer",
-          "h": "A alguien que trabaja en lo que estudias",
-          "items": [
-            "Al abogado del estudio donde practicas",
-            "A la enfermera de tu turno",
-            "Al profe que corrige todo a mano"
-          ]
-        },
-        {
-          "role": "value",
-          "h": "Primero el problema, después la IA",
-          "b": "Ng recomienda pensar varias soluciones antes de quedarte con la primera."
-        },
-        {
-          "role": "value",
-          "h": "Empieza por algo chico",
-          "b": "Para Ng, los primeros proyectos sirven para aprender. Los grandes llegan después."
-        },
-        {
-          "role": "closer",
-          "h": "¿Qué problema de tu carrera resolverías con IA?"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo encontrar la idea para tu primer proyecto con inteligencia artificial, según Andrew Ng: pregúntale a alguien de tu carrera qué no funciona. ¿Qué problema resolverías tú?",
-        "tt": "La pregunta de Andrew Ng antes de tu primer proyecto con IA. ¿Qué resolverías? #inteligenciaartificial #universitarios"
-      },
-      "alt": "Carrusel de futurX con la pregunta que Andrew Ng recomienda hacer antes de empezar un proyecto con inteligencia artificial."
-    },
-    {
-      "slug": "21-hoy-salen-los-desafios",
-      "date": "2026-10-21",
-      "share": "b: lo que hay que saber el día que salen los desafíos",
-      "comment": "ya tenemos equipo",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Hoy salen los desafíos de la hackathon futurX",
-          "b": "Se publican al mediodía."
-        },
-        {
-          "role": "value",
-          "h": "Tienes hasta mañana jueves al mediodía para registrar tu equipo",
-          "b": "De 2 a 4 personas, con un nombre de equipo."
-        },
-        {
-          "role": "value",
-          "h": "Todavía no tienes que elegir el desafío",
-          "b": "Al registrar el equipo no se pide."
-        },
-        {
-          "role": "value",
-          "h": "Cualquier equipo puede tomar cualquier desafío",
-          "b": "Aunque no sea el que propuso alguien del equipo."
-        },
-        {
-          "role": "closer",
-          "h": "¿Todavía no tienes equipo?",
-          "b": "Los equipos se registran hasta el jueves 22 al mediodía. Todo está en futurx.pe."
-        }
-      ],
-      "caption": {
-        "ig": "Hackathon futurX: hoy se publican los desafíos y los equipos se registran hasta el jueves 22 al mediodía. ¿Ya tienes equipo?",
-        "tt": "Hoy salen los desafíos de la hackathon futurX. ¿Ya tienes equipo? #hackathon #universitarios"
-      },
-      "alt": "Carrusel de futurX con lo que pasa el día que se publican los desafíos de la hackathon y el plazo para registrar equipos."
-    },
-    {
-      "slug": "22-lo-que-construyes-es-tuyo",
-      "date": "2026-10-22",
-      "share": "b: lo que casi nadie lee de las bases",
-      "comment": "lo vamos a seguir",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Lo que construyas en la hackathon es tuyo",
-          "b": "Lo dicen las bases."
-        },
-        {
-          "role": "value",
-          "h": "El prototipo le pertenece a tu equipo",
-          "b": "No a futurX ni a JGM Innovation."
-        },
-        {
-          "role": "value",
-          "h": "Solo nos das permiso para mostrarlo",
-          "b": "La información del prototipo, la presentación y los datos básicos del equipo."
-        },
-        {
-          "role": "value",
-          "h": "El plagio no se tolera",
-          "b": "Tampoco el acoso ni la discriminación, en ninguna etapa."
-        },
-        {
-          "role": "closer",
-          "h": "Mañana al mediodía empiezan las entregas",
-          "b": "Hasta el sábado 24 al mediodía.",
-          "url": "futurx.pe/hackathon/2026"
-        }
-      ],
-      "caption": {
-        "ig": "¿De quién es el proyecto de una hackathon? En la hackathon futurX, de cada equipo: así lo dicen las bases. ¿Seguirías con tu proyecto después?",
-        "tt": "Lo que construyas en la hackathon futurX es tuyo. ¿Lo seguirías? #hackathon #emprendimiento"
-      },
-      "alt": "Carrusel de futurX que explica que el prototipo de la hackathon le pertenece a cada equipo, según las bases."
-    },
-    {
-      "slug": "23-el-pitch-en-5-laminas",
-      "date": "2026-10-23",
-      "share": "a: para el que arma la presentación del equipo",
-      "comment": "vamos con 4",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Tu pitch para la hackathon cabe en 5 láminas",
-          "b": "Las bases piden de 3 a 5."
-        },
-        {
-          "role": "value",
-          "n": 1,
-          "h": "La necesidad",
-          "b": "Qué problema hay y a quién le pasa."
-        },
-        {
-          "role": "value",
-          "n": 2,
-          "h": "Cómo la resolvieron",
-          "b": "La idea detrás de la parte técnica, sin detalles de más."
-        },
-        {
-          "role": "value",
-          "n": 3,
-          "h": "Cómo funciona el prototipo",
-          "b": "Lo que ve y hace una persona que lo usa."
-        },
-        {
-          "role": "value",
-          "h": "Poco texto, y solo el nombre del equipo",
-          "b": "Ni nombres, ni universidades, ni países. El jurado no debe saber de quién es."
-        },
-        {
-          "role": "closer",
-          "h": "Las entregas cierran mañana sábado al mediodía",
-          "b": "El pitch vale el 20 por ciento de la nota.",
-          "url": "futurx.pe/hackathon/2026"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo armar el pitch de una hackathon en 3 a 5 láminas, según las bases de la hackathon futurX: la necesidad, la solución y el prototipo. ¿Cuántas láminas van a usar?",
-        "tt": "El pitch de la hackathon en 5 láminas. ¿Cuántas usan ustedes? #hackathon #pitch"
-      },
-      "alt": "Carrusel de futurX con lo que debe llevar el pitch de la hackathon según sus bases."
-    },
-    {
-      "slug": "24-hoy-es-el-demo-day",
-      "date": "2026-10-24",
-      "share": "b: el horario del día, para seguirlo en vivo",
-      "comment": "vamos equipo",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Hoy es el Demo Day de la hackathon futurX",
-          "b": "En la UTP, Facultad de Medicina, y en línea."
-        },
-        {
-          "role": "value",
-          "label": "2 de la tarde",
-          "h": "Se publican los 8 equipos finalistas",
-          "b": "Después tienen dos horas para preparar su presentación."
-        },
-        {
-          "role": "value",
-          "label": "4 de la tarde",
-          "h": "Los finalistas presentan ante el jurado",
-          "b": "Desde la UTP o conectados a distancia."
-        },
-        {
-          "role": "value",
-          "label": "5:15 de la tarde",
-          "h": "Se anuncian los ganadores y se entregan los premios",
-          "b": "En Lima y con transmisión en línea."
-        },
-        {
-          "role": "value",
-          "h": "Para venir basta ropa sport elegante",
-          "b": "No hace falta terno."
-        },
-        {
-          "role": "closer",
-          "h": "Síguelo desde nuestras redes"
-        }
-      ],
-      "caption": {
-        "ig": "Demo Day de la hackathon futurX: hoy presentan los 8 equipos finalistas en la UTP y en línea. ¿Qué desafío crees que gana?",
-        "tt": "Hoy es el Demo Day de la hackathon futurX. ¿Quién gana? #hackathon #inteligenciaartificial"
-      },
-      "alt": "Carrusel de futurX con el horario del Demo Day de la hackathon: finalistas, presentaciones y premiación."
-    },
-    {
-      "slug": "25-como-citar-a-la-ia-en-apa",
-      "date": "2026-10-25",
-      "share": "a: objeto para guardar antes de entregar un trabajo",
-      "comment": "mi profe no acepta",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Cómo citar un chat de IA en APA",
-          "b": "APA actualizó su formato en setiembre de 2025."
-        },
-        {
-          "role": "value",
-          "label": "La referencia",
-          "h": "Empresa, fecha, título del chat, herramienta y enlace",
-          "b": "OpenAI. (2025, August 21). High school grammar concepts [Generative AI chat]. ChatGPT."
-        },
-        {
-          "role": "value",
-          "h": "El enlace sale de la opción de compartir",
-          "b": "ChatGPT y Claude te dan un enlace y un título para cada chat."
-        },
-        {
-          "role": "value",
-          "label": "En el texto",
-          "h": "(OpenAI, 2025)",
-          "b": "O dentro de la frase: «Según OpenAI (2025)»."
-        },
-        {
-          "role": "value",
-          "h": "Además, cuenta cómo la usaste",
-          "b": "APA pide describir el uso y, si aplica, poner el prompt que escribiste."
-        },
-        {
-          "role": "closer",
-          "h": "Revisa antes qué permite tu profesor",
-          "b": "Cada curso puede tener su propia regla sobre la IA."
-        }
-      ],
-      "caption": {
-        "ig": "Cómo citar ChatGPT o Claude en APA con el formato nuevo de 2025: empresa, fecha, título del chat, herramienta y enlace. Guárdalo para tu próximo trabajo.",
-        "tt": "Cómo citar un chat de IA en APA. ¿Tu profe lo pide? #apa #tesis"
-      },
-      "alt": "Carrusel de futurX con el formato APA de 2025 para citar un chat de inteligencia artificial."
-    },
-    {
-      "slug": "26-despues-de-la-hackathon",
-      "date": "2026-10-26",
-      "share": "c: el que participó se reconoce y lo manda a su equipo",
-      "comment": "seguimos",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Terminó la hackathon futurX. ¿Y ahora?"
-        },
-        {
-          "role": "value",
-          "h": "Los proyectos ganadores tienen mentoría para seguir",
-          "b": "Mentoría internacional para los equipos que quieran continuar."
-        },
-        {
-          "role": "value",
-          "h": "Los finalistas tienen 6 meses en futurX",
-          "b": "La membresía es parte de su premio."
-        },
-        {
-          "role": "value",
-          "h": "Y lo que sigue son más clubes",
-          "b": "Para seguir aprendiendo IA cada semana con gente de tu campus."
-        },
-        {
-          "role": "closer",
-          "h": "¿Te quedaste con ganas de seguir?",
-          "b": "Mira en futurx.pe qué hay en tu universidad."
-        }
-      ],
-      "caption": {
-        "ig": "Qué pasa después de la hackathon futurX: mentoría para los proyectos ganadores, membresía para los finalistas y más clubes de IA. ¿Seguirías con tu proyecto?",
-        "tt": "Terminó la hackathon futurX. ¿Y ahora? #hackathon #universitarios"
-      },
-      "alt": "Carrusel de futurX sobre lo que sigue después de la hackathon: mentoría, membresía y clubes."
-    },
-    {
-      "slug": "27-los-detectores-de-ia-fallan",
-      "date": "2026-10-27",
-      "share": "b: dato que sirve para defenderse de una acusación injusta",
-      "comment": "a mi amiga le pasó",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Los detectores de texto hecho con IA se equivocan",
-          "b": "Hasta OpenAI apagó el suyo en 2023."
-        },
-        {
-          "role": "stat",
-          "label": "El detector de OpenAI",
-          "cifra": "26",
-          "rotulo": "por ciento",
-          "barra": 0.26,
-          "h": "De los textos hechos con IA, solo reconocía ese porcentaje.",
-          "b": "Y marcaba como IA a 9 de cada 100 textos escritos por personas."
-        },
-        {
-          "role": "value",
-          "h": "Con quien escribe en un idioma que no es el suyo, fallan más",
-          "b": "Un estudio de Stanford encontró que marcaban como IA textos en inglés de no nativos."
-        },
-        {
-          "role": "value",
-          "h": "Guarda cómo escribiste tu trabajo",
-          "b": "Google Docs y Word guardan el historial de versiones. Es tu prueba si te acusan."
-        },
-        {
-          "role": "closer",
-          "h": "¿A alguien de tu salón le pasó?"
-        }
-      ],
-      "caption": {
-        "ig": "¿Los detectores de IA funcionan? OpenAI cerró el suyo en 2023 por baja precisión. Si escribes tú, guarda el historial de versiones. Mándaselo a quien tiene que entregar un ensayo.",
-        "tt": "Los detectores de IA se equivocan. ¿A alguien de tu salón le pasó? #universitarios #chatgpt"
-      },
-      "alt": "Carrusel de futurX sobre la poca precisión de los detectores de texto hecho con IA y cómo guardar el historial de versiones."
-    },
-    {
-      "slug": "28-como-saber-si-una-imagen-es-de-ia",
-      "date": "2026-10-28",
-      "share": "a: para el tío que reenvía todo en el grupo de la familia",
-      "comment": "me la creí",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Cómo revisar si una imagen la hizo una IA",
-          "b": "No hay un método perfecto, pero estos ayudan."
-        },
-        {
-          "role": "value",
-          "n": 1,
-          "h": "Busca de dónde salió",
-          "b": "Con Google Lens ves dónde más se publicó y llegas a la fuente original."
-        },
-        {
-          "role": "value",
-          "n": 2,
-          "h": "Revisa sus credenciales de contenido",
-          "b": "OpenAI, Adobe y Microsoft marcan lo que genera su IA. Se revisa en verify.contentauthenticity.org"
-        },
-        {
-          "role": "value",
-          "n": 3,
-          "h": "Pregúntale a Gemini si tiene SynthID",
-          "b": "Es la marca invisible que Google pone en las imágenes que hace su IA."
-        },
-        {
-          "role": "value",
-          "h": "Si no encuentras ninguna marca, eso no prueba nada",
-          "b": "Una captura de pantalla borra las credenciales."
-        },
-        {
-          "role": "closer",
-          "h": "¿Cuál fue la última imagen falsa que te creíste?"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo saber si una imagen fue hecha con inteligencia artificial: Google Lens, credenciales de contenido y SynthID. ¿Cuál fue la última que te creíste?",
-        "tt": "Cómo revisar si una imagen es de IA. ¿Cuál te creíste? #inteligenciaartificial #desinformacion"
-      },
-      "alt": "Carrusel de futurX con tres formas de revisar si una imagen fue hecha con IA y sus límites."
-    },
-    {
-      "slug": "29-que-la-ia-calcule-con-codigo",
-      "date": "2026-10-29",
-      "share": "b: el error de cálculo que casi nadie revisa",
-      "comment": "lo uso para estadística",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "No le pidas a la IA que saque cuentas de memoria",
-          "b": "Pídele que las haga con código."
-        },
-        {
-          "role": "value",
-          "h": "Un modelo de lenguaje predice texto",
-          "b": "Por eso puede escribirte un promedio que suena bien y está mal."
-        },
-        {
-          "role": "value",
-          "h": "ChatGPT puede correr código sobre tu Excel",
-          "b": "Subes el archivo y calcula con Python, un lenguaje de programación."
-        },
-        {
-          "role": "value",
-          "label": "Para que salga bien",
-          "h": "Prepara bien tu archivo",
-          "items": [
-            "Columnas con nombres claros",
-            "Una fila por registro",
-            "Di qué quieres calcular"
-          ]
-        },
-        {
-          "role": "value",
-          "h": "Comprueba dos o tres filas a mano",
-          "b": "Si esas cuadran, puedes confiar más en el resto."
-        },
-        {
-          "role": "closer",
-          "h": "¿Qué cálculo le pedirías primero?"
-        }
-      ],
-      "caption": {
-        "ig": "Cómo usar ChatGPT para analizar datos de Excel sin errores: que calcule con código y que tú compruebes algunas filas. ¿Qué cálculo le pedirías primero?",
-        "tt": "Que la IA calcule con código, no de memoria. ¿Qué le pedirías? #excel #chatgpt"
-      },
-      "alt": "Carrusel de futurX sobre cómo pedirle a ChatGPT que calcule con código sobre un archivo de Excel."
-    },
-    {
-      "slug": "30-aprende-python-con-cs50",
-      "date": "2026-10-30",
-      "share": "a: para el amigo que dice que algún día va a aprender a programar",
-      "comment": "lo empiezo en diciembre",
-      "slides": [
-        {
-          "role": "cover",
-          "h": "Aprende a programar con un curso gratis de Harvard",
-          "b": "Se llama CS50P y no pide saber nada antes."
-        },
-        {
-          "role": "value",
-          "h": "Diez semanas de Python desde cero",
-          "b": "Clases en video, ejercicios y un proyecto final, a tu ritmo."
-        },
-        {
-          "role": "value",
-          "h": "Tiene un tutor de IA que no te da la respuesta",
-          "b": "El pato de CS50 te guía con preguntas hasta que lo resuelves tú."
-        },
-        {
-          "role": "value",
-          "h": "Es en inglés",
-          "b": "Los videos tienen subtítulos."
-        },
-        {
-          "role": "value",
-          "h": "También sirve si estudias letras o salud",
-          "b": "Para ordenar datos, automatizar algo repetitivo o entender qué hace la IA por dentro."
-        },
-        {
-          "role": "closer",
-          "h": "¿Lo harías en vacaciones?"
-        }
-      ],
-      "caption": {
-        "ig": "Curso gratis de Python de Harvard, CS50P, para aprender a programar desde cero con un tutor de IA que no te da las respuestas. Guárdalo para vacaciones.",
-        "tt": "Curso gratis de Python de Harvard. ¿Lo harías en vacaciones? #python #aprendeaprogramar"
-      },
-      "alt": "Carrusel de futurX sobre CS50P, el curso gratis de Python de Harvard, y su tutor de IA."
     },
     {
       "slug": "31-practica-ia-en-kaggle-y-colab",

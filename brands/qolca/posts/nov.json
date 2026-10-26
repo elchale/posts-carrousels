@@ -4,7 +4,628 @@
   "format": "f1",
   "posts": [
     {
-      "slug": "01-cuenta-los-hola-informacion",
+      "slug": "01-el-cliente-del-ano-pasado",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "llaves-casa",
+          "h": "El mensaje que trae de vuelta al cliente *del año pasado*"
+        },
+        {
+          "role": "value",
+          "label": "POR QUÉ",
+          "h": "Toca *otra vez*",
+          "b": "· Service del auto\n· Aniversario\n· Contrato que vence"
+        },
+        {
+          "role": "value",
+          "label": "AL VENDER",
+          "h": "Apunta *la fecha de regreso*",
+          "b": "Qué compró y cuándo toca de nuevo.",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "value",
+          "label": "ESE DÍA",
+          "h": "Cópialo *tal cual*",
+          "b": "«Un año ya con lo tuyo. ¿Cómo va? Ya toca»"
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Nadie más se lo *va a recordar*",
+          "b": "Ni él. Tú tienes la fecha.",
+          "photo": "mostrador"
+        },
+        {
+          "role": "closer",
+          "h": "La fecha de regreso *te avisa a ti*",
+          "b": "Escríbeme PLAN por DM y cada venta sale con su fecha de volver a escribir, sin que nadie apunte."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo llevar el control de los clientes que compran cada año. El service del auto, el aniversario, el contrato que vence: al vender apuntas qué compró y cuándo toca de nuevo, y ese día le escribes «un año ya con lo tuyo, ¿cómo va? ya toca». Nadie más se lo va a recordar, ni él. ¿Qué vendes que se repite? Escríbeme PLAN por DM. #negociopropio #emprendedoresperu",
+        "tt": "El mensaje que trae de vuelta al cliente del año pasado: «un año ya con lo tuyo, ¿cómo va? ya toca». Apunta la fecha de regreso al vender. ¿Qué vendes que se repite? Escríbeme PLAN por DM. #negociopropio",
+        "fb": "Lo que vendes se repite: el service, el aniversario, el contrato que vence. Nadie se lo va a recordar al cliente, ni él mismo. Tú tienes la fecha. ¿Qué vendes que se repite?"
+      },
+      "alt": "Llaves de casa sobre una mesa con el titular sobre el mensaje que trae de vuelta al cliente del año pasado."
+    },
+    {
+      "slug": "02-los-4-que-te-yapean",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "restaurante-cocina",
+          "h": "Los 4 clientes que te dicen *«ahorita te yapeo»*"
+        },
+        {
+          "role": "value",
+          "label": "EL OLVIDADIZO",
+          "h": "Lo dice *de corazón*",
+          "b": "Y a las 6 se le fue. Recuérdale con hora."
+        },
+        {
+          "role": "value",
+          "label": "EL QUE ESPERA",
+          "h": "Nunca le mandaste *el número*",
+          "b": "Está esperando tu Yape, no el suyo.",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "EL FANTASMA",
+          "h": "Captura *sin nombre*, ¿de quién?",
+          "b": "Pídelo en el mismo mensaje."
+        },
+        {
+          "role": "value",
+          "label": "EL QUE YAPEA",
+          "h": "Recibió *todo* junto",
+          "b": "Número, titular, y qué mandar de vuelta.",
+          "photo": "mostrador"
+        },
+        {
+          "role": "closer",
+          "h": "Todos yapean si el cobro *sale completo*",
+          "b": "Escríbeme FUGA por DM y armamos tu cobro: número, confirmación y pedido registrado, solos."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo cobrar por Yape en mi negocio sin perseguir a nadie. Cuatro clientes dicen «ahorita te yapeo»: el olvidadizo, el que espera que tú mandes el número, el fantasma de la captura sin nombre y el que sí yapea porque recibió todo junto en un mensaje. ¿Cuál te toca más? Escríbeme FUGA por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Los 4 que te dicen «ahorita te yapeo»: el olvidadizo, el que espera tu número, el fantasma de la captura sin nombre y el que sí yapea. ¿Cuál te toca más? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "Cuatro clientes dicen «ahorita te yapeo». Solo uno lo hace en dos minutos: el que recibió número, titular y qué mandar de vuelta en un solo mensaje. ¿Cuál te toca más?"
+      },
+      "alt": "Cocina de restaurante con el titular sobre los cuatro clientes que dicen ahorita te yapeo."
+    },
+    {
+      "slug": "03-el-mensaje-de-cobro-que-si-se-paga",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "cuaderno",
+          "h": "El mensaje de cobro que sí se paga, *listo para copiar*"
+        },
+        {
+          "role": "value",
+          "label": "LÍNEA 1",
+          "h": "El número y *el titular*",
+          "b": "«Yape al 9XX XXX XXX, a nombre de [tu nombre]»"
+        },
+        {
+          "role": "value",
+          "label": "LÍNEA 2",
+          "h": "Qué mandar *de vuelta*",
+          "b": "«Mándame la captura y tu nombre completo»",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "LÍNEA 3",
+          "h": "Qué pasa *después*",
+          "b": "«Te confirmo al toque y queda separado»"
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Todo en *un solo* mensaje",
+          "b": "Cada ida y vuelta enfría el antojo.",
+          "photo": "mostrador"
+        },
+        {
+          "role": "closer",
+          "h": "La captura llega y *se confirma sola*",
+          "b": "Escríbeme PLAN por DM y el cobro queda con su confirmación y su pedido, sin ida y vuelta."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo cobrar por WhatsApp con un solo mensaje. Tres líneas: el número y el titular, qué mandar de vuelta (la captura y el nombre completo) y qué pasa después (te confirmo al toque y queda separado). Cada ida y vuelta enfría el antojo. Mándaselo a quien cobra por ti los fines de semana. Escríbeme PLAN por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "El mensaje de cobro que sí se paga: número y titular, qué mandar de vuelta, qué pasa después. Todo junto. Mándaselo a quien cobra por ti los fines de semana. Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "El cobro que sí se paga va en un solo mensaje: número y titular, qué mandar de vuelta y qué pasa después. Cada ida y vuelta enfría el antojo. Mándaselo a quien cobra por ti los fines de semana."
+      },
+      "alt": "Cuaderno de cuentas de un negocio con el titular sobre el mensaje de cobro listo para copiar."
+    },
+    {
+      "slug": "04-el-audio-de-3-minutos",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "celular-noche",
+          "h": "Contesta el audio de 3 minutos *sin escucharlo dos veces*"
+        },
+        {
+          "role": "value",
+          "label": "PRIMERA VEZ",
+          "h": "Escucha con *el dedo listo*",
+          "b": "Apunta qué pide, para cuándo, dónde."
+        },
+        {
+          "role": "value",
+          "label": "RESPONDE",
+          "h": "En texto, *numerado*",
+          "b": "«Te confirmo: 1) torta 2) sábado 3) San Miguel»",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "value",
+          "label": "ÉL CORRIGE",
+          "h": "En *segundos*",
+          "b": "Y queda escrito. Lo hablado no existe."
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Si quedó en audio, *no quedó*",
+          "b": "Fecha y dirección, de vuelta en texto.",
+          "photo": "mostrador"
+        },
+        {
+          "role": "closer",
+          "h": "El audio entra y *sale escrito*",
+          "b": "Escríbeme PRUEBA por DM y el audio se vuelve pedido registrado, sin que nadie transcriba."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo organizar los pedidos que llegan por audio de WhatsApp. Escúchalo una vez con el dedo listo apuntando qué pide, para cuándo y dónde, y responde en texto numerado: «te confirmo: 1) torta 2) sábado 3) San Miguel». Él corrige en segundos y queda escrito. Si quedó en audio, no quedó. ¿Audio o texto? Escríbeme PRUEBA por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Contesta el audio de 3 minutos sin escucharlo dos veces: apunta qué, cuándo y dónde, y responde en texto numerado. Si quedó en audio, no quedó. ¿Audio o texto? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+        "fb": "El audio de tres minutos también es un pedido. Se escucha una vez con el dedo listo y se confirma en texto numerado. Lo hablado no existe hasta que se escribe. ¿Audio o texto?"
+      },
+      "alt": "Celular de noche reproduciendo un audio largo con el titular sobre contestarlo sin escucharlo dos veces."
+    },
+    {
+      "slug": "05-vendiste-lo-mismo-dos-veces",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "papeles",
+          "kicker": "ORDENANDO EL NEGOCIO",
+          "h": "Vendiste lo mismo dos veces y *los dos clientes* ya vienen",
+          "b": "parte 1 de 4"
+        },
+        {
+          "role": "value",
+          "label": "POR QUÉ",
+          "h": "Dos *cuadernos*",
+          "b": "Uno apuntó en su celular, el otro en el suyo."
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "*Una sola* lista donde se escribe",
+          "b": "Las demás solo se leen.",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "value",
+          "label": "CADA COSA",
+          "h": "Con *estado* y nombre",
+          "b": "Libre, separado o vendido. Y quién lo cambió."
+        },
+        {
+          "role": "value",
+          "label": "EJEMPLOS",
+          "h": "Lo que se vende *una vez*",
+          "b": "· Un carro\n· Una fecha de boda\n· Un depa",
+          "photo": "autos-lote"
+        },
+        {
+          "role": "closer",
+          "h": "Una lista, *un estado*, cero papelones",
+          "b": "Escríbeme FUGA por DM y armamos tu inventario en un solo lugar, para todo el equipo."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo llevar el control del inventario de mi negocio para no vender lo mismo dos veces. La doble venta nace de dos cuadernos: uno apuntó en su celular y el otro en el suyo. Una sola lista donde se escribe y las demás solo se leen, cada cosa con su estado (libre, separado, vendido) y quién lo cambió. Parte 1 de ordenando el negocio. ¿Te pasó? Escríbeme FUGA por DM. #negociopropio #emprendedoresperu",
+        "tt": "Vendiste lo mismo dos veces y los dos clientes ya vienen. Una sola lista donde se escribe, las demás solo se leen. Ordenando el negocio, parte 1. ¿Te pasó? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "La doble venta no es descuido: es tener dos cuadernos. Una sola lista donde se escribe, con estado y con nombre de quien lo cambió. ¿Te pasó?"
+      },
+      "alt": "Papeles y apuntes de un negocio con el titular sobre vender lo mismo dos veces, parte 1 de ordenando el negocio."
+    },
+    {
+      "slug": "06-ya-no-hay-regala-la-venta",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "mostrador",
+          "kicker": "ORDENANDO EL NEGOCIO",
+          "h": "Respondes «ya no hay» y *regalas la venta*",
+          "b": "parte 2 de 4"
+        },
+        {
+          "role": "value",
+          "label": "OJO",
+          "h": "«Ya no hay» es *un no completo*",
+          "b": "Venía decidido. Le cerraste la puerta."
+        },
+        {
+          "role": "value",
+          "label": "COPIA",
+          "h": "Con *salida*",
+          "b": "«Ese salió. Tengo dos parecidos, ¿te paso fotos?»",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "SI NO HAY",
+          "h": "*Lista de espera*",
+          "b": "«Me entra algo así en días, ¿te aviso primero?»"
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Lo agotado *sale del catálogo*",
+          "b": "Antes de que lo pidan, no después.",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "closer",
+          "h": "Nunca más un «ya no hay» *pelado*",
+          "b": "Escríbeme PLAN por DM y tu stock y tu chat se ponen de acuerdo solos."
+        }
+      ],
+      "caption": {
+        "ig": "Qué responder por WhatsApp cuando se acabó el producto. «Ya no hay» es un no completo a alguien que venía decidido. La respuesta con salida: «ese salió, tengo dos parecidos, ¿te paso fotos?», y si no hay parecido, lista de espera: «me entra algo así en días, ¿te aviso primero?». Parte 2 de ordenando el negocio. ¿Qué respondes cuando se acabó? Escríbeme PLAN por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Respondes «ya no hay» y regalas la venta. La respuesta con salida y la lista de espera, listas para copiar. Ordenando el negocio, parte 2. ¿Qué respondes cuando se acabó? Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "El cliente venía decidido y «ya no hay» le cerró la puerta sin ofrecerle la de al lado. Dos parecidos o una lista de espera, siempre. ¿Qué respondes cuando se acabó?"
+      },
+      "alt": "Mostrador con estantes casi vacíos y el titular sobre responder ya no hay, parte 2 de ordenando el negocio."
+    },
+    {
+      "slug": "07-cuanto-dura-un-te-lo-separo",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "llaves-casa",
+          "kicker": "ORDENANDO EL NEGOCIO",
+          "h": "¿Cuánto tiempo dura un «te lo separo»? *Ponle reloj*",
+          "b": "parte 3 de 4"
+        },
+        {
+          "role": "value",
+          "label": "SIN RELOJ",
+          "h": "El separado *no vende ni libera*",
+          "b": "Ni a él ni al siguiente."
+        },
+        {
+          "role": "value",
+          "label": "LA REGLA",
+          "h": "Separado *con vencimiento*",
+          "b": "«Te lo guardo hasta el jueves a las 6»",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "value",
+          "label": "AL VENCER",
+          "h": "Vuelve a *libre* solo",
+          "b": "Y el segundo de la fila recibe el aviso."
+        },
+        {
+          "role": "value",
+          "label": "EL PLAZO",
+          "h": "Por *rubro*",
+          "b": "· Torta: horas\n· Auto: días\n· Depa: semana",
+          "photo": "autos-llaves"
+        },
+        {
+          "role": "closer",
+          "h": "El «te lo separo» *tiene reloj*",
+          "b": "Escríbeme PRUEBA por DM y el separado vence y avisa al siguiente, sin que nadie mire el reloj."
+        }
+      ],
+      "caption": {
+        "ig": "Cuánto tiempo mantener un producto separado para un cliente. Sin reloj, el separado no vende ni libera. La regla: separado con vencimiento («te lo guardo hasta el jueves a las 6»), al vencer vuelve a libre solo y el segundo de la fila recibe el aviso. El plazo depende del rubro. Parte 3 de ordenando el negocio. ¿Cuánto das tú? Escríbeme PRUEBA por DM. #negociopropio #emprendedoresperu",
+        "tt": "¿Cuánto dura un «te lo separo»? Ponle reloj: vence, vuelve a libre y avisa al siguiente. Ordenando el negocio, parte 3. ¿Cuánto das tú? Escríbeme PRUEBA por DM. #negociopropio",
+        "fb": "Un «te lo separo» sin vencimiento no vende ni libera: ni a él ni al siguiente. Con hora de vencimiento vuelve a libre solo y el segundo en la fila se entera primero. ¿Cuánto das tú?"
+      },
+      "alt": "Llaves sobre una mesa con el titular sobre cuánto dura un te lo separo, parte 3 de ordenando el negocio."
+    },
+    {
+      "slug": "08-asi-se-ve-un-pedido-ordenado",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "restaurante-cocina",
+          "kicker": "ORDENANDO EL NEGOCIO",
+          "h": "Así se ve un pedido cuando tu negocio *está ordenado*",
+          "b": "parte 4 de 4: de «hola» a entregado"
+        },
+        {
+          "role": "value",
+          "label": "ENTRA",
+          "h": "Con fecha y *dueño*",
+          "b": "Quién lo atiende, para cuándo, en tu lista."
+        },
+        {
+          "role": "value",
+          "label": "SE COBRA",
+          "h": "Y se *confirma solo*",
+          "b": "Captura recibida, pedido apartado.",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "SE ENTREGA",
+          "h": "Con *aviso* antes",
+          "b": "«Sale hoy a las 4» sin que nadie lo escriba."
+        },
+        {
+          "role": "value",
+          "label": "AL DÍA SIGUIENTE",
+          "h": "Sale el *«¿llegó bien?»*",
+          "b": "Y ahí nace la segunda venta.",
+          "photo": "mostrador"
+        },
+        {
+          "role": "closer",
+          "h": "De «hola» a «llegó bien» *sin apuntar nada*",
+          "b": "Escríbeme FUGA por DM y armamos el proceso completo, empezando por un paso chico."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo organizar los pedidos de mi negocio de principio a fin. Entra con fecha y dueño, se cobra y se confirma solo con la captura, se entrega con aviso antes y al día siguiente sale el «¿llegó bien?» donde nace la segunda venta. Parte 4 de ordenando el negocio. ¿En qué paso se te cae? Escríbeme FUGA por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Así se ve un pedido cuando el negocio está ordenado: entra con dueño, se cobra solo, se entrega con aviso y al día siguiente pregunta si llegó bien. Parte 4. ¿En qué paso se te cae? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "De «hola» a «llegó bien» sin que nadie apunte nada: fecha y dueño al entrar, confirmación sola al cobrar, aviso al entregar y el mensaje del día siguiente. ¿En qué paso se te cae?"
+      },
+      "alt": "Cocina de restaurante en orden con el titular sobre cómo se ve un pedido cuando el negocio está ordenado, parte 4."
+    },
+    {
+      "slug": "09-las-3-plantillas-de-cierre",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "cuaderno",
+          "h": "Las 3 plantillas de cierre, *listas para copiar*",
+          "b": "tu mejor vendedor es un mensaje guardado"
+        },
+        {
+          "role": "value",
+          "label": "OPCIONES",
+          "h": "Cópiala *tal cual*",
+          "b": "«Tengo A y B. ¿Cuál va contigo?»"
+        },
+        {
+          "role": "value",
+          "label": "AGENDA",
+          "h": "La que *más cierra*",
+          "b": "«¿Mañana o el jueves? Te reservo»",
+          "photo": "mostrador"
+        },
+        {
+          "role": "value",
+          "label": "SEPARAR",
+          "h": "El *empujón*",
+          "b": "«¿Lo separamos de una vez?»"
+        },
+        {
+          "role": "value",
+          "label": "NUNCA",
+          "h": "«Última unidad» *si no es verdad*",
+          "b": "Se nota, y no vuelven.",
+          "photo": "papeles"
+        },
+        {
+          "role": "closer",
+          "h": "Los cierres *salen solos* en cada chat",
+          "b": "Escríbeme PLAN por DM y cada chat llega con su plantilla de cierre lista."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo cerrar ventas por WhatsApp con tres mensajes listos para copiar. Opciones: «tengo A y B, ¿cuál va contigo?». Agenda: «¿mañana o el jueves? te reservo». El empujón: «¿lo separamos de una vez?». Y nunca «última unidad» si no es verdad, porque se nota. ¿Cuál usas más? Escríbeme PLAN por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Las 3 plantillas de cierre listas para copiar: opciones, agenda y el empujón. Nunca «última unidad» si no es verdad. ¿Cuál usas más? Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "Tu mejor vendedor es un mensaje que ya tienes escrito: «tengo A y B, ¿cuál va contigo?», «¿mañana o el jueves?», «¿lo separamos de una vez?». ¿Cuál usas más?"
+      },
+      "alt": "Cuaderno abierto con mensajes apuntados y el titular sobre las tres plantillas de cierre listas para copiar."
+    },
+    {
+      "slug": "10-tu-respuesta-automatica-espanta",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "celular-noche",
+          "h": "Tu respuesta automática dice «estimado usuario» y *espanta*"
+        },
+        {
+          "role": "value",
+          "label": "ASÍ NO",
+          "h": "«Estimado usuario, *mensaje procesado*»",
+          "b": "Nadie habla así. Ni tú."
+        },
+        {
+          "role": "value",
+          "label": "ASÍ SÍ",
+          "h": "Tu nombre y *una hora*",
+          "b": "«Soy Carla. Te respondo antes de las 9»",
+          "photo": "mostrador"
+        },
+        {
+          "role": "value",
+          "label": "ASÍ NO",
+          "h": "Diez preguntas *de formulario*",
+          "b": "Es un interrogatorio de madrugada."
+        },
+        {
+          "role": "value",
+          "label": "ASÍ SÍ",
+          "h": "*Una* pregunta",
+          "b": "«¿Para cuándo? Si es urgente, escribe URGENTE»",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "closer",
+          "h": "Automático por fuera, *tú* por dentro",
+          "b": "Escríbeme PRUEBA por DM y escribimos tu guion: suena a ti y siempre termina en una persona."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo escribir el mensaje automático de WhatsApp Business de mi negocio. Así no: «estimado usuario, mensaje procesado» y diez preguntas de formulario. Así sí: tu nombre, una hora en la que respondes y una sola pregunta con salida a persona si es urgente. ¿Qué dice el tuyo hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp #negociopropio",
+        "tt": "Tu respuesta automática dice «estimado usuario» y espanta. Así sí: tu nombre, una hora y una sola pregunta. ¿Qué dice el tuyo hoy? Escríbeme PRUEBA por DM. #ventasporwhatsapp",
+        "fb": "«Estimado usuario, mensaje procesado». Nadie habla así, ni tú. El mensaje automático que funciona lleva tu nombre, una hora y una sola pregunta. ¿Qué dice el tuyo hoy?"
+      },
+      "alt": "Celular de noche mostrando un mensaje automático y el titular sobre la respuesta que dice estimado usuario."
+    },
+    {
+      "slug": "11-el-llego-bien-del-dia-siguiente",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "taller",
+          "h": "El mensaje del día siguiente que casi nadie manda: *«¿llegó bien?»*"
+        },
+        {
+          "role": "value",
+          "label": "DÍA SIGUIENTE",
+          "h": "Cópialo *tal cual*",
+          "b": "«¿Llegó todo bien? ¿Alguna duda con lo tuyo?»"
+        },
+        {
+          "role": "value",
+          "label": "SI CONTESTA FELIZ",
+          "h": "Pide *ahí mismo*",
+          "b": "«¿Conoces a alguien buscando esto?»",
+          "photo": "mostrador"
+        },
+        {
+          "role": "value",
+          "label": "SI HAY PROBLEMA",
+          "h": "Lo salvas *antes* del reclamo",
+          "b": "En privado, no en tu Instagram."
+        },
+        {
+          "role": "value",
+          "label": "POR QUÉ",
+          "h": "El atendido *después de pagar*",
+          "b": "Es el que te recomienda.",
+          "photo": "papeles"
+        },
+        {
+          "role": "closer",
+          "h": "El «¿llegó bien?» *sale solo* al día siguiente",
+          "b": "Escríbeme FUGA por DM y cada entrega dispara su mensaje y guarda la respuesta."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo conseguir recomendaciones de clientes en mi negocio con un solo mensaje. Al día siguiente de entregar: «¿llegó todo bien? ¿alguna duda con lo tuyo?». Si contesta feliz, pides ahí mismo si conoce a alguien buscando esto; si hay problema, lo salvas en privado antes del reclamo público. El atendido después de pagar es el que te recomienda. ¿Tú lo mandas? Escríbeme FUGA por DM. #negociopropio #emprendedoresperu",
+        "tt": "El «¿llegó bien?» del día siguiente vende más que tu publicidad: si contesta feliz pides el referido ahí mismo, si hay problema lo salvas antes del reclamo. ¿Tú lo mandas? Escríbeme FUGA por DM. #negociopropio",
+        "fb": "El cliente atendido después de pagar es el que te recomienda. Un mensaje al día siguiente de entregar abre el referido o salva el reclamo antes de que sea público. ¿Tú lo mandas?"
+      },
+      "alt": "Taller con un trabajo terminado y el titular sobre el mensaje del día siguiente que vende más que la publicidad."
+    },
+    {
+      "slug": "12-no-bajes-tu-precio-contesta-primero",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "mostrador",
+          "h": "No bajes tu precio para ganar la venta. *Contesta primero.*"
+        },
+        {
+          "role": "value",
+          "label": "LO CARO",
+          "h": "Bajar el precio *regala margen*",
+          "b": "Al que solo te ganó en velocidad."
+        },
+        {
+          "role": "value",
+          "label": "LO BARATO",
+          "h": "Contestar *primero*",
+          "b": "Al que le contestan primero deja de comparar.",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "ESTA SEMANA",
+          "h": "Precio *o* hora",
+          "b": "Si no tienes el número, da la hora."
+        },
+        {
+          "role": "value",
+          "label": "Y MIDE",
+          "h": "En cuánto *contestas* de verdad",
+          "b": "Un sábado. A las 11 de la noche.",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "closer",
+          "h": "Contestar primero *se automatiza*, el descuento se paga",
+          "b": "Escríbeme PLAN por DM y armamos que la primera respuesta salga sola con su pregunta, y el cliente entre calificado a tu lista."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo vender más por WhatsApp sin bajar el precio. Bajar el precio regala margen a alguien que solo te ganó en velocidad: al que le contestan primero deja de comparar. Esta semana da precio o da hora, nunca silencio, y mide en cuánto contestas de verdad un sábado a las 11 de la noche. ¿Precio o rapidez? Escríbeme PLAN por DM. #ventasporwhatsapp #emprendedoresperu",
+        "tt": "No bajes tu precio, contesta primero: al que le contestan primero deja de comparar. Precio o hora, nunca silencio. ¿Precio o rapidez? Escríbeme PLAN por DM. #ventasporwhatsapp",
+        "fb": "El descuento es la jugada más cara: regalas margen a alguien que solo te ganaba en velocidad. Al que le contestan primero deja de comparar. ¿Precio o rapidez?"
+      },
+      "alt": "Mostrador de negocio con el titular sobre no bajar el precio y contestar primero."
+    },
+    {
+      "slug": "13-tres-etiquetas-antes-de-la-campana",
+      "slides": [
+        {
+          "role": "cover",
+          "photo": "papeles",
+          "kicker": "CAMPAÑA NAVIDEÑA",
+          "h": "Esta noche etiqueta 20 contactos con *estas 3 etiquetas*"
+        },
+        {
+          "role": "value",
+          "label": "ETIQUETA 1",
+          "h": "*Compró* este año",
+          "b": "Le escribes primero en diciembre."
+        },
+        {
+          "role": "value",
+          "label": "ETIQUETA 2",
+          "h": "*Preguntó* y nada",
+          "b": "Le escribes con algo nuevo.",
+          "photo": "celular-noche"
+        },
+        {
+          "role": "value",
+          "label": "ETIQUETA 3",
+          "h": "*Recurrente*",
+          "b": "Le escribes para agradecer, no para vender."
+        },
+        {
+          "role": "value",
+          "label": "Y LOS DEMÁS",
+          "h": "Sin nombre: *bautiza o borra*",
+          "b": "Más de un año sin hablar: archiva.",
+          "photo": "cuaderno"
+        },
+        {
+          "role": "closer",
+          "h": "Las etiquetas *se ponen solas* al entrar",
+          "b": "Escríbeme PLAN por DM y cada contacto entra clasificado, con su historia y su fecha."
+        }
+      ],
+      "caption": {
+        "ig": "Cómo ordenar los contactos de WhatsApp de mi negocio antes de la campaña navideña. Tres etiquetas bastan: compró este año (le escribes primero), preguntó y nada (le escribes con algo nuevo) y recurrente (le escribes para agradecer, no para vender). Los sin nombre se bautizan o se borran. Guárdalo para la noche que limpies tus contactos. Escríbeme PLAN por DM. #negociopropio #ventasporwhatsapp",
+        "tt": "Esta noche etiqueta 20 contactos con 3 etiquetas: compró este año, preguntó y nada, recurrente. Los sin nombre, bautiza o borra. ¿Cuántos contactos sin nombre tienes? Escríbeme PLAN por DM. #negociopropio",
+        "fb": "La campaña navideña sale al voleo si la lista no tiene etiquetas. Tres bastan: compró este año, preguntó y nada, recurrente. Los sin nombre se bautizan o se borran. ¿Cuántos contactos sin nombre tienes?"
+      },
+      "alt": "Papeles con listas de contactos y el titular sobre etiquetar veinte contactos esta noche con tres etiquetas."
+    },
+    {
+      "slug": "14-cuenta-los-hola-informacion",
       "slides": [
         {
           "role": "cover",
@@ -49,54 +670,6 @@
         "fb": "Busca «información» en la lupa de tu WhatsApp y cuenta los que quedaron sin respuesta. Cada uno vino de un post o de un anuncio que ya pagaste. ¿Cuántos contaste?"
       },
       "alt": "Celular de noche con la búsqueda de WhatsApp abierta y el titular sobre contar los hola información sin responder."
-    },
-    {
-      "slug": "02-cobra-el-fin-de-mes-sin-pelear",
-      "slides": [
-        {
-          "role": "cover",
-          "photo": "mostrador",
-          "kicker": "FIN DE MES",
-          "h": "Cobra el fin de mes sin pelear: *el recordatorio va antes*"
-        },
-        {
-          "role": "value",
-          "label": "ANTES",
-          "h": "Tres días *antes*",
-          "b": "«El viernes vence lo tuyo. ¿Te mando el número?»"
-        },
-        {
-          "role": "value",
-          "label": "EL DÍA",
-          "h": "Sin *reproche*",
-          "b": "«Hoy vence. Con la captura te confirmo al toque»",
-          "photo": "celular-noche"
-        },
-        {
-          "role": "value",
-          "label": "SI NO PAGA",
-          "h": "Termina con *fecha nueva*",
-          "b": "«¿El lunes te queda bien?» y lo apuntas."
-        },
-        {
-          "role": "value",
-          "label": "LA REGLA",
-          "h": "Cobrar es una *secuencia*",
-          "b": "No un impulso cuando te acuerdas.",
-          "photo": "cuaderno"
-        },
-        {
-          "role": "closer",
-          "h": "El recordatorio *sale antes* sin que te acuerdes",
-          "b": "Escríbeme FUGA por DM y armamos tu cobranza: antes, el día y la fecha nueva, solos."
-        }
-      ],
-      "caption": {
-        "ig": "Cómo cobrar a clientes a fin de mes sin pelear. El recordatorio va tres días antes («el viernes vence lo tuyo, ¿te mando el número?»), el día sin reproche («hoy vence, con la captura te confirmo al toque») y si no paga termina con fecha nueva apuntada. Cobrar es una secuencia, no un impulso cuando te acuerdas. ¿Cobras antes o después? Escríbeme FUGA por DM. #negociopropio #emprendedoresperu",
-        "tt": "Cobra el fin de mes sin pelear: recordatorio tres días antes, el día sin reproche, y si no paga, fecha nueva. Cobrar es una secuencia. ¿Cobras antes o después? Escríbeme FUGA por DM. #negociopropio",
-        "fb": "Cobrar es una secuencia, no un impulso cuando te acuerdas: tres días antes, el día, y una fecha nueva si no paga. Ninguno de los tres mensajes pelea. ¿Cobras antes o después?"
-      },
-      "alt": "Mostrador de negocio a fin de mes con el titular sobre cobrar sin pelear porque el recordatorio va antes."
     }
   ]
 }
